@@ -1,0 +1,1781 @@
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiioooooooooooooooooooooooooooooooooooRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiivvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv                                   ppppppppppppppppppppppppppppppppppprrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrreeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeppppppppppppppppppppppppppppppppppprrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrriiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnttttttttttttttttttttttttttttttttttt                                   dddddddddddddddddddddddddddddddddddoooooooooooooooooooooooooooooooooooiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii:::::::::::::::::::::::::::::::::::                                   hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttpppppppppppppppppppppppppppppppppppsssssssssssssssssssssssssssssssssss::::::::::::::::::::::::::::::::::://////////////////////////////////////////////////////////////////////dddddddddddddddddddddddddddddddddddoooooooooooooooooooooooooooooooooooiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii...................................ooooooooooooooooooooooooooooooooooorrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrggggggggggggggggggggggggggggggggggg///////////////////////////////////1111111111111111111111111111111111100000000000000000000000000000000000...................................11111111111111111111111111111111111111111111111111111111111111111111110000000000000000000000000000000000011111111111111111111111111111111111///////////////////////////////////22222222222222222222222222222222222000000000000000000000000000000000002222222222222222222222222222222222233333333333333333333333333333333333...................................0000000000000000000000000000000000033333333333333333333333333333333333...................................0000000000000000000000000000000000088888888888888888888888888888888888...................................555555555555555555555555555555555553333333333333333333333333333333333311111111111111111111111111111111111777777777777777777777777777777777770000000000000000000000000000000000055555555555555555555555555555555555;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;                                   ttttttttttttttttttttttttttttttttttthhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiisssssssssssssssssssssssssssssssssss                                   vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvveeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeerrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrsssssssssssssssssssssssssssssssssssiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiooooooooooooooooooooooooooooooooooonnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn                                   pppppppppppppppppppppppppppppppppppooooooooooooooooooooooooooooooooooosssssssssssssssssssssssssssssssssssttttttttttttttttttttttttttttttttttteeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeddddddddddddddddddddddddddddddddddd                                   MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaarrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrccccccccccccccccccccccccccccccccccchhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh                                   99999999999999999999999999999999999,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,                                   22222222222222222222222222222222222000000000000000000000000000000000002222222222222222222222222222222222233333333333333333333333333333333333...................................                                   TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTThhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhheeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee                                   cccccccccccccccccccccccccccccccccccooooooooooooooooooooooooooooooooooopppppppppppppppppppppppppppppppppppyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrriiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiggggggggggggggggggggggggggggggggggghhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhttttttttttttttttttttttttttttttttttt                                   hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhooooooooooooooooooooooooooooooooooollllllllllllllllllllllllllllllllllldddddddddddddddddddddddddddddddddddeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeerrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr                                   fffffffffffffffffffffffffffffffffffooooooooooooooooooooooooooooooooooorrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr                                   ttttttttttttttttttttttttttttttttttthhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiisssssssssssssssssssssssssssssssssss                                   ppppppppppppppppppppppppppppppppppprrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrreeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeppppppppppppppppppppppppppppppppppprrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrriiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnttttttttttttttttttttttttttttttttttt
+(((((((((((((((((((((((((((((((((((wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiccccccccccccccccccccccccccccccccccchhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh                                   wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasssssssssssssssssssssssssssssssssss                                   nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnooooooooooooooooooooooooooooooooooottttttttttttttttttttttttttttttttttt                                   ccccccccccccccccccccccccccccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeerrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrtttttttttttttttttttttttttttttttttttiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiifffffffffffffffffffffffffffffffffffiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiieeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeddddddddddddddddddddddddddddddddddd                                   bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy                                   pppppppppppppppppppppppppppppppppppeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeerrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr                                   rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrreeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeevvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvviiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiieeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeewwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww)))))))))))))))))))))))))))))))))))                                   iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiisssssssssssssssssssssssssssssssssss                                   ttttttttttttttttttttttttttttttttttthhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhheeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee                                   aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaauuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuttttttttttttttttttttttttttttttttttthhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhooooooooooooooooooooooooooooooooooorrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr///////////////////////////////////fffffffffffffffffffffffffffffffffffuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuunnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnndddddddddddddddddddddddddddddddddddeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeerrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr...................................                                   AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll                                   rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrriiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiggggggggggggggggggggggggggggggggggghhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhtttttttttttttttttttttttttttttttttttsssssssssssssssssssssssssssssssssss                                   rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrreeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeessssssssssssssssssssssssssssssssssseeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeerrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvveeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeddddddddddddddddddddddddddddddddddd...................................                                   NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNooooooooooooooooooooooooooooooooooo                                   rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrreeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuussssssssssssssssssssssssssssssssssseeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee                                   aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaallllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllooooooooooooooooooooooooooooooooooowwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwweeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeddddddddddddddddddddddddddddddddddd                                   wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiittttttttttttttttttttttttttttttttttthhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhooooooooooooooooooooooooooooooooooouuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuttttttttttttttttttttttttttttttttttt                                   pppppppppppppppppppppppppppppppppppeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeerrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiissssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiooooooooooooooooooooooooooooooooooonnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn...................................                                   
+Adhesion-based  capture  stabilizes  nascent  microvilli  at 
+1 
+epithelial cell junctions 
+2 
+3   
+4  Caroline S. Cencer1, Jennifer B. Silverman1, Leslie M. Meenderink1, Evan S. Krystofiak1, 
+5  Bryan A. Millis2, and Matthew J. Tyska1,3 
+6   
+7  1Department of Cell and Developmental Biology 
+8  Vanderbilt University School of Medicine 
+9  Nashville, TN 37232 
+10   
+11  2Department of Biomedical Engineering 
+12  Vanderbilt University School of Engineering 
+13  Nashville, TN 37235 
+14   
+15  3Lead Contact 
+16   
+17  Keywords:  transporting  epithelia,  actin,  cadherins,  differentiation,  brush  border, 
+18  intermicrovillar adhesion 
+19   
+20  Word count: 6,565 words (includes Introduction, Results, Discussion, Figure Legends) 
+21   
+22  To whom correspondence should be addressed: 
+23  Matthew J. Tyska, Ph.D. 
+24  Department of Cell and Developmental Biology 
+25  Vanderbilt University School of Medicine 
+26  T-2212 Medical Center North 
+27  465 21st Avenue South 
+28  Nashville, TN 37240-7935 
+29  Office: 615-936-5461 
+30  Email: matthew.tyska@vanderbilt.edu 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531705; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+31  SUMMARY 
+32  Differentiated transporting epithelial cells present an extensive apical array of microvilli – 
+33  a “brush border” – where neighboring microvilli are linked together by intermicrovillar 
+34  adhesion  complexes  (IMACs)  composed  of  protocadherins  CDHR2  and  CDHR5. 
+35  Although loss-of-function studies provide strong evidence that IMAC function is needed 
+36  to  build  a  mature  brush  border,  how  the  IMAC  contributes  to  the  stabilization  and 
+37  accumulation of nascent microvilli remains unclear. We found that, early in differentiation, 
+38  the apical surface exhibits a marginal accumulation of microvilli, characterized by higher 
+39  packing density relative to medial regions of the surface. While medial microvilli are highly 
+40  dynamic  and  sample  multiple  orientations  over  time,  marginal  protrusions  exhibit 
+41  constrained motion and maintain a vertical orientation. Unexpectedly, we found that 
+42  marginal microvilli span the junctional space and contact protrusions on neighboring cells, 
+43  mediated  by  complexes  of  CDHR2/CDHR5.  FRAP  analysis  indicated  that  these 
+44  transjunctional IMACs are highly stable relative to adhesion complexes between medial 
+45  microvilli, which explains the restricted motion of protrusions in the marginal zone. Finally, 
+46  long-term  live  imaging  revealed  that  the  accumulation  of  microvilli  at  cell  margins 
+47  consistently leads to accumulation in medial regions of the cell. Collectively, our findings 
+48  suggest that nascent microvilli are stabilized by a capture mechanism that is localized to 
+49  cell margins and enabled by the transjunctional formation of IMACs. These results inform 
+50  our understanding of how apical specializations are assembled in diverse epithelial 
+51  systems. 
+52     
+  2 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531705; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+53  INTRODUCTION 
+54  Organ function depends on specialized cell types that have evolved morphologies to 
+55  enable specific physiological tasks. Transporting epithelial cells, found in the intestine and 
+56  kidney proximal tubule, offer interesting examples of this phenomenon. As important sites 
+57  of solute uptake, maximizing apical surface area is a critical facet of these tissues. To 
+58  meet  this  challenge,  epithelial  cells  extend  1000s  of  bristle-like  protrusions  called 
+59  microvilli, which pack tightly into a highly ordered array to collectively form a brush border 
+60  [1,  2].  A  single  microvillus  is  a  cylinder-shaped,  micron-scale  membrane  protrusion 
+61  supported by a core actin bundle consisting of 20-40 actin filaments  [3, 4]. By scaffolding 
+62  apical membrane in this way, microvilli amplify surface area available for solute transport 
+63  and optimize solute uptake potential [5-7]. Microvilli first appear on the cell surface very 
+64  early in epithelial maturation; differentiating cells, like those found within intestinal stem 
+65  cell-containing crypts, exhibit few, poorly organized microvilli [8]. However, differentiated, 
+66  fully functional enterocytes, found on the villus or within the kidney tubule, present a well-
+67  organized brush border consisting of densely packed protrusions [3, 9, 10].  
+68  Several previous studies established that tight microvillar packing is driven by a 
+69  protocadherin-based intermicrovillar adhesion complex (IMAC), which physically links the 
+70  distal tip of a microvillus to the tips of its neighboring microvilli [11-14]. In the case of the 
+71  enterocyte, these adhesive interactions give rise to a hexagonal packing pattern when 
+72  viewed en face, which represents maximum surface occupancy. Previous work also 
+73  identified protocadherins CDHR2 and CDHR5 as the primary adhesive elements in these 
+74  links, which form trans heterophilic adhesion complexes that are well suited for bridging 
+75  the  ~50  nm  gap  between  neighboring  microvilli  [11,  15].    CDHR2  and  CDHR5 
+76  ectodomains  contain  multiple  extracellular  cadherin  (EC)  repeat  motifs  arranged  in 
+77  tandem, which are anchored to the membrane via a single spanning transmembrane 
+78  domain [16]. Both protocadherins also contain cytoplasmic tails at their C-termini, which 
+79  enable direct interactions with cytoplasmic IMAC binding partners including the actin-
+80  based motor, myosin-7B (MYO7B), and the scaffolding proteins, ankyrin repeat and 
+81  sterile alpha motif domain containing 4B (ANKS4B) and usher syndrome 1C (USH1C) 
+82  [12, 13, 17, 18]. Recently, calmodulin-like protein 4 (CALML4) was identified as a direct 
+83  binding partner of MYO7B, making it an additional IMAC component [19]. KD studies of 
+  3 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531705; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+84  MYO7B indicate that this motor plays a key role in the localization of CDHR2/CDHR5 
+85  adhesion complexes to the distal tips of microvilli [12, 13]. In the differentiating CACO-
+86  2BBE intestinal epithelial cell culture model, disrupting the function of the IMAC via calcium 
+87  chelators or knockdown of any single complex component leads to striking defects in 
+88  microvillar  growth  and  packing  organization  during  differentiation  [11-13,  19]. 
+89  Furthermore, complete loss of CDHR2 from intestinal and kidney epithelia in a villin-Cre 
+90  driven knockout (KO) mouse, causes shortening and loss of brush border microvilli, a 
+91  consequential decrease in the apical enrichment of key solute transporters, and reduced 
+92  animal growth rate [14]. 
+93  How new microvilli assemble and incorporate into a highly ordered brush border 
+94  during differentiation remains unclear. Ultrastructural studies of native tissue and time-
+95  lapse  imaging  of  epithelial  cell  culture  models  indicate  that  microvilli  do  not  grow 
+96  synchronously,  but  instead  appear  stochastically  on  the  apical  surface  throughout 
+97  differentiation [8, 11, 20]. One critical factor that promotes microvillar growth is the barbed 
+98  end binder, epidermal growth factor receptor pathway substrate 8 (EPS8) [20, 21]. 
+99  Previous studies in multiple epithelial and non-epithelial systems have established that 
+100  EPS8 is a highly specific marker of the distal ends of all forms of actin bundle supported 
+101  protrusions [22-25]. Loss of this factor leads to shorter protrusions and increased length 
+102  variability [26, 27]. Strikingly, on the apical surface of differentiating epithelial cells, EPS8 
+103  arrives in diffraction-limited puncta at the membrane minutes before the subsequent 
+104  growth of a core actin bundle and assembly of a microvillus at these sites [20]. Even once 
+105  a core bundle begins to elongate, EPS8 puncta remain persistently associated with the 
+106  distal end of the nascent structure. Following their initial growth, nascent microvilli are 
+107  highly motile and translocate across the apical surface via a mechanism powered by 
+108  treadmilling of the underlying core actin bundle [28], an activity that is also regulated by 
+109  EPS8 [28]. Remarkably, if the distal tip of a newly formed microvillus loses its EPS8 
+110  punctum, that structure rapidly collapses, suggesting that EPS8 serves as a microvillus 
+111  survival  factor  [20].  These  data  also  point  to  a  previously  unrecognized  dynamic 
+112  microvillus lifecycle, consisting of distinct phases of structural stability and instability. For 
+113  microvilli to eventually accumulate in large numbers on the apical surface, this cycle must 
+  4 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531705; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+114  ultimately tilt in favor of stability. However, how dynamic, nascent microvilli are stabilized 
+115  on the apical surface so that they eventually accumulate long-term remains unknown.  
+116  Here we report our discovery of an adhesion-based mechanism that epithelial cells 
+117  use to stabilize and in turn, drive the accumulation of microvilli during differentiation. 
+118  Because microvillar growth takes place as differentiating enterocytes move through the 
+119  crypt-villus transition [8], we reasoned that we could gain insight on mechanisms of 
+120  microvilli accumulation by careful inspection of apical morphology in this region. Using 
+121  this approach, we discovered that crypt microvilli initially accumulate at cell margins, 
+122  implying the existence of a mechanism for anchoring nascent protrusions at these sites. 
+123  We observed similar marginal accumulation of microvilli on the surface of differentiating 
+124  intestinal and kidney epithelial cell lines. In all models examined, microvilli extending from 
+125  one cell span intercellular space to make physical contact with microvilli on a neighboring 
+126  cell. Using super-resolution microscopy, mechanistic studies in epithelial cell culture 
+127  models, and live imaging, we determined that these points of physical contact represent 
+128  “transjunctional IMACs” containing both CDHR2 and CDHR5, which are highly stable 
+129  complexes that capture nascent microvilli and constrain their motion. Consistent with this 
+130  point,  long-term  live  imaging  revealed  that  microvilli  accumulation  at  cell  margins 
+131  outpaces accumulation in medial regions of the surface early in differentiation. Thus, 
+132  microvilli extending from neighboring epithelial cells participate in a novel form of epithelial 
+133  cell-cell contact that promotes apical surface maturation. The adhesion-based capture 
+134  mechanism reported is likely to inform our understanding of apical morphogenesis in 
+135  other epithelial cell types that build surface specializations. 
+136   
+137  RESULTS 
+138  Differentiating epithelial cells exhibit a marginal enrichment of microvilli  
+139  To begin to understand how microvilli are stabilized and accumulate in large numbers 
+140  during differentiation, we first examined the distribution of nascent protrusions early in the 
+141  maturation process. To this end, we used scanning electron microscopy (SEM) to survey 
+142  the apical surface of the crypt cells in fractured samples of mouse small intestine. Within 
+143  the crypt, where immature enterocytes are actively assembling a brush border (Fig. 1A, 
+144  zoom), we noted a striking enrichment of microvilli at cell margins (Fig. 1B, zoom 1 and 
+  5 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531705; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+145  2 blue outlines). In contrast, medial regions of the apical surface presented only a few, 
+146  sparse microvilli (Fig. 1B). Thus, in vivo, microvilli appear to accumulate at the edges of 
+147  cells during the early stages of brush border assembly.  
+148  To determine if the marginal accumulation of microvilli that we observed on the 
+149  surface of differentiating crypt cells in vivo could be recapitulated in vitro, we first turned 
+150  to the CACO-2BBE line. CACO-2BBE cells are a human intestinal epithelial cell culture 
+151  model that builds a well-organized brush border over the course of several weeks at post-
+152  confluency [29]. SEM imaging of CACO-2BBE cells early in the differentiation time-course 
+153  revealed a concentration of microvilli at cell margins similar to that observed in native 
+154  crypts (Fig 1C). Moreover, protrusions in these regions appeared to span cell junctions 
+155  and make physical contact with structures on neighboring cells (Fig. 1C, zoom blue 
+156  arrows). As an additional point of comparison, we also examined SEM images of sub-
+157  confluent porcine kidney proximal tubule LLC-PK1 clone 4 (CL4) cells [30], which also 
+158  exhibited a marginal accumulation of microvilli (Fig. 1D, zoom blue outline), even at the 
+159  earliest stages of cell surface organization (i.e. subconfluence). Based on these in vivo 
+160  and in vitro observations, the differentiating apical surface is characterized by two distinct 
+161  populations  of  microvilli,  marginal  vs.  medial  (Fig.  1E),  with  the  marginal  region 
+162  demonstrating higher protrusion packing density at these early time points.  
+163   
+164  Microvilli adopt a vertical orientation upon arriving at cell margins 
+165  In the ultrastructural images alluded to above, we noted that marginal microvilli appeared 
+166  more vertically oriented relative to microvilli extending from medial parts of the cell 
+167  surface. Here we use ‘vertical’ to describe an orientation that is parallel to the long 
+168  (apicobasal) axis of the cell and perpendicular to the plane of the apical surface. To 
+169  confirm this observation under hydrated conditions, we performed volume imaging of live 
+170  sub-confluent CL4 cells expressing mCherry-Espin (ESPN), which serves as a highly 
+171  specific marker of microvillar core actin bundles [20, 28, 31, 32] (Fig. 2A). Lateral viewing 
+172  of  reconstructed  volumes  enabled  us  to  visualize  individual  microvilli  and  obtain 
+173  measurements of their orientation relative to the plane of the apical surface. This analysis 
+174  revealed that the marginal and medial microvilli demonstrate significant differences in 
+  6 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531705; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+175  their angle of protrusion, with marginal microvilli exhibiting a more vertical orientation 
+176  (46.5° ± 19.3° vs. 77.3° ± 12.4°, Fig. 2B).  
+177  Previous studies established that nascent microvilli are highly dynamic, growing, 
+178  collapsing, and adopting a range of angles while undergoing active movement across the 
+179  medial cell surface [20, 28]. With this in mind, we next sought to determine if microvilli 
+180  grow in a vertical orientation at marginal sites or instead, grow medially and then adopt a 
+181  vertical orientation upon arriving at the cell edge. To this end, we performed multi-hour 
+182  time-lapse volume imaging to record microvillar motion and orientation in 3D. To help us 
+183  interpret these complex datasets, we depth-coded volumes with a multi-color look-up 
+184  table (LUT) so that image planes located further from the apical surface were rendered 
+185  with warmer colors. While the dense accumulation of microvilli at cell margins impaired 
+186  our ability to resolve individual growth events at these sites, we did observe individual 
+187  protrusions and small adherent clusters of microvilli migrating while maintaining a small 
+188  angle relative to the medial apical surface, as previously described [20, 28]. Following 
+189  these microvilli over time (> 2 hrs) revealed that upon reaching the cell margin, they 
+190  become more vertically orientated as indicated by the distal tips acquiring a warmer color 
+191  coding (Figs. 2C,D and  Video S1). Although these data do not allow us to rule out the 
+192  possibility that microvilli grow de novo in a vertical orientation in the marginal zone, they 
+193  do indicate that medial microvilli can transition into the marginal zone and adopt a vertical 
+194  orientation upon doing so. 
+195   
+196  Marginal microvilli are less motile than medial microvilli 
+197  Vertically orientated microvilli are a defining feature of mature brush borders on the 
+198  surface of villus enterocytes [3]. Based on this point, the vertically oriented microvilli found 
+199  in  the  marginal  zone  may  represent  more  mature,  and  potentially,  more  stable 
+200  protrusions. To begin to test this concept, we expressed EGFP-EPS8 to specifically mark 
+201  the distal tips of microvilli [20, 21] in CL4 cells also expressing mCherry-ESPN (Fig. 3A, 
+202  zooms). We then performed live volume imaging with the goal of using the punctate and 
+203  stoichiometric EPS8 signal (one punctum per microvillus) as a high-fidelity fiducial marker 
+204  for tracking microvillar dynamics over time. Temporal color coding of the ESPN channel 
+205  over the course of 25 minutes revealed that medial microvilli are highly dynamic and 
+  7 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531705; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+206  demonstrate extensive movement as previously reported [28] (Fig. 3B, zoom 1). In 
+207  contrast, marginal microvilli appeared to dwell for long periods near the edge of the cell, 
+208  as indicated by the white band of color (merged colors of time points 0-25 min) in the 
+209  projection  (Fig.  3B,  zoom  2).  Next,  we  tracked  individual  EGFP-EPS8  puncta  and 
+210  generated  rose  plots  of  the  resulting  trajectories  to  examine  the  extent  of  motion 
+211  demonstrated by individual microvilli. This analysis revealed that medial microvilli produce 
+212  long trajectories consistent with directed motion, sampling an area of up to 6 µm2 during 
+213  the time-lapse period (Figs. 3C,D). By comparison, the trajectories of marginal microvilli 
+214  were highly confined, with individual protrusions traveling less than 2 µm2 over the same 
+215  time course (Figs. 3F,G). Mean squared displacement analysis of trajectory data [28] 
+216  confirmed that marginal microvilli are ~10-fold more constrained in their movement (Fig. 
+217  3H) relative to medial protrusions (Fig. 3E). Together, these data suggest the existence 
+218  of a mechanism for restricting the motion of microvilli at cell margins. 
+219   
+220  Microvilli from neighboring cells are linked by transjunctional adhesion complexes 
+221  containing CDHR2 and/or CDHR5 
+222  Our ultrastructural data suggested that marginal accumulations of microvilli might include 
+223  protrusions from both cells of a neighboring pair (Fig. 1C zoom).  This led us to consider 
+224  the possibility that microvilli extending from one cell may span the junctional space and 
+225  physically contact microvilli from an adjacent cell; such interactions might in turn explain 
+226  the upright orientation, reduced motility, and eventual accumulation of microvilli at these 
+227  sites.  One  potential  mechanism  for  mediating  such  interactions  involves  the 
+228  intermicrovillar adhesion complex (IMAC), which includes the protocadherins CDHR2 and 
+229  CDHR5 as core components [11]. Previous studies established that CDHR2 and CDHR5 
+230  target to the distal tips of microvilli and interact with each other to form a Ca2+-dependent 
+231  heterophilic extracellular adhesion complex that spans the ~50 nm between adjacent 
+232  protrusions [8-10]. The resulting link promotes the tight packing of neighboring microvilli 
+233  and contributes to minimizing length variability throughout the larger structure of the brush 
+234  border [16]. Notably, these previous studies on IMAC function focused solely on medial 
+235  microvilli, so the possibility that this complex might also link microvilli from neighboring 
+236  cells remains unexplored.  
+  8 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531705; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+237  To test this idea, we used an immunostaining approach and super-resolution 
+238  structured illumination microscopy (SIM) to examine the localization of CDHR2, CDHR5, 
+239  and F-actin relative to ZO-1, a critical component of tight junctions [33]. For these studies, 
+240  we first examined native small intestinal tissues isolated from a new mouse model 
+241  expressing CDHR2 tagged with EGFP at the endogenous locus. SIM images revealed 
+242  that both IMAC protocadherins are highly enriched at the tips of medial microvilli as 
+243  previously reported (Fig. 4A) [11]. We also noted signal from CDHR2 and CDHR5 at the 
+244  tips of microvilli at the margins of cells, with the adhesion protein signal spanning ZO-1 
+245  marked junctions (Fig. 4B, top panel). When viewing projected SIM volumes en face, we 
+246  were unable to discern the position of the tight junctions based solely on the phalloidin, 
+247  CDHR2, or CDHR5 signals, suggesting that the IMAC components form a continuous 
+248  network that spans beyond the surface of a single cell (Fig. 4B, bottom panel). Similarly, 
+249  on the surface of mature enterocytes viewed with electron microscopy, microvilli appear 
+250  to associate at neighboring cell interfaces (Fig. S1A-B). However, the crowded nature of 
+251  microvilli in these mature brush borders confounded our attempts to isolate and visualize 
+252  interactions between the tips of individual protrusions at the margins of neighboring cells.  
+253  To work around the limitation imposed by microvillar crowding in native tissue, we 
+254  used SIM to examine the apical surface of cultured CACO-2BBE cells at 12 days post-
+255  confluence  (DPC),  a  time  point  before  brush  border  assembly  is  complete,  when 
+256  microvillar packing density is comparatively lower. Careful examination of phalloidin-
+257  stained CACO-2BBE monolayers revealed a striking enrichment and alignment of microvilli 
+258  at the margins of cells (Fig. 4C,D), consistent with the SEM images described above (Fig. 
+259  1B). Immunofluorescence staining of these 12 DPC cultures revealed that marginally 
+260  aligned microvilli do in fact span the cell junction marked by ZO-1 and exhibit enrichment 
+261  of both protocadherins at their distal tips (Fig. 4C,D, white arrows). We observed similar 
+262  structures  and  staining  on  the  surface  of  CL4  monolayers  at  3  DPC,  a  stage  in 
+263  differentiation when microvilli are still sparse but begin to form clusters and demonstrate 
+264  marginal alignment (Fig. 4E). In this case, super-resolution lateral views clearly showed 
+265  that individual microvilli from neighboring cells span the ZO-1-labeled tight junction and 
+266  make contact via their distal tips, which are marked by both CDHR2 and CDHR5 (Fig. 4F 
+  9 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531705; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+267  zooms). In combination, these results indicate that marginal microvilli on neighboring 
+268  cells are physically linked via transjunctional IMACs that contain CDHR2 and CDHR5. 
+269   
+270  Heterophilic adhesion between CDHR2 and CDHR5 promotes robust association 
+271  between microvilli from neighboring cells  
+272  Although IMAC protocadherin adhesion properties differ across species [16], previous 
+273  biochemical studies established that in humans, heterophilic complexes of CDHR2 and 
+274  CDHR5 exhibit strong adhesion, CDHR2 demonstrates weak homophilic adhesion, and 
+275  CDHR5  demonstrates  no  homophilic  adhesion  [11].  To  further  study  the  nature  of 
+276  transjunctional IMACs, we developed a cell mixing approach that enabled us to drive the 
+277  formation of adhesion complexes consisting of different complements of CDHR2 and/or 
+278  CDHR5 (Fig. 5A). For these experiments, we first transfected CL4 cells with either EGFP 
+279  or mCherry-tagged constructs of H. sapiens CDHR2 and CDHR5. Stable selection and 
+280  subsequent fluorescence-activated cell sorting (FACS) yielded robust populations of 
+281  fluorescent  protocadherin  expressing  cells  (Fig.  S2A).  Strikingly,  mixed  monolayers 
+282  composed of cells expressing CDHR2-EGFP or CDHR5-mCherry demonstrated robust 
+283  alignment of protocadherin signals at mixed cell-cell contacts (Fig. 5B). Linescan analysis 
+284  also revealed that CDHR2 and CDHR5 intensities were well correlated (mean r = 0.70) 
+285  along these interfaces (Fig. 5C,D,K). These data are consistent with the formation of 
+286  heterophilic  adhesion  complexes  between  microvilli  of  neighboring  cells.  In  mixed 
+287  monolayers composed of cells expressing CDHR2-EGFP or CDHR2-mCherry (Fig. 5E), 
+288  mixed cell-cell contacts lacked the strong alignment of signals that we observed in the 
+289  heterophilic case, and protocadherin intensities were poorly correlated (mean r = 0.07 
+290  (Fig.  5F,G,K).  Mixed  monolayers  composed  of  cells  expressing  CDHR5-EGFP  or 
+291  CDHR5-mCherry  also  demonstrated  a  lack  of  signal  alignment  and  poor  intensity 
+292  correlation along cellular junctions (mean r = -0.19) (Fig. 5H-K). High-resolution imaging 
+293  of  the  interfaces  formed  under  each  of  these  three  conditions  revealed  that  only 
+294  heterophilic mixtures of cells expressing CDHR2-EGFP or CDHR5-mCherry aligned their 
+295  microvilli at cell-cell contacts (Fig. S2B-D, white arrows). Based on these data, we 
+296  conclude that heterophilic transjunctional IMACs containing CDHR2 and CDHR5 can 
+297  drive robust interactions between microvilli extending from neighboring cell margins.  
+  10 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531705; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+298  Protocadherins in transjunctional IMACs exhibit limited turnover 
+299  Under normal conditions, epithelial cells express both CDHR2 and CDHR5, which target 
+300  to the tips of all microvilli on the apical surface. Thus, heterophilic complexes are expected 
+301  to form between the distal tips of microvilli in both the medial and marginal regions. 
+302  However, the strong alignment of microvilli at cell-cell contacts in the heterophilic case 
+303  outlined above led us to predict that transjunctional IMACs may be more stable relative 
+304  to complexes that form medially. If true, this would offer a mechanistic explanation for the 
+305  reduced motility of marginal microvilli, and in turn, the accumulation of microvilli at these 
+306  sites.  To  determine  if  transjunctional  IMACs  are  in  fact  longer  lived  than  medial 
+307  complexes, we performed fluorescence recovery after photobleaching (FRAP) analysis 
+308  with CL4 monolayers formed using the cell mixing approach outlined above (Fig. 5A). 
+309  Strikingly, photobleached ROIs positioned over junctional interfaces between heterophilic 
+310  CDHR2-EGFP and CDHR5-mCherry expressing cells demonstrated extremely low signal 
+311  recovery for both protocadherins (immobile fractions, 0.71 and 0.85, respectively; Figs. 
+312  6A,B and Video S2). In contrast, FRAP analysis of medially positioned ROIs on individual 
+313  cells expressing both CDHR2-HALO and CDHR5-EGFP, revealed much lower immobile 
+314  fractions for both protocadherins (0.47 and 0.56, respectively; Figs. 6C,D and Video S3). 
+315  These results suggest that transjunctional IMACs formed between marginal microvilli are 
+316  much longer lived relative to complexes formed between the tips of medial microvilli. We 
+317  also examined recovery in photobleached ROIs positioned over junctional interfaces 
+318  formed between homophilic CDHR2-EGFP and CDHR2-mCherry expressing cells (Figs. 
+319  6E,F and Video S4), as well as interfaces formed between homophilic CDHR5-EGFP 
+320  and CDHR5-mCherry expressing cells (Figs. 6G,H and Video S5). Both homophilic 
+321  scenarios exhibited higher levels of turnover and even lower immobile fractions. Together, 
+322  these  FRAP  studies  indicate  that  transjunctional  IMACs  composed  of  CDHR2  and 
+323  CDHR5 are extremely stable, and these reduced turnover kinetics offer a explanation for 
+324  the constrained motility and accumulation of microvilli observed at cell margins. 
+325   
+326  Microvillar packing density at cell margins is higher than the medial zone during 
+327  differentiation 
+  11 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531705; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+328  Based on the stabilizing nature of transjunctional IMACs, we predicted that, during 
+329  differentiation, cells might assembly the brush border by packing microvilli inward from 
+330  cell margins. To test this idea, we performed extended time-lapse imaging of CL4 cells 
+331  expressing mCherry-ESPN to stoichiometrically label microvillar core actin bundles (Fig. 
+332  7A-C)[32]. Comparing regional ESPN intensities on a per cell basis, we found that 
+333  marginal ESPN intensity increased almost ~2-fold more than medial signal during 24 hrs 
+334  of differentiation (Fig. 7D). These timelapse results are consistent with the idea that 
+335  microvilli accumulate first at cell margins and then pack inwards from the edges of the 
+336  cell over time.  
+337   
+338  DISCUSSION 
+339  Previous live imaging studies of epithelial cells at times points early in differentiation 
+340  established  that  actively  growing  and  newly  formed  microvilli  are  highly  motile  and 
+341  unstable, undergoing rapid cycles of growth and collapse [20, 28]. Those discoveries 
+342  immediately led us to question how dynamic, nascent microvilli are stabilized long-term 
+343  on  the  apical  surface  to  enable  their  timely  accumulation  in  large  numbers  (i.e., 
+344  thousands) by the end of differentiation. We first sought to approach this question by 
+345  examining the surface of the undifferentiated epithelial cells that line the interior of the 
+346  intestinal crypt, where microvillar growth activity is high. Because the apical surface of 
+347  cells in this region is not yet fully packed with protrusions, we were hoping to identify 
+348  patterns in the distribution of nascent microvilli that might offer insight on underlying 
+349  mechanisms of stability.  
+350  Peering into the crypt is technically challenging given the tight confines of this 
+351  invaginated compartment. Indeed, almost all previous ultrastructural studies of this region 
+352  have been limited to conventional transmission EM of ultrathin sections [34, 35], which 
+353  are difficult to interpret in the absence of 3D context. We worked around this obstacle 
+354  using a combination of tissue fracturing and scanning EM, which allowed us to visualize 
+355  the apical surface of immature intestinal epithelial cells within the crypt. Inspection of 
+356  these images revealed that microvilli preferentially accumulate near the cell periphery at 
+357  this point in differentiation. Moreover, cell culture models from the intestine (CACO-2BBE) 
+358  and kidney (CL4) also demonstrated robust marginal accumulation of microvilli early in 
+  12 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531705; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+359  their maturation time course, suggesting that such patterning is not a function of the 
+360  unique cellular packing geometry found in the crypt, nor is it tissue specific.  
+361  Accumulation of microvilli at cell edges suggests that the marginal zone represents 
+362  (i) a site of robust growth, (ii) a site of stabilization for nascent microvilli, or (iii) some 
+363  combination of the two. Given the actin-rich junctional belt that surrounds the cell at the 
+364  level of the terminal web [36], it seems reasonable to expect that microvilli may grow more 
+365  readily in this location. Although previous live imaging studies of CL4 cells characterized 
+366  the properties of individual microvillar growth events [20], those observations were limited 
+367  to the medial regions of the cell where protrusion density is typically low; visualization of 
+368  growth events in the marginal zone was confounded by the crowding of pre-existing 
+369  microvilli in this region. While our data do not allow us to rule out the possibility that growth 
+370  preferentially occurs at cell margins relative to medial regions, we were able to capture 
+371  clear examples of clustered microvilli moving at a low angle relative to the cell surface, 
+372  toward the edge of the cell and incorporating into the marginal population. Interestingly, 
+373  these protrusions adopt the more vertical orientation of marginal microvilli upon reaching 
+374  the cell edge. Because such upright orientation is a defining feature of microvilli in mature 
+375  brush borders, the marginal population likely represents stabilized protrusions that persist 
+376  into later stages of differentiation. Although we currently lack a method for tracking and 
+377  measuring the lifetimes of individual microvilli over the course of days, our short-term 
+378  tracking measurements using the tip marker, EPS8, confirm that marginal microvilli are 
+379  less motile relative to medial microvilli. Indeed, using mean square displacement analysis 
+380  as previously described [28], we found that marginal microvilli sample ~10-fold less 
+381  surface area per unit time relative to medial microvilli, which is consistent with a physical 
+382  capture mechanism near the cell edge. 
+383     Earlier work established that medial microvilli on the surface of mature villus 
+384  enterocytes  employ  the  protocadherins  CDHR2  and  CDHR5  to  form  intermicrovillar 
+385  adhesion complexes (IMACs) that link the distal tips of neighboring microvilli [11, 15]. 
+386  Here we sought to test the possibility that IMACs form across cell junctions, between the 
+387  protrusions that extend from neighboring cells. If so, this would offer a mechanistic 
+388  explanation for the upright orientation and constrained motility that microvilli demonstrate 
+389  at  these  sites,  and  potentially  the  long-term  stabilization  that  enables  microvillar 
+  13 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531705; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+390  accumulation on the apical surface in large numbers. Previous work in CACO-2BBE cells, 
+391  native mouse intestinal tissue, and X-ray crystallography all indicate that the interacting 
+392  ectodomains of CDHR2 and CDHR5 are structurally capable of spanning gaps up to 63 
+393  nm wide [11, 16], suggesting that they could easily reach across the ~15 nm tight junction 
+394  between neighboring cells [37]. Indeed, in the current study, super-resolution imaging 
+395  revealed that CDHR2 and CDHR5 span the intercellular space to form transjunctional 
+396  IMACs that physically link marginal microvilli that extend from neighboring cells.  
+397  Does the formation of transjunctional IMACs explain the accumulation of microvilli 
+398  at cell edges early in differentiation? If transjunctional IMACs are more stable and exhibit 
+399  longer  lifetimes  relative  to  IMACs  that  form  medially,  this  would  certainly  offer  a 
+400  mechanistic underpinning for the increase in microvilli density at these sites. To test this 
+401  hypothesis, we employed a cell mixing approach that enabled us to induce the formation 
+402  of  both  homophilic  and  heterophilic  transjunctional  IMACs,  to  enable  further 
+403  characterization of their properties. FRAP analysis of the turnover dynamics of these 
+404  complexes revealed that heterophilic (CDHR2/CDHR5) transjunctional IMACs are much 
+405  longer lived relative to homophilic (CDHR2/CDHR2) complexes. These results from live 
+406  epithelial cells echo previous in vitro data suggesting that homophilic (CDHR2/CDHR2) 
+407  complexes  are  much  weaker  than  heterophilic  (CDHR2/CDHR5)  complexes  [11]. 
+408  Interestingly, when we examined the dynamics of heterophilic complexes formed between 
+409  microvilli in the medial population, we noted that these also turned over at a much higher 
+410  rate  relative  to  transjunctional  heterophilic  (CDHR2/CDHR5)  complexes.  Thus,  the 
+411  significant differential stability of transjunctional vs. medial IMACs indicated by our FRAP 
+412  studies offers a mechanistic rationale for the accumulation of microvilli at cell margins.  
+413  Why transjunctional IMACs are more stable than those formed elsewhere on the 
+414  apical surface remains unclear, but possible explanations might be found in previous 
+415  biophysical studies on the properties of non-covalent bonds. For example, when a tensile 
+416  mechanical force is applied across a non-covalent bond formed between two proteins, 
+417  the lifetime of that bond will be impacted in a way that depends on the structural nature 
+418  of the bonding interface [38, 39]. “Slip bonds” react to loading with a dramatic shortening 
+419  of lifetime, whereas “catch bonds” respond by increasing bond lifetime; “ideal bonds” 
+420  exhibit  minimal  response  to  mechanical  loading  [38,  40,  41].  Direct  physical 
+  14 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531705; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+421  measurements provide strong evidence for catch bond behavior in structurally diverse 
+422  proteins, ranging from myosin motor domains to cell surface molecules such as integrins 
+423  [42, 43]. Cadherins have been studied extensively in this regard and their bonding 
+424  properties are complex. In the case of E-cadherin, adhesive interactions can exhibit slip 
+425  or  catch  behavior  depending  on  the  conformation  of  the  adhesive  interface.  In  the 
+426  canonical strand swapped conformation, E-cadherin exhibits slip bond behavior; while X-
+427  dimers  of  E-cadherin,  which  interact  using  a  distinct  extended  structural  interface 
+428  demonstrate robust catch bond behavior [40]. In light of those findings, we speculate that 
+429  IMACs  also  exhibit  catch  bond  properties.  By  bridging  across  cell  junctions, 
+430  transjunctional  IMACs  may  be  subject  to  higher  tensile  loads  and  therefore  exhibit 
+431  increased adhesive lifetimes relative to IMACs that form elsewhere on the apical surface. 
+432  Furthermore, as medial clusters of microvilli appear to move as a unit [28], their adhesive 
+433  bonds may be under less tensile stress. Although rigorous testing of this concept must 
+434  await future biophysical studies, it is important to note that, based on the recently solved 
+435  structures of mouse and human CDHR2 and CDHR5 ectodomains [16], any catch bond 
+436  behavior in the IMAC would emerge from a mechanism that is distinct from E-cadherin.   
+437  Given the adhesive capture of microvilli by stable transjunctional IMACs and our 
+438  observations of marginal microvilli enrichment early on in cell surface differentiation, we 
+439  speculated that the brush border assembly may favor packing from the margins of the 
+440  apical surface, inwards (Fig. 7E). To test this idea, we turned to multi-day time-lapse 
+441  imaging of CL4 cells expressing mCherry-ESPN as a marker for microvilli. As expected, 
+442  we noted that the marginal ESPN intensity was initially higher than in the medial region. 
+443  After 24 hours of differentiation, the marginal region also demonstrated ~2-fold larger 
+444  increase in signal relative to the medial zone, suggesting that microvillar packing density 
+445  at the cell margin precedes packing of the interior apical surface.  Moreover, intensity at 
+446  the cell margin is consistently higher than medial signal, and both regions increase in 
+447  intensity over the course of almost two days of observation. In future studies, it will be 
+448  critical to confirm this observation in systems that more closely recapitulate the biology of 
+449  the crypt-villus transition, such as intestinal organoids.  
+450    While previous work established that the IMAC is critical for maintaining brush 
+451  border structure on mature enterocytes [14], the current study indicates a new role for this 
+  15 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531705; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+452  complex in apical surface maturation, by contributing to a novel form of cell-cell contact 
+453  between microvilli of neighboring cells. In the intestinal tract and other transporting 
+454  epithelial tissue, cell-cell contacts are essential for “barrier” function and the maintenance 
+455  of  physical  compartmentalization.  Interestingly,  Crohn’s  Disease  patients  exhibit  a 
+456  decrease  in  CDHR2  and  CDHR5  mRNA  expression  [44]  while  also  experiencing 
+457  increased intestinal permeability [45]. Transjunctional adhesion complexes may also form 
+458  an  additional  layer  of  protection  against  colonizing  pathogens.  Infection  by  related 
+459  pathogens Enteropathogenic and Enterohemorrhagic Escherichia coli (EPEC and EHEC) 
+460  is characterized by effacement of brush border microvilli and F-actin pedestal formation 
+461  [46]. CDHR2 has been identified as one of the initial EHEC targets during infection, which 
+462  results in a significant decrease in CDHR2 expression [47]. Past reports on EPEC 
+463  infection also show both bacteria localization over cell junctions [46, 48]. In the future 
+464  studies, it will be fascinating to explore new roles for transjunctional IMACs in maintaining 
+465  epithelial barrier function in intestinal disease and infection.  
+466 
+  16 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531705; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+467  ACKNOWLEDGMENTS  
+468  The authors would like to thank all members of the M.J.T. laboratory for their constructive 
+469  feedback. Special thanks goes to laboratory manager Suli Mao, for her work with mouse 
+470  husbandry  and  genotyping.  We  acknowledge  the  Translational  Pathology  Shared 
+471  Resource (NCI Cancer Center Support Grant 5P30CA68485-19) and also thank the 
+472  Vanderbilt Genome Editing Resource (RRID: SCR_018826). Microscopy was performed 
+473  in part through the VUMC Cell Imaging Shared Resource. Some SEM images were 
+474  collected  on  a  Zeiss  Crossbeam  funded  by  1S10  OD028704.  Flow  Cytometry 
+475  experiments were performed in the VUMC Flow Cytometry Shared Resource supported 
+476  by the Vanderbilt Ingram Cancer Center (P30 CA68485) and the Vanderbilt Digestive 
+477  Disease Research Center (DK058404). This work was supported by the NIH grants 
+478  DK095811, DK125546, DK111949 (M.J.T.) and the Training Program in Developmental 
+479  Biology 2T32HD007502-20 (C.S.C.) 
+480   
+481  AUTHOR CONTRIBUTIONS 
+482  Conceptualization, C.S.C. and M.J.T.; Methodology, M.J.T., C.S.C., B.A.M. and E.S.K.; 
+483  Validation, C.S.C.; Formal Analysis, C.S.C., J.B.S., and M.J.T.; Investigation, C.S.C., 
+484  J.B.S., L.M.M., and B.A.M.; Writing, C.S.C. and M.J.T.; Visualization, C.S.C.; Supervision, 
+485  M.J.T.; Project Administration, M.J.T.; Funding Acquisition, C.S.C. and M.J.T.; All authors 
+486  contributed to revising the manuscript. 
+487   
+488  DECLARATION OF INTERESTS 
+489  The authors declare no competing interests. 
+490   
+491  INCLUSION AND DIVERSITY 
+492  We support inclusive, diverse, and equitable conduct of research. 
+493     
+  17 
+
+NEW PAGE
+
+Fig. 1
+A Zoom B Zoom 1
+e
+n
+ti
+s
+e s
+nt u
+all I Vill 1
+m
+S Zoom 2
+ 
+e
+s
+u
+o 2
+M
+t
+p
+y
+r
+C Crypt
+C Zoom D Zoom
+4
+E L
+B C
+B
+2 -
+1
+O- K
+C P
+-
+A C
+C L
+L
+E
+M
+a
+r
+gi
+Medial n
+al
+
+NEW PAGE
+
+494  Figure 1: Microvilli of differentiating transporting epithelial cells concentrate at cell 
+495  margins. (A) Scanning electron micrograph (SEM) of native mouse small intestine crypt-
+496  villus axis. (A, zoom) Zoom of the dashed box in A showing the crypt and transit 
+497  amplifying zone. (B) High-magnification view of the crypt base with (B, zooms 1 and 2) 
+498  showing an enrichment of microvilli at the margins of crypt cells (dashed blue outline). (C) 
+499  SEM of polarized CACO-2BBE cells. Dashed box represents zoom area. Arrows denote 
+500  medial (purple) and marginal microvilli (blue). (D) SEM of sub-confluent porcine kidney 
+501  proximal tubule LLC-PK1-CL4 (CL4) cells. Dashed box represents zoom area. Pseudo 
+502  coloring  represents  medial  area  (purple)  and  marginal  microvillar  area  (blue).  (E) 
+503  Schematic  of  the  two  distinct  organizations  of  microvilli  found  on  differentiating 
+504  transporting epithelial cells, medial (purple) and marginal (blue). Scale bars: 50 µm (A), 
+505  10 µm (A, zoom), 2 µm (B), 1 µm (B, zooms), 10 µm (C), 5 µm (C, zoom), 20 µm (D), 10 
+506  µm (D, zoom).  
+507     
+  18 
+
+NEW PAGE
+
+Fig. 2
+A B ) ****
+°
+e (90
+c
+a75
+f
+r
+u
+S60
+ell 45
+C
+m 30
+o
+r15
+F
+ ∠
+0
+Medial Marginal
+z
+mCherry-ESPN Max IP Marginal Medial Marginal    
+x
+C
+* *
+Z-Depth
+mCherry-ESPN 0:00:00 Zoom, Z-Depth
+0:00:00 0:20:00 0:40:00 1:00:00 1:20:00 1:40:00 2:00:00
+D
+* *
+* * *
+*
+*
+ESPN
+
+NEW PAGE
+
+508  Figure 2: Microvilli adopt a vertical orientation upon reaching cell margins. (A) 
+509  Maximum intensity projection (MaxIP) of live CL4 cells expressing mCherry-ESPN. (B) 
+510  Orientation measurements of the angle (dashed outlines) of microvilli to the cell surface 
+511  of medial microvilli (purple) compared to marginal microvilli (blue). Sample ROI of Z-
+512  projection under plot is taken from the dashed box in (A). (C) t = 0 MaxIP image of live 
+513  mCherry-ESPN CL4 cells. One cell margin is highlighted in blue, while the dashed yellow 
+514  arrow represents the trajectory of the microvilli cluster (asterisk) shown in (D). Right panel 
+515  shows a 3D tilted volume of the dashed box in (C), coded in Z for cell depth (see Z-depth 
+516  key on bottom right). (D) Montage over 2 hours following the cluster marked with the 
+517  yellow asterisk in (C). Asterisk marks the distal ends of microvilli that transition to a vertical 
+518  orientation upon reaching the marginal cell area, as shown by a change in Z-depth coding. 
+519  Each point on the graph represents one angle taken from 17 cells; total of n = 295 medial 
+520  and n = 309 marginal angles. Error bars represent mean ± SD. **** p ≤ 0.0001 Welch’s 
+521  unpaired t-test. Mean medial angle is 46.5° ± 19.3° and mean marginal angle is 77.3° ± 
+522  12.4°. Scale bars: 20 µm (A), 1 µm (B), 10 µm (C, left), 3 µm (C, right), 1 µm (D). 
+523     
+  19 
+
+NEW PAGE
+
+Fig. 3
+A
+EGFP-EPS8
+mCherry-ESPN Zoom ESPN Zoom EPS8 Zoom
+B 0  Zoom 1
+min.
+2
+1
+Medial
+Zoom 2
+25 
+ESPN Temporal Coding min. Marginal
+C D Medial Tracks E
+2.4
+2)1.8
+m
+µ
+(1.2
+ 
+D
+S
+M0.6
+µm
+Slope = 0.39
+0.0
+0 0 0 0 0 0 0 0 0 0 0
+0 3 0 3 0 3 0 3 0 3 0
+0: 0: 1: 1: 2: 2: 3: 3: 4: 4: 5:
+0 0 0 0 0 0 0 0 0 0 0
+µm 0: 0: 0: 0: 0: 0: 0: 0: 0: 0: 0:
+F G H
+Marginal Tracks
+0.6
+)
+2
+m0.4
+µ
+(
+ 
+D
+S0.2
+µm M
+Slope = 0.034
+0.0
+0 0 0 0 0 0 0 0 0 0 0
+0 3 0 3 0 3 0 3 0 3 0
+0: 0: 1: 1: 2: 2: 3: 3: 4: 4: 5:
+µm 0:0 0:0 0:0 0:0 0:0 0:0 0:0 0:0 0:0 0:0 0:0
+
+NEW PAGE
+
+524  Figure 3: Tip tracking analysis reveals that marginal microvilli are constrained in 
+525  their movement. (A, left panel) Live CL4 cells co-expressing EGFP-EPS8 and mCherry-
+526  ESPN. Dashed box represents zoom area with arrow marking EPS8 at the tip of a single 
+527  microvillus. (A, right panels) Single inverted channel MaxIP images showing mCherry-
+528  ESPN and EGFP-EPS8 alone. (B) Temporal color-coding over 25 minutes (see vertical 
+529  color key). (B, zooms) of (1) medial and (2) marginal ROIs taken from the dashed boxes 
+530  in (B). (C) Rose plot of n = 53 XY tracks (µm units) of medial microvilli over 25 minutes. 
+531  (D) Representative medial microvilli tracks taken from (C). (E) Mean square displacement 
+532  of 50 medial microvilli imaged for 5 minutes over 15 second intervals. Slope = 0.39. (F) 
+533  Rose plot of n = 28 XY tracks of marginal microvilli taken from 3 independent live cell 
+534  imaging experiments over 25 minutes. (G) Representative marginal microvilli tracks taken 
+535  from (F). (H) Mean square displacement analysis of n = 88 marginal microvilli imaged for 
+536  5 minutes over 15 second intervals. Slope = 0.034. Scale bars: 10 µm (A), 1.5 µm (A, 
+537  zooms), 10 µm (B), 2.5 µm (B, zooms), 1 µm (D, G). 
+538     
+  20 
+
+NEW PAGE
+
+Fig. 4
+A B
+I
+S
+ 
+e
+s
+u
+o
+Single Z Plane
+M
+2
+R
+H
+D
+C
+-
+P
+F ZO-1 ZO-1
+G
+E F-Actin F-Actin
+CDHR2 CDHR2
+3-D Volume Projection
+CDHR5 CDHR5
+C D Zoom
+E
+B
+B
+2
+-
+O
+C
+A
+C
+ 
+C
+P
+D
+2 CDHR2 ZO-1 ZO-1
+1
+CDHR5 CDHR2 CDHR2
+F-Actin Zoom F-Actin F-Actin
+E F Zoom 1
+4
+L
+C
+1- 1
+K
+P
+-
+C
+L 2
+L Zoom 2
+ 
+C
+ZO-1
+P
+D CDHR2
+3
+CDHR5
+F-Actin
+
+NEW PAGE
+
+539  Figure 4: Marginal microvilli are linked via transjunctional CDHR2/CDHR5 adhesion 
+540  complexes across neighboring cell junctions. (A) Single Z-plane confocal image of 
+541  CDHR2-EGFP mouse small intestine stained for ZO-1 (yellow), EGFP (green), CDHR5 
+542  (magenta), and F-actin (blue). (B, top) Single plane SIM image of the stained villus 
+543  section; approximated area marked by the dashed box in (A). (B, bottom) 3D volume 
+544  projection of the top panel. Yellow arrows in both images mark ZO-1 labeled tight 
+545  junctions. (C) MaxIP laser-scanning confocal image of 12 DPC CACO-2BBE cells stained 
+546  for CDHR2 (green), CDHR5 (cyan), and F-actin (magenta). Dashed box represents zoom 
+547  area. White arrows point to tip-localized CDHR2/CDHR5 adhesion complexes at cell 
+548  margins. (D) MaxIP SIM image of 12DPC CACO-2BBE cells stained for ZO-1 (yellow), 
+549  CDHR2 (green), and F-actin (magenta). Dashed box represents zoom area. White arrows 
+550  point to CDHR2/CDHR5 marked complexes at the junction of neighboring cells. (E) MaxIP 
+551  SIM image of 3 DPC CL4 cells stained for ZO-1 (yellow), CDHR2 (green), CDHR5 
+552  (magenta), and F-actin (blue). (F) 3D tilted volume projection of the dashed box outlined 
+553  in (E). Brackets highlight instances of marginal microvilli on adjacent cells linked via 
+554  CDHR2/CDHR5 transjunctional adhesion complexes (zoom 1 and 2, respectively). Scale 
+555  bars: 20 µm (A), 5 µm (B), 2.5 µm (C), 5 µm (C, zoom), 10 µm (D), 2.5 µm (D, zoom), 10 
+556  µm (E). 
+557     
+  21 
+
+NEW PAGE
+
+Fig. 5
+A
+B C sity1.0 CDHR2-EGFP D
+n
+CDHR5 Normalized Inte00..05 CDHR5-mCherry malized GFP Intensity01..50 r = 0.85
+/
+R2 1.00 15Dis3ta0nce4 (5µm)60 75 Nor2-E
+R
+DH dual 0.5 CDH0.00.0 0.5 1.0
+C esi 0.0 Normalized 
+CDHR2-EGFP R 15 30 45 60 75
+-0.5 CDHR5-mCherry Intensity
+CDHR5-mCherry Zoom Distance (µm)
+-1.0
+E F y G
+sit1.0 CDHR2-EGFP
+n CDHR2-mCherry
+e
+DHR2 alized Int0.5 edntensity1.0 r = 0.13
+/C Norm0.0 malizGFP I0.5
+2 0 15 30 45 60 rE
+R 1.0 Distance (µm) No2-
+R
+H
+D ual 0.5 DH0.0
+C sid 0.0 C 0.0 0.5 1.0
+CDHR2-EGFP Re 15 30 45 60 Normalized 
+-0.5
+CDHR2-mCherry Zoom Distance (µm) CDHR2-mCherry Intensity
+-1.0
+H I y J
+sit1.0 CDHR5-mCherry
+n CDHR5-EGFP
+e
+HR5 zed Int0.5 ensity1.0 r = 0.11
+D ali ednt
+/C Norm0.0 malizGFP I0.5
+5 0 15 30 45 60 75 rE
+R 1.0 Distance (µm) No5-
+R
+H
+D ual 0.5 DH0.0
+C sid 0.0 C 0.0 0.5 1.0
+CDHR5-EGFP Re 15 30 45 60 75 Normalized
+Zoom -0.5 CDHR5-mCherry Intensity
+CDHR5-mCherry Distance (µm)
+-1.0
+K
+Heterophilic
+✱
+✱
+Homophilic - CDHR2 ✱✱ ✱✱
+✱
+✱ ✱
+✱
+✱
+Homophilic - CDHR5
+-1.0 -0.5 0.0 0.5 1.0
+Pearson r
+
+NEW PAGE
+
+558  Figure 5: Cell mixing experiments reveal robust heterophilic adhesion complexes 
+559  between marginal microvilli. (A, left) Schematic depicting cell mixing method for the C-
+560  terminally  tagged  cadherin  overexpression  constructs  (A,  right).  (B)  MaxIP  laser 
+561  scanning confocal image of mixed heterophilic CDHR2-EGFP and CDHR5-mCherry CL4 
+562  cell populations. Dashed box represents zoom area and cyan dashed outline represents 
+563  sample linescan. (C, top) Normalized fluorescence intensity (AU) plot taken from a 
+564  representative linescan along the mixed cell interface. (C, bottom) Plotted difference 
+565  (residual) of mCherry signal from EGFP signal from the top linescan plot. (D) Pearson’s r 
+566  correlation plot from the linescan in (C); r = 0.85. (E) MaxIP of mixed homophilic CDHR2-
+567  EGFP and CDHR2-mCherry CL4 cells. (F-G) Representative linescan and respective 
+568  Pearson’s r correlation; r = 0.13. (H) MaxIP of mixed homophilic CDHR5-EGFP and 
+569  CDHR5-mCherry CL4 cells. (I-J) Representative linescan and respective Pearson’s r 
+570  correlation; r = 0.11. (K) Combined Pearson’s r values from n = 30 individual linescans of 
+571  each cell mixing scenario from 3 independent fixation and staining experiments (10 
+572  linescans per experiment). Mean Pearson’s r values are denoted by a “+” for each 
+573  scenario where heterophilic r = 0.703, homophilic CDHR2 r = 0.065, and homophilic 
+574  CDHR5 r = -0.193. Ordinary one-way ANOVA with multiple comparisons; **** p ≤ 0.0001 
+575  and *** p ≤ 0.001. Scale bars: 30 µm (B, E, H), 10 µm (zoom insets). 
+576     
+  22 
+
+NEW PAGE
+
+Fig. 6
+Marginal FRAP: CDHR2/CDHR5
+-3:00 0:00 +3:00 +8:00
+A 5 B
+2/
+R
+H
+Immobile Fraction:
+D y1.0
+C r CDHR2 0.71
+e
+v0.8
+-3:00 0:00 +3:00 +8:00 o CDHR5 0.85
+5 c
+R e0.6
+H R
+CD n 0.4
+o
+cti0.2
+-3:00 0:00 +3:00 +8:00 a
+2 r
+R F0.0
+CDHR2-EGFP H 0 1 2 3 4 5 6 7 8
+D
+CDHR5-mCherry C Minutes Post-Bleach
+Medial FRAP: CDHR2/CDHR5
+C 2-3:00 0:00 +3:00 +8:00 D
+5/
+R
+H Immobile Fraction:
+D y1.0
+C r CDHR5 0.56
+e
+v0.8 CDHR2 0.47
+-3:00 0:00 +3:00 +8:00 o
+R5 ec0.6
+H R
+D n 0.4
+C o
+cti0.2
+-3:00 0:00 +3:00 +8:00 a
+2 Fr0.0
+R
+CDHR5-EGFP H 0 1 2 3 4 5 6 7 8
+D
+CDHR2-HALO C Minutes Post-Bleach
+Marginal FRAP: CDHR2/CDHR2
+-3:00 0:00 +3:00 +8:00
+E 2 F
+2/
+R
+H Immobile Fraction:
+D y1.0
+C r CDHR2 0.05
+e
+-3:00 0:00 +3:00 +8:00 ov0.8 CDHR2 0.28
+2 c
+R e0.6
+H R
+D n 0.4
+C
+o
+cti0.2
+-3:00 0:00 +3:00 +8:00 a
+R2 Fr0.0
+CDHR2-EGFP H 0 1 2 3 4 5 6 7 8
+D
+CDHR2-mCherry C Minutes Post-Bleach
+Marginal FRAP: CDHR5/CDHR5
+-3:00 0:00 +3:00 +8:00
+G 5 H
+5/
+R
+H
+D Immobile Fraction:
+C y1.0
+r CDHR5 0.20
+e
+-3:00 0:00 +3:00 +8:00 v0.8 0.13
+5 o CDHR5
+R c
+H e0.6
+D R
+C n 0.4
+o
+-3:00 0:00 +3:00 +8:00 cti0.2
+5 a
+R Fr0.0
+CDHR5-EGFP H
+D 0 1 2 3 4 5 6 7 8
+CDHR5-mCherry C
+Minutes Post-Bleach
+
+NEW PAGE
+
+577  Figure  6:  FRAP  analysis  suggests  that  heterophilic,  transjunctional  adhesion 
+578  complexes are stable. Mixed CL4 cells forming (A) marginal heterophilic, (C) medial 
+579  heterophilic,  (E)  marginal  homophilic  CDHR2,  and  (G)  marginal  homophilic  CDHR5 
+580  adhesion complex interfaces. Dashed boxes outline the photobleached ROI shown in the 
+581  recovery montages on right. (B, D, F, H) Fluorescence recovery is plotted over the course 
+582  of 8 minutes with the immobile fractions as written for each protein channel. All plots 
+583  represent 3 independent FRAP experiments of n ≥ 20 ROIs from multiple cells. Scale 
+584  bars: 20 µm (A, C, E, G), 5 µm (montages). 
+585     
+  23 
+
+NEW PAGE
+
+Fig. 7
+A B C D Marginal Δ = 48.0
+Medial Δ = 28.5
+)250
+.
+U
+.
+A
+225
+(
+ 
+y
+t
+si200
+n
+e
+t
+n175
+I
+ESPN 00:00:00 ESPN 24:00:00 ESPN 43:00:00  
+N
+Intensity coded Intensity coded Intensity coded P150
+S
+E
+n 125
+a
+e 115
+M
+0
+0 24
+Hours
+00:00:00 24:00:00 43:00:00
+M argin al
+Medial
+Zoom Zoom Zoom
+E Microvilli packing Brush Border
+CDHR2/CDHR5
+TJ
+Medial Marginal
+AJ
+Motile microvilli Stable microvilli
+Weak adhesion Strong adhesion
+Differentiation
+
+NEW PAGE
+
+586  Figure 7: Long-term imaging reveals that microvilli first accumulate at cell margins 
+587  over the course of differentiation. (A-C) MaxIP spinning disk confocal stills of live 
+588  mCherry-ESPN expressing CL4 cells at t = 0 hours, 24 hours, and 43 hours from a 43-
+589  hour acquisition. (A-C, intensity coded) Fire LUT intensity profile of the mCherry-ESPN 
+590  channel. Intensity scales from low (0; dark purple) to high (255; yellow/white) as denoted 
+591  by LUT profile. Zooms at each time point are outlined by dashed boxes, with marginal 
+592  and medial zones as marked. (D) Mean marginal and medial mCherry-ESPN intensity of 
+593  n = 10 cells from the time points shown in (A-C). Change in mean ESPN intensity (AU) in 
+594  the first 24 hours is denoted on the graph. The cut axis accounts for background mCherry 
+595  signal. Scale bars: 20 µm (A-C), 10 µm (zooms). (E) An adhesion-based model for the 
+596  marginal stabilization of microvilli during brush border assembly. Microvilli on nascent 
+597  transporting epithelial cells organize into two distinct populations: medial and marginal. 
+598  Medial microvilli are highly motile while marginal microvilli are stable and stand at an 
+599  orientation  more  vertical  to  the  apical  surface.  Transjunctional  CDHR2/CDHR5 
+600  heterophilic adhesion complexes span cell-cell junctions and link marginal microvilli of 
+601  neighboring cells. These complexes are long-lived, and lead to the accumulation of 
+602  microvilli at the edges of cells. A predicted outside-in packing mechanism occurs during 
+603  differentiation as a result of transjunctional adhesion complexes first stabilizing microvilli 
+604  at cell margins. 
+605 
+  24 
+
+NEW PAGE
+
+606  METHODS: 
+607  Key Resources Table 
+REAGENT or RESOURCE  SOURCE  IDENTIFIER 
+Antibodies 
+Cat# 
+H00054825-M01; 
+anti-PCLKC [CDHR2] (mouse) [1:25]  Abnova 
+RRID: 
+AB_490042 
+Cat# 
+HPA009173; 
+anti-CDHR5 (rabbit) [1:250]  Sigma-Aldrich 
+RRID: 
+AB_1079429 
+Cat#  GFP-1020; 
+anti-GFP (chicken) [1:200]  Aves Labs  RRID: 
+AB_10000240 
+Cat#  MABT11; 
+anti-ZO-1 (rat) [1:100]  Millipore  RRID: 
+AB_10616098 
+Cat#  61-7300; 
+anti-ZO-1 (rabbit) [1:50]  ThermoFisher  RRID: 
+AB_2533938 
+Cat#  A-11017; 
+Goat  anti-mouse  Alexa  Fluor  488  F(ab’)2 
+ThermoFisher  RRID: 
+fragment [1:1000] 
+AB_2534084 
+Cat#  A-11070; 
+Goat  anti-rabbit  Alexa  Fluor  488  F(ab’)2 
+ThermoFisher  RRID: 
+fragment [1:1000] 
+AB_2534114 
+Cat#  A-21069; 
+Goat  anti-rabbit  Alexa  Fluor  568  F(ab’)2 
+ThermoFisher  RRID: 
+fragment [1:1000] 
+AB_253573 
+Cat#  A-11039; 
+Goat anti-chicken Alexa Fluor 488 IgG (H+L) 
+ThermoFisher  RRID: 
+[1:1000] 
+AB_142924 
+Cat#  A-21247; 
+Goat anti-rat Alexa Fluor 647 IgG (H+L) [1:200]  ThermoFisher  RRID: 
+AB_141778 
+Bacterial and virus strains 
+  25 
+
+NEW PAGE
+
+Molecular  Cell 
+Biology  Resource 
+E. coli DH5-Alpha competent cells  Item# DH5 Alpha 
+Core,  Vanderbilt 
+Medical Center 
+Chemicals, peptides, and recombinant proteins 
+Alexa Fluor Plus 405 Phalloidin [1:200]  ThermoFisher  Cat# A30104 
+Alexa Fluor 647 Phalloidin [1:200]  ThermoFisher  Cat# A22287 
+Janelia Fluor 635 (JF635)  Janelia  N/A 
+Electron  Cat# 15710 
+16% Paraformaldehyde  Microscopy 
+Sciences   
+Triton X-100  Sigma  Cat# T8787 
+ProLong Gold Antifade Reagent  Invitrogen  Cat# P36930 
+FuGENE 6  Promega  Cat# E2691 
+Lipofectamine 2000  ThermoFisher  Cat# 11668019 
+Gold 
+G418 Sulfate  Cat#G-418-1 
+Biotechnology 
+Gold 
+Puromycin  Cat# P-600-100 
+Biotechnology 
+Antibiotic-antimycotic (anti-anti)  Gibco  Cat# 15240062 
+Electron 
+Glutaraldehyde 25%  Microscopy  Cat# 16220 
+Sciences 
+Electron 
+Tannic Acid  Microscopy  Cat# 21700 
+Sciences 
+Electron 
+Osmium Tetroxide  Microscopy  Cat# 19112 
+Sciences 
+Experimental models: Cell lines 
+Gift  from  Dr. 
+LLC-PK1-CL4  Carolyn  Slayman  N/A 
+(Yale University) 
+CACO-2   ATCC  Cat# CRL-2102 
+BBE
+  26 
+
+NEW PAGE
+
+Experimental models: Organisms/strains 
+Vanderbilt 
+CDHR2-EGFP mouse  Genome  Editing  N/A 
+Resource 
+Oligonucleotides 
+CDHR2-Fwd: ATGGCCCAGCTATGGCTG  This paper  N/A 
+CDHR2-Rev: CAGGTCCGTGGTGTCCAGG  This paper  N/A 
+Recombinant DNA 
+Gift from Dr. James 
+pmCherry-Espin (ESPN)  Bartles, NWU  N/A 
+pLVX-mCherry-Espin (ESPN) 
+[20]  N/A 
+ 
+pEGFP-N3-CDHR2 (PCDH24-EGFP)  [11]  N/A 
+pmCherry-N3-CDHR2  Tyska Laboratory  N/A 
+pEGFP-N3-CDHR5  Tyska Laboratory  N/A 
+pmCherry-N3-CDHR5  Tyska Laboratory  N/A 
+Purchased  from 
+Allele  ABP-FP-
+pmNEONGreen-b-Actin  Allele 
+MENEONSA 
+Biotechnology 
+pHALO-N3-CDHR2  This paper  N/A 
+Software and algorithms 
+FIJI  https://fiji.sc  N/A 
+Nikon 
+NIS AR Elements Analysis  (https://bit.ly/3fFd8 N/A 
+rz) 
+GraphPad 
+Prism 9  (https://graphpad.c N/A 
+om) 
+Other 
+MycoAlert PLUS Mycoplasma Detection Kit  Lonza  Cat# LT07-710 
+pCR™8/GW/TOPO™ TA Cloning Kit  Invitrogen  Cat# K250020 
+Gateway™ Vector Conversion System  Invitrogen  Cat# 11828029 
+  27 
+
+NEW PAGE
+
+Cat# D35-20-1.5-
+35 mm #1.5 glass bottom dishes  CellVis 
+N 
+608   
+609  Animal studies 
+610  Animal experiments were carried out in accordance with Vanderbilt University Medical 
+611  Center Institutional Animal Care and Use Committee guidelines under IACUC Protocol 
+612  ID#: M1600206-02.  
+613   
+614  CDHR2-EGFP mouse 
+615  Created in collaboration with the Vanderbilt Genome Editing Resource. A C57Bl/6N strain 
+616  containing  a  CDHR2  C-terminal  EGFP  sequence  insertion.  [crRNA  sequence: 
+617  TGGACACCACAGATCTGTGA] Ribonucleoprotein complexes containing ctRNA and WT 
+618  SpCas9 protein were targeted to the C-terminus of CDHR2 were assembled and injected 
+619  with a single stranded 944 nt DNA donor into 1-cell C57Bl/6N embryos. crRNA, tracrRNA, 
+620  and WT SpCas9 protein was sourced from MilliporeSigma. The single stranded DNA was 
+621  produced by Genewiz. Pups were screened for CDHR2-EGFP sequence insertions by 
+622  PCR and validated by Sanger sequencing.  
+623   
+624  Frozen Section Tissue Preparation 
+625  The proximal segment (duodenum to jejunum) of the mouse intestinal tube was excised 
+626  and flushed with cold 1X phosphate-buffered saline (PBS). One end of the tube was 
+627  clamped  with  a  hemostat  and  the  tube  was  filled  with  room  temperature  2% 
+628  paraformaldehyde  (PFA)  (Electron  Microscopy  Sciences)  with  a  syringe  and  metal 
+629  cannula. The other end of the tube was clamped with a hemostat and the tissue was laid 
+630  in  a  petri  dish  containing  excess  2%  PFA  and  incubated  for  15  minutes  at  room 
+631  temperature. Hemostats were removed and the tissue was cut lengthwise into one flat 
+632  piece. Tissue was then sub dissected into ~2mm2 pieces and fixed for an additional 30 
+633  minutes in a vial of 2% PFA at room temperature. After fixation, the tissue was washed 3 
+634  times with PBS and then placed, villi-side down, into a vial of cold 30% sucrose/1% 
+635  sodium azide. The tissue was placed at 4°C, overnight until sections sank to the bottom 
+636  of the tube. The next day, sections were passed through 3 separate blocks of optimal 
+  28 
+
+NEW PAGE
+
+637  cutting temperature (OCT) compound (Electron Microscopy Sciences) to wash off the 
+638  sucrose solution, oriented with villi parallel to the lab bench in a fresh block of OCT, and 
+639  snap frozen in dry ice-cooled acetone. Samples were cut into 10 µm thin sections using 
+640  a Leica CM1950 cryostat and mounted on plasma-cleaned #1.5H precision coverslips 
+641  (Thorlabs). Coverslips were stored at -20°C until staining. 
+642   
+643  Frozen Section Immunofluorescence  
+644  Coverslips were thawed to room temperature and rinsed twice with 1X PBS to remove 
+645  OCT. Sections were permeabilized with 0.2% Triton X-100 (diluted in PBS) for 10 minutes 
+646  at room temperature. Sections were then rinsed once with PBS at room temperature and 
+647  blocked in 10% bovine serum albumin (BSA) for 2 hours at 37°C in a humidified chamber. 
+648  After rinsing with PBS, primary antibody (diluted in 1% BSA) was applied overnight at 4°C 
+649  in a humidified chamber. The next day, sections were rinsed with 1X PBS 4 times and 
+650  secondary antibody (diluted in 1% BSA) was applied for 2 hours at room temperature in 
+651  a dark, humidified chamber. Sections were rinsed 4 times with 1X PBS and coverslips 
+652  were mounted onto glass slides with ProLong Gold. The following antibodies and dilutions 
+653  were used for EGFP-CDHR2 mouse frozen section staining: anti-GFP (chicken Aves 
+654  #GFP-1020), 1:200; anti-CDHR5 (rabbit, Sigma #HPA009173), 1:250; anti-ZO-1 clone 
+655  R40.76 (rat, EMD Millipore Sigma #MABT11), 1:100; Alexa Fluor goat anti-chicken 488 
+656  (Invitrogen  #A-11039),  1:1000;  Alexa  Fluor  F(ab’)2  fragment  goat  anti-rabbit  568 
+657  (Invitrogen #A21069), 1:1000; Alexa Fluor goat anti-rat 647 (Invitrogen #A21247), 1:200; 
+658  and Alexa Fluor Plus 405 Phalloidin (Invitrogen #A30104), 1:200 for actin staining. The 
+659  secondary antibodies, not including phalloidin, were spun down for 10 minutes at 4°C and 
+660  21 x g prior to using. 
+661   
+662  Cell Culture 
+663  LLC-PK1-CL4 (porcine kidney proximal tubule) cells were grown in 1X high glucose 
+664  DMEM containing 2mM L-glutamine (Corning #10-013-CV) supplemented with 1% L-
+665  glutamine (Corning # 25-005-CI) and 10% fetal bovine serum (FBS) (R&D Systems) while 
+666  CACO-2BBE (human colonic adenocarcinoma) cells were grown in the same medium but 
+667  supplemented with 20% FBS. Cells were maintained in culture incubated at 37°C and 5% 
+  29 
+
+NEW PAGE
+
+668  CO2.  Cells  were  tested  for  mycoplasma  using  the  MycoAlert  PLUS  Mycoplasma 
+669  Detection Kit (Lonza #LT07-710). 
+670   
+671  Cloning and Constructs 
+672  A C terminally tagged pHALO-N3-CDHR2 (CDHR2-HALO) construct was generated by 
+673  taking full length CDHR2 via PCR from pEGFP-N3-PCDH24 (CDHR2-EGFP) with the 
+674  primers  CDHR2-Fwd:  ATGGCCCAGCTATGGCTG  and  CDHR2-Rev: 
+675  CAGGTCCGTGGTGTCCAGG.    The  product  was  then  TOPO  cloned  into  the 
+676  pCR8/GW/TOPO vector (Invitrogen #K250020) and then placed into the pHALO-N3 
+677  backbone, adapted for Gateway cloning using the Gateway conversion kit (Invitrogen 
+678  #11828029). All other overexpression constructs listed in this paper were previously 
+679  created and/or reported as noted in the key resources table. 
+680   
+681  Cell Line Generation 
+682  Cells expressing one plasmid were transfected with FuGENE 6 (Promega #E2691) at a 
+683  FuGENE:DNA (µL:µg) ratio of 3:1 following the reagent protocol in a T25 cell culture flask. 
+684  The next day, all cells were split up to a T75 flask with the addition of 1mg/mL G418 
+685  sulfate for antibiotic selection. Cells were maintained in culture under constant G418 
+686  selection to create a stably expressing cell line. Cells co-expressing two plasmids were 
+687  transiently transfected with Lipofectamine 2000 (Invitrogen #11668019) according to the 
+688  manufacturer’s protocol. The next day, cells were split to plasma-cleaned 35mm glass 
+689  bottom  dishes  (CellVis  #D35-20-1.5-N)  for  subsequent  imaging.  The  EGFP-
+690  EPS8/mCherry-ESPN CL4 stable cell line was previously created [20] by transducing a 
+691  G418-selected EGFP-EPS8 stable cell line with lentiviral mCherry-ESPN followed by 10 
+692  µg/mL puromycin selection. See citation for detailed protocol. The Halo-CDHR2/EGFP-
+693  CDHR5 co-expressing CL4 cells were a transient transfection, and not stably selected. 
+694   
+695  Cell Immunofluorescence 
+696  Prior to fixation and staining, CL4 and CACO-2BBE cells were grown to n days post-
+697  confluent (DPC) on acid-washed 22x22 mm #1.5H coverslips (Globe Scientific) in a 6-
+698  well plate to a time point with apical polarity representative of their native tissue, 3 DPC 
+  30 
+
+NEW PAGE
+
+699  and 12 DPC, respectively. First, cells were rinsed in warm 1X PBS and fixed in 4% PFA 
+700  for 15 minutes at 37°C. Cells were then washed three times, 5 minutes each, with 1X 
+701  PBS and permeabilized with 0.1% Triton X-100 for 10 minutes at room temperature. 5% 
+702  BSA was added for 1 hour at 37°C as blocking solution. After rinsing with 1X PBS, primary 
+703  antibody (diluted in 1% BSA) was added for 1 hour at 37°C. Labeling with primary 
+704  antibody was followed by washing 4 times, 5 minutes each, with 1X PBS. Secondary 
+705  antibody (diluted in 1% BSA) was then applied for 1 hour at room temperature in the dark. 
+706  After incubation in secondary antibody, cells were washed 4 times, 5 minutes each with 
+707  1X PBS and coverslips were mounted on glass slides with ProLong Gold. The following 
+708  antibodies  and  dilutions  were  used  for  cell  staining:  anti-PCLKC  (CDHR2)  (mouse, 
+709  Abnova #H00054825-M01), 1:25; anti-CDHR5 (Rabbit, Sigma #HPA009173), 1:250; anti-
+710  ZO-1 clone R40.76 in CL4 (rat, EMD Millipore Sigma #MABT11), 1:100; anti-ZO-1 in 
+711  CACO-2BBE (rabbit, Invitrogen #61-7300), 1:50; Alexa Fluor F(ab’)2 fragment goat anti-
+712  mouse 488 (Invitrogen #A11017) and goat anti-rabbit 568 (Invitrogen #A21069), 1:1000; 
+713  Alexa Fluor goat anti-rat 647 (Invitrogen #A21247), 1:200; and Alexa Fluor Plus 405 
+714  Phalloidin (Invitrogen # A30104) or Alexa Fluor 647 Phalloidin (Invitrogen # A22287), 
+715  1:200 for actin staining. The secondary antibodies, not including phalloidin, were spun 
+716  down for 10 minutes at 4°C and 21 x g prior to using. 
+717   
+718  Fluorescence-activated Cell Sorting (FACS) 
+719  Cells were spun down into a pellet and resuspended in “pre-sort medium” containing 
+720  Phenol free 1X DMEM (Gibco #21063-029) plus 5% FBS, and 1% L-glutamine. Cells were 
+721  sorted by Vanderbilt University Medical Center’s Flow Cytometry Shared Resource on a 
+722  5-Laser FACS Aria III system with a 100 µm sized nozzle. All fluorescent positive cells 
+723  (Fig. S3) were deposited into a single well of a 6-well plate containing “post-sort medium” 
+724  of 1X DMEM (Corning #10-013-CV) with Phenol red, 10% FBS, 1% L-glutamine, and 
+725  10µL/mL anti-anti (Gibco #15240062). 24 hours post-sort, the media was changed to CL4 
+726  culture media (as detailed in cell culture methods) and 1 mg/mL G418 was added for 
+727  maintaining stable plasmid overexpression. Sorted cell lines were maintained in this 
+728  media and under antibiotic selection.   
+729   
+  31 
+
+NEW PAGE
+
+730  Cell Mixing Experiments 
+731  Fluorescently sorted CL4 cell populations were grown independently and under G418 
+732  antibiotic selective pressure to ~80% confluence, trypsinized, and resuspended in CL4 
+733  media to a density of ~850,000 cells/mL. 250 µL of each cell population were seeded in 
+734  plasma-cleaned glass-bottom dishes or onto acid washed coverslips at a density of 
+735  ~400,000 total cells at a mixing ratio of 1:1 (e.g. CDHR2-EGFP cells were mixed with 
+736  CDHR5-mCherry cells). Immediately after seeding, cell populations were thoroughly 
+737  mixed by pipette. Cells were grown to 3DPC for fixed cell staining or for 1 day for live cell 
+738  imaging (FRAP). 
+739   
+740  Fixed Sample Microscopy 
+741  Laser scanning confocal microscopy was performed on a Nikon A1 microscope equipped 
+742  with 488 nm, 568 nm, and 647 nm LASERs. Mixed CL4 cell populations for linescan 
+743  analysis were imaged using a Plan Apo 40x/1.3 NA oil immersion objective. CACO-2BBE 
+744  cells were imaged using an Apo TIRF 100x/1.49 NA TIRF oil immersion objective. 
+745  Structured illumination microscopy (SIM) was used for imaging frozen tissue sections and 
+746  fixed cells with a Nikon N-SIM equipped with 405, 488, 468, and 647 nm LASERs, an 
+747  Andor DU-897 EMCCD camera, and a TIRF 100X/1.49 NA TIRF oil immersion objective. 
+748  All SIM images were reconstructed using Nikon Elements software.  
+749   
+750  Live Imaging Microscopy 
+751  Prior to live cell imaging, cells growing in 35mm glass bottom dishes were rinsed once 
+752  with 1X DPBS (Corning #21-031-CV). FluoroBrite imaging media (Gibco #A18967-01) 
+753  supplemented with 10% FBS and 1% L-glutamine was added to the dish. For CL4 cells 
+754  expressing Halo-CDHR2, Janelia Fluor 635 dye (Janelia) was added to the FluoroBrite 
+755  media at a concentration of 50 nM for 1 hour at 37°C immediately prior to imaging. 
+756  Spinning  disk  confocal  microscopy  was  performed  using  a  Nikon  Ti2  inverted  light 
+757  microscope with a Yokogawa CSU-X1 spinning disk head, a Photometrics Prime 95B or 
+758  Hamamatsu Fusion BT sCMOS camera, and three excitation LASERs (488, 568 and 647 
+759  nm). A 100X/1.49 NA TIRF oil immersion objective was used for all acquisitions. A stage 
+760  incubator (Tokai Hit) maintained cells in a humidified environment at 37°C with 5% CO2.  
+  32 
+
+NEW PAGE
+
+761   
+762  Fluorescence Recovery after Photobleaching (FRAP) 
+763  A square ROI was drawn in Nikon Elements at marginal and/or medial microvilli regions. 
+764  A stimulating 405 nm LASER controlled by a Bruker mini-scanner set at 70% power and 
+765  a dwell time of 40 us was targeted to each ROI after the first 3 frames of the movie 
+766  acquisition. Two ND time acquisitions were used for imaging fluorescence recovery at 
+767  intervals of 15 s for 3 minutes, followed by intervals of 30 s for 10 minutes.  
+768   
+769  Electron Microscopy – CACO-2BBE and LLC-PK1-CL4 cells and tissue 
+770  To prepare samples, cells were plated on glass coverslips washed once with warm SEM 
+771  buffer (0.1M HEPES, pH 7.3) supplemented with 2 mM CaCl2, then fixed with 2.5% 
+772  glutaraldehyde and then 4% paraformaldehyde in SEM buffer supplemented with 2mM 
+773  CaCl2. Samples were washed in SEM buffer, then incubated in 1% tannic acid, washed 
+774  with ddH2O, incubated with 1% OsO4, washed with ddH2O, incubated with 1% uranyl 
+775  acetate, then washed with ddH2O. Samples were dehydrated in a graded ethanol series. 
+776  Sampels were then dried using critical point drying and mounted on aluminum stubs and 
+777  coated with gold/palladium using a sputter coater. SEM imaging was performed using 
+778  Quanta 250 Environmental-SEM operated in high vacuum mode with an accelerating 
+779  voltage of 5–10 kV, or imaged on a Zeiss Crossbeam 550 at 2keV. All reagents were 
+780  purchased from Electron Microscopy Sciences. For more detailed methods, see [28]. 
+781  TEM of mouse intestine (Fig. S1B) was performed as previously described [14] 
+782   
+783  Electron Microscopy – Crypt-villus axis 
+784  For SEM imaging of intestinal sections, immediately after euthanasia, ~5 mm murine 
+785  duodenal sections were quickly fixed in a large volume (10mL) of 2.5% glutaraldehyde 
+786  and 4% paraformaldehyde in SEM buffer (described above). Sections were then washed 
+787  in SEM buffer prior to embedding in Tissue-Tek OCT compound (Sakura Finetek #4583). 
+788  To ensure stable support of the complex architecture within the explant lumens, samples 
+789  were gently moved through 3 rounds of fresh OCT compound with gentle manipulation to 
+790  ensure penetration of the OCT. Samples were then placed in cryomolds (with OCT) and 
+791  frozen over a dry ice/ethanol slurry. Molds were stored at -80C once fully frozen. Frozen 
+  33 
+
+NEW PAGE
+
+792  explants were subsequently sectioned on a Leica CM1950 crytostat at 50μm/section and 
+793  melted onto stainless steel AFM specimen discs (Electron Microscopy Sciences). Next, 
+794  explant  sections  and  disks  were  immersed  in  1%  OsO4,  washed  in  ddH2O,  then 
+795  dehydrated through graded ethanol series. Of note, it was most common to experience 
+796  detachment of the section from the AFM disk during the OsO4 and dehydration steps. 
+797  Detached sections were recovered and gently adhered to an aluminum SEM specimen 
+798  stub  via  conductive  adhesive  tab.  SEM  imaging  was  performed  on  a  Quanta  250 
+799  environmental SEM, as described above. 
+800   
+801  Quantification and Statistical Analysis 
+802  Microvilli  Orientation  Measurements.  In  Fiji,  the  first  frames  of  three  independent 
+803  mCherry-ESPN CL4 cell movies were used for orientation measurements shown in Fig. 
+804  2B. A thin, rectangular ROI (height 12 pixels) was drawn across 2+ cells to encompass 
+805  both marginal and medial areas (sample ROI Fig 2A, dotted box). The ROI hyperstack 
+806  was duplicated and 3D projected with rotation around the X axis. Using the Angle tool, a 
+807  line was drawn down the length of each microvillus (dotted lines, Fig. 2B) with the angle 
+808  base parallel to the cell surface (solid lines Fig. 2B). Angle measurements were plotted in 
+809  Prism in a column chart and mean marginal and medial angles were compared using a 
+810  Welch’s unpaired t-test.  
+811   
+812  Temporal Color Coding. Time frames for every 3 minutes were selected (18 total frames). 
+813  Using the Temporal-Color Code function in Fiji, the ESPN channel was coded (start frame 
+814  1, end frame 18) using the Spectrum LUT (Fig. 3B). 
+815   
+816  Microvilli tracking using EGFP-EPS8 puncta. Denoised and deconvolved 3D movies were 
+817  converted into max intensity projections in the Z plane. Next, a binary via the spot 
+818  detection tool was applied to the FITC channel (EPS8 signal) with a diameter of 260 nm 
+819  and a contrast value of 25 to threshold EPS8 puncta representing individual microvilli in 
+820  the ROI (medial or marginal). Tracking parameters did not allow for the detection of new 
+821  tracks after the first frame, allowed for a maximum of 3 gaps in a given track, and a 
+822  standard deviation multiplier of 2. Using the tracking tool, binaries, representing EPS8 
+  34 
+
+NEW PAGE
+
+823  puncta, were tracked and any points lying outside of the ROI were deselected. Track data, 
+824  time and X Y positions, were then exported to Excel and analyzed and plotted in Prism 
+825  as radial X Y positions over time by subtracting each position in X or Y from the respective 
+826  point position at time 0, making the first position (0,0) (Fig 3C and 3F). Three independent 
+827  live cell imaging experiments were used for the analysis. 
+828   
+829  Mean Square Displacement. With the same X,Y EPS8 puncta trajectories described 
+830  above, an Excel spreadsheet was used to calculate the mean square displacement of 
+831  each tracked microvillus over 15 s intervals across 5 minutes as us and others have done 
+832  previously [28, 49-51]. A line was fitted to each MSD curve using the simple linear 
+833  regression model in Prism which provided the slopes presented on the plots in Fig. 3E 
+834  and H.  
+835   
+836  Cell Mixing Linescans. Using Fiji, a segmented line with a width of 6 was drawn across 
+837  mixed cell interfaces to encapsulate signal at the mixed cell (marginal) interfaces. Lines 
+838  with a minimum length of 20 µm and maximum length of 75 µm were used in analysis. 
+839  Fig. 5 shows one representative linescan from the large dataset for each cell mixing 
+840  scenario, with line length (µm) shown on the X axis and mCherry and EGFP construct 
+841  intensities on the Y axis. Intensities were normalized from 0 to 1 in Prism with 0 being the 
+842  lowest gray value in the linescan and 1 being the highest. The residual plots shown were 
+843  calculated from the respective representative linescan by subtracting mCherry intensity 
+844  from EGFP intensity at each length in X. 30 individual linescans from each cell mixing 
+845  scenario were plotted on their own XY correlation plot in Prism. Combined Pearson’s r 
+846  values from the 30 individual correlations were plotted in Fig 5K, and mean r values were 
+847  compared in Prism using an Ordinary one-way ANOVA with multiple comparisons.  
+848   
+849  FRAP Fraction Recovery Analysis. A background ROI and reference ROI were used to 
+850  account for photobleaching and background fluorescence in both channels. Fraction 
+("#$%&'$(	*+,-"%&./0123()
+851  recovery over time was calculated from  . Recovery curves were 
+(*$5$0$3&$	*+,-"%&./0123()
+852  fitted with a two-phase association equation in Prism and the immobile fraction was 
+853  calculated  from  1  minus  the  plateau.  Images  shown  in  Fig.  6  were  denoised  and 
+  35 
+
+NEW PAGE
+
+854  deconvolved  in  Nikon  Elements  for  presentation  clarity,  however  all  analyzed 
+855  measurements presented in the FRAP plots were taken from raw, unprocessed movies. 
+856   
+857  Mean ESPN Intensity Measurements. In Nikon Elements, the movie was projected in Z 
+858  to create a maximum intensity projection. For Fig. 7D, at 0 hr and 24 hr a ring ROI was 
+859  drawn encompassing each marginal zone and separate circular ROI was drawn to 
+860  encompass the medial zone of 10 cells. Mean mCherry-ESPN intensity was measured 
+861  for each cell at the marginal and medial zones. Delta represents the change in mCherry-
+862  ESPN mean intensity from the 0 hr time point to the 24 hr time point.  
+863     
+  36 
+
+NEW PAGE
+
+864  REFERENCES 
+865  1.  Coudrier,  E.,  D.  Kerjaschki,  and  D.  Louvard,  Cytoskeleton  organization  and 
+866  submembranous interactions in intestinal and renal brush borders. Kidney Int, 
+867  1988. 34(3): p. 309-20. 
+868  2.  Sauvanet, C., et al., Structure, regulation, and functional diversity of microvilli on 
+869  the apical domain of epithelial cells. Annu Rev Cell Dev Biol, 2015. 31: p. 593-621. 
+870  3.  Mooseker, M.S. and L.G. Tilney, Organization of an actin filament-membrane 
+871  complex. Filament polarity and membrane attachment in the microvilli of intestinal 
+872  epithelial cells. J Cell Biol, 1975. 67(3): p. 725-43. 
+873  4.  Ohta, K., et al., Helical arrangement of filaments in microvillar actin bundles. J 
+874  Struct Biol, 2012. 177(2): p. 513-9. 
+875  5.  Helander, H.F. and L. Fandriks, Surface area of the digestive tract - revisited. 
+876  Scand J Gastroenterol, 2014. 49(6): p. 681-9. 
+877  6.  Wessely, O., et al., The bigger the better: determining nephron size in kidney. 
+878  Pediatr Nephrol, 2014. 29(4): p. 525-30. 
+879  7.  Delacour, D., et al., Plasticity of the brush border - the yin and yang of intestinal 
+880  homeostasis. Nat Rev Gastroenterol Hepatol, 2016. 13(3): p. 161-74. 
+881  8.  Fath, K.R., S.D. Obenauf, and D.R. Burgess, Cytoskeletal protein and mRNA 
+882  accumulation  during  brush  border  formation  in  adult  chicken  enterocytes. 
+883  Development, 1990. 109(2): p. 449-59. 
+884  9.  Specian, R.D. and M.R. Neutra, The surface topography of the colonic crypt in 
+885  rabbit and monkey. Am J Anat, 1981. 160(4): p. 461-72. 
+886  10.  Rice, W.L., et al., High resolution helium ion scanning microscopy of the rat kidney. 
+887  PLoS One, 2013. 8(3): p. e57051. 
+888  11.  Crawley, S.W., et al., Intestinal brush border assembly driven by protocadherin-
+889  based intermicrovillar adhesion. Cell, 2014. 157(2): p. 433-446. 
+890  12.  Weck,  M.L.,  et  al.,  Myosin-7b  Promotes  Distal  Tip  Localization  of  the 
+891  Intermicrovillar Adhesion Complex. Curr Biol, 2016. 26(20): p. 2717-2728. 
+892  13.  Crawley, S.W., et al., ANKS4B Is Essential for Intermicrovillar Adhesion Complex 
+893  Formation. Dev Cell, 2016. 36(2): p. 190-200. 
+894  14.  Pinette, J.A., et al., Brush border protocadherin CDHR2 promotes the elongation 
+895  and maximized packing of microvilli in vivo. Mol Biol Cell, 2019. 30(1): p. 108-118. 
+896  15.  McConnell, R.E., et al., Proteomic analysis of the enterocyte brush border. Am J 
+897  Physiol Gastrointest Liver Physiol, 2011. 300(5): p. G914-26. 
+  37 
+
+NEW PAGE
+
+898  16.  Gray, M.E., et al., Heterophilic and homophilic cadherin interactions in intestinal 
+899  intermicrovillar links are species dependent. PLoS Biol, 2021. 19(12): p. e3001463. 
+900  17.  Li, J., et al., Mechanistic Basis of Organization of the Harmonin/USH1C-Mediated 
+901  Brush Border Microvilli Tip-Link Complex. Dev Cell, 2016. 36(2): p. 179-89. 
+902  18.  Li, J., et al., Structure of Myo7b/USH1C complex suggests a general PDZ domain 
+903  binding mode by MyTH4-FERM myosins. Proc Natl Acad Sci U S A, 2017. 114(19): 
+904  p. E3776-E3785. 
+905  19.  Choi, M.S., et al., The small EF-hand protein CALML4 functions as a critical 
+906  myosin light chain within the intermicrovillar adhesion complex. J Biol Chem, 2020. 
+907  295(28): p. 9281-9296. 
+908  20.  Gaeta, I.M., et al., Direct visualization of epithelial microvilli biogenesis. Curr Biol, 
+909  2021. 31(12): p. 2561-2575 e6. 
+910  21.  Higgs, H.N., There goes the neighbourhood: Eps8 joins the barbed-end crowd. Nat 
+911  Cell Biol, 2004. 6(12): p. 1147-9. 
+912  22.  Manor, U., et al., Regulation of stereocilia length by myosin XVa and whirlin 
+913  depends on the actin-regulatory protein Eps8. Curr Biol, 2011. 21(2): p. 167-72. 
+914  23.  Disanza, A., et al., Regulation of cell shape by Cdc42 is mediated by the synergic 
+915  actin-bundling activity of the Eps8-IRSp53 complex. Nat Cell Biol, 2006. 8(12): p. 
+916  1337-47. 
+917  24.  Croce, A., et al., A novel actin barbed-end-capping activity in EPS-8 regulates 
+918  apical morphogenesis in intestinal cells of Caenorhabditis elegans. Nat Cell Biol, 
+919  2004. 6(12): p. 1173-9. 
+920  25.  Postema, M.M., et al., IRTKS (BAIAP2L1) Elongates Epithelial Microvilli Using 
+921  EPS8-Dependent and Independent Mechanisms. Curr Biol, 2018. 28(18): p. 2876-
+922  2888 e4. 
+923  26.  Tocchetti, A., et al., Loss of the actin remodeler Eps8 causes intestinal defects and 
+924  improved metabolic status in mice. PLoS One, 2010. 5(3): p. e9468. 
+925  27.  Zampini, V., et al., Eps8 regulates hair bundle length and functional maturation of 
+926  mammalian auditory hair cells. PLoS Biol, 2011. 9(4): p. e1001048. 
+927  28.  Meenderink, L.M., et al., Actin Dynamics Drive Microvillar Motility and Clustering 
+928  during Brush Border Assembly. Dev Cell, 2019. 50(5): p. 545-556 e4. 
+929  29.  Peterson, M.D. and M.S. Mooseker, Characterization of the enterocyte-like brush 
+930  border cytoskeleton of the C2BBe clones of the human intestinal cell line, Caco-2. 
+931  J Cell Sci, 1992. 102 ( Pt 3): p. 581-600. 
+  38 
+
+NEW PAGE
+
+932  30.  Nielsen, R., et al., Characterization of a kidney proximal tubule cell line, LLC-PK1, 
+933  expressing endocytotic active megalin. J Am Soc Nephrol, 1998. 9(10): p. 1767-
+934  76. 
+935  31.  Bartles, J.R., et al., Small espin: a third actin-bundling protein and potential forked 
+936  protein ortholog in brush border microvilli. J Cell Biol, 1998. 143(1): p. 107-19. 
+937  32.  Loomis, P.A., et al., Espin cross-links cause the elongation of microvillus-type 
+938  parallel actin bundles in vivo. J Cell Biol, 2003. 163(5): p. 1045-55. 
+939  33.  Stevenson, B.R., et al., Identification of ZO-1: a high molecular weight polypeptide 
+940  associated with the tight junction (zonula occludens) in a variety of epithelia. J Cell 
+941  Biol, 1986. 103(3): p. 755-66. 
+942  34.  Trier, J.S., Studies on Small Intestinal Crypt Epithelium. I. The Fine Structure of 
+943  the Crypt Epithelium of the Proximal Small Intestine of Fasting Humans. J Cell Biol, 
+944  1963. 18(3): p. 599-620. 
+945  35.  Li, J., et al., Culture and characterization of chicken small intestinal crypts. Poult 
+946  Sci, 2018. 97(5): p. 1536-1543. 
+947  36.  Wu, S.K., et al., Cortical F-actin stabilization generates apical-lateral patterns of 
+948  junctional contractility that integrate cells into epithelia. Nat Cell Biol, 2014. 16(2): 
+949  p. 167-78. 
+950  37.  Vanslembrouck,  B.,  et  al.,  Microscopic  Visualization  of  Cell-Cell  Adhesion 
+951  Complexes at Micro and Nanoscale. Front Cell Dev Biol, 2022. 10: p. 819534. 
+952  38.  Sokurenko, E.V., V. Vogel, and W.E. Thomas, Catch-bond mechanism of force-
+953  enhanced  adhesion:  counterintuitive,  elusive,  but  ...  widespread?  Cell  Host 
+954  Microbe, 2008. 4(4): p. 314-23. 
+955  39.  Thomas, W., For catch bonds, it all hinges on the interdomain region. J Cell Biol, 
+956  2006. 174(7): p. 911-3. 
+957  40.  Rakshit, S., et al., Ideal, catch, and slip bonds in cadherin adhesion. Proc Natl 
+958  Acad Sci U S A, 2012. 109(46): p. 18815-20. 
+959  41.  Thomas, W., Catch bonds in adhesion. Annu Rev Biomed Eng, 2008. 10: p. 39-
+960  57. 
+961  42.  Guo, B. and W.H. Guilford, Mechanics of actomyosin bonds in different nucleotide 
+962  states are tuned to muscle contraction. Proc Natl Acad Sci U S A, 2006. 103(26): 
+963  p. 9844-9. 
+964  43.  Kong, F., et al., Demonstration of catch bonds between an integrin and its ligand. 
+965  J Cell Biol, 2009. 185(7): p. 1275-84. 
+  39 
+
+NEW PAGE
+
+966  44.  VanDussen, K.L., et al., Abnormal Small Intestinal Epithelial Microvilli in Patients 
+967  With Crohn's Disease. Gastroenterology, 2018. 155(3): p. 815-828. 
+968  45.  McGuckin,  M.A.,  et  al.,  Intestinal  barrier  dysfunction  in  inflammatory  bowel 
+969  diseases. Inflamm Bowel Dis, 2009. 15(1): p. 100-13. 
+970  46.  Velle, K.B. and K.G. Campellone, Extracellular motility and cell-to-cell transmission 
+971  of enterohemorrhagic E. coli is driven by EspFU-mediated actin assembly. PLoS 
+972  Pathog, 2017. 13(8): p. e1006501. 
+973  47.  In, J., et al., Enterohemorrhagic Escherichia coli reduce mucus and intermicrovillar 
+974  bridges in human stem cell-derived colonoids. Cell Mol Gastroenterol Hepatol, 
+975  2016. 2(1): p. 48-62 e3. 
+976  48.  Pedersen, G.A., et al., The basolateral vesicle sorting machinery and basolateral 
+977  proteins are recruited to the site of enteropathogenic E. coli microcolony growth at 
+978  the apical membrane. PLoS One, 2017. 12(6): p. e0179122. 
+979  49.  Qian, H., M.P. Sheetz, and E.L. Elson, Single particle tracking. Analysis of diffusion 
+980  and flow in two-dimensional systems. Biophys J, 1991. 60(4): p. 910-21. 
+981  50.  Berg, H.C., Random walks in biology. 1993, Princeton: Princeton University Press. 
+982  51.  Sheetz, M.P., et al., Nanometre-level analysis demonstrates that lipid flow does 
+983  not drive membrane glycoprotein movements. Nature, 1989. 340(6231): p. 284-8. 
+984   
+985     
+  40 
+
+NEW PAGE
+
+986  SUPPLEMENTAL FIGURE LEGENDS 
+987  Figure S1: Microvilli of mature epithelial cells are continuous across the monolayer 
+988  surface. (A) SEM of mouse small intestine showing an en face view of microvilli on 
+989  neighboring enterocytes. The dashed box represents a zoom of a single enterocyte cell 
+990  and its neighbors. (B) Transmission electron micrograph (TEM) of mouse small intestine 
+991  showing a lateral view of microvilli. Dashed box represents the zoom of a cell-cell junction 
+992  (white arrow) with neighboring cell microvilli appearing continuous across the interface 
+993  (black arrow). Scale bars: 4 µm (A), 1 µm (A, zoom), 5 µm (B), 500 nm (B, zoom). 
+994   
+995  Figure S2: High-resolution imaging of adhesion complex interfaces in mixed CL4 
+996  cell populations. (A) FACS profiles of the four stable CL4 cell lines expressing C-
+997  terminal mCherry or EGFP tagged CDHR2 or CDHR5 as marked on the top axis of the 
+998  graph. 3D Volume SIM images of mixed (B) heterophilic; CDHR5-mCherry and CDHR2-
+999  EGFP,  (C)  homophilic;  CDHR2-EGFP  and  mCherry-CDHR5,  and  (D)  homophilic; 
+1000  CDHR5-mCherry and CDHR5-EGFP CL4 cells. Dashed boxes outlined in B-D represent 
+1001  zooms shown in bottom panel, respectfully. White arrows in zoom under (B) point to 
+1002  instances of robust microvilli alignment at cell margins, which are absent in the homophilic 
+1003  mixing scenarios. Scales as marked. 
+1004     
+  41 
+
+NEW PAGE
+
+Fig. S1
+A Zoom
+B Zoom       
+
+NEW PAGE
+
+Fig. S2
+A
+B C D
+Heterophilic  Homophilic – CDHR2 Homophilic – CDHR5
+CDHR5 CDHR2 CDHR2 CDHR2 CDHR5 CDHR5
+Zoom Zoom Zoom
+
+NEW PAGE
+
+1005  SUPPLEMENTAL VIDEO LEGENDS 
+1006  Video S1: Microvilli adopt an orientation perpendicular to the cell surface upon 
+1007  reaching the cell margins. 3D volume projection depth coded in Z of live mCherry-ESPN 
+1008  expressing CL4 cells. Spinning disk confocal movie taken over 2 hours with 2-minute 
+1009  intervals of the microvilli cluster marked in Fig 2C, and D. Arrow follows a cluster of medial 
+1010  microvilli that transition to a vertical orientation upon reaching the marginal cell area (as 
+1011  marked by Z-depth color profile). Scale bar: 3 µm. 
+1012   
+1013  Video S2: Marginal heterophilic adhesion complexes have low signal recovery, 
+1014  suggesting high complex stability. Mixed CL4 cells expressing CDHR2-EGFP (green) 
+1015  and CDHR5-mCherry (magenta) photobleached at two marginal ROIs; 30s intervals 
+1016  shown. Scale bar: 5 µm.  
+1017   
+1018  Video S3: Medial heterophilic adhesion complexes have higher signal recovery, 
+1019  suggesting lower complex stability. CL4 cell co-expressing CDHR2-Halo (magenta) 
+1020  and CDHR5-EGFP (green) photobleached at a medial ROI; 15s and 30s intervals shown. 
+1021  Scale bar: 5 µm. 
+1022   
+1023  Video S4: Marginal homophilic CDHR2 adhesion complexes have higher signal 
+1024  recovery, suggesting lower complex stability. Mixed CL4 cells expressing CDHR2-
+1025  EGFP (green) and CDHR2-mCherry (magenta) photobleached at a marginal ROI; 15s 
+1026  intervals shown. Scale bar: 5 µm.  
+1027   
+1028  Video S5: Marginal homophilic CDHR5 adhesion complexes have higher signal 
+1029  recovery, suggesting lower complex stability. Mixed CL4 cells expressing CDHR5-
+1030  EGFP (green) and CDHR5-mCherry (magenta) photobleached at a marginal ROI; 30s 
+1031  intervals shown. Scale bar: 5 µm. 
+1032   
+1033  Video  S6:  Microvilli  accumulate  first  at  cell  margins  over  cell  surface 
+1034  differentiation. (Left) CL4 cells expressing mCherry-ESPN imaged at 3-minute intervals 
+1035  for 43 hours. (Right) Fire LUT intensity profile of the ESPN channel. Intensity scales from 
+  42 
+
+NEW PAGE
+
+1036  low (0; dark purple) to high (255; yellow/white) as denoted by LUT profile. StackReg 
+1037  ImageJ plugin was used to align all frames of the movie. Scale bar: 10 µm.  
+1038   
+  43 
+
+NEW PAGE

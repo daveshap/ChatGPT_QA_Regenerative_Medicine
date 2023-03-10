@@ -1,0 +1,723 @@
+bioRxiv preprint doi: https://doi.org/10.1101/2022.03.26.485947; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+Structure of the connexin-43 gap junction channel in a 
+1 
+putative closed state 
+2 
+3   
+4  Chao Qi1,2,#, Silvia Acosta-Gutierrez3,# Pia Lavriha1,2, Alaa Othman4, Diego Lopez-
+,
+5  Pigozzi5,6, Erva Bayraktar6, Dina Schuster1,2,4, Paola Picotti4, Nicola Zamboni4, Mario 
+6  Bortolozzi5,6, Francesco L. Gervasio7,8,9* and Volodymyr M. Korkhov1,2* 
+7   
+8  1 Institute of Molecular Biology and Biophysics, ETH Zurich, Switzerland 
+9  2 Laboratory of Biomolecular Research, Paul Scherrer Institute, Villigen, Switzerland 
+10  3 Institute for the Physics of Living Systems, Institute of Structural and Molecular Biology, 
+11  and Department of Chemistry. University College London, London, UK 
+12  4 Institute of Molecular Systems Biology, ETH Zurich, Switzerland 
+13  5 Department of Physics and Astronomy “G. Galilei”, University of Padova, Padua, Italy 
+14  6 Veneto Institute of Molecular Medicine (VIMM), Padua, Italy 
+15  7 Department of Chemistry, University College London, WC1E 6BT London, UK 
+16  8 School of Pharmaceutical Sciences, University of Geneva, CH-1211 Geneva, Switzerland 
+17  9 ISPSO, University of Geneva, CH-1211 Geneva, Switzerland 
+18   
+19  * Corresponding authors: francesco.gervasio@unige.ch, volodymyr.korkhov@psi.ch 
+20  # These authors contributed equally 
+21     
+  1 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.03.26.485947; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+22  Abstract 
+23  Gap  junction  channels  (GJCs)  mediate  intercellular  communication  by  connecting  two 
+24  neighboring cells and enabling direct exchange of ions and small molecules. Cell coupling via 
+25  connexin-43 (Cx43) GJCs is important in a wide range of cellular processes in health and 
+26  disease 1-3, yet the structural basis of Cx43 function and regulation has not been determined 
+27  until now. Here we describe the structure of a human Cx43 GJC solved by cryo-EM and single 
+28  particle analysis at 2.26 Å resolution. The pore region of Cx43 GJC features several lipid-like 
+29  densities per Cx43 monomer, located close to a putative lateral access site at the monomer 
+30  boundary. We found a previously undescribed conformation on the cytosolic side of the pore, 
+31  formed by the N-terminal domain and the transmembrane helix 2 of Cx43 and stabilized by a 
+32  small molecule. Structures of the Cx43 GJC and hemichannels in nanodiscs reveal a similar 
+33  gate arrangement. The features of the Cx43 GJC and hemichannel cryo-EM maps and the 
+34  channel properties revealed by molecular dynamics simulations suggest that the captured states 
+35  of Cx43 are consistent with a closed state. 
+36     
+  2 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.03.26.485947; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+37  Introduction 
+38  Gap junction (GJ) mediated intercellular communication is one of the major pathways of 
+39  information exchange between the cells. GJs are specialized regions of the plasma membrane 
+40  at the cell-cell interface that link two adjacent cells and establish their metabolic and electrical 
+41  coupling 4. Connexins are the building blocks of the GJ channels (GJCs) which belong to a 
+42  group of large-pore channels. This group includes a number of structurally related (innexins, 
+43  pannexins, LRRC8) and unrelated proteins (CALHM) 5. A total of 21 connexin genes have 
+44  been identified in the human genome 6. The 43 kDa connexin-43 (Cx43, gene name GJA1) was 
+45  identified as a major constituent of rat heart GJs in 1987 7, and it is arguably one of the most 
+46  extensively studied connexins. Like all connexin homologues, Cx43 monomers assemble into 
+47  hexameric  hemichannels  (HCs),  also  known  as  connexons.  HCs  that  reach  the  plasma 
+48  membrane of one cell may interact with their counterparts on the neighboring cell, forming 
+49  GJCs, typically organized into hexagonal arrays at the intercellular interface 8. GJCs enable 
+50  direct metabolic and electric coupling between the cells, facilitating the passage of ions, small 
+51  molecules, metabolites, peptides and other cellular components below a size threshold of 
+52  approximately 1.5 kDa 9. GJCs formed by Cx43 are crucial for a wide range of physiological 
+53  processes,  from  propagation  of  heart  action  potentials  3  to  maintenance  of  neuro-glial 
+54  syncytium 2 and skin wound healing 1. The clinical importance of Cx43 is highlighted by 
+55  mutations linked to several genetic disorders, such as oculodentodigital dysplasia (ODDD) 10-
+56  12, hypoplastic left heart syndrome 1 13, Hallermann-Streiff syndrome 14, atrioventricular septal 
+57  defect 3 13, etc., and by recognition of the protein as a drug target for treatment of cancer, skin 
+58  wounds, eye injury and inflammation and cardiac arrhythmias (reviewed by Laird and Lampe 
+59  9). 
+60  Much of what we know today about the molecular biology, electrophysiological properties and 
+61  regulation of connexin gap junctions has been derived from the studies on Cx43 (reviewed in 
+62  15). Early attempts to characterize the structure of Cx43 using cryo-electron microscopy (cryo-
+63  EM)  of  2D  crystals  produced  low  resolution  reconstructions  16.  More  recently,  several 
+64  homologous connexin GJCs and HCs have been structurally characterized at high resolution, 
+65  using X-ray crystallography and cryo-EM. The structures of Cx26 17 and Cx46/50 GJCs 18,19, 
+66  together with the recent structure of Cx31.3 HC 20 provided deep insights into the shared 
+67  structural features of the connexin channels. These structures hint at the role of the N-terminal 
+68  domain (NTD) in molecular gating of GJCs and HCs, with several conformations of the NTD 
+69  observed in different connexin homologues 18-20. Additionally, biochemical evidence points to 
+70  the roles in channel gating played by the link between Cx43 intracellular loop and the C-
+71  terminal  region  21,22.  However,  despite  the  availability  of  this  evidence,  the  molecular 
+72  determinants of intracellular connexin channel gating remain unclear. To shed light on the 
+73  structural basis of Cx43 gating, we set out to determine its structure by cryo-EM and to analyse 
+74  its dynamics with molecular dynamics (MD) simulations. 
+75   
+76  Results 
+77  Structures of Cx43 GJC and HC in detergent micelles and in nanodiscs. Our Cx43 
+78  expression system was tested using electrophysiology in HeLa cells (Extended Data Fig. 1a-
+79  d). The experiments confirmed the functionality of Cx43 GJCs expressed in transfected cells. 
+80  For large-scale protein expression, Cx43 featuring a C-terminal HRV3C-YFP-twinStrep tag, 
+81  was expressed in adherent mammalian cells (HEK293F) using transient transfection method. 
+82  The produced protein was purified using affinity and size exclusion chromatography in 
+83  digitonin (Extended Data Fig. 2a-c) and flash frozen on cryo-EM grids. The coomassie-stained 
+84  SDS PAGE gel bands of the purified protein (Extended Data Fig. 2c) are consistent with the 
+85  western blot analysis (Extended Data Fig. 2d) of the expressed untagged Cx43. The grids were 
+  3 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.03.26.485947; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+86  subjected to single particle cryo-EM analysis (Extended Data Fig. 3), yielding the final 3D 
+87  reconstruction at 2.26 Å resolution (Fig. 1a, Extended Data Fig. 3-4).  
+88  The overall architecture of the protein complex resembles that observed with other connexin 
+89  GJCs, with two hemichannels (connexons) from adjacent plasma membrane regions coupled 
+90  to form a full GJC (Fig. 1a-b). The exterior of the channel is decorated by several ordered 
+91  detergent and/or lipid-like density elements (Fig. 1a-b), reminiscent of the previously observed 
+92  lipids bound at the protein-bilayer interface in other connexins 19. In the case of Cx43, the lipid-
+93  like densities appear to decorate the protein-lipid bilayer interface at both the inner and the 
+94  outer leaflet of the membrane. Comparison of the Cx43 monomers to the available structures 
+95  of  Cx26  and  Cx46  GJCs  and  the  Cx31.3  HC  revealed  a  major  difference  in  the  NTD 
+96  arrangement in these channels (Fig. 1c-d). The conformation of the NTD in the Cx31.3 HC 
+97  structure appears to be the closest to that in Cx43 GJC. Analysis of the tryptic peptides revealed 
+98  that most of the protein lacks the residue M1 (Extended Data Fig. 5), and thus the model was 
+99  built starting with G2. 
+100  To ascertain that the conformation of Cx43 GJC is not induced by the detergent present in the 
+101  sample, e.g. through detergent binding at specific sites on the protein surface, we removed the 
+102  detergent and reconstituted the protein into MSP2N2 nanodiscs, using 1-palmitoyl-2-oleoyl-
+103  glycero-3-phosphocholine  (POPC)  as  a  mimic  for  the  native  lipid  environment.  The 
+104  reconstituted protein was subjected to the same imaging and analysis workflow as Cx43 GJC 
+105  in digitonin. The 2D classes of the MSP2N2-reconstituted Cx43 showed features consistent 
+106  with a mixture of GJCs and HC. Processing of the corresponding particles resulted in 3D 
+107  reconstructions of the Cx43 GJC at 2.95 Å resolution (Extended Data Fig. 6, 8) and HC in 
+108  nanodiscs at 3.98 Å resolution (Fig. 1e-f, Extended Data Fig. 7, 8). The GJCs in detergent and 
+109  in nanodiscs are nearly identical, with an RMSD of 0.97 Å between the aligned Cx43 
+110  monomers (Fig. 1g, Extended Data Fig. 9a). Although the differences between the HC in 
+111  nanodisc and the GJC are more pronounced (Extended Data Fig. 9a), the conformation of the 
+112  cytosolic region and the NTD is highly conserved (Fig. 1g). 
+113  Conformation of the Cx43 gate region. The reconstructed gate region of Cx43 shows several 
+114  narrow openings connecting the pore vestibule and the pore interior: a single ~6-7 Å wide 
+115  central opening and six adjacent openings of similar dimensions (Fig. 2a-b). This arrangement 
+116  of the gate region is distinct from any of the previously observed states of connexin GJCs or 
+117  HCs. This particular gate conformation is established through an interplay of two structural 
+118  elements: the NTD and the TM2 (Fig. 2c-d). The NTD of Cx43 is arranged near parallel to the 
+119  membrane plane, in a centre-oriented conformation (Fig. 2c). The HC of Cx31.3 assembles in 
+120  a similar manner, with a well-ordered NTD resolved by cryo-EM (Fig. 2c-d). However, the 
+121  TM2 region of Cx31.3 forms a tight seal with the NTD (Fig. 2e). In contrast, the TM2 of Cx43 
+122  is shifted away from the pore centre, creating six openings (Fig. 2f). Alignment of the 
+123  protomers of Cx43 and Cx31.3 showed an RMSD of 1.78 Å (using cealign in PyMol). In 
+124  contrast, the RMSD value for the region corresponding to the NTD and TM2 was 5.675 Å 
+125  (calculated using rms_cur in PyMol, with the residue range selections of 2-47 and 2-45 for the 
+126  aligned protomers of Cx43 and Cx31.3, respectively), further confirming that these two regions 
+127  differ substantially between Cx43 and Cx31.3. The arrangement of the Cx43 NTD appears to 
+128  be stabilized by a small molecule: a density element likely corresponding to a bound small 
+129  molecule is present within this region (referred to as the “NTD lipid site”), wedged between 
+130  the adjacent NTDs (Fig. 2g). Thus, although the conformation of the Cx43 gate features an 
+131  opening, this site is blocked by a yet unidentified small molecule (which we refer to as “lipid-
+132  N”). 
+133  While a direct comparison of the Cx43 gating regions of the Cx43 and Cx31.3 HCs is possible 
+134  (Extended Data Fig. 9c), the recently determined 3D reconstruction of the Cx26 mutant N176Y 
+  4 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.03.26.485947; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+135  was not accompanied by a new atomic model 23. Instead the study reporting this reconstruction 
+136  compared the density map with an HC model from a Cx26 GJC structure (PDB ID: 5ERA) 24. 
+137  As this model lacks the NTD, any comparisons of the gating region in the Cx43 HC with that 
+138  in the Cx26 HC are presently limited (Extended Data Fig. 9d). 
+139  In addition to the lipid-N molecules stabilizing the NTD arrangement, the cryo-EM density of 
+140  Cx43 GJC features several well resolved densities inside the pore region (lipid-1 and lipid-2, 
+141  Fig. 2h). These elements likely correspond to bound sterol molecules, such as cholesterol co-
+142  purified with the protein from the mammalian cells or cholesterol hemisuccinate (CHS) added 
+143  to the solubilization mixture during protein extraction from the membrane. Similar densities 
+144  are present in the Cx43 GJC reconstruction in nanodiscs, in the absence of detergent molecules 
+145  (Extended Data Fig. 10a). Additionally, it is noteworthy that the annular lipid densities are 
+146  conserved  in  both  the  detergent-solubilized  and  the  nanodisc-reconstitued  Cx43  GJCs, 
+147  indicating that the protein-lipid interface of Cx43 features sites where ordered lipid molecules 
+148  may bind (Extended Data Fig. 10b). The functional significance of the ordered annular lipids 
+149  for the channel activity and for GJ plaque assembly remains to be carefully investigated. 
+150  Identification of the lipid-like molecules bound to Cx43 is a significant challenge. Despite the 
+151  high overall resolution of the 3D reconstruction of the Cx43 GJC (2.26 Å resolution in 
+152  detergent and 2.95 Å in nanodisc; Extended Data Fig. 3, 6), the cryo-EM map features in 
+153  regions  corresponding  to  the  lipid  densities  are  insufficient  to  assign  the  lipid  identity 
+154  unambiguously. To determine the identities of these lipids experimentally, we performed 
+155  lipidomic analysis of the organic extracts prepared from the purified Cx43 samples and 
+156  compared them to the mock control (extracts of prepared from eluates of the purification 
+157  procedure using cells that do not overexpress the protein as starting material). The results 
+158  showed that several types of phospholipids, as well as cholesterol were present in both samples. 
+159  The  only  lipid-like  compound  specifically  enriched  in  the  purified  sample  was 
+160  dehydroepiandrosterone (DHEA; Extended Data Fig. 10c). DHEA is a most abundantly 
+161  expressed neurosteroid known to modulate ligand-gated ion channels, such as GABA  25 or 
+A
+162  NMDA and AMPA receptors 26. Although we are presently not able to conclusively state that 
+163  DHEA corresponds to any of the densities present in our reconstruction, its enrichment in the 
+164  sample is an interesting observation that deserves detailed future investigations. While the 
+165  density corresponding to lipid-N may correspond to DHEA (Extended Data Fig. 4e), it is also 
+166  possible that this density corresponds to a larger molecule that is only partially ordered. 
+167  Cx43 junction interface. As in other connexins, the Cx43 GJC interface is formed by two 
+168  extracellular loops, ECL1 and ECL2 (Fig. 3a-b). The portion of the ECL1 comprising residues 
+169  N55-Q58 makes contacts with two Cx43 monomers from the opposite membrane, with N55-
+170  Q58 of one monomer and Q58’-P59’ of the neighboring monomer within 4 Å distance (Fig. 
+171  3c, top left). The ECL2 region that directly participates in sealing the junction includes residues 
+172  P193-D197. Comparisons of the junction-forming loops in Cx43 to those in Cx46 (Fig. 2c, 
+173  middle) and Cx26 (Fig. 2c, right) show that each protein uses a similar pattern of inter-HC 
+174  interaction within each GJC. It is noteworthy that both the amino acid sequences (Fig. 3d) and 
+175  the interaction networks (Fig. 3c) are similar in the ECL1 for Cx43 and Cx46, and in the ECL2 
+176  for Cx46 and Cx26. The differences in these two loops, and especially in ECL2, underlie the 
+177  inability of Cx43 (which has been grouped into a docking group 2) to engage in heterotypic 
+178  interactions with group 1 connexins (such as Cx46 and Cx26) 27. Our structure is thus in line 
+179  with the recognized consensus motif necessary for heterotypic complementarity of connexin 
+180  GJCs 28. 
+181  Conformation of the Cx43 hemichannel. Although the two Cx43 GJC structures (in detergent 
+182  micelles and in nanodiscs) are almost identical, the Cx43 HC shows a notable difference in the 
+183  ECL1-2 conformation (Fig. 3e-f). The resolution of the HC reconstruction does not allow us to 
+184  make definitive statements about the orientations of individual side chains, but it is clear that 
+  5 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.03.26.485947; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+185  both loops engaging in junction formation move inward upon docking of the two HCs (Fig. 
+186  3f). This conformational change likely involves intra- and intermolecular cooperativity. The 
+187  ECL1 and ECL2 are linked via several disulphide bonds, and thus the rearrangement within 
+188  each molecule would require concerted movement of the whole extracellular domain (ECD). 
+189  The ECD movement within one monomer is likely cooperatively coupled to the neighboring 
+190  chains within the Cx43 HC. 
+191  Disease-linked mutations in Cx43. A number of disease-linked mutations associated with 
+192  Cx43 can be mapped directly to three regions of interest revealed by our structures: (i) the GJC 
+193  intra-pore lipid-like site, (ii) the ECD, and (iii) the gating region (Fig. 4a). The interior of the 
+194  channel features two lipid-like densities (Fig. 2h, 4b; Extended Data Fig. 4e, 10a). The 
+195  observed position of lipid 1 is consistent with the previously found phospholipid-like densities 
+196  inside the pore of the Cx31.3 HC 20. Lipid 2 inserts into the pocket formed by TM1 and TM2, 
+197  parallel with the NTD. Unlike Cx31.3, where elongated densities within the pore region could 
+198  be interpreted as hydrophobic tails of bound phospholipids, the density in the Cx43 GJC 
+199  appears consistent with that of a sterol (Fig. 2h, 4b). The presence of a small hydrophobic small 
+200  molecule in Cx43 at this site suggests a potential mechanism of lipid-based Cx43 regulation, 
+201  whereby binding of a lipid could directly influence the conformation of the gating elements of 
+202  the protein (such as NTD). An effect of a cholesterol analogue 7-ketocholesterol on Cx43 
+203  permeability has been observed previously 29, and such an effect may be mediated via the 
+204  binding sites within the GJC (or HC) pore (Fig. 4b; Extended Data Fig. 10a). The presence 
+205  nearby of several residues known to be linked to ODDD when mutated (S27P, I31M30, S86Y31, 
+206  L90V10) points to a potential functional significance of the intra-pore lipid binding site. 
+207  Two known mutations linked to ODDD are located in the Cx43 ECD: P59 in ECL1 32 and 
+208  H194 in ECL2 33. As suggested by the Cx43 GJC structures, these residues are located in 
+209  conserved regions where any substitution can be expected to cause disruption of the contacts 
+210  critical for junction formation (Fig. 4c). 
+211  Multiple mutations in Cx43 associated with ODDD are located in the N-terminus (G2V, D3N, 
+212  L7V, L11I/P, Y17S, S18P), the TM1 region (G21R, G22E, K23T) and the TM2 region 
+213  proximal to the gate (V96M/E/A, Y98C, K102N) 11. In some cases, the mutations reduce the 
+214  ability of Cx43 to form the gap junction plaques at the plasma membrane, as is the case for 
+215  Y17S or G21R (as well as L90V, located at the pore lipid binding site) 34. The mutations tend 
+216  to have deleterious effects on the permeability of Cx43 to ions and small molecules 11. The 
+217  mutations G2V, D3N, W4A and L7V were shown to eliminate the function of Cx43 GJCs 35. 
+218  Interestingly, a G8V amino acid substitution has been linked to palmoplantar keratoderma and 
+219  congenital alopecia 1 (PPKCA1). This mutant can form functional gap junctions and has 
+220  enhanced HC activity 36. Mapping these sites on the structure of Cx43 allows us to gain insights 
+221  into the possible mechanisms that underlie the associated disorders (Fig. 4d-e). For example, 
+222  channel blockage or hyperpermeability due to mutations in or around the gating region may 
+223  link Cx43 to diseases. 
+224  Molecular dynamics simulations of Cx43 GJC. Based on our model of Cx43, the dimensions 
+225  of the pore opening are likely incompatible with the translocation of a larger molecule, such as 
+226  ATP, cAMP or IP3 (typical substrates of Cx43 GJC-mediated transport). To assess the 
+227  permeability of the gate to ions, we performed MD simulations. We performed eighteen 
+228  independent molecular dynamics simulations of the Cx43 GJC embedded in a double POPC 
+229  bilayer solvated in 150 mM KCl. Given the ambiguity in the lipid identity and binding mode, 
+230  in the first set of simulations, no potential lipid surrogates were included inside the pore or 
+231  NTD region. After equilibration (detailed in Materials and Methods) the dodecameric structure 
+232  was stable in all simulations, as indicated by the small root mean square deviation (RMSD, 
+233  Extended Data Fig. 11 a,d). 
+  6 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.03.26.485947; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+234  The pore opening has a solvent-accessible radius of ~6Å (Figure 5c) very close to the effective 
+235  hydrated radius of K+ (~6.6 Å) and Cl- (~7.2 Å). This makes it the most narrow pore opening 
+236  observed for a connexin channel to date (a comparison of the pore openings in the cryo-EM 
+237  structures of connexin channels is shown in Extended Data Fig. 12). The NTD regions of Cx43 
+238  are flexible (Extended Data Fig. 13) and can move laterally and vertically (Movie 1), allowing 
+239  the passage of ions. The charge distribution inside Cx43 resembles that of the other GJCs 18,19,37 
+240  with a positive electrostatic potential in the NTD region of both HCs within a channel and a 
+241  negative/neutral region near the HC interface (Fig. 5c). When no transmembrane potential is 
+242  applied (0 mV, Fig. 5b), Cl- ions accumulate in the NTD regions of Cx43 GJC (anion density 
+243  peaks in the NTD region ) as previously observed for C31.3 37. At 0 mV, there is an entry 
+244  barrier of ~3.38 kcal/mol for cations (K+) in the NTD region of both HCs (Figure 5d) which is 
+245  slightly higher than previously reported PMFs values for other homomeric GJCs (Cx46/50) 18. 
+246  Conversely, anions can permeate the NTD region barrierless (Figure 5d), but they face a higher 
+247  barrier ~3.84 kcal/mol below this region where the electrostatic potential of the channel is 
+248  negative, as observed for other GJC 18. Because the NTD domains are flexible, but they do not 
+249  fully fold inwards, most ions enter and exit the same HC (Extended Data Table 2). Application 
+250  of a transjunctional voltage lowers the barrier on one HC increasing the number of permeation 
+251  events. Very few full transjuctional permeation events were observed during the simulations 
+252  with any applied voltage. 
+253  As mentioned before, the GJC did not fully open in any of our simulations, i.e., a conformation 
+254  with all NTDs within the channel symmetrically moving to open the pore was not established 
+255  at any point. To illustrate this effect, we calculated the root-mean-square deviation for each 
+256  NTD domain in all simulations (Extended Data Fig. 13). Only at high applied transjunctional 
+257  voltages only one NTD domain adopted a fully open folded inward conformation (Extended 
+258  Data Fig. 13). 
+259  The MD simulations in the absence of a bound ligand reveal an intermediate, metastable state 
+260  in  which  ions  can  permeate  from  both  HCs  with  similar  free-energy  barriers  and  full 
+261  transjunctional  permeations  are  very  rare  events.  The  GJC  selectivity  and  conductance 
+262  properties are modulated by complex mechanisms involving both the steric aperture and the 
+263  unique pattern of electrostatic features. In our case, the electrostatic properties of the channel 
+264  are similar to those published for the Cx46/50 channels 18, but the steric contribution of the 
+265  NTD region is significantly higher, increasing the barrier for K+, resulting in smaller ΔΔG 
+266  differences than those observed for the open channel (Cx46/50). Other MD studies have shown 
+267  similar energy barriers for ions 18, leading to entry events but very rare full translocations on 
+268  the molecular dynamics timescale. Therefore, in the absence of the ligand the channel may 
+269  exhibit a low residual conductance, as described experimentally 38. 
+270  Despite not knowing the precise identity of the lipid-N, we performed nine MD simulations of 
+271  the Cx43 HC with a DHEA molecule as a lipid-N surrogate bound between the adjacent chains 
+272  (Fig. 5e, Extended Data Fig. 14a,b, Movie 2), to understand whether the channel is closed in 
+273  the presence of the lipid molecule. As expected, even when applying high transmembrane 
+274  voltage the ion density for both species, K+ and Cl-, in the NTD region remained zero and no 
+275  permeation events were observed (Fig. 5e, Extended Data Fig. 14c). Hence, the presence of the 
+276  bound lipid-N molecule seals the channel by rigidifying the NTD domains. 
+277   
+278  Discussion 
+279  The structures of Cx43 we have obtained by cryo-EM reveal a novel conformation of a 
+280  connexin channel (both GJC and HC) featuring a closed molecular gate. The state is distinct 
+281  from the previously observed structures of connexin GJCs and HCs, adding an important 
+282  missing component to our understanding of connexin-mediated intercellular communication. 
+  7 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.03.26.485947; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+283  With these structures in mind, we can now establish the existence of several structurally 
+284  defined gating substates of the connexin channels: (i) a fully open gate, (ii) a semi-permeable 
+285  central gate, and (iii) a closed gate (Fig. 6). The gating mechanisms of connexin HCs and GJC 
+286  are complex and involve multiple components. The available evidence indicates that connexin 
+287  channels are gated by membrane potential (V ), by transjunctional potential (V), as well as by 
+m j
+288  a range of chemical agents such as pH, Ca2+ and organic molecules 38. For example, a ball-and-
+289  chain model has been proposed for Cx26, whereby at low pH the NTDs extend deep into the 
+290  pore and occlude the substrate translocation pathway 39. This conformation is distinct from the 
+291  one captured by our cryo-EM reconstructions, and it is possible that under certain conditions 
+292  the Cx43 NTD may transition from the observed conformation to a low pH Cx26-like state. It 
+293  is worth mentioning that for the Cx43 HCs the open probability has been shown to be very low 
+294  40,  and  thus  a  closed  conformation  such  as  the  one  described  here  may  represent  the 
+295  predominant state of the channel. 
+296  The cytosolic surface of the gate in our structures is positively charged, indicating that specific 
+297  interaction with anions may be relevant to some of the gating events. As Cx43 is capable of 
+298  cation and anion permeation 41, the presence of the positively charged surface in this region 
+299  does not indicate ion selectivity. The differences in the electrostatic properties of the gates and 
+300  the pore regions in different connexin channels may reflect the differences in their selectivity 
+301  for ions and small molecules (Extended Data Fig. 12). However, it is also likely that the 
+302  unstructured regions in Cx43 and other connexins, including the intracellular loop and the C-
+303  terminal domain, contribute to the electrostatic potential, substrate selectivity and regulation of 
+304  these  channels.  These  domains  are  known  to  play  important  roles  in  connexin  channel 
+305  regulation  42.  However,  as  these  regions  are  unresolved  in  any  of  the  available  3D 
+306  reconstructions  of  connexin  channels,  the  structural  basis  of  their  action  remains  to  be 
+307  determined. 
+308  The observation of lipid-like molecules bound inside the pore is intriguing. The use of 
+309  detergents and lipids is currently a prerequisite for structural analysis of membrane proteins, 
+310  and it is possible that under solubilization conditions the abundance of added detergent and 
+311  lipid (CHS) forces the protein to interact with these molecules. Nevertheless, these interactions 
+312  may correspond to the naturally occurring interactions with the endogenous lipids present in 
+313  the lipid bilayer of the cell. The presence of such molecules could have important implications 
+314  for  HC  or  GJC  assembly,  substrate  permeation  and  molecular  gating.  It  remains  to  be 
+315  determined whether Cx43 or other connexin channels harbour intra-pore lipids in the cellular 
+316  membranes in vivo. 
+317  Distinct gating modes have been shown in the literature for both Cx43 HCs and GJCs, with 
+318  fast transitions from an open state to a state of residual conductance, and slow transitions from 
+319  an open to a fully closed state 38. The structures of Cx43 described here may represent the 
+320  closed states, based on the cryo-EM- and MD simulation-based evidence. The closed state 
+321  could be stabilized by a yet unknown agent that occupies the NTD lipid site formed by the 
+322  arrangement of the NTDs and TM2 regions observed in our structures. It is worth noting that 
+323  the majority of Cx43 channels in a GJ plaque are closed, with only a small fraction of the 
+324  channels active 43. Detailed investigations of Cx43 and other connexin channels will be 
+325  required to determine whether the gate conformation observed here is a common feature among 
+326  different GJCs and HCs, and to pinpoint the physiological circumstances that establish this 
+327  gating  conformation.  Finally,  capturing  the  structures  of  Cx43  channels  in  distinct 
+328  conformations under a wide range of physiologically relevant conditions will be required to 
+329  establish its mechanism of action, gating and regulation. 
+330     
+  8 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.03.26.485947; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+331  Acknowledgements 
+332  We thank Emiliya Poghossian (EM Facility, PSI) and Miroslav Peterek (ScopeM, ETH Zurich) 
+333  for expert support in cryo-EM data collection. We also thank Spencer Bliven and Marc Caubet-
+334  Serrabou (PSI) for the support in high performance computing. The work was supported by a 
+335  grant from Horten Foundation, and by the Swiss National Science Foundation grant 184951 
+336  (VMK). FLG and SAG thank the CSCS and PRACE for supercomputing resources (projects 
+337  pr126 and s1107). 
+338   
+339  Competing interests 
+340  Authors declare that they have no competing interests. 
+341   
+342  Data and materials availability 
+343  The atomic coordinates and structure factors have been deposited in the Protein Data Bank 
+344  (7Z1T, 7Z22, 7Z23); the density maps have been deposited in the Electron Microscopy Data 
+345  Bank  (EMD-14452,  EMD-14455,  EMD-14456).  The  mass  spectrometry  data  have  been 
+346  deposited  at  ProteomeXChange  via  PRIDE  (PXD033824).  The  MD  trajectories  will  be 
+347  uploaded to Zenodo. All other data are available in the main text or the supplementary 
+348  materials. 
+349   
+350  Author contributions 
+351  C.Q. planned and performed the experiments, analyzed the data, wrote the manuscript, S.A.G. 
+352  planned, performed and analyzed the simulations, co-wrote the manuscript, P.L. performed the 
+353  experiments, co-wrote the manuscript, A.O. performed the experiments, analyzed the data, 
+354  D.L.P.  performed  the  experiments,  analyzed  the  data,  E.B.  performed  the  experiments, 
+355  analyzed the data, D.S. performed the experiments, analysed the data, co-wrote the manuscript, 
+356  P.P. provided the reagents, equipment and expertise for mass spectrometry experiments, N.Z. 
+357  provided the reagents, equipment and expertise for lipidomics analysis, M.B. planned the 
+358  experiments, analyzed the data, co-wrote the manuscript, F.L.G. planned and analyzed the 
+359  simulations,  co-wrote  the  manuscript,  V.M.K.  planned  and  performed  the  experiments, 
+360  analyzed the data, wrote the manuscript. 
+361     
+  9 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.03.26.485947; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+362   
+363  Figures 
+364   
+365   
+366   
+367  Figure 1. Structure of human Cx43 gap junction channel. a-b, Cryo-EM density map and 
+368  model of Cx43 GJC solved by cryo-EM at 2.26 Å resolution. The individual Cx43 monomers 
+369  in each HC within the GJC are coloured blue, pink, grey, green, salmon and orange. Grey 
+370  densities correspond to the detergent micelle and the bound sterol-like molecules. c, The 
+371  position of a single Cx43 monomer (orange) within a GJC (represented as a surface of 
+372  juxtaposed Cx43 monomers in two distinct membrane regions, white and grey). d, Alignment 
+373  of the monomers of Cx43, Cx26 (PDB ID: 2zw3), Cx46 (PDB ID: 7jkc) and Cx31.3 (PDB ID: 
+374  6l3t) shows the distinct orientations of the N-terminal domain (“NTD”) helix. Individual TM 
+375  domains, extracellular loops 1 and 2 (“ECL1-2”), relative positions of the intracellular loop 
+376  (“ICL”) and the C-terminus (“C-term”) are indicated. e-f, Same as a-b, for the Cx43 HC in 
+377  MSP2N2 nanodiscs at 3.98 Å resolution. g, Alignment of three indicated structures shows that 
+378  the conformation of the gating region is highly conserved. The models are shown as ribbons; 
+379  one of the aligned monomers in each of the structures is represented as cartoon, to clearly 
+380  indicate the monomer boundaries. 
+381   
+382     
+  10 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.03.26.485947; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+383   
+384   
+385  Figure 2. The Cx43 gate adopts a closed conformation. a-b, Analysis of the pore opening 
+386  dimensions using HOLE reveals a constriction of the pore in the gate region. Only a central 
+387  opening and one of the six peripheral openings within one HC of Cx43 GJC in digitonin is 
+388  shown. The distance is calculated from the center of the GJC pore to a point outside of the 
+389  channel. Central and peripheral openings are coloured blue and cyan, respectively. c-d, 
+390  Comparison of the Cx43 in digitonin with the Cx31.3 HC shows that the peripheral opening is 
+391  created by the particular arrangement of the NTD and by adjustment of the TM2. e-f, The 
+392  distinct NTD/TM2 arrangement results in a single pore opening in the structure of Cx31.3 
+393  (indicated with an asterisk, e), contrary to Cx43 (f). g, A view of the Cx43 gating region from 
+394  the cytosol reveals the location of the “lipid-N” molecules stabilizing the NTD arrangement, 
+395  shown as isolated densities (cyan). h, A slab view of the gating region parallel to the membrane 
+396  plane shows the relative arrangement of the lipid-N and the intra-pore lipid densities (“lipid-
+397  1” and lipid-2”; orange). 
+398     
+  11 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.03.26.485947; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+399   
+400   
+401  Figure 3. Extracellular domain of Cx43 GJC and HC. a-b, The lateral views of Cx43 GJC 
+402  in digitonin, indicating the positions of the extracellular loops 1 and 2. c, Views of the 
+403  extracellular loops ECL1 (top) and ECL2 (bottom), for Cx43 (left), Cx46, (middle; PDB ID: 
+404  7jkc), and Cx26 (right; PDB ID: 2zw3). The residues of one monomer in each of the structures, 
+405  directly  involved  in  junction  formation,  are  coloured  by  element  with  carbon  atoms  as 
+406  orange/yellow  (Cx43),  brown/pink  (Cx46)  and  teal/cyan  (Cx26).  The  residues  of  the 
+407  neighbouring connexin monomers within 4 Å distance are shown coloured with white carbon 
+408  atoms. Dotted lines indicate electrostatic contacts, calculated in PyMol. d, Sequence alignment 
+409  of the complete ECL1 and ECL2 regions of the three proteins shown in c. The black lines 
+410  indicate the GJC interface residues, as shown in c. e, Alignment of the Cx43 GJC structures in 
+411  digitonin micelles and in nanodiscs. Ca atoms of the interface residues shown in C are 
+412  represented as spheres (the ribbon and spheres of Cx43 in nanodiscs is coloured black). f, Same 
+413  as e, for a comparison between Cx43 GJC in digitonin and Cx43 HC in nanodiscs. The arrow 
+414  indicates the movement of the two loops that accompanies GJC formation. The ribbon and 
+415  spheres of Cx43 HC are light grey. The grey numbers in brackets indicate displacement of 
+416  selected Ca atoms (residues P59, Q58, P193, P194). 
+417     
+  12 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.03.26.485947; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+418   
+419   
+420  Figure 4. Locations of the disease-linked mutations in the Cx43 GJC structure. a, Disease-
+421  linked mutations mapped on the sequence of Cx43. The amino acid residues proximal to the 
+422  intrapore lipid densities (“Pore lipid sites”) are shown as white dots. The residues at the GJC 
+423  interface are shown as yellow dots (“ECD”). The residues of the gating region ("Gate region”) 
+424  are shown as blue (NTD), green (TM1) and violet (TM2) dots. The sequence elements not 
+425  resolved in our 3D reconstruction are indicated with a dashed line. b, Two sterol-like density 
+426  elements (lipid-1 and -2) are located within the pore region of Cx43 GJC (white). The indicated 
+427  disease-linked mutations are located within close distance of the pore lipid densities. c, A view 
+428  of the extracellular loops forming the junction, indicating two residues known to be linked with 
+429  ODDD, P59 and H194 (side chains shown as sticks; one of the monomers in the GJC is 
+430  coloured yellow). d, A view of the gating region with the highlighted disease-linked mutations, 
+431  colored as in a. e, A similar representation of the disease-linked mutations, with Ca atoms 
+432  shown as spheres, illustrating the contribution of the mutants to gate formation. 
+433     
+  13 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.03.26.485947; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+434   
+435   
+436  Figure  5.  Molecular  dynamics  simulations  of  the  Cx43  GJC  and  HC.  a,  Cartoon 
+437  representation  of  the  double-bilayer  system  including  the  GJC  (cartoon)  and  ions  (vdw 
+438  spheres). Lipidic membrane and water residues have been removed for clarity. The direction 
+439  of the applied constant electric field, E , is indicated with an arrow. b, Ion density (ρ) profiles 
+z
+440  (average and fluctuations) along the diffusion axis of the GJC coloured in red for anions and 
+441  blue for cations, for the simulated applied transjunctional voltages. c, The solvent-accessible 
+442  radius (and fluctuations during MD) along the diffusion axis of the GJC. The dotted lines 
+443  correspond  to  the  minimum  radius  and  the  position  of  the  NTD  regions.  The  surface 
+444  representation of Cx43 is coloured according to the calculated electrostatic potential; the slab 
+445  view shows the properties of the pore. d, Average free energy experienced (at least two 
+446  simulation replicates per panel) by the K+ (blue) and Cl- (red) while permeating the pore with 
+447  different applied transmembrane potential (from right to left: 0 mV, -100 mV, -200 mV and -
+448  500 mV). The dotted lines correspond to the maximum free energy barrier for anions (red) and 
+449  cations (blue). e, Cartoon representation of the lipid-bound system including the HC (cartoon) 
+450  and ions (vdw spheres). Lipidic membrane and water residues have been removed for clarity. 
+451  The direction of the applied constant electric field, E , is indicated with an arrow. f, Ion density 
+z
+  14 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.03.26.485947; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+452  (ρ) profiles (average and fluctuations) along the diffusion axis of the HC coloured in red for 
+453  anions and blue for cations, for the simulated applied transmembrane voltages. 
+454     
+  15 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.03.26.485947; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+455   
+456   
+457   
+458  Figure 6. A structure-based view of connexin gating states. a, The side view of a fully open 
+459  gate, as observed in Cx26 GJC (PDB ID: 2zw3); the gate-forming regions of the protein, NTD 
+460  (red) and TM2 (blue), are shown as cylinders. Similar arrangement of the gating elements has 
+461  been observed in Cx46/Cx50. This conformation of the gate is permeable to a wide range of 
+462  substrates, including small molecules and ions. b, The semi-permeable central gate is featured 
+463  in the structure of Cx31.3 HC (PDB ID: 6l3t). In this conformation the gate is likely selective 
+464  for ions (Cx31.3 has been shown to have a preference for anions), based on the dimensions of 
+465  the gate. c, The closed gate is featured in the Cx43 structures (here, the Cx43 in digitonin is 
+466  shown as an example). d-f, Same as a-c, viewed from the cytosolic side of the channel. The 
+467  gray surface corresponds to the NTD and TM2 regions; the white surface corresponds to the 
+468  rest of the protein; lipid-N molecules in f are shown as black spheres, using a model of DHEA 
+469  manually placed into the six NTD lipid site regions for illustration purposes (the exact identity 
+470  of the lipid-N molecule is unknown). 
+471     
+  16 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.03.26.485947; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+472  References 
+473   
+474  1  Churko, J. M. & Laird, D. W. Gap junction remodeling in skin repair following 
+475  wounding and disease. Physiology (Bethesda) 28, 190-198 (2013). 
+476  https://doi.org:10.1152/physiol.00058.2012 
+477  2  Liang, Z. et al. The Multifaceted Role of Astrocyte Connexin 43 in Ischemic Stroke 
+478  Through Forming Hemichannels and Gap Junctions. Front Neurol 11, 703 (2020). 
+479  https://doi.org:10.3389/fneur.2020.00703 
+480  3  Poelzing, S. & Rosenbaum, D. S. Altered connexin43 expression produces arrhythmia 
+481  substrate in heart failure. Am J Physiol Heart Circ Physiol 287, H1762-1770 (2004). 
+482  https://doi.org:10.1152/ajpheart.00346.2004 
+483  4  Rodriguez-Sinovas, A., Sanchez, J. A., Valls-Lacalle, L., Consegal, M. & Ferreira-
+484  Gonzalez, I. Connexins in the Heart: Regulation, Function and Involvement in Cardiac 
+485  Disease. Int J Mol Sci 22 (2021). https://doi.org:10.3390/ijms22094413 
+486  5  Syrjanen, J., Michalski, K., Kawate, T. & Furukawa, H. On the molecular nature of 
+487  large-pore channels. J Mol Biol, 166994 (2021). 
+488  https://doi.org:10.1016/j.jmb.2021.166994 
+489  6  Srinivas, M., Verselis, V. K. & White, T. W. Human diseases associated with connexin 
+490  mutations. Biochim Biophys Acta Biomembr 1860, 192-201 (2018). 
+491  https://doi.org:10.1016/j.bbamem.2017.04.024 
+492  7  Beyer, E. C., Paul, D. L. & Goodenough, D. A. Connexin43: a protein from rat heart 
+493  homologous to a gap junction protein from liver. J Cell Biol 105, 2621-2629 (1987). 
+494  https://doi.org:10.1083/jcb.105.6.2621 
+495  8  Robertson, J. D. The Occurrence of a Subunit Pattern in the Unit Membranes of Club 
+496  Endings in Mauthner Cell Synapses in Goldfish Brains. J Cell Biol 19, 201-221 (1963). 
+497  https://doi.org:10.1083/jcb.19.1.201 
+498  9  Laird, D. W. & Lampe, P. D. Therapeutic strategies targeting connexins. Nat Rev Drug 
+499  Discov 17, 905-921 (2018). https://doi.org:10.1038/nrd.2018.138 
+500  10  Paznekas, W. A. et al. Connexin 43 (GJA1) mutations cause the pleiotropic phenotype 
+501  of oculodentodigital dysplasia. Am J Hum Genet 72, 408-418 (2003). 
+502  https://doi.org:10.1086/346090 
+503  11  Paznekas, W. A. et al. GJA1 mutations, variants, and connexin 43 dysfunction as it 
+504  relates to the oculodentodigital dysplasia phenotype. Hum Mutat 30, 724-733 
+505  (2009). https://doi.org:10.1002/humu.20958 
+506  12  Wiest, T. et al. Clinical and genetic variability of oculodentodigital dysplasia. Clin 
+507  Genet 70, 71-72 (2006). https://doi.org:10.1111/j.1399-0004.2006.00631.x 
+508  13  Dasgupta, C. et al. Identification of connexin43 (alpha1) gap junction gene mutations 
+509  in patients with hypoplastic left heart syndrome by denaturing gradient gel 
+510  electrophoresis (DGGE). Mutat Res 479, 173-186 (2001). 
+511  https://doi.org:10.1016/s0027-5107(01)00160-9 
+512  14  Pizzuti, A. et al. A homozygous GJA1 gene mutation causes a Hallermann-
+513  Streiff/ODDD spectrum phenotype. Hum Mutat 23, 286 (2004). 
+514  https://doi.org:10.1002/humu.9220 
+515  15  Ribeiro-Rodrigues, T. M., Martins-Marques, T., Morel, S., Kwak, B. R. & Girao, H. Role 
+516  of connexin 43 in different forms of intercellular communication - gap junctions, 
+517  extracellular vesicles and tunnelling nanotubes. J Cell Sci 130, 3619-3630 (2017). 
+518  https://doi.org:10.1242/jcs.200667 
+  17 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.03.26.485947; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+519  16  Unger, V. M., Kumar, N. M., Gilula, N. B. & Yeager, M. Three-dimensional structure of 
+520  a recombinant gap junction membrane channel. Science 283, 1176-1180 (1999). 
+521  https://doi.org:10.1126/science.283.5405.1176 
+522  17  Maeda, S. et al. Structure of the connexin 26 gap junction channel at 3.5 A 
+523  resolution. Nature 458, 597-602 (2009). https://doi.org:10.1038/nature07869 
+524  18  Myers, J. B. et al. Structure of native lens connexin 46/50 intercellular channels by 
+525  cryo-EM. Nature 564, 372-377 (2018). https://doi.org:10.1038/s41586-018-0786-7 
+526  19  Flores, J. A. et al. Connexin-46/50 in a dynamic lipid environment resolved by 
+527  CryoEM at 1.9 A. Nat Commun 11, 4331 (2020). https://doi.org:10.1038/s41467-020-
+528  18120-5 
+529  20  Lee, H. J. et al. Cryo-EM structure of human Cx31.3/GJC3 connexin hemichannel. Sci 
+530  Adv 6, eaba4996 (2020). https://doi.org:10.1126/sciadv.aba4996 
+531  21  Xu, Q. et al. Gating of connexin 43 gap junctions by a cytoplasmic loop calmodulin 
+532  binding domain. Am J Physiol Cell Physiol 302, C1548-1556 (2012). 
+533  https://doi.org:10.1152/ajpcell.00319.2011 
+534  22  Ponsaerts, R. et al. Intramolecular loop/tail interactions are essential for connexin 
+535  43-hemichannel activity. FASEB J 24, 4378-4395 (2010). 
+536  https://doi.org:10.1096/fj.09-153007 
+537  23  Khan, A. K., Jagielnicki, M., Bennett, B. C., Purdy, M. D. & Yeager, M. Cryo-EM 
+538  structure of an open conformation of a gap junction hemichannel in lipid bilayer 
+539  nanodiscs. Structure 29, 1040-1047 e1043 (2021). 
+540  https://doi.org:10.1016/j.str.2021.05.010 
+541  24  Bennett, B. C. et al. An electrostatic mechanism for Ca(2+)-mediated regulation of 
+542  gap junction channels. Nat Commun 7, 8770 (2016). 
+543  https://doi.org:10.1038/ncomms9770 
+544  25  Gartside, S. E., Griffith, N. C., Kaura, V. & Ingram, C. D. The neurosteroid 
+545  dehydroepiandrosterone (DHEA) and its metabolites alter 5-HT neuronal activity via 
+546  modulation of GABAA receptors. J Psychopharmacol 24, 1717-1724 (2010). 
+547  https://doi.org:10.1177/0269881109105836 
+548  26  Kimonides, V. G., Khatibi, N. H., Svendsen, C. N., Sofroniew, M. V. & Herbert, J. 
+549  Dehydroepiandrosterone (DHEA) and DHEA-sulfate (DHEAS) protect hippocampal 
+550  neurons against excitatory amino acid-induced neurotoxicity. Proc Natl Acad Sci U S 
+551  A 95, 1852-1857 (1998). https://doi.org:10.1073/pnas.95.4.1852 
+552  27  Bai, D., Yue, B. & Aoyama, H. Crucial motifs and residues in the extracellular loops 
+553  influence the formation and specificity of connexin docking. Biochim Biophys Acta 
+554  Biomembr 1860, 9-21 (2018). https://doi.org:10.1016/j.bbamem.2017.07.003 
+555  28  Koval, M., Molina, S. A. & Burt, J. M. Mix and match: investigating heteromeric and 
+556  heterotypic gap junction channels in model systems and native tissues. FEBS Lett 
+557  588, 1193-1204 (2014). https://doi.org:10.1016/j.febslet.2014.02.025 
+558  29  Girao, H., Catarino, S. & Pereira, P. 7-Ketocholesterol modulates intercellular 
+559  communication through gap-junction in bovine lens epithelial cells. Cell Commun 
+560  Signal 2, 2 (2004). https://doi.org:10.1186/1478-811X-2-2 
+561  30  Richardson, R., Donnai, D., Meire, F. & Dixon, M. J. Expression of Gja1 correlates with 
+562  the phenotype observed in oculodentodigital syndrome/type III syndactyly. J Med 
+563  Genet 41, 60-67 (2004). https://doi.org:10.1136/jmg.2003.012005 
+564  31  Jamsheer, A. et al. Three novel GJA1 missense substitutions resulting in oculo-dento-
+565  digital dysplasia (ODDD) - further extension of the mutational spectrum. Gene 539, 
+566  157-161 (2014). https://doi.org:10.1016/j.gene.2014.01.066 
+  18 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.03.26.485947; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+567  32  Vasconcellos, J. P. et al. A novel mutation in the GJA1 gene in a family with 
+568  oculodentodigital dysplasia. Arch Ophthalmol 123, 1422-1426 (2005). 
+569  https://doi.org:10.1001/archopht.123.10.1422 
+570  33  Vitiello, C. et al. A novel GJA1 mutation causes oculodentodigital dysplasia without 
+571  syndactyly. Am J Med Genet A 133A, 58-60 (2005). 
+572  https://doi.org:10.1002/ajmg.a.30554 
+573  34  Lai, A. et al. Oculodentodigital dysplasia connexin43 mutations result in non-
+574  functional connexin hemichannels and gap junctions in C6 glioma cells. J Cell Sci 119, 
+575  532-541 (2006). https://doi.org:10.1242/jcs.02770 
+576  35  Shao, Q. et al. Structure and functional studies of N-terminal Cx43 mutants linked to 
+577  oculodentodigital dysplasia. Mol Biol Cell 23, 3312-3321 (2012). 
+578  https://doi.org:10.1091/mbc.E12-02-0128 
+579  36  Wang, H. et al. Exome sequencing reveals mutation in GJA1 as a cause of 
+580  keratoderma-hypotrichosis-leukonychia totalis syndrome. Hum Mol Genet 24, 243-
+581  250 (2015). https://doi.org:10.1093/hmg/ddu442 
+582  37  Hyuk-Joon Lee, H. J., Jaekyung Hyun, Bumhan Ryu, Kunwoong Park, Hyun-Ho Lim, 
+583  Jejoong Yoo, Jae-Sung Woo. Cryo-EM structure of human Cx31.3/GJC3 connexin 
+584  hemichannel. Science Advances 6 (2020).  
+585  38  Bukauskas, F. F. & Verselis, V. K. Gap junction channel gating. Biochim Biophys Acta 
+586  1662, 42-60 (2004). https://doi.org:10.1016/j.bbamem.2004.01.008 
+587  39  Khan, A. K. et al. A Steric "Ball-and-Chain" Mechanism for pH-Mediated Regulation of 
+588  Gap Junction Channels. Cell Rep 31, 107482 (2020). 
+589  https://doi.org:10.1016/j.celrep.2020.03.046 
+590  40  Contreras, J. E., Saez, J. C., Bukauskas, F. F. & Bennett, M. V. Gating and regulation of 
+591  connexin 43 (Cx43) hemichannels. Proc Natl Acad Sci U S A 100, 11388-11393 (2003). 
+592  https://doi.org:10.1073/pnas.1434298100 
+593  41  Wang, H. Z. & Veenstra, R. D. Monovalent ion selectivity sequences of the rat 
+594  connexin43 gap junction channel. J Gen Physiol 109, 491-507 (1997). 
+595  https://doi.org:10.1085/jgp.109.4.491 
+596  42  D'Hondt, C., Iyyathurai, J., Himpens, B., Leybaert, L. & Bultynck, G. Cx43-hemichannel 
+597  function and regulation in physiology and pathophysiology: insights from the bovine 
+598  corneal endothelial cell system and beyond. Front Physiol 5, 348 (2014). 
+599  https://doi.org:10.3389/fphys.2014.00348 
+600  43  Bukauskas, F. F. et al. Clustering of connexin 43-enhanced green fluorescent protein 
+601  gap junction channels and functional coupling in living cells. Proc Natl Acad Sci U S A 
+602  97, 2556-2561 (2000). https://doi.org:10.1073/pnas.050588497 
+603   
+  19 
+
+NEW PAGE

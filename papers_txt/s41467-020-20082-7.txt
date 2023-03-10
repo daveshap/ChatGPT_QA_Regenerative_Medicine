@@ -1,0 +1,1141 @@
+ARTICLE
+OPEN
+https://doi.org/10.1038/s41467-020-20082-7
+Reconstitution of a functional human thymus by
+postnatal stromal progenitor cells and natural
+whole-organ scaffolds
+Sara Campinoti 1,2,14, Asllan Gjinovci1,3,14, Roberta Ragazzini 1,3,14, Luca Zanieri 1,3,
+Linda Ariza-McNaughton4, Marco Catucci1,2,12, Stefan Boeing5, Jong-Eun Park6,13, John C. Hutchinson 2,7,
+Miguel Muñoz-Ruiz8, Pierluigi G. Manti 9,10, Gianluca Vozza 9,10, Carlo E. Villa9,
+0():,; Demetra-Ellie Phylactopoulos1,2, Constance Maurer 1,2, Giuseppe Testa 9,10, Hans J. Stauss 3,
+123456789 SPaaroalahBAo.nTfaenicthima1,n2n,3✉6, Neil J. Sebire2,7, Adrian C. Hayday 8,11, Dominique Bonnet 4 &
+Thethymusisaprimarylymphoidorgan,essentialforTcellmaturationandselection.There
+has been long-standing interest in processes underpinning thymus generation and the
+potential to manipulate it clinically, because alterations of thymus development or function
+can result in severe immunodeﬁciency and autoimmunity. Here, we identify epithelial-
+mesenchymal hybrid cells, capable of long-term expansion in vitro, and able to reconstitute
+an anatomic phenocopy of the native thymus, when combined with thymic interstitial cells
+andanaturaldecellularisedextracellularmatrix(ECM)obtainedbywholethymusperfusion.
+This anatomical human thymus reconstruction is functional, as judged by its capacity to
+support mature T cell development in vivo after transplantation into humanised immuno-
+deﬁcient mice. These ﬁndings establish a basis for dissecting the cellular and molecular
+crosstalk between stroma, ECM and thymocytes, and offer practical prospects for treating
+congenital and acquired immunological diseases.
+1EpithelialStemCellBiology&RegenerativeMedicinelaboratory,TheFrancisCrickInstitute,1MidlandRoad,LondonNW11AT,UK.2UCLGreatOrmond
+StreetInstituteofChildHealth,30GuilfordStreet,LondonWC1N1EH,UK.3InstituteofImmunity&Transplantation,DivisionofInfection&Immunity,UCL,
+RoyalFreeHospital,LondonNW32PF,UK.4HaematopoieticStemCelllaboratory,TheFrancisCrickInstitute,1MidlandRoad,LondonNW11AT,UK.
+5BioinformaticsLaboratory,TheFrancisCrickInstitute,1MidlandRoad,LondonNW11AT,UK.6WellcomeSangerInstitute,WellcomeGenomeCampus,
+Hinxton,CambridgeCB101SA,UK.7DepartmentofHistopathology,GreatOrmondStreetHospitalforChildrenNHSFoundationTrust,LondonWC1N1EH,
+UK.8Immunosurveillancelaboratory,TheFrancisCrickInstitute,1MidlandRoad,LondonNW11AT,UK.9DepartmentofExperimentalOncology,IEO,
+EuropeanInstituteofOncology,IRCCS,Milan,Italy.10DepartmentofOncologyandHemato-Oncology,UniversityofMilan,Milan,Italy.11PeterGorer
+DepartmentofImmunobiology,SchoolofImmunology&MicrobialSciences,King’sCollegeLondon,London,UK.12Presentaddress:DivisionofImmunology,
+TransplantationandInfectiousDiseases,SanRaffaeleScientiﬁcInstitute,DIBIT20132,Milan,Italy.13Presentaddress:GraduateSchoolofMedicalScience
+andEngineering,KoreaAdvancedInstituteofScienceandTechnology(KAIST),Daejeon34141,RepublicofKorea.14Theseauthorscontributedequally:Sara
+✉
+Campinoti,AsllanGjinovci,RobertaRagazzini. email:p.bonfanti@ucl.ac.uk
+NATURECOMMUNICATIONS|        (2020) 11:6372 |https://doi.org/10.1038/s41467-020-20082-7|www.nature.com/naturecommunications 1
+
+NEW PAGE
+
+ARTICLE
+NATURECOMMUNICATIONS|https://doi.org/10.1038/s41467-020-20082-7
+T
+he thymus is a primary lymphoid organ where haemato- Subsequently, we aimed at deﬁning if these clonogenic TEC
+poietic progenitors are instructed to become functional derivefromthecortexand/ormedulla.Tothisend,weadopteda
+T cells. It undergoes postnatal involution, but remains in cell-sorting strategy to dissect and prospectively isolate thymic
+placethroughoutlife1,2.Theepithelialcomponentofthethymus stromal compartments including the epithelium (cortex and
+stromaderivesfromtheendoderm,whereasmesenchymalstroma medulla TEC) and the interstitium (TIC). After a few cycles of
+derives from the neural crest and in part from incoming ves- enrichment, the CD45− stromal population went from 0.02–2%
+sels3,4. Reﬂecting their fundamental role in immune regulation, (freshly dissociated tissue) to ~40–80% (Supplementary Fig. 1a),
+many studies have provided insight into the origins and pheno- allowing subsequent sorting on the basis of additional surface
+typic complexity of thymic epithelial cells (TEC)5 and the markers. We used EpCAM and CD205 expression levels21,22 to
+molecules that mediate their activities6–10, including AIRE and separate EpCAMhighCD205− medullary TEC (mTEC) from
+MHC Class II (MHCII) that are required for selecting T cells of EpCAMlowCD205+ cortical TEC (cTEC; Fig. 1b). Unexpectedly,
+diverse, non-autoaggressive speciﬁcities5,11. the mesenchymalmarkerCD90(THY1)wasalso expressed bya
+Atranscriptomicanalysisdescribinghumanthymiccomplexityat large proportion (>60%) of mTEC and approximately all cTEC,
+thesingle-celllevelwasrecentlyreported12.Acore,long-established as well as by TIC (Fig. 1c). CD49f, the α6-integrin which
+discriminatorofTECistheirassignmentaseithercortical(cTEC)or contributes to hemidesmosomes and is expressed by cells at the
+medullary (mTEC), reﬂecting the anatomical regions to which the basal layer of stratiﬁed epithelia23,24, was differentially expressed
+differentiated TEC contribute. However, while deﬁned TEC and inbothmTECandcTECpopulations(Fig.1d),providingabasis
+other stromal cell types have been studied in considerable detail, to sort for CD49f+ mTEC or cTEC (“Type1”), and CD49f−
+there is only incomplete molecular and cellular detail about how mTEC or cTEC (“Type2”) subpopulations.
+TEC and other cells collectively contribute to the complex three- In support of our sorting strategy, we employed RT-qPCR to
+dimensional(3D)organisationofthehumanthymus. assess expression of established functional markers of freshly
+Since the thymus controls the development of both immune isolated medullary (e.g. AIRE1) and cortical (e.g. β−5T, CD205)
+competence and tolerance, its functional dissection and sub- epithelial cells, respectively (Supplementary Fig. 1b). We noted
+sequent reconstruction with desired cell populations might pro- differential expression in cortical versus medullary cells of
+vide powerful tools applicable to many medical conditions, cytokines and key transcription factors for thymus speciﬁcation
+includingprimaryoracquiredimmunedeﬁciencies.Indeed,such and/or thymopoiesis25 such as FOXN1 and PAX1 whereas
+is the clinical unmet need that cultivated thymus slices are cur- Vimentin (VIM) was comparably expressed by all sorted
+rently used for transplantation into athymic patients. Moreover, populations examined (Supplementary Fig. 1c).
+thymic therapeutic strategies might likewise be applicable to To assess the colony-forming potential of freshly isolated
+organtransplantationinwhichtoleranceisakeyobstacletolong- Type1andType2humancTECandmTEC,weplatedthemover
+term graft acceptance. lethally irradiated feeders, as described above. The colony-
+This notwithstanding, attempts to rebuild a fully functional forming efﬁciency (CFE) assay consistently revealed that the
+thymushavesofarmetwithlimitedsuccess13–15,possiblybecause highest clonogenicity resided in Type1 mTEC (CFE 2–4%) and
+oftheorgan’sinherentcomplexity.Moreover,thereremainssome Type1 cTEC (1–2%), while Type2 mTEC had a very low CFE
+uncertaintyoverthenatureofpostnatalepithelialstem/progenitor (0.1–0.2%) and Type2 cTEC did not give rise to any expanding
+and mesenchymal cells including the capacity for extensive colonies (Fig. 1e). Entirely consistent with their greater
+expansionexvivothatwouldseemcrucialtothisaim16–18.Inthis clonogenicity, Type1 mTEC and Type1 cTEC were the only
+regard,wepreviouslyidentiﬁedclonogenicmultipotentstemcells epithelial subpopulations that could be expanded over serial
+intherodentthymusableofcontributingtotheskinandthymic passages. Type1 cTEC, although being less abundant than their
+microenvironment after extensive ex vivo expansion19. medulla counterparts, robustly expanded in culture and could
+Our current study demonstrates that long-term expanding reach comparable numbers to Type1 mTEC (Fig. 1f and
+epithelial cells are present in the human thymus, and display an Supplementary Fig. 1d).
+hitherto unprecedented hybrid epithelial–mesenchymal pheno- In order to deﬁne the transcriptional proﬁle of thymic
+type. These clonogenic cells could repopulate whole-organ scaf- clonogenic cells, we performed genome-wide RNA sequencing
+folds, phenocopying the unique 3D epithelial network of the ofcultivatedType1mTEC,Type1cTECandalsoofTECderived
+thymus. Such reconstituted scaffolds established a functional inculturewithoutanysortingstrategy.Expression ofgenessuch
+microenvironment supporting human T cell development from as SIX1, EYA1, HOXA3, PAX1 and PAX9 detected by RNA
+lymphoid progenitors in vitro and haematopoietic stem cells sequencing of cultured TEC, conﬁrmed that clonogenic TEC
+(HSC) in vivo. Thus, by overcoming obstacles to constructing a maintained thymic identity independently of their compartment
+functional thymus with only expanded, postnatal donor stromal of origin (cortical or medullary). Both cortical (CSTV, KNICP3,
+cells, our ﬁndings offer practical prospects for treating immune CD274) and medullary (CDH1, EpCAM, CD24) genes were
+disorders including congenital athymia for which current thera- retained by cultured cells (Fig. 1g). When analysed by RT-qPCR
+pies are limited20. fortranscriptionfactorswithdocumentedimportanceforthymic
+epithelial cells, both mTEC and cTEC clonogenic cells expressed
+comparablelevelsofRNAsencodingTP63,FOXN1andsignalling
+Results molecules such as SCF (Supplementary Fig. 1e). Indeed, mTEC
+Long-term in vitro expansion identiﬁes clonogenic TEC. As a and cTEC showed only 11 differentially expressed genes out of
+ﬁrst experimental goal we attempted to isolate from human 14,347 (0.08%) thus conﬁrming that in culture they display a
+thymus stromal cells with clonogenic potential. Human thymi common phenotype (Supplementary Fig. 2a, b). Thus, in
+wereobtainedfrom33patientsranginginagefrom3daysto11 subsequent experiments, we refer to “clonogenic TEC” whether
+yearswhounderwentopen-chestcardiacsurgery.Thymustissues or not they originate from medullary or cortical zones.
+were enzymatically dissociated to single-cell suspension and
+plated overa lethally irradiated feeder layer for the derivation of
+thymic epithelial cells (TEC). All thymi, independent of donor Single-cell RNA sequencing deﬁnes cell clusters common to
+age,containedclonogenicTECgenerating coloniesthatcouldbe medullary and cortical populations in vivo. With the intention
+expanded extensively upon weekly passage (Fig. 1a). of using clonogenic cells expanded in vitro for thymus
+2 NATURECOMMUNICATIONS|        (2020) 11:6372 |https://doi.org/10.1038/s41467-020-20082-7|www.nature.com/naturecommunications
+
+NEW PAGE
+
+ARTICLE
+NATURECOMMUNICATIONS|https://doi.org/10.1038/s41467-020-20082-7
+a b
+Cultured TEC Growth curve Thymus CD45-neg
+1015
+cTEC
+1014 105 cTEC
+o. 1013
+mulative cell n 111100001112109 CD205-PE111000342
+u 108 mTEC 
+C
+107 101 TIC 
+106 mTEC
+l ll lll lV V Vl Vll 101 102 103 104 105
+No. of passages EpCAM-PECy7
+c d
+mTEC  cTEC  TIC mTEC  cTEC 
+105 23.0 77.0 105 0.48 89.0 105 0.59 8.58 105 5.51 39.8 105 18.6
+PECy7104 104 104 F488104 F488 104
+AM-103 103 103 9f-A103 9f-A 103
+pC 0 0 0 D40 D4 0
+E103 0 0 103 0.59 10.4 103 10.1 80.7 C103 28.9 25.9 C 103 80.2
+-103 0 103 104 105 -103 0 103 104 105 -103 0 103 104 105 -103 0 103 104 105 -103 0 103 104 105
+CD90-AF700 CD90-AF700 CD90-AF700
+e mTECType1 mTECType2 cTECType1 cTECType2
+E
+F
+C
+f g
+Growth curve Thymic identity signature of clonogenic TEC in culture
+1013 mTECType1
+KRT14 V1
+1012 cTECType1 CD24 10
+ve cell N. 11100011109 CPSCAIDTXXSH19V1 50
+ati EYA1 mTEC:
+mul 108 ECPDC27A4M Cultured
+Cu 107 KCNIP3 mTECType1
+106 BMP4
+PAX1 cTEC:
+105 LY75 Cultured
+104 l ll lll lV V Vl Vll PTPR5S3SA1I6P1 cTECType1
+HOXA3
+No. of passages
+TBX1 TEC:
+C C C C C C C C Cultured
+E E E E E E E E
+T cT mT mT mT T cT cT unsorted
+reconstitution, we ﬁrst wanted to contextualise the cells’ proﬁles distinguishable on the basis of shared common features: cTEC
+relative to freshly isolated mTEC and cTEC, directly ex vivo. groupedwithinthreemainclusters,whilemTECgroupedwithin
+Thus,freshlyisolatedsubpopulationsofmTECandcTEC,Type1 ﬁve, in addition to which we identiﬁed four TEC clusters
+and Type2, were subjected to single-cell RNA sequencing common to both cortex and medulla (“comTEC”; Fig. 2b). Note
+(scRNA-seq), placing them into the broader context of other that the remaining three clusters (residual cells) represented
+murine and human scRNA-seq studies12,26–30. This combined polymorphonuclear, dendritic cell and thymocyte contaminants
+approachofferedtheopportunityforhighresolutionproﬁlingof from the single-cell sorting (Fig. 2b). These main cell subgroups
+freshly isolated thymic epithelial cells enriched for were validated by speciﬁc gene signatures of cTEC, mTEC or
+clonogenic cells. comTEC visualised in category view feature plots (Fig. 2c).
+WhenthemTECandcTECsubpopulationswerepresentedin Examples of single gene patterns of expression for each category
+a single UMAP (Fig. 2a), we were able to annotate main cell (cTEC, mTEC and comTEC) are shown in Supplementary
+subgroups among sorted epithelial cells, deﬁning 15 cell clusters Fig. 2c–e for all the sorted Type1 and Type2 TEC.
+NATURECOMMUNICATIONS|        (2020) 11:6372 |https://doi.org/10.1038/s41467-020-20082-7|www.nature.com/naturecommunications 3
+
+NEW PAGE
+
+ARTICLE
+NATURECOMMUNICATIONS|https://doi.org/10.1038/s41467-020-20082-7
+Fig.1Prospectiveisolationofthymicepithelial(TEC)andinterstitialcells(TIC).aLeftpanel:Rhodamine-BstainingofTEC:500culturedTECwere
+seededinadishforcolony-formingefﬁciency(CFE);thedishwasstainedafter12daysofculture.TECgaverisetocoloniesofvariablesizesthatstained
+differentlywithRhodamine.Scalebar,2cm.Rightpanel:growthcurveoverserialweeklypassagingofTEC(Xaxis,numberofweeklypassages;Yaxis,
+cumulativecellnumber);signiﬁcance,mean±SD(n=3;donoragefrom2monthsto4years).bLeftpanel:immunoﬂuorescencelabellingofthymic
+epithelialcellsinhumanpost-natalthymuswhereanti-CD205antibody(green)markedcorticalTEC(cTEC)andanti-CK5-14(red)markedmedullaryTEC
+(mTEC).Scalebar,50μm.Rightpanel:FACSplotvisualisingcTEC(EpCAMlowCD205+,4.87%),mTEC(EpCAMhighCD205−,11.1%)andTIC
+(EpCAM−CD205−,61.5%)intheCD45-negativepopulationenrichedforsorting(n=18;agefrom3daysto6years).Representativeanalysis,thymus
+donorage4months(livecells=51600).cFACSplotsshowingCD90expressioninenrichedEpCAMhighmTEC(red),EpCAMlowcTEC(green)and
+EpCAM−TIC(blue)respectively.Gatingwasdecidedonnegativeunstainedcontrolvalueforeachchannel.Samethymusasin1b.dRepresentativeFACS
+analysisforCD49fandCD90demonstratingCD49f+(Type1)andCD49f−(Type2)populations.Samethymusasin1band1c.eRhodamine-stained
+indicatordishesofsortedcTECandmTECsubtypes(4000events/dish)cultivatedfor12days,colony-formingefﬁciency(CFE).mTECType1isthemost
+clonogenicpopulation(2–4%)andcTECType1(1–2%)istheclonogenicpopulationofthecortex(n=4).fGrowthcurveoverserialweeklypassagingof
+sortedmTECType1andcTECType1(Xaxis,numberofweeklypassages;Yaxis,cumulativecellnumber;n=4independentcultures;dataarepresentedas
+meanvalue±SE;donoragefrom2monthsto4yearsold).gGeneexpressionsignatureofcultivatedclonogenicTEC(unsorted,black),medullary(Type1
+mTEC,red)andcorticalTEC(Type1cTEC,green).Heatmapandhierarchicalclusteringofsamplesaccordingtoexpressionofthymicidentitygenes(SIX1,
+EYA1,PAX1andPAX9),markersofthymiccortex(CTSV,PRSS16andLY75)andmedulla(CD24andCDH1).
+Provocatively,thecomTECclustersincludedcellscharacterised thus allowing us to obtain billions of cells in only a few weeks
+byanepithelial–mesenchymaltransition(EMT)signature(cluster (Fig. 3c). Immunoﬂuorescence showed expression of mesenchy-
+12), proliferation markers (cluster 13) and poly-keratin- mal markers such as TE7, VIM, PDGFRβ, Chondroitin Sulfate
+expressing cells (cluster 14), while cluster 15 displayed a Proteoglycan4(NG2)andSmoothMuscleActin(αSMA;Fig.3d).
+distinctive signature enriched in ion transporters31 (Fig. 2c). FACS analysis revealed that these TIC consistently expressed
+When we compared the transcriptional signatures of comTEC PDGFRα,PDGFRβ,CD90,CD146,and,tovariableextents,NG2
+and of speciﬁc mTEC and cTEC clusters to the transcriptional and alkaline phosphatase (ALP), consistent with a perivascular
+proﬁle of clonogenic TEC in vitro, it was evident that the latter phenotype34 (Fig. 3e and Supplementary Fig. 3a). FACS analysis
+expressed transcriptional signatures present in comTEC (pro- of expanding TIC showed no presence of either epithelial
++ +
+liferation, EMT and polykeratins) but not in other clusters of (CD49f ) or immune (hCD45 ) cells (Supplementary Fig. 3b).
+freshly isolated mTEC or cTEC (Fig. 2d). Finally,wecomparedthetranscriptionalproﬁleofthecultured
+epithelial clonogenic cells and thymic interstitial cells from
+TEC co-express epithelial and mesenchymal markers but are paediatric samples of different age by genome-wide RNA
+distinct from thymicinterstitial cells. Based onthe strikingco- sequencing.Asexpected,cultivatedTECappearedclearlydistinct
+expression of CD90 (THY1) with EpCAM observed by FACS from the TIC as illustrated by the principal component analysis
+(Fig. 1c) and also by the detection of an EMT signature in the (PCA1;SupplementaryFig.3c).Nevertheless,thedataconﬁrmed
+comTEC cluster of freshly isolated TEC (Supplementary 2f), we that the two cell types also share an exquisite similarity in the
+further investigated the possibility that human thymic epithelial expression of genes related to EMT, including highly expressed
+cells might be characterised by a distinctive COL1A1, MMP2, TGFBR2 and FN1 (Supplementary Fig. 3d).
+epithelial–mesenchymal hybrid phenotype. To this end, we per-
+formed immunohistochemistry analysis on postnatal thymi of Naturalthymicscaffolds.GiventhecapacityofTECandTICto
+our donors and clearly detected cells consistently co-expressing expand substantially under the culture conditions employed, it
+cytokeratins (CK) with mesenchymal markers such as CD90, became possible to obtain billions of TEC and TIC within a
+vimentin (VIM) and to a less extent, the mesoderm marker TE7 relatively short time-period, establishing them as putative stem/
+(Fig.3a),thusconﬁrmingattheproteinlevelahybridphenotype progenitorcellswithclinicalapplicability.Inordertoassesstheir
+expressed within healthy thymus tissue. capacity to functionally differentiate we developed a unique
++
+In culture, clonogenic TEC were CD49f , in active cell cycle approachtoobtainthymicextracellularmatrix(ECM)bywhole-
++
+(MKI67 ) and double positive for CK5-14 and CK8-18. In organ decellularisation that would provide a 3D structure for
+contrasttoallepitheliadescribedinculturesofar,butinlinewith seeding thymic stroma and guide cellular re-organisation
+what reported above, clonogenic TEC stably co-expressed according to a physiological pattern.
+mesenchymal markers such as CD90, VIM and TE7 (Fig. 3b). The thymus develops from the third pharyngeal pouch4 as
+Inaddition,someTECexpressingTP63,atranscriptionfactorof separate lobes which migrate into their ﬁnal location as
+the basal layer of stratiﬁed epithelia and a master regulator of independentvascularisedstructures,afterwhichthelobesadhere
+thymic epithelial cells32, were also positive for VIM in vitro and to each other through a layer of connective tissue. Owing to the
+in vivo (Fig. 3a, b). Genome-wide transcriptomic analysis of lack of a main arterial supply to the whole-organ, it has not
+cultured TEC conﬁrmed the expression in vitro of the EMT hitherto been possible to apply a perfusion-decellularisation
+signaturedeﬁnedbyscRNAsequencing(SupplementaryFig.2g). approachtoobtainECMscaffoldfromthethymus,analogousto
+Strikingly, expression of mesenchymal markers also correlated that achieved for many other organs35. Thus, we developed de
+withhighmotilityandmigrationthataretypicalofmesenchymal novo an approach permitting whole-organ perfusion of the
+cells, as demonstrated by live-imaging of a TEC colony over thymus. Brieﬂy, one carotid artery was left open for subsequent
+4 days in culture (Supplementary Movie 1). Thus, the hybrid cannulation to allow perfusion of the organ, while all other
+epithelial–mesenchymalphenotypeofepithelialcellsappearedto arteries (downstream of the emergence of vessels reaching the
+beahighlydistinctivefeatureof thethymusinvivoand exvivo. thymus) were closed, as shown by gross microscopy and as
++ −
+In addition to TEC, we also expanded CD90 EpCAM detailed in Methods section (Fig. 4a, upper panels).
+interstitial cells (Fig. 1c [TIC]). These cells did not grow under We applied X-ray microfocus-computed tomography (Micro-
+culture conditions designed for epithelial cells, but proliferated CT) of cannulated whole rat thymi to allow 3D visualisation of
+extensivelyformanypassagesinmesodermcultureconditions33, the24Gcannulasitedinthecarotidartery(Fig.4b).Micro-CTis
+4 NATURECOMMUNICATIONS|        (2020) 11:6372 |https://doi.org/10.1038/s41467-020-20082-7|www.nature.com/naturecommunications
+
+NEW PAGE
+
+ARTICLE
+NATURECOMMUNICATIONS|https://doi.org/10.1038/s41467-020-20082-7
+a b
+12 1 cTEC I cTEC
+2 cTEC II mTEC
+10 3 cTEC III 10 comTEC
+4 4 PMNs Residuals
+7 13 5 DCs
+5 8 6 Thymocytes 5
+UMAP_2 0 9 6 5 14 2 1 789 mmmTTTEEECCC---NMMeyyuoor  oIII I UMAP_2 0
+10 mTEC-Neuro II
+3 15 11 mTEC-Diff
+–5 12 comTEC-EMT  –5
+10 11 13 comTEC-Proliferating
+14 comTEC-Polykeratins
+–10 15 comTEC-Ionocytes –10
+–10 –5 0 5 10 –10 –5 0 5 10
+UMAP_1
+UMAP_1
+c
+cTEC mTEC comTEC
+CD274 CD24 KRT14
+LY75 HES6 KRT15
+10 CCL25 10 EPCAM 10 TP63
+PSMB11 CDH1 ZEB1
+CTSV CLDN3 FN1
+5 PTTBPRA5S3TSAA1I6P1 mAUC 5 mAUC 5 MTHKYi617 mAUC
+AP_2 00..86 00..86 0.2
+M 0.4 0.4
+U 0 0.2 0 0.2 0 0.1
+0.8 0.8 0.0
+–5 –5 –5
+–10 –5 0 5 10 –10 –5 0 5 10 –10 –5 0 5 10
+UMAP_1
+d
+Expression of single-cell cluster signatures by TEC expanded in vitro
+Group
+KRT17
+KRT17
+KRT14
+FN1
+V1 KKRRTT516
+10 TKGRFTB7R2
+COL1A1
+KRT8
+5 KKRRTT143
+FBN1 Signature of 
+SEMA3C
+0 MMKRKMTIP61275 comTEC clusters
+SNAI2
+HAS2
+LOXL2
+KRT10
+S100A4
+mTEC: TZGEBF1B3
+GLIPR2
+Cultured DTWABIS2T1
+HGF
+mTECType1 DEFB1
+CALML5
+MYH3
+KRT9
+GNG8
+cTEC: CASCCELR32 Signature of specialised 
+Cultured AMTEOFH2C1
+cTECType1 MSNTHYMLLHPN1F2 TEC clusters
+MYOG
+LRMP
+POU4
+TEC: CFEFZTFR2
+Cultured AMIYROED1
+HEPACA
+unsorted FSOEMXIA13D
+C C C C C C C C
+E E E E E E E E
+T T T T T T T T
+c m m m c c
+a non-destructive technique that permits visualisation of the conﬁrmed the distribution of cortical and medullary areas and
+vasculature containing blood (white, dense areas) via iodine vascular (*) structures (Fig. 4d, e).
+contrast; moreover, it facilitated clear demarcation of cortical Importantly,wedemonstratedthatthismicrosurgicalapproach
+(brighter areas, C) and medullary regions (M) through virtual allowed perfusion of both thymic lobes by injecting a Microﬁl®
+segmentation, thereby demonstrating whole-organ 3D imaging compoundthroughasinglecannula,and,aftersolidiﬁcationand
+ofthethymusathighresolution(Fig.4b;SupplementaryFig.4a ﬁxation, we imaged the whole organ by Micro-CT (Fig. 4f, g).
+and Supplementary Movie 2). When the parenchyma was Perfusion through the cannula of MilliQ-H O, followed by
+2
+rendered more transparent, the 3D whole-organ micro-CT detergent and DNAse solutions allowed whole-organ decellular-
+images allowed enhancement of the 3D thymic vascularisation isation over a 6-day period (Fig. 4a, lower panels). MT and
+segmented in red (Fig. 4c). Standard histology by masson H&E stains demonstrated complete acellularity of the organ,
+trichrome (MT) and haematoxylin & eosin (H&E) stains which displayed a ﬁne, reticular, collagen-enriched ECM and
+NATURECOMMUNICATIONS|        (2020) 11:6372 |https://doi.org/10.1038/s41467-020-20082-7|www.nature.com/naturecommunications 5
+
+NEW PAGE
+
+ARTICLE
+NATURECOMMUNICATIONS|https://doi.org/10.1038/s41467-020-20082-7
+Fig.2Single-cellRNAsequencingoffreshlyisolatedTECdeﬁnescommoncellclusterstomTECandcTECthataremaintainedinvitro.aUMAP
+visualisationofthecellularcompositionofthehumanpost-natalthymusbyclustersindicatedbycoloursandnumbersfrom1to15describingthe
+heterogeneityofcTEC(1–3)andmTEC(7-11).Clusters12–15werecommontocortexandmedulla(comTEC);clusters4–6describedresidualimmunecells
+(PMNs,DCsandthymocytes).bUMAPrepresentationofthesamethymiccellsindicatingmainsubgroups(cTEC,corticalepithelialcells,ingreen;mTEC,
+medullaryepithelialcells,inred;TECcellswithcommonfeatures,inbrownandresidualsofimmunecellsingrey).cAreaunderthecurve(AUC)summary
+intensityplotsforthegenesignaturesofcTEC(CCL25,CD274,CFC1,CTSV,FOXN1,KCNIP3,LY75,PRSS16,PSMB11,SCX,SLC46A2,TBATAandTP53AIP1),
+mTEC(CD24,CDH1,CLDN3,EPCAMandHES6)andcomTEC(CCL19,CFTR,COL1A1,DAB2,FN1,GLIPR2,HAS2,HGF,KRT14,KRT15,LOXL2,MKI67,MMP2,
+S100A4,SNAI1,SNAI2,TFCP2L1,TGFB3,TGFBR2,THY1,TP63,TWIST1andZEB1)clustersshowingexpressionlevelforlineagespeciﬁcgenesinapurplescale.
+Single-cellexpressionvaluesarerepresentedascalculatedmedianintensityofareaunderthecurve.dHeatmapandhierarchicalclusteringofcultured
+cTECType1(green,n=3),mTECType1(red,n=3)andculturedunsortedTEC(black,n=2)accordingtomaingenesclustersdeﬁnedinsingle-cellRNA
+sequencing.GeneslistisdisplayedontherightandincludescomTECsignatures(epithelial-to-mesenchymaltransition(EMT),polykeratinsand
+proliferative-clusters12-13-14)andspecialisedcellclusters:Myo(clusters7-8),Neuro(clusters9–10),Ionocytes(cluster15)anddifferentiatedmTEC
+(cluster11).
+preservation of themacro- and micro-vasculature (Fig. 4h, iand inordertoremovedonorthymocytes,beforetransplantationinto
+Supplementary Fig. 4b, c). Thymic ECM was characterised by athymic patients20,37. The healthy status of the reconstituted
+colorimetric staining for ECM proteins that demonstrated stroma withinour scaffolds seemed of particular relevance when
+preservation of elastin while conﬁrming the absence of inter- considering that current clinical protocols for thymus slice
+mediate ﬁlaments, including keratins (Supplementary Fig. 4d). preparation show disorganised stroma with variable survival
+Likewise, there was essentially no residual DNA after decellular- after14and21daysofculture,andequallyimportantly,residual
++
+isation (Supplementary Fig. 4e). Scanning electron microscopy CD3 thymocytes that pose an overt risk of graft-versus-host
+(SEM) showed distribution of ECM ﬁbres at high resolution disease for a transplant recipient (Supplementary Fig. 5e).
+(Supplementary Fig. 4f), and this was preserved in whole-organ In order to assess the functional potential of the 3D thymic
+scaffoldswhichweresterilisedbyγ-radiationandwhichcouldbe microenvironment, natural scaffolds were repopulated with TEC
+stored in physiologic solution. and TIC as described, and cultivated for 4–6 days before being
+injectedwiththymocyteprecursors.Giventhesize(0.5–1cm3)of
+Natural scaffolds facilitate functional thymic morphogenesis therepopulatedscaffolds, weculturedcellsforarelatively short-
+ex vivo. We next investigated the capacity of epithelial thymic term (up to 2 weeks) insufﬁcient time vis-a-vis 5–6 weeks
+cells extensively expanded as described above to repopulate and required for haematopoietic stem cell (HSC) lineage differentia-
+growwithinawhole-organ3Dnaturalscaffoldexvivo.Scaffolds tion38. To accommodate this, scaffolds were repopulated with
+were injected with 4–6 million clonogenic TEC that had been ﬂow cytometry-sorted triple negative thymocytes (TN,
+− − −
+expanded for 4–6 weeks. Repopulated scaffolds were then CD3 CD4 CD8 ) characterised for the expression of early
+maintained in static conditions for up to 14 days in epithelial lymphoid markers CD1a, CD5, CD7 and CD31 (Supplementary
+medium, over which time they showed scaffold remodelling and Fig. 5f, g). Immune cells within repopulated scaffolds were
+progressively increasing volumes (Fig. 5a). TEC re-organised negative for CD33, positive for CD1a and could differentiate
++
+along the 3D ECM structure from the subcapsular areas toward both double (DP) and mature single positive (SP) CD4
++ + +
+(CD49fhigh) into the innermost regions of the scaffold. Seeded and CD8 stages, resulting in a ratio of CD4 :CD8 cells that
+TEC expressed CK5-14+ and/or CK8+; were in active cell cycle phenocopies the ratio found in the native human thymus
+(MKI67+); were negative for the apoptotic marker, Caspase 3; (Fig. 5h). EpCAM+ TEC within the scaffolds expressed also
+andbroadlyexpressedTP63(Fig.5bandSupplementaryFig.5a). HLA-DR which was not detected on TEC expanding in culture
+These data demonstrate that TEC were supported by the 3D (SupplementaryFig.6a–c).Incontrast,TNinjectedintoscaffolds
+ECM. Nevertheless, under these in vitro conditions and in the containing TIC-only stroma did not survive (Supplementary
+absence of any other cell type (Fig. 5c), seeded cells resem- Fig.6d).Inconclusion,itwaspossibletocultivateorgan-size,3D
+bled TEC detected in patients affected by primary immunodeﬁ- structures that supported the survival and appropriate spatial
+ciencies wherein the distribution of thymic stroma is severely organisation of thymic stromal cells, that in turn facilitated
+perturbed36. thymocyte differentiation.
+To address this issue, we next co-seeded expanded TEC
+togetherwithcultured TIC. We optimised theTEC:TIC ratio at Human thymus morphogenesis recapitulated in vivo. We next
+5:1 in order to avoid interstitial cell overgrowth. Strikingly, after investigatedwhetherrepopulatedthymusscaffoldsmightmature
+only 5 days of co-culture, the presence of TIC promoted a and sustain human T cell reconstitution from HSC in vivo. To
+cordonedstromalorganisationthatlargelyphenocopiedanearly thisend,scaffoldsthathadbeenrepopulatedandculturedinvitro
+(9-week post-conception, wpc) foetal thymus (Fig. 5d, e). TIC for 5–6 days, were implanted subcutaneously into humanised
+werefoundtobecrucialforre-organisationofTECalongthe3D NOD.scid.Il2Rγcnull (NSG) mice. NSG mice were sub-lethally
+ECMofthereconstitutedscaffold.InthepresenceofTIC,cortical irradiated and transplanted with highly puriﬁed CD34+ HSC
++ +
+CK8 TECweremostlysurroundedbyasubcapsular-likelayerof from either human cord blood (CB CD34 ) or foetal liver (FL
+CK5-14+ TEC that expressed CD49f and TP63, phenocopying CD34+) 4–6 weeks before they were implanted with thymus
++
+the native thymus (Fig. 5f and Supplementary Fig. 5b, c). SEM scaffoldsco-seededwithstromalcells(TECandTIC)andCD34
+of repopulated scaffolds conﬁrmed cell–cell and cell–matrix HSC at deﬁned ratios (Supplementary Fig. 7a). Note that the
+interactionsbetweenTEC,TICanddecellularisedECM,aswellas HSC, which can act as sources of human myeloid cells, were
+the preservation of vascular structures (*) (Supplementary added to the grafts to accelerate thymus development, but were
+Fig. 5d). not essential (see below).
+We next considered it appropriate to compare the organised Decellularised natural scaffolds previously seeded and culti-
+thymus stroma reconstituted in vitro from clonogenic cells with vated in vitro, were grafted subcutaneously into NSG mice. At
+clinicalthymusslicesthatareculturedonaspongeupto21days, least two scaffolds were grafted into each mouse. Grafts were
+6 NATURECOMMUNICATIONS|        (2020) 11:6372 |https://doi.org/10.1038/s41467-020-20082-7|www.nature.com/naturecommunications
+
+NEW PAGE
+
+ARTICLE
+NATURECOMMUNICATIONS|https://doi.org/10.1038/s41467-020-20082-7
+a Merge CD90 Merge VIM Merge TE-7
+CD49f CK8-18 CASP3 CK8-18 CK5-14 CK8-18
+Merge VIM CK8-18 TP63
+b Merge CD90 Merge VIM Merge TE-7
+CD49f CK8-18 CK5-14 CK8-18 CK5-14 CK8-18
+Merge MKI-67 CK8-18 Merge VIM TP63
+c CulturedTIC Growth curve d
+1015
+mulative cell no. 11111100000011111023419
+Cu 108
+107 TE-7 VIM
+106
+I II III IV V VI VII
+No. of passages
+e
+250 K 250 K
+200 K 200 K
+A A
+-C150 K -C150 K
+S S
+S100 K S100 K PDGFRβ NG2 SMA
+50 K 50 K
+0 0
+101 102 103 104 105 101 102 103 104 105
+PDGFRα-PE PDGFRβ-PE
++
+individually harvested at 1, 2, 8, 11, 18 and 22 weeks post- seeded with stroma and CD34 HSC. Among those were
+transplantation(wpt;Fig.6aandSupplementaryFig.7a,b).Early structures very similar to Hassall’s Bodies (HB), an anatomic
+time points were important to conﬁrm stromal cell survival and trait of human thymus that is much less evident in mouse
+re-organisation. At 8 wpt, stroma (TECandTIC) seeded in (Fig. 6a, b HB indicated by asterisk and Supplementary Fig. 7c).
+natural scaffolds still showed a cordon-like distribution or Immunohistochemistry (IHC) for the epithelial marker E-
+compact epithelial structures by contrast to the unique 3D Cadherin (ECAD, red) and for the T cell receptor (TCR) (anti-
+thymic epithelial reticulum (Fig. 6a). However, by 11 wpt, CD3;green)demonstratedthymicmorphogenesiswithepithelial
++
+orderedmorphogenesishadprogressedfurther,andmoremature cells forming HB and interacting with CD3 cells from
++
+thymic structures were consistently detected among scaffolds the scaffold (Fig. 6c). Epithelial (CK5 ) and mesenchymal
+NATURECOMMUNICATIONS|        (2020) 11:6372 |https://doi.org/10.1038/s41467-020-20082-7|www.nature.com/naturecommunications 7
+
+NEW PAGE
+
+ARTICLE
+NATURECOMMUNICATIONS|https://doi.org/10.1038/s41467-020-20082-7
+Fig.3Phenotypicanalysisofinvitroexpandingthymicstromalcells.aImmunoﬂuorescencelabellingofthymicepithelialcellsinhumanpost-natal
+thymuswhereCK8-18antibody(yellow),CK5-14orCD49f(magenta)markedTEC.TissuescontainshealthycellsasshownbyabsenceofCASP3(topmid
+panel).Co-stainingwithCD90(topleftpanel),vimentin(VIM,topmidpanel)orTE7(toprightpanel)ingreenshowsepithelialcellswithmesenchymal
+features.Bottompanelshowsco-expressionofVIM(green),CK8-18(yellow)andtranscriptionfactorTP63(magenta).Arrowandinserts(white)highlight
+individualcellswithhybridphenotype.NucleiarestainedwithDAPI.Scalebar,50μm(n=4thymi).bImmunoﬂuorescencelabellingofepithelialand
+mesenchymalmarkersonexpandingthymicepithelialcellscoloniesexpressingCD90(leftpanels),VIM(middlepanels)andTE7(rightpanels)ingreen.
+MostofTECincultureco-expresscytokeratinCK5-14(magenta)andCK8-18(yellow),CD49f(magenta)togetherwithmesenchymalmarkers.Bottom
+panels:left,TECexpressproliferationmarkerMKI67(green)andrightpanels:TECco-expresstranscriptionfactorTP63(magenta)withVIM(green).
+NucleiarestainedwithDAPI(n=4independentcultures).Scalebar,50μm.cLeftpanel:phasecontrastimageofthymicinterstitialcells(TIC)expanded
+aftersorting.Scalebar,200μm.Rightpanel:growthcurveshowsTICexpansionoverseveralweeklypassages(n=4independentcultures,dataare
+presentedasmeanvalue±S.D.).dImmunoﬂuorescenceofcultivatedTICdemonstratesproteinexpressionforTE7andvimentin(VIM),aswellas
+PDGFRβ,NG2andSmoothMuscleActin(αSMA),n=3independentcultures.Scalebar,40μm.e,RepresentativeFACSanalysisofexpandedTICfor
+mesodermmarkersPDGFRα(PE),PDGFRβ(PE),n=5independentcultures.
++ − + +
+(Vimentin CK5 ) cells, and angiogenesis (as detected by We sorted hCD45 CD3 cells from thymus scaffolds and
+Endomucin immune-staining) were detected in scaffold trans- from the endogenous thymi of NSG mice at 18 wpt, and then
+plants (Fig. 6c, lower panel; Supplementary Fig. 7d). In some interrogated the cells’ functional potential in vitro. CD3/CD28
+experiments VeraVec39 endothelial cells were seeded in addition Dynabeads® were used to induce the proliferation of sorted cells
+to cultivated TEC and TIC since they were reported to favour for from 12 to 28 days until sufﬁcient cells were obtained for
+faster revascularisation in reconstituted bone marrow (BM) functionalstudies.Interestingly,therespectiveCD4/CD8ratiosof
+niches40. However, thymus morphogenesis and T cell develop- scaffold-associated or endogenous thymus-associated cells were
+ment occurred independently of the presence of human sustaineduponexpansioninculture,indicatingthatthisproperty
+endothelial cells at seeding, probably owing to murine vascular- hadbeendifferentially“instructed”byhumanandmousethymic
+isation of the scaffold. stroma.When stimulatedinvitrowithphorbolmyristateacetate
++ +
+Toaskwhetherthereconstitutedscaffoldsattractedcirculating (PMA)andionomycin(Io),theexpandedCD4 andCD8 cells
+haematopoietic progenitors, we examined morphogenesis at could produce IFNγ and TNFα, whereas IL2 was produced to a
+18–22 weeks post-transplantation (wpt), and found that thymic much lesser extent from cells developing in the human scaffolds
+maturationwasoccurringinmostrepopulatedscaffolds(Fig.6a) than by T cells derived from the NSG thymi, (Fig. 6h). Of note,
+includingthosethatwerenotinjectedwithHSCpriortografting thymocytes freshly isolated from humanthymus also respond to
+(Fig. 6b). Moreover, AIRE expression progressively increased PMA-Ionomycin with low IL2 production (Supplementary
+from11wptto22wpt(Fig.6d),andwithinseveralareas,withor Fig. 8f)
++
+without HB, there were scattered CD11c dendritic cells (DC), Finally,weinterrogatedthecapacityofrepopulatedscaffoldsto
+with HLA-DR expression detected by IHC on DC and by IHC support peripheral T cell reconstitution in an athymic NSG-
+and FACS on TEC (Fig. 6e and Supplementary Fig. 7e, f). Foxn1null (NSG-nude) mouse where the scaffolds were the only
+In order to functionally characterise the implanted scaffolds, thymicstroma.NSG-nudemicewerehumanised4–8weeksprior
+graftswereharvested,dissociatedintosinglecellsandanalysedby tografting.LittermateNSG(Hairy)micewereutilisedaspositive
+ﬂowcytometry.CD3+cellsweretheprevalentphenotypewithin controlforBMandperipheralrepopulation(spleen;Supplemen-
++
+the hCD45 population within the re-engineered thymic tary Fig. 9a, left panels). Upon BM reconstitution no T cells
+implants.Thehighpercentage(30–80%)ofhCD45+cellswithin (hCD3+) were detected in the periphery of these mice when
++
+each scaffold that were CD3 indicates that the haematopoietic transplantedwithemptyscaffolds(SupplementaryFig.9a,middle
+progenitors were subjected to an instructive thymic microenvir- panels).Onthecontrary,whenNSG-nudemiceweregraftedwith
+onment provided by cultivated human stromal cells (Fig. 6f), scaffolds previously repopulated in vitro with human thymic
++
+since BM of the same mice were by contrast primarily stroma, hCD3 cells were detected in the periphery (Supple-
++ + + +
+repopulated with CD33 myeloid and CD19 B lineage cells mentaryFig.9a,rightpanels).Ofnote,hCD45 CD3 cellsfrom
+(Supplementary Fig. 8a). the spleens of NSG-nude mice were puriﬁed at two time points
+Flow cytometry showed that scaffolds were able to support (10wptand18wpt)andanalysedforexpressionofspeciﬁcgenes
+thymocyte development (77.5% of all implanted scaffolds), with supporting TCR-activation including TRBC1/2, TRAV19, NT5E,
+SP CD4+ and CD8+ cells expressing TCRαβ (Fig. 6g;). Of note, CD45RA, TRAC, CD69, PTPN6 (SHP-1), PTPRC, PPIA, CD22
+theCD4:CD8ratioforcellsmaturinginscaffoldsfavouredCD4+ and LTB41–49 (Supplementary Fig. 9b).
+SPcells(~3:1),afeatureofhumanthymocytedevelopmentthatis
+not seen when circulating human BM-derived progenitors Discussion
+undergo differentiation within the endogenous thymi of NSG The data described in this study demonstrate that postnatal
+mice (Supplementary Fig. 8b). Immature SP (ISP) and DP human thymus harbours epithelial (TEC) and interstitial cells
+thymocyteswere also present in different proportions withinthe (TIC) that can expand to clinically relevant numbers in vitro,
+scaffolds, demonstrating ongoing thymopoiesis, with consistent suitable for contributing to the reconstruction of a human
+representation of DP cells (Fig. 6g and Supplementary Fig. 8c). functional thymus in vivo. This is an important proof-of-
+Nonetheless, their reduced presence by comparison to those principle that a long-lived phenocopy of a human thymus uti-
+reported in human thymi examined directly ex vivo may lising only postnatal, cultivated cells is achievable.
+reasonably reﬂect the fact that further optimisation will be Our cell sorting strategy for isolating medullary and cortical
+required to establish the precise schedules and kinetics of subpopulations showed that both mTEC and cTEC expressing
++
+differentiation in the native organ. In contrast, no CD3 cells CD49f are enriched for clonogenic TEC with the ability to be
+were retrieved from scaffolds repopulated with TIC, VeraVec, subcultured and to be signiﬁcantly expanded ex vivo. Interest-
++
+HSC CD34 (without TEC) at 11 wpt or empty scaffolds at 22 ingly, theexpanding mTECand cTECmostlylostthesignatures
+wpt (Supplementary Fig. 8d, e). of their respective compartments of origin, seemingly consistent
+8 NATURECOMMUNICATIONS|        (2020) 11:6372 |https://doi.org/10.1038/s41467-020-20082-7|www.nature.com/naturecommunications
+
+NEW PAGE
+
+ARTICLE
+NATURECOMMUNICATIONS|https://doi.org/10.1038/s41467-020-20082-7
+a b
+*
+*
+*
+*
+M
+C
+*
+*
+c d e
+*
+*
+M M
+C C
+f g h i * Large vessels
+Thymic lobule
+e
+Fig.4Whole-organthymusperfusionanddecellularisation.aGrossappearanceofcannulatedratthymibefore(upperpanels)andafter(lowerpanels)
+decellularisation.A24Gcannulaisinsertedintothecarotidarteryandusedtoperfusetheorganwithdetergentandenzymaticsolutions.Asterisksindicate
+extra-thymictissuesthatallowedconnectionbetweenthymictissueandcannulathroughthelargebloodvessels(n=120).Scalebar,2mm.bMicro-CT
+imagesofcannulatedratthymusshowingextra-thymictissues,largebloodvesselsandthe24Gcannulaenteringtheartery.Iodinecontrastshowsclear
+demarcationbetweencortex(C,bright)andmedullary(M)areas;bloodvessels(asterisks)arerepresentedbyverybrightareasbetweenandinsidethe
+parenchyma(n=3).Scalebar,1.5mm.cMicro-CT3Dimageofwholeratthymuscannulatedwhereiodinecontrastshowsvasculaturetree(segmentedin
+red,n=2).Scalebar,1.2mm.dMasson’strichromestainofafreshratthymuslobestaininginredkeratins,inbluecollagenandinpinkcytoplasm.
+Ccortex,Mmedulla(n=3thymi).Scalebar,250μm.eHaematoxylin&Eosin(H&E)stainofafreshratthymus.Ccortex,Mmedulla(n=3thymi).Scale
+bar,500μm.fMicro-CTimageofcannulatedratthymusshowingthewhole2lobesin3D.Scalebar,1.2mm.gMicro-CTimageofacannulatedratthymus
+injectedwithMicroﬁl®andthresholdedtodemonstrateperfusionofboththymiclobes.Scalebar,1.2mm.hMasson’strichromestainofaparafﬁnsection
+ofadecellularisedratthymusscaffolddemonstratingcollagenﬁbres(blue)andabsenceofkeratins,muscleﬁbresandcellcytoplasm(n=3scaffolds).
+Scalebar,250μm.iH&EofadecellularisedthymusscaffoldshowingintactthymiclobuleECMandpreservationofbothlargeandsmallvasculaturewall
+(n=4scaffolds).Scalebar,500μm.
+with there being a common progenitor present throughout Our combined approach of single-cell transcriptome analysis
+thymic tissue5,16,50. Unexpectedly, clonogenic TEC co-expressed with the prospective isolation of medullary and cortical sub-
+genesandalsodisplayedsomebehaviourtypicalofmesenchymal populations was crucial to identify clusters of cells common to
+cells: to our knowledge, this hybrid phenotype is an unique, both medulla and cortex (comTEC) among the highly hetero-
+cell-intrinsic feature of thymus stroma that is stably maintained geneous cell types present in the two compartments. The tran-
+over many passages in culture. A systematic study based on scriptional proﬁle of the comTEC deﬁned a common medullary
+single-cell clonal analysis, which represents the paradigm of andcorticalsignatureinvivo,includinganEMTproﬁle,thatwere
+epithelial stem cells in vitro51,52, will offer the means to further overtlyrecapitulatedbytheclonogenicTECinvitro.Thisfeature
+dissect the complexity and the properties of these thymic ofthethymusepitheliummaybeexplainedbythefactthata3D
+clonogenic cells. reticular type of epithelial stratiﬁcation occurs solely in the
+NATURECOMMUNICATIONS|        (2020) 11:6372 |https://doi.org/10.1038/s41467-020-20082-7|www.nature.com/naturecommunications 9
+
+NEW PAGE
+
+ARTICLE
+NATURECOMMUNICATIONS|https://doi.org/10.1038/s41467-020-20082-7
+a b
+Merge DAPICD49f DAPICK5/14
+C
+E
+T
+y 
+nl
+c  od
+ol Merge CK5/14 TP63
+EC Scaff DAPI DAPI
+T
+y 
+nl
+o
+d 
+ol
+aff
+c
+S
+d e
+s
+u
+m
+y
+d h
+caffol etal t
+S n f
+a
+m
+u
+H
+f g
+d
+ol
+aff
+c
+S
+old Merge DAPI CD49f
+aff
+c
+S
+h
+Scaffold Total cells Live cells
+250 K 105 105 15.5 26.2
+DAPICK8 DAPI CK5/14 200 K
+104 104
+A-CSS11505000   KKK IPAD 1003 506VB-4DC110032
+1.51 –103 92.0 101 50.1 8.18
+50 K 100F KSC150 -KA200 K 250 K 50 K 100F KS1C50 K-A200 K 250 K 101 102CD1083-AP104C 105
+old Merge DAPICD49f Live cells SP CD4+ SP CD8+
+Scaff 105 0.22 0.024 105 17.6 66.0 105 47.4 38.6
+104 104 104
+CTIF-33DC1003 117VB-3DC1003 117VB-3DC1003
+–103 21.9 77.8 –103 16.4 0 –103 13.7 0.29
+DAPICASP3 DAPI TP63 –103CD01a-PE10-3Cy7 104 105 –103 TC0Rαβ-1A03F700 104 105 –103 TC0Rαβ-1A0F3700 104 105
+thymus, but future work should certainly address the molecular morphogenesis, both ex vivo and upon transplantation in vivo
+mechanisms that guide this cell-intrinsic property. sincemorphogenesiswasdefectiveintheirabsence.Possiblytheir
+Additionally, a distinct, bona ﬁde interstitial cell population role extends beyond supporting TEC development and regen-
+(TIC) could be extensively expanded in vitro and shared several eration53, to synergising with TEC in directly regulating T cell
+features with other mesenchymal stromal cells and pericytes. development54,55. Further development of this organ recon-
+Those cells were important in guiding TEC during struction system will offer the opportunity to address
+10 NATURECOMMUNICATIONS|        (2020) 11:6372 |https://doi.org/10.1038/s41467-020-20082-7|www.nature.com/naturecommunications
+
+NEW PAGE
+
+ARTICLE
+NATURECOMMUNICATIONS|https://doi.org/10.1038/s41467-020-20082-7
+Fig.5Functionalrepopulationofwhole-organthymusscaffolds.aGrossmicroscopyrepresentativeofathymusscaffoldbefore(leftpanel),soonafter
+injectionofstromalcells(middlepanel)andfollowing4daysofculture(rightpanel).Thymiclobesfromemptyprogressivelyincreasedensityandget
+remodelledasshownbyshrinkingofthescaffoldandincreasetissuevolume(n=60repopulatedscaffolds).Scalebar,4mm.bImmunoﬂuorescence
+labellingofthymicepithelialcells(TEC)grownwithinadecellularisedscaffolddemonstratingpresenceofCK5-14+,TP63+andCD49f+TEC.Nucleiare
+stainedwithDAPI(n=4repopulatedscaffolds).Scalebar,30μm.cH&EstainingshowshistologyofascaffoldrepopulatedonlywithTECandcultivated
+for5days(n=4repopulatedscaffolds).Scalebar,50μm.dHaematoxyin&Eosin(H&E)stainingofascaffoldrepopulatedwithbothexpandedclonogenic
+TECandthymicinterstitialcells(TIC)andcultivatedfor5dayspriortoﬁxationandhistologicalanalysis.Stromalcellsreorganisealongthescaffoldwitha
+patternsimilartotheone(e)observedinearly(9-weekpost-conception,wpc)humanfoetalthymus(n=4repopulatedscaffoldsandn=2humanfoetal
+thymi).Scalebar,100μm.fImmunoﬂuorescencelabellingofTECseededtogetherwithTICandgrownwithinadecellularisedscaffolddemonstratingCK5-
+14+cellslocalisedinthesubcapsularregionwhileCK8+cellsprevalentlylocalisedintheinnerregions;TP63+TECweremainlyCD49f+.Nucleiare
+stainedwithDAPI(n=4repopulatedscaffolds).Scalebar,100μm.gH&EstainingofascaffoldrepopulatedwithTEC,TICandhaematopoieticprogenitors
+after7daysofculture(n=4repopulatedscaffolds).Scalebar,100μm.hRepresentativeFACSanalysis(n=6repopulatedscaffoldinthreeindependent
+experiments)ofCD45-positivepopulationisolatedfromrepopulatedscaffoldseededwithtriplenegative(TN,CD3−CD4−CD8−)progenitorsandco-
+culturedfor8days.TheFSC-A,SSC-AplotdisplaysthepresenceofcellsaswellasofdebrisderivedfromthescaffoldECMduringdissociationforrelease
+ofhaematopoieticcells(topleftpanel).Viablecellswere~90%oftotalcells(topmidpanel).TNdevelopedwithinthescaffoldgaverisetodoublepositive
+(DP)andsinglepositive(SP)CD4andCD8expressingcells(toprightpanel,5000cells).LivecellswerepositiveforCD1aandnegativeforCD33(bottom
+rightpanel).CD4andCD8werepositiveforCD3andexpressTCRαβ(bottommidandleftpanel).
+systematically the reciprocal and synergistic roles of TEC, TIC, II-restricted human T cells; and the roles of additional factors in
+endothelial and other human stromal cells (e.g. dendritic cells) theestablishmentandmaintenanceoftolerance.Futureworkand
+during both morphogenesis and thymopoiesis. further optimisation will be needed to estimate the full potential
+Ofnote,3DnaturalECMwereshowntobecrucialforthymus and limitations of our system in relation to each of these crucial
+morphogenesis from cultivated cells. To date, it has only been questions. Notwithstanding, the successful completion of these
+possible to obtain thymus scaffolds by mechanically shaking or steps can allow medically relevant applications such as thymus
+rotatingtheorganinadetergentsolution13.Morerecently,itwas transplantation in primary immune deﬁciencies as athymic
+demonstrated that native thymic ECM improved re-aggregation DiGeorge syndrome and Foxn1null (nude) babies; the control of
+thymic organ cultures in vitro and their T cell output in vivo15. tolerance in congenital conditions as autoimmune
+Both these approaches were based on applying to the mouse polyendocrinopathy-candidiasis-ectodermal dystrophy (APECED)
+thymus a combination of ionic and non-ionic detergents which patients, andin immunosuppression-free organ transplantations.
+may not be practically applicable to human thymus required for
+clinical translation. Instead, the whole-organ perfusion-decel- Methods
+lularisation approach that we describe allows preservation of the Animals.AllanimalprocedureswereinaccordancewithethicalapprovalandUK
+ﬁne 3D ECM meshwork that is crucial for both ex vivo mor- HomeOfﬁceProjectLicense(PPL)70/8904andPDD3A088A.NOD.Cg-Prkdcscid.
+phogenesis and long-term reconstitution in vivo. Moreover, Il2Rγctm1Wjl(NSG)andNOD.Cg-Foxn1em1Dvs.Prkdcscid.Il2Rγctm1Wjl(NSG-Nude,
+human cultivated TEC gave rise to Hassall’s Bodies, thus SmtoaicnktaNinoe:d02a6t2T6h3e)FwrearnecoisbtCarinicekdIfnrsotmituJtaec’sksboionloLgaibcaolrarteosroyu,rrcee-dfaecriilviteydoarnadtthe
+demonstrating their capacity to maintain key species-speciﬁc UCLbiologicalunit.Miceweremaintainedona12-hlight–darkcycle,ambient
+characteristics not previously reported for thymic progenitor temperature19/22°C,andhumidity45/65%.SpragueDawleyratswerekeptinthe
+differentiation in vivo56,57. UCLbreedingfacility.
+FunctionalgeneproductssuchasAIREand HLA-DRarealso
+downregulated in the thymus stroma of human SCID patients Humantissues.Postnatalthymiweredonatedbypatients(agerange3daysto11
+in vivo58, indicating that their expression is dependent on a yearsold)undergoingcardiothoracicsurgeryattheGreatOrmondStreetHospital.
+Awritteninformedconsentwasobtainedfromthepatientparentsorlegally
+complexmicroenvironmentwhichincludescrosstalkbetweenthe
+authorisedrepresentativesunderethicalapproval(RECNo15/YH/0334and07/
+stromaandthymocytes.Hence,theconspicuousre-expressionof Q0508/43-06-MI-13(B)).Humanfoetallivers(FL)wereprovidedbytheJoint
+AIRE and HLA-DR that we observed attests to the degree of MRC/WellcomeTrustHumanDevelopmentalBiologyResource(HDBR)under
+reconstitution achieved in our system. informedethicalconsentwithResearchTissueBankethicalapproval(RECNo08/
+H0712/34+5and08/H0906/21+5).UmbilicalCordBlood(CB)wasobtainedfrom
+Crucial to demonstrating the functional competence of TEC
+normalfull-termdeliveriesaftersignedinformedconsent.CBsamplecollection
+and TIC upon in vitro expansion was their capacity to attract wasapprovedbytheEastLondonEthicalCommittee(RECNo06/Q0604/110)and
+circulating human HSC, support T cell development and repo- inaccordancewiththeDeclarationofHelsinki.
+pulatetheperipheryofathymic,NSG-nudemice.Species-speciﬁc
+stroma in an organ such as the thymus is crucial to its own Clinicalthymusslicespreparationandculture.Aftercapsuleremoval,8–15gof
+function; indeed, we consistently achieved a physiologic human post-natalthymustissuewasprocessedwithStadie-Riggsmicrotome(Thomas
+CD4+/CD8+ ratio that was not observed with hybrid mouse- Scientiﬁc),inordertoobtain1mmthickslices.Sliceswereindividuallymounted
+onnitrocelluloseﬁlters(Millipore),subsequentlyplacedonSpongostansurgical
+human in vitro systems of human T cell development14,38.
+sponges(FerrosanMedicalDevices)andbathedinculturemedium(F12(Gibco),
+Importantly, human T cells that developed in vivo within the 10%Heat-InactivatedFetalBovineSerum(Gibco)and1%Penicillin/Streptomycin
+human scaffolds were functionally different in their response to (Sigma))in10-cmPetridishesupto21days;culturemediawasreplacedeveryday.
+stimulation from those which developed in the mouse thymus,
+demonstrating the instructive capacities of the human stroma. CD34+HSCpuriﬁcationandsorting.Mononuclearcells(MNCs)fromtwoupto
+In conclusion, we have used a multidisciplinary approach to ﬁveCBcollectionswerepooledandpuriﬁedbyFicoll-Paquedensitycentrifugation
+(GEHealthcareLifeSciences,Buckinghamshire,UK)followedbyammonium
+generate an in vivo, long-lasting thymus where both the haema-
+chlorideredcelllysis.Density-separatedCBMNCsweremagneticallysortedfor
+topoietic and stroma compartments are of human origin. Such a
+CD34positivityviatheEasySepHumanCD34PositiveSelectionkit(Stemcell
+system opens the possibility of addressing very many immunolo- Technologies)accordingtothemanufacturer’sinstructions;alternatively,theywere
+gical questions including the development and functional sortedbyﬂuorescentactivatingcellsorting(FACS).Foetalliver(FL)CD34+were
+maturation of conventional and unconventional human T cells isolatedfromhumanfoetaltissuerangingfrom12to20weekspost-conception
+(e.g.Treg,NK,γδ);positiveandnegativeselectionofMHC-Iand ((w0.p1cU)./mTiLssCueoldlaiggeesntaiosenAwa(sRopcehrfeo)r,m0.e8dUa/tm3L7°DCisupsaisnegIaIn(Reonczhyem)aatnicds1o0lu0tiμogn/ml
+NATURECOMMUNICATIONS|        (2020) 11:6372 |https://doi.org/10.1038/s41467-020-20082-7|www.nature.com/naturecommunications 11
+
+NEW PAGE
+
+ARTICLE
+NATURECOMMUNICATIONS|https://doi.org/10.1038/s41467-020-20082-7
+a
+GRAFT
+8 weeks 11 weeks 18 weeks 22 weeks
+* *
+*
+b 18 weeks d 11 weeks 18 weeks 22 weeks
+AIRE-1 AIRE-1 AIRE-1
+*
+c e
+D
+A
+3 E-C HLA-DR HLA-DR 8 CK5CK5
+API CD API CK5  API CK8  DAPI CK
+D D D
+cncn g hCD45+ CD4+ CD8+
+mm
+EE 105 54.6 14.7 105 38.1 42.3 105 46.2 52.3
+CK5 DAPI VIM  SCAFFOLD11 weeksCD4-BV6051100043–1170.03 C0D8-10A3PC104 13.7105 CD3-BV711– 1110000433 19.6 TC0Rαβ-AF1074001050 CD3-BV711– 1110000433 1.54 TC0Rαβ-AF1074001005
+f hCD45+ hCD45+ CD4+ CD8+
+250 K 105 16.5 34.6 105 13.0 51.2 105 1.80 5.86
+80.5
+SSC-A211050000   KKK SCAFFOLD18 weeksCD4-BV6051100043 CD3-BV7111100043 CD3-BV7111100043
+50 K – 103 19.6 29.8 – 103 32.5 4.88 – 103 86.9 3.60
+0 103 104 105 –103 0 103 104 105 –103 0 103 104 105
+0 CD8-APC TCRαβ-AF700 TCRαβ-AF700
+–103 0 103 104 105
+CD3-BV711
+h
+CD4+ NSG Scaffold  CD8+ NSG Scaffold 
+thymocytes thymocytes thymocytes thymocytes
+Unstimulated Stimulated Stimulated Unstimulated Stimulated Stimulated
+α−TNFAPC 1110005430.060 0.011 αTNF11100054313.4 47.4 αTNF1110005437.10 2.55 α−TNFAPC1050.021 3.53E-3 αTNF11100054327.3 16.7 αTNF11100054393.3 1.95
+099.9 0.049 021.2 18.0 084.9 5.49 100.0 0.019 0 04.78 0
+0 IL-2103 - P104E105 0 I1L03-2104 105 0 103IL1-042105 0 IL-1203 - P1E04 105 0 IL1-023 104 105 0 IL1-023 104 105
+α−TNFAPC 1110005430.077 0.011 αTNF111000543 49.6 11.4 αTNF111000543 6.33 3.31 α−TNFAPC111000543 0.021 3.53E-3 αTNF11100054318.1 25.9 αTNF1110005433.66 91.6
+099.08IFN-γ10 3− PE10C4y07.017075 035.10 IFN-10γ3 104 3.81105 089.40 IF1N03-γ 104 0.91105 0 99.90 IFN103-γ −1 0P4E0.0C8110y57 032.50 IF103N-γ104 2130.55 02.600 IF10N3-γ104 21.1085
+DNaseI(Roche)inRPMI,2%FBSand1%Penicillin/Streptomycin).Cellswere anti-CD3,anti-CD4,anti-CD8aandanti-CD235abantibodies(BioLegend)and
+pelletedandprocessedforammoniumchlorideredcelllysis.FLMNCswere MagnisortSAVnegativebeads(Invitrogen).Thenegative-selectedfractionwas
+magneticallysortedforCD34positivity. processedforFACSpuritysorting(CD11c−CD19−CD56−CD3−CD4−CD8−cells;
+FACSAriaIIImachine,BDBioscience;FACSDiva8.0.1software).
+Thymocyteisolationandsorting.Humanthymocyteswereobtainedby
+mechanicaltissuedissociationofpostnatalthymi.Enrichmentoftriplenegative Isolationandcultivationofthymicstromalcell.Weassessedhumanthymi
+(TN,CD3−CD4−CD8−)cellswasachievedbymagneticsortingusingbiotinylated obtainedfrom33patientsranginginagefrom3daysto11yearswhounderwent
+12 NATURECOMMUNICATIONS|        (2020) 11:6372 |https://doi.org/10.1038/s41467-020-20082-7|www.nature.com/naturecommunications
+
+NEW PAGE
+
+ARTICLE
+NATURECOMMUNICATIONS|https://doi.org/10.1038/s41467-020-20082-7
+Fig.6RepopulatedthymusscaffoldsmatureinvivoandpromotefunctionalTcelldevelopment.aH&Estainingofhistologicalsectionsofthymic
+scaffoldsharvestedatdifferenttimepointspost-transplant(8,11,18and22wpt).AsterisksindicatesHassall’sBodies(HB);n=18scaffoldsin3
+independentexperiments.Scalebar,100μm.bH&EofhistologicalsectionofathymicscaffoldnotseededwithCD34+HSCatgraftingandharvestedat18
+wpt;AsterisksindicatesHassall’sBodies(HB).Scalebar,100μm.cImmunoﬂuorescenceanalysisforCD3,E-Cadherin,CK5,Vimentin(VIM)andmouse
+Endomucin(Emcn)at11wptforthymicscaffoldsrepopulatedwithstromaandCD34+HSC;n=4scaffoldsintwoindependentexperiments.Scalebar,
+50μm.dImmunohistochemistryforAIRE-1ofthymusscaffoldsharvestedat11,18and22wptdemonstrateprogressiveincreaseofAIRE-1+cells;n=
+8scaffoldsinthreeindependentexperiments.Scalebar,50μm.eHLA-DRwasdetectedincytokeratin-positivemedullary(CK5)andcortical(CK8)cellsin
+repopulatedscaffoldsbyimmunoﬂuorescence;n=18scaffoldsinthreeindependentexperiments.Scalebar,25μm.fRepresentativeFACSanalysisofa
+dissociatedthymicscaffoldat11wptshowingpresenceofCD3+cells(80%oftotalhuman(h)CD45+population;n=9scaffolds).gFACSanalysisof
+dissociatedthymicscaffoldsdemonstratesbothdoublepositive(DP)andsinglepositive(SP)CD4andCD8cells.SPCD4andCD8cellsalsoexpressed
+CD3andTCRαβ,demonstratingthepresenceofimmaturesinglepositive(ISP)aswellasfullymaturethymocytesatboth11wptand18wpttimepoints
+(n=9scaffolds,livecells=1100–3800).hRepresentativeFACSanalysisofsortedandinvitroexpandedCD3+cells.CD3+cellsweresortedeitherfrom
+repopulatedthymusscaffoldsorfromtheendogenousNSGthymus18wpt,expandedinvitropriortoFACSanalysisthatshowspresenceofCD4+and
+CD8+SPcells.ExpandedCD4+andCD8+cellswerestimulatedbyPMA-ionomycinandintracellularcytokinestainingperformed:CD4+andCD8+
+isolatedfromendogenousmousethymuswereabletoproduceIL2,TNFαandIFNγ,whileSPCD4andCD8cellsdevelopedwithinthymusscaffoldswere
+abletoproduceonlylimitedamountofIL2.CD8SPcells,thoughinminornumberineachscaffoldcomparedtoCD4+wereabletoproducethehighest
+levelofIFNγandTNFα;n=2independentexperiments(livecellsfromscaffolds=7000andfromendogenousthymus=52000).
+open-chestcardiacsurgery.Allthymi,independentofdonorage,containedclo- Endothelialcells(HuVEC-VeraVec)culture.Humanendothelialcells(Angio-
+nogenicTECsgeneratingcoloniesthatcouldbeexpandedextensivelyuponweekly crine,CAT:HVERA101)werecultivatedonalayerof0.1%gelatine(Merck)in
+passage.Thymictissuefragmentsweredissociatedtosinglecellsbyenzymatic Medium199(Gibco)supplementedwith20%FoetalBovineSerum,FBS(Gibco),
+treatment(0.4mg/mLCollagenaseD(Roche),0.6mg/mLDispaseII(Roche), 1%Antibiotic/Antimicotic(ThermoFisher),10mMHEPES(Gibco),100μg/ml
+40μg/mLDNAseI(Roche))for~30–45minat37°C.Cellswerepelletedandre- Heparin(SIGMA-ALDRICH)and50μg/mlendothelialsupplementECGS
+suspendedforcellcounting.Freshlydissociatedthymiccellswereplatedoveralayer (Millipore).
+oflethallyirradiatedmouseﬁbroblast(3T3-J2).Alternatively,thymussingle-cell
+suspensionwasdepletedofCD45andCD235ab(redblood)expressingcellsby
+immunomagneticseparation.Theenrichedfractionwasstainedandsortedusing Flowcytometryanalysis.Single-cellsuspensionswerestainedwithadhocanti-
+FACSAriaIIImachine(FACSDiva8.0.1software)forcortical(EpCAMlowCD205+) bodymix(SupplementaryTable1)inHanksBalancedSaltSolution(HBSS,Life
+andmedullary(EpCAMhighCD205−)thymicepithelialcells(TEC)priortocell Technologies)supplementedwith2%FBS(LifeTechnologies)for30minonice.
+cultureover3T3-J2feeders. DAPI(SIGMA-ALDRICH)orZombieLive-Deaddye(Invitrogen)wasusedto
+EpithelialcellsexpandedincFADmediumcomposedbyamixtureof3:1of discriminatelivefromdeadcells.FACSphenotypicanalysiswasperformedusing
+DMEM-1X(Gibco)andF-12NutMix(Gibco),supplementedwith10%Fetal FortessaX-20machine(BDFACSDiva8.0.1software)andFlowJoTMsoftware(BD
+BovineSerum(Sigma),1%penicillinandstreptomycin(100X,Sigma), Bioscience).GatingstrategiesaredetailedintheSupplementaryFig.10.
+Hydrocortisone(0.4µg/ml,Calbiochem),CholeraToxin(10−10M,Sigma),
+Triodothyronine(T3)(2×10−9MSigma)andInsulin(5µg/ml,Sigma).Human
+RNAisolationandRT-qPCR.Culturedandfreshlyisolatedcellswerecollectedfor
+epithelialgrowthfactor(hEGF,10ng/ml,PeproTech)wasaddedafter3daysof geneexpressionanalysisineitherBL-BufferfromReliaPrep™kit(Promega)orin
+cultureandtheneveryotherdayateachfeeding.TECwereplatedwithadensityof
+2000–4000cells/cm2,incubatedat37°Cand6%CO reachingconﬂuencebetween TrizolTRIReagent(SIGMA-ALDRICH)followingthemanufacturesinstructions.
+5and7daysofculture19,50.TECcolony-formingef2ﬁciency(CFE)assaywas PRrNecAipciotantceednatrnadtiodnriewdasRNmAeaswuarsedreu-ssuinspgeNndanedodirnopn1u0c0le0as(eT-fhreeremwoaStceiren(Qtiﬁiacg)en).
+performedeveryotherpassage.Five-hundredscellswereobtainedbyaserial
+andRNAintegrity(RIN)wasevaluatedusingBioAnalyzer2100(Agilent).If
+ddiilsuhteiso.nAafntedrp1l2atdedayosvoefrcleutlhtuarlley,girrroawdiiantgedco3lTon3-ieJ2swfeeerdeerﬁsxiend6in0m4%mtissueculture (nNeeudgeedn,)RfoNllAowwinasgatmheplmiﬁaendufuascitnugreOr’vsaitniosntr®ucRtiNonAs.AAmltpelrinﬁactaitvieolny,SRyNsteAmwVas2con-
+Paraformaldehyde(PFA)andstainedwithRhodamine-B(1%,SIGMA-ALDRICH) vertedintocDNAwithGoScript™ReverseTranscriptasekit(Promega)according
+forI1n5temrsitnit.iaClocleolnlsieosfwthereethscyomreudsu(TndICer)awedriessdecetriinvgedmeiictrhoesrcobpyes.ortingEpCAM− tothemanufacturer’sprotocol.cDNAconcentrationwasadjustedto10ng/μl.
+Quantitative(q)PCRwasperformedusingPCRmastermix(PrecisionPLUS-R-
+stroma-enrichedthymicpopulationorbyexplantsofhumanthymus.Fragmentsof
+PrimerdesignLtd)withlow-ROXandTaqmanqPCRprobes(IntegratedDNA
+thymictissuewereplacedon60mmdishespre-coatedwithMatrigelTM(Corning),
+Technology,SupplementaryTable2)inMicroAmpFastOptical96wellReaction
+diluted1:100inMegacellmedium(Sigma).Fragmentwerelefttoadherefor30min
+Plates(AppliedBiosystems)usingtheQuantStudio3Real-TimePCRSystem
+andthengentlycoveredwithMegacellmediumsupplementedwith2.5%FBSHI
+(AppliedBiosystems).
+(LifeTechnologies),1%Penicillin/Streptomycin(Sigma),1%L-glutamine(Life
+Technologies),1%Non-EssentialAminoacids(LifeTechnologies),100mMbeta-
+Mercaptoethanol(LifeTechnologies)andbasic-FGF(Sigma).After7dayof Single-cellRNAsequencing–10Xgenomics.Thecellnumberswereconﬁrmed
+culture,thecellsoutgrownfromtheexplantswereharvested,culturedat37°Cina usinganEveautomatedcellcounter(NanoEnTek).Wherepossibleanappropriate
+6%CO2and5%O2atmosphereandpassagedevery3–4days,whenTICreached volumefor10,000cellswasmadeupto46.6μlwithnuclease-freewater.Forlower
+conﬂuence33. cellconcentrations46.6μlofcellsuspensionwasloadedwithoutfurtherdilution.
+Reversetranscriptionandlibraryconstructionwerecarriedoutfollowingthe
+Chromiumsingle-cell3′reagentv3protocol(10xGenomics)accordingtothe
+Lymphocytecultureandinvitrostimulationassay.HumanCD45+/CD3+ manufacturer’srecommendations.Totalcomplementary-DNAsynthesiswasper-
+sortedcellswereculturedinRPMI1640(Gibco),Glutamax(LifeTechnologies) formedusing12ampliﬁcationcycles,withﬁnalcDNAyieldsrangingfrom~3ng/μl
+with10%FoetalBovineSerum(FBS,LifeTechnologies),1%Penicillin/Strepto- to15ng/μl.The10xGenomicssequencinglibrarieswereconstructedasdescribed
+mycin(LifeTechnologies)andsupplementedwithhumanrecombinantIL2 andsequencedonanIlluminaHiSeq4000,withreadlengthsof28-8-98.
+(50U/mL,R&Dsystem)andIL-7(5ng/mL,Invitrogen)upto28daysin96,48and
+24wells(Falcon).Forexpansion,anti-CD3/CD28beads(Thermoﬁsher)were
+addedintheproportionof1:1. Bioinformaticsdataanalysisofsingle-celldata.Rawsequencingdatawere
+CytokineproductionwasassessedbyPhorbolMyristateAcetate(PMA)and processedusingtheCellRangerpipeline(10xGenomics).Counttableswereloaded
+Ionomycin(Io)stimulationassay:humanCD45+/CD3+sortedTcellsandfreshly intoRandfurtherprocessedusingtheSeurat3Rpackage59.Weremovedallcells
+isolatedhumanthymocyteswereincubatedinRPMI,supplementedwith20% withfewerthan200distinctgenesobservedorcellswithmorethan20%(samples
+HumanSerumHeatInactivated(SIGMA-ALDRICH),ProteinTransportInhibitor mTEC1,mTEC2)or30%(samplescTEC1,cTEC2)ofuniquemolecularidentiﬁers
+Cocktail(500X,eBioscience),PMA(40ng/mL,SIGMA-ALDRICH)andIo stemmingfrommitochondrialgenes.Principalcomponentanalysiswasthen
+(4μg/mL,SIGMA-ALDRICH)for6hat37°C.Tcellswerethenwashedwith performedonsigniﬁcantlyvariablegenesandtheﬁrst20principalcomponents
+HBSSsolutionandstainedforCD3,CD4andCD8(BioLegend),aswellasAPC- wereselectedasinputforclusteringandUMAPbasedonmanualinspectionofa
+Cy7ﬁxableviabilitydye(Invitrogen),beforeﬁxationandpermeabilisationwith principalcomponentvarianceplot(‘PCelbowplot’).Clusteringwasperformed
+intracellularstainingbufferkit(BioLegend)andintracellularstainingwith usingthedefaultmethodfromtheSeuratpackage,withtheresolutionparameter
+antibodiesanti-IFNγ,anti-TNFαandanti-IL2(BioLegend).Expandedand setto0.5.Areaunderthecurve(AUC)summaryintensityplotswereprepared
+unstimulatedTcellswereusedtosettheFACSgates. usingtheR-packageAUCell.
+NATURECOMMUNICATIONS|        (2020) 11:6372 |https://doi.org/10.1038/s41467-020-20082-7|www.nature.com/naturecommunications 13
+
+NEW PAGE
+
+ARTICLE
+NATURECOMMUNICATIONS|https://doi.org/10.1038/s41467-020-20082-7
+BulkRNAsequencinglibrarypreparationandanalysis.TotalRNAwas perfusedwithdH2O(18.2mΩ/cm)for96hat4°C(0.2ml/min)usingai150n
+extractedfromculturedcellsusingtheRNeasyMicroKit(Qiagen)andRNAtotal peristalticpump(iPumps).DETwasperformedwith4%sodiumdeoxycholate
+concentrationwasmeasuredwithaNanodropspectrophotometer.TotalRNAwas (SDC;SIGMA-ALDRICH)atroomtemperatureand0.1mg/mLDNase-I(SIGMA-
+depletedofrRNAwithRibo-Zero,retrotranscribedusingSuperscriptIIreverse ALDRICH)in2.5mMMgCl (SIGMA-ALDRICH).Decellularisedratthymi
+2
+transcriptase(Invitrogen)andpuriﬁedwithRNACleanBeadseeAmpureXP (scaffolds)weregamma-irradiatedwithadoseof1780GyandstoredinPBSat4°C
+beads(BeckmanCoulter). forseveralweeks.
+LibrarieswerepreparedwiththeTruSeqStrandedTotalRNASample
+PreparationKit(Illumina)startingfrom100ngofRNApersampleandsequenced
+Microfocuscomputetomography.Ratthymiwereextracted,cannulatedand
+withtheIlluminaNovaSeq6000machine,pairedends,andacoverageof35 ﬁxedinparaformaldehydepriortoimmersioninpotassiumtriiodide(IKI)con-
+millionreads. 2
+trastina1:1ratiowiththeformalinsolution,whichwasinjectedintothecannula,
+RNA-SeqdatawerealignedwithSalmon(GRCh38)andprocessedasfollows.
+DEGslistsgeneration:analyseswereperformedwithedgeR(v.3.24.3).Signiﬁcant priortoimmersionofthethymusintoafalcontubecontainingthesamesolution
+(~20mlvolume).IKIwithatotaliodinecontentof63.25mg/mL(iodinemassof
+DEGswereselectedapplyinga0.05cutoffonFDRandathresholdof1.5onlogFC. 2.49×10−4mol/mL2)wasused.Specimenswereimmersedinthecontrastsolution
+Genescomparisonbetweendifferentcelltypes:countswerenormalisedwiththe
+edgeR’sfunctioncpm()withtheargumentlog=T.Then,datawerevisualisedina for48hpriortoscanning.Immediatelypriortomicro-CTexamination,thespe-
+cimenswererinsedindistilledwatertoremoveexcesssurfaceiodineandpadded
+heatmapgeneratedbythefunctionheatmap.2()(gplotsv.3.0.1.2). dryusinggauze.TheywerewrappedinParaﬁlm®Mandsecuredinalow-density
+plasticcylinder.Isotropicvoxelsizesvariedaccordingtothegeometricmagniﬁ-
+NanoStringanalysis.hCD45+CD3+cellsweresortedfromthespleenoftwo cationachieved(inverselycorrelatedwithspecimensize)andrangedbetween5and
+NSG-nudemiceat10and18wpt(8081and1869sortedevents,respectively),lysed 9µm.X-rayimageswereacquiredusinganXTH320microfocus-CTscannerwith
+andhybridisedtoachimericantigenreceptor-Tcellpanelforproﬁling780human amulti-metaltarget(NikonMetrology,Tring,UK).Atungstentargetwasused
+genesat65°Covernight(NanoStringTechnologies).Hybridisedsampleswere withanacceleratingvoltageof100kVandcurrentof100microamps.Following
+processedonannCounter®prepstationanddatawerecollectedonannCounter® micro-CTexamination(durationof~90min),thespecimenswereﬁxedin10%
+digitalanalyser(NanoString)followingmanufacturer’sinstructions.Rawdatawere formalintopreventtissuedegradationandaidwiththeremovalofiodinepriorto
+importedintonSolver4.0(NanoString)fordataqualitychecks,background macroscopicexamination.ImageswerereconstructedusingCTPro3D(Nikon
+thresholdingandnormalisation.The6spiked-inRNAPositiveControlandthe8 Metrology,Tring,UK)andpost-processedusingVGStudioMAXv3.0(Heidel-
+Negativecontrolspresentinthepanelwereusedtoconﬁrmthequalityoftherun. berg,Germany).
+Backgroundlevelwasdeterminedbymeancountsand2×s.d.ofnegativecontrol
+phraodbiems.aSgainmgpolersptohsaitticvoenctoainnterdolfeliwneearrtihtyanﬂa5g0s%woefrepreoxbcelusdaebdovfreobmacfkugrrtohuerndanoarlythsiast. Scanningelectronmicroscopy.Thesampleswereﬁxedin4%formaldehyde/2.5%
+glutaraldehyde(SIGMA-ALDRICH)in0.1MPhosphateBuffer(PB)pH7.4for5h
+Probesthathaverawcountsbelowbackgroundinallsampleswereexcludedfrom
+atRT.Sampleswerethenwashedin0.1MPB,cutin~5mmandcryoprotectedin
+differentialexpressionanalysistoavoidfalse-positiveresults.Datawerenormalised
+25%sucrose,10%glycerolin0.05MPBovernight.Sampleswerethenfastfrozen
+bygeometricmeanof10housekeepinggenespresentintheCAR-T
+andfracturedinliquidnitrogenusingastainless-steelprobeandthenplacedback
+Characterisationpanel.
+intothecryoprotectantatRTtothaw.Sampleswerestainedin1%OsO/1.5%
+4
+potassiumferricyanide,washedinH2Oanddehydratedinagradedethanolseries,
+Histology.Humanthymictissuesandscaffoldssampleswereﬁxed(for2hto criticalpointdriedwithCO usingaLeicaEMCPD300andmountedonalumi-
+2
+overnight)in4%PFAandprocessedforeithercryo-orparafﬁn-embedding.For niumstubsusingadhesivecarbontabs.Thesamplesweremountedtopresentthe
+cryo-embedding,ﬁxedtissuewasequilibratedinsucrose25%andembeddedinO. fracturedsurfacestothebeamandcoatedwithathinlayerofplatinumusinga
+C.T.compound(VWR).Cryosections(thickness,7µm)werecutonaLeica QuorumQ150RSsputtercoater.Grossimagesofthesamplesweretakenpriorto
+Cryostat3050.Forparafﬁn-embedding,aLeicaPelorisIItissueprocessorand SEMimagingonaLeicaM205Cstereomicroscope.SEMimageswererecorded
+SakuraTissue-Techembeddingstationwereused.Parafﬁnsection(thickness,3–5 withaFEIQuanta250FEGscanningelectronmicroscope.
+µm)wereproducedusingThermoFisherrotarymicrotome.Cryo-orParafﬁn
+sTeecktioPnrissmwear)e,Mstaaisnsoedn’wsTithrichhareommaetoKxiytli(nL-eeiocasi,nRuaysimngonadnAauLtoammabt,icBDstaHtioCnhe(Tmiiscsaules-) DNAquantiﬁcation.DNAfromnativeratthymianddecellularisedorganswas
+extractedwiththePureLinkGenomicDNAMiniKit(Invitrogen)accordingtothe
+andVanGiesonStainingKit(Millipore-Merck). manufacturer’sinstructions.DNAsamplesweremeasuredspectrophotometrically
+(NanoDrop™1000,ThermoFisher).
+Immunostaining.Tissuesectionsorcoverslipswereﬁxedin4%PFA,blockedand
+permeabilisedsimultaneouslyusingasolutionof5%NormalDonkeySerum(NDS,
+Repopulationandinvitrocultureofthymicscaffolds.CellsuspensionincFAD
+JacksonImmunoResearch)inPBS,containing0.5%ofTritonX(TritonTMX-100, mediumofcultivatedTECandTIC(ratio5:1)wereinjected(2–3Mcellsin100μl/
+SIGMA-ALDRICH).Tissuesectionsorcellswereincubatedwithprimaryanti-
+lobe)usingInsulinSyringes(Terumo,29.5G)intodecellularisedratthymi.Stromal
+bodies5%NDS,0.01%TritonTMXsolutionovernightat4°C.Secondaryanti-
+cellsusedforrepopulationofscaffoldswerederivedfrom4monthsand6months
+bodieswereincubatedatroomtemperaturefor45min.Nucleiwerecounterstained
+withHoechst33432(10−6M)orDAPIpresentintheFluoroshieldTMMounting oanldddtohnenorisn.jSeecetdededwtihthymTiNcs(c4a0ff0o,l0d0s0w)±erVeecrualVtuerced(2f0o0r,050o0r)6cedlalsysinin50cFμAlDvomluemdeium
+Medium(Abcam).Listofprimaryandsecondaryantibodiesusedarelistedinthe
+ofco-culturemedium(DMEM-1X(Gibco),10%FBS(SIGMA-ALDRICH),1%
+SupplementaryTable3.
+Penicillin/Streptomycin(100X,SIGMA-ALDRICH),Triodothyronine(T3)(2×
+10−9MSIGMA-ALDRICH),Insulin(5µg/ml,SIGMA-ALDRICH)andCytokines
+Imaging.PhasecontrastimagesofcultivatedcellswereacquiredusinganOlympus (Interleukin-7,5ng/mL(Invitrogen),StemCellFactor5ng/mL(CellSignalling)and
+CK40invertedmicroscopeandOlympusSC50camera.Live-imagingofcultured FLT3-L(5ng/mL,CellGS)).ScaffoldswerereconstitutedonlywithTEC(n=4),
+cellswasacquiredbyscopeZeissAxiovert135withHamamatsuOrcaR2camera onlyTIC(n=2)orwithTECandTIC(n=5).Fullyreconstitutedscaffolds(with
+(objectives×10NA0.25PlanNeoﬂuar). TEC,TICandTN)werekeptinco-culturemedium(withoutcytokines,n=3)and
+ForhistologicalimagesZeissAxioplan2microscopewithZeissAxiocamHRc culturedupto14daysincFADmedium.
+colourcamerawasused.GrossmicroscopyoforganswasimagedusingZeiss
+StREODiscovery.V20microscopeandZeissAxiocam506colourcamera.Zeiss Bonemarrowreconstitutionandsubcutaneoustransplantation.NSG(8–12-
+LimSMm7u1n0oﬂinuvoerretsecdenccoenfiomcaaglems.icCroosncfoopcaelainmdaZgeesnwBelareckpsroofctewssaerdewusaisnugsFedijitoanadcquire w(IBeeLk-6o3l7d)GmamicmewaeIrrreasduiabt-olert)h.aFlolyrpirrriamdiaartyedenwgirtahft3m.7e5ntG,ypufrroiﬁmedaC1D373C4a+esciuelmls(s1o0u0rcKe
+ImprovisionVolocityLEsoftware. CB-CD34+or200KFL-CD34+/cells)wereinjectedintravenouslypermouse.
+Engraftmentofhumancellsinthemurinebonemarrowwasassessedatkilling.
+Vascularmicrosurgery,perfusionanddecellularisation.Maleratsrangingfrom SubcutaneousimplantationofthescaffoldwasperformedinNSGmice4–6weeks
+150to220ginweightwereusedassourceofthymusorgans.Thethymuslacksa post-CD34+injection.Micewereanaesthetisedwitha5-2%isoﬂuraneoxygengas
+commonarterytosupplybloodtothewholeorgan,thereforeitisnotpossibleto combinationforinductionandmaintenance.Buprenorphine0.1mgKg−1was
+perfuseitbyinsertingasinglecannulainthemainbloodvesselasforother administeredattheinductionforanalgesia.Underasepticconditions,1–3midline
+organs35.Wedevelopedamicrosurgicalapproachtoobtainwhole-organthymus incisions(0.4cm)wereperformedonthebackofthemiceandscaffoldswere
+perfusionwhichhasbeenpatented(PatentﬁlingnumberUK1807788.3).Brieﬂy, insertedinlateralpockets40.Micewereculledatdifferenttimepointsrangingfrom
+thevesselssupplyingbloodtoeachlobe,wereclosedwithasilksuturethread(size 1to22wpt.
+6.0,F.S.T.)tosealthethymusinthefollowingorder:therightcommoncarotid Wecarriedoutsubcutaneoustransplantationinthreeindependentexperiments
+artery,therightsubclavianartery,therightinternalmammaryartery,theright onatotalof16NSGmice,14ofwhichhadbeenhumanisedwithCB-CD34cells
+costocervicaltrunk,therightaorticarch,theleftaorticarch,theleftcostocervical and2withFL-CD34cells:allmiceshowedbonemarrowreconstitution.Themice
+trunkandtheleftinternalmammaryartery.Theleftcarotidarterywasleftopenfor wereimplantedwith37repopulatedscaffolds,ofwhich34wereretrieved.
+subsequentcannulationandperfusionoftheorgan.Cannulatedthymiwere Speciﬁcally,eightmicewereimplantedwithrepopulatedscaffoldscontainingTIC,
+decellularisedbyperfusionofdetergent-enzymatictreatment(DET).Organswere TEC,VeraVecandCD34+cells(n=18);sixmicereceivedrepopulatedscaffolds
+14 NATURECOMMUNICATIONS|        (2020) 11:6372 |https://doi.org/10.1038/s41467-020-20082-7|www.nature.com/naturecommunications
+
+NEW PAGE
+
+ARTICLE
+NATURECOMMUNICATIONS|https://doi.org/10.1038/s41467-020-20082-7
+withoutCD34+cells(n=13),othertwomicereceivedscaffoldwithoutVeraVec dynamicallyregulatesintrathymicIL-7expressioninvivo.J.Immunol.184,
+cells(n=6).Inaddition,twomicereceivedempty(n=2)and2miceTIConly 5949–5953(2010).
+scaffolds(n=6).Nosigniﬁcantalterationsintheextentofbloodvesselscorrelated 11. Yano,M.etal.Airecontrolsthedifferentiationprogramofthymicepithelial
+withtheabsenceofendothelialcellsinthescaffolds. cellsinthemedullafortheestablishmentofself-tolerance.J.Exp.Med.205,
+TheNSG-nudefemalemice(8–12-week-old)weresub-lethallyirradiatedwith 2827–2838(2008).
+3.25GyandsubsequentlyinjectedintravenouslywithpuriﬁedhumanCD34+cells. 12. Park,J.E.etal.AcellatlasofhumanthymicdevelopmentdeﬁnesTcell
+NSG-nudemicehadalowerrateofhumanisationthanhairylittermatesas repertoireformation.Sciencehttps://doi.org/10.1126/science.aay3224(2020).
+establishedbybonemarrow(BM)engraftment(4outof12miceshowed27-55% 13. Fan,Y.etal.Bioengineeringthymusorganoidstorestorethymicfunctionand
+hCD45+cellsagainstthe50–70%hCD45+in5out5hairylittermates).Micewith inducedonor-speciﬁcimmunetolerancetoallografts.Mol.Ther.23,
+noBMreconstitutionwereexcludedfromfurtheranalysis.BMandspleenwere 1262–1277(2015).
+retrievedfromhumanisedmice(oneat10wptandoneat18wpt)engraftedwith 14. Chung,B.etal.Engineeringthehumanthymicmicroenvironmenttosupport
+stroma-repopulatedscaffoldsandprocessedforﬂowcytometryanalysisorsorting. thymopoiesisinvivo.StemCells32,2386–2396(2014).
+TwohumanisedNSG-nudemicegraftedwithemptyscaffoldsshowedno
+peripheralrepopulation(nohCD3+cellsdetectableinthespleen)at18wptand 15. Hun,M.etal.Nativethymicextracellularmatriximprovesinvivothymic
+organoidTcelloutput,anddrivesinvitrothymicepithelialcell
+20wpt. differentiation.Biomaterials118,1–15(2017).
+16. Ucar,A.etal.AdultthymuscontainsFoxN1(-)epithelialstemcellsthatare
+ScaffoldFACSanalysisandsorting.Repopulatednaturalscaffoldswere bipotentformedullaryandcorticalthymicepitheliallineages.Immunity41,
+mechanicallyandenzymaticallydissociatedusingCollagenaseI(2mg/mL,SIGMA, 257–269(2014).
+C0130),DispaseII(1U/mL,Roche)andDNAseI(80μg/mL,Roche)inRPMI 17. Wong,K.etal.Multilineagepotentialandself-renewaldeﬁneanepithelial
+1640and2%FBS.Attheendofdigestion,cellsuspensionwaspassedthroughacell progenitorcellpopulationintheadultthymus.CellRep.8,1198–1209(2014).
+strainer(100μm)andthenstainedwithantibodiesforFACSsortingoranalysis. 18. Hamazaki,Y.,Sekai,M.&Minato,N.Medullarythymicepithelialstemcells:
+Weperformedsortingand/oranalysisofatotalof16Scaffoldsofwhich9were roleinthymicepithelialcellmaintenanceandthymicinvolution.Immunol.
+repopulatedwithCD34+HSCand7withoutCD34+HSC.Fournon-repopulated Rev.271,38–55(2016).
+controlsandtwoscaffoldswithonlyTIC,CD34+andVeraVecwereharvestedat 19. Bonfanti,P.etal.Microenvironmentalreprogrammingofthymicepithelial
+22wptand11wpt,respectively.Scaffoldswereanalysedandnothymocyteswere cellstoskinmultipotentstemcells.Nature466,978–982(2010).
+detected.WefoundCD4/CD8SPandDPin14repopulatedscaffolds:in7outof 20. Davies,E.G.etal.ThymustransplantationforcompleteDiGeorgesyndrome:
+9scaffoldsrepopulatedwithCD34+HSCandin7outof7scaffoldsrepopulated Europeanexperience.J.AllergyClin.Immunol.140,1660–1670.e1616(2017).
+withoutCD34+HSC. 21. Danzl,N.M.,Jeong,S.,Choi,Y.&Alexandropoulos,K.Identiﬁcationofnovel
+thymicepithelialcellsubsetswhosedifferentiationisregulatedbyRANKLand
+Statisticalanalysis.Foralltheexperimentsincludedinthisstudy,threeormore Traf6.PLoSONE9,e86129(2014).
+biologicalreplicateswereperformed;theexactsamplesize(n)foreachexperi- 22. Shakib,S.etal.Checkpointsinthedevelopmentofthymiccorticalepithelial
+mentalgroup/condition,givenasadiscretenumber.Statisticalanalysiswasper- cells.J.Immunol.182,130–137(2009).
+formedusingtwo-wayANOVAnon-parametric,unlessstatedotherwise.Plotsand 23. Watt,F.M.Roleofintegrinsinregulatingepidermaladhesion,growthand
+graphsweregeneratedwithGraphPadPRISM8. differentiation.EMBOJ.21,3919–3926(2002).
+24. Watt,F.M.&Jones,P.H.Expressionandfunctionofthekeratinocyte
+Reportingsummary.FurtherinformationonresearchdesignisavailableintheNature integrins.Dev.Suppl.119,185–192(1993).
+ResearchReportingSummarylinkedtothisarticle. 25. Nagakubo,D.,Krauth,B.&Boehm,T.Geneticandnon-geneticdeterminants
+ofthymicepithelialcellnumberandfunction.Sci.Rep.7,10314(2017).
+26. Miragaia,R.J.etal.Single-cellRNA-sequencingresolvesself-antigen
+Data availability
+expressionduringmTECdevelopment.Sci.Rep.8,685(2018).
+RNA-sequencingdataaredepositedatArrayExpressdatabaseunderaccessionnumber 27. Bornstein,C.etal.Single-cellmappingofthethymicstromaidentiﬁesIL-25-
+E-MTAB-9641andscRNA-sequencingatGeneExpressionOmnibus(GEO)database producingtuftepithelialcells.Nature559,622–626(2018).
+underaccessionnumberGSE159745.Alldatasetsgeneratedand/oranalysedduringthe 28. Meredith,M.,Zemmour,D.,Mathis,D.&Benoist,C.Airecontrolsgene
+currentstudyareavailablefromthecorrespondingauthoruponreasonablerequest. expressioninthethymicepitheliumwithorderedstochasticity.Nat.Immunol.
+16,942–949(2015).
+Received: 8July2020; Accepted: 4November 2020; 29. Brennecke,P.etal.Single-celltranscriptomeanalysisrevealscoordinated
+ectopicgene-expressionpatternsinmedullarythymicepithelialcells.Nat.
+Immunol.16,933–941(2015).
+30. Kernfeld,E.M.etal.Asingle-celltranscriptomicatlasofthymus
+organogenesisresolvescelltypesanddevelopmentalmaturation.Immunity
+48,1258–1270.e1256(2018).
+31. Plasschaert,L.W.etal.Asingle-cellatlasoftheairwayepitheliumrevealsthe
+References CFTR-richpulmonaryionocyte.Nature560,377–381(2018).
+1. vanGent,R.etal.Long-termrestorationofthehumanT-cellcompartment 32. Senoo,M.,Pinto,F.,Crum,C.P.&McKeon,F.p63Isessentialforthe
+afterthymectomyduringinfancy:aroleforthymicregeneration?Blood118, proliferativepotentialofstemcellsinstratiﬁedepithelia.Cell129,523–536(2007).
+627–634(2011). 33. Tonlorenzi,R.,Dellavalle,A.,Schnapp,E.,Cossu,G.&Sampaolesi,M.
+2. Vrisekoop,N.etal.Sparseproductionbutpreferentialincorporationof Isolationandcharacterizationofmesoangioblastsfrommouse,dog,and
+recentlyproducednaiveTcellsinthehumanperipheralpool.Proc.NatlAcad. humantissues.Curr.Protoc.StemCellBiol.https://doi.org/10.1002/
+Sci.USA105,6115–6120(2008). 9780470151808.sc02b01s3(2007).
+3. Rodewald,H.R.Thymusorganogenesis.AnnuRev.Immunol.26,355–388 34. Armulik,A.,Genove,G.&Betsholtz,C.Pericytes:developmental,
+(2008). physiological,andpathologicalperspectives,problems,andpromises.Dev.
+4. Boehm,T.Thymusdevelopmentandfunction.Curr.Opin.Immunol.20, Cell21,193–215(2011).
+178–184(2008). 35. Tapias,L.F.&Ott,H.C.Decellularizedscaffoldsasaplatformfor
+5. Abramson,J.&Anderson,G.Thymicepithelialcells.Annu.Rev.Immunol.35, bioengineeredorgans.Curr.Opin.OrganTranspl.19,145–152(2014).
+85–118(2017). 36. Poliani,P.L.etal.EarlydefectsinhumanT-celldevelopmentseverelyaffect
+6. Zuklys,S.etal.Foxn1regulateskeytargetgenesessentialforTcell distributionandmaturationofthymicstromalcells:possibleimplicationsfor
+developmentinpostnatalthymicepithelialcells.Nat.Immunol.17,1206–1215 thepathophysiologyofOmennsyndrome.Blood114,105–108(2009).
+(2016). 37. Hale,L.P.etal.Histopathologicassessmentofculturedhumanthymus.PLoS
+7. Rode,I.etal.Foxn1proteinexpressioninthedeveloping,aging,and ONE15,e0230668(2020).
+regeneratingthymus.J.Immunol.195,5678–5687(2015). 38. Seet,C.S.etal.GenerationofmatureTcellsfromhumanhematopoieticstem
+8. Calderon,L.&Boehm,T.Synergistic,context-dependent,andhierarchical andprogenitorcellsinartiﬁcialthymicorganoids.Nat.Methods14,521–530
+functionsofepithelialcomponentsinthymicmicroenvironments.Cell149, (2017).
+159–172(2012). 39. Kobayashi,H.etal.AngiocrinefactorsfromAkt-activatedendothelialcells
+9. Koch,U.etal.Delta-like4istheessential,nonredundantligandforNotch1 balanceself-renewalanddifferentiationofhaematopoieticstemcells.Nat.Cell
+duringthymicTcelllineagecommitment.J.Exp.Med.205,2515–2523 Biol.12,1046–1056(2010).
+(2008). 40. Abarrategi,A.etal.Versatilehumanizednichemodelenablesstudyof
+10. Alves,N.L.,Huntington,N.D.,Mention,J.J.,Richard-LeGoff,O.&Di normalandmalignanthumanhematopoiesis.J.Clin.Invest.127,543–548
+Santo,J.P.CuttingEdge:athymocyte-thymicepithelialcellcross-talk (2017).
+NATURECOMMUNICATIONS|        (2020) 11:6372 |https://doi.org/10.1038/s41467-020-20082-7|www.nature.com/naturecommunications 15
+
+NEW PAGE
+
+ARTICLE
+NATURECOMMUNICATIONS|https://doi.org/10.1038/s41467-020-20082-7
+41. Coffey,F.etal.TheTCRligand-inducibleexpressionofCD73marks HealthResearchBiomedicalResearchCentreatGreatOrmondStreetHospitalfor
+gammadeltalineagecommitmentandametastableintermediateineffector ChildrenNHSFoundationTrust(NIHRGOSHBRC).D.B.issupportedbytheFrancis
+speciﬁcation.J.Exp.Med.211,329–343(2014). CrickInstitute,whichreceivesitscorefundingfromCancerResearchUK(FC001045),
+42. Chalmin,F.etal.Stat3andGﬁ-1transcriptionfactorscontrolTh17cell TheUKMedicalResearchCouncil(FC001045)andtheWellcomeTrust(FC001045).
+immunosuppressiveactivityviatheregulationofectonucleotidaseexpression. A.C.H.issupportedbyfundsfromtheFrancisCrickInstitute(FC001093)andbyaWT
+Immunity36,362–373(2012). InvestigatorAward(106292/Z/14/Z);M.M-R.issupportedbytheEuropeanMolecular
+43. Lorenz,U.SHP-1andSHP-2inTcells:twophosphatasesfunctioningat BiologyOrganization(ALTF198–2018);N.J.S.ispartsupportedbyGOSHChildren’s
+manylevels.Immunol.Rev.228,342–359(2009). CharityandNIHRGOSHBRC.P.G.M.issupportedbyaresearchfellowship(typeA)of
+44. Junt,T.etal.Expressionoflymphotoxinbetagovernsimmunityattwo theUniversityofMilan,DepartmentofOncologyandHemato-Oncology.
+distinctlevels.Eur.J.Immunol.36,2061–2075(2006).
+45. Sathish,J.G.etal.CD22isafunctionalligandforSH2domain-containing Author contributions
+protein-tyrosinephosphatase-1inprimaryTcells.J.Biol.Chem.279,
+47783–47791(2004). S.C.undertookstromalcellculture,histology,immunohistochemistry(IHC)and
+46. Colgan,J.etal.CyclophilinAregulatesTCRsignalstrengthinCD4+Tcells immunocytochemistry(ICC),RT-qPCR,FACSanalysis/sorting,scRNA-seqexperiments
+viaaproline-directedconformationalswitchinItk.Immunity21,189–201 andanimalmodelexperiments;A.G.co-designedanddevelopedthemicrosurgical
+approachandthewhole-organperfusion-decellularisationprotocol;R.R.undertook
+(2004).
+stromalcellculture,RT-qPCR,FACSanalysis,invitroscaffoldsexperiments,scRNA-seq
+47. Yamashita,I.,Nagata,T.,Tada,T.&Nakayama,T.CD69cellsurface
+expressionidentiﬁesdevelopingthymocyteswhichauditionforTcell experiments,FACSisolation/characterisationofhumanthymocytes,animalmodel
+antigenreceptor-mediatedpositiveselection.Int.Immunol.5,1139–1150 experimentsandrevisedthemanuscript;L.Z.undertookstromalcellculture,ICC,organ
+decellularisationandFACSanalysis,RT-qPCR,histologyandanimalmodelexperiments;
+(1993). L.A-M.undertookisolationandi.v.injectionofCD34+,animalmodelexperimentsand
+48. Koretzky,G.A.,Kohmetscher,M.&Ross,S.CD45-associatedkinaseactivity
+BMisolation;M.C.undertookstromalcellculture,expansionandinvitrostimulation
+requireslckbutnotTcellreceptorexpressionintheJurkatTcellline.J.Biol.
+Chem.268,8958–8964(1993). assayofTcellsandFACSanalysis;S.B.undertookbioinformaticsanalysisofscRNA-seq
+dataandrevisedthemanuscript;J.-E.P.evaluatedscRNA-seqdataanalysesandrevised
+49. Akbar,A.N.,Terry,L.,Timms,A.,Beverley,P.C.&Janossy,G.Lossof
+themanuscript;J.C.Hundertookmicro-CTimageacquisitionand3Dreconstruction;
+CD45RandgainofUCHL1reactivityisafeatureofprimedTcells.J.
+Immunol.140,2171–2178(1988). M.R-M.contributedtotheexpansionandcharacterisationofTcellsandrevisedthe
+manuscript;P.G.M.,G.V.andC.E.V.performedandanalysedbulkRNA-seqdata;D.E.P.
+50. Rossi,S.W.,Jenkinson,W.E.,Anderson,G.&Jenkinson,E.J.Clonalanalysis
+undertookhistology,stromalcellcultureanddecellularisation;helpedwithanimal
+revealsacommonprogenitorforthymiccorticalandmedullaryepithelium.
+Nature441,988–991(2006). experiments;C.M.undertookstromalcellculture,time-lapseimaging,histologyof
+decellularisedscaffolds,DNAquantiﬁcationandhelpedwithanimalmodelexperiments;
+51. Hirsch,T.etal.Regenerationoftheentirehumanepidermisusingtransgenic
+stemcells.Nature551,327–332(2017). G.T.evaluatedtheRNA-seqanalyses;H.J.S.evaluatedtheresultsandrevisedthe
+manuscript;S.A.T.evaluatedtheresultsofscRNA-seqdataandrevisedthemanuscript;
+52. Barrandon,Y.&Green,H.Threeclonaltypesofkeratinocytewithdifferent
+capacitiesformultiplication.Proc.NatlAcad.Sci.USA84,2302–2306(1987). N.J.S.evaluatedhistologyofreconstitutedthymicscaffoldsandclinicalslices,themicro-
+CTacquisitionandrevisedthemanuscript;A.C.H.co-designedTcellanalysis,evaluated
+53. Jenkinson,W.E.,Jenkinson,E.J.&Anderson,G.Differentialrequirementfor
+theresults,andwrotethemanuscript;D.B.co-designedtheanimalmodelexperiments
+mesenchymeintheproliferationandmaturationofthymicepithelial
+progenitors.J.Exp.Med.198,325–332(2003). andTcellanalysis,evaluatedtheresults,andwrotethemanuscript;P.B.designedthe
+study,undertookstromalcellculture,whole-organperfusion-decellularisation,animal
+54. Suniara,R.K.,Jenkinson,E.J.&Owen,J.J.Anessentialroleforthymic
+mesenchymeinearlyTcelldevelopment.J.Exp.Med.191,1051–1056(2000). modelexperiments,evaluatedtheresultsandwrotethemanuscript.
+55. Anderson,G.,Jenkinson,E.J.,Moore,N.C.&Owen,J.J.MHCclassII-
+positiveepitheliumandmesenchymecellsarebothrequiredforT-cell Competing interests
+developmentinthethymus.Nature362,70–73(1993). P.B.andA.G.arenamedinventorsofpatentapplicationno.PCT/GB2019/051310.
+56. Sun,X.etal.Directeddifferentiationofhumanembryonicstemcellsinto Theremainingauthorsdeclarenocompetinginterests.
+thymicepithelialprogenitor-likecellsreconstitutesthethymic
+microenvironmentinvivo.CellStemCell13,230–236(2013).
+Additional information
+57. Parent,A.V.etal.Generationoffunctionalthymicepitheliumfromhuman
+embryonicstemcellsthatsupportshostTcelldevelopment.CellStemCell13, Supplementaryinformationisavailableforthispaperathttps://doi.org/10.1038/s41467-
+219–229(2013). 020-20082-7.
+58. Poliani,P.L.,Vermi,W.&Facchetti,F.Thymusmicroenvironmentinhuman
+primaryimmunodeﬁciencydiseases.Curr.Opin.AllergyClin.Immunol.9, CorrespondenceandrequestsformaterialsshouldbeaddressedtoP.B.
+489–495(2009).
+59. Stuart,T.etal.ComprehensiveIntegrationofSingle-CellData.Cell177, PeerreviewinformationNatureCommunicationsthankstheanonymousreviewer(s)for
+1888–1902.e1821(2019). theircontributiontothepeerreviewofthiswork.
+Reprintsandpermissioninformationisavailableathttp://www.nature.com/reprints
+Acknowledgements
+WewouldliketothankAnderAbarrategi,GiulioCossu,GrahamDavies,PaoloDe Publisher’snoteSpringerNatureremainsneutralwithregardtojurisdictionalclaimsin
+Coppi,DeenaGibbons,AdamLaing,DaisyMelandri,BenSeddonandAdrianThrasher publishedmapsandinstitutionalafﬁliations.
+forhelpfuldiscussions.WearegratefultoEveyHowley,SahiraKhalaf,Pei-ShiChiaand
+NagarajanMuthialuforconsentingpatientsfortissuedonation;wethanktheAdvanced
+Sequencingteam(particularlyAmeliaEdwardsforherexpertlibrarypreparation),the Open Access This article is licensed under a Creative Commons
+ﬂowcytometry(DebipriyaDas,HeﬁnRhys,AndyRiddell),experimentalhistopathology Attribution 4.0 International License, which permits use, sharing,
+(EmmaNyeandteam),electronmicroscopy(Marie-CharlotteDomart,LucyCollinson), adaptation,distributionandreproductioninanymediumorformat,aslongasyougive
+lightmicroscopy(RoccoD’Antuono),thegenomicpark(MariaGreco,GrahamClark) appropriatecredittotheoriginalauthor(s)andthesource,providealinktotheCreative
+andbiologicalserviceunitsoftheFrancisCrickInstitute;theﬂowcytometryteam(Ayad Commonslicense,andindicateifchangesweremade.Theimagesorotherthirdparty
+Eddaoudi,StephanieCunning),theBiologicalServiceUnit(AilsaGreppi),theimaging materialinthisarticleareincludedinthearticle’sCreativeCommonslicense,unless
+facility(DaleMoulding)attheGOSInstituteofChildHealthandhistopathologyatthe indicatedotherwiseinacreditlinetothematerial.Ifmaterialisnotincludedinthe
+GOSH.WethankErikaTenderiniforlibrarypreparation(bulkRNA-seq).Wethankthe article’sCreativeCommonslicenseandyourintendeduseisnotpermittedbystatutory
+JointMRC/WellcomeTrustHumanDevelopmentalBiologyResource(HDBR)for regulationorexceedsthepermitteduse,youwillneedtoobtainpermissiondirectlyfrom
+providingfoetaltissueunderinformedethicalconsent.A.G.dedicatesthisworktothe
+thecopyrightholder.Toviewacopyofthislicense,visithttp://creativecommons.org/
+lateProfessorAlbertE.Renold.P.B.receivedfundingfromtheEuropeanResearch
+licenses/by/4.0/.
+Council(ERC-StgAgreementNo.639429),theRosetreesTrust(M362;M362-F1;M553),
+theLondonAdvancedTherapies-ResearchEngland(C2N-AT.006),theMRCCon-
+ﬁdenceinConceptscheme(Award:MC_PC_17180),andtheNationalInstitutefor ©TheAuthor(s)2020
+16 NATURECOMMUNICATIONS|        (2020) 11:6372 |https://doi.org/10.1038/s41467-020-20082-7|www.nature.com/naturecommunications
+
+NEW PAGE

@@ -1,0 +1,807 @@
+Open Journal of Regenerative Medicine, 2018, 7, 1-17 
+http://www.scirp.org/journal/ojrm 
+ISSN Online: 2169-2521 
+ISSN Print: 2169-2513 
+ 
+ 
+ 
+Psychological Issues for Patients Undergoing 
+Stem Cell Therapy and Regenerative Medicine 
+Natasha Braunsteiner1, E. Russell Vickers1,2,3*, Rachel Shparberg1,4 
+1Clinical Stem Cells Pty Ltd., Sydney, Australia 
+2Department of Anaesthesia & Pain Management, University of Sydney, Sydney, Australia 
+3Clinical Research Center, Combak Hospital, Hangzhou, China 
+4School of Medical Sciences, Discipline of Physiology, University of Sydney, Sydney, Australia 
+           
+ 
+ 
+How to cite this paper: Braunsteiner, N.,  Abstract 
+Vickers,  E.R.  and  Shparberg,  R.  (2018) 
+Psychological Issues for Patients Undergoing  Stem cell therapy is a relatively new treatment modality in the field of rege-
+Stem Cell Therapy and Regenerative Medi- nerative medicine. The therapy is gaining increased awareness and accep-
+cine. Open Journal of Regenerative Medi- tance by the public. There are multiple factors that contribute to a stem cell 
+cine, 7, 1-17. 
+procedure for regenerative medicine in order for it to be successful. One of 
+https://doi.org/10.4236/ojrm.2018.71001 
+  these factors is a patient’s mental health and psychological state. The role and 
+Received: February 5, 2018  significance of a counsellor/psychologist will be examined as a crucial part of 
+Accepted: March 27, 2018  the regenerative medicine team. Pre-existing issues of depression, anxiety, 
+Published: March 30, 2018 
+post-traumatic stress disorder (PTSD), addiction, low self-esteem and high 
+ 
+Copyright © 2018 by authors and   levels of stress could adversely affect outcomes. For example, fears and pho-
+Scientific Research Publishing Inc.  bias are counter-productive for planned regenerative therapy. The counsellor 
+This work is licensed under the Creative  must also assess and determine that the patient is mentally and psychologi-
+Commons Attribution International  
+cally healthy. In addition, advice is necessary for the patient to have realistic 
+License (CC BY 4.0). 
+http://creativecommons.org/licenses/by/4.0/    expectations in order for them to be eligible for treatment. Some patients are 
+Open Access not suitable for stem cells and other regenerative procedures until psycholog-
+   
+ical treatment is successful, particularly in body image dysmorphia. A com-
+prehensive psychological assessment is needed and answers must be provided 
+for patients by the counsellor during all phases of the treatment. 
+ 
+Keywords 
+Stem Cells, Regenerative Medicine, Counselling, Psychology, Mental Health, 
+Depression, Anxiety, Stress 
+ 
+1. Introduction 
+Stem cell therapy is a relatively new treatment approach for medical conditions 
+involving regenerative medicine. Emerging evidence demonstrating safety and 
+ 
+DOI: 10.4236/ojrm.2018.71001  Mar. 30, 2018  1  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+N. Braunsteiner et al. 
+ 
+efficacy is providing further impetus for clinicians and their patients to consider 
+cell based therapies. One developing area is stem cells for treating chronic pain 
+conditions such as osteoarthritis and neuropathic pain. However, a number of 
+psychological issues continue to arise from patients receiving stem cells, for ex-
+ample, patient enquiries about the potential of stem cells to cause cancer and 
+genetic mutations being introduced into a host patient from allogeneic cells. 
+Furthermore, the simple injection of stem cells, local anesthetic and saline for 
+tumescent liposuction in the case of adipose derived stem cells can still initiate 
+extreme  anxiety in a needle phobic  patient. Consequently, the  presence  of 
+co-existent negative psychosocial variables with the medical condition to be 
+treated can significantly impact patient outcomes as in the case of improving 
+chronic pain states. The gold standard approach to medical treatment is a multi-
+disciplinary assessment of medical, psychological and physical factors, termed a 
+biopsychosocial paradigm. Chronic pain is one of the key reasons for the public 
+to investigate stem cell therapy as the current conventional approach utilizes 
+medication including antidepressants and anticonvulsant drugs. However, these 
+drugs such as amitriptyline, pregabalin and gabapentin have a relatively poor 
+outcome ratio when comparing the number needed to treat (NNT) of 1:3-8 with 
+the number needed to harm (NNH) of 1:2  
+(http://cochranelibrary-wiley.com/cochranelibrary) i.e. the public are twice as 
+likely to incur adverse drug side effects compared with pain reduction. This is of 
+particular concern to patients as possible drug side effects include significant 
+weight gain, drowsiness, paradoxical depression and anxiety, alopecia, skin rash, 
+increased suicidal ideation and peripheral neuropathy. Moreover, drug toler-
+ance, drug interaction and addiction to opioid medication are ongoing worrying 
+issues for the medical doctor. Alternative cell based therapies are an attractive 
+option when safety and efficacy have been established for the individual patient 
+and the treating doctor. Moreover, governments are increasingly concerned due 
+to the prevalence and high socioeconomic burden of pain.  
+The rise in cosmetic medicine is one further increasing trend where stem cells 
+are used despite the paucity of evidence [1]. The purpose of this article is to illu-
+strate various potential psychosocial issues that may develop in the clinical phase 
+that are specific to stem cell therapy. To the authors’ knowledge, this is the first 
+article to list patient concerns of stem cell therapy and provide a framework of 
+evidence based treatments from other established areas of medicine. The chronic 
+pain model is used to list potential psychosocial issues due to the increasing use 
+of stem cells as a treatment. The authors are core members of dedicated clinical 
+stem cell team performing this therapy with combined 20+ years in stem cell 
+training, research, treatments and publications. NB specializes in counselling 
+and the psychological assessment of patients undergoing stem cell therapy, RS is 
+a developmental cell biologist with extensive laboratory research in stem cells, 
+and ERV is a surgeon who specializes in treating patients with autologous me-
+senchymal stem cells with publications in this field. 
+ 
+DOI: 10.4236/ojrm.2018.71001  2  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+N. Braunsteiner et al. 
+ 
+The comprehensive assessment of psychological issues of the patient is an 
+imperative component to consider by the clinician for any treatment. This in-
+volves discussing with the patient their unresolved past issues, current problems 
+and identifying potential future aspects that could negate treatment outcomes. 
+Stem cell therapy holds a unique position in this regard. Autologous stem cell 
+therapy is considered a safe and highly valued treatment for use in pediatric leu-
+kemia patients since its institution in the 1980s. Positive exposure from media 
+sources for its use is underpinned by extensive medical research publications. 
+This generates confidence in the public domain for its use in other medical con-
+ditions. However, in any treatment there are possible complications and risks 
+that can and do arise. Even in rare circumstances, a complication can generate 
+extensive negative media to the public and consequently with the loss of confi-
+dence, and increased individual stress and anxiety for a prospective patient 
+should stem cells be considered. An example of this occurred when stem cells 
+were injected into the face of a patient for cosmetic reasons and minor bone 
+splinters developed around the eyelids that were simply removed. The patient 
+had  previous  injections  of  hydroxyapatite  filler  from  another  surgeon  that 
+coaxed the stem cells to differentiate to osteoblasts instead of fibroblasts. The 
+response from certain media outlets was to create a sensational headline for the 
+public using terms such as “Botched, gruesome, bone fragments grinding against 
+each other” (Figure 1). 
+The importance of allaying this type of anxiety is necessary for successful 
+outcomes. Stem cell therapy is a new treatment modality for most medical doc-
+tors and allied health practitioners such as dentists. Their role is supported by 
+the use of counsellors and psychologists to achieve a successful “human” out-
+come rather than a simple “physiological improvement of the disease”. For ex-
+ample, in the area of chronic pain, the biopsychosocial approach provides an 
+excellent  framework  of  multidisciplinary  assessment  for  stem  cell  therapy. 
+Simply reducing pain intensity in a chronic pain patient without treating depres-
+sion, anxiety, stress and an addiction to prescription drugs leads to failure. 
+Treating the psychosocial disease is as important as the medical treatment. 
+In the case of allogeneic stem cells further anxiety and many questions from 
+the patient is likely to occur. This is no different when considering drugs with 
+potential side effects such as weight gain, sedation, drowsiness and hair loss 
+from frequently used tricyclic antidepressants for neuropathic pain. Moreover, 
+the list of side effects from other drugs include acne, loss of libido, suicidal id-
+eation, gastric ulceration, lethargy, impaired renal and liver function, blindness  
+ 
+ 
+Figure 1. Internet headline of a complication from stem cell treatment to the face. 
+ 
+DOI: 10.4236/ojrm.2018.71001  3  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+N. Braunsteiner et al. 
+ 
+and hearing loss. The purpose of this article is to outline, identify and indicate 
+the treatment approach for the numerous psychosocial variables that are likely 
+to arise when the clinician is providing stem cell treatment. 
+2. Explaining Basic Scientific Principles of Stem Cells to   
+Patients 
+Stem cell and regenerative therapies have received much attention over the years 
+for their potential to rejuvenate and repair damaged and aged tissue. The field of 
+stem cells is rapidly evolving and as technology improves, so too does the pros-
+pect of treating a variety of conditions. However, it is important to appreciate 
+that the field of stem cell therapy and regenerative medicine is still emerging, 
+and there is much to learn about how stem cells interact with their environment 
+to repair damaged and diseased tissue. As previously shown in the media (Figure 
+1), negative comments undermine the true therapeutic benefit of stem cells. An 
+explanation of stem cells from their origin, different types and donor sources 
+(autologous or allogeneic) helps reduce uncertainty and anxiety about the nature 
+of the planned treatment. The following outline is provided for the clinician to 
+help the patient in understanding the basic principles in stem cell therapy. 
+A stem cell is a unique cell that, unlike normal body (somatic) cells, is 1) ca-
+pable of self-renewal over extended periods of time (i.e. it is able to stay as a 
+stem cell over multiple cell divisions) and 2) maintains a level of potency (i.e. an 
+ability to differentiate into another type of cell when the conditions are favora-
+ble). There are four main types of stem cells that patients may be aware of in-
+cluding embryonic, adult, induced pluripotent and cancer stem cells. It is there-
+fore imperative to explain the nature of therapeutic stem cells from cancer stem 
+cells to a patient to prevent anxiety and stress from a lack of knowledge. Em-
+bryonic stem cells are those derived from the early embryo. These cells are plu-
+ripotent, which means that they are capable of differentiating into any of the 
+cells that make up the structural and physiological components of an adult, and 
+support foetal development. For ethical reasons embryonic stem cells are rarely 
+used for treatments. Adult stem cells are multipotent in nature, which means 
+that they are capable of restricted differentiation into cell types within their li-
+neage of origin: For example, neural stem cells can differentiate into neurons 
+and glia of the central and peripheral nervous stems, but have lost the ability to 
+form, for example, skin cells. Induced pluripotent stem cells are derived from 
+somatic cells that, in theory have lost the ability to differentiate, but are repro-
+grammed back to an “embryonic stem cell-like state” (Figure 2). Cancer stem 
+cells are those derived from tumours that have the ability, like a healthy stem 
+cell, to self-renew and differentiate, and often form the basis of cancer develop-
+ment in patients. For a review of each type of stem cell see Batlle et al. [2]. 
+Stem cell therapies in several countries can be administered to a patient pro-
+vided that they are autologous in nature (i.e. the cells are derived from the pa-
+tient and re-administered back to the same patient), the cells are minimally  
+ 
+DOI: 10.4236/ojrm.2018.71001  4  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+N. Braunsteiner et al. 
+ 
+ 
+Figure 2. Derivation, types and differentiation potential of pluripotent and multipotent embryonic-, foetal- and adult-derived 
+stem cells. 1) Embryonic stem cells are derived from the inner cell mass of the early blastocyst-stage embryo and can differen-
+tiate into all somatic and germ-line cell types that form the human body from each of the three multipotent definitive germ 
+layers (endoderm, mesoderm and ectoderm). Stem cell therapy using embryonic stem cells is currently not permitted in many 
+countries. Rather, these stem cells are predominantly used for understanding the molecular mechanisms underlying embryonic 
+development and cell differentiation. 2) Induced pluripotent stem cells are those that are derived from mature cell types (for 
+example, skin cells) and are reprogrammed back to an embryonic stem cell-like state. Once reprogrammed, iPSCs can then 
+differentiate into somatic cells of each of the definitive endoderm, mesoderm and ectoderm germ layers. iPSC technology has 
+yet to efficiently progress to the clinic, however, there is the prospect that this technology will be the face of personalized rege-
+nerative therapy in the future. 3) Adult stem cells are multipotent cells that are derived from stem cell niches in foetal and 
+adult organs and tissues. Some examples include: mesenchymal stem cells (MSCs), adipose-derived stem cells (ADSCs) and 
+dental pulp stem cells (DPSCs). These cells are conventionally restricted to differentiating into cell types from their lineage of 
+origin. For example, MSCs are derived from the mesoderm lineage, and can therefore differentiate into cells of this lineage. 
+DPSCs are derived from the neural crest lineage and can differentiate into a range of craniofacial structures including muscle, 
+bones, peripheral nervous tissue etc. Currently, autologous cell therapy using adult stem cells (derived from the patient and 
+delivered back into the patient) are at the forefront of therapeutic and regenerative medicine. 4) Cancer stem cells are unique 
+cells located within tumours that possess similar characteristics to normal stem cells: They can self-renew (curved arrow), but 
+unlike normal stem cells, cancer stem cells are genetically unstable and therefore self-renew and proliferate uncontrollably, 
+often transdifferentiating into a mix of different cell types from different cell lineages, as well as being able to metastasize un-
+der appropriate conditions. 
+ 
+DOI: 10.4236/ojrm.2018.71001  5  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+N. Braunsteiner et al. 
+ 
+manipulated and the entire procedure is performed by or under the supervision 
+of a clinician. Not all conditions are considered proven therapies yet. In fact, to 
+date, only certain blood, skin and vision stem cell-based treatments have been 
+approved and are recognized as safe and efficient treatments, as per rigorous 
+clinical trial results. Nevertheless, conditions such as arthritis, degenerative con-
+ditions, autoimmune disorders and chronic pain are showing promising results 
+from stem cell therapies, particularly from a type of adult stem cell known as a 
+mesenchymal stem cell (MSC). These therapies however are still under scientific 
+investigation and are thus not routinely offered as medically-approved therapies. 
+This frustrates patients, as many of these innovative therapies have shown 
+promising results, but the therapies are expensive and difficult to gain access to. 
+At the same time, MSCs are often advertised as the “cure all” stem cell, mislead-
+ing patients and medical practitioners and thus shaping wrong perceptions of 
+stem cell therapies. It is therefore necessary to provide patients and medical 
+practitioners with information regarding both the benefits and limitations of 
+stem cells and associated therapies. 
+3. Unrealistic Expectations and Perceived Failure of   
+Treatment 
+It is imperative that an initial psychological consultation with a patient is con-
+ducted before any procedural treatment such as tissue harvesting for stem cells 
+and the re-administration of the manufactured product containing isolated 
+stem cells. Most research conducted on the expectations and satisfaction with 
+treatment has been qualitative, using psychometric instruments and question-
+naires to investigate different types of expectations [3]. Ryan et al. [4] conducted 
+a dental study to measure treatment expectations and their results showed that 
+multiple physical improvements were expected of both increased function (cor-
+rect occlusion for mastication) and improved esthetics (“straight teeth”). Posi-
+tive nonphysical (psychological) changes from an anticipated good physical 
+outcome that were expected included an improvement in emotions, patients 
+were expecting to be happier, more confident and relaxed and that the thought 
+of treatment was positive as it would aid their current perceived defects of misa-
+ligned teeth. Not surprisingly, psychological expectations about changes in ap-
+pearance ranged from wanting to be normal to expectations of wanting to be 
+perfect and unrecognizable. The study showed patients had a desire to become a 
+better version of themselves and that treatment would be able to achieve this. 
+The preliminary psychological analysis before treatment should evaluate all areas 
+of the patient’s life [5]. It is not uncommon for some patients to present with 
+unrealistic expectations and thoughts and the role of the counsellor/psychologist 
+is to change negative undermining thoughts of “needing 100% cure or perfec-
+tion” to more realistic healthy expectations. Verbal and written questions allow 
+both clinician and patient the time to list and respond to possible difficulties of a 
+personal nature [6]. A standard set of questions can be given and then further in 
+ 
+DOI: 10.4236/ojrm.2018.71001  6  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+N. Braunsteiner et al. 
+ 
+depth time allocated where patients may present with their own set of questions. 
+For cosmetic stem cells, idiosyncratic thoughts and even photos of what they 
+wish to look like should be viewed by the clinician. It is imperative the counsel-
+lor address these types of thoughts and the areas of concern should be rechecked 
+prior to stem cells. The role of the counsellor is to confidently reply to the com-
+mon questions, solve evolving issues of worry and assess the individual needs of 
+each patient through qualitative analysis [7].  
+Financial issues can be an important area for the counsellor to discuss with 
+each patient. Stem cell therapy in most countries relies on the patient to pay for 
+the treatment as it is a new therapy that governments and health insurance pro-
+viders have yet to acknowledge for monetary reimbursement. Subsequently the 
+expense, often high, incurred by the patient may cause similar high expectations 
+from the therapy. Timely and prudent advice from the clinician to the patient 
+should be given regarding a realistic outcome. Another situation is where the pa-
+tient judges their own autologous stem cells as a “natural therapy” and s/he is 
+more likely to be compliant in pre- and postoperative care information.  
+4. Assessing Depression, Anxiety and Stress 
+The psychological assessment of the patient considering stem cell therapy is an 
+important component in the clinical work up. Depression, anxiety and stress are 
+variables that can dramatically inhibit treatment outcomes. A simple, non-invasive 
+and accurate tool for measuring the psychological profile is through the use of a 
+questionnaire such as the depression, anxiety and stress scale (DASS-21). The 
+DASS-21 is a well-established instrument for measuring depression, anxiety and 
+stress with good reliability and validity [8]. The DASS-21 was developed to 
+measure the constructs of depression and anxiety and to address the failure of 
+early emotional measures in discriminating between anxiety and depression [9]. 
+It is an economical pencil-and-paper instrument and reduces administrative 
+time by taking five minutes to complete and has been widely used in clinical en-
+vironments. The DASS-21 is provided by counsellors and psychologists during a 
+structured clinical interview [10]. Since its publication in 1995 the DASS-21 has 
+been used in numerous types of research such as early life stress and adult emo-
+tional experiences, chronic and acute pain patients, addictions and mental ill-
+nesses [11]. The patient should have baseline results recorded prior to treatment 
+and then be repeated at regular post-surgery intervals. This will help the clini-
+cian to monitor the patients’ mental and psychological state during the entire 
+course of therapy and record how the patient is coping with the phases of stem 
+cell rehabilitation where improvement can take several months to achieve mea-
+ningful and visual improvement (Table 1). 
+5. Psychological and Psychiatric Patient Profiles as   
+Exclusions for Stem Cell Therapy 
+A psychological assessment should be performed during the first phase of the  
+ 
+DOI: 10.4236/ojrm.2018.71001  7  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+N. Braunsteiner et al. 
+ 
+Table 1. Description of psychological terms that can be involved in stem cell therapy. 
+Psychological Term  Description 
+Pain can bring on depression which can affect the patient in multiple 
+aspects of their life. It is common for the depression to be a  
+secondary symptom of the pain, and by reducing the pain intensity 
+then the depression subsides. Symptomatic depression can be  
+Depression 
+treated in the same way as general depression as it effects the patient 
+in the same way. Symptoms of depression include a change in  
+appetite, fatigue, a sense of worthlessness, sleep problems,  
+loss of motivation, and feeling sad and withdrawing. 
+Anxiety can affect a patient in quite a physical way from  
+Anxiety  increased heart rate, rapid breathing, perspiration,  
+panic attacks, tightening of the chest, tremors and shaking. 
+Stress can affect all aspects including emotions, behavior, thinking 
+ability and physical health. No part of the body is immune but  
+Stress  because people handle stress differently, symptoms of stress can vary. 
+Stress is a common issue observed in patients with chronic pain and 
+the higher the stress, the higher the pain intensity score. 
+It is common for a patient to experience PTSD and persistent pain as 
+co-morbidities. The patient may fear doctors, dentists, professionals, 
+Post-Traumatic Stress 
+medical and surgical procedures that can increase pain. In addition, 
+Disorder (PTSD) 
+pain can trigger the PTSD and can cause avoidance, nightmares, flash 
+backs, and increased stress and anxiety levels. 
+Patients seeking stem cell therapy may have an addiction, for  
+example an excessive and frequent consumption of pain medication. 
+A further addiction in pain patients is inappropriate drug use as a 
+Addiction 
+method for escape and distraction. The patient begins to 
+self-medicate using alcohol, prescription drugs, and illicit drugs  
+such as cocaine and cannabis. 
+Body dysmorphic disorder is preoccupation with one or more  
+perceived defects or flaws in his/her physical appearance that are not 
+observable or appear slight to others. At some point during the 
+course of the disorder, the individual has performed repetitive  
+Body Dysmorphic   behaviors, for example mirror checking, excessive grooming, skin 
+Disorder (BDD)  picking, reassurance seeking behavior and continually comparing 
+his/herself with that of others. This preoccupation can cause  
+significant distress or impairment in the social, occupational,  
+or other important areas of functioning. However,  
+preoccupation in this context does not concern body fat or weight. 
+In terminal disease states and chronic pain there are increased  
+Suicide  suicidal tendencies. It is important that a suicide risk  
+assessment is performed with these patients. 
+ 
+stem cell consultation process, along with the medical check list for patient sui-
+tability. During this consultation the counsellor should carefully observe patient 
+behavior and listen to their answers from a set of specific questions focused on 
+all aspects of their mental and psychological state. There are several patient pro-
+files that either potentially exclude patients, or requires intensive therapy prior 
+to the treatment phase. Patients with conditions such as uncontrolled schizoph-
+renia, bipolar disorder, post-traumatic stress disorder (PTSD), depression, an-
+xiety, anorexia, body dysmorphic disorder and addiction should not be consi-
+ 
+DOI: 10.4236/ojrm.2018.71001  8  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+N. Braunsteiner et al. 
+ 
+dered eligible for stem cell treatment [12]. In addition, high levels of stress or 
+constant background stress, although prevalent in society, may prevent a suc-
+cessful outcome. PTSD patients may need long term psychological treatment 
+with an extended timeframe before they are eligible for stem cells. The doctor 
+and psychologist jointly need to be satisfied that the patient is ready for the stem 
+cell intervention (Figure 3). 
+6. Fear and Apprehension from Stem Cell Therapy 
+Several fears about stem cells may trigger apprehension of the proposed treat-
+ment. Typical questions asked by a patient can be “what if I am given another 
+person’s stem cells with unknown DNA mutations” or “I am worried I may get 
+cancer from stem cells”. These are real concerns and the stem cell team com-
+prising doctor, psychologist and stem cell scientist must provide a clear under-
+standing of the relative risks of all aspects of treatment. The doctor must provide 
+procedural risks such as swelling, pain and discomfort, prolonged bleeding and 
+risk of post operative infection from the donor site. The psychologist advises the 
+patient of realistic goals and outcomes, and techniques to rebut stress. The stem 
+cell scientist reassures the patient that extensive laboratory validation tests are 
+conducted on the cells to confirm cell viability, cell numbers and stem cell CD 
+markers.  
+As stem cell therapy is a relatively new procedure it is likely that multiple 
+fears and concerns would be brought forward by presenting patients. Further  
+ 
+ 
+Figure 3. Psychological aspects of stem cell therapy for therapeutic treatment using a chronic pain model. The network map de-
+monstrates the complex interconnectedness of psychosocial variables when treating a medical disease. 
+ 
+DOI: 10.4236/ojrm.2018.71001  9  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+N. Braunsteiner et al. 
+ 
+reassurance should be given that government legislation in most countries places 
+a high emphasis on safety from medical procedures, medical devices and drugs 
+used for treatments. Higher levels of safety and reassurance are met when using 
+autologous stem cells as there is no risk of cell rejection and this information 
+should be explained. In the case of allogeneic cells then a higher level of potential 
+risk should be openly discussed with the patient and the “significant other” 
+(partner, relative or friend). Providing published high quality research articles 
+demonstrating safety can dispel unfounded fears. In addition, the medical doctor 
+should conduct blood screens on patients to determine if there is any risk from 
+the patient such as transmissible disease to other patients or clinic staff. Some 
+patients will question the sterility of instruments used. Providing evidence of a 
+validated sterilizer or using disposable single use instrument packs will reassure 
+the patient. 
+7. Cancer and Stem Cells   
+As mentioned above there are strict and thorough initial tests and screening that 
+takes place before the stem cell treatment. However, in the unlikely event that 
+the screening tests are not performed or validated then the patient can possibly 
+receive stem cells from a diseased site or unknown donor, thereby posing a po-
+tential risk of developing a disease or illness. Like any situation where blood 
+and/or bodily fluids are shared there is a risk of developing a complication. 
+Moreover, where recipient sites contain autologous or allogeneic cancer stem 
+cells then the risk can be magnified due to stem cell expansion (increased cell 
+number) and the migration of stem cells potentially causing metastatic spread 
+[13]. Cancer contains cancer stem cells, and poorly differentiated cancer cells 
+can increase in number quickly. One of the key contraindications to stem cell 
+therapy is untreated cancer. In patients with suspected cancer then thorough 
+screening is needed with clinical tests, radiographic examinations, cancer bio-
+marker assays and genetic testing for a risk evaluation.  
+8. How to Manage the Desperate Patient Seeking Stem Cell   
+Treatment 
+Patients may catastrophize when given a diagnosis concerning conditions such 
+as cancer, multiple sclerosis and motor neuron disease. These conditions have 
+different levels of malignancy and disease severity. The treating clinician and 
+psychologist should contact the patient’s specialist to record the “real life expec-
+tancy” compared with a possible exaggerated report from the patient. When 
+dealing with the desperate patient it is important that you acknowledge their 
+emotions and feelings and that they feel heard and understood. It is essential 
+that every patient is treated with respect, nonjudgment and made to feel com-
+fortable no matter how trivial or simple the issue may be. Some patients may 
+present with significant distress and desperation towards their health and may 
+feel the only option they have to survive is the stem cell treatment. This is un-
+ 
+DOI: 10.4236/ojrm.2018.71001  10  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+N. Braunsteiner et al. 
+ 
+healthy and unrealistic thinking. It important that these issues are given a “red 
+flag of urgency” and should be addressed during the first consultation. The pa-
+tient may erroneously believe that stem cells will cure the disease despite the lack 
+of published evidence. In addition, patients may incorrectly think that there will 
+be a rapid reduction of their symptom profile and a dramatic enhancement of 
+their quality of life [14]. Reassurance and providing a realistic timeframe of im-
+provement will help the patient’s quality of life and give back their independence 
+[15]. Advice should be given by the clinician that the patient should be focusing 
+on structured phases of improvement rather than the negative attitudes of dying.  
+In patients with chronic pain caused by a significant traumatic event then 
+there is the likelihood of a PTSD co-morbidity. Significantly, the PTSD event 
+may involve an associated medical situation of misdiagnosis, inadequate pain re-
+lief from surgery, malpractice of medical professionals, failed treatment plans, 
+multiple pharmaceutical drugs that induced severe side effects such as suicidal 
+ideations and the resultant constant temporal quality of “inescapable” pain. 
+Moreover, breakthrough high intensity pain, and recurrent episodes can insti-
+gate a crisis where the patient demands stem cells for instant pain relief. Arming 
+patients with the knowledge that stem cells are a long term biological treatment 
+and not reminiscent of a rapidly acting opioid drug will prevent unreasonable 
+demands on the clinician.  
+Past trauma, fears and the threat of death elicits extreme anxiety and stress 
+that must be dealt with by psychological means – pharmaceutical drugs cannot 
+treat or reduce affective pain dimensions of “fearful, punishing and cruel pains”. 
+It is important that the clinical team psychologist calm the patient and ensure 
+they are safe and looked after. Identification and acknowledgement of a patient’s 
+emotional distress and negative thought patterns is crucial. The counselor by 
+showing empathy and understanding with the patient will guide them through 
+the emotional upheaval in a controlled and structured way to avoid potential self 
+harm. In summary, both the physical and mental health of the patient is a prior-
+ity. The patient must be in a clear, calm, positive and realistic mind frame before 
+they can be eligible for the stem cell procedure. It is the role of the stem cell 
+counsellor to determine and treat psychosocial issues and advise the managing 
+team clinician as to when the patient is psychologically fit for the procedure.  
+9. The Role of the Counselor/Psychologist in the Stem Cell   
+Team 
+The preferred clinical stem cell team should comprise various specialists with 
+dedicated roles such as medical specialist, surgeon, stem cell scientist, nurse, 
+doctor, counsellor/psychologist and additional allied health where appropriate 
+such as dentist, physiotherapist and dietician. Each professional plays a large and 
+important role within the team and are crucial to the stem cell procedure. It is 
+advantageous of having a large and diverse team to answer all possible questions 
+from the patient and family, reassure the patient that the team can deliver op-
+ 
+DOI: 10.4236/ojrm.2018.71001  11  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+N. Braunsteiner et al. 
+ 
+timal and safe care, and provide validated methods for stem cell laboratory pro-
+cedures. The counsellor has a critical role to ensure that positive attitudes and 
+stable mental health are incorporated by the patient at all stages of the treatment. 
+Ongoing psychological support provides security for the patient that s/he is the 
+priority and the counsellor monitors and is available for the needs of the patient 
+throughout the entire process. This ensures there is minimal risk of perceived 
+treatment failure. The counsellor should also explain that stem cells are the be-
+ginning of a long term management plan and that supervision and care of the 
+patient is not a one stage treatment. This framework of multiple professionals in 
+the stem cell team is designed to meet comprehensively the needs of the patient, 
+and specifically for the counsellor to maintain the confidence of the patient. 
+Stem cells should be viewed as an option with all other treatments. Taken to-
+gether the patient will have various consultations for the different types of 
+treatments possible thereby allowing the patient the liberty and confidence of the 
+appropriate decision.  
+A further advantage of having the stem cell counsellor is to treat patients with 
+fears and phobias regarding the procedural or surgical aspects of stem cell ther-
+apy. For example, needle phobias are prevalent and found in 3.5% - 10% of the 
+population [16] and this type of procedure is necessary in administering the 
+stem cells by the intravenous (IV) route or local administration. Reducing this 
+phobia can be accomplished medically by anti-anxiety drugs, or IV sedation/general 
+anesthetic. Psychological approaches include exposure therapy, cognitive beha-
+vioral therapy (CBT) and solution focused therapy. 
+10. Cosmetic Use of Stem Cells and Body Image Dysmorphia 
+Psychological screening is particularly important for patients seeking stem cell 
+therapy for cosmetic reasons. The phenomenal increase in people seeking elec-
+tive cosmetic surgery and minimally invasive procedures is well documented. 
+Major reasons driving this  interest is focused on an attractive appearance, 
+younger looks, stamina, increased muscular attributes and enhanced body shape 
+morphology [17]. The counsellor investigates to a greater depth the patient’s 
+personality, lifestyle and appearance. There is a specific emphasis on identifying 
+unrealistic expectations and mental health issues such as depression, eating dis-
+orders and body dysmorphia.  
+According  to  the  Diagnostic  and  Statistical  Manual  of  Mental  Disorders 
+(DSM-V 2013) [18] the criteria and symptoms for body dysmorphic disorder is 
+preoccupation with one or more perceived defects or flaws in physical appear-
+ance that are not observable or appear slight to others. At some point during the 
+course of the disorder, the individual has performed repetitive behaviors for 
+example mirror checking, excessive grooming, skin picking, reassurance seeking 
+behavior and continually comparing his/herself with that of others. This preoc-
+cupation can cause significant distress or impairment in social, occupational, or 
+other important areas of functioning. However, preoccupation in this context 
+ 
+DOI: 10.4236/ojrm.2018.71001  12  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+N. Braunsteiner et al. 
+ 
+does not concern body fat or weight.  
+There may be a history of having multiple procedures such as Botox, fillers 
+and face lifts as afflicted patients see flaws in themselves that no one else can see 
+or simply do not exist [19]. Body image is a subjective, self-evaluation of ap-
+pearance and it is a construct that includes affective, cognitive behavioral and 
+perceptual  features  [20].  It  can  have  a  profound  effect  on  an  individual’s 
+self-esteem, mood, eating patterns and social interactions [21] with the result of 
+requesting frequent but unnecessary surgery. Despite multiple cosmetic proce-
+dures the patient is unhappy, discontented and never satisfied [14]. Previous at-
+tempts of cosmetic surgery fail to achieve the expected outcome and can have a 
+large impact on an individual’s self-esteem and mental health, initially positive 
+then in a negative manner [22]. A careful determination by the psychologist is 
+needed to to advise the patient whether stem cell treatment will be beneficial or 
+cause more psychological damage [23] (Figure 4). 
+11. Case Studies 
+Two case studies are presented to demonstrate the scope of potential psycholog-
+ical effects when using stem cell therapy. Both cases have been published in the 
+media - the first case in public commercial media and the second case as a peer 
+reviewed medical publication.  
+Case 1 - Stem cell treatment resulting in death  
+Stem cell treatment at a UK teaching hospital resulted in the death of four  
+ 
+ 
+Figure 4. Psychological aspects of stem cell therapy for cosmetic reasons. The map demonstrates the signs and behavioral issues of 
+psychological issues such as body dysmorphic disorder. 
+ 
+DOI: 10.4236/ojrm.2018.71001  13  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+N. Braunsteiner et al. 
+ 
+children. It was reported in the public media that doctors at London’s renowned 
+Children’s Hospital at Great Ormond Street were baffled when stem cell therapy 
+routinely used to treat sick children with cancer inexplicably stopped working. 
+The procedure was to reintroduce thawed bone marrow stem cells after chemo-
+therapy [24]. Four of the children died from the procedure forcing the doctors to 
+cease therapy as they were unsure what was the cause and what had gone wrong. 
+The thawed stem cells underwent multiple tests for stem cell count (total num-
+ber) and viability (individual cell survival). An independent expert determined 
+that a crucial third test was not performed, namely the ability of the cells to pro-
+liferate and replenish depleted cells. The lack of thorough testing resulted in the 
+deaths of four innocent children. Media exposure cast the stem cells as a nega-
+tive and dangerous treatment, but human error was the cause. 
+This unfortunate event would have caused immense emotional and psycho-
+logical trauma for the grieving parents and family members of the deceased 
+children. The parents would have experienced a roller-coaster of emotions of 
+disappointment, anger, guilt, blame, feeling distraught and sad. It would be nat-
+ural for the parents and family members to feel betrayed and let down by the 
+medical establishment, as they put their children in their care and trusted they 
+would be safe and well looked after. Unfortunately, the outcome of planned sur-
+vival resulted in unexpected death. This traumatic event could possibly destroy 
+the parents trust and belief in all future medical treatments particularly stem 
+therapy, in addition to the permanent loss of trust in hospitals, doctors and la-
+boratory scientists.  
+Case 2 - Successful stem cell therapy (patient K) 
+K’s stem cell procedure has been extensively documented by the authors. K 
+was a 27 yr old female with a history of right sided cluster headache and trige-
+minal neuropathic pain. Multiple pharmaceutical drug treatments had been tri-
+aled but were ineffective or discontinued due to side effects. Botox had been in-
+jected several times into the right side of her face that initially provided pain re-
+lief. Subsequent injections showed declining efficacy and then caused neurovas-
+cular degeneration and significant right facial atrophy (Figure 5). K was then 
+referred to the authors where she described severe pain and showed significant 
+psychological distress. She described herself as being “unrecognizable”, with low 
+self-esteem and a poor quality of life. Psychological assessment identified severe 
+depression and anxiety which lead to attempting suicide several times. She was 
+unable to work complicating her problem. 
+K underwent autologous stem cell therapy that showed substantial pain re-
+duction in the months that followed. Her pain intensity scores on a numerical 
+rating scale (“0 = no pain, 10 = worst pain imaginable”) at baseline were 8 - 
+10/10, then 5/10 at 1 month post-treatment and this further reduced to 2/10 at 4 
+months post-treatment. The primary aim was a reduction in pain but there was 
+clearly a noticeable cosmetic improvement in the face at 1 month and significant 
+regeneration at 4 months. There were no side effects or complications with the  
+ 
+DOI: 10.4236/ojrm.2018.71001  14  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+N. Braunsteiner et al. 
+ 
+ 
+Figure 5. Patient K: Stem cell therapy for neuropathic pain and facial regeneration, time-
+line of her progress post stem cell treatment. Baseline pain intensity was 8 - 10/10, at 1 
+mth 4/10, at 4 mths 0 - 2/10, 18 mths 0 - 1/10; excellent regeneration of the hemi-facial 
+atrophy [Vickers ER. Neuropathic orofacial pain: Diagnosis and multimodal manage-
+ment. Medicine Today (Journal of the Royal Australian College of General Practitioners) 
+2015, 16(9), 16-24]. 
+ 
+stem cell injections. Kmade a quick recovery and was able to go back to work 
+and her everyday life with very minimal down time. Five years after the stem cell 
+therapy K remains free of neuropathic pain and her facial appearance is normal. 
+She regained her independence and continues to work with an improved mental 
+health and quality of life. 
+12. Conclusions 
+For the patient seeking stem cell therapy, there are potential pre-existing psy-
+chological problems that must be addressed such as depression, anxiety, stress, 
+unrealistic expectations, body image issues, loss of quality of life, fears and pho-
+bias. Unresolved issues can result in the patient being ineligible for a stem cell 
+procedure. It is imperative that a counsellor performs an in-depth assessment of 
+all patients seeking stem cell therapy. Mental health issues that have not been 
+diagnosed or managed will result in poor outcomes. The patient with back-
+ground psychosocial conditions must work with the counsellor and complete the 
+necessary psychological treatment to produce a healthy mindset with realistic 
+expectations in order to be considered eligible for stem cell therapy. This is sim-
+ilar to the doctor for the medical evaluation, and the scientist for validating la-
+boratory protocols, as core members of the stem cell team. A dedicated and 
+trained team comprising of diverse professionals who manage mental, psycho-
+logical, medical, scientific and nursing issues will lead to improved patient out-
+comes from stem cell therapy for the purpose of regenerative medicine. 
+Regenerative medicine and the use of stem cell therapy will be major advances 
+used for medical treatments of the future. It is important that these biotechno-
+logical advancements result in improvements to reverse the underlying disease 
+process. However, it is also imperative that the patient improves psychologically 
+to have an acceptable quality of life for his/herself and a return to normal en-
+gagement with the family and related social activities. From a government and 
+ 
+DOI: 10.4236/ojrm.2018.71001  15  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+N. Braunsteiner et al. 
+ 
+socio-economic perspective, regeneration of the physical “self” should subse-
+quently lead to adequate psychological daily functioning and meaningful em-
+ployment. This can only be achieved when the psychological state is assessed and 
+treated in conjunction with the medical state when considering stem cells for 
+regenerative therapy. 
+Conflicts of Interest 
+The authors declare no conflicts of interest regarding the publication of this paper. 
+References 
+[1]  Ankrum, J. and Karp, J.M. (2010) Mesenchymal Stem Cell Therapy: Two Steps 
+Forward, One Step Back. Trends in Molecular Medicine, 16, 203-209.  
+https://doi.org/10.1016/j.molmed.2010.02.005 
+[2]  Batlle, E. and Clevers, H. (2017) Cancer Stem Cells Revisited. Nature Medicine, 23, 
+1124-1134. https://doi.org/10.1038/nm.4409 
+[3]  Chen, B., Zhang, Z.K. and Wang, X. (2002) Factors Influencing Postoperative Satis-
+faction of Orthognathic Surgery Patients. International Journal of Adult Orthodon-
+tics and Orthognathic Surgery, 17, 217-222. 
+[4]  Ryan, F.S., Barnard, M. and Cunningham, S.J. (2012) Impact of Dentofacial Defor-
+mityand Motivation for Treatment: A Qualitative Study. American Journal of Or-
+thodontics and Dentofacial Orthopedics, 141, 734-742.  
+https://doi.org/10.1016/j.ajodo.2011.12.026 
+[5]  Rustemeyer, J., Eke, Z. and Bremerich, A. (2010) Perception of Improvement after 
+Orthognathic Surgery: The Important Variables Affecting Patient Satisfaction. Oral 
+and Maxillofacial Surgery, 14, 155-162. https://doi.org/10.1007/s10006-010-0212-2 
+[6]  Türker, N., Varol, A. and Ogel, K. (2008) Perceptions of Preoperative Expectations 
+and Postoperative Outcomes from Orthognathic Surgery: Part I: Turkish Female 
+Patients. International Journal of Oral and Maxillofacial Surgery, 37, 710-715.  
+https://doi.org/10.1016/j.ijom.2008.04.014 
+[7]  Malterud, K. (2001) The Art and Science of Clinical Knowledge: Evidence beyond 
+Measures and Numbers. Lancet, 358, 397-400.  
+https://doi.org/10.1016/S0140-6736(01)05548-9 
+[8]  Sawang, S., Oei, T.P.S. and Goh, Y.W. (2006) Are Country and Culture Values In-
+terchangeable? A Case Example Using Occupational Stress and Coping. Interna-
+tional Journal of Cross Cultural Management, 6, 205-219.  
+https://doi.org/10.1177/1470595806066330 
+[9]  Lovibond, P.F. and Lovibond, S.H. (1995) The Structure of Negative Emotional 
+States: Comparison of the Depression Anxiety Stress Scales (DASS) with the Beck 
+Depression and Anxiety Inventories. Behavioral Research and Therapy, 33, 335-343.  
+https://doi.org/10.1016/0005-7967(94)00075-U 
+[10]  Antony, M.M., Bieling, P.J., Cox, B.J., Enns, M.W. and Swinson, R.P. (1998) Psy-
+chometric Properties of the 42-Item and 21-Item Versions of the Depression An-
+xiety Stress Scales in Clinical Groups and a Community Sample. Psychological As-
+sessment, 10, 176-181. https://doi.org/10.1037/1040-3590.10.2.176 
+[11]  Raylu, N. and Oei, T.P.S. (2004) The Gambling Related Cognitions Scale (GRCS): 
+Development, Confirmatory Factor Validation and Psychometric Properties. Ad-
+diction, 99, 757-769. https://doi.org/10.1111/j.1360-0443.2004.00753.x 
+ 
+DOI: 10.4236/ojrm.2018.71001  16  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+N. Braunsteiner et al. 
+ 
+[12]  Kamburoglu, H.O. and Ozguer, F. (2007) Postoperative Satisfaction and the Pa-
+tient’s Body Image, Life Satisfaction and Self-Esteem: A Retrospective Study Com-
+paring Adolescent Girls and Boys after Cosmetic Surgery. Aesthetic Plastic Surgery, 
+31, 739-745. https://doi.org/10.1007/s00266-006-0133-5 
+[13]  Noguti, J., De Moura, C.F.G., De Jesus, G.P.P., Da Silva, V.H.P., Hossaka, T.A., 
+Oshima, C.T.F. and Ribeiro, D.A. (2012) Metastasis from Oral Cancer: An Over-
+view. Cancer Genomics and Proteomics, 5, 329-335. 
+[14]  Cash, T.F. and Fleming, E.C. (2002) The Impact of Body-Image Experiences: De-
+velopment of the Body Image Quality of Life Inventory. International Journal of 
+Eating Disorders, 31, 455-460. https://doi.org/10.1002/eat.10033 
+[15]  Rankin, M., Borah, G.L., Perry, A.W. and Weyi, P.D. (1998) Quality of Life Out-
+comes after Cosmetic Surgery. Plastic Reconstruct Surgery, 102, 2139-2145.  
+https://doi.org/10.1097/00006534-199811000-00053  
+[16]  Wright, S., Yelland, M., Heathcote, K., Ng, S.K. and Wright, G. (2009) Fear of 
+Needles, Nature and Prevalence in General Practice. Australian Family Physician, 
+38, 172-176. 
+[17]  Sperry, S., Thompson, J.K., Sarwer, D.B. and Cash, T.F. (2009) Cosmetic Surgery 
+Reality TV Viewership: Relations with Cosmetic Surgery Attitudes, Body Image, 
+and Disordered Eating. Annals of Plastic Surgery, 62, 7-11.  
+https://doi.org/10.1097/SAP.0b013e31817e2cb8 
+[18]  American Psychiatric Association (2013) Diagnostic and Statistical Manual of Mental 
+Disorders. 5th Edition, APA, Washington, DC.  
+[19]  Garner, D.M. (2004) Eating Disorder Inventory-3 Professional Manual. Psycholog-
+ical Assessment Resources, Odessa, FL. 
+[20]  Nair, B.P. and Baboo, G. (2017) Effect of Cosmetic Surgery on Body Image and 
+Body Image Specific Quality of Life. Journal of the Indian Academy of Applied 
+Psychology, 43, 157-161. 
+[21]  Burke, N.L., Schaefer, L.M. and Thompson, J.K. (2012) Body Image. In: Ramachan-
+dran, V.S., Eds., Encyclopedia of Human Behaviour, Academic Press, New York.  
+https://doi.org/10.1016/B978-0-12-375000-6.00066-5 
+[22]  Soesta, T.V., Kvaleme, I.L., Roldb, H.E. and Skolleborg, K.C. (2009) The Effects of 
+Cosmetic Surgery on Body Image, Self-Esteem, and Psychological Problems. Inter-
+national Journal of Surgical Reconstruction, 62, 1238-1244.  
+[23]  Botton, M.A., Pruzinsk, T., Cash, T.F. and Persing, J.A. (2003) Measuring Out-
+comes in Plastic Surgery: Body Image and Quality of Life in Abdominoplasty Pa-
+tients. Plastic and Reconstructive Surgery, 112, 619-625.  
+https://doi.org/10.1097/01.PRS.0000070972.57000.08 
+[24]  Roberts, M. (2014) Stem Cell Transplant Death What Went Wrong. Health Editor, 
+BBC News Online. http://www.bbc.com/news/health-30194504  
+ 
+ 
+ 
+DOI: 10.4236/ojrm.2018.71001  17  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE

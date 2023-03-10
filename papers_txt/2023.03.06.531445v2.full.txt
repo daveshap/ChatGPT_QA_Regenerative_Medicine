@@ -1,0 +1,890 @@
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531445; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY 4.0 International license.
+PERK-mediated induction of miR-5p and miR-3p arms of 
+1 
+miR-616 regulates cell growth by targeting c-MYC 
+2 
+ 
+3 
+4   
+5  Afrin Sultana1(cid:0), Ananya Gupta2 and Sanjeev Gupta1* 
+6    
+7   
+8  1 Discipline of Pathology, School of Medicine, Clinical Science Institute, Lambe Institute for 
+9  Translational Research, University of Galway, Galway, Ireland 
+10  2 Discipline of Physiology, School of Medicine, University of Galway, Galway, Ireland 
+11   
+12  *Corresponding author 
+13  Email: sanjeev.gupta@universityofgalway.ie  
+14   
+15   
+16  Keywords: unfolded protein response, ER stress, miR-616, c-MYC, breast cancer 
+17   
+18   
+19   
+20   
+21   
+22   
+23   
+24   
+25   
+26   
+27   
+28   
+29   
+30   
+1 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531445; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY 4.0 International license.
+ABSTRACT 
+31 
+32  C/EBP  homologous  protein  (CHOP),  also  known  as  DNA  damage-inducible  transcript  3 
+33  (DDIT3), is a member of CCAAT/enhancer-binding protein (C/EBP) family. The expression of 
+34  CHOP is upregulated during unfolded protein response (UPR), and sustained CHOP activity 
+35  plays an important role in UPR-induced apoptosis. MicroRNA-616 is localized in an intron of 
+36  the CHOP gene. However, regulation of miR-616 expression during UPR and its function in 
+37  breast cancer is not clearly understood. We show that miR-5p/-3p arms of miR-616 are 
+38  expressed  with  levels  of  5p  arm  higher  than  3p  arm.  During  conditions  of  UPR,  the 
+39  expression  of  miR-5p  and  miR-3p  arms  of  miR-616  and  its  host  gene  (CHOP)  was 
+40  concordantly  increased  primarily  in  a  PERK-dependent  manner.  We  show  that  ectopic 
+41  expression of miR-616 significantly suppressed cell growth and colony formation, whereas 
+42  knockout of miR-616 increased it. We identified that MYC proto-oncogene (c-MYC) gene is 
+43  repressed during the UPR and targeted by miR-616. Further, we show that expression of 
+44  miR-616 and CHOP is downregulated in human breast cancer, where expression of miR-616 
+45  was associated with poor overall survival (OS) in luminal A subtype and better OS HER2 
+46  subtype of breast cancer. In summary, our results suggest a dual function for the DDIT3 
+47  locus, where CHOP protein and miR-616 can co-operate to regulate cancer progression.  
+48   
+49    
+50   
+51   
+52   
+53   
+54   
+55   
+2 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531445; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY 4.0 International license.
+INTRODUCTION 
+56 
+57  The endoplasmic reticulum (ER) is a crucial cellular organelle that plays important role in 
+58  folding and maturation of proteins that transit through the secretory pathway. Stimuli that 
+59  compromise the protein handling capacity of the ER activate an evolutionarily conserved 
+60  pathway known as unfolded protein response (UPR). Three major sensor molecules that 
+61  initiate the UPR are activating transcription factor 6 (ATF6), inositol-requiring enzyme 1α 
+62  (IRE1) and protein kinase RNA-like endoplasmic reticulum kinase (PERK) (1). During resting 
+63  state the activity of PERK, IRE1 and ATF6 is kept under control by interaction with ER 
+64  chaperone glucose-regulated protein 78 (GRP78); however, upon accumulation of misfolded 
+65  proteins in ER, GRP78 dissociates from these molecules, leading to their activation (2). Upon 
+66  dissociation  with  GRP78,  IRE1  auto-phosphorylates  and  oligomerizes  leading  to  the 
+67  activation of its endoribonuclease domain present in the cytosolic domain. Active IRE1 
+68  catalyses the unconventional splicing of XBP1 mRNA and regulated IRE1-dependent decay of 
+69  transcripts (RIDD) (3). While splicing of XBP1 mRNA is an adaptive response to UPR, RIDD 
+70  has many context dependent outcomes (3). ATF6 is a transmembrane protein located in the 
+71  ER membrane with an N-terminus cytoplasmic domain containing a DNA-binding motif and 
+72  a C-terminus ER-luminal domain that interacts with GRP78 (4). During UPR, ATF6 is relocates 
+73  from the ER to the Golgi compartment. In the Golgi, ATF6 is processed by intramembranous 
+74  proteolysis causing the release of the transcriptionally active N-terminal cytosolic domain, 
+75  p50ATF6 (5). During UPR, active PERK phosphorylates eukaryotic initiation factor 2α (eIF2α), 
+76  causing reduced translation initiation for a majority of cellular proteins and preferential 
+77  translation of a subset of mRNAs including activating transcription factor 4 (ATF4) (6, 7). 
+78  Phosphorylation of eIF2α leads to general translational block and preferential translation of 
+3 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531445; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY 4.0 International license.
+79  a subset of mRNAs including activating transcription factor 4 (ATF4) (7). Phosphorylation of 
+80  NRF2 by PERK attenuates Keap1-mediated degradation of NRF2 and promotes expression of 
+81  NRF2-target genes through the antioxidant response elements (ARE) (6). The increased 
+82  protein handling capacity of the ER and degradation of unfolded proteins induced by UPR 
+83  attempts to restore the protein homeostasis and increase cell survival. However, if UPR-
+84  induced mechanisms fail to alleviate ER stress, UPR activates apoptosis.  
+85   
+86  MicroRNAs (miRNAs) are small (~20–23 nucleotide) single-stranded RNA molecules that 
+87  regulate gene expression in a sequence-specific manner (8). The increased expression of 
+88  miR-616 has been reported in androgen-independent prostate cancer (9, 10), gastric cancer 
+89  (11), non-small cell lung cancer (NSCLC) (12), hepatocellular carcinoma (HCC)  (13) and 
+90  gliomas (14). MiR-616 targets tissue factor pathway inhibitor (TFPI-2) in prostate cancer (9); 
+91  PTEN in HCC and gastric cancer (15); SOX7 in glioma and NSCLC (14). However, miR-616-3p 
+92  has been reported to reduce XIAP expression and potentiate apoptosis in HUVECs (16). 
+93  LINC01614 promotes head and neck squamous cell carcinoma progression via PI3K/AKT 
+94  signalling  pathway  and  miR-616-3p  can  inhibit  cancer  progression  by  downregulating 
+95  LINC01614 expression (17). Ye et al. reported that miR-616-3p inhibited cell growth and 
+96  mammosphere  formation  of  breast  cancer  cells  by  suppressing  GLI1  (18),  while  Yuan 
+97  reported that miR-616-3p promoted breast cancer cell migration and invasion by targeting 
+98  TIMP2 and regulating MMP signalling (19). Overall, these observations suggest that miR-616 
+99  exhibits  both  oncogenic  and  tumour  suppressor  functions  in  context-  and/or  tissue-
+100  dependent manner. Additional studies are warranted to further investigate the role of miR-
+101  616 in human cancers. 
+102   
+4 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531445; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY 4.0 International license.
+103  During the past few years, work from several groups has revealed that all three branches of 
+104  the UPR regulate specific subsets of miRNAs (20, 21, 22, 23). The modes of regulation 
+105  include both increase and decrease in expression by UPR-regulated transcription factors 
+106  such as ATF6, XBP1, ATF4 and NRF2 as well as degradation by RIDD activity. The key feature 
+107  of UPR-dependent miRNA expression is fine tuning of the ER homeostasis to modulate 
+108  cellular adaptation to stress and regulation of cell fate. The gene encoding miRNA-616 is 
+109  located in the second intron of CHOP/DDIT3. This genomic co-location of miR-616 with 
+110  CHOP/DDIT3 suggests a role for miR-616 in UPR. Indeed, increased expression of miR-616 
+111  has been reported during conditions of UPR (24, 25). Hiramatsu et al., focused on the 
+112  expression of miR-616-5p  (24) while Arabkari focused on the expression of miR-616-3p (25). 
+113  Here we have evaluated the expression of both miR-5p/-3p arms of miR-616 as well its host 
+114  gene (CHOP) during conditions of UPR. 
+115   
+116  We show that expression level of miR-616-5p was higher than miR-616-3p in human cancer 
+117  cells and tissues. During conditions of UPR, the expression of both miR-5p/-3p arms of miR-
+118  616 and CHOP was increased in a PERK-dependent manner. Our results show that miR-616 
+119  regulates cell  growth and proliferation along with regulation of c-MYC expression. We 
+120  identified that MYC proto-oncogene (MYC) gene is repressed during the UPR and targeted 
+121  by miR-616. Finally, we show that expression of miR-616 and CHOP (host gene of miR-616) 
+122  is  reduced  in  human  breast cancer.  In summary,  our  results  suggest that  CHOP  locus 
+123  generates  two  gene  products,  where  CHOP  protein  and  miR-616  can  act  together  to 
+124  regulate cancer progression.  
+125   
+METHODS 
+126 
+5 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531445; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY 4.0 International license.
+127  Cell culture and treatments - Human breast cancer cells (MCF7 and BT474) were purchased 
+128  from ECACC. HCT116 cells were kind gift from Dr. Victor E. Velculescu, Johns Hopkins 
+129  University, USA. HEK 293T cells were gift from Indiana University National Gene Vector 
+130  Biorepository. The MCF7, BT474 and HEK 293T cells were maintained in Dulbecco’s modified 
+131  eagle’s medium. HCT116 cells were maintained in McCoy’s 5A modified. The medium was 
+132  supplemented with 10% heat inactivated foetal bovine serum (FBS) and 100 U/ml penicillin 
+133  and 100 μg/ml streptomycin with 5% CO2 at 37°C. Thapsigargin (Cat # 1138) and BFA (Cat # 
+134  1231) were purchased from Tocris Bioscience. All reagents were purchased from Sigma-
+135  Aldrich unless otherwise stated.  
+136   
+137  Plasmid constructs - miExpressTM precursor miRNA expression clones, miR-CTRL and miR-
+138  616 (pEZX-MR03 vector) were sourced from GeneCopoeia, Rockville, MD, USA. The lentiviral 
+139  plasmids pLV [CRISPR]-hCas9:T2A: Puro-U6>mir-616 expressing hCas9 protein and miR-616 
+140  targeting gRNA were obtained from VectorBuilder Inc, Chicago, IL, USA.  The sequences of 
+141  two miR-616 targeting gRNAs are 5’-GGAAATAGGAAGTCATTGGA-3’ and 5’-
+142  GTGTCATGGAAGTCACTGAA-3’. PCDH-Flag-c-MYC was a gift from Hening Lin (Addgene 
+143  plasmid # 102626; http://n2t.net/addgene:102626; RRID: Addgene_102626). 
+144   
+145  Generation of stable cell lines – MCF7 cells were transduced with lentiviruses to generate 
+146  stable miR-616 overexpressing and miR-616 knockout sub-clones. Lentivirus was generated 
+147  by transfecting lentiviral plasmids along with packaging plasmids in 293T cells using jetPEI 
+148  transfection reagent as described previously (26).  
+149   
+6 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531445; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY 4.0 International license.
+150  RNA extraction, Reverse transcription reaction and real time quantitative PCR - Total RNA 
+151  was isolated using Trizol (Life Technologies) according to the manufacturer's instructions. 
+152  RPLP0 and GAPDH (for mRNAs) and U6 SnRNA (for miRNAs) were used as a reference genes 
+153  to determine the relative expression level of target genes between treated and control 
+154  samples using △△Ct method. 
+155   
+156  Colony formation assay - The cells were plated in 6 well plates and were grown for 14 days. 
+157  After 14 days, cells were washed twice with PBS and fixed with 10% formaldehyde for 5 
+158  minutes and stained with 0.5 % crystal violet for 10 minutes. The number of colonies were 
+159  counted in five random view fields under a microscope and average number of colonies was 
+160  determined. Colony size was determined using Image J software. 
+161   
+162  X-CELLigence cell proliferation assay - xCELLigence experiments were performed using the 
+163  Real-Time Cell Analyzer (RTCA) Dual Plate (DP) instrument according to the manufacturer’s 
+164  instructions (Agilent.com). Briefly, instrument-specific specially designed gold 
+165  microelectrodes fused microtiter 16-well cell culture plate (0.2 cm2 well surface area; 250 µl 
+166  volume per well) was used to monitor the real-time changes expressed as Cell index (CI). 
+167  Cell Index is defined as (Rn−Rb)/15 where Rn is the cell–electrode impedance of the well 
+168  with the cells and Rb is the background impedance of the well with the medium alone. The 
+169  background impedance was measured by adding 50 µl of medium to each well of the E-Plate 
+170  before seeding the cells. After seeding (2500 cells/well), the E-plate was incubated at room 
+171  temperature for 30 min and then transferred to the instrument. Cell proliferation was 
+172  monitored every 15 min for 50 h. 
+173   
+7 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531445; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY 4.0 International license.
+174  Western blot analysis - Western blotting procedure has been described previously. After 
+175  blocking with specific solution nitrocellulose membranes were treated with specific primary 
+176  antibodies including c-MYC (Santa Cruz Biotechnology Cat# sc-40), ERα (Merck Millipore  
+177  Cat# 2828587) and β-Actin (Sigma, Cat# A-5060) at 4°C for overnight. After washing three 
+178  times with PBS/0.05%Tween solution, the membranes were incubated with appropriate 
+179  secondary antibody at room temperature for 2 hours. The membranes were then washed 
+180  twice with PBS/0.05%Tween and once with PBS and finally the signals were detected using 
+181  Western Lightening chemiluminescent substrate (Perkin Elmer, Netherlands, Cat 
+182  #NEL104001EA). 
+183   
+184  Statistical Analysis - The GraphPad was used for statistical analysis and generating graphs. 
+185  Two-tailed unpaired t-test was performed to determine statistically significant differences 
+186  between independent groups. Results with a p<0.05 were considered statistically significant.  
+187   
+Results  
+188 
+Expression of miR-616-5p is higher than miR-616-3p  
+189 
+190  Several miRNAs are located within the introns of either protein coding or non-coding genes, 
+191  and are referred to as intronic miRNAs (27). The genes which harbour these miRNAs are 
+192  embedded are called host genes. MiR-616 is an intronic miRNA localized in the first intron of 
+193  DDIT3 gene (Fig 1A). Both the 5’ and 3’ arms of the precursor duplex can generate mature 
+194  miRNAs,  and  are  referred  to  as  miRNA-5p  and  -3p  (27,  28).  The  miRBase 
+195  (http://www.mirbase.org) (29) has discontinued the use of miRNA/miRNA* nomenclature 
+196  and use of miR-5p and miR-3p nomenclature (30), based solely on 5’- or 3’-arm derivation of 
+8 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531445; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY 4.0 International license.
+197  the mature miRNA is now recommended. The sequences of mature miR-616, accession 
+198  numbers  and  the  previous  names  of  miR-616-5p  and  -3p  as  per  miRNA/miRNA* 
+199  nomenclature are shown in Fig 1B. Indeed, both 5p and 3p arms of miR-616 have been 
+200  shown to be expressed in human cancers (11, 31). Next we evaluated the expression of miR-
+201  616-5p and miR-616-3p in human cancers. Initially expression of miR-616-5p and miR-616-
+202  3p was determined in various human cancer cell lines by qRT-PCR. We observed that 
+203  endogenous expression of miR-616-5p was higher than miR-616-3p in all the cell lines tested 
+204  (Fig 1C). Next we analysed the expression of miR-616-5p and miR-616-3p in the TCGA 
+205  dataset from different human cancers using OncomiR (http://www.oncomir.org), a web-
+206  based tool for miRNA expression analysis. We observed a higher expression of miR-616-5p 
+207  as compared to miR-616-3p in all the cancer types evaluated (Fig 2). Of note the ratio of 
+208  miR-616-5p  and  miR-616-3p  expression  varied  considerably  across  the  different  tissue 
+209  types. These results suggest that both 5p and 3p arms of miR-616 are expressed where miR-
+210  616-5p accumulates at higher levels than miR-616-3p but their ratio is controlled in tissue-
+211  specific manner. 
+212   
+213  Fig 1. Basal expression of miR-616-5p and miR-616-3p in human cancer cell lines. (A) 
+214  Schematic representation of the CHOP locus is shown. The exons are shown in blue and gray 
+215  line between them represents intron. The miR-616 is located in the first intron. The arrows 
+216  show the direction of transcription of the gene. The protein coding regions are shown in 
+217  dark blue and untranslated regions are shown in light blue. (B) The name, accession number 
+218  and sequence of miR-616-5p and 3p are shown. (C) Total RNA from indicated cells was used 
+219  to determine the expression of miR-616-5p and miR-616-3p by qRT-PCR and normalised 
+220  against RNU6. Expression of miR-616-3p in MCF7 cells was arbitrarily set at 1. Error bars 
+221  represent mean ±S.D. from three independent experiments performed in triplicate. *P < 
+222  0.05, two-tailed unpaired t-test compared to miR-616-3p in MCF7 cells.  
+223   
+224  Fig 2.  Expression of miR-616-5p and miR-616-3p in human cancers. Web-based algorithm 
+225  at (http://www.oncomir.org/) was used to assess the expression of miR-616-5p and miR-
+226  616-3p. Log2 mean expression of miR-616-5p and 3p in indicated cancer types is shown.  (N 
+227  = number samples in each cancer type). ACC: adrenocortical carcinoma; BLCA: bladder 
+9 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531445; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY 4.0 International license.
+228  urothelial carcinoma; BRCA: breast invasive carcinoma; CESC: cervical squamous cell 
+229  carcinoma and endocervical adenocarcinoma; CHOL: cholangiocarcinoma; COAD: colon 
+230  adenocarcinoma; ESCA: esophageal carcinoma; HNSC: head and neck squamous cell 
+231  carcinoma; KICH: kidney chromophobe; KIRC: kidney renal clear cell carcinoma; KIRP: kidney 
+232  renal papillary cell carcinoma; LGG: brain lower grade glioma; LIHC: liver hepatocellular 
+233  carcinoma; LUAD: lung adenocarcinoma; LUSC: lung squamous cell carcinoma; MESO: 
+234  mesothelioma; OV: ovarian serous cystadenocarcinoma; PAAD: pancreatic 
+235  adenocarcinoma; PCPG: pheochromocytoma and paraganglioma; PRAD: prostate 
+236  adenocarcinoma; READ: rectal adenocarcinoma; SARC: sarcoma; SKCM: skin cutaneous 
+237  melanoma; STAD: stomach adenocarcinoma; TGCT: testicular germ cell tumours; THCA: 
+238  thyroid carcinoma; THYM: thymoma; UCEC: uterine corpus endometrial carcinoma; UCS: 
+239  uterine carcinosarcoma; UVM: uveal melanoma 
+240   
+241   
+Increased expression of miR-616-5p and miR-616-3p during UPR 
+242 
+243  It was initially proposed that intronic miRNAs are derived from the same primary transcript 
+244  as  their  host genes  thereby  leading  to  co-expression  and co-regulation  of  miRNA  and 
+245  cognate host gene (27). Analysis of expression of 175 miRNAs and their host genes across 
+246  twenty four different human organs reported a significantly correlated expression profile 
+247  (32). Recent evidence however, shows significant discordant expression between intronic 
+248  miRNAs and host genes. Two likely explanations for this discordant expression are:  (i) 
+249  miRNAs have their own independent promoters and (ii) crosstalk between microprocessor 
+250  cleavage and mRNA splicing (33, 34). Next, we evaluated the co-regulation of miR-616 and 
+251  its host gene (CHOP) during conditions of UPR. MCF7, BT474 and HCT116 cells were either 
+252  treated or untreated with thapsigargin (TG) or Brefeldin A (BFA) for 24 hours and expression 
+253  of CHOP, miR-616-5p and miR-616-3p was determined. The expression level of CHOP, miR-
+254  616-5p and miR-616-3p was upregulated in all three cell lines tested, during ER stress (Fig. 
+255  3A-C). Next we investigated the role of ATF6, PERK and IRE1, three key mediators of the UPR 
+256  in upregulation of miR-616 expression. For this purpose, we used MCF7 control (MCF7 
+257  PLKO) and knockdown of UPR  sensors (MCF7 XBP1-KD, MCF7 PERK-KD and MCF7 ATF6-KD) 
+258  sub-clones of MCF7 (35). We found that BFA-induced increase in the expression of CHOP, 
+10 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531445; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY 4.0 International license.
+259  pri-miR-616, miR-616-5p and miR-616-3p was attenuated in PERK-knockdown sub-clones of 
+260  MCF7 (Fig 4A), whereas knockdown of ATF6 or XBP1 had no significant effect (Fig 4B-C). 
+261  These results suggest that miR-616 is co-transcribed along with the CHOP transcript and 
+262  attenuated PERK signalling compromised the induction of CHOP mRNA, pri-miR-616, miR-
+263  616-5p and miR-616-3p during UPR.  
+264   
+265  Fig 3. Upregulation of miR-616 (5p and 3p) and its host gene CHOP during UPR. (A) MCF7 
+266  cells, (B) BT474 cells and (C) HCT116 cells were treated with (1 µM) TG or (0.5 μg/ml) BFA 
+267  for 24 hours. Expression of CHOP was quantified by RT-qPCR, normalized using RPLP0. The 
+268  expression level of miR-616 -5p and -3p was quantified by RT-qPCR, normalized using U6 
+269  snRNA. Error bars represent mean ±S.D. from three independent experiments performed in 
+270  triplicate. *P < 0.05, two-tailed unpaired t-test as compared to untreated control. 
+271   
+272  Fig 4. Upregulation of miR-616 during ER stress is dependent on PERK pathway. (A-C) 
+273  MCF7 PLKO, MCF7 XBP1-KD, MCF7 PERK-KD and MCF7 ATF6-KD sub-clones were treated 
+274  with (0.5 µg/ml) BFA for 24 hours. Expression level of CHOP and pri-miR-616 was quantified 
+275  by RT-qPCR, normalizing against RPLP0. The expression level of miR-616 -5p and -3p was 
+276  quantified by RT-qPCR, normalized using U6 snRNA. *P<0.05, **P < 0.001, two-tailed 
+277  unpaired t-test. N.S not significant. 
+278   
+MiR-616 targets c-MYC and reduces cell proliferation of breast cancer cells 
+279 
+280  Ye et al. reported that ectopic expression of miR-616-3p inhibited growth of MDA-MB231 
+281  cells while Arabkari did not find any effect of miR-616 overexpression in MDA-MB231 cells 
+282  (18) (25). Further, Yuan reported that miR-616-3p promoted growth and migration of MCF7 
+283  cells in contrast to Arabkari, who reported a decrease in growth and migration of miR-616 
+284  expressing  MCF7  cells    (19)  (25). This could  be  due  to  different  approaches  used  for 
+285  overexpression of miRNAs. Next, we used gain-of-function (overexpression) and loss-of-
+286  function (CRISPR-Cas9 KO) approaches in MCF7 cells to study the role of miR-616 in breast 
+287  cancer. To better mimic the in vivo scenario we decided to use a lentiviral system for 
+288  modulating the expression of both miR-616-5p and -3p concurrently. For this purpose, 
+11 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531445; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY 4.0 International license.
+289  MCF7 cells were transduced with lentivirus expressing GFP along with miR-616 or Cas-9 
+290  along with gRNAs targeting miR-616. The expression of pri-miR-616, miR-616-5p and miR-
+291  616-3p  was  determined  in  miR-616-overexpressing  (MCF7-miR-616-OE)  and  miR-616-
+292  knockout (MCF7-miR-616-KO) sub-clones of MCF7. As expected, the levels of pri-miR-616, 
+293  miR-616-5p and miR-616-3p were increased in MCF7-miR-616-OE sub-clone (Fig. 5A) and 
+294  decreased  in  MCF7-miR-616-KO  sub-clone  (Fig.  5E).  The  MCF7-miR-616-KO  sub-clone 
+295  displayed hypomorphic phenotype with partial reduction in expression of pri-miR-616, miR-
+296  616-5p and miR-616-3p. The miR-616 overexpressing (MCF7-miR-616-OE) sub-clone showed 
+297  significantly decreased cell growth (Fig. 5B), while the miR-616 knockout (MCF7-miR-616-
+298  KO) sub-clone showed increased cell growth (Fig. 5F). This observation was further validated 
+299  by colony formation assay. The miR-616 overexpressing (MCF7-miR-616-OE) sub-clone of 
+300  MCF7 cells showed decrease in the number and size of the colonies (Fig. 5C-D) but miR-616 
+301  knockout (MCF7-miR-616-KO) sub-clone showed an increase in the number and size of the 
+302  colonies (Fig. 5G-H).  We found that expression of c-MYC mRNA and protein was reduced 
+303  miR-616 overexpressing (MCF7-miR-616-OE) sub-clone of MCF7 cells (Fig. 6 A and C) and 
+304  increased in miR-616 knockout (MCF7-miR-616-KO) sub-clone (Fig. 6 B and C). Our results 
+305  are in agreement with an earlier report where ectopic expression of miR-616 was shown to 
+306  inhibit growth of MCF7 cells accompanied by reduced expression of c-MYC (25). Since an 
+307  inverse  relationship  between  the  levels  of  expression  of  a  miRNA  and  its  target  is 
+308  anticipated, we evaluated expression of c-MYC during conditions of UPR. We found the 
+309  expression of c-MYC mRNA was decreased in MCF7 (Fig. 7A) and BT474 (Fig. 7B) cells 
+310  treated either with TG or BFA. Furthermore, expression of c-MYC protein was decreased in 
+311  MCF7 and BT474 cells upon treatment with BFA (Fig. 7C). These results suggest a role for 
+312  miR-616 in regulation of c-MYC expression during conditions of UPR. 
+12 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531445; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY 4.0 International license.
+313  Fig 5.  MiR-616 reduces the proliferation of MCF7 cells.  (A) The expression of miR-616-3p, 
+314  miR-616-5p and pri-miR-616 is shown in MCF7-miR-CTRL and MCF7-miR-616-OE sub-clones 
+315  of MCF7. (B) MCF7-miR-CTRL and MCF7-miR-616-OE cells were plated and cell growth was 
+316  determined by x-CELLigence. (C-D) MCF7-miR-CTRL and MCF7-miR-616-OE cells were plated 
+317  in 6- well plate (1000 cells/well) and grown for 14 days. (C) Colonies stained with crystal 
+318  violet are shown. (D) Quantification of number of colonies for MCF7-miR-CTRL and MCF7-
+319  miR-616-OE cells is shown. (E) The expression of miR-616-3p, miR-616-5p and pri-miR-616 is 
+320  shown in MCF7-Cas9-CTRL and MCF7-miR-616-KO sub-clones of MCF7. (F) MCF7-Cas9-CTRL 
+321  and MCF7-miR-616-KO cells were plated and cell growth was determined by x-CELLigence. 
+322  (G-H) MCF7-Cas9-CTRL and MCF7-miR-616-KO cells were plated in 6-well plate (1000 
+323  cells/well) and grown for 14 days. (G) Colonies stained with crystal violet are shown. (H) 
+324  Quantification of number of colonies for MCF7-Cas9-CTRL and MCF7-miR-616-KO cells is 
+325  shown.    
+326   
+327   
+328  Fig 6. MiR-616 regulates the expression of c-MYC. (A-B) Expression level of c-MYC mRNA is 
+329  shown in miR-616 knockout and miR-616 overexpressing sub-clones of MCF7 cells as 
+330  determined by qRT-PCR. Error bars represent mean ± S.D. from two independent 
+331  experiments performed in triplicate. *P < 0.05, two-tailed unpaired t-test as compared to 
+332  control. (C) The expression level of c-MYC protein is shown in miR-616 knockout and miR-
+333  616 overexpressing sub-clones of MCF7 cells. 
+334   
+335  Fig 7. Downregulation of c-MYC during UPR in breast cancer cells. (A) MCF7 cells and (B) 
+336  BT474 cells were treated with (1 µM) TG or (0.5 μg/ml) BFA for 24 hours. Expression of c-
+337  MYC was quantified by RT-qPCR, and normalized using RPLP0. Error bars represent mean 
+338  ±S.D. from three independent experiments performed in triplicate.  (C) MCF7 BT474 cells 
+339  were treated with (0.5 μg/ml) BFA for indicated time points. Western blotting of total 
+340  protein was performed using antibodies for c-MYC and actin.   Representative Immunoblot 
+341  and quantification of c-MYC expression normalised to actin are shown (n=3). *P < 0.05, two-
+342  tailed unpaired t-test as compared to the untreated control. 
+343   
+MiR-616 modulates the expression of c-MYC via site in the ORF  
+344 
+345  To  determine  the  mechanism  of  c-MYC  regulation  by  miR-616,  we  used  several 
+346  bioinformatics tools to search for the potential miR-616 binding sites in the reference 
+347  sequence  of  c-MYC.  TargetScan  (36)  did  not  identify  miR-616  binding  sites  in  c-MYC. 
+348  Interestingly, RNAhybrid identified non-canonical miR-616-5p binding sites (at position 77, 
+349  2501 and 3076 bp) and miR-616-3p binding sites (at position 614, 917 and 1525 bp) of c-
+350  MYC reference Sequence (NM_002467.6) (S1 Fig). Furthermore, (miRWALK and RNAhybrid) 
+13 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531445; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY 4.0 International license.
+351  picked an identical, non-canonical miR-616-3p binding site in the protein-coding region 
+352  (364-1728 bp) of c-MYC at position 1525 bp (Fig. 8A-B). To test whether miR-616 down-
+353  regulates  c-MYC  via  this  site  in  coding  region,  we  co-transfected  293T  cells  with  an 
+354  expression vector containing the ORF of c-MYC and miR-616 plasmid. Cell lysates were 
+355  collected after 24 h and  analysed by immunoblotting. Our results showed that c-MYC 
+356  protein level was strongly down-regulated by co-expression of miR-616 (Fig. 8C). Under 
+357  similar conditions, co-expression of miR-616 had no effect on protein level of ERα (protein 
+358  coding region of ERα has no predicted binding sites for miR-616) (Fig. 8D). Further, co-
+359  expression of miR-4726 (miRNA that lacks binding sites in the protein coding region of c-
+360  MYC) and c-MYC had no effect on c-MYC protein level (Fig. 8E). Taken together these results 
+361  suggest  that  miR-616  regulates  the  expression  of  c-MYC  most  likely  via  the  miR-616 
+362  response elements present in its protein coding region. 
+363   
+364  Fig 8. Identification of a miR-616-3p-binding sites in the ORF of c-MYC.  Binding site for 
+365  miR-616-3p identified by (A) miRWALK and (B) RNAhybrid in protein coding region of c-MYC 
+366  reference sequence is shown. The secondary structure of miRNA-mRNA duplex is shown 
+367  with miR-616-3p in green and c-MYC mRNA in red. mfe: minimum free energy. (C) 293T cells 
+368  were transfected with plasmid containing c-MYC ORF in absence and presence of miR-616 
+369  plasmid. (D) 293T cells were transfected with plasmid containing ERα ORF in absence and 
+370  presence of miR-616 plasmid. (E) 293T cells were transfected with plasmid containing c-MYC 
+371  ORF in absence and presence of miR-4726 plasmid. Western blotting of total protein was 
+372  performed using the indicated antibodies. 24 h post-transfection western blotting of total 
+373  protein was performed using the indicated antibodies. 
+374   
+Prognostic value of the miR-616 in human cancers  
+375 
+376  We assessed the prognostic value of miR-616 in different cancer types using KM plotter. We 
+377  found that expression of miR-616 was associated with longer overall survival (OS) in cervical 
+378  squamous cell carcinoma, Head-neck squamous cell carcinoma, uterine corpus endometrial 
+379  carcinoma and Thymoma (S2 Fig). Surprisingly, the increased expression of miR-616 was 
+14 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531445; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY 4.0 International license.
+380  associated  with  shorter  OS  in  esophageal  adenocarcinoma,  sarcoma,  renal  clear  cell 
+381  carcinoma, lung squamous cell carcinoma and hepatocellular carcinoma (S2 Fig). Next, we 
+382  used TNMplot to determine the expression of CHOP and miR-616 in normal and tumour 
+383  tissue samples of breast. We found that expression of CHOP and miR-616 was reduced in 
+384  tumour samples as compared to tumour adjacent normal tissue (Fig 9A-B). Further, the 
+385  expression of miR-616 was associated with poor OS in luminal A subtype and better OS 
+386  HER2 subtype of breast cancer (Fig 9C). 
+387  Fig 9. Prognostic value of miR-616 in subtypes of breast cancer. TNMplot 
+388  (https://tnmplot.com/analysis/) was used to determine the expression of CHOP and miR-
+389  616 in human breast cancer. (A) Box plot for expression of CHOP in tumour (n=1097) and 
+390  normal (n=403) tissues for human breast cancers is shown. (B) Box plot for expression of 
+391  miR-616 in paired tumour (n=112) and tumour adjacent normal (n=112) for human breast 
+392  cancers is shown. (C) KM Plotter (https://kmplot.com/) was used to determine the 
+393  association of miR-616 with overall survival (OS) in subtypes of breast cancer. 
+394   
+DISCUSSION 
+395 
+396  MiRNAs regulate the wide range of cellular processes because of their ability to alter post-
+397  transcriptional gene expression (37). We have evaluated the role of UPR regulated miRNA-
+398  616 in cell growth and proliferation. We have shown that expression of miR-616 and its host 
+399  gene (CHOP) is upregulated during ER stress in a PERK-dependent fashion (Fig 4). ER stress 
+400  and UPR activation contributes to the initiation and progression of human diseases, such as 
+401  cancer, neurodegenerative and cardiovascular disease (2, 38). We observed concordant 
+402  expression of the CHOP and the mature miR-616 which suggests their transcriptional co-
+403  regulation (Fig 3, 4).   Our results suggest a mechanism for increased expression of miR-616 
+404  in patho-physiological conditions where role of UPR is implicated. 
+405   
+15 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531445; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY 4.0 International license.
+406  Several studies have reported that miR-616 acts as a tumour promoting miRNA in human 
+407  cancers (11, 31, 39). However, our results show that miR-616 expression attenuates the 
+408  proliferation of MCF7 cells while reduced expression of miR-616 increases it (Fig 5). 
+409  Furthermore, we observed that expression of miR-616 was reduced in human breast 
+410  cancers as compared to tumour adjacent normal tissue (Fig 9). In agreement with our 
+411  results miR-616-3p has been shown to potentiate apoptosis in HUVECs (16),  inhibit head 
+412  and neck squamous cell carcinoma progression (17) and inhibit cell growth and 
+413  mammosphere formation of breast cancer cells (18, 25).  Any small RNA having G-rich 6mer 
+414  seed sequence (nt 2-7 of the guide strand) can reduce viability of cells when associated with 
+415  RNA-induced silencing complex. G-rich seed sequence mediates toxicity by targeting C-rich 
+416  seed matches in the 3] UTR of genes critical for cell survival referred to as Death Induced by 
+417  Survival gene Elimination (DISE) (30). A systematic study to evaluate DISE activity of all 4096 
+418  possible 6mer seed sequences in six cell lines (three human and three mouse) revealed the 
+419  mechanism underlying this toxicity and a web-based algorithm (https://6merdb.org) can 
+420  predict the activity of an RNA with a known 6mer seed (40). Analysis of seed sequences 
+421  from both 5p and 3p strands of miR-616 revealed that both strands can exhibit opposing 
+422  effects on viability in a cell-type dependent manner (S3 Fig). Interestingly, several miRNAs 
+423  belonging to miR-371-373 Cluster (hsa-miR-371a-5p, hsa-miR-371b-5p, hsa-miR-372-5p and 
+424  hsa-miR-373-5p) that share seed sequence with miR-616-5p, have been shown to reduce 
+425  the progression and metastasis of colon cancer (41) as well as induction of cell cycle arrest 
+426  (42). Taken together, these observations indicate the presence of context-dependent 
+427  oncogenic and tumour suppressive effects of miR-616 in human cancers. Indeed context-
+428  dependent tumour-promoting and tumour-suppressive role has been documented for 
+429  several miRNAs such as miR-17-92 cluster (43, 44). This cluster maps to a region frequently 
+16 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531445; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY 4.0 International license.
+430  amplified in Burkitt’s lymphoma, diffuse large B-cell lymphoma, follicular lymphoma and 
+431  lung cancer (26, 43). The expression of miR-17-92 is reduced in prostate cancer (17)  and 
+432  miR-17-92 expression in intestinal epithelial cells inhibited colon cancer progression by 
+433  suppressing tumour angiogenesis (17).  
+434   
+435  Studies on target recognition by miRNAs have shown that sequence complementarity at the 
+436  5' end of the miRNA, the so-called "seed region" at positions 2 to 7, is a main determinant 
+437  for target recognition (36). However, a perfect seed match of its own is not a good predictor 
+438  for miRNA regulation and a number of studies have shown that miRNA can regulate the 
+439  expression of target genes via the sites with a G: U wobble and/or mismatch in the seed 
+440  region (36). Further, a study using a cross-linking and immunoprecipitation method to 
+441  experimentally identify microRNA target sites in an unbiased manner has reported a 
+442  significant number of non-canonical sites (45, 46). Hence, presence of perfect seed 
+443  complementarity is not essential for regulation of target genes by miRNA. In addition, target 
+444  sites for endogenous miRNAs have been reported in ORFs and 5] UTRs, but they are less 
+445  frequent than those in the 3’ UTR (47, 48). We found a non-canonical miR-616-3p binding 
+446  site in the protein coding region of c-MYC transcript (Fig 8). Several studies have reported 
+447  the presence of miRNA-binding sites in the protein coding sequence of the genes. Indeed 
+448  miRNAs have been shown to regulate embryonic stem cell differentiation, DNA methylation, 
+449  regulation of apoptosis, aortic development, and tumour suppression via the functional 
+450  miRNA-binding sites in the protein coding sequence of the target genes (47, 48, 49). Several 
+451  studies have reported the upregulation of c-MYC in different cancer cells and tumours such 
+452  as neuroblastomas, lung, and breast cancer (50). The expression of c-MYC was 
+453  downregulated in miR-616 expressing and upregulated in miR-616 knockout MCF7 cells (Fig 
+17 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531445; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY 4.0 International license.
+454  6). These observations suggest that effects of miR-616 on cell growth are primarily mediated 
+455  by downregulation of c-MYC.  
+456   
+457  PERK has been shown to act as a haploinsufficient tumour suppressor, where the nature of 
+458  its function is determined by gene dose (51, 52). Transient pause in protein synthesis due to 
+459  eIF2α  phosphorylation  by  PERK  is  beneficial  by  reducing  secretory  load  in  the  ER. 
+460  Phosphorylation of NRF2 by PERK attenuates Keap1-mediated degradation of NRF2 and 
+461  promotes expression of anti-oxidant enzymes through the antioxidant response elements 
+462  (53, 54). PERK signalling can upregulate the CHOP/DDIT3 transcription factor, which inhibits 
+463  expression of the gene encoding anti-apoptotic BCL-2 to hasten cell death, in addition to 
+464  enhancing the expression of pro-apoptotic BCL-2 members such as BIM (54). Studies in both 
+465  cellular and animal models with CHOP gene deficiency have shed light on the pro-apoptotic 
+466  role of CHOP during cellular stress (54). Further, ectopic expression of CHOP was reported to 
+467  induce a G1 cell cycle arrest (55). CHOP maintains the integrity of the human hematopoietic 
+468  stem cell (HSC) pool by eliminating HSCs harbouring oncogenic mutations, and decrease the 
+469  risk  of  leukaemia.  CHOP  induction  triggers  apoptosis  of  premalignant  cells  to  prevent 
+470  malignant progression in a mouse lung cancer model. Hepatocyte-specific CHOP ablation 
+471  increased  tumourigenesis  in  high  fat  diet-induced  steatohepatitis  and  Hepatocellular 
+472  carcinoma (56, 57). CHOP has been shown to promote cancer progression, when fused with 
+473  FUS/TLS or EWS protein by genomic rearrangement (58, 59). The FUS-CHOP oncoprotein has 
+474  been shown to induce metastasis in in vivo model of sarcoma (58). Accumulating data 
+475  suggest that CHOP impinges upon several aspects of cancer including initiation as well as 
+476  progression of tumours (54). Our results show that miR-616 supressed cell growth of cancer 
+477  cells through suppressing c-MYC expression. Our results establish a new and unexpected 
+18 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531445; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY 4.0 International license.
+478  role for the CHOP locus by providing evidence that miR-616 can inhibit cell proliferation by 
+479  targeting c-MYC. 
+480   
+ACKNOWLEDGEMENTS 
+481 
+482  We are grateful to the Technical Officers and administrative team in Pathology, School of 
+483  Medicine at University of Galway, Ireland. 
+484   
+REFERENCES 
+485 
+486  1.  Hetz C, Zhang K, Kaufman RJ. Mechanisms, regulation and functions of the unfolded protein 
+487  response. Nat Rev Mol Cell Biol. 2020;21(8):421-38. 
+488  2.  Hetz C, Axten JM, Patterson JB. Pharmacological targeting of the unfolded protein response 
+489  for disease intervention. Nat Chem Biol. 2019;15(8):764-75. 
+490  3.  Barua D, Gupta A, Gupta S. Targeting the IRE1-XBP1 axis to overcome endocrine resistance 
+491  in breast cancer: Opportunities and challenges. Cancer Lett. 2020;486:29-37. 
+492  4.  Nadanaka S, Okada T, Yoshida H, Mori K. Role of disulfide bridges formed in the luminal 
+493  domain of ATF6 in sensing endoplasmic reticulum stress. Mol Cell Biol. 2007;27(3):1027-43. 
+494  5.  Yoshida H, Okada T, Haze K, Yanagi H, Yura T, Negishi M, et al. ATF6 activated by proteolysis 
+495  binds in the presence of NF-Y (CBF) directly to the cis-acting element responsible for the mammalian 
+496  unfolded protein response. Mol Cell Biol. 2000;20(18):6755-67. 
+497  6.  Cullinan SB, Zhang D, Hannink M, Arvisais E, Kaufman RJ, Diehl JA. Nrf2 is a direct PERK 
+498  substrate and effector of PERK-dependent cell survival. Mol Cell Biol. 2003;23(20):7198-209. 
+499  7.  Harding HP, Zhang Y, Bertolotti A, Zeng H, Ron D. Perk is essential for translational regulation 
+500  and cell survival during the unfolded protein response. Mol Cell. 2000;5(5):897-904. 
+501  8.  Ha M, Kim VN. Regulation of microRNA biogenesis. Nat Rev Mol Cell Biol. 2014;15(8):509-24. 
+502  9.  Ma S, Chan YP, Kwan PS, Lee TK, Yan M, Tang KH, et al. MicroRNA-616 induces androgen-
+503  independent growth of prostate cancer cells by suppressing expression of tissue factor pathway 
+504  inhibitor TFPI-2. Cancer Res. 2011;71(2):583-92. 
+505  10.  Zhang S, Zhang X, Chen G, Zheng X, Zhu X, Shan L. Hsa_circ_0007494 suppresses prostate 
+506  cancer progression via miR-616/PTEN axis. Exp Cell Res. 2020;395(2):112233. 
+507  11.  Wu ZH, Lin C, Liu CC, Jiang WW, Huang MZ, Liu X, et al. MiR-616-3p promotes angiogenesis 
+508  and EMT in gastric cancer via the PTEN/AKT/mTOR pathway. Biochem Biophys Res Commun. 
+509  2018;501(4):1068-73. 
+510  12.  Wang DX, Zou YJ, Zhuang XB, Chen SX, Lin Y, Li WL, et al. Sulforaphane suppresses EMT and 
+511  metastasis in human lung cancer through miR-616-5p-mediated GSK3β/β-catenin signaling 
+512  pathways. Acta Pharmacol Sin. 2017;38(2):241-51. 
+513  13.  Zhang D, Zhou P, Wang W, Wang X, Li J, Sun X, et al. MicroRNA-616 promotes the migration, 
+514  invasion and epithelial-mesenchymal transition of HCC by targeting PTEN. Oncol Rep. 
+515  2016;35(1):366-74. 
+516  14.  Bai QL, Hu CW, Wang XR, Shang JX, Yin GF. MiR-616 promotes proliferation and inhibits 
+517  apoptosis in glioma cells by suppressing expression of SOX7 via the Wnt signaling pathway. Eur Rev 
+518  Med Pharmacol Sci. 2017;21(24):5630-7. 
+19 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531445; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY 4.0 International license.
+519  15.  Fan MQ, Huang CB, Gu Y, Xiao Y, Sheng JX, Zhong L. Decrease expression of microRNA-20a 
+520  promotes cancer cell proliferation and predicts poor survival of hepatocellular carcinoma. J Exp Clin 
+521  Cancer Res. 2013;32(1):21. 
+522  16.  Chen H, Liu X, Wu Y, Wu X, Wen X, Lu Y, et al. Apoptosis in HUVECs induced by microRNA-
+523  616-3p via X-linked inhibitor of apoptosis protein targeting. Exp Ther Med. 2021;21(6):661. 
+524  17.  Hou Y, Zhou M, Li Y, Tian T, Sun X, Chen M, et al. Risk SNP-mediated LINC01614 upregulation 
+525  drives head and neck squamous cell carcinoma progression via PI3K/AKT signaling pathway. Mol 
+526  Carcinog. 2022;61(8):797-811. 
+527  18.  Ye G, Pan R, Zhu L, Zhou D. Circ_DCAF6 potentiates cell stemness and growth in breast 
+528  cancer through GLI1-Hedgehog pathway. Exp Mol Pathol. 2020;116:104492. 
+529  19.  Yuan C. miR-616 promotes breast cancer migration and invasion by targeting TIMP2 and 
+530  regulating MMP signaling. Oncol Lett. 2019;18(3):2348-55. 
+531  20.  Gupta A, Hossain MM, Read DE, Hetz C, Samali A, Gupta S. PERK regulated miR-424(322)-503 
+532  cluster fine-tunes activation of IRE1 and ATF6 during Unfolded Protein Response. Sci Rep. 
+533  2015;5:18304. 
+534  21.  Gupta S, Read DE, Deepti A, Cawley K, Gupta A, Oommen D, et al. Perk-dependent 
+535  repression of miR-106b-25 cluster is required for ER stress-induced apoptosis. Cell Death Dis. 
+536  2012;3(6):e333. 
+537  22.  Cawley K, Logue SE, Gorman AM, Zeng Q, Patterson J, Gupta S, et al. Disruption of microRNA 
+538  biogenesis confers resistance to ER stress-induced cell death upstream of the mitochondrion. PLoS 
+539  One. 2013;8(8):e73870. 
+540  23.  Read DE, Gupta A, Ladilov Y, Samali A, Gupta S. miRNA signature of unfolded protein 
+541  response in H9c2 rat cardiomyoblasts. Cell Biosci. 2014;4(1):56. 
+542  24.  Hiramatsu N, Chiang K, Aivati C, Rodvold JJ, Lee JM, Han J, et al. PERK-mediated induction of 
+543  microRNA-483 disrupts cellular ATP homeostasis during the unfolded protein response. J Biol Chem. 
+544  2020;295(1):237-49. 
+545  25.  Arabkari V. Regulation of cell fate by microRNAs during unfolded protein response 
+546  and its role in cancer [Doctor of Philosophy]. Galway: National University of Ireland Galway, Ireland; 
+547  (2018) https://aran.library.nuigalway.ie/handle/10379/14750. 
+548  26.  Hossain MM, Sultana A, Barua D, Islam MN, Gupta A, Gupta S. Differential expression, 
+549  function and prognostic value of miR-17-92 cluster in ER-positive and triple-negative breast cancer. 
+550  Cancer Treat Res Commun. 2020;25:100224. 
+551  27.  Salim U, Kumar A, Kulshreshtha R, Vivekanandan P. Biogenesis, characterization, and 
+552  functions of mirtrons. Wiley Interdiscip Rev RNA. 2022;13(1):e1680. 
+553  28.  Mitra R, Lin CC, Eischen CM, Bandyopadhyay S, Zhao Z. Concordant dysregulation of miR-5p 
+554  and miR-3p arms of the same precursor microRNA may be a mechanism in inducing cell proliferation 
+555  and tumorigenesis: a lung cancer study. RNA. 2015;21(6):1055-65. 
+556  29.  Kozomara A, Griffiths-Jones S. miRBase: annotating high confidence microRNAs using deep 
+557  sequencing data. Nucleic Acids Res. 2014;42(Database issue):D68-73. 
+558  30.  Putzbach W, Gao QQ, Patel M, Haluck-Kangas A, Murmann AE, Peter ME. DISE: A Seed-
+559  Dependent RNAi Off-Target Effect That Kills Cancer Cells. Trends Cancer. 2018;4(1):10-9. 
+560  31.  Ren W, Hu J, Li H, Chen J, Ding J, Zu X, et al. miR-616-5p Promotes Invasion and Migration of 
+561  Bladder Cancer. Front Oncol. 2021;11:762946. 
+562  32.  Baskerville S, Bartel DP. Microarray profiling of microRNAs reveals frequent coexpression 
+563  with neighboring miRNAs and host genes. RNA. 2005;11(3):241-7. 
+564  33.  Schanen BC, Li X. Transcriptional regulation of mammalian miRNA genes. Genomics. 
+565  2011;97(1):1-6. 
+566  34.  Agranat-Tamir L, Shomron N, Sperling J, Sperling R. Interplay between pre-mRNA splicing 
+567  and microRNA biogenesis within the supraspliceosome. Nucleic Acids Res. 2014;42(7):4640-51. 
+568  35.  Hossain MM, Barua D, Arabkari V, Islam N, Gupta A, Gupta S. Hyperactivation of nuclear 
+569  receptor coactivators induces PERK-dependent cell death. Oncotarget. 2018;9(14):11707-21. 
+20 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531445; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY 4.0 International license.
+570  36.  Agarwal V, Bell GW, Nam JW, Bartel DP. Predicting effective microRNA target sites in 
+571  mammalian mRNAs. Elife. 2015;4. 
+572  37.  Jin HY, Xiao C. MicroRNA Mechanisms of Action: What have We Learned from Mice? Front 
+573  Genet. 2015;6:328. 
+574  38.  Doyle KM, Kennedy D, Gorman AM, Gupta S, Healy SJ, Samali A. Unfolded proteins and 
+575  endoplasmic reticulum stress in neurodegenerative disorders. J Cell Mol Med. 2011;15(10):2025-39. 
+576  39.  Zhou Y, Meng P, Tang B, Ke Z, Liu L, Chen Y, et al. MiR-616 promotes the progression of 
+577  pancreatic carcinoma by targeting OXR1. Minerva Med. 2021;112(4):528-9. 
+578  40.  Bartom ET, Kocherginsky M, Paudel B, Vaidyanathan A, Haluck-Kangas A, Patel M, et al. 
+579  SPOROS: A pipeline to analyze DISE/6mer seed toxicity. PLoS Comput Biol. 2022;18(3):e1010022. 
+580  41.  Ullmann P, Rodriguez F, Schmitz M, Meurer SK, Qureshi-Baig K, Felten P, et al. The miR-
+581  371 373 Cluster Represses Colon Cancer Initiation and Metastatic Colonization by Inhibiting the 
+∼
+582  TGFBR2/ID1 Signaling Axis. Cancer Res. 2018;78(14):3793-808. 
+583  42.  Langroudi L, Jamshidi-Adegani F, Shafiee A, Rad SM, Keramati F, Azadmanesh K, et al. MiR-
+584  371-373 cluster acts as a tumor-suppressor-miR and promotes cell cycle arrest in unrestricted 
+585  somatic stem cells. Tumour Biol. 2015;36(10):7765-74. 
+586  43.  Zhao W, Gupta A, Krawczyk J, Gupta S. The miR-17-92 cluster: Yin and Yang in human 
+587  cancers. Cancer Treat Res Commun. 2022;33:100647. 
+588  44.  Yu L, Ma W, Song B, Wang S, Li X, Wang Z. Hsa_circ_0030042 Ameliorates Oxidized Low-
+589  Density Lipoprotein-Induced Endothelial Cell Injury via the MiR-616-3p/RFX7 Axis. Int Heart J. 
+590  2022;63(4):763-72. 
+591  45.  Stavast CJ, Erkeland SJ. The Non-Canonical Aspects of MicroRNAs: Many Roads to Gene 
+592  Regulation. Cells. 2019;8(11). 
+593  46.  Dai W, Su X, Zhang B, Wu K, Zhao P, Yan Z. An Alternative Class of Targets for microRNAs 
+594  Containing CG Dinucleotide. Biology (Basel). 2022;11(3). 
+595  47.  Qin W, Shi Y, Zhao B, Yao C, Jin L, Ma J, et al. miR-24 regulates apoptosis by targeting the 
+596  open reading frame (ORF) region of FAF1 in cancer cells. PLoS One. 2010;5(2):e9429. 
+597  48.  Duursma AM, Kedde M, Schrier M, le Sage C, Agami R. miR-148 targets human DNMT3b 
+598  protein coding region. RNA. 2008;14(5):872-7. 
+599  49.  Tay Y, Zhang J, Thomson AM, Lim B, Rigoutsos I. MicroRNAs to Nanog, Oct4 and Sox2 coding 
+600  regions modulate embryonic stem cell differentiation. Nature. 2008;455(7216):1124-8. 
+601  50.  Dang CV. MYC on the path to cancer. Cell. 2012;149(1):22-35. 
+602  51.  Pytel D, Gao Y, Mackiewicz K, Katlinskaya YV, Staschke KA, Paredes MC, et al. PERK Is a 
+603  Haploinsufficient Tumor Suppressor: Gene Dose Determines Tumor-Suppressive Versus Tumor 
+604  Promoting Properties of PERK in Melanoma. PLoS Genet. 2016;12(12):e1006518. 
+605  52.  Gupta S, Giricz Z, Natoni A, Donnelly N, Deegan S, Szegezdi E, et al. NOXA contributes to the 
+606  sensitivity of PERK-deficient cells to ER stress. FEBS Lett. 2012;586(22):4023-30. 
+607  53.  Pytel D, Majsterek I, Diehl JA. Tumor progression and the different faces of the PERK kinase. 
+608  Oncogene. 2016;35(10):1207-15. 
+609  54.  Oyadomari S, Mori M. Roles of CHOP/GADD153 in endoplasmic reticulum stress. Cell Death 
+610  Differ. 2004;11(4):381-9. 
+611  55.  Jauhiainen A, Thomsen C, Strombom L, Grundevik P, Andersson C, Danielsson A, et al. 
+612  Distinct cytoplasmic and nuclear functions of the stress induced protein DDIT3/CHOP/GADD153. 
+613  PLoS One. 2012;7(4):e33208. 
+614  56.  Toriguchi K, Hatano E, Tanabe K, Takemoto K, Nakamura K, Koyama Y, et al. Attenuation of 
+615  steatohepatitis, fibrosis, and carcinogenesis in mice fed a methionine-choline deficient diet by 
+616  CCAAT/enhancer-binding protein homologous protein deficiency. J Gastroenterol Hepatol. 
+617  2014;29(5):1109-18. 
+618  57.  Rahman SM, Schroeder-Gloeckler JM, Janssen RC, Jiang H, Qadri I, Maclean KN, et al. 
+619  CCAAT/enhancing binding protein beta deletion in mice attenuates inflammation, endoplasmic 
+21 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531445; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY 4.0 International license.
+620  reticulum stress, and lipid accumulation in diet-induced nonalcoholic steatohepatitis. Hepatology. 
+621  2007;45(5):1108-17. 
+622  58.  Pérez-Losada J, Pintado B, Gutiérrez-Adán A, Flores T, Bañares-González B, del Campo JC, et 
+623  al. The chimeric FUS/TLS-CHOP fusion protein specifically induces liposarcomas in transgenic mice. 
+624  Oncogene. 2000;19(20):2413-22. 
+625  59.  Matsui Y, Ueda T, Kubo T, Hasegawa T, Tomita Y, Okamoto M, et al. A novel type of EWS-
+626  CHOP fusion gene in myxoid liposarcoma. Biochem Biophys Res Commun. 2006;348(2):437-40. 
+627   
+Supporting information 
+628 
+629  S1 Fig. Identification of a miR-616-5p and miR-616-3p -binding sites in the c-Myc. 
+630  RNAhybrid analysis of c-MYC reference sequence and miR-616. The secondary structure of 
+631  miRNA-mRNA duplex is shown with miRNA in green and mRNA in red. mfe: minimum free 
+632  energy.  
+633   
+634  S2 Fig.  Association between miR-616 expression and overall survival in human cancer. 
+635  Web-based algorithm KM plotter (http://kmplot.com/analysis/) was used to evaluate the 
+636  association between miR-616 with overall (OS) survival. 
+637   
+638  S3 Fig. Prediction of the effect of miR-616-5p and miR-616-3p on cell viability through their 
+639  6mer seed sequence. The activity of 6-mer seed of was evaluated in three human (HeyA8-
+640  ovarian, H460-lung and H4-brain) and three mouse (M565-liver, 3LL-lung and GL261-brain) 
+641  cell lines. MiRNAs with low viability (high toxicity) are shown in red and with high viability 
+642  (low toxicity) are shown in green. Predominantly expressed mature miRNAs (guide miRNA) 
+643  are shown in dark purple while lesser expressed (passenger miRNA) are shown in light 
+644  purple. The miRNAs sharing seed sequence with miR-616-5p are also shown. 
+22 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531445; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY 4.0 International license.
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531445; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY 4.0 International license.
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531445; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY 4.0 International license.
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531445; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY 4.0 International license.
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531445; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY 4.0 International license.
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531445; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY 4.0 International license.
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531445; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY 4.0 International license.
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531445; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY 4.0 International license.
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531445; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY 4.0 International license.
+
+NEW PAGE

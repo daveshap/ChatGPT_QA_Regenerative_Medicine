@@ -1,0 +1,954 @@
+Article https://doi.org/10.1038/s41467-023-36408-0
+Engraftment of allogeneic iPS cell-derived
+cartilage organoid in a primate model
+of articular cartilage defect
+Received:30May2022 KengoAbe1,2,3,AkihiroYamashita1,3,MihoMorioka1,NanaoHorike1,3,
+YoshiakiTakei3,4,SaekoKoyamatsu1,KeisukeOkita 5,ShuichiMatsuda 2&
+Accepted:31January2023
+NoriyukiTsumaki 1,3,6
+Checkforupdates Inducedpluripotentstemcells(iPSCs)areapromisingresourceforallogeneic
+1234567890():,; 1234567890():,; socpasrtotenioltaaagrnetehtorriuatsinslsy.pHalaonnwdteaovtfietoern,nttoportothrgeeraebtseassrtttoiocfduoelaburirlciktaanrttoiinlwaggleecdodgneedf,eiatciloltosngtseh,naseuticdchocaansrotitlahgeeal
+transplantationintoprimatemodelshasneverbeenassessed.Here,weshow
+thatallogeneiciPSC-derivedcartilageorganoidssurviveandintegrateaswell
+asareremodeledasarticularcartilageinaprimatemodelofchondraldefects
+inthekneejoints.HistologicalanalysisrevealedthatallogeneiciPSC-derived
+cartilageorganoidsinchondraldefectselicitednoimmunereactionand
+directlycontributedtotissuerepairforatleastfourmonths.iPSC-derived
+cartilageorganoidsintegratedwiththehostnativearticularcartilageand
+preventeddegenerationofthesurroundingcartilage.Single-cellRNA-
+sequenceanalysisindicatedthatiPSC-derivedcartilageorganoidsdiffer-
+entiatedaftertransplantation,acquiringexpressionofPRG4crucialforjoint
+lubrication.PathwayanalysissuggestedtheinvolvementofSIK3inactivation.
+OurstudyoutcomessuggestthatallogeneictransplantationofiPSC-derived
+cartilageorganoidsmaybeclinicallyapplicableforthetreatmentofpatients
+withchondraldefectsofthearticularcartilage;howeverfurtherassessmentof
+functionalrecoverylongtermafterloadbearinginjuriesisrequired.
+Articularcartilagecoverstheendsofbonesandprovideslubrication, Asarticularcartilagehasalimitedcapacityforrepair,andsofar,
+which is vital for smooth joint movement and shock absorption. nodrugsareavailableforcartilagerepair,focaldamageorerosionof
+Articularcartilageisavascularandconsistsofchondrocytesembed- articularcartilagefrequentlyleadstodebilitatingconditions,suchas
+dedintheextracellularmatrix(ECM),whichenablesthemechanical osteoarthritis.Althoughcell-basedtherapieshavebeenproposed,only
+functionsnecessaryforjointmotionandshockabsorption.Cartilage a limited number of autologous chondrocytes are generated since
+ECMconsistsofcollagenﬁbrilscomposedoftypeII,IX,andXIcollagen expansion culture steers the chondrocyte character toward that of
+moleculesandproteoglycanscomposedofaggrecan,linkprotein,and ﬁbroblasticcells1,asevidencedinautologouschondrocyteimplanta-
+glycosaminoglycans. tion (ACI), wherein more than 90% of the repaired tissue is
+1DepartmentofTissueBiochemistry,GraduateSchoolofMedicineandFrontierBiosciences,OsakaUniversity,Osaka,Japan.2DepartmentofOrthopaedic
+Surgery,GraduateSchoolofMedicine,KyotoUniversity,Kyoto,Japan.3DepartmentofClinicalApplication,CenterforiPSCellResearchandApplication,
+KyotoUniversity,Kyoto,Japan.4RegenerativeMedicineTechnologyDepartment,HealthcareR&DCenter,AsahiKaseiCorporation,Kyoto,Japan.5Department
+ofLifeScienceFrontiers,CenterforiPSCellResearchandApplication,KyotoUniversity,Kyoto,Japan.6PremiumResearchInstituteforHumanMetaverse
+Medicine(WPI-PRIMe),OsakaUniversity,Osaka,Japan. e-mail:ntsumaki@tsu.med.osaka-u.ac.jp
+NatureCommunications|(         2023)1 4:804  1
+
+NEW PAGE
+
+Article https://doi.org/10.1038/s41467-023-36408-0
+ﬁbrocartilaginous2. Allogeneic cartilage has been transplanted clini- Computedtomography(CT)imaginganalysisofthekneejointsindi-
+cally without matching human leukocyte antigen (HLA) types and catedthatbonestructureswerenormalimmediatelyaftersurgeryand
+withouttheuseofimmunosuppressivedrugs3–5.However,whetherthe at4and12weeksaftersurgery(SupplementaryFig.2),suggestingthat
+transplantedallogeneiccartilagecausesanimmunereactionremains thedefectswerechondralanddidnotextendthroughthesubchondral
+controversial. Some reports suggest low immunogenicity of bonethroughouttheexperiment.
+chondrocytes6,7,whereasothersshowthatchondrocytesareantigenic Threemonkeysfromeachgroupweresacriﬁced4and17weeks
+andelicitvaryingdegreesofimmunereactions8,9.Tothebestofour aftersurgery(n=3).Thegrossappearanceofthejointsurfaceindi-
+knowledge, the regenerative mechanisms following allogeneic carti- catedthatchondraldefectsintheemptygroupwereﬁlledwithbrown
+lagetransplantationhavenotyetbeenreported.Whethertransplanted tissueat4and17weeks(Fig.1c).Ontheotherhand,chondraldefectsin
+cartilageachievesengraftment(survivesandconstitutesrepairedtis- thetransplantationgroupwereﬁlledwithtransparenttissueat4weeks
+suedirectly)oronlytransientlyremainsandsecretesgrowthfactorsto (Fig.1c)whichlaterturnedwhiteasarticularcartilage,makingitdif-
+stimulaterecipientprogenitorcellshasnotbeenanalyzed. ﬁculttodistinguishtheareawherecyiPS-Cartweretransplantedfrom
+Inducedpluripotentstem(iPS)cellsareapromisingsourceforthe thesurroundingarticularcartilageareaat17weeksaftertransplanta-
+regenerative treatment of articular cartilage damage10,11. Cartilage tion(Fig.1c).Ineachmonkey,onetransplantsitewasharvestedand
+consisting of chondrocytes and ECM has been successfully created subjectedtohistologicalanalysisandothertwositeswerecombined
+from iPS cellsby differentiating them into chondrocytes, whichare andusedforscRNA-seqanalysis.
+subsequentlytransferredintoathree-dimensionalculturetomakeiPS
+cell-derived chondrocytes produce and accumulate ECM around AllogeneictransplantationofcyiPS-Cartdidnotelicitan
+themselvestoformcartilaginoustissueparticles12,13.Owingtotheself- immunereactioninprimatechondraldefects
+renewalactivityofiPScells,allogeneiciPScell-derivedcartilageorga- We recentlyreported that allogeneic cyiPS-Cart elicited animmune
+noids can theoretically be produced inexhaustibly and transplanted reactionwhentransplantedintoosteochondraldefects14.However,no
+into an unlimited number of patients, solving the issues associated scientiﬁc evidence exists on whether allogeneic cartilage elicits an
+with allogenic cartilage, such as scarcity of donors, risk of disease immunereactionwhenimplantedinchondraldefects.Toanswerthis
+transmission,andvariationsincartilagequalitiesbetweendonors. question,weanalyzedhistologicalsectionsofthetransplantedsites.
+Inthisstudy,weanalyzedtheallogenictransplantationofmajor For control, we created osteochondral defects in additional three
+histocompatibilitycomplex(MHC)-mismatchediPScell-derivedcarti- monkeys,transplantedcyiPS-Cart,andsacriﬁcedthem4weekslater.
+lageorganoidsinaprimateanimalmodelwithouttheuseofimmu- Four weeks after allogeneic transplantation into osteochondral
+nosuppressivedrugs.WedifferentiatedcynomolgusmonkeyiPScells defects,histologicalanalysisrevealedthatmanycells,includingCD3+
+(cyiPSCs)intochondrocytestocreatecyiPSC-derivedcartilageorga- Tlymphocytes,accumulatedaroundthecyiPS-Cartinthebonemar-
+noids (cyiPS-Cart). We then transplanted cyiPS-Cart into chondral row(Fig.2a,b),whichisconsistentwithapreviousreport14.Incontrast,
+defectsonthekneejointsurfaceofcynomolgusmonkeysinanallo- therewasnocellaccumulationaroundchondraldefectstransplanted
+geneic manner. Single-cell RNA-sequencing (scRNA-seq) and mole- withallogeneiccyiPS-Cart(Fig.2a,b).
+cular analysis of the cyiPS-Cart graft revealed molecular pathways
+involvedincelldifferentiationthatremodeledthecyiPS-Carttoward cyiPS-Cartsurvivedanddirectlycontributedtohyaline
+articularcartilageaftertransplantation. cartilage-richrepairedtissueinchondraldefects
+Thequalityofrepairedtissuesinthechondraldefectswasassessedby
+Results staininghistologicalsectionswithsafraninO,whichstainsthecartila-
+PreparationofcyiPScell-derivedcartilageorganoid(cyiPS-Cart) ginous proteoglycans. Chondral defects in the empty group were
+1466A1cyiPSCsexpressingenhancedgreenﬂuorescentprotein(EGFP) partially ﬁlled at 4 weeks and substantially ﬁlled at 17 weeks after
+underaconstitutivepromoterwereused.Cartilagewascreatedfrom surgery,withtissuesthatwerenotcartilaginousbutﬁbrous,asindi-
+cyiPSCs14 and human iPSCs12,13 using modiﬁed protocols. Brieﬂy, cated by negative safranin O staining (Fig. 3a and Supplementary
+chondrocyteswereinducedfromcyiPSCsinachondrogenicmedium Figs.3,4a).Incontrast,chondraldefectsinthetransplantationgroup
+fortwoweeksandtransferredtoathree-dimensionalculture,where wereﬁlledwithcartilaginoustissuebothat4and17weeksaftersur-
+theyproducedandaccumulatedECMtoformcartilaginousparticles gery,asindicatedbypositivesafraninOstaining(Fig.3aandSupple-
+(SupplementaryFig.1a).ThecyiPSC-derivedcartilageorganoid(cyiPS- mentaryFigs.3,4a).
+Cart) particles were 1–3mm in diameter (Supplementary Fig. 1b). Repaired tissues formed in the chondral defects in the empty
+Histologicalanalysisshowedthattheparticlesconsistedofcells,and groupsatboth4-and17-weeksaftertransplantationshowedpositive
+theECMwasstainedpositivelywithsafraninO.Immunohistochemical picrosirius red staining under polarized microscopy (Fig. 3a), sug-
+analysis revealed that the ECM contained type II collagen (Supple- gesting that the repaired tissues were ﬁbrous. On the other hand,
+mentary Fig. 1c). Type I collagen was not detectable except at the marginal staining was observed in the repaired tissues that ﬁlled
+peripheryofaparticle. chondral defects and the articular cartilage in the transplantation
+groupsatboth 4-and17-weeks aftertransplantation (Fig. 3a),sug-
+AllogeneictransplantationofcyiPS-Cartinprimatechondral gestingthattheywerehyalinecartilage.
+defectmodel Scoringcartilagerepair(SupplementaryTable2)revealedbetter
+Cartilagedefectscanbeclassiﬁedintotwocategoriesbasedontheir cartilageregenerationinthetransplantationgroupthanintheempty
+depth:chondraldefectsextendingdowntobutnotthroughthesub- group(Fig.3b).Thescoreimprovedat17weeksfrom4weeksafter
+chondralbone,andosteochondraldefectsextendingdownthrough transplantation(Fig.3b).
+thesubchondralbone(Fig.1a).Chondraldefectsarethemostcommon The articular cartilage adjacent to the chondral defect in the
+inpatientswitharticularcartilagedamageorerosion,includingduring emptygrouplostsafraninOstainingat17weeksaftersurgery(Fig.3a,
+theearlystagesofosteoarthritis. arrowsandSupplementaryFig.4b).Theremainingcartilagelocates
+Wecreatedchondraldefectsinthefemoraltrochlearridgeofthe between the bottom of the defect and bone also lost safranin O
+right knee joints of 12 cynomolgus monkeys and transplanted cyiPS- stainingat4and17weeksaftersurgeryintheemptygroup(Fig.3c,
+Cart(transplantationgroup)insixmonkeysornothing(emptygroup) area below the dotted lines). These results indicate progressive
+intheremainingmonkeys(Fig.1b).MHCtypingrevealedamismatch degenerationofthearticularcartilagearoundthedefects.Incontrast,
+between cyiPSCs and recipient monkeys (Supplementary Table 1). the articular cartilage surrounding the chondral defect maintained
+NatureCommunications|(         2023)1 4:804  2
+
+NEW PAGE
+
+Article https://doi.org/10.1038/s41467-023-36408-0
+proteoglycaninthetransplantationgroupat17weeksaftersurgery, Cartandsurroundingnativecartilage,itwasmainlycomposedoftype
+suggesting preservation of articular cartilage around the defects IIcollagen(Fig.4,arrows).
+(Fig.3a,arrowheads;Fig.3c,areabelowthedottedlines;andSupple- Noaccumulationofimmunecells,includingCD3+Tlymphocytes,
+mentaryFig.4b). wasobservedinthetransplantationgroup17weeksafterallogeneic
+Immunostainingwithanti-GFPantibodyrevealedthatalmostall transplantation into osteochondral defects (Figs. 3a, 4b), indicating
+cells in the repaired tissues that ﬁlled the chondral defects in the thatallogeneictransplantationofcyiPS-Cartintochondraldefectsdid
+transplantationgroupexpressedGFP(Fig.4)atboth4and17weeks notelicitimmunereactionsintheprimatemodelforatleast4months.
+aftertransplantation,indicatingthattransplantedcyiPS-Cartsurvived
+and directly contributed to the entire repaired tissue for at least Post-transplantcyiPS-Cartremainscartilaginouswhiletissues
+4months.Additionalimmunostainingwithantibodiesthatrecognize formedinchondraldefectsintheemptygroupwereﬁbrous
+typeIcollagen(COL1),amarkerforﬁbroustissue,andtypeIIcollagen To investigate the fate of cyiPS-Carts after transplantation, we per-
+(COL2),amarkerforcartilage,conﬁrmedthatthesurvivingcyiPS-Cart formedscRNA-seqanalysis.Singlecellswerepreparedfromundiffer-
+ﬁlling chondral defects contained hyaline cartilage. In contrast, the entiated cyiPSCs (cyiPSC), cyiPS-Cart (pre-transplant cyiPS-Cart),
+tissuesﬁllingemptychondraldefectswereﬁbrous(Fig.4). intact articular cartilage (cyAC), ﬁbrous tissue formed in chondral
+Theintegrationofrepairedtissueandsurroundingnativecarti- defectsintheemptygroup(cyFT),andcyiPS-Cartinchondraldefects
+lage is difﬁcult, especially in the case of chondral defects, because inthetransplantationgroup(post-transplantcyiPS-Cart)17weeksafter
+chondraldefectsdonotbleed1.Inourstudy,cyiPS-Cartdidnotachieve surgery(Fig.5a).
+integrationat4weeks,butintegrationwasobserved17weeksafter As for chondrogenic differentiation of cyiPSCs toward pre-
+transplantation.AlthoughimmaturetissuewasstillbridgingthecyiPS- transplant cyiPS-Cart, the scRNA-seq analysis revealed that cyiPSCs
+expressedpluripotencymarkers,whereascellsinpre-transplantcyiPS-
+a Chondral defect Osteochondral defect
+Articular
+Cartilage
+bone marrow bone marrow
+Subchondral
+bone
+b
+Empty group
+cyiPS-Cart
+Transplantation
+group
+1 mm diameter and 0.5 mm depth 
+c
+4 weeks after surgery 17 weeks after surgery
+Empty Transplantation Empty Transplantation
+Fig.1|TransplantationofcyiPS-Cartinthekneejointsinaprimatemodel. rightkneejointsincynomolgusmonkeys.CyiPS-Cart(transplantationgroup)or
+aTwocategoriesofarticularcartilagedefect.Left:chondraldefectsextending nothing(emptygroup)weretransplantedintothedefects.Themonkeyimageis
+downtobutnotthroughthesubchondralbone.Right:osteochondraldefects takenfrom[https://www.ﬂaticon.com/free-icon/monkey_47138]followingtheFla-
+extendingdownthroughthesubchondralbone.bPrimatemodelforcyiPS-Cart ticonlicenseguidelines.cGrossappearanceofthejointsurface4weeks(left)and
+transplantation.Chondraldefectswerecreatedinthefemoraltrochlearridgeofthe 17weeks(right)aftersurgery.Datawererepresentativeofthreemonkeys.
+NatureCommunications|(         2023)1 4:804  3
+
+NEW PAGE
+
+Article https://doi.org/10.1038/s41467-023-36408-0
+a b
+Normal  ****
+Osteochondral  Chondral  articular  160 ****
+defect defect cartilage
+O
+n 
+ni
+a
+afr 120
+S
+d
+el
+E ells / fi 80
+H c
++
+3
+D
+C
+40
+3
+D
+C
+/
+PI 0
+A
+D
+Fig.2|Analysisofimmunereactionsfollowingallogeneictransplantationof monkeyswereusedineachgroup.Eachmarkindicatesoneﬁeld,anddifferent
+cyiPS-Cartintochondraldefectsinthekneejoints4weeksaftertransplanta- shapesofmarksindicatedifferentmonkeys.Errorbarsdenotemean±SE.
+tion.aSemi-serialhistologicalsectionswerestainedwithsafraninOorHE,or ****P<0.0001byone-wayANOVAwithposthocTukeyHSDtest(n=12ﬁelds).
+immunostainedforCD3.Scalebars,100µm.bThenumberofCD3+cellsper SourcedataareprovidedasaSourceDataﬁle.
+microscopicﬁeldwasdetermined.Fourﬁeldswereusedforeachmonkey.Three
+Cartdidnotexpresspluripotentmarkersbutexpressedchondrocyte #1highlyexpressedCOL1A1(Fig.6e).Differentiallyexpressedgenes
+markers(Fig.5b).Someofthepre-transplantcyiPS-Cartcellsexpres- (DEGs)wereidentiﬁed(Fig.6f).Canonicalpathwayanalysisbasedon
+sed COL1A1 (Fig. 5b)and likely resided in the periphery of the pre- theDEGsindicatedthatcluster#1wasenrichedfortheﬁbrosispath-
+transplantcyiPS-Cart,asindicatedbyCOL1immunostaining(Supple- wayandthatcluster#2wasenrichedfortheosteoarthritispathway
+mentary Fig. 1c). All cyiPSCs and pre-transplanted cyiPS-Cart cells (Fig.6g).Theseresultssuggestthatclusters#1and#2consistedof
+expressedEGFP.Theuniformmanifoldapproximationandprojection pathologicalcellsandcontainfewcyAC,pre-transplantcyiPS-Cart,and
+(UMAP) plot indicated thatcyiPSCs and pre-transplanted cyiPS-Cart post-transplantcyiPS-Cartcells(Fig.6d).Wefurthercomparedthese
+cellswereplottedasseparateclusters(Fig.5c).Featureplotanalysis cellclusterswiththosepreviouslyidentiﬁedinhumanosteoarthritis
+revealed that the pre-transplant cyiPS-Cart cell cluster expressed samples16.Theexpressionofmarkergenesforosteoarthritis16inour
+chondrocytemarkersbutnotpluripotentmarkers(Fig.5d),indicating clusterssuggestedthatcluster#1correspondstopreHTCandFC(high
+chondrogenic differentiation of cyiPSCs into pre-transplant cyiPS- expressionofTGFBIandCOL1A1)andthatcluster#2correspondsto
+Cartcells. EC and proC (high expression of TF and P3H2) (Supplementary
+Forsamplesharvestedat17weeksaftersurgery,VlnPlotfunction Fig.5a,b).
+(Seurat)revealedpositiveGFPexpressioninalmostallcellsinthepost- To analyze the resemblance and difference between cyAC and
+transplantcyiPS-Cart(Fig.6a),conﬁrmingthatcyiPS-Cartsurvivedand post-transplantcyiPS-Cartcells,weselectedthesecellsandperformed
+directly contributed to the repaired tissue. Almost all cells in post- clusteringanalysis again.Cells weredivided intofourclusters (Sup-
+transplantcyiPS-CartexpressedCOL2A1andnotCOL1A1,whereasthe plementaryFig.6a,b).Clusters#0,1and2consistedofbothcyACand
+majorityofcellsincyFTexpressedCOL1A1butnotCOL2A1(Fig.6a), post-transplant cyiPS-Cart cells, whereas post-transplant cyiPS-Cart
+conﬁrmingthatpost-transplantcyiPS-Cartremainedhyalinecartilagi- cellswereexcludedfromcluster#3(SupplementaryFig.6a,c,d).DEGs
+nouswhilethecyFTwasﬁbrous. andcanonicalpathwayanalysisindicatedthatcluster#3wasenriched
+Then, we analyzed cell subpopulations in cyAC, cyFT, pre- forintegrinsignaling(SupplementaryFig.6e,f).Trajectoryinference
+transplant cyiPS-Cart, and post-transplant cyiPS-Cart samples. We andRNAvelocityanalysissuggestedthatcluster#3waslocatedatthe
+reducedcellnumbersto320ineachsampleusingasubsetfunction startofthetrajectoryto#0(SupplementaryFig.6g),whereascluster
+and integrated samples into a single object15. We also reduced #2waslocatedattheend.Theseresultssuggestthatpost-transplant
+dimensions,clusteredthecellswithaparameterresolutionof0.2,and cyiPS-CartaresimilartocyACexceptforcellsfromcluster#3thatare
+projected them onto a UMAP plot (Fig. 6b). Cellclustering analysis relatedtointegrinsignalingandlocateatthestartofthetrajectory.
+revealed that cyAC, pre-transplant cyiPS-Cart, and post-transplant
+cyiPS-Carthadsimilartranscriptionalproﬁles,whereasFTcontained cyiPS-Cartbecamesimilartoarticularcartilageaftertrans-
+cellclusterswithdistinctproﬁles.cyAC,pre-transplantcyiPS-Cart,and plantation,withcellsdifferentiatedtoexpressPRG4,achieving
+post-transplantcyiPS-Cartwerecomposedofcluster#0,whereasFT engraftment
+wascomposedofclusters#1and#2(Fig.6c,d).Cellsinclusters#0 Next, we examined how the nature of cyiPS-Cart was altered after
+and#2exhibitedhighexpressionofCOL2A1whereasthoseincluster transplantation into a chondral defect. Among the differentially
+NatureCommunications|(         2023)1 4:804  4
+
+NEW PAGE
+
+Article https://doi.org/10.1038/s41467-023-36408-0
+a
+4 weeks after surgery 17 weeks after surgery
+Empty Transplantation Empty Transplantation
+O #1 #1
+ 
+n
+ni
+a
+r
+f
+a
+S
+#1 #1
+E
+H
+)
+y
+p
+ o
+dc
+es
+Ro
+ r
+sc
+umi
+ri
+sid 
+oe
+rz
+Picari
+ol
+P
+(
+b
+e
+r Assessor  A Assessor B
+o
+c
+s
+ni 10
+a Empty
+4 weeks 
+t
+ki
+a Transplantation  after surgery
+W
+5
+ 
+d Empty
+e 17 weeks 
+fi
+di Transplantation after surgery
+o 0
+M
+c
+4 weeks after surgery 17 weeks after surgery
+Empty Transplantation Empty Transplantation
+#1 #1
+O
+ 
+n
+ni
+a
+r
+f
+a
+S
+Fig.3|Qualitiesofrepairedtissueinchondraldefects.aSampleswerehar- withSafraninOweresubjectedtoamodiﬁedWakitanihistologicalscoring
+vested4or17weeksaftertransplantation.Semi-serialsectionswerestained system(n=3monkeysineachgroup)andevaluatedbytwoindependent
+withSafraninO,HE,orpicrosiriusred.Sectionsstainedwithpicrosiriusred assessorsinablindedmanner.Errorbarsdenotemean±SE.Sourcedataare
+wereobservedunderapolarizedmicroscope.Amagniﬁcationoftheboxed providedasaSourceDataﬁle.cMagniﬁcationsofremainingcartilageloca-
+regionsthatcoverrepairedtissueandnativearticularcartilageinthethird tedbetweenthebottomofthedefectandbonein(a).Dottedlinesindicate
+rowisindicatedinthebottomrow.Scalebars,100µm.bSectionsstained thebottomofdefects.SafraninOstaining.Scalebars,100µm.
+NatureCommunications|(         2023)1 4:804  5
+
+NEW PAGE
+
+Article https://doi.org/10.1038/s41467-023-36408-0
+a 4 weeks after surgery 17 weeks after surgery
+Empty Transplantation Empty Transplantation
+#1 #1
+P
+F
+G
+#1 #1
+2
+L
+O
+C
+#1 #1
+1
+L
+O
+C
+b
+17 weeks after surgery
+Empty Transplantation
+#1
+3
+D
+C
+/
+PI
+A
+D
+Fig.4|Immunohistochemicalstainingofrepairedchondraldefects.aSamples representativeofthreemonkeys.bSemi-serialhistologicalsectionsofsamplesat
+wereharvested4or17weeksaftertransplantation.Semi-serialsectionswere 17weeksaftertransplantationwereimmunostainedforCD3.Dataarerepresenta-
+immunostainedforGFP,typeIIcollagen(COL2),andtypeIcollagen(COL1).The tiveofthreemonkeys.Scalebars,100µm.
+boxedregionsinthesecondrowaremagniﬁedinthethirdrow.Datawere
+expressed genes between pre-and post-transplant cyiPS-Cart, the consistentwiththelowexpressionofPRG4mRNAobservedinscRNA-
+expressionofgeneencodingproteoglycan4(PRG4)wassigniﬁcantly seqanalysis(Fig.7d).Incontrast,post-transplantcyiPS-Cartexpressed
+increased(adjustedpvalue=1.55×10−28)(Fig.7a).PRG4isexpressedin PRG4,anditsexpressionwaslocalizedtothesuperﬁcialzoneofpost-
+thesuperﬁcialzoneofarticularcartilageandcrucialforthelubrication transplantcyiPS-Cart.Thisexpressionpatternwasconsistentwiththat
+ofthejointsurface17–19.TheVlnPlotfunction(Seurat)revealedthatfew incyAC(Fig.7d).
+cellsexpressedPRG4inpre-transplantcyiPS-Cart,whileasubstantial TogainfurtherinsightsintothemechanismbywhichcyiPS-Cart
+number of post-transplant cyiPS-Cart cells showed high-level PRG4 acquiredPRG4expression,weanalyzedscRNA-seqdata.Wecombined
+expression compared to cyAC cells (Fig. 7b). FeaturePlot function pre-andpost-transplantcyiPS-Cartcellsandseparatedthemintotwo
+(Seurat) conﬁrmed that few cells in the pre-transplant cyiPS-Cart groups:cellswhosePRG4expressionwasmorethanorequalto2.4,and
+expressedPRG4whereasmanycellsinthepost-transplantcyiPS-Cart those whose PRG4 expression was less than 2.4. We then identiﬁed
+expressedPRG4(Fig.7c).Immunohistochemicalanalysisrevealedthat differentiallyexpressedgenes(DEGs)betweenthetwogroupsusingthe
+PRG4 expression was hardly detected in pre-transplant cyiPS-Cart, FindMarkersfunction(Seurat)(SupplementaryData1)andsubjected
+NatureCommunications|(         2023)1 4:804  6
+
+NEW PAGE
+
+Article https://doi.org/10.1038/s41467-023-36408-0
+a
+Single cell  cDNA 
+cyiPSC
+isolation amplification
+pre-transplant 
+cyiPS-Cart
+cyAC
+post-transplant 
+cyiPS-Cart
+cyFT Sequencing library
+b
+GFP-polyA NANOG LIN28A ACAN COL2A1 COL1A1
+cyiPSC
+pre-transplant 
+cyiPS-Cart
+c d GFP-polyA NANOG LIN28A
+ACAN COL2A1 COL1A1
+cyiPSC
+pre-transplant 
+cyiPS-Cart
+Fig.5|scRNA-seqanalysisandchondrogenicdifferentiationofcyiPSCsinto bRidgeplot(Seurat)showingthedistributionofsingle-cellgeneexpressionineach
+pre-transplantcyiPS-Cart.aSchematicrepresentationofsamplessubjectedto sample.Thex-axisofeachpanelrepresentstheexpressionlevelsoftheindicated
+scRNA-seqanalysis.UndifferentiatedcyiPSCs(cyiPSC),cyiPS-Cart(pre-transplant genes.They-axisrepresentsthenumberofcells.cCyiPSCsandpre-transplant
+cyiPS-Cart),intactarticularcartilage(cyAC),ﬁbroustissueformedinchondral cyiPS-CartcellswereprojectedontoUMAPplotswithaparameterresolutionof0.5.
+defectsintheemptygroup(cyFT),andcyiPS-Cartinchondraldefectsinthe dMarkergeneexpressionlevelsareindicatedineachcellprojectedontheUMAP
+transplantationgroup(post-transplantcyiPS-Cart)17weeksaftersurgery. plotusingthefeatureplotfunction.
+the DEGs to Ingenuity Pathway Analysis (IPA, Qiagen). IPA detected (Supplementary Data 2). Forskolin upregulates PRG4 expression in
+possible upstream regulators, including activated TGF-β1, activated chondrocytesbyincreasingtheconcentrationofcAMP,whichactivates
+TGF-β3, activated SMAD3, activated TGF-β, activated TGF-β2, and PKAandCREB22.Incontrast,forskolininactivatessalt-induciblekinase2
+inhibited SMAD7 (Supplementary Data 2). The addition of TGF-β (SIK2)viathePKA-dependentphosphorylationofSIK2inhepatocytes23.
+upregulatesPrg4expressioninchondrocytes20,21.TheadditionofTGF- Thus,wehypothesizedthatSIKisinvolvedinregulatingPRG4expres-
+β1tothecultureofcyiPS-CartcellsincreasedPRG4mRNAexpression sionandperformedfurtherexperiments.AmongtheSIKfamilymem-
+(Fig.7e),whereasTGF-βinhibitordownregulatedPRG4mRNAexpres- bers,SIK3mainlyfunctionsinchondrocytes24–26.Forskolinincreasedthe
+sion(Fig.7e).TheseresultssuggestthattheTGF-βsignalingpathwayis amount of Sik3 phosphorylated at threonine 411 (pSIK3 (pT411), an
+involvedinPRG4activationincyiPS-Cartaftertransplantation. inactiveformofSik3(Fig.8a))andincreasedPrg4expression(Fig.8b)in
+IPA also detected forskolin as an upstream activator of genes murinechondrocytes,indicatinganassociationbetweenSik3activity
+whoseexpressionwasupregulatedinPRG4-positivecellsincyiPS-Cart and Prg4 expression. Prg4 mRNA expression increased in primary
+NatureCommunications|(         2023)1 4:804  7
+
+NEW PAGE
+
+Article https://doi.org/10.1038/s41467-023-36408-0
+pre-transplant post-transplant
+a cyAC cyFT
+cyiPS-Cart cyiPS-Cart
+GFP-polyA ACAN COL2A1 COL1A1
+n  10.0 10.0 12 12
+o
+siel 7.5 7.5 9 9
+esev 5.0 5.0 6 6
+xprL 2.5 2.5 3 3
+E
+0.0 0.0 0 0
+b Combined all c pre-transplant  post-transplant 
+cyAC cyFT
+(clusters) cyiPS-Cart cyiPS-Cart
+d e COL2A1 COL1A1
+ell 
+of cers
+nt mb
+rcenu
+e
+P
+g
+cluster number
+f
+0
+1
+2
+3
+4
+Fig.6|scRNA-seqanalysisofcyAC,cyFT,pre-transplantcyiPS-Cart,andpost- numberofcellsineachcellclusterineachsample(c)isplotted.eCOL2A1and
+transplantcyiPS-Cart.aTheVlnPlot(Seurat)showsthedistributionofsingle- COL1A1expressionlevelsareindicatedineachcellprojectedontheUMAP
+cellgeneexpressionineachsample.They-axisofeachpanelrepresentsthe plotusingthefeatureplotfunction.fHeatmaprevealingthescaledexpression
+expressionlevelsoftheindicatedgenes.bAfterreducingthecellnumberfor ofdifferentiallyexpressedgenesforeachclusterdeﬁnedin(b).gCanonical
+eachsampleto320,thedatafromthesampleswereintegrated.Thecellswere pathwaysenrichedforeachclusterbasedondifferentiallyexpressedgenes.
+thenclusteredwithaparameterresolutionof0.2andprojectedontothe TheresultsofClusters#3and#4wereomittedbecausetherewereveryfew
+UMAPplots.cUMAPplotin(b)separatedbysamples.dTheratioofthe cellsintheseclusters.
+chondrocytesobtainedfromSik3knockoutmicebutdecreasedinpri- conditionalknockoutmice(Fig.8dandSupplementaryFig.7a).These
+marychondrocytesobtainedfromtransgenicmiceoverexpressingSik3 resultssuggestedthatSik3inhibitsPrg4expression.Invivo,thejoint
+inchondrocytes(Fig.8c).Immunohistochemicalanalysisshowedthat surface is subjected to ﬂuid ﬂow shear stress (FFSS), inducing the
+the population of chondrocytes expressing Prg4 increased in Sik3 expressionofthePrg4gene22.Tomimicthisinvivosituation,FFSSwas
+NatureCommunications|(         2023)1 4:804  8
+
+NEW PAGE
+
+Article https://doi.org/10.1038/s41467-023-36408-0
+a b PRG4
+Pre-vs Post-transplant cyiPS-Cart
+el
+v
+nt  Le
+nspla-Cart sion 
+aS s
+rP e
+st-tcyi xpr
+o E
+p
+pre-transplant 
+cyiPS-Cart
+c d
+pre-transplant post-transplant pre-transplant post-transplant
+cyAC
+cyiPS-Cart cyiPS-Cart cyiPS-Cart cyiPS-Cart
+P
+R 4
+G G
+4 R
+P
+e
+PRG4 PRG4
+** **
+A  10
+N 1
+n
+Ro
+msi
+e es 5
+vr 0.5
+atixp
+ele
+R
+0 0
+veh1icle TGF2-β1 veh1icle TG2F-β
+inhibitor
+Fig.7|ExpressionofPRG4incyAC,pre-transplantcyiPS-Cart,andpost- bottomrow.DatawererepresentativeofthreecyiPS-Cartorganoidsandthree
+transplantcyiPS-Cart.aTheexpressionlevelofeachgeneinpre-transplantcyiPS- monkeys.Scalebars,100µm.eCellsfromthepre-transplantcyiPS-Cartwerecul-
+Cartisplottedonthex-axisandtheexpressionlevelinpost-transplantcyiPS-Cartis turedinthepresenceorabsenceofTGF-β1(left)orTGF-βinhibitor,SB431542
+plottedonthey-axis.bVlnPlotofPRG4expressionforeachsample.cPRG4 (right).PRG4mRNAexpressionwasanalyzedusingreal-timeRT-PCR.Errorbars
+expressionlevelsindicatedineachcellprojectedontheUMAPplotinFig.6b,using denotemeans±SE.**P=0.0048,**P=0.0017bytwo-tailedStudent’st-test(n=3
+theFeaturePlotfunction.dHistologicalsectionswereimmunostainedforPRG4 dishes).Datawererepresentativeofthreeindependentexperiments.Sourcedata
+expression.Amagniﬁcationoftheboxedregionsinthetoprowisshowninthe areprovidedasaSourceDataﬁle.
+applied to mouse primary chondrocytes (Supplementary Fig. 7b). at T411 (Supplementary Fig. 8), whereas the addition of forskolin
+Application of FFSS to wild-type mouse primary chondrocytes increasedthephosphorylationofSik3atT411butdidnotaffectthe
+increasedtheexpressionofPrg4after12h(Fig.8eandSupplementary phosphorylationofSmad3(SupplementaryFig.8).Theseresultssug-
+Fig.5c,opencircles).Sik3deletionfurtherincreasedFFSS-inducedPrg4 gestthatTGF-βandSik3regulatePrg4expressionindependently.
+expression (Fig. 8e and Supplementary Fig. 7c, closed circles), sug- TherestrictedexpressionofPRG4inthesuperﬁcialzoneofthe
+gesting that Sik3 helps regulate Prg4 expression in mouse chon- post-transplantcyiPS-CartsuggeststhatcyiPS-Cartaftertransplanta-
+drocytes. The induction of PRG4 indicates that the post-transplant tionsurvivedanddirectlycontributedtotherepairoftissueinchon-
+cyiPS-Cartacquiredlubricationfunctionasarticularcartilage. draldefects,andalsofunctionedasarticularcartilage.Thisisfurther
+We analyzed the relationshipbetween TGF-β and Sik3 inactiva- supported by the result that the transplantation of cyiPS-Cart pre-
+tion.TheadditionofTGF-βdidnotaffectthephosphorylationofSik3 ventedthedegenerationofthenativearticularcartilagesurrounding
+NatureCommunications|(         2023)1 4:804  9
+
+NEW PAGE
+
+Article https://doi.org/10.1038/s41467-023-36408-0
+a 10uM forskolin pSik3/β-actin b Prg4
+4
+− + KDa ** *
+3
+pSik3 nal  A 
+150 e signsity2 mRNsion 2
+Sik3 ativnte ve res 1
+150 eli atixp
+R ele
+50 R
+0 0
+β-actin
+37 −1 +2 −1 +2
+10uM forskolin 10uM forskolin
+c d
+Safranin O Prg4
+Prg4 Col10a1 Prg4 Col10a1
+**** **** *** **
+A 
+N
+n
+Ro
+msi
+e es
+vr
+atixp
+ele
+R
+e
+Prg4
+n
+o 20 Sik3+/+
+si
+s
+e Sik3-/-
+pr 15
+x
+e
+A 
+N 10
+R
+m
+e  5
+v
+ati
+el
+R 0
+0 6 12 18 24
+Period for which FFSS 
+was applied (hours)
+Fig.8|InvolvementofSik3functionandﬂuidﬂowshearstress(FFSS)onPrg4 fromSik3knockout(Sik3−/−)andSik3transgenic(Sik3tg)mice.Errorbarsdenote
+expressioninmousechondrocytes.aImmunoblotexpressionanalysisofSik3 mean±SE.****P<0.0001,****P<0.0001,***P=0.0003,**P=0.0012,n=3,two-
+phosphorylatedatT411,aninactiveformofSik3,inwild-typemouseprimary tailedStudent’st-test(n=3dishes).Datawererepresentativeoftwoindepen-
+chondrocytestreatedwith10µMforskolinfor30min.Left:blotsrepresenta- dentexperiments.dImmunohistochemicalanalysisofPrg4expressioninthe
+tiveofthreeindependentexperimentsareshown.Right:quantiﬁcationof kneejointsofSik3conditionalknockout(11Enh-Cre;Sik3ﬂox/ﬂox)micelacking
+pSik3(pT411)totheβ-actinratioinculturedchondrocyteswithorwithout Sik3expressioninchondrocytes14daysafterbirth.Yellowarrowsindicatethe
+forskolintreatment.Errorbarsdenotemean±SE.**P=0.0041bytwo-tailed thicknessoftheareainwhichPrg4wasexpressed.Datawererepresentativeof
+Student’st-test(n=3).bReal-timeRT-PCRanalysisofPrg4expressioninwild- ﬁveconditionalknockoutmiceandfourSik3ﬂox/+mice.Scalebars:100μm.
+typemouseprimarychondrocytestreatedwith10µMforskolinfor6h.Error eReal-timePCRanalysisofPrg4expressioninwild-type(Sik3+/+)andSik3
+barsdenotemean±SE.*P=0.0108bytwo-tailedStudent’st-test(n=6dishes). knockout(Sik3−/−)primarychondrocytessubjectedtoFFSSfortheindicated
+Datawererepresentativeofthreeindependentexperiments.cReal-timeRT- period.Dataarerepresentativeoftwoindependentexperiments.Sourcedata
+PCRanalysisofPrg4andCol10expressioninprimarychondrocytesobtained areprovidedasaSourceDataﬁle.
+NatureCommunications|(         2023)1 4:804  10
+
+NEW PAGE
+
+Article https://doi.org/10.1038/s41467-023-36408-0
+chondral defects. These results collectively indicate the successful turnimprovestissuerepair.However,therepairtissueremainsﬁbrous
+engraftmentofallogeneiccyiPS-Cartinachondraldefectintheknee becausethechondrogeniccapacityofhostprogenitorcellsislimited.
+jointsoftheprimatemodel. TheregenerativemechanismofsurvivalandreplacementbycyiPS-Cart
+does not require an invasive procedure for microfracture because it
+Discussion healsthedefectindependentlyofhostprogenitorcells.
+Tothebestofourknowledge,thisistheﬁrststudytoprovidescientiﬁc Second,theintegrationbetweentherepairedtissueandthesur-
+evidence in a primate model that allogeneic cartilage achieves roundingnativecartilageishardlyachieved1,34,35.Thus,theintegration
+engraftmentinchondraldefects,withoutinducingimmunereactions. of cyiPS-Cart with host cartilage is promising. Human iPSC-derived
+Incontrast,allogeneiccyiPS-Cartelicitsanimmunereactioninosteo- cartilageorganoidshavethecapacityforintegration36.FGFsignalsare
+chondral defects14. Cartilage is believed to be relatively involved in this integration. Further studies are needed to fully
+immunoprivileged6,27 because chondrocytes are surrounded by the understandthisintegrationmechanismandtoenhancetheintegration
+ECM,whichprotectsthechondrocytesfromexposuretocellsinvolved ofcartilagegrafts.
+inimmunologicalreactions.Thelackofanimmunereactionfollowing Thereareseverallimitationstothisstudy.First,thecynomolgus
+cyiPS-Carttransplantationinchondraldefects,whichbleedminimally, monkeysusedinthisstudyarenotlargeanimals,whichmakesitdif-
+suggests that exposure of allogeneic cyiPS-Cart in osteochondral ﬁcult to reproduce changes in biomechanics observed in cartilage
+defects toabundantbloodﬂowin the bonemarrowmightelicitan lesionsinhumans.Althoughchondraldefectsintheemptygroupwere
+immunereactiondespitethepresenceofECM.Althoughallogeneic ﬁlledwithﬁbroustissueinafour-monthinterval,thesmallsizeofthe
+cyiPS-Cartinosteochondraldefectssurvives,furtherstudiesarenee- defectswouldeventuallyhealafteralongerperiod.Hence,ourresults
+dedtodeterminewhetherthedegreeoftheimmunereactionistol- willneedtobeconﬁrmedinlargeranimalmodelswithcritical-sized
+erableforeffectiveregeneration.Whileitremainstobedetermined defects.Inaddition,wedidnotanalyzethebiomechanicalproperties
+whetherosteochondraldefectscanbecuredbyallogeneiccartilage ofpost-transplantcyiPS-Cart.Abiomechanicaltestwillberequiredto
+transplantation28,ourresultsindicatethatchondraldefectscanbea determine clinical relevance. Second, an observation period of
+deﬁniteindicationforallogeneiccartilagetransplantation. 17weeks(4months),asemployedinthisstudy,isnotlongenoughto
+Mostcell-basedtherapiesinducecartilageregenerationthrougha demonstrate the sustainability of a transplant. It is, however, still
+mechanismcalledtrophiceffects,whereinimplantedcellssurviveonly possible to conclude that engrafted cells had obtained a degree of
+transiently and secrete growth factors that stimulate the host pro- articular chondrocyte identity by 4 months. A longer observation
+genitorcells.Evidencethatimplantedcellsachieveengraftmentand period, suchas2 years, wouldfurther signify the sustainability and
+directly contribute to tissue repair is scant29–31. In a recent study, turnoveroftransplants.Third,althoughourresultssuggestthatSik3
+humanembryonicstemcell(ESC)-derivedchondrocytesthatdonot inhibitsPrg4expressioninmousechondrocytes,thisdoesnotprove
+associatewithcartilageECMwereimplantedintothearticularcartilage thatSIK3isinvolvedinPRG4expressioninpost-transplantcyiPS-Cart
+defectsofmini-pigs32.Ofthecellsthatformedintherepairedtissuein in monkeys. In conclusion, cyiPS-Cart transplanted into chondral
+thedefects,4%werehuman,indicatingthatmostofthecellsthatform defects survived, integrated with native cartilage, acquired PRG4
+inrepairedtissuearethoseoftherecipient.Althoughexperimental expression in the superﬁcial region,and prevented degeneration of
+conditionsofthetwostudiesdiffer(xenograftvs.allograft;criticalvs. thesurroundingcartilage.Theseresultscollectivelysuggestthatallo-
+smallsizedefects;6vs.4months’observation),allogeneiccyiPS-Cart geneiccyiPS-Cartengraftmentwillcontributetothedevelopmentof
+survived for at least four months, and almost all cells in the repair translationalmedicaltechniquesbasedonallogeneicpluripotentstem
+tissueweretransplantedcells,asdemonstratedbyGFPexpressionin cellstotreatchondraldefectsinarticularcartilage.
+our study. In addition, cyiPS-Cart cells differentiated into articular
+chondrocytesaftertransplantationandfunctionedasarticularcarti- Methods
+lage.OurresultssuggestthatSIK3couldbeinvolvedinpost-transplant Ethicsstatement
+differentiation.Althoughwedonotknowwhetherthisdifferentiation All methods were performed following relevant guidelines and reg-
+mechanism is speciﬁc to cyiPS-Cart, we speculate that two speciﬁc ulations.ExperimentsusingrecombinantDNAwereapprovedbythe
+featuresofiPS-Cartcouldfavoritscellstodifferentiateandsurvive: Recombinant DNA Experiments Safety Committees of Kyoto Uni-
+First, the iPS-Cart is composed of chondrocytes and cartilage ECM, versity (No. 180041) and Osaka University (No. 04794). All animal
+whichcontributetothesurvivalanddifferentiationofchondrocytes experimentswereapprovedbytheInstitutionalAnimalCommitteesof
+byprovidinganappropriateenvironmentforchondrocytes.Second, KyotoUniversity(No.18-101-14andNo.16-74-17)andOsakaUniversity
+iPS-Carthascharacteristicsofembryoniccartilage33thatwouldcon- (No.03-044-014).
+tribute to its survival and differentiation. The survival and differ-
+entiation capacity of cyiPS-Cart enables a new strategy whereby IsolationofcynomolgusmonkeyiPSCsandcreationofcyiPS-Cart
+damaged cartilage can be replaced with transplanted cartilage. bychondrogenicdifferentiationofcyiPSCs
+Regardingclinicalrelevance,ithasnotbeenknownwhetherengraft- WepreparedacyiPSCline,1466A1,inwhichtheEGFPgenewasinte-
+ment of cartilage transplants gives better clinical results, such as grated into the AAVS1 locus using the pBS-macAAVS1-P-CAG-GFP
+improvedjointfunctionandpainrelief,thanrepairtissueformedby vector and CRISPR-Cas9 system. The cyiPSC lines had homozygous
+trophiceffectsorviceversa.Itisplausiblethatengraftmentofcartilage MHC haplotypes (Mafa-HT1; Mafa is the MHC of a cynomolgus
+transplantsisbetterindicatedforseverecartilagelesionswherethe macaque)37.
+provisionofhostprogenitorcellsislimited.Furtherstudyisrequired ThecyiPSCsweremaintainedonamitomycinC-inactivatedfeeder
+toclarifytheindications. layer of mouse embryonic ﬁbroblasts (MEF) in Dulbecco’s Modiﬁed
+The treatmentofchondraldefectsischallenging,particularlyin EagleMedium/Ham’sF12(DMEM/F12)medium(Sigma)containing20%
+twoaspects.First,thechondraldefectsdonotbleedand,therefore,do knockoutserumreplacement(KSR;ThermoFisherScientiﬁc),1×10−4M
+notinitiatethewound-healingprocess.Therefore,chondraldefectsare 2-mercaptoethanol (Thermo Fisher Scientiﬁc), 1×10−4M nonessential
+occasionallytreatedbymicrofracturesurgery,whereinthesubchondral aminoacids(ThermoFisherScientiﬁc),1mMsodiumpyruvate(Thermo
+bone is invasively pierced to introduce mesenchymal cells into the FisherScientiﬁc),2mMGlutaMAX(ThermoFisherScientiﬁc),and50
+defect. Cell-based therapies combined with microfracture probably unitspenicillinand50mg/mLstreptomycin(1%PC/SM,ThermoFisher
+initiate a regenerative mechanism by which implanted cells secrete Scientiﬁc).Themediumwaschangedeveryday.Every7days,thecyiPSC
+factorsthatstimulatemesenchymalcellsinthebonemarrow,whichin colonies were subjected to 0.1% collagenase treatment for 3min
+NatureCommunications|(         2023)1 4:804  11
+
+NEW PAGE
+
+Article https://doi.org/10.1038/s41467-023-36408-0
+(ThermoFisherScientiﬁc),andcellswerecollected,centrifuged,and the quality of articular cartilage surrounding chondral defects; the
+replatedontodisheswithnewMEFfeedercells38. formerwasdividedbythelatter.
+For chondrogenic differentiation, all cyiPSCs were loosely Two individual assessors reviewed the sections in a blinded
+detachedfromtheMEFfeedercellsbyexposureto0.1%collagenase mannerandscoredthemaccordingtoamodiﬁedWakitanihistological
+andculturedinStemﬁtAK02Nmedium(Ajinomoto,Tokyo,Japan)on scoringsystem40,41.Themaximumscoreofthissystemis11,andalower
+Matrigel-coated dishes for 7 days. CyiPSCs were differentiated into score indicates repair more similar to the native articular cartilage
+chondrocytes,andcartilagewasformedusingapreviouslydescribed (SupplementaryTable2)40.
+method for human iPSCs12,13. Brieﬂy, after chondrogenic differentia- Semi-serial sections were immunostained using speciﬁc anti-
+tion,thecellsweretransferredintosuspensionculturetoformcarti- bodies.SupplementaryTable3liststheantibodiesusedinthisstudy.
+laginous particles 1–3mm in diameter. Differentiated chondrogenic Anti-type I collagen, anti-type II collagen, anti-GFP, and anti-PRG4
+cellsandparticleswereculturedinachondrogenicmedium(DMEM antibodiesweredetectedusingaCSAIIBiotin-freeTyramideSignal
+[Sigma] with 1% ITS-X [Thermo Fisher Scientiﬁc], 1% FBS [Thermo AmpliﬁcationSystemKit(AgilentTechnologies,SantaClara,CA,USA)
+Fisher Scientiﬁc], 1×10−4M nonessential amino acids, 1mM sodium and DAB was used as the chromogen. For the anti-CD3 antibodies,
+pyruvate,1%PC/SM,50μg/mLascorbicacid[NacalaiTesque],10ng/ immune complexes were detected using secondary antibodies con-
+mL BMP2 [Peprotech], 10ng/mL TGFβ1 [Peprotech], and 10ng/mL jugatedtoAlexaFluor488.Theantigenswereunmaskedbytreatment
+GDF5 [BioVision]). We also created cyiPS-Cart from the previously withhyaluronidaseandEDTA.
+reportedcyiPSCline,1231C1-G39. Thenumberofpositivelystainedcellswithanti-CD3antibodiesin
+theregionbelowtheosteochondraljunctionwascountedinfourﬁelds
+TransplantationofcyiPSC-derivedcartilageorganoidinto perknee.
+osteochondralorchondraldefectsincynomolgusmonkey
+Cynomolgus monkeys (3–4 years old) were purchased from Ina PreparationofsinglecellsforscRNA-seqanalysis
+Research(Nagano,Japan).Undergeneralanesthesia,theskinandjoint The cyiPS-Cart (pre-transplant cyiPS-Cart), intact articular cartilage
+capsules of the right knee were opened in 12 monkeys. Chondral (cyAC),ﬁbroustissueformedinchondraldefectsintheemptygroup
+defects(1mmdiameterand0.5mmdepth)werecreatedatthetro- (cyFT),andcyiPS-Cartinchondraldefectsinthetransplantationgroup
+chlea of the distal femur under surgical microscopy. We used the (post-transplantcyiPS-Cart)weremincedinto1–2mmpieces.Next,we
+electricrouter(Dremel,micro,pleaseseeﬁgurebelow)andadental digested these pieces with Liberase solution (for cyAC, and post-
+steelburunderasurgicalloupetocreateconsistentchondraldefects. transplantcyiPS-Cart:RPMI-1640(NacalaiTesque)supplementedwith
+Wetransplanted1466A1cyiPSC-derivedcyiPS-Cartintothechondral 0.2% FBS, 10mM HEPES pH 7.2–7.4, 0.2–0.4mg/mL Liberase TM
+defects by press-ﬁtting in six monkeys (transplantation group). We (Roche),and2kU/mLDNaseI(Merck);forpre-transplantcyiPS-Cart:
+transplantednothingintotheothersixmonkeys(emptygroup).The DMEMwith1%FBS,1%ITS-X,50µg/mLascorbicacid,1mMsodium
+jointcapsuleandtheskinwereclosed.Aftersurgery,weintramuscu- pyruvate, 1% nonessential amino acids, 1% penicillin-streptomycin,
+larly injected antibiotics and buprenorphine hydrochloride (0.1mg/ 10ng/mLTGF-β1,10ng/mLGDF5,10ng/mLBMP2,0.2mg/mLLiberase
+body)for3daysintoallmonkeys. TM (Roche), and 2kU/mL DNase I (Merck)) at 37°C, 5% CO for
+2
+Threemonkeysineachgroupweresacriﬁcedeither4or17weeks 120–210minwithcontinuousshaking.Thecellsweremixedtentimes
+after injecting pentobarbital sodium (100mg/kg) under deep anes- usinga1000μLbluetip-ﬁttedpipetteandthenpassedthroughacell
+thesia.Foreachmonkey,weharvestedandsubjectedonetransplanted strainer (70μm pore size; BD Biosciences), centrifuged at 4°C for
+siteforhistologicalanalysisandharvestedtwotransplantedsitesand 300×gfor5min,andthesupernatantwasdiscarded.Thecellswere
+combinedthemforscRNA-seqanalysis. resuspendedinRPMI-1640mediumsupplementedwith0.2%FBSand
+As a positive control for immune reactions, we created osteo- 10mMHEPES.
+chondraldefects(1.5mmdepth)inthreemonkeys.Wetransplanted Forcellhashing,webiotinylatedcellsurfaceproteinsusingEZ-
+1466A1 cyiPSC-derived cyiPS-Cart into one monkey and 1231C1-G LinkSulfo-NHS-Biotin(ThermoScientiﬁc),andthenstainedthemwith
+cyiPSC-derivedcyiPS-Cartintotwomonkeys.Wesacriﬁcedthemon- 0.6μg/mL Totalseq (A0951-A0955, and A0436 (BioLegend))42. We
+keysfourweekslater,harvestedthetransplantedsites,andsubjected selectedlivecellsstainedwithA0951-A0955usingaFACSAriaIIﬂow
+themtohistologicalanalysis. cytometer(BDBiosciences)andsuspendedtheminasamplebuffer
+(BDBiosciences).
+CTofmonkeykneejoints
+CT of the monkey knee joints was performed using a CT system cDNAsynthesisusingtheBDRhapsodysystem
+(AquilionTSX-101A/NA;TOSHIBA,Japan).Three-dimensionalimages Wesubjectedtheobtainedsingle-cellsuspensionstoaBDRhapsody
+were constructed using image processing software (Aquilion TSX- system using the BD Rhapsody Targeted & Abseq Reagent kit (BD
+101A/NA,TOSHIBA,Japan). Biosciences).Afterreversetranscription,theBDRhapsodybeadswere
+treated with exonuclease I at 37°C for 60min and 1200 rpm on a
+MHCgenotypingofmonkeys ThermomixerCwithaThermotop.Theresultantbeadswereimme-
+MHCgenotypingofmonkeyswasperformedbasedontheMHCallele diatelychilledonice.Thesupernatantwasremoved,andthebeads
+informationregisteredintheImmunoPolymorphismDatabase(http:// were washed with 1mL WTA wash buffer (10mM Tris-HCl pH 8.0,
+www.ebi.ac.uk/ipd/index.html)byInaResearch37. 50mM NaCl, 1mM EDTA, and 0.02% Tween-20) and 200μL BD
+Rhapsody lysis buffer (for inactivation of enzyme), once again with
+Histologicalanalysis 1mLWTAwashbufferalone,twicewith500μLWTAwashbuffer,and
+Sampleswereﬁxedwith4%paraformaldehyde,decalciﬁedwithKCX ﬁnallyresuspendedin200μLbeadresuspensionbufferandstoredat
+(FALMA),processed,andembeddedinparafﬁn.Semi-serialsections 4°C. During the washing step, bead-containing DNA LoBind tubes
+werestainedwithHEorsafraninO.Toassessthequalityoftherepaired werereplacedtwice.
+tissue,thesafraninO-positiveareaandthetotalareaoftherepaired
+tissueweremeasuredbyBZ-X800analyzersoftware(KeyenceCorp., GenerationofTAS-Seqlibrary
+Japan),andtheformerwasdividedbythelatter. TAS-SeqlibrariesweregeneratedbyImmunogeneteqsInc.(NodaCity,
+ThesafraninO-positiveareaandthetotalareaofarticularcarti- Chiba, Japan), as described previously43. Brieﬂy, reverse-transcribed
+lageregionssurroundingchondraldefectsweremeasuredtoassess exonuclease I-treated BD Rhapsody beads were subjected to a
+NatureCommunications|(         2023)1 4:804  12
+
+NEW PAGE
+
+Article https://doi.org/10.1038/s41467-023-36408-0
+terminator-assisted TdT reaction, second-strand synthesis reaction, (scalefactor=1,000,000,accordingtotheanalyticalparameterused
+andaﬁrst/secondroundofwhole-transcriptomeampliﬁcation(WTA) byMuris49).CellswerecategorizedintotheS,G1,orG2/Mphasesby
+or Totalseq library ampliﬁcation reaction. The size distribution and scoring cell cycle-associated gene expression using the CellCy-
+concentrationoftheampliﬁedcDNAandhashtaglibrarieswereana- cleScoringfunction.Highlyvariablegenesineachdatasetwereiden-
+lyzed using a MultiNA system (Shimadzu). Illumina libraries were tiﬁed using the FindVariableFeatures function with the following
+constructedfromampliﬁedcDNAlibraries(100ng)usingtheNEBNext parameters: selection.method=“vst,” nfeatures=5000, mean.cut-
+UltraIIFSLibraryPrepkitforIllumina(NewEnglandBiolabs).Illumina off=c(0.1,Inf),anddispersion.cutoff=c(0.5,Inf).Theexpressiondata
+adaptersandunique-dualbarcodeswereaddedtothehashtaglibraries werescaledusingtheScaleDatafunction.Thereadcountsofeachcell
+usingPCR.The size distributionand concentrationoftheampliﬁed within each dataset were regressed as confounding factors in the
+IlluminalibrarieswereanalyzedusingtheMultiNAsystemandKAPA ScaleData function. Principal component analysis (PCA) was per-
+library quantiﬁcation kit (KAPA Biosystems). Sequencing was per- formedusingtheRunPCAfunction,andthetop42PCswereselected
+formed using an Illumina Novaseq 6000 sequencer (Illumina, San for dimensional reduction using UMAP. We determined the cluster
+Diego, CA, USA) and a Novaseq 6000 S4 reagent kit v1.0 or v1.5, resolutionofthevalues.DEGsofeachclusterweredeterminedusing
+according to the manufacturer’s instructions (read 1 (cell barcode): theFindMarkersfunctionwitha0.05p_val_adjthresholdbetweenthe
+67bpandread2(cDNA):140(v1.0)/155(1.5)base-pairwith8base-pair twogroups(i.e.,cellclusters).DEGswerefurtheranalyzedbyIPAv01-
+×2unique-dualindexes).Thepooledlibraryconcentrationwasadjus- 20-04(QIAGEN)toidentifyupstreamgenesandpathways.
+tedto1.75nM(v1.0)or2.0nM(v1.5),andthelibrarywasspikedwith
+12%PhiXcontrollibraryv3(Illumina). RNAvelocityanalysis
+We performed the RNA velocity analysis as described previously50.
+Fastqdatapreprocessingandgenerationofthesingle-cellgene TAS-Seq data cDNA reads were mapped to the reference genome
+expressionmatrix (Macaca_fascicularis_6.0 for macaca fascicularis data, and GRCh38
+ToobtainthegeneexpressioncountmatrixandTotalseqexpression release-101 for human data) using HISAT2-2.2.151 and the following
+matrixforeverycell,fastqﬁlesoftheTAS-Seqdatawereprocessedby parameterswereused:-q-p6–rna-strandnessF–very-sensitive–seed
+ImmunogeneteqsInc.asdescribedpreviously43.Bowtie2-indexesbuilt 656565–reorder–omit-sec-seq–mm.FortheHISAT2indexbuild,a
+fromreferenceRNAsequences(cDNAandncRNAFASTAﬁlesfromthe correspondingensembl gtfﬁlewas ﬁltered toretainprotein-coding
+Ensembl database (Macaca_fascicularis_6.0)44) were used to assign RNA,long non-coding RNA,and Tcell chain/immunoglobulin chain
+cDNAreadstoeachtranscript.AssociatedTotalseqstreptavidin/anti- annotations according to the 10X Genomics’s method (https://
+biotinreadsweremappedtoknownbarcodesequences(providedby support.10xgenomics.com/single-cell-gene-expression/software/
+BioLegend)usingbowtie2-2.4.2,withthefollowingparameters:-p2-D pipelines/latest/advanced/references#mkgtf).Then, the cellbarcode
+20 -R 3 -N 0 -L 8 -iS,1,0.75 -norc -seed 656565-reorder-trim-to3:39 informationofeachreadwasaddedtotheHISAT2-mappedBAMﬁles,
+-score-minL,−9,0-mp3,3-np3-rdg3,3.Theinﬂectionpointofthe andassociatedgeneannotationswereassignedusingfeatureCounts
+knee plot (total read count versus the rank of the read count) was v2.0.252withthefollowingparameters:-T2-Q0-s1-tgene-ggene_-
+detected using the DropletUtils package45 in R 3.6.3 (https://cran.r- name–primary-M -O –largestOverlap–fraction -RBAM. In the fea-
+project.org/) from the resulting single-cell gene expression matrix tureCounts analysis, a “gene” annotation was used to capture
+ﬁles.Cellsforwhichthetotalreadcountexceededtheinﬂectionpoint unsplicedRNAinformationfortheRNAvelocityanalysis,andprimary
+wereconsideredvalid.Demultiplexingofsinglecellsbyexpressionof annotationswerekept.TheresultingBAMﬁlewassplitusingvalidcell
+Totalseq streptavidin/anti-biotin was performed as described barcodesandnim1.0.6andhts-nimv0.2.23,thesplitﬁleswerepro-
+previously43. cessedintoloomﬁlesusingvelocytorun(version0.17.17)withthe-c
+and -U options, and the loom ﬁles were concatenated using the
+BackgroundsubtractionofTAS-Seqexpressionmatrixby loompy.combinefunction(version3.0.6)53.Then,weusedscVelo54for
+distribution-basederrorcorrection RNAvelocityanalysis.TheloomﬁleswerereadtoanAnnDataobject.
+Toreducethebackgroundreadcountsofeachgenepossiblyderived After estimating the RNA velocity, we inferred the trajectory using
+fromRNAdiffusionduringthecelllysisstepwithintheBDRhapsody PAGA55.Thevelocity-inferreddirectionalityextendedthetrajectory.
+cartridge and reverse transcription, a distribution-based error cor-
+rectionwasincludedintheBDRhapsodytargetedscRNA-seqworkﬂow Isolationandcultureofcellsfrompre-transplantcyiPS-Cart
+performedbyImmunogeneteqsInc.,aspreviouslyreported43.Brieﬂy, The pre-transplant cyiPS-Cart was treated with 0.25% trypsin-EDTA
+thegenesforwhichthelog (x+1)-transformedmaximumexpression (ThermoFisherScientiﬁc)for1handsubsequentlytreatedovernight
+2
+was over 8 were selected, and a biexponential transformation was with4mg/mLcollagenaseD(Roche)inDMEMsupplementedwith1%
+appliedtoeachgenecountusingtheFlowTranspackage46inR3.6.3. PC/SM.Afterwashing,cellsweresuspendedinDMEMsupplemented
+Next,Gaussianmixturecomponentsweredetectedusingthemclust with10%FBSorchondrogenicmedium.
+package47inR3.6.3.Theaverageexpressionofeachcomponentwas Atotalof3.0×105cellsfrompre-transplantcyiP-Cartwereplated
+calculated,andthegenesforwhichthemaximumaverageexpression inaϕ35mmdishandculturedinDMEMsupplementedwith10%FBS
+of each component was over 5.5 were selected. If the difference inthepresenceorabsenceof100ng/mLTGF-β1(Peprotech).Atotalof
+betweentheaverageexpressionofeachcomponentanditsmaximum 2.3×105cellsfrompre-transplantcyiPS-Cartwereculturedinachon-
+expressionwasgreaterthan5,theexpressionlevelofthecomponents drogenicmediuminthepresenceorabsenceof100µMTGF-βinhi-
+was considered as background gene expression, and the converted bitorSB431542(Cayman).Thecellswerecollected48hlaterformRNA
+expressionofthecomponentswassetto0. expressionanalysis.
+Single-cellclusteringandannotation ConventionalandconditionalSik3knockoutmiceandSik3
+WeclusteredsinglecellsfromeachdatasetusingSeuratv4.0.348inR transgenicmice
+4.1.0.TheSeuratobjectforeachdatasetwascreatedusingtheCre- AllmiceusedwereC57BL/6.Sik3−/−mice25andSik3ﬂox/ﬂoxmice24have
+ateSeuratObject function (min. cells=5, min. genes=500). Cells for been previously described. 11Enh-Cre mice are transgenic mice
+which the percentage of mitochondrial genes was greater than the expressing Cre under the control of Col11a2 promoter/enhancer
+thresholdwereﬁlteredusingthesubsetfunctioninSeuratv4.0.The sequences56.11Enh-CretransgenicmiceandSik3ﬂox/ﬂoxmiceweremated
+expression data were normalized using the NormalizeData function to generate Sik3 conditional knockout mice, in which Sik3 was
+NatureCommunications|(         2023)1 4:804  13
+
+NEW PAGE
+
+Article https://doi.org/10.1038/s41467-023-36408-0
+speciﬁcallydeﬁcientinchondrocytes.Sik3−/−and11Enh-Cre;Sik3ﬂox/ﬂox normalized to that of GAPDH or β-actinmRNA expression, and the
+miceexhibitedsimilarcartilagephenotypes.Col11a2-hSIK3transgenic resultsindicatetherelativeexpressionofthemolecules.
+miceoverexpressinghumanSIK3inchondrocytesundertheCol11a2
+promoter/enhancercontrolweredescribedpreviously25. Statisticalanalysis
+Thedataare shownasmean±standard error(SE).We performed a
+Cultureofmouseprimarychondrocytes two-tailedStudent’st-testforparametricdataandaone-wayanalysis
+Primarychondrocytes wereprepared from Sik3−/− knockout miceat ofvariance(ANOVA)withTukey’sHSDtestformultiplecomparisons.
+18.5postcoitusandCol11a2-hSIK3transgenicmice3daysafterbirth,as StatisticalsigniﬁcancewassetatP<0.05.
+describedpreviously57.Brieﬂy,epiphysealcartilagewasdissectedfrom
+the knee, elbow, shoulder joints, and femoral heads of mice and Reportingsummary
+digestedwith3mg/mLcollagenaseD(Roche)inDMEM/F12(Invitro- Further information on research design is available in the Nature
+gen)containing5%FBSand1%penicillin-streptomycin(LifeTechnol- PortfolioReportingSummarylinkedtothisarticle.
+ogies)at37°Covernight.Approximately5×105primarychondrocytes
+were obtained from each mouse and cryopreserved in LaboBanker Dataavailability
+(KuraboIndustriesLtd.).Beforetheexperiments,thecellswerelysed, Alltheoriginaldataareavailableuponrequestfromtheauthors.The
+plated,andculturedinDMEM/F12supplementedwith5%FBS,and1% scRNA-seqdatasetshavebeendepositedintheGEOdatabaseunder
+penicillin-streptomycinforlessthan10days. accessioncodeGSE206120.Sourcedataareprovidedwiththispaper.
+Chondrocyteswereseeded(0.5×105cells/well)into12-welltissue
+culture plates (Corning). Chondrocytes were cultured in DMEM/F12 Codeavailability
+containing 5% FBS and 1% penicillin-streptomycin(Invitrogen) at 5% ThecodeusedinthisstudyisprovidedasSupplementaryCode1.
+CO in humidiﬁed air. Before experiments, cells were pretreated
+2
+overnight with a starvation medium (serum-free). For experiments, References
+cellsweretreatedwith1,5,or10ng/mLTGF-β1(PeproTech)or10or 1. Huey,D.J.,Hu,J.C.&Athanasiou,K.A.Unlikebone,cartilage
+100μMforskolin(F3917,Sigma-Aldrich)(inDMSO)for30minor1h regenerationremainselusive.Science338,917–921(2012).
+forimmunoblotanalysisand6hformRNAexpressionanalysis. 2. Roberts,S.,Menage,J.,Sandell,L.J.,Evans,E.H.&Richardson,J.B.
+ImmunohistochemicalstudyofcollagentypesIandIIandpro-
+ApplicationofFFSS collagenIIAinhumancartilagerepairtissuefollowingautologous
+We followed a previously described method22. Mouse primary chon- chondrocyteimplantation.Knee16,398–404(2009).
+drocyteswereseeded(1×105cells/well)insix-welltissuecultureplates 3. Wang,T.etal.Patellofemoralcartilagelesionstreatedwithparti-
+(diameter=3.48cm)(Corning).ChondrocyteswereculturedinDMEM/ culatedjuvenileallograftcartilage:aprospectivestudywithmini-
+F12containing5%FBSand1%penicillin-streptomycin(Invitrogen)with mum2-yearclinicalandmagneticresonanceimagingoutcomes.
+5%CO inhumidiﬁedairfor2–24h.Thirtyminbeforeexposuretostatic Arthroscopy34,1498–1505(2018).
+2
+orFFSSconditions,themediumwasreplacedgentlywith4mLfresh 4. Farr,J.,Tabet,S.K.,Margerrison,E.&Cole,B.J.Clinical,radio-
+culture medium. For cultures exposed to FFSS, culture dishes were graphic,andhistologicaloutcomesaftercartilagerepairwithpar-
+placedonanorbitalshaker(0.5-cmradiusofgyration)(IKA,KS260 ticulatedjuvenilearticularcartilage:a2-yearprospectivestudy.
+basic) set to rotate at 300 rpm at 37°C, which exposed the chon- Am.J.SportsMed.42,1417–1425(2014).
+drocytestoasteadylaminar,non-pulsatileshearstressof~7.6dyn/cm2. 5. Dawkins,B.J.etal.Patellofemoraljointcartilagerestorationwith
+particulatedjuvenileallograftinpatientsunder21yearsold.Knee
+Immunoblotanalysis https://doi.org/10.1016/j.knee.2021.07.006(2021).
+MouseprimarychondrocyteswerelysedinRIPAbuffer(10mMTris- 6. Adkisson,H.D.etal.Immuneevasionbyneocartilage-derived
+HClpH7.5,150mMNaCl,0.1%SDS,0.1%sodiumdeoxycholate,1mM chondrocytes:Implicationsforbiologicrepairofjointarticular
+EDTA, 1% NP-40, complete protease inhibitors from Roche, and cartilage.StemCellRes.4,57–68(2010).
+phosphataseinhibitorcocktail1and2fromSigma-Aldrich)andsub- 7. Kimura,T.,Yamashita,A.,Ozono,K.&Tsumaki,N.Limitedimmu-
+jectedtoSDS-PAGE. nogenicityofhumaninducedpluripotentstemcell-derivedcarti-
+Theseparatedproteinswereelectroblottedandthemembranes lages.TissueEng.PartA22,1367–1375(2016).
+wereimmunostainedwithrabbitanti-SIK3(Abcam,1:500),rabbitanti- 8. Malejczyk,J.,Osiecka,A.,Hyc,A.&Moskalewski,S.Effectof
+pSIK3(pT411)(KINEXUS,1:1,000),rabbitanti-Smad2/3(CST#8685S, immunosuppressiononrejectionofcartilageformedbytrans-
+1:1000,rabbitanti-pSmad3(CST#9520S,1:1000),andrabbitanti-β- plantedallogeneicribchondrocytesinmice.Clin.Orthop.Relat.
+actin (Cell Signaling, 1:1,000) antibodies. Goat anti-mouse IgG-HRP Res.269,266–273(1991).
+(SantaCruz,1:5000)orgoatanti-rabbitIgG-HRP(SantaCruz,1:5000) 9. Romaniuk,A.etal.Rejectionofcartilageformedbytransplanted
+were used as secondary antibodies. ECL system and LAS4000 (GE allogeneicchondrocytes:evaluationwithmonoclonalantibodies.
+Healthcare) were used for chemiluminescent immunodetection. Transpl.Immunol.3,251–257(1995).
+pSIK3(pT411)levelswerequantiﬁedrelativetoβ-actinlevelsbyusing 10. Yamashita,A.&Tsumaki,N.Recentprogressofanimaltransplan-
+the FUSION FX software (Vilber, France). The uncropped blots are tationstudiesfortreatingarticularcartilagedamageusingplur-
+providedinSourceDataandSupplementaryFig.9. ipotentstemcells.Dev.GrowthDiffer.63,72–81(2021).
+11. Castro-Vinuelas,R.etal.Inducedpluripotentstemcellsforcarti-
+mRNAexpressionanalysis lagerepair:currentstatusandfutureperspectives.Eur.CellMater.
+Total RNAs were extracted using RNeasy (Qiagen). For quantitative 36,96–109(2018).
+reversetranscriptionPCR(RT-PCR),totalRNAwasreverse-transcribed 12. Yamashita,A.,Yoshitomi,H.,Kihara,S.,Toguchida,J.&Tsumaki,N.
+intoﬁrst-strandcDNAusingReverTraAce(Toyobo)andanoligo(dT) Culturesubstrate-associatedYAPinactivationunderlieschondro-
+20 primer. PCR ampliﬁcation was performed using the KAPA SYBR genicdifferentiationofhumaninducedpluripotentstemcells.
+FASTqPCRMasterMixABIprismkit(KAPABiosystems,Wilmington, StemCellsTransl.Med.https://doi.org/10.1002/sctm.20-
+USA)andStepOnePlusReal-TimePCRSystem(ThermoFisherScien- 0058(2020).
+tiﬁc). The sequences of the PCR primers used are listed in Supple- 13. Yamashita,A.etal.Generationofscaffoldlesshyalinecartilaginous
+mentary Table 4. The RNA expression levels of target genes were tissuefromhumaniPSCs.StemCellRep.4,404–418(2015).
+NatureCommunications|(         2023)1 4:804  14
+
+NEW PAGE
+
+Article https://doi.org/10.1038/s41467-023-36408-0
+14. Okutani,Y.etal.Generationofmonkeyinducedpluripotentstem 36. Chen,X.etal.Integrationcapacityofhumaninducedplur-
+cell-derivedcartilagelackingmajorhistocompatibilitycomplex ipotentstemcell-derivedcartilage.TissueEng.PartA25,
+classImoleculesonthecellsurface.TissueEng.PartA28, 437–445(2019).
+94–106(2022). 37. Shiina,T.etal.DiscoveryofnovelMHC-classIallelesandhaplo-
+15. Stuart,T.etal.Comprehensiveintegrationofsingle-celldata.Cell typesinFilipinocynomolgusmacaques(Macacafascicularis)by
+177,1888–1902.e1821(2019). pyrosequencingandSangersequencing:Mafa-classIpolymorph-
+16. Ji,Q.etal.Single-cellRNA-seqanalysisrevealstheprogressionof ism.Immunogenetics67,563–578(2015).
+humanosteoarthritis.Ann.Rheum.Dis.78,100–110(2019). 38. Yamashita,A.,Takada,T.,Yamamoto,G.&Torii,R.Stablemain-
+17. Swann,D.A.,Silver,F.H.,Slayter,H.S.,Stafford,W.&Shore,E.The tenanceofmonkeyembryonicstemcellsintheabsenceofbFGF.
+molecularstructureandlubricatingactivityoflubricinisolatedfrom Transpl.Proc.38,1614–1615(2006).
+bovineandhumansynovialﬂuids.Biochem.J.225,195–201(1985). 39. Morizane,A.etal.MHCmatchingimprovesengraftmentofiPSC-
+18. Rhee,D.K.etal.Thesecretedglycoproteinlubricinprotectscarti- derivedneuronsinnon-humanprimates.Nat.Commun.8,
+lagesurfacesandinhibitssynovialcellovergrowth.J.Clin.Invest. 385(2017).
+115,622–631(2005). 40. Wang,Y.etal.Endogenousregenerationofcritical-sizechondral
+19. Ruan,M.Z.etal.Proteoglycan4expressionprotectsagainstthe defectsinimmunocompromisedratxiphoidcartilageusingdecel-
+developmentofosteoarthritis.Sci.Transl.Med.5,176ra134(2013). lularizedhumanbonematrixscaffolds.TissueEng.PartA18,
+20. Zhang,C.H.etal.Creb5establishesthecompetenceforPrg4 2332–2342(2012).
+expressioninarticularcartilage.Commun.Biol.4,332(2021). 41. Wakitani,S.etal.Mesenchymalcell-basedrepairoflarge,full-
+21. Flannery,C.R.etal.Articularcartilagesuperﬁcialzoneprotein(SZP) thicknessdefectsofarticularcartilage.J.BoneJt.Surg.Am.76,
+ishomologoustomegakaryocytestimulatingfactorprecursorand 579–592(1994).
+Isamultifunctionalproteoglycanwithpotentialgrowth-promoting, 42. Sugimoto,M.etal.Universalsurfacebiotinylation:asimple,ver-
+cytoprotective,andlubricatingpropertiesincartilagemetabolism. satileandcost-effectivesamplemultiplexingmethodforsingle-cell
+Biochem.Biophys.Res.Commun.254,535–541(1999). RNA-seqanalysis.DNARes.https://doi.org/10.1093/dnares/
+22. Ogawa,H.,Kozhemyakina,E.,Hung,H.H.,Grodzinsky,A.J.&Las- dsac017(2022).
+sar,A.B.MechanicalmotionpromotesexpressionofPrg4in 43. Shichino,S.etal.TAS-Seqisarobustandsensitiveampliﬁcation
+articularcartilageviamultipleCREB-dependent,ﬂuidﬂowshear methodforbead-basedscRNA-seq.Commun.Biol.5,602(2022).
+stress-inducedsignalingpathways.GenesDev.28,127–139(2014). 44. Yates,A.D.etal.Ensembl2020.NucleicAcidsRes.48,
+23. Altarejos,J.Y.&Montminy,M.CREBandtheCRTCco-activators: D682–D688(2020).
+sensorsforhormonalandmetabolicsignals.Nat.Rev.Mol.CellBiol. 45. Lun,A.T.L.etal.EmptyDrops:distinguishingcellsfromempty
+12,141–151(2011). dropletsindroplet-basedsingle-cellRNAsequencingdata.Gen-
+24. Yahara,Y.etal.PterosinBpreventschondrocytehypertrophyand omeBiol.20,63(2019).
+osteoarthritisinmicebyinhibitingSik3.Nat.Commun.7, 46. Finak,G.,Manuel.-Perez,J.&Gottardo,R.ﬂowTrans:parameter
+10959(2016). optimizationforﬂowcytometrydatatransformation.Rpackage
+25. Sasagawa,S.etal.SIK3isessentialforchondrocytehypertrophy version1.36.0.(2019).
+duringskeletaldevelopmentinmice.Development139, 47. Scrucca,L.,Fop,M.,Murphy,T.B.&Raftery,A.E.mclust5:clus-
+1153–1163(2012). tering,classiﬁcationanddensityestimationusingGaussianﬁnite
+26. Csukasi,F.etal.ThePTH/PTHrP-SIK3pathwayaffectsskeletogen- mixturemodels.R.J.8,289–317(2016).
+esisthroughalteredmTORsignaling.Sci.Transl.Med.https://doi. 48. Hao,Y.etal.Integratedanalysisofmultimodalsingle-celldata.Cell
+org/10.1126/scitranslmed.aat9356(2018). 184,3573–3587.e3529(2021).
+27. Chesterman,P.J.&Smith,A.U.Homotransplantationofarticular 49. TheTabulaMurisConsortium,Single-celltranscriptomicsof20
+cartilageandisolatedchondrocytes.Anexperimentalstudyin mouseorganscreatesaTabulaMuris.Nature562,367–372(2018).
+rabbits.J.BoneJt.Surg.Br.50,184–197(1968). 50. Kamatani,T.etal.HumaniPScell-derivedcartilaginoustissue
+28. Ao,Y.etal.Theuseofparticulatedjuvenileallograftcartilagefor spatiallyandfunctionallyreplacesnucleuspulposus.Biomaterials
+therepairofporcinearticularcartilagedefects.Am.J.SportsMed. 284,121491(2022).
+47,2308–2315(2019). 51. Kim,D.,Paggi,J.M.,Park,C.,Bennett,C.&Salzberg,S.L.Graph-
+29. Caplan,A.I.Adultmesenchymalstemcells:when,where,andhow. basedgenomealignmentandgenotypingwithHISAT2andHISAT-
+StemCellsInt.2015,628767(2015). genotype.Nat.Biotechnol.37,907–915(2019).
+30. Caplan,A.I.M.S.CsThesentinelandsafe-guardsofinjury.J.Cell. 52. Liao,Y.,Smyth,G.K.&Shi,W.featureCounts:anefﬁcientgeneral
+Physiol.231,1413–1416(2016). purposeprogramforassigningsequencereadstogenomicfea-
+31. Ansboro,S.,Roelofs,A.J.&DeBari,C.Mesenchymalstemcellsfor tures.Bioinformatics30,923–930(2014).
+themanagementofrheumatoidarthritis:immunemodulation, 53. LaManno,G.etal.RNAvelocityofsinglecells.Nature560,
+repairorboth?Curr.Opin.Rheumatol.29,201–207(2017). 494–498(2018).
+32. Petrigliano,F.A.etal.Long-termrepairofporcinearticularcartilage 54. Bergen,V.,Lange,M.,Peidli,S.,Wolf,F.A.&Theis,F.J.Generalizing
+usingcryopreservable,clinicallycompatiblehumanembryonic RNAvelocitytotransientcellstatesthroughdynamicalmodeling.
+stemcell-derivedchondrocytes.NPJRegen.Med.6,77(2021). Nat.Biotechnol.38,1408–1414(2020).
+33. Kimura,T.etal.Proposalofpatient-speciﬁcgrowthplatecartilage 55. Wolf,F.A.etal.PAGA:graphabstractionreconcilesclusteringwith
+xenograftmodelforFGFR3chondrodysplasia.Osteoarthr.Cartil. trajectoryinferencethroughatopologypreservingmapofsingle
+26,1551–1561(2018). cells.GenomeBiol.20,59(2019).
+34. Tognana,E.etal.Adjacenttissues(cartilage,bone)affectthe 56. Iwai,T.,Murai,J.,Yoshikawa,H.&Tsumaki,N.Smad7inhibits
+functionalintegrationofengineeredcalfcartilageinvitro. chondrocytedifferentiationatmultiplestepsduringendochondral
+Osteoarthr.Cartil.13,129–138(2005). boneformationanddown-regulatesp38MAPKpathways.J.Biol.
+35. Lee,M.C.,Sung,K.L.,Kurtis,M.S.,Akeson,W.H.&Sah,R.L. Chem.283,27154–27164(2008).
+Adhesiveforceofchondrocytestocartilage.Effectsofchon- 57. Gosset,M.,Berenbaum,F.,Thirion,S.&Jacques,C.Primaryculture
+droitinaseABC.Clin.Orthop.Relat.Res.https://doi.org/10.1097/ andphenotypingofmurinechondrocytes.Nat.Protoc.3,
+00003086-200001000-00029(2000). 1253–1260(2008).
+NatureCommunications|(         2023)1 4:804  15
+
+NEW PAGE
+
+Article https://doi.org/10.1038/s41467-023-36408-0
+Acknowledgements Additionalinformation
+WethankChiekoMatsuda,MasumiSanada,HirokiHagizawa,andYuya SupplementaryinformationTheonlineversioncontains
+Nishijimafortheirassistanceandhelpfuldiscussion.WethanktheiPS supplementarymaterialavailableat
+CellResearchFundforitsresearchsupport.Thisstudywassupportedby https://doi.org/10.1038/s41467-023-36408-0.
+JSPSKAKENHIGrantNo.18H02923(toN.T.)andWPIPremiumResearch
+InstituteforHumanMetaverseMedicine(PRIMe)(toN.T.)fromtheJapan Correspondenceandrequestsformaterialsshouldbeaddressedto
+SocietyforthePromotionofScience.Thisstudywasalsosupportedby NoriyukiTsumaki.
+theCenterforClinicalApplicationResearchonSpeciﬁcDisease/
+Organ(typeB)GrantNo.21bm0304004h0009(toN.T.);Research PeerreviewinformationNatureCommunicationsthanksDenis
+ProjectforPracticalApplicationsofRegenerativeMedicineGrantNo. Evseenkoandtheother,anonymous,reviewer(s)fortheircontributionto
+21bk0104079h0003(toN.T.);PracticalResearchProjectforRare/ thepeerreviewofthiswork.Peerreviewerreportsareavailable.
+IntractableDiseases(step1)GrantNo.21ek0109452h0002(toN.T.);
+CoreCenterforiPSCellResearchGrantNo.20bm0104001h0008(to Reprintsandpermissionsinformationisavailableat
+N.T.);andtheAccelerationProgramforIntractableDiseasesResearch http://www.nature.com/reprints
+utilizingdisease-speciﬁciPScellsGrantNo.20bm0804006h0004
+(toN.T.)fromtheJapanAgencyforMedicalResearchandDevelop- Publisher’snoteSpringerNatureremainsneutralwithregardtojur-
+ment(AMED). isdictionalclaimsinpublishedmapsandinstitutionalafﬁliations.
+OpenAccessThisarticleislicensedunderaCreativeCommons
+Authorcontributions Attribution4.0InternationalLicense,whichpermitsuse,sharing,
+K.A.,S.M.,andN.T.designedexperiments.K.O.preparedcyiPSCs.A.Y. adaptation,distributionandreproductioninanymediumorformat,as
+createdthecyiPS-cart.K.A.transplantedcyiPS-Cartsintomonkeys.K.A. longasyougiveappropriatecredittotheoriginalauthor(s)andthe
+performedCTandhistologicalanalyses.K.A.,M.M.,S.K.,andN.T.per- source,providealinktotheCreativeCommonslicense,andindicateif
+formedscRNA-seqanalysis.N.H.andY.T.performedexperiments changesweremade.Theimagesorotherthirdpartymaterialinthis
+regardingSik3.K.A.andN.T.wrotethemanuscript. articleareincludedinthearticle’sCreativeCommonslicense,unless
+indicatedotherwiseinacreditlinetothematerial.Ifmaterialisnot
+includedinthearticle’sCreativeCommonslicenseandyourintended
+Competinginterests useisnotpermittedbystatutoryregulationorexceedsthepermitted
+N.T.isaninventorandKyotoUniversityisaholderofthepatenton use,youwillneedtoobtainpermissiondirectlyfromthecopyright
+“Anefﬁcientchondrocyteinductionmethod”(PCT/JP2014/079117). holder.Toviewacopyofthislicense,visithttp://creativecommons.org/
+ThispatentislicensedtoAsahiKASEIcorporation.Y.T.isan licenses/by/4.0/.
+employeeofAsahiKASEI.Theremainingauthorsdeclareno
+competinginterests. ©TheAuthor(s)2023
+NatureCommunications|(         2023)1 4:804  16
+
+NEW PAGE

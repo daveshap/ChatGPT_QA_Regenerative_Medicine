@@ -1,0 +1,1202 @@
+Article https://doi.org/10.1038/s41467-022-35183-8
+Bead-jet printing enabled sparse mesenchy-
+mal stem cell patterning augments skeletal
+muscle and hair follicle regeneration
+Received:13February2022 YuanxiongCao 1,2,5,JiayiTan 1,2,5,HaoranZhao1,2,5,TingDeng1,2,5,
+YunxiaHu 1,2,JunhongZeng 1,2,JiaweiLi1,2,YifanCheng1,2,JiyuanTang1,2,
+Accepted:22November2022
+ZhiweiHu1,2,KeerHu1,2,BingXu1,2,3,ZitianWang1,2,YaojiongWu1,2,
+PeterE.Lobie 1,2,3&ShaohuaMa 1,2,3,4
+Checkforupdates
+1234567890():,; 1234567890():,; spTeorvatenernseptiltaarlanoutafmttiahotiniscotienfcjmuhrneiiseqesun.eHc,hoeywimtehavelersrb,tecymulorrcseeinnllgtstt(rhMaenSsvCpisala)bnhletoaMltdioSsnCpsproroamrcritseiecdeutsocliirnmegpitathtirhee
+performanceofresidentMSCs.Herein,wedesigna“bead-jet”printer,spe-
+cializedforhigh-throughputintra-operativeformulationandprintingofMSCs-
+ladenMatrigelbeads.Weshowthathigh-densityencapsulationofMSCsin
+MatrigelbeadsisabletoaugmentMSCfunction,increasingMSCproliferation,
+migration,andextracellularvesicleproduction,comparedwithlow-density
+beadorhigh-densitybulkencapsulationoftheequivalentnumberofMSCs.
+Weﬁndthatthehigh-densityMSCs-ladenbeadsinsparsepatternsdemon-
+stratesigniﬁcantlyimprovedtherapeuticperformance,byregeneratingske-
+letalmusclesapproachingnative-likecelldensitywithreducedﬁbrosis,and
+regeneratingskinwithhairfolliclegrowthandincreaseddermisthickness.
+MSCproliferationwithin1-weekpost-transplantationanddifferentiationat
+3−4weekspost-transplantationaresuggestedtocontributetherapyaug-
+mentation.Weexpectthis“bead-jet”printingsystemtostrengthenthe
+potentialofMSCtransplantation.
+Volumetricmuscleloss(VML)injuryisacommonoccurrenceinsevere However, direct injection of stem cells into a recipient injury
+extremitytrauma.RegenerationofVMLposesasigniﬁcantchallenge, resultsinsuboptimaltherapeuticoutcomes,duetothehostileenvir-
+whichusuallyleadstofunctionalimpairmentwithlimitedregeneration onment within damaged and diseased tissues, producing limited
+capacity1,2. Other open trauma, such as integumentary damage, retentionandsurvivalofinjectedcells11.Forexample,mostclinically
+requirespreventionofinfectionandregenerationofexocrinefunction relevanttreatmentsrequireupto200millionMSCsperdose12,13,and
+andhairfolliclestorecovernormalphysiologyandappearance3.Stem yetitisreportedthat<5%ofadministeredMSCsarepresentinthe
+cell therapy, as a potential technology in regenerative medicine1,4–7, tissue a few hours after transplantation13. Furthermore, stem cell
+promotestherepairofdiseased,orinjuredtissuesusingstemcellsor transplantation is expensive and limited to scalable cell availability,
+theirderivatives.Forexample,humanmesenchymalstemcells(MSCs) especially for autologous transplantation. Therefore, the maximiza-
+havebeenutilizedinmultipleexemplarsoftissueregeneration,such tion of stem cell usage with limited availability poses a signiﬁcant
+asskin8,musculoskeletaltissue9,andendometrium10. clinicalchallenge.
+1TsinghuaShenzhenInternationalGraduateSchool(SIGS),TsinghuaUniversity,518055Shenzhen,China.2Tsinghua-BerkeleyShenzhenInstitute(TBSI),
+518055Shenzhen,China.3ShenzhenBayLaboratory,518055Shenzhen,China.4InstituteforBrainandCognitiveSciences,TsinghuaUniversity,100084
+Beijing,China.5Theseauthorscontributedequally:YuanxiongCao,JiayiTan,HaoranZhao,TingDeng. e-mail:ma.shaohua@sz.tsinghua.edu.cn
+NatureCommunications|(        2022)1  3:7463  1
+
+NEW PAGE
+
+Article https://doi.org/10.1038/s41467-022-35183-8
+Scaffolding hydrogel encapsulation does improve stem cell denseMSCsinpromotingVMLandskinrepair.Itmustbenotedthat
+retention and increases stem cell survival by moderating the extra- using Matrigel as the MSCs encapsulation scaffold provided high
+cellular environment14–16. Scaffold design is critically important17,18, performancenotattainedbythegelatincounterpart,suggestingthat,
+includingmaterialselectionandspatialdistributionofthescaffolding in regenerative medicine, gelatin is not a substitute for Matrigel or
+matrix.Moreover,itwasreportedthatthespatialdistributionofstem equivalent materials. Secondly, sparse patterning of high-density
+cellsatbothmicro-andmacro-scalesaffectstheiractivityandther- MSCs-laden beads among acellular beads also enlarged the trans-
+apeuticpotential19,20.Traditionally,tissuedamageisrepairedbycell- plantation coverage, thus enabling therapy of large-scale traumatic
+ladenoracellularbulkhydrogelthathasnanoporousmesh.Densegel injurywithalimitednumberofMSCs.
+usageproduceslimitationsinrecruitingsurroundingcellstoﬁllthe
+implantedvolumeoracceptingsignalingcuesandnutrientfactorsto Results
+feedtheencapsulatedcells.Bulkgelwithengineeredmicro-porosity MSCs-ladenMatrigelbeadsandbead-jetprinting
+facilitatesthetransportofcellsandsignalingandnutrientmolecules, MSCs encapsulated in Matrigel beads gain advantages in micro-
+butitstillresultsinlimitedtranslocationandinhomogeneousregen- environment recapitulation, including efﬁcient volumetric mass
+eration for a large volume21. Granular microgel assembly produced transportandversatilestructuraldeﬁnition.Intra-operativeprintingof
+usingmicroﬂuidicsoffersacompetitivecapacityforpromotingtissue buildingblocks,e.g.,MSCs-ladenbeads,facilitatesthetranslationof
+regeneration and microtissues assembly, by providing both nano- stemcelltherapybecauseitallowson-demandpatterningandscaling
+porosity from the materials and microporosity from the structural of MSCs coverage. It is also speculated that cell distribution in the
+assembly22,23.Theyareinjectable,scalable,andadaptivetoirregular printedvolumewouldaffecttheregenerationoutcome.Toelaborate
+substrates,andmeanwhile,provideproperphysicalandmechanical on the different conditions, bead-jet printing was established. The
+cues for encapsulated or interspaced cells. The granular microgel regenerativeperformanceofprintedMatrigelbeadsloadedwithhigh-
+assemblydemonstratesimprovedefﬁcacyinbothcell-ladenoracel- densityandlow-densityMSCs,andcastMatrigelbulkgelloadedwith
+lularinjections3,10,21,24–27. high-densityMSCswascompared.Theemptyspacewasprintedwith
+Both stem cell transplantation and granular microgel injection acellularbeadsorcastwithacellularbulkgel.
+haveprovenstrengtheningeffectsinregenerativetherapy.Stemcell- To proceed with bead printing, a “bead-jet printer” was ﬁrst
+ladenmicrogels,withthecombinationofbothadvantages,couldbe developed.Thisprintingsetupconsistsofamoduleforcellencapsu-
+expected to further facilitate wound repairs. Matrigel, similar to lationandMatrigelbeadformulation,andasecondmoduleforbead
+extracellularmatrix(ECM)foritsbasementmembrane-likenature,was printing (jetting) (Fig. 1a and S1). The two modules operate in syn-
+selectedasthebiomaterialinthisresearch.Matrigelhasadvantages chronization.Intheformulationmodule,thecellsuspensionsolution,
+overcommercialsyntheticbiomaterialsindirectingstem-cellrate28. e.g.,Matrigelsolution,isinjectedintothecascadetubingmicroﬂuidics
+Theinteractionofskin-derivedstemcellswithMatrigelgivesrisetoa (CTM)andpinchedoffperiodicallyundertheoilshearingeffect,the
+seriesofspatiallyandtemporallycoordinatedeventsthatregulatethe capillary effect and the tubing-boundary condition, forming mono-
+stem-cellsfate29. dispersedcell-ladenMatrigeldroplets(Fig.S2).Thedropletsarecon-
+However,furtherstudiestoelaborateontheunderlyingcuesand ductedalongthelong,incubationtubingunderaconstantoilﬂow,and
+theimplementationtechniquesforimprovedtranslationalandclinical graduallysolidifybeforeapproachingthetubingoutlet.Theoutletis
+applicationpotentialarelacking.Forexample,thedistributionmanner connectedtoa3-portconnector,withanorthogonalchannelopentoa
+ofcell-ladenmicrogelshasnotbeenexplored,noristhereanyasso- compressed air inlet. Compressed air is instantaneously generated
+ciatedtechniquethatallowstheprecisiontransplantationofindividual once a sensor ~5cm above the connector is activated by a passing
+buildingblocks.Celldensityisanothercriticaldeterminantintissue bead.Theairjetshootsabeadontothesubstratealongastraightpath.
+engineering. Generally, high cell population density, before This process is repeated to print MSCs-laden beads following pro-
+approaching conﬂuence, beneﬁts cell growth, and synthesis and grammedcommands.Duringprinting,thesubjectanimalisplacedon
+remodelingoftheextracellularmatrices19,30,31. the support platform, with the traumatic injury facing upwards to
+3D bioprinting is the additive manufacturing of bioactive sub- receivetheejectedbeads.Thiscontactlessbead-jetprinteriscompa-
+stances byprecision patterning of building blocks comprising cells, tiblewithawiderangeoflargeopeninjuries.
+biomaterials,andbioactivefactorstomimicnativetissues31–34.Though Next,thebead-printingperformanceinrepairingamusclevolu-
+the current reported 3D bioprinting techniques can tackle natural metriclossdefectandskininjurywasstudied.Technically,thereare
+defectswithirregularinjury,theyarelimitedinprocessingMatrigelor threewaystodeliverstemcell-ladenMatrigelcompositesontoinjury
+similar bioactive ultra-soft materials (elastic modulus <500Pascal17) sites:highcelldensitybeads(HDB)printedinsparsepatterns,lowcell
+without any rigid supports. Ink-jet printing splashes the ink phase, densitybeads(LDB)printedindensepatterns,andhighcelldensity
+losingthespatialprecisionandz-axisaccumulation35;microextrusion bulkgel(HDG)castontotheinjurysite(Fig.1b).Inallconditions,the
+isnotcompatiblewithslow-gellingandﬂowablematerials36;andlaser- initialcellnumberremainsconstant.Forthebead-printinggroups,the
+assisted printing is limited to photocrosslinkable materials37. Using high-densityMSCs-ladenbeadsareprintedinsparsepatterns,inter-
+gelated Matrigel beads as the printing building blocks can access spacedbyacellularbeads,togenerateequaltransplantationcoverage
+highlyreproducibleanddeﬁnablelarge-scalestemcellpatterning,but and transplanted cell number in accord with the low-density
+the capable technique development is not reported. Aspiration- group(Fig.1c).
+assistedbioprinting38canpositionsoftmicrogelswithhighprecision
+andretentionofbeadintegralsbutisnotcapableofscale-upfabrica- Capabilitiesofbead-jetprintingplatformandpatterningof
+tionandislessefﬁcient. biologics
+Herein,aprotocolandassociatedtechnicalplatformfortransla- Weﬁrstusedgelatinbeadstoexaminethebead-jetprintingefﬁcacy.
+tional stem cell therapy have been established. Taking MSCs as an A5%(w/v)gelatinsolutionwasformulatedintouniformmicrobeads
+exemplar,theeffectsofdistributionproﬁleonMSCsfunctionswere in the CTM module, crosslinked by a saturated Transglutaminase
+ﬁrstexplored,anditwasobservedthatsparselydistributedhighcell (TG) solution. To increase the cell encapsulation capacity, large
+densityMSCs-ladenMatrigelbeadsexhibitedsubstantiallyaugmented beads(diameter,650μm)thatapproachedthemassdiffusionlimit
+MSCs proliferation, migration, and EV production. To enable auto- throughout the study were used. The bead-jet printing system is
+matedsparse-patterningofregionallydenseMSCs,abead-jetprinting capableofprintingdifferentstructures,ineitherhomogeneousor
+system was developed, with the superior performance of sparsely heterogeneous arrangements of microbeads. Gelatin microbeads
+NatureCommunications|(        2022)1  3:7463  2
+
+NEW PAGE
+
+Article https://doi.org/10.1038/s41467-022-35183-8
+a Air c
+MSCs/Matrigel Beads
+3~4 weeks
+Oil
+Muscle / Skin Regeneration
+Matrigel >106cells 3~20(cid:152)104cells
+/injection /printing
+Contactlessin situprinting
+b Sparsely printing
+Low Consumption of MSCs
+High cell Density Beads (HDB) Low cell Density Beads (LDB) High cell Density bulk Gel (HDG) Volumetric Injury Recovery
+d e
+f g h
+Air
+020μm Microsphere DistanceDeviation index (%)Deviation distance (μm)11462055000000000000 55 88 1122 Cell viability (%)Cell viability1125702570050505050 P =* 0*.*6243P = 0.0002
+Deviation DDisistatannccee  ((mmmm))
+1 cm
+i Top view Side view j
+θ)110000°(cid:113)
+e ((cid:2))
+anglgle (8800(cid:113)°
+3y layer x 6 layer 9 layer z 1x2 layer Structure advancing Structure bending an642246000000(cid:113)(cid:113)(cid:113)°°°
+00°(cid:113)
+θ Layer 3 6 9 12 15
+Layer (n)
+wereprintedontofabricpaper,formingaTHUalphabeticalpattern elementswithinoneengineeredarchitecture.Sacriﬁcialsupporthas
+inasparsearray,andrectangular,triangular,andhexagonalpatterns positive role in bead-jet printing. It anchors the printed building
+indenseconnection(Fig.1d).Twotypesofgelatinmicrobeads,yel- blocks toward larger architecture on demanded positions. The
+low and green, with heterogeneous organization were printed printingbeadbondswiththesupportoftheneighboringbeadsby
+(Fig. 1e). It may offer a solution to improve mimicking of tissue formingarobustgel(glue)layerbysolidifyingthefusedinterface
+microenvironment,bypatterningmultipletypesofcellsandtissue upon contact. The mono-layer assembly exhibited precise bead-
+NatureCommunications|(        2022)1  3:7463  3
+
+NEW PAGE
+
+Article https://doi.org/10.1038/s41467-022-35183-8
+Fig.1|Schematicillustrationandcharacterizationofbead-jetprinting.aHigh- depositiondeviationatejectiondistancesof5,8,12mm.n=50foreachmea-
+throughputintra-operativeformulationandprintingofMSCs-ladenMatrigelbeads. surement.Dataarerepresentedasmean±SD.hViabilityratiosofMSCsingelatin
+bParallelcomparisonofprintedhighcelldensitybeads(HDB)andlowcelldensity beads,measuredbeforeprinting(positivecontrol),afterprintingstraightintothe
+beads(LDB),orcasthighcelldensitybulkgel(HDG).Theemptyspacewasprinted DMEMmedium,andafterprintingﬁrstonsacriﬁcialgelatinsupportfollowedby
+withacellularbeadsorcastwithacellularbulkgel.cBead-jetprintingaugments transferringtotheDMEMmedium.Theviabilityratesweremeasuredafter3daysin
+stemcellretention,reducesstemcellconsumption,andincreasesvolumetricinjury culture.n=3foreachmeasurement.Dataarerepresentedasmean±SD(standard
+recoveryinmuscleandskinregeneration.dHomogenousstructuresofprinted deviation),**P<0.01.Thesigniﬁcantdifferenceisdeterminedbyone-wayANOVA,
+gelatinbeads,includingaTHUalphabeticalsparsepattern,andrectangular,tri- followedbyTukey’stest.i3DPrintingofmulti-layergelatinbeadsonsacriﬁcial
+angular,andhexagonaldensepatterns.Scalebar,5mm.eHeterogeneousstruc- gelatinsupport.Theprintedassemblyhad15layers.Scalebar,1cm.jAdvancing
+turesofprintedgelatinbeadsoftwodifferentcolors.Scalebar,5mm.fMono-layer anglemeasurementof3Dprintedbeadassemblieswithincreasinglayers.n=3for
+printedgelatinbeadspreservedthebead-to-beadinterfaceandformedbeadbonds eachmeasurement.Dataarerepresentedasmean±SD.
+onasacriﬁcialgelatinsupport.gPrintingprecisionevaluationbymeasuringthe
+positioning,integralmaintenance,andbead-bonding(Fig.1f,Fig.S3 therapeutic potentials of microbead assemblies, different granular
+andVideoS1). materialsgeneratedusingabead-jetprintingsystemweretestedfor
+Theprintingresolutionwasevaluatedbycalculatingthestandard their rheological properties and porosity and compared with their
+deviation of the printed bead position with respect to the targeted bulk gel counterparts. First, rheological tests were performed to
+position.Theresolutionreached70µm,~1/9ofabeaddiameterwhen evaluatethegranularandbulkgelpropertiesofgelatinandMatrigel
+theejectiondistancewas5cm.Itreached300µmwhenthedistancewas (FigureS8).Frequencysweepshowedthatthestoragemodulusof
+12mm(Fig.1g).Theincreaseddeviationresultedfrombeadscolliding gelatinandMatrigelmicrobeadassemblyandtheirbulkcounterparts
+withtheverticalchannelwallundertheairﬂow.Thebeadsmayalsobe at low frequency exhibited linear trends (Fig. 2a). Shear-thinning
+printeddirectlyintotheculturemedium,andontosacriﬁcialandirre- behaviorswerealsoobservedacrossthefourgroupsbyreductionin
+gularsupports,thusenablingin-situorintra-operativeprinting. viscosity with increasing shear rates (Fig. 2b). Strain sweep test
+Next, the effectof printing on cell viability was evaluated. The showedthatallsamplesyielded(G”>G’)athighstrains(Fig.2c).The
+viabilityofMSCsencapsulatedingelatinbeadswasdeterminedbefore yieldstrainofbulkgelatinwassigniﬁcantlyhigherthanthegranular
+printing,afterprintingintotheculturemedia,anduponﬁrstprinting gelatin(Fig.2d,i).However,nosigniﬁcantdifferenceinyieldstrains
+onto sacriﬁcial gelatin support followed by transfer to the culture of Matrigel between its bulk and granular conﬁgurations was
+medium.Theprintedgroupswereexaminedafter3daysinculture. observed(Fig.2d,ii).Therewasnosigniﬁcantdifferenceinstorage
+Thecellviabilityratiosbeforeandafterprintingdirectlyintothecul- moduliofgelatinandMatrigelintheirgranularandbulkconﬁgura-
+ture medium were nearly identical (91.3±1.8% and 90.4±0.9%, tions(Fig.2e).Further,granularMatrigelandbulkgelalsoexhibited
+respectively),suggestingthattheshearforceinbothbeadformulation similarpropertiesonmaterialdegradation.Bothacellularmaterials
+andjetprintingexhibitedminimaldetrimentaleffectsoncells(Fig.1h). maintainedstructuralintegrityafterbeingimmersedintheculture
+However, when the MSCs-laden beads were ﬁrst printed onto the mediumat37°Cfor1week(Fig.S9).Itsuggestedthatthemicrobead
+sacriﬁcialsupportandthentransferredtothemedium,theviability conﬁgurationdidnotchangetheinherentpropertiesofMatrigel.
+ratiodecreasedto82.7±0.8%.Thislossofviabilitymightbeattributed Next,theinterstitialporosityofmicrobeadassembliesofgelatin,
+tothedehydrationoccurringduringprinting,andcouldbesolvedby Matrigel, HAMA, and GelMa was investigated by adopting different
+increasingtheenvironmentalhumidityorbypre-hydrationofthedish. beadsizes(D=650and450μm)anddegreeofpacking(lowpacking
+Thebead-jetprintingsystemcandistributebeadsintolarge-scale and high packing by different centrifugation rates). The microbead
+anddeﬁnedpatterns.Forplanarprinting,theprintedpatterncovered assemblieswereinﬁltratedwithFITC-dextran(Sigma-Aldrich,2MDa,
+nearly100cm2inthiscurrentin-housemachine(Fig.S4).Theprinting 10mg/mLinPBS)solution.Assemblyofsmallgelatinbeads(D=450
+scalecouldbefurtherincreasedbyimprovingthelocomotionability, μm)atlowpackingdensityhadavoidfractionof~14.1%,signiﬁcantly
+i.e., the x–y movement range, of the printing nozzle. For three- higherthanthevoidfractionathighpackingdensity(~1.3%).Assembly
+dimensional (3D) patterning, a 15-layer assembly (2.5×2.5×1cm) oflargegelatinbeads(D=650μm)atlowpackingdensityhadavoid
+(Fig. 1i) and a 50-layer 3D heterogeneous structures (2×2×3cm) fractionof~11.5%,signiﬁcantlyhigherthanthevoidfractionathigh
+(Fig.S5)wereprinted.Inthismulti-layerprinting,thebeadpositioning packingdensity(~1.5%)(Fig.2f–h,VideoS2).
+mismatch accumulated and appeared with an advancing angle that Likewise, the porosity of granular Matrigel was investigated
+decreasedfrom~90°to~50°asthelayercountsincreasedfrom3to15 (Fig.2i–k,VideoS3).AssemblyofsmallMatrigelbeads(D=450μm)at
+(Fig.1j).Inthisbulkyassembly,thebeadintegrityandresolutionwere lowandhighpackingdensityreachedthevoidfractionsof~3.9%and
+maintained (Fig. S6) and the increase in z dimension was not sig- ~2.4%,respectively.AssemblyoflargeMatrigelbeads(D=650μm)at
+niﬁcantly compromised, thus overcoming the limitations of ink-jet lowandhighpackingdensityreachedvoidfractionsof~8.3%and~1.7%,
+printing35. respectively.Boththevoidfractionsatlow-packingandhigh-packing,
+Inaddition,thebead-jetprinterusesoiltopinchcell-ladenliquid aswellasthedifferenceresultingfromsmallbeadpackingandlarge
+into monodispersed droplets that later were gelled into cell-laden beadpacking,weredecreasedingranularMatrigelandgranulargela-
+beads. Thus,the bead formulation and printing process are accom- tin.ItmightbeattributedtothehighdeformabilityofMatrigelthan
+paniedbyoiloccupation.Forbead-jetprinting,ahighlyvolatileand gelatinunderhighcentrifugationat20,879×gfor5min.Similarresults
+thinﬂuorinatedoil,HFE7000(3M)wasused;whichwascytocompa- werealsoobtainedbyusingGelMAandHAMAmicrogels(Fig.S10,and
+tible and quickly evaporates in the printing process. The dense VideosS4andS5).Theresultsprovedthatthegranulargel,i.e.,the
+cytoarchitecturedevelopedinabeaddemonstratedthefeasibilityof microbead assemblies, possessed macroporosity, spanning tens to
+HFE7000asthesacriﬁcialﬂuid(Fig.S7). hundredsofmicrons,thatmaybeneﬁtcellinvasion,andtheporosityis
+tailorablebyboththecomposingbeadsandtheirpackingdensities.
+Rheologicalpropertiesandporositycharacterizationof
+microbeadassemblyandbulkgels CharacterizationofMSCsculturedinMatrigelHDG,LDB,and
+Microbead assembly is inherently porous and modulable, which HDBgroupsinvitro
+couldfacilitatetheinﬁltrationofbloodandcelltransportation,thus Matrigel was used asthe MSCs in vitrocultureand transplant scaf-
+possessingobviousadvantagesoverthebulkgel.Toinvestigatethe folding material. To test their behavior under different conditions,
+NatureCommunications|(        2022)1  3:7463  4
+
+NEW PAGE
+
+Article https://doi.org/10.1038/s41467-022-35183-8
+Gelatin bulk G’ Gelatin bulk G’’ Gelatin beads G’ Gelatin beadsG’’
+Matrigel bulk G’ Matrigelbulk G’’ Matrigelbeads G’ MatrigelbeadsG’’
+a (ⅰ) b (ⅰ) c (ⅰ) d (ⅰ) e (ⅰ)
+105 109 104 500 ** p = 0.0012
+104 108 a)1200 p = 0.1143
+P
+Modulus (Pa)1111100000-10123 Viscosity (Pa.s)111100004567 Modulus (Pa)111000123 Yield Strain (%)234000000 age modulus G' (1068000000
+10-2 103 100 Stor 400
+10-3 102 100 0
+10-1Fre1q0u0enc1y0 (1Hz)102 0 Sh5ear 1R0ate 1(15/s)20 10-1 10S0tra1i0n1(%1)02 103 Gelatin BulGkelatin Beads Gelatin BuGlkelatin Beads
+(ⅱ) (ⅱ) (ⅱ) (ⅱ) (ⅱ)
+105 107 103 p = 0.5627 150 p = 0.5240
+Modulus (Pa)111111000000-101234 Viscosity (Pa.s)111100003456 Modulus111111000000---321012 Yield Strain (%)369000 orage modulus G' (Pa)10500
+10-2 10-4 St
+10-130-1Fre1q0u0enc1y0 (1Hz)102 1020 Sh5ear 1R0ate 1(15/s)20 10-150-1 10S0tra1i0n1(%1)02 103 M0atrigel BulMkatrigel Beads M0atrigel BuMlkatrigel Beads
+f g h
+Degree of packing Degree of packing Low Packing High Packing
+2020
+p < 0.0001
+**** 
+p = 0.0008
+1515 ***
+orosity (%)orosity (%)1010
+PP
+5
+e 5
+z
+el si
+g
+Micro Degree of packing Degree of packing 00 SSmmallall LarLgaerge
+i j k
+Low Packing High Packing
+1510
+8 p = 0.0007
+***
+%)%)10
+y (y ( 6 p = 0.2645
+PorositPorosit 4
+5
+e
+z 2
+el si
+g
+o
+Micr 00 Small Large
+Fig.2|Rheologicalpropertiesandporositycharacterizationofgelatinand hQuantiﬁcationofgranulargelatinporosity.n=3foreachgroup.i–kRepre-
+Matrigelmicrobeadassemblies,i.e.,granularmicrogels,andbulkgels. sentativeconfocal2D(i)and3D(j)representativeimagesofgranularMatrigel
+aFrequencysweepperformedfrom0.1to100Hzofgelatin(i)andMatrigel(ii) microgelsassembledfromdifferentmicrobeads(D=450and650µm)andpacking
+microgelsandbulkgels.bShear-thinningpropertiesofgelatin(i)andMatrigel(ii) densities.ThebeadsampleswereinﬁltratedwithFITC-dextransolution.
+microgelsandbulkgels.cStrainsweepperformedfrom0.1%to500%ofgelatin(i) kQuantiﬁcationofgranularMatrigelporosity.n=3foreachgroup.Here,thehigh-
+andMatrigel(ii)microgelsandbulkgels.dYieldstrainsofgelatin(i)andMatrigel packingandlow-packingconditionswerereachedbycentrifugationofthe
+(ii)microgelsandbulkgels.n=3foreachgroup.e,StoragemodulusG’ofgelatin(i) microbeadassemblyfor5minat93×gorat20,879×g.Scalebar,200µm.Thedata
+andMatrigel(ii)microgelsandbulkgels.n=3foreachgroup.f–hRepresentative arerepresentedasmean±SD.Thesigniﬁcantdifferenceisdeterminedbyunpaired
+confocal2D(f)and3D(g)representativeimagesofgranulargelatinmicrogels two-failedStudent’st-test.**P<0.01,***P<0.001;****P<0.0001.
+assembledfromdifferentmicrobeads(D=450and650µm)andpackingdensities.
+ThebeadsampleswereinﬁltratedwithFITC-dextran(2MDa,10mg/mL)solution.
+NatureCommunications|(        2022)1  3:7463  5
+
+NEW PAGE
+
+Article https://doi.org/10.1038/s41467-022-35183-8
+a b （Cells/bead) **
+HDG LDB HDB 55..00 HDG 150 300 p < *0*.0*0*01pp  ==  00..30006837
+1500 3000 6000
+44..00
+m)nm)
+D0 D3 D7 D14 D value (490 nOD value (490  2323....0000 ****pp = < p0  0.=9*. 090*05.p600 7=16 08.0012******p*p < p< 0  =0.*0 *.000*.00*0010103**p* =** 0p.*0 <*3 *60*5.0p0 0<1 0.0001
+G O 11..00 ***p = 0.0002
+D
+H
+00..00
+0 DD11 DD44 DD77 DD1144
+15 c 22..00 p = 0.7294 p = 0.4293
+3001500 ue (570 nm)ue (570 nm)1111....0505 **pp p= = = p0p 0  . 0=0=.0. 10 07013.7.288453274050 p *= p0p .= 3= 70p p04. 0= .8=71 0 260.178.64866778*p* **=** 0pp.  0<=7p  001 =..200 000.03410217 *p* *= 0pp.  9==5p  003 =..502 004.08938423
+alal
+3000 OD vOD v00..55
+0
+0
+60 00..00
+DD11 DD44 DD77 DD1144
+Cells/bead Live/Dead
+d e f g
+40 )160 HDG ****** pp  ==  00..00000021 450 HDG **** pp  ==  00..00001472 1.0 ****** pp  <=  00..00000610 1.2
+Live cell numbers count (×112480000 D0 LHDDD3BB**** ppD  ==  700..00001929D14 (cid:3)DNA Content (ng/L) 1350000 D0 LHDDD3BB*** pp  ==D  007..00015984D14 OD value (490 nm)00000.....02468 pD *=* 30****.0****0****4****5  Dpppp    <<<<5**    0000**....0000 pp0000  0000==1111  D00..700001532D1   LHH0DDDBGB Beads aspect ratio000...048 D0LHDD  LHBBDDDBB3 D7
+h i j k
+DD03 HDG LDB HDB EdU positive (%)12340000 p =* *0*.0001p = *0.*0*00**2****   **LHH DDDpp  B<<GB  00..00000011DD37 HDG LDB HDB OD value (570 nm)OD value (570 nm)00000.....0012345000.....54321 ****p* =HLHp 0D DD=.0 B0GB1.1020*0*2****p* <* 0p. 0<0 00.10001
+0.0
+D7 DD33 DD77
+0
+DAPI/EdU D0 D3 D7
+l m
+2D-MSCs HDG-MSCs LDB-MSCs HDB-MSCs HDG LDB HDB Non-induced
+1.0k
+98.5% 94.1% 87.2% 99.6%
+800
+nt 600
+u
+o 400
+C
+200
+0
+0 102 104 106 0 102 104 106 0 102 104 106 0 102 104 106
+CD90-PE
+n HDG LDB HDB Non-induced
+600
+96.4% 95.7% 80.9% 97.3%
+nt 400
+u
+o
+C 200
+0
+0 102 104 106 0 102 104 106 0 102 104 106 0 102 104 106
+CD105-APC
+MSCs growth was tracked under different dosages using LDH-Cy rates of 1500-cells-per-microbead were signiﬁcantly higher than the
+Quantassay,cellmetabolictest,andlive/deadstaining,byencapsu- other groups, including both the lower dosage and higher dosage
+lating150,300,1500,3000,and6000cellspermicrobead(Fig.3a, conditions.
+Table S1). The total cell number was kept consistent among these AlamarBlueassaywasemployedtotestcellmetabolicactivity.
+groups, including the bulk gel condition. The LDH-Cy Quant assay Afterbeingculturedfor7days,thecellmetabolicactivityinhigh-cell-
+showedthatthehighcelldensityofMSCsgainedasigniﬁcantlyhigher densitygroups,including1500,3000,and6000-cells-per-bead,were
+proliferationratecomparedwiththelowcelldensityofMSCsandbulk signiﬁcantlyhigherthaninthelow-cell-densitygroup,including150
+gelofMSCs(Fig.3b).After4,7,and14daysinculture,MSCsgrowth and300-cells-per-bead(Fig.3c).CellviabilityacrossMatrigelHDG,and
+NatureCommunications|(        2022)1  3:7463  6
+
+NEW PAGE
+
+Article https://doi.org/10.1038/s41467-022-35183-8
+Fig.3|CharacterizationofMSCsproliferation,migration,andstemnesspos- usingtheMTTassay.n=3.gAspectratiosofMatrigelLDBandHDBbeadsatD0,
+sessioninMatrigelHDG,LDB,andHDBgroups.aTheschematicillustrationof D3,andD7.n=40.handiRepresentativeimagesofEdUlabeling(h)andquanti-
+MSCsgrowthintheHDG,LDB,andHDBgroups.CellviabilityofMSCsinHDGand ﬁcation(i)ofEdU-positiveMSCsatD0,D3,andD7.n=3.Green:EdU,blue:DAPI.
+microbeadsofdifferentcelldensities,including150,300,1500,3000,and6000 Scalebar,200µm.n=3.jandkCrystalvioletstainingofcellmigrationassay(j)and
+cellspermicrobead,werecharacterizedatday0(D0),D3,andD7,andD14using ODvaluesat570nmofcrystalsdissolvedinethylicacid(k).n=3.Scalebar,1mm.
+live/deadstaining.Theinitialcellnumberswerekeptconsistentamongallgroups. lFlowcytometryquantiﬁcationofMSCmarkersCD90,CD105.MSCswerecultured
+Scalebar,100µm.bODvaluesofMSCsgrowthat490nmatD1,D3,D7,andD14, inPetridishes(2Dcondition),andinMatrigelHDG,LDB,andHDBgroupsfor
+determinedusingtheLDH-CyQuantassay.n=3.cMetabolicactivityofMSCsatD1, 4days.mOsteogenicdifferentiationofmicrobead-MSCsfromD0.nOsteogenic
+D3,D7,andD14,determinedusingtheAlamarBlueassay.n=3.dand differentiationofMSCsretrievedfrommicrobeads.Scalebar,100µm.b–g,i,kThe
+eQuantiﬁcationofcellnumber(d)andDNAcontent(e)ofMSCsatD0,D3,D7,and dataarerepresentedasmean±SD.Thesigniﬁcantdifferenceisdeterminedbyone-
+D14.dLivecellcountsusingahemocytometer.n=3.eDNAcontentacquisition. wayANOVA,followedbyTukey’stest.Thesigniﬁcantdifferencesbetweenparallel
+n=3.fODvaluesofMSCsgrowthat490nmatD3,D5,D7,andD10,determined groupsarecomparedwiththeHDBgroup.
+differentdosesofMatrigelmicrobeadswasfurtherquantiﬁedusing in the Matrigel HDB group than in the HDG group. The LDB-MSCs
+the live/dead staining. The result indicated thatextremely high cell exhibited the lowest migration ability (Fig. 3j, k). Next, two MSCs
+density, e.g., 3000–6000 cells-per-bead, may decrease cell viability markers,CD90andCD105,wereusedtoinvestigatetheretentionof
+(Fig. S11).This mayresulte from the limited access of encapsulated MSCsstemnessunderdifferentconditions.Comparedwith2DMSCs
+MSCstothecellculturemediumandhighermetabolicstressinthe (sourcecells,positivecontrolgroup,98.5%CD90and96.4%CD105),
+microbeads. bothHDB-MSCsandHDG-MSCsmaintainedhighexpressionofstem-
+MSCscellnumberandDNAcontentintheMatrigelHDG,LDB,and nessmarkers(HDB,99.6%CD90and97.3%CD105,HDG,94.1%CD90
+HDB groups were also examined, by counting the cells after dis- and95.7%CD105).However,theLDB-MSCsexhibitedaslightlossin
+sociatingthemfromMatrigelwithcollagenaseI(2µg/mL,2h,37°C) stemnessretention(87.2%CD90and80.9%CD105)(Fig.3l).
+treatment. At the initial stage, cell numbers and DNA content were Osteogenic-adipogenicdifferentiationwasfurtherperformedto
+nearlyidenticalacrossthesegroups.However,atthelaterstages(D7 explorethestemnessdifferencesacrossthesegroups.Resultsshowed
+andD14),thecellnumbersandDNAcontentweresigniﬁcantlyvaried, that signiﬁcantly higher rates of differentiation toward either the
+presentinghighervaluesintheMatrigelHDB-MSCsgroupcompared osteogenic lineage or the adipogenic lineage upon induction were
+withtheothertwogroups.A3-foldincreaseinlivecellnumberwas possessed in the high-density conditions, including both the HDB-
+achieved in the Matrigel HDB group after 1 week, whereas only an MSCsandtheHDG-MSCsinducedataslongas3weeksafternormal
+87.2%increaseand48.6%increasewereachievedintheMatrigelLDB culture(Figs.3m,nandS13–16).Overall,theinvitrocharacterization
+groupandtheMatrigelHDGgroup,respectively.A12-foldincreaseof impliesthatalow-densitycellpopulationmaycompromisecellpro-
+livecellnumberwasachievedintheMatrigelHDBgroupafter2weeks, liferation,migration,andretentionofstemness.
+signiﬁcantlyhigherthantheMatrigelLDBgroups(440%increase)and The extracellular scaffolding material also affects MSCs beha-
+theMatrigelHDG(360%increase)(Fig.3d).Aover2-foldincreaseof viors. We compared the MSCs growth activity in Matrigel beads,
+DNAcontentwasachievedintheMatrigelHDBgroupafter1week, gelatin (5%, w/v) beads crosslinked by TG, and HAMA (5%, w/v).
+whereasonly84.6%increaseand109%increasewereachievedinthe GelatinismuchstifferthanMatrigel39,40.TheMSCsviabilityratioin
+MatrigelLDBgroupandtheMatrigelHDGgroup,respectively.A27- thegelatinHDBgroup(86.9±1.4%)wassigniﬁcantlyhigherthanthe
+foldincreaseofDNAcontentwasachievedintheMatrigelHDBgroup gelatinHDG(78.1±1.7%)and thegelatinLDB(45.5±10.6%)groups
+after2week,signiﬁcantlyhigherthantheMatrigelLDBgroup(670% after7daysinculture(Figs.S17aandS17b).Thedifferencewasalso
+increase)andtheMatrigelHDGgroup(385%increase)(Fig.3e). validatedbytheODvalues(Fig.S17c).Furthermore,theproliferation
+MSCsmetabolicactivitywasevaluatedby3-(4,5-dimethyl-2-thia- rates of MSCs in the gelatin HDG, LDB, and HDB groups were
+zolyl)-2,5-diphenyl-2H-tetrazoliumbromide(MTT)assay.Theoptical examined.SimilartotheMatrigelgroups,theproliferatingMSCswas
+density(OD)valueskeptincreasinginthe3groupsfromday3today signiﬁcantlymoreinthegelatinHDBgroupthantheothergroups,
+10,withsigniﬁcantlyhighervaluesintheMatrigelHDBgroupthanin characterizedatday0,day3,andday7(Figs.S17dandS17e).These
+theparallelconditions(Figs.3fandS12).Theproliferatingcellsaltered results indicate that HDB-MSCs outperform HDG-MSCs and LDB-
+thebeadmorphology,bybreakingdownthebeadscaffolds.Weana- MSCs,inbothMatrigelandgelatinscaffolds.Itfurthervalidatedthe
+lyzedtheaspectratiosofMatrigelLDBandHDBbeads.Theresults ﬁndingthatlowcelldensitywasdetrimentaltocellgrowth.However,
+showed that the bead ratio became different on day 7. The aspect whencomparingtheMatrigelHDB-MSCswiththegelatinHDB-MSCs,
+ratiosofHDBbeadsdecreasedfrom0.91(nearlyspherical)onday0to itwasobservedthatMatrigelissubstantiallybetterthangelatinas
+0.60 (highly deformed) on day 7, whereas the ratios of LDB beads the extracellular scaffold, evaluated by both cell viability and pro-
+remained above 0.85 on day 7 (Fig. 3g). The difference may be liferation. 5% HAMA was crosslinked using 0.25% lithium phenyl-
+attributedtohighermetabolicactivityinHDB-MSCs(Fig.3c). 2,4,6-trimethylbenzoylphosphinate (LAP). Live/dead staining
+MSCs proliferation was further explored by using 5-ethynyl-2’- showedthatencapsulatedMSCsdidnotspreadormigrateoutfrom
+deoxyuridine(EdU)labeling(Fig.3h).Fromday0today7inculture, the microbeads (Fig. S18a). Viability rates of MSCs in HAMA
+thecellproliferationratesdecreasedamongthethreegroups,butat microbeadsandbulkgeldecreasedafter1-weekculture,especiallyin
+bothday3andday7,theHDBgrouppreservedmoreproliferatingcells theHAMALDBgroup(Fig.S18b).Asigniﬁcantlylowerproportionof
+thantheothergroups(Fig.3i).Itmustbenotedthatatday0,theLDB- EdU-positivecellsappearedintheHAMALDBgroupcomparedwith
+MSCs exhibited signiﬁcantly fewer proliferating cells than the high- othergroups(Fig.S18c,d).Boththelive/deadstainingandEdUtest
+densitygroups,suggestingthatcelldensityplaysanimportantrolein suggestedthatlowcelldensitywasdetrimentaltocellgrowth,and
+maintainingtheactivityofcellcolonies.After1week,theHDB-MSCs HAMA had a low capacity to support cell growth compared with
+preserved ~13% of cells as proliferative, whereas the level of pro- Matrigel.ThemetabolicactivityofMSCswasalsoinvestigated.Cell
+liferating HDG-MSCs and LDB-MSCs dropped to ~4% and ~0.2%, metabolicactivityintheHAMALDBgroupwassigniﬁcantlyloweron
+respectively(Fig.3i).Next,MSCsmigrationintheMatrigelHDG,LDB day 5 and day 7 when compared with the HDG and HDB groups
+andHDBgroupsusingtranswellplates(8µmporesize)wasexamined. (Fig.S18e).Again,themetabolicactivityofMSCsinHAMAwasdra-
+Both the MSCs colony morphology and the OD values at 570nm maticallyreducedthaninMatrigel,regardlessofthegelconﬁgura-
+demonstratedthatmoreMSCsmigratedthroughthetranswellpores tion(Figs.S18eand3c).
+NatureCommunications|(        2022)1  3:7463  7
+
+NEW PAGE
+
+Article https://doi.org/10.1038/s41467-022-35183-8
+ApartfromMSCs,wealsostudiedothercelltypestofurtherverify MatrigelHDB-MSCsgrouphasincreasedproductionoffunc-
+the ﬁndings, including NIH3T3, a mouse ﬁbroblast cell line, and tionalextracellularvesicles(EVs)
+SW620,ahumancoloncancercellline.NIH3T3intheMatrigelHDB EVsarespeculatedtobeequallyimportantinMSCs-basedtherapy41.
+group spread extensively after 1 week in culture. Cell number ThecapacityofMSCsproductionofEVsintheMatrigelHDG,LDB,and
+increasedbynearly3-fold,signiﬁcantlyhigherthantheproliferation HDBgroupswasthereforeexamined.Inallgroups,MSCswithcon-
+ratesobservedintheMatrigelHDGandLDBgroups.Themigration sistentinitialcellnumberswereﬁrstexpandedinacompletemedium
+abilityofNIH3T3cellswasalsoincreasedintheHDBgroupthaninthe for5 daystoreach aconﬂuencyof70–80%.Thenthemediumwas
+others (Fig. S19). For SW620, which is of epithelial origin, the cells replacedbyacompletemediumcontainingEV-depletedfetalbovine
+exhibitedlimitedmigrationabilityandremainedconﬁnedinthebead serum(FBS)andcollectedafteranother96h.Transmissionelectron
+volumes.Lessdifferencewasobservedacrossthethreegroups,except microscopy (TEM) and nanoparticle tracking analysis (NTA) on EVs
+that HDB cells proliferated faster in the initial 3 days. The reduced isolated by ultracentrifugation were performed. HDG-EVs, LDB-EVs,
+proliferationfromday3today7mightbeattributedtothespatial and HDB-EVs exhibited similar morphology in TEM, appearing as
+constraint(Fig.S20). round,lipidbi-layeredvesicularstructures(Figs.5a–candS25).Size
+distributionofthecollectedEVswasanalyzedbyNTA(Fig.5a–c)and
+MatrigelHDB-MSCshaveupregulatedcellproliferationandcell themeansizeswerecalculated(Fig.5d).Morethan80%ofthecol-
+migrationthroughPI3K-AktsignalingandWnt/β-CATENIN lectedEVswerepopulatedbetween50and250nm,whichwascon-
+signaling sistentwith the previousﬁndings41. NTAalsorevealed thatMatrigel
+To explore the mechanism of MSCs augmentation under different HDB-MSCshadthehighestproductionofEVs,reaching2.6×1010/mL,
+encapsulationconditions,RNA-seqofMSCsculturedintheMatrigel whereastheHDG-EVsandtheLDB-EVsonlyreached1.1×1010/mLand
+HDG,LDB,andHDBgroupsfor7dayswasperformed.Atotalof3414 1.0×1010/mL, respectively (Fig. 5e). The initial cell numbers across
+differentially expressed genes (DEGs) were identiﬁed between the different conditions at EVs collection were identical (9.0×105
+MatrigelHDGandMatrigelHDBgroups(Fig.4a).1761geneswereup- cells/group).
+regulated and 1653 genes down-regulated (Fig. 4b). Between the Next, a mouse myoblast cell line, C2C12 cells, was used to
+MatrigelLDBandMatrigelHDBgroup,3303DEGsweredetectedwith examinethefunctionalityofMSCs-EVs.HDG-EVs,LDB-EVs,andHDB-
+2875up-regulatedand428down-regulatedgenes(Fig.4c).1328DEGs EVs.Thecellswerelabeledbythemembrane-bindingﬂuorescentdye
+wereoverlappingamongtheHDB,HDG,andLDBgroups.Notably,the PKH67, and then supplemented into the C2C12 culture medium.
+1328DEGsclassiﬁcationheatmapdifferedHDBfromHDGandLDB; After48h,theEVswereobservedinstrongcolocalizationwiththe
+~77.5%ofDEGsgainedhigherexpressioninHDBthaninHDGandLDB C2C12cells,labeled with the Dilcellmembrane tracker(Figs.5f,g
+(Fig.4d).KyotoEncyclopediaofGenesandGenomes(KEGG)analysis and S26a–d).Moreover,EVtreatmentpromotedC2C12cellgrowth
+of the overlapped 1328 DEGs revealed that the PI3K-AKT signaling inanincreasingdose-dependentmanner(0,2.5,and5µg/mLofHDB-
+pathwaysubstantiallydifferedtheMatrigelHDBgroupfromtheothers EVs)(Fig.5h,i).EdUlabelingdemonstratedmoreproliferatingcells
+(Fig. 4e, f). Within the PI3K-AKT signaling pathway, many secretory intheEVs(10µg/mL)treatedgroups,comparedwiththenon-treated
+factors,includingHGF,VEGFA,FGF7,andPDGFBpromotingcellsur- group. However, no difference was observed among the EV treat-
+vivalandproliferation,andreceptors,includingEPOR,OSMR,andTEK, mentgroups,becausetheEVdoseswereidentical.Italsoimpliesthat
+were signiﬁcantly enriched in the Matrigel HDB group (Fig. 4f). EV quality maynot beas different as the quantity across different
+Expression of secreted genes was quantiﬁed using qPCR, including production groups (Figs. 5j, k and S26e). The Western blot results
+HGF,TBK,VRGFA,andEPOR.TheexpressionofHGF,TBK,VRGFA,and showedthattheMSCsculturedintheMatrigelHDG,LDB,andHDB
+EPOR was higher in the HDB group compared with the other two groups were all positive for EV-speciﬁc markers, including CD9,
+groups(FigureS21). CD81, Hsp70, TSG101, Calnex, and CD63. The proteins were most
+Amongthe1975non-overlappedDEGs,89.6%ofgenesexhibited abundantintheMatrigelHDBgroup(Fig.S26f).Thetherapeuticanti-
+higher expression in HDB than in HDG and LDB (Fig. S22a). KEGG inﬂammatory potential of EVs in the Matrigel HDG, LDB, and HDB
+analysisrevealedthatmetabolicpathwaysmightberesponsibleforthe groupswasalsoanalyzed,bycomparingthegeneexpressionof3D
+differential MSCs behavior under different densities, as HDB-MSCs groupswiththe2DEVsthatwereproventopossesstherapeuticanti-
+were distinguished from LDB-MSCs in the expression of 110 DEGs inﬂammatory effects42–44. No signiﬁcant difference in gene expres-
+involvedinmetabolicpathways(Fig.S22bandS22c).Further,KEGG sionwasfoundacrossthesegroups.ItsuggestedthatMatrigelHDG,
+analysisofthe2086non-overlappedDEGsrevealedthattheWntsig- Matrigel LDB, and Matrigel HDB-EVs possessed the equivalent
+nalingpathwaymightberesponsibleforaugmentedMSCsabilitiesin potential oftherapeutic anti-inﬂammatory abilities asthestandard
+Matrigelbeads(HDB)andbulkgel(HDG)(Fig.S22d–f). EVproducts(Fig.S27).
+The expression and phosphorylation levels of AKT inthe PI3K-
+AKTsignalingpathwayandGSK3βandβ-CATENINintheWntsignaling Functionrestorationinmousevolumetricmusclelossinjury
+pathwaywereexamined.TheWesternblotresultsrevealedthatHDB Volumetric muscle loss injury was created by removing 60% of the
+increasedtheexpressionofAKT,alongwiththeelevatedlevelsofAKT gluteusmaximus(GM)musclemassinmice(Fig.S28).TheMatrigel
+phosphorylationatS473.Moreover,HDBexhibitedincreasedlevelsof HDB-MSCsweresparselyprintedintothedefectforfunctionalmuscle
+GSK3βphosphorylationatS9,implyingthatinactiveGSK3βledtothe regeneration.Theemptyspacewasﬁlledwithacellularbeads(Fig.6a).
+increase of stable β-CATENIN (Figs. 4g and S23a). Next, the immu- The LDB-MSCs were densely printed into the defect. The Matrigel
+nostainingforpAKT,AKT,andβ-CATENINwasperformedtofurther HDG-MSCs were cast into the injury area (Fig. S29). Non-treated
+validatethisﬁnding.TheintensityofpAKT,AKT,andβ-CATENINwas (defect only), acellular beads only, and MSCs suspension injection
+signiﬁcantlyhigherintheHDBgroupthanintheHDGandLDBgroups wereusedasthecontrolgroups.Tomimictheprintingprocesstoward
+(Figs.4handS23b).Therefore,itisconcludedthattheHDBcondition irregular tissue defects, we ﬁrst created an irregular plastic mold,
+promotesMSCsmigrationandproliferationviathePI3K–AKTsignal- where the beads, dyed green, were printed and assembled. The
+ingandWnt/β-CATENINsignalingpathway(Fig.4i).Differentialgene recovered assembly was robust and replicated the mold concave
+expression proﬁles related to cancer pathways were also analyzed (Fig.6b).Abio-inertoil,HFE7000withanextremelylowboilingpoint
+among the Matrigel-based experimental groups. More genes were (b.p. 34°C) wasused in thisstudy. It hadminimal inﬂuenceon cell
+enrichedintheHDB-MSCsgroup,whichmightbeattributedtothe growth45(Fig.S7).Tofurtheracceleratetheevaporationofoilduring
+augmentedcellgrowthandregeneration(Fig.S24). surgicaltransplantation,themicewereplacedunderaheaterfor2min
+NatureCommunications|(        2022)1  3:7463  8
+
+NEW PAGE
+
+Article https://doi.org/10.1038/s41467-022-35183-8
+a b HDG vs HDB c LDB vs HDB
+300 300
+2086
+e) 200 e)200
+u u
+1328 qval qval
+0( Significant  0( Significant 
+1975 -log1 100 D•EUGps:  1(3746114) -log1100 D•EUGps:  2(3837053)
+• Down: 1653 • Down: 428
+• NoSignificance • NoSignificance
+0 0
+HDG vs HDB
+-5 0 5 10
+-4 0 4
+LDBvs HDB log(Fold change)
+2 log(Fold change)
+2
+d e f
+1328 overlapped DEGs -Log (Pvalue) PI3K-Akt signaling pathway
+10
+High 0 2 4 6 FITGGFA164 High
+ECM-receptor interaction IGF1
+THBS1
+Focal adhesion PDGFD
+Pathways in cancer HLAGMFA2
+Low Glycolysis / Gluconeogenesis EVPEOGRFA Low
+Amoebiasis GNG7
+Biosynthesis of amino acids CNRRE4AB15
+PI3K-Akt signaling pathway TEK
+TNXB
+Proteoglycans in cancer BCL2L11
+OSMR
+Rheumatoid arthritis DDIT4
+Pentose phosphate pathway LAMB3
+CHAD
+Fructose and mannose metabolism FGF7
+FN1
+Axon guidance TNC
+Dilated cardiomyopathy TVHTNBS2
+Starch and sucrose metabolism COL5A2
+COL4A1
+Cell adhesion molecules (CAMs) COL4A2
+PPP2R1B
+Count 0 20 40 PPHDLGPFPB1
+HDG LDB HDB -Log10(Pvalue) Count HDG LDB HDB
+g h i
+HDG LDB HDB HDG LDB HDB
+DAPI/pAKT
+pAKT 60kDa
+AKT 60kDa
+DAPI/AKT P
+pGSK3β 46kDa AKT
+Ser9 P
+GSK3β GSK3β β-CATENIN
+GSK3β 46kDa active inactive
+DAPI/β-CATENIN
+β-CATENIN 92kDa Migration Proliferation
+β-ACTIN 42kDa
+Fig.4|MatrigelHDBgrouppromotesMSCsproliferationandmigration 1328DEGs.Signiﬁcantdifferentialgenesweredeterminedusingaone-sidedwald
+throughthePI3K-AktsignalingpathwayandWnt/β-CATENINsignalingpath- testintheDESeq2package.fHeatmapviewof30DEGsbelongingtothePI3K-Akt
+way.aVenndiagramshowingthedifferentiallyexpressedgenes(DEGs)inthe pathway.gWesternblottingofPI3K–Aktsignalingpathwayproteins,pAKTand
+MatrigelHDGgroupandtheMatrigelLDBgroup,bothcomparedtotheMatrigel AKT,andtheirdownstreamproteins,includingpGSK3β,GSK3β,β-CATENIN.
+HDBgroup.bandcVolcanodiagramofDEGsintheMatrigelHDGgroup(b)andthe Sampleswerederivedfromthesameexperimentandthegelswereprocessedin
+MatrigelLDBgroup(c),bothcomparedtotheMatrigelHDBgroup.dHeatmapview parallel.hImmunoﬂuorescenceforpAKT,AKT,andβ-CATENIN.Scalebar,200µm.
+oftheoverlapped1328DEGsintheMatrigelHDGgroupandtheMatrigelLDB iSchematicelaborationofthePI3K–AKTandWnt/β-CATENINsignalingpathways
+group,bothcomparedtotheMatrigelHDBgroup.eKEGGpathwayanalysisofthe promotingMSCsmigrationandproliferation.
+aftersurgery(Fig.S30).After4weeks,thenon-treated(defectonly), observethemicroscopicstructuresofretrievedmuscles.H&Estaining
+acellular beads only, and MSCs suspension injection groups gained indicatesmyoﬁbersandMTSstainscollagenandindicatesﬁbrosis.The
+limited recovery as the injury was still visible (Figs. 6c and S31a). Matrigel HDB-MSCs group regenerated the most abundant skeletal
+TransplantationoftheMatrigelHDG-MSCs,LDB-MSCs,andHDB-MSCs muscle featured with high-density aligned muscle ﬁbers at week 4
+allachievedsigniﬁcantrecovery,asthedamagedareabecameindis- (Figs.6dandS32).Moreover,onlyasmallfractionofcollagen,indi-
+tinguishablefromthesurroundingnativemuscles(Fig.6c).However, cative of ﬁbrosis, was distributed amongst the regenerated muscle
+theyweresigniﬁcantlydifferentinthemicroscale.Hematoxylinand ﬁbersintheMatrigelHDB-MSCgroup.Allotherconditionsgenerated
+eosin(H&E)andMasson’strichromestaining(MTS)wereemployedto fewermuscleﬁbersbutheavierﬁbrosis(Fig.6e).
+NatureCommunications|(        2022)1  3:7463  9
+
+NEW PAGE
+
+Article https://doi.org/10.1038/s41467-022-35183-8
+Fig.5|MatrigelHDBgroupaugmentsMSCsproductionofextracellularvesi- iRepresentativebright-ﬁeldimages(h)andODvaluesofMTTassaysforcellpro-
+cles(EVs).a–cTransmissionelectronmicroscopy(TEM)imagesandnanoparticle liferation(i)ofC2C12cellswithoutEVtreatment(EV−)andwithincreaseddosesof
+trackinganalysis(NTA)ofHDG-EVs(a),LDB-EVs(b),andHDB-EVs(c).Scalebars, HDB-EVstreatmentfor48h.n=3.Scalebar,500µm.jandkRepresentativeimages
+200nm.dandeThesize(meandiameter)(d)andparticleconcentration(e)of ofEdUstaining(j)andquantiﬁcationofEdU-positiveC2C12cells(k)withoutEV
+HDG-EVs,LDB-EVsandHDB-EVs.n=3.fColocalizationbetweenHDB-EVsand treatment(EV−)andwith10µg/mLHDG-EVs,LDB-EVsandHDB-EVstreatmentfor
+C2C12cells.PKH67-labeledHDB-EVswereincubatedwithC2C12for48h.Cellswere 48h.n=3.Scalebar,100µm.d,e,i,kThedataarerepresentedasmean±SD.The
+stainedwithDilcellmembranetracker.gIntensityproﬁlesoftwoﬂuorescent signiﬁcantdifferenceisdeterminedbyone-wayANOVA,followedbyTukey’stest.
+channels(green,EVs;red,cellmembrane)alongthedashedline.hand *p<0.05;**p<0.01;***p<0.001;****p<0.0001.
+NatureCommunications|(        2022)1  3:7463  10
+
+NEW PAGE
+
+Article https://doi.org/10.1038/s41467-022-35183-8
+a MSCs/Matrigel beads Air b z
+c
+x
+Post-
+printing
+Defect
+y
+Acellular beads x Week 2
+Gluteus  Week 4
+d e f
+H&E MTS Non-treated HDG LDB HDB
+3030 ***
+1Non-treated HDG LDB HDB Non-treated HDG LDB HDB %) p = 0.0004 p = *0*.0*005 ****
+Week eek 2 eposition (eposition (%)2020 p* =p 0* =.*0 00.701408**p p=  =0 .00.2052649p* **<* p0p .=0 = 00 00.01.0002668
+W dd
+k 3 gen agen 1010
+Wee ollaColl
+C
+4
+k  0 0
+Wee Weeeekk 1 Weeeekk 2 Weeekek 3 Weeekek 4
+w w w w
+1 2 3 4
+g i
+24 h HDG LDB HDB ***p = 0.0006
+%)%) 5500 HDG ****p < 0.0001
+MSC density (MSC density ( 123412340000000000 LHDDBB
+Acellular beads/MSCs/DAPI 24h-hdg 242h-ld4b h24h-hdb1week-hdg 11wee k-lwdbe1weeek-khd b
+h j
+1 week HDG LDB HDB al cell density (%)al cell density (%) 1234123400000000 ****p < 0.0001
+Acellular beads/MSCs/DAPI TotTot 00 24h-hdg 224h-4ldb h24h-hdb1week-hdg11w ewek-ldebe1wekek- hdb
+k l
+3 week 4 week
+HDG LDB HDB HDG LDB HDB 2m)2)m 11550000 ***p = 0.0002 ***p = 0.0006
+ntenstiy (¦Ìntensity (μ 11500500000000 **p = 0.0087 **p = 0.0044
++A i+Ai
+HLA/DAPI HLHL 003w-hdg 33 ww-ldbee3kw-hdb 4w-hdg 44 ww-ldbee4kw-h db
+Thecollagendepositionwasfurtherquantiﬁed.Theﬁbrosiscol- theHDB-MSCsremainedasintegralclusters(Fig.6g),butdisplayed
+lagen abundance was the least in the Matrigel HDB-MSCs group extensively spread distribution at 1-week post-transplantation
+(Fig.6f).Amongthesegroups,transplantationofacellularbeadsand (Fig.6h).SigniﬁcantlyhigherproportionofMSCswasobservedinthe
+MSCssuspensioninjectionresultedinheavierﬁbrosisandlessmuscle HDB groups thanin the LDB and HDG groups (Fig. 6i). The in vivo
+regeneration (Fig. S31b), implying that MSCs were the augmented resultdemonstratedthatthecell-ladenbeads(red)weredistributed
+factorininjuryrepairwhentransplantedtogetherwithgelbeads. amongacellularbeads(green)after1-weektransplantation(Fig.S33).
+Next,retention,growth,anddistributionofMSCsinregenerated Further,MSCsintheHDBgroupmayhavegainedsigniﬁcantlyhigher
+muscletissuewerefurtherinvestigatedaftertransplantationfor1day, proliferationrates,suggestedbythehigherdensityandthicknessof
+1,3,and4weeks.MSCswerelabeledusingtheredDilcellmembrane MSCsﬂuorescenceat1-weekpost-transplantation.Thetotalcellden-
+tracker(Meilunbio).Acellularbeadsandacellularbulkgelwereloaded sityincludingendogenouscellsandtransplantedMSCsintheregen-
+with monodispersed green ﬂuorescent polystyrene microspheres eratedmuscletissueswereanalyzed,whichwassigniﬁcantlyhigherin
+(1µm,1:20dilutedinMatrigelsolution).At24haftertransplantation, theHDBgroupthaninothergroups(Fig.6j).Thismaysuggestboth
+NatureCommunications|(        2022)1  3:7463  11
+
+NEW PAGE
+
+Article https://doi.org/10.1038/s41467-022-35183-8
+Fig.6|MatrigelHDB-MSCsaugmentskeletalmuscleregenerationinmice eachdata,atleastsiximagingwindowsarerandomlyselected.g–jRepresentative
+volumetricmuscleloss(VML)locatedinmicegluteusmaximus(GM). imagesofMSCsintheMatrigelHDG,LDB,andHDBgroupsaftertransplantationfor
+aSchematicillustrationofMatrigelHDB-MSCstransplantationusingbead-jet 24h(g)and1week(h)inmuscletissues.MSCswerelabeledusingtheredDilcell
+printing.VMLwasmodeledinmiceGMmuscle.TheMSCs-ladenHDBbeadswere membranetracker(Meilunbio).Acellularbeadsandacellularbulkgelwereloaded
+printedinsparsepatternstowidenthecoverageofHDBdistributioninthedefect. withmonodispersedgreenﬂuorescentpolystyrenemicrospheres(Aladdin,1µm,
+Thegapswereﬁlledwithacellularbeads.bBead-jetprintingandorderedassembly 1:20dilutedinMatrigelsolution).QuantiﬁcationofMSCs(i)andtotalcelldensity(j)
+inanirregularmoldthatmimicstheirregularinvivodefect.cPhotographsofVML persectionaftertransplantationfor24hand1week.n=3.Scalebar,100µm.kand
+traumaofimmediatelypost-printingofMSCs-ladenLDBandHDBbeads(orpost- lImmunoﬂuorescenceforhumanleukocyteantigen(HLA)toquantifytheMSCs
+castingofMSCs-ladenHDG)andafterregenerationofmuscletissuesfor2weeks retentionratesat3weeksand4weekspost-printing(orpost-casting)ofMSC
+and4weeksinthedefect.d–fH&E(d)andMTS(e)stainingofregeneratedskeletal complexes(k).QuantiﬁcationofHLA+areapersectionat3weeksand4weeks(l).
+muscletissuesat4weekspost-printing.H&E:hematoxylinandeosin.MTS:Mas- n=3pergroup.Scalebar,50µm.Alldataarerepresentedasmean±SD.Thesig-
+son’strichomestaining.Scalebar,500µm(d),100µm(e).Quantiﬁcationofcol- niﬁcantdifferenceisdeterminedbyone-wayANOVA,followedbyTukey’stest.
+lagendepositionpercentageaccordingtotheMTSstainingresults(f).n=3.For *p<0.05;**p<0.01;***p<0.001;****p<0.0001.
+MSCsandotherendogenouscellswereimportantformuscleregen- withtheHDB-MSCstransplantationpossessingthehighestreduc-
+erationintheinitialstage. tion(Fig.7h,i).ItveriﬁedthatMSCsmoderatedorsuppressedthe
+Long-termresidenceofMSCswasalsoinvestigatedusingimmu- inﬂammatoryactivity.
+nostainingofhumanleukocyteantigen(HLA)intheregeneratedtis- Next, the gene expression proﬁles of retrieved muscle tissues
+sues at week 3 and week 4. At 3–4 weeks post-transplantation, the using RNA-seq analysis were determined. KEGG and GO biological
+distributionofHLA+signalschangedtomyoﬁber-likefeatures,imply- process,cellularcomponent,andmolecularfunctionanalysisonthe
+ingthattheMSCshaddifferentiated(Figs.6kandS34,35).Likewise, sequencingdataofregeneratedmuscletissueswereperformed.GO
+theHLA+ intensitywasthehighestintheMatrigelHDB-MSCstrans- analysis showed that highly differentiated genes were enriched in
+plantation group (Fig. 6l). Abundant HLA and desmin signals were termsrelatedtoanextracellularmatrixorganization,smoothmuscle
+observedatalargescaleintheHDB-MSCstreatedtissues,displaying cell proliferation, axonogenesis, immune response, muscle cell dif-
+relativelyuniformproﬁlesover3-mmacross(Fig.S35). ferentiation,extracellularmatrixassembly,andskeletalmuscleorgan
+development(Figs.S36andS37).Theanalysisofhighlydifferentiated
+Histologycharacterizationofregeneratedmuscles genesreachedanagreementwiththeresultsfromtheIHCexamina-
+Newly formed myoﬁbers, muscle resident cells, vascularization, tion(Fig.7).Speciﬁcgenesrelatedtothemalignanttransformationof
+neuralintegration,andimmunomodulatoryeffectswereexplored cancergenesinregeneratedmuscletissuewerealsoanalyzed.Com-
+in the retrieved skeletal muscle tissues at 4 weeks post- pared with the normal group, i.e., the healthy tissue, the gene
+transplantationusing immunoﬂuorescentanalyses.To investigate expressions were not showing signiﬁcant differences among the
+the de novo muscle ﬁber formation and maturation, the regener- experimental and control groups (Fig. S38). Thus, no malignant
+ated tissues were stained for desmin and myosin heavy chain 7 transformation occurred inthe regenerated muscletissues. Speciﬁc
+(MYH7),markersfornewmyoﬁbers.Thehighestproportionofneo- genes related to MSCs secretome were also analyzed. The gene
+muscleﬁberswasobservedinthegrouptreatedbyMatrigelHDB- expressionsacrossdifferentgroupsshowednosigniﬁcantdifference
+MSCs,whereasonlysparseﬁbersweredetectedinthenon-treated intheregeneratedmuscletissues(Fig.S39).
+group.ThemyoﬁberareastainedusingdesminintheMatrigelHDB-
+MSCsgroupreachednearly60%coverage,whichwassigniﬁcantly MatrigelHDB-MSCspromotehairfolliclegenerationinskin
+higher than the Matrigel HDG-MSCs group (43.1%), the Matrigel woundhealing
+LDB-MSCs group (39.6%) and the non-treated group (32.2%) Differentscalesofskinwounds,including5mm×5mm(~2%removal
+(Fig.7a).NewmyoﬁbersareastainedbyMYH7intheMatrigelHDB- ofdorsalskin),10mm×10mm(~15%removalofdorsalskin)wounds,
+MSCsgroupreachednearly25%coverage,whichwassigniﬁcantly and15mm×15mm(~35%removalofdorsalskin)wounds,werecre-
+higher than the coverage rates in the Matrigel HDG-MSCs group ated and repaired using our bead-jet printing platform. The skin
+(9.1%), the Matrigel LDB-MSCs group (6.8%) and the non-treated woundsweretreatedusingMatrigelHDG-MSCs,MatrigelLDB-MSCs,
+group (3.4%) (Fig. 7b). Muscle resident cell changes were also andMatrigelHDB-MSCs(Fig.S40andVideoS6).Non-treated(defect
+investigated by using PAX7, a typical marker for muscle resident only),treatmentbyacellularbeadsonly,andMSCssuspensioninjec-
+cell, and compared across groups. The expression of PAX7 was tionwereusedasthecontrolgroups.Previousstudiesreportedthat
+signiﬁcantly higher in the HDB-MSCs group than in other groups smallskinwounds(smallerthan1×1cm)aremoredifﬁculttoregen-
+(Fig.7c).Thismayindicatethatmuscleresidentcellsgainedhigher eratehairfolliclesandtendtoformscarswhencomparedwithlarger
+invasionabilityinthetransplantationofhigh-densityMSCsbybead- wounds, where wound-induced hair follicle neogenesis occurs3,47,48.
+encapsulation. Matrigel HDB-MSCs treatment also promoted Thus, the regeneration of over 5-mm-diameter excisional skin was
+angiogenesisintheregeneratedtissue,asjudgedfromtheextentof mainly explored. In the control group, the self-healed wounds dis-
+positive staining of CD31, the endothelial marker (Fig. 7d). Neo- playedathindermiswithhorizontallyorientedcollagenﬁbers,aﬂat-
+vascularization was further conﬁrmed by immunostaining of α- tenedepidermisandweredevoidofhairfolliclesandsebaceousglands
+smoothmuscleactin (α-SMA),amarker of functionalarterioles46. (Figs.8a–d,S41–43).TransplantationofcastorprintedMatrigelHDG-
+The density of α-SMA+ blood vessels was markedly higher in the MSCs,LDB-MSCs,andHDB-MSCsenabledthegenerationofhairfol-
+Matrigel HDB-MSCs group than in the other groups (Figs. 7e and licles and sebaceous glands in the healed wounds. A signiﬁcantly
+S31c). The retrieved muscle tissues were also immunostained for thicker dermis and the highest abundance of hair follicles were
+neuroﬁlament (NF) and βIIIT to investigate the extent of innerva- observedintheMatrigelHDB-MSCsgroup(Fig.8a–d).Woundclosure
+tion.Themostsigniﬁcanthigh-densitydistributionofNFandβIIIT areacalculationrevealedtheMatrigelHDB-MSCsacceleratedhealing
+weredetectedintheMatrigelHDG-MSCsgroup(Fig.7f,g).MSCs whencomparedwiththecontrolgroups(Fig.S40).
+immunomodulatory effects were also explored by using CD68 to RetentionratesofMSCsinregeneratedskintissueswereinvesti-
+stainM1macrophageandCD3tostainT-cells.Comparedwiththe gatedaftertransplantationfor1week.MSCswerelabeledusingthered
+non-treatgroup,theexpressionlevelsofCD68andCD3wereboth Dilcellmembranetracker.Atonlyafter1-weekpost-transplantation,
+decreasedinthetreatmentgroupsinregeneratedmuscletissues, hair-follicle-likestructureswereobservedintheMatrigelHDB-MSCs
+NatureCommunications|(        2022)1  3:7463  12
+
+NEW PAGE
+
+Article https://doi.org/10.1038/s41467-022-35183-8
+group,butnotinothergroups(Fig.8e).However,therewasnosig- usingMatrigelHDG-MSCs(4.5%),MatrigelLDB-MSCs(6.5%)andthe
+niﬁcantdifferenceinMSCsdensity(Fig.8f)andthetotalcelldensity controlgroup(2.0%)(Fig.8i).Next,angiogenesiswasexaminedinthe
+thatincludedboththetransplantedMSCsandtheendogenouscells retrievedskintissues.Thecapillarydensitywasdistinctivelydifferent
+(Fig.8g)betweentheHDB-MSCsgroupandothergroups. among the four groups (Fig. 8j).The self-healing group exhibited a
+ThehealedtissueswerefurtherexaminedforKi67+cells,amarker minimalamountofCD31+cells,whereastheHDB-MSCstreatedtissue
+of proliferating cells (Fig. 8h). 13.8% Ki67+ cells were found in the were distributed with abundant CD31+ capillaries (Fig. 8k). These
+treatmentusingMatrigelHDB-MSCs,whichwasmarkedlyhigherthan resultsindicatedthattheprintedMatrigelHDB-MSCsacceleratedthe
+NatureCommunications|(        2022)1  3:7463  13
+
+NEW PAGE
+
+Article https://doi.org/10.1038/s41467-022-35183-8
+Fig.7|Investigationofmyoﬁbermaturation,muscleresidentcells,angio- integration.NeuroﬁlamentamountandβIIITmagnitudearequantiﬁedbytheir
+genesis,neuralintegration,andMSCsimmunomodulatoryeffectsinregener- ﬂuorescencearea.h-i,ImmunoﬂuorescenceforCD68(macrophage)(h)andCD3
+atedmuscletissues.a,bImmunoﬂuorescencefordesmin(a)andMYH7(b)to (T-cells)(i)toexploretheMSCsimmunomodulatoryeffectsinmuscleregenera-
+determinethemyoﬁbermaturationandtheirquantiﬁcationbyﬂuorescencearea. tion.ThesignalintensityofCD68andCD3werequantiﬁedbytheirﬂuorescence
+cImmunoﬂuorescenceforPAX7todeterminethepopulationofmuscleresident area.Scalebar,100µm(a,b,e),40µm(c,d,h,i),20µm(f,g).Alldataarerepre-
+cellsandtheirquantiﬁcationbyﬂuorescencearea.dandeImmunoﬂuorescencefor sentedasmean±SD.n=6pergroupateachtimepoint.Foreachdata,atleastsix
+CD31(d)andα-SMA(e)andtoevaluateangiogenesis.α-SMApositivearteriolesand imagingwindowsarerandomlyselected.Signiﬁcantdifferenceisdeterminedby
+CD31positivecapillariesarequantiﬁedbytheirﬂuorescencearea.fand one-wayANOVA,followedbyTukey’stest.*p<0.05;**p<0.01;***p<0.001;
+gImmunoﬂuorescenceforneuroﬁlament(NF)(f)andβIIIT(g)toobservetheneural ****p<0.0001.
+formationofhairfolliclesandassociatedsebaceousglands,promoted andheterogeneousmicrotissueassembly22,23,38.Bead-jetprintingplat-
+theproliferationofkeratinocytesandaugmenteddenovoangiogen- forms could fabricate large-scale, planar, or spatial, structures in
+esis. MSCs immunomodulatory effects in skin tissues were also deﬁnedhomogeneousandheterogeneousorganizations. Forplanar
+exploredbyusingCD68andCD3staining.Comparedwiththenon- structures,thecurrentin-housebead-jetprintingmachinecanprintup
+treat group,theexpression ofCD68 and CD3was decreased inthe to100cm2ofaplanarstructureor2cm×2cm×3cmcubicstructures
+treatmentgroupsinregeneratedskintissues(Fig.S44).Itveriﬁedthat (Figs.S4andS5).Bead-jetprintingalsobroadenstheapplicabilityof
+MSCshadmoderatedorsuppressedtheinﬂammatoryactivity.Itwas intraoperative bioprinting. Compared with conventional 3D in-situ
+consistentwiththeﬁndingintheregeneratedmuscletissues. printing techniques, including intravital 3D bioprinting49, directly
+Forlarge-scale(10mm×10mmand15mm×15mm)skinwound printing50,droplet-basedbioprinting51andinsitu3Dbioprintingwith
+healing,signiﬁcantlyhigher amountsofthe hairfolliclesand sebac- bioconcrete bioink52, bead-jet printing is specialized for stem cell
+eousglandswereobservedintheMatrigelHDB-MSCsgroupthanin therapywithimprovedloadingefﬁciencyandretentionrateofstem
+theacellulargroup(Figs.S45andS46).Geneexpressionproﬁlingof cells in vivo. Sparsely patterning of high-density MSCs-laden beads
+retrievedskintissuesusingRNA-seqanalysiswasperformedtoinves- amongacellularbeadsisabletoenlargethetransplantationcoverage,
+tigate the mechanism of HDB-MSCs in accelerating hair follicle for- thus enabling therapy of large-scale traumatic injury with a limited
+mation.TheKEGGandGObiologicalprocess,cellularcomponent,and numberofMSCs.
+molecularfunctionwereanalyzedonthesequencingdataofregen- Thoughsomeprevalentbiomaterialswereproventheirsuitability
+erated skin tissues. GO analysis showed that highly differentiated inthebead-jetprintingsystem,includingGelatin,GelMA,HAMA,etc.,
+geneswereenrichedintermsrelatedtoskindevelopment,skinmor- they failed to present analogous performance in supporting MSCs
+phogenesis, wound healing, endothelial cell migration, sprouting growth,proliferation,anddifferentiationasinMatrigel(Figs.3,S17and
+angiogenesis,extracellularmatrix,hairfolliclecellproliferation,and S18).Forexample,cellviabilityandmetabolicactivityweredramati-
+keratinocytemigration(FiguresS47andS48).Theanalysisofhighly callyreduced in HAMA, compared with MSCs in Matrigel products.
+differentiatedgenesreachedanagreementwiththeresultsfromthe However,though the cytocompatibilityofMatrigelisfavorable,the
+IHCexamination(Fig.8).SpeciﬁcgenesrelatedMSCssecretomewere clinicalpromiseislimitedduetoitstumor-derived,ill-deﬁned,variable
+alsoanalyzedintheregeneratedskintissues.Thegeneexpressionof composition and low availability for lab-used conditions53,54. The
+Vcam1,Ccl5,II12b,Cxcl10,andCxcl9,etc.werehigherintheMatrigel potential for antigenicity is one of the inherent limitations. Recent
+HDB-MSCsgroup,comparedwiththeothergroups(Fig.S49). studiesaboutsynthetichydrogelsmayofferapotentialalternativeto
+naturalbiomaterials,asbiochemicalandbiophysicalpropertiescanbe
+Discussion modularlyaltered,andengineeredmaterialsdonotsuffertheriskof
+ThisstudyaimstoaugmentMSCs-basedregenerativetherapy,which, antigenicityorotherinherentbiologicalproperties.Forexample,Han
+although has been proven effective in both laboratory and clinical etal.engineeredasynthetichydrogel-basedmatrixandappliedthe
+trials, faces challenges in approaching the maximum capacity of matrixfortheregenerationofmice’sskeletalmuscle55.Therefore,for
+transplantable MSCs13. Traditionally, the transplantation of MSCs is futureclinicaltranslationofthisstrategy,syntheticbiomaterialswith
+expensive and of low efﬁcacy due to a dramatic reduction in cell high biocompatibility, cell-ligation ability, biodegradability, and
+retentionaftertransplantation.Moreover,itremainsunresolvedhow appropriateviscoelasticandapathogenicpropertiesshouldbeinno-
+to achieve the full capacity of transplanted cells. In this study, we vated and commercialized to provide appropriate alternatives to
+designedabead-jetprintingsystemthatsparselypatternshigh-density Matrigel56.
+cell-ladenbeads.Theregional(intra-bead)highcelldensityexpands There is no consensus on the speciﬁc mechanism of skeletal
+cell capacity, and meanwhile, sparse patterning enlarges the trans- muscle regeneration in VML by transplanted MSCs. By tracking the
+plantationcoverage.Therefore,itprovidesasolutionforlarge-scale retention, growth, and distribution of MSCs in regenerated muscle
+injurytransplantationwithadeﬁniteamountofavailableMSCs.Inthis tissues, suggests that the transplanted MSCs may ﬁrst proliferate
+study,thebead-jetprintingplatformacceleratedtheregenerationof within1weekintheinitialstage,followedbydifferentiationfromthe
+skeletal muscle tissues with reduced ﬁbrosis in mice VML injuries 3rdweekandonwardinthelaterstage(Fig.7).Intheinitialstage,the
+(Figs.6and7),andthickeneddermiswithincreasedhairfolliclesin proliferativeMSCsandendogenouscells,e.g.,muscleresidentcells,
+skinwounds(Fig.8).Theimprovementswereremarkablewhencom- mightbothcontributetotheneo-tissuegrowth(Figs.6and7).Inthe
+pared with parallel MSCs transplantation conditions, including later stage, the Matrigel HDB-MSCs with high cell retention differ-
+homogeneous MSCs-laden bead and bulk gel distribution, acellular entiatetowardskeletalmyoﬁbersandacceleratemuscleregeneration.
+beadsupportandcellsuspensioninjection.Inthesparse-denseMSCs Inregeneratedskintissues,transplantedMSCsmaydifferentiateinto
+beadtransplantation,signiﬁcantlyelevatedMSCsretentionrate,MSCs hair-follicle-like structures within 1 week after transplantation. MSC
+proliferationanddifferentiation,angiogenesis,andinnervationwere secretomefunction,e.g.,byproducingEVsinvivo,couldalsostimulate
+obtained(Fig.7). regeneration(Figs.5andS49).ThepresenceofMatrigelHDB-MSCsin
+Precisedepositionofmicrogelsinscaled-upproductionposesa the early stage may initiate the EV-dependent paracrine signaling,
+big challenge in this ﬁeld. Though high-throughput production of which promotes the regeneration process from native tissues,
+microgelshasbeenachieved,theefﬁciencyandthroughputoftradi- includingpromotingcellproliferationandresolvinginﬂammation41,57.
+tionalmicrobeadprintingareratherlow,disablingtogeneratelarge Therefore, we tend to believe that both MSCs themselves, EVs and
+NatureCommunications|(        2022)1  3:7463  14
+
+NEW PAGE
+
+Article https://doi.org/10.1038/s41467-022-35183-8
+endogenouscellspromoteskeletalmuscleregenerationand,likewise, needstrongparacrinesupportfromtheirniche,withoutwhichthey
+skinregeneration.However,itremainschallengingtodistinguishtheir willnotbeabletosurvive60.Thus,MSCstherapyhasuniqueadvan-
+respectivecontributions. tagesinmusclerepairandothertissueregeneration,includingbutnot
+It is also reported that the regenerative potential of skeletal limitedtoself-renewalability,multipotentiality,andimmunomodula-
+muscle is maintained by the heterogeneous population of muscle- tioneffects.
+residentstemcells(MuSC)58.ComparedwithMSCs,MuSCssufferfrom Inconclusion,wepresentedanewbead-jetprintingsystemthat
+quickcellsenescenceandarapiddecreaseresultingfromtheshort- enablesscale-upproductionandmanipulationofcell-ladenMatrigel
+ening oftelomeresineach cell cycle59.Also,MuSCs afteractivation beads. The successes in the demonstration of VML repair and skin
+NatureCommunications|(        2022)1  3:7463  15
+
+NEW PAGE
+
+Article https://doi.org/10.1038/s41467-022-35183-8
+Fig.8|MatrigelHDB-MSCsaugmentskinwoundhealingandhairfollicle groupsaftertransplantationfor1week(e)andquantiﬁcationofMSCsintensity(f)
+regeneration.aRepresentativeimagesofH&EstainingandMTSofregenerated andtotalcelldensity(g)persectioninskintissues.MSCswerelabeledusingthered
+skintissuesat3weekspost-printing(orpost-casting)ofMSCsloadedinMatrigel Dilcellmembranetracker(Meilunbio).n=3.Scalebar,100µm.h,iImmunostaining
+HDG,LDBbeads,andHDBbeads,respectively.FortheHDBgroup,theMSCs-laden forKi67toviewtheproliferatingcells(h)andquantiﬁcationofKi67positivecells
+HDBbeadswereprintedinsparsepatterns,andtheemptyspacewasﬁlledwith persection(i).Scalebar,50µm.n=6.j,k,ImmunoﬂuorescenceforCD31toview
+acellularMatrigelbeads.Scalebars:500µm(4×,upperrow),200µm(10×,lower angiogenesis(j)andquantiﬁcationofCD31positivecapillaries(k).Scalebar,
+row).b–dQuantiﬁcationofdermisthickness(b)andhairfollicle(c)andsebaceous 100µm.n=6.Foreachdata,atleastsiximagingwindowsarerandomlyselected.All
+glands(d)countspersectionintheregeneratedarea.n=6.Sixsectionsare dataareexpressedasmean±SD.Signiﬁcantdifferenceisdeterminedbyone-way
+selected.e–gRepresentativeimagesofMSCsintheMatrigelHDG,LDB,andHDB ANOVA,followedbyTukey’stest.*p<0.05;**p<0.01;***p<0.001;****p<0.0001.
+woundhealingsuggestthatthestrategyofsparse-densedistribution ﬁbroblast cells (GDC0030) were purchased from China Center for
+ofMSCs,andperhapsotherstemcells,mightbeextendedtoawide TypeCultureCollectionandusedinP5toP20.SW620humancolon
+range of regenerative therapies. Additionally, the current printing cancer cells (CL-0225) were purchased from Procell Life Science
+system requires further improvement to increase the feasibility of TechnologyCo.Ltd.NIH3T3mouseembryonicﬁbroblastcells,C2C12
+intraoperative bioprinting, by designing a synergistic system com- mouse muscle cells, and SW620 human colon cancer cells culture
+binedwithaninjuryscanningsystemandapositioningcontrolsystem mediacomposedofDMEM(Gibco,China)supplementedwith10%FBS
+for microgels. Eventually, the bead-jet printing system might be and1%penicillin-streptomycin.Allcellsweremaintainedat37°Cina
+appliedinversatileclinicalandlaboratoryoperationsinregenerative humidiﬁedCO incubator.Cellculturemediawasrefreshedevery2
+2
+medicine. to3days.
+Methods Bead-jetprinting
+Ethicalregulations Acustomizedbead-jetprintingplatformwasdesignedinthisstudy.
+All the animal procedures were approved by the Animal Experi- This platform comprises a bead formulation module and a bead
+mentation Ethics Committee at Tsinghua Shenzhen International printing(jetting)module.Thetwomodulesoperateinsynchroniza-
+Graduate School, Tsinghua University [Project 2020/19]. All the tion. In the formulation module, Matrigel (Corning, USA), gelatin
+acquisitions of human samples were approved by the Ethic Com- (Sigma, USA), Gelatin Methacryloyl (GelMA) (EFL Inc., China), and
+mittees of the Shenzhen Maternity & Child Healthcare Hospital, HyaluronicacidMethacryloyl(HAMA)(EFLInc.,China)wereusedto
+Project SFYLS[2020]061. Two donors (ref number 10011399 and produce the microbeads. To fabricate Matrigel beads, the Matrigel
+10016808) at Shenzhen Maternity and Child Healthcare Hospital liquid phase at 4°C was loaded into a 1mL syringe (Yuekang) con-
+volunteeredtogivethehumanumbilicalcordsforthisstudywith nected with a ﬂuid injection pump (LEAD FLUID) stored in a 4°C
+informedconsent. refrigerator.Theﬂowratewassetat20µL/min.TheHFE7000oilwas
+loaded in a 10mL syringe (Yuekang) connected to another ﬂuid
+Studydesign injectionpump(LEADFLUID)andtheﬂowratewassetat300µL/min.
+ThreetypesofMSCsbehaviorandregenerationefﬁcacyweretested The Matrigel droplets were produced and collected in a long con-
+invitroandinvivo.TheMSCswereloadedinhighcelldensity(1.0×107 nectiontubing(Woer,innerdiameter(ID)=0.56mm),througha3-way
+cells per mL) beads (HDB), low cell density (2.0×106 cells per mL) PDMScube,andthengelledat37°Cfor30min.Tofabricategelation
+beads(LDB),highcelldensity(1.0×107cellspermL)bulkgel(HDG) beads,the5%(w/v)gelatinsolutionmixedwiththesaturatedandﬁl-
+withtheinitialcellnumberconsistentacrosstheparallelgroups.When teredTG(DongshengBiotech,China)solutionatthemixingratioof5:1
+culturingin12-wellplatesinvitro,50HDBs,250LDBs,7.5µlHDGwere wasloadedina1mLsyringeandplacedatroomtemperature.Thenthe
+printedorcastineachwellindividually.Whentransplantedinvivo, gelatindropletswereformulatedundertheperiodicsheareffectfrom
+balb/cmice(25-30g)receivedthesameamountofMSCsinthetrau- theoilﬂowandgelledinthecollectiontubingat37°Cfor15min.To
+maticinjury. generateGelMAbeads,5%(w/v)GelMAwasdissolvedin0.25%(w/v)
+LAPinPBSbufferat60°Candmaintainedfor1hinadarkplace.Then
+Cellculture sampleswerecentrifugatedtoremovetheairbubble.ThentheGelMA
+Humanumbilicalcordtissueswereobtainedfromfull-termbirthsafter dropletswereformulatedasdescribedabove.Thetubingwasexposed
+normalvaginaldeliveryatthedeliveryroomoftheShenzhenMater- to UV light at 405nm for 1min to crosslink GelMA microgel. The
+nity and Child Healthcare Hospital as approved by the ethics com- production of HAMA microbeads was identical to the practice of
+mittee. The tissues (length >10cm) were collected in a sterile jar GelMA. Brieﬂy, 5% (w/v) HAMA was dissolved in 0.25% LAP in PBS
+containingPBSsupplementedwithpenicillin(100UmL−1)(Gibco)and buffer at room temperatureand maintained for 1h in a dark place.
+streptomycin(100µgmL−1)(Gibco).Thesamplesweretransportedon Thensampleswerecentrifugatedtoremovetheairbubble.Thenthe
+iceandprocessedwithin12h.Bloodclotswereremovedbyrinsing HAMAdropletswereformulatedasdescribedabove,andthetubing
+withPBSsupplementedwithpenicillin(100UmL−1)andstreptomycin was exposed to UV light at 405nm for 1min to crosslink HAMA
+(100µgmL−1), the cords were cut into pieces (2–3cm), and blood microgel.
+vessels were removed. The Wharton’s jelly was chopped into frag- The tubing outlet is connected to a 3-port connector (PDMS
+ments(1mm3)usingscissorsandplacedintocellcultureﬂasks(25cm2) shaped),withasidechannel(width=1mm)opentothecompres-
+forcultureexpansionat37°Cand5%CO .Afterisolation,theMSCs sionair(5psi).Themicrobeadsarethenejectedthroughavertical
+2
+were cultured in a medium comprising Dulbecco’s modiﬁed Eagle’s channel onto the culture plate or wound substrate by the com-
+medium (DMEM)/F12 (Gibco, China) supplemented with 10% fetal pressedairﬂowattheintersectionpointofthenozzle.Theairjet
+bovineserum(FBS)(Gibco,USA)and1%penicillin/streptomycin(P/S). shootsabeadontothesubstratealongastraightpathandthebeads
+When cells had reached 80% conﬂuence, the umbilical cord tissues arepatternedinadeﬁnedmannercontrolledbythemotionofthe
+wereremovedandcellsweretransferredintocultureﬂasks(75cm2).In XYZaxis.
+thisstudy,MSCsbetweenpassages3and10(P3–P10)wereused.Cells
+wereveriﬁedinvitrofortheMSCmarkersCD90andCD105,assug- Rheologytest
+gestedbytheInternationalSocietyforCellTherapies(ISCT)(Fig.3i). Toevaluatetherheologicalpropertydifferencebetweenbulkgeland
+C2C12mousemusclecells(GDC0175),andNIH3T3mouseembryonic microbeads, 5% (w/v) TG-crosslinked gelatin and Matrigel was used
+NatureCommunications|(        2022)1  3:7463  16
+
+NEW PAGE
+
+Article https://doi.org/10.1038/s41467-022-35183-8
+throughoutthisstudyandtestedbyarotationalrheometer(MCR302, Metabolicactivityassay
+AntonPaar,Austria).Brieﬂy,thesolidiﬁedmicrobeadswerecollected Themetabolicactivityofcellsembeddedinthehydrogelwasdeter-
+in the cubes. Then the microbeads were pelleted in the tube and minedusingtheAlamarBlueassay(ThermoFisherScientiﬁc).Brieﬂy,
+centrifuged at 93×g for 5min. After that, the oil was aspirated and sampleswerewashedwithPBSbufferandthenculturedusingMSCcell
+removedfromthetube.Thegel–oilcomplexwaswashed,centrifuged, culturemediummixedwiththeAlamarBluereagentattheratioof1:9
+andaspiratedformultiplestepsuntilalloildropletswereremoved.In for24h.Finally,theopticaldensity(OD)valueofthesupernatantwas
+therheologicaltest,a25-mmmeasuringplatePP025wasusedinthis measured at 570nm by Synergy H1 microplate reader (Bio-Teck,
+study. An approximate volume of microbead assembly was placed Winooski,VT,USA).
+onto the center of the rheometer plate using a spatula. Then the
+geometrywasloweredtothedesiredgapheight(1mmusedinthis MeasurementofDNAconcentrationandreal-timequantitative
+study).Redundantmicrobeadswereremovedusingascraper.Oscil- PCR(RT-qPCR)
+latorystrainsweeps(0.1–500%,1Hz)werecarriedoutatroomtem- GenomicDNAandtotalRNAfromMatrigelHDG-MSCs,LDB-MSCs,and
+perature. Oscillatory frequency sweeps (0.1–100Hz, 1% strain) were HDB-MSCs were isolated using a DNA/RNA Isolation kit (TIANGEN,
+performed at room temperature. Time sweeps (0.5% strain, 1Hz, China).DNAandRNAconcentrationwasdeterminedusingtheNano-
+2min)wereperformedatroomtemperaturetodeterminethestorage drop2000(Thermo,US).2μgRNAwasreversetranscribedtocDNA
+(G’,Pa)andloss(G”,Pa)moduliofmicrobeadassembliesandbulkgel. by the PrimeScript™ RT reagent Kit (TAKARA). cDNA was used for
+Shearramp(0.01–100s−1)wasusedtostudytherelationshipbetween qPCR using the GoTaq®qPCR Master Mix(Promega, USA) with RT-
+viscosity and shear rate. All experiments were repeated at least qPCRinstrument(Bio-Rad,CA).TheprimersusedfortheqPCRreac-
+threetimes. tionwereasfollows:HGF,5′-TCCAAGGTCAAGGAGAAGGCTACAG-3′
+and 5′-CAGGAGTCATGTCATGCTCGTGAG-3′; TEK, 5′-TGCAGAGAA-
+Granularmicrogelsporosity CAACATAGGGTCAAGC-3′and5′-CAGGTCATTCCAGCAGAGCCAAG-3′;
+Tocharacterizethegranulargelporosity,5%(w/v)gelatin,Matrigel, VEGFA, 5′-AGGCTCCAGGGCATTAGAC-3′ and 5′- AGGCTCCAGGG-
+5% (w/v) GelMA, and 5% (w/v) HAMA microbead assemblies from CATTAGAC-3′; EPOR, 5′-CTTCTGGTGTTCGCTGCCTA-3′ and 5′-
+different microbeads (D=450 and 650µm) were produced. Bead CCTCGTAGCGGATGTGAGAC-3′; glyceraldehyde phosphate dehy-
+samples were centrifugated to achieve different packing degrees drogenase(GAPDH),5′-CGACCCCTTCATTGACCTC-3′and5′-CTCCAC-
+(low-packing gel, 93×g for 5min; high-packing gel, 20879g for GACATACTCAGCACC-3′. The reaction mixture (25μL) consisted of
+5min) and inﬁltrated with 10mg/mLFITC-dextran (2MDa) in PBS 12.5μLSYBRGreen,2μltemplateDNA,1μLeachoftheforwardand
+solution.EachmicrogelpelletwastransferredtoaPDMSholder(a reverseprimers(1nmol/mL),and8.5μLdistilledwater.ThePCRpro-
+5-mmholepunchedinthecenter)andadheredtoaglassslide.A tocol was as follows: 95°C, 3min, 95°C, 30s; 57°C, 45s; 39×. The
+confocal microscope (Nikon A1) was used to visualize the FITC- relativegeneexpressionlevelwasmeasuredbyusingthe2−ΔΔCTway
+dextranwithininterstitialpores. andwasnormalizedtoGAPDH.
+Livedeadstaining 3-(4,5-dimethyl-2-thiazolyl)-2,5-diphenyl-2H-tetrazoliumbro-
+The viability of cells in the hydrogel, bulk, and microbeads, was mide(MTT)assay
+accessedusingaLIVE/DEADstainingkit(Yeasen,China).Thecell-laden The cell growth of MSCs was evaluated using MTT (Sigma-Aldrich)
+hydrogelswerewashedthreetimeswith1×PBSbuffer.Afterthat,cells assay.ForMSCsencapsulatedinthehydrogel,20MSCs-ladenHDBs,
+wereimmersedwith2.0×10−6MCalceinAM(thelivestainingdye)and 100MSCs-ladenLDBs,or3µLMSCs-ladenHDGwereprintedorcastin
+4.5×10−6MPI(thedeadstainingdye)for30min,followedbygentle a24-wellplateindividually.MTTreagent(5mg/mL)wasaddedtoeach
+1×PBSbufferwashing.Allmicroscopicimageswerecapturedundera well,thenthesecellswerekeptat37°Cinthedarkfor4h.Dimethyl
+ﬂuorescent microscope (Nikon Eclipse Ts2r). The viability ratio was sulfoxide(DMSO)wasaddedtodissolveformazancrystals.Finally,the
+quantiﬁedbycountingthenumberoflive(green)anddead(red)cells optical density (OD) value was measured at 490nm by Synergy H1
+intheimages. microplatereader(Bio-Teck,Winooski,VT,USA).
+Celldissociationandcellcounting 5-Ethynyl-2’-deoxyuridine(EdU)labeling
+ThecellgrowthofMSCs,NIH3T3,andSW620culturedinMatrigelwas The proliferation rate of MSCs encapsulated in hydrogels was eval-
+detectedbycountingthegrowingcellnumbersusingcollagenasetype uatedusinganEdUImagingKit(Yeasen,China).ForMSCsencapsu-
+I(Sigma-Aldrich).50HDBs,250LDBs,7.5µLHDGwereprintedorcast lated in the hydrogel, 5 MSCs-laden HDBs, 25 MSCs-laden LDBs, or
+in12-wellplatesindividuallyandfurthercultured.ThentheMatrigel 0.75µlMSCs-ladenHDGwereprintedorcastina96-wellplate.EdU
+was dissolved using 1mg/mL collagenase type I in PBS for 1h. The staining was carried out according to the manufacturer’s protocol.
+dissolvedcellwascountedusinghemocytometer(Qiujing,China).The Brieﬂy,thecellswere incubatedwith1.0×10−6Mfor24h.Thenthe
+livecellnumberwasobtainedbymultiplyingthetotalcellnumberand culture media was removed and washed with PBS twice. 4% Poly-
+cellviability. formaldehyde(PFA)wasusedtoﬁxthecellfor30minandneutralized
+with2mg/mLglycinefor5min.Afterwashingwith3%bovineserum
+LDH-CyQuantassay albumin(BSA)inPBS,cellswerepermeabilizedwith0.5%TritonX-100
+MSCsgrowthinMatrigelwasdeterminedusingtheLDHCytotoxicity inPBS.ThenthecellswerestainedwithYeﬂuor488Azide(1:500)for
+assay kit (Yeasen, China) according to the manufacturer’s protocol. 30minatroomtemperature.Thenucleiwerestainedwith1:50004′,6-
+Substrate mix, iodonitrotetrazolium (INT) substrate solution, INT diamidino-2-phenylindole(DAPI)(Sigma-Aldrich)for10min,followed
+dilutionbuffer,andenzymesolutionweremixedtogetheraccording bywashingwithPBS for3timesandvisualizedunderaﬂuorescent
+to the volume ratio from the protocol and formulated the working microscope(NikonEclipseTs2r).ThequantiﬁcationofEdUlabeling
+solution.Cellsweredissociatedusing1mg/mLcollagenasetypeIin was done by calculating the proportion of positive cells in the
+PBSfor1handincubatedwithcelllysissolutionat37°Cfor1h.Then imagingﬁeld.
+thesupernatantwasincubatedwiththeworkingsolutionwithoutlight
+at25°Cfor30min.Finally,theopticaldensity(OD)valuewasmea- Crystalvioletstaining
+sured at 490nm by Synergy H1 microplate reader (Bio-Teck, ThemigrationabilityofMSCswastestedusingcrystalvioletstaining
+Winooski,VT,USA). cultured in a transwell chamber (6.5mm width, 8µm pore size,
+NatureCommunications|(        2022)1  3:7463  17
+
+NEW PAGE
+
+Article https://doi.org/10.1038/s41467-022-35183-8
+Corning). 5 MSCs HDBs, 25 MSCs LDBs or 0.75µl MSCs HDG were usingImageJ(version1.52).Uncroppedandunprocessedscansofthe
+printed or cast into the upper chamber of the transwell. Then the blotscouldbeobtainedfromthesourcedataﬁle.
+transwellchamberswereplatedintoa24-wellplate.After3and7days,
+the cells in the chamber were ﬁxed with methanol for 30min and Immunoﬂuorescencestainingof3DMSCs
+stainedfor30minwith1%crystalviolet(C0775,Sigma-Aldrich).Non- MSCswereculturedinMatrigelHDG,LDB,andHDBgroupsfor1week
+migratedcellsinsideoftranswellwerewipedoffbyacottonswab.The andthenﬁxedusing4.0%PFAfor1hatroomtemperaturefollowedby
+imagesofmigratedcellswerecapturedbyamicroscope(NikonEclipse three times washing using PBS. Then the MSCs werepermeabilized
+Ts2r).ThecrystalvioletstainedinmigratedMSCsisdissolvedby33% with0.5%TritonX-100for30minatroomtemperatureandfurther
+ethylicacidandmeasuredat570nmbySynergyH1microplatereader incubatedwith5%BSAfor1h.Afterthat,MSCswereincubatedwith
+(Bio-Teck,Winooski,VT,USA). primaryantibodiesagainstpAKT(1:100,CellSignaling,Cat#4060S),
+AKT(1:100,CellSignaling,Cat#4685S)andβ-CATENIN(1:100,Cell
+Flowcytometry Signaling, Cat #8480S) at 4°C overnight. After three-time washing
+MSCs from the third generation were cultured in 2 days condition, using PBS, the samples were incubated with Alexa Fluor 488 con-
+MatrigelHDG,LDB,andHDBgroupsfor4daysandthenharvestedin jugated secondary antibody (1:500, Abcam, Cat #ab150073) at 4°C
+CellStainingBuffer(420201,BioLegend)andstainedwithﬂuorescent- overnight. Finally, the samples were stained with DAPI. The images
+conjugatedprimaryantibodies,phycoerythrin(PE)-conjugatedhuman werecapturedunderaﬂuorescentmicroscope(NikonEclipseTs2r).
+antibodyCD90(5µLpermillioncellsin100µlstainingvolume,Bio-
+Legend,Cat#328123)andallophycocyanin(APC)-conjugatedhuman EVIsolation
+antibodyCD105(5µLpermillioncellsin100µLstainingvolume,Bio- MSCswereculturedinMatrigelHDG,LDB,andHDBgroupscontaining
+Legend,Cat#323225),for30minat4°Cinthedark.Processedcells completeDMEM/F12mediumfor5daysandfurtherculturedincom-
+werethenwashedtwicewithwashbufferandanalyzedbyﬂowcyto- pletemediumcontainingEV-depletedFBS(C38010100,Vivacell)for
+metry (BC16129, Beckman Coulter). The ﬂow cytometry data were 96h.ThemediumofMSCswascollectedandcentrifugedat2000×g
+analyzed with FlowJo software (version 10). The details of gating for 10min to remove cell debris followed by centrifugation at
+strategiescouldbeobtainedfromFig.S50. 10,000×g to remove microvesicles (>500nm), and then passed
+througha0.22-μmﬁltertoremovethecellulardebris.Afterward,the
+Osteogenicdifferentiationprotocol supernatant was added to a 38.5mL polypropylene ultracentrifuge
+The MSCs were induced to differentiate osteogenically using an tube(Beckman)andcentrifugedat120,000×gfor70minat4°C.Then,
+OriCellHumanUmbilicalCordMesenchymalStemCellOsteogenic the supernatant was removed, and EV pellets were washed in PBS
+Differentiation Kit (Cyagen Biosciences) following the manu- followedbycentrifugationat120,000×gfor70minat4°C.Theﬁnal
+facturer’s instructions. MSCs-laden microbeads were induced to EVpelletwasresuspendedinPBSandstoredat−80°C.
+differentiate either immediately post-formulation, or after being
+cultured using DMEM/F12 (Gibco, China) supplemented with 10% ProteinquantiﬁcationandsizecharacterizationofEVs
+(w/v) FBS and 1% (w/v) P/S for 5 days. For cell suspension differ- TheproteinconcentrationofEVswasassayedbyaBCAProteinAssay
+entiation, MSCs were differentiated when 70% conﬂuency was Kit (23227, Thermo Fisher Scientiﬁc). EVs isolated from complete
+reached.Osteogenicdifferentiationtestsweretrackedfor3weeks mediancontainingEV-depletedFBSbyultraﬁltrationwereanalyzedby
+andstainedwithAlizarinRedSstaining. nanoparticletrackinganalysis(NTA)todeterminevesicleconcentra-
+tion and size distribution using NanoSight NS300 instrument (Mal-
+Adipogenicdifferentiationprotocol vern,Worcestershire,UK)withscientiﬁcCMOSsensor.Thesamples
+TheMSCswereinducedtodifferentiateadipogenicallyusinganOri- weredilutedinﬁlteredPBSandthree40svideoswererecorded.The
+CellHumanUmbilicalCordMesenchymalStemCellOsteogenicDif- data were analyzed using NTA software 3.0 with the detection
+ferentiation Kit (Cyagen Biosciences) following the manufacturer’s threshold7.
+instructions. MSCs-laden microbeads were induced to differentiate
+either immediately post-formulation, or after being cultured using MorphologycharacterizationofEVsusingTEM
+DMEM/F12(Gibco,China)supplementedwith10%FBSand1%P/Sfor The Matrigel HDG-EVs, LDB-EVs, and HDB-EVs samples (10µl) were
+5 days. For cell suspension differentiation, cells were differentiated depositedonformvar-carbon-coatedgridsfor2minandgentlyblot-
+when100%conﬂuencywasreached.Adipogenicdifferentiationtests tedonﬁlterpaper.Next,thegridswerestainedwith3%uranylacetate
+weretrackedfor3weeksandstainedwithAlizarinRedSstaining. for1minatroomtemperatureandquicklyblottedonﬁlterpaper.After
+drying, the grids were examined in Tecnai G2 Spirit transmission
+Westernblot electronmicroscopyat80kV.
+CellsculturedinMatrigelwerecollectedandlysedwithRIPAbuffer
+(MCE)containingproteaseandphosphataseinhibitors(MCE).Protein TrackingofEVsuptake
+concentrationsweredeterminedbytheBCAProteinAssayKit(23227, The Matrigel HDG-EVs, LDB-EVs, and HDB-EVs were labeled using
+ThermoFisherScientiﬁc).Westernblottingwasconductedaccording PKH67dyeaccordingtothemanufacturer’sprotocoltocompletethe
+toastandardprotocol.Brieﬂy,theproteinswereloadedon10%SDS- colocalization.Brieﬂy,theisolatedEVsweredilutedusingDiluentC,
+polyacrylamide gels and electrophoretically transferred to a PVDF thenmixedwithPKH67dyebygentlepipettingandletstandatroom
+membrane (Millipore). The primary antibodies were purchased as temperaturefor5min.Thestainingreactionwasquenchedbyadding
+follows: p-Akt (1:1000, ABclonal, AP0637), Akt (1:1000, ABclonal, EV-depleted FBS. Next, the superﬂuous dyes wereremoved by cen-
+A17909),p-GSK3β(1:1000,ABclonal,AP1088),GSK3β(1:1000,ABclo- trifugation.AndtheEVswereresuspendedin1×PBSbygentlepipet-
+nal, A6164), β-CATENIN (1:1000, ABclonal, A19657), β-actin (1:1000, ting. C2C12 cells were stained with Dil cell membrane Tracker Red
+ABclonal, AC026), anti-CD9 (1:1000, Abcam, ab263019), anti-CD81 (MB4240-1,Meilunbio)andtreatedwith10μg/mLPKH67-labledHDG-
+(1:1000, Abcam, ab109201), anti-Hsp70 (1:1000, Abcam, ab181606), EVs, LDB-EVs, and HDB-EVs in a complete medium containing EV-
+anti-TSG101(1:1000,Abcam,ab125011),anti-Calnexin(1:1000,Abcam, depletedFBSfor2days.ThenthecolocalizationofEVsandcellswere
+ab133615),anti-CD63(1:1000,Abcam,ab134045).Detectionwasper- visualizedusingaconfocalmicroscope(NikonA1)at×100magniﬁca-
+formed using a Chemiluminescent Western Blot detection kit tion. Fluorescence intensity was obtained by ImageJ software. Pear-
+(4AW012-1000,4ABiotech).Thewesternblotresultswereanalyzed son’scorrelationcoefﬁcientwascalculatedfromrandomlysixregions.
+NatureCommunications|(        2022)1  3:7463  18
+
+NEW PAGE
+
+Article https://doi.org/10.1038/s41467-022-35183-8
+C2C12growth MSCsretentionrateinvestigationinvivo
+C2C12cellswereseededat2.0×104cells/cm2ina24-wellplateand Retention, growth, and distribution of MSCs inregenerated muscle
+treatedwithMatrigelHDB-EVs(2.5and5μg/mL),thenculturedina tissue were tracked using ﬂuorescence-labeled MSCs. Brieﬂy, MSCs
+completemediumcontainingEV-depletedFBSfor48h.Thecontrol were labeled using the red Dil cell membrane tracker (Meilunbio,
+groupwastreatedwithoutanyEVs.After2days,thecellgrowthwas 1:1000). Acellular beads and acellular bulk gel were loaded with
+determinedbyMTTassayassameasdescribedpreviouslyandvisua- monodispersedgreenﬂuorescentpolystyrenemicrospheres(Aladdin,
+lizedunderamicroscope(NikonEclipseTs2r). 1µm,1:20dilutedinMatrigelsolution).ThenMatrigelHDG-MSCs,LDB-
+MSCs, and HDB-MSCs were transplanted in the injury sites. After a
+C2C12proliferation certaintime,themicewereeuthanizedandsampleswereharvested.
+C2C12cellswereseededat2.0×104cells/cm2ina96-wellplateand ImageJwasusedtoanalyzecelldensitypersection.MSCsdensitywas
+treatedwith10μg/mLMatrigelHDG-EVs,LDB-EVs,andHDB-EVs.The calculatedasthefractionareaofredﬂuorescencepersection.Total
+controlgroupwastreatedwithoutanyEVs.Afterward,thecellswere density was calculated as the fraction area of blue ﬂuorescence
+culturedinacompletemediumcontainingEV-depletedFBSfor2days. persection.
+TheproliferationrateofC2C12wasdetectedusingtheEdUlabeling
+method as same as described previously and visualized under a Histologicandimmunostaininganalysis
+ﬂuorescentmicroscope(NikonEclipseTs2r). Forhistologicalandimmunostainingevaluation,allharvestedtissue
+samples were ﬁxed using 4% PFA overnight, followed by 1× PBS
+ThemouseVMLdefectmodel washing3times.Thenthetissuesweredehydratedusinga30%sac-
+Alltheanimalexperimentswereperformedundertheethicalreg- charosesolutionfor12h.Thesampleswereimmersedinanoptimal
+ulationofShenzhenInternationalGraduateSchool(SIGS)ofTsin- cutting temperature (OCT) compound and quickly frozen in liquid
+ghua University. All the mice were housed in a pathogen-free nitrogen.Thesampleswerecryosectionedinto10-µmslides.H&Eand
+environment with the temperature maintained at 23±2°C and Masson’strichromestainingwasperformedaccordingtothemanu-
+relativehumidityat50–65%undera12h/12hlight/darkcyclewith facturer’s instructions. Images were captured on a Leica DM1000
+free access to food and water, in accordance with the National microscope.
+Institutes of Health guidelines. The skeletal muscle defect in GM For immunoﬂuorescence, the slides were blocked using 5%
+musclewascreatedinbalb/cmice(male,4–6weeksold,Guangdong AlbuminBSAinPBSsupplementedwith1%TritonX-100for1hatroom
+MedicalLaboratoryAnimalCenter,China).Micewereanesthetized temperature.Thenthesideswereincubatedat4°Cfor24hwithrabbit
+with 2–5% isoﬂurane, disinfected with serial washes of anti-desmin (1:500, Servicebio, GB11081), rabbit anti-MYH7 (1:400,
+povidone–iodineandethanol,andthenreceiveda2-3cmincision Servicebio, GB111857), mouse anti-human/mouse/rat/chicken Pax7
+on the dorsal skin of the gluteus. After that, 60% volume of GM (5µg/mL;R&DSystems,MAB1675),rabbitanti-CD31(1:200,Servicebio,
+musclewasremovedfromeithersideofgluteus.Theprintedorcast GB11063-3), rabbit anti-α-SMA (1:100, Servicebio, GB111364), rabbit
+constructs were implanted in the defect zone. Six groups were anti-NF (1:100, Abcam, ab223343), rabbit anti-βIIIT (1:100, Abcam,
+carriedoutat1week,2weeks,3weeks,and4weeks:(1)non-treated ab229590),ratanti-CD68(1:100,Invitrogen,Cat#14-0681-82),rabbit
+group (defect only, without any treatment); (2) acellular bead anti-CD3(1:100,Abcam,ab16669),rabbitanti-Ki67(1:600,Servicebio,
+group; (3)cellinjectiongroup; (4)Matrigel HDG-MSCs group; (5) GB111141),rabbitanti-HLA(1:100,Abcam,ab52922).Slideswerethen
+Matrigel LDB-MSCs group; (6) Matrigel HDB-MSCs group. 9×104 washedby1×PBSwashingfor3timesandincubatedinthesecondary
+cellswereinjected,cast,orprintedintothedefectsite,including antibodysuchasanti-rabbitsecondaryantibody(1:400)(AlexaFluor
+9μLHDGsand36μlacellulargel,300LDBs,and60HDBsand240 488,Abcam),anti-rabbitsecondaryantibody(1:400)(AlexaFluor594,
+acellularbeads(TableS2).Afterimplantation,thefasciawasclosed Abcam), anti-mouse secondary antibody (1:400) (Alexa Fluor 488,
+andtheskinwassuturedusingatransparentdressing(Vbon). Abcam),anti-ratsecondaryantibody(1:400)(AlexaFluor488,Abcam)
+andanti-ratsecondaryantibody(1:400)(AlexaFluor568,Abcam)at
+Mouseexcisionalwound-healingmodel 4°Cfor24h.Finally,theslidesweremountedusingDAPI(1:5000)and
+Brieﬂy, the balb/c mice (male, 4–6 weeks old, Guangdong Medical the images wereacquired under a confocal microscope (Nikon A1).
+Laboratory Animal Center, China) were anesthetized with 2–5% iso- Negativecontrolwasperformedinparallel.
+ﬂurane and disinfected with serial washes of povidone–iodine and
+ethanol.5,10,or15mmroundedfull-thicknessexcisionalwoundswere RNA-seqanalysis
+createdalongthedorsalmidline.Theprintedorcastconstructswere ThemRNAsequencingofcells,animalsamples,andEVsampleswas
+implantedinthewoundregion.Sixgroupswereperformedateach performedinGENEWIZ(Suzhou)Co.,Ltd.China(forcells)andBGI-
+timepoint:(1)non-treatedgroup(defectonly,withoutanytreatment); Shenzhen,China(forEVandanimalsamples).Brieﬂy,thecellswere
+(2) acellularbeadgroup; (3) cell injection group; (4) Matrigel HDG- culturedfor7daysandsendtoGENEWIZ(Suzhou).TheGMmuscle
+MSCsgroup;(5)MatrigelLDB-MSCsgroup;amnd(6)MatrigelHDB- sample was taken out after 4-week implantation and sent to BGI-
+MSCs group. For 5mm, rounded full-thickness excisional wounds, Shenzhen.Theskintissuesamplewastakenoutafter4-weekimplan-
+2.1×104 cells were injected, cast, or printed into the defect site, tationandsenttoBGI-Shenzhen.Thesequencingprocesswascarried
+including2.1μLHDGsand8.4μlacellulargel,70LDBs,and14HDBs outaccordingtothecompany’sprotocol.EVswerecollectedfromcells
+and56acellularbeads.For10mm,roundedfull-thicknessexcisional cultured in different conditions and were sent to BGI-Shenzhen for
+wounds,8.4×104cellswereprintedintothedefectsite,including56 smallRNAsequencing. DESeq2 package was used to identifydiffer-
+HDBs and 224 acellular beads. For 15mm, rounded full-thickness ential expression genes. Gene expression value was normalized by
+excisional wounds, 1.8×105 cells were printed into the defect site, Fragments Per Kilobase of transcript per Million mapped reads
+including 120 HDBs and 480 acellularbeads (TableS2).After treat- (FPKM). The Kyoto Encyclopedia of Genes and Genomes (KEGG)
+ment,theskinwassuturedusingatransparentdressing(Vbon).The pathwaywasanalyzedonline(https://david.ncifcrf.gov/).
+woundclosurewasrecordedondays0,7,10,15,and20.Thedynamic
+woundhealingprocesswasanalyzedusingImageJ.Attheculmination Statisticsandreproducibility
+ofthewound-healingexperiment(day21),themicewerekilledusing AllthestatisticalanalysiswasperformedusingOrigin2021b(OriginLab
+an overdose of isoﬂurane and the tissue was taken out from the Co, Northampton, MA) and Prism 6 (GraphPad, Inc.) software. Sig-
+transplantationregion. niﬁcant differences between parallel groups were calculated using
+NatureCommunications|(        2022)1  3:7463  19
+
+NEW PAGE
+
+Article https://doi.org/10.1038/s41467-022-35183-8
+unpaired two-failed Student’s t-test (comparing two experimental 15. Sridhar,B.V.etal.DevelopmentofacellularlydegradablePEG
+groups)orone-wayANOVA(morethantwogroupsinvolved)following hydrogeltopromotearticularcartilageextracellularmatrix
+Tukey’s multiple comparisons test. Unless indicated otherwise, the deposition.Adv.Healthc.Mater.4,702–713(2015).
+data are represented as mean±SD and a signiﬁcant difference was 16. Wong,S.W.,Lenzini,S.,Cooper,M.H.,Mooney,D.J.&Shin,J.-W.
+considered asp<0.05. Allrepresentative ﬂuorescence images, TEM Softextracellularmatrixenhancesinﬂammatoryactivationof
+images, H&E staining, and MTS images, osteogenic and adipogenic mesenchymalstromalcellstoinducemonocyteproductionand
+differentiationimages,andbrightﬁeldimagesshowninthemaintext trafﬁcking.Sci.Adv.6,eaaw0158(2020).
+and supplementary information were repeated at least three times 17. Chrisnandy,A.,Blondel,D.,Rezakhani,S.,Broguiere,N.&Lutolf,M.
+independentlywithsimilarresults. P.Syntheticdynamichydrogelspromotedegradation-independent
+invitroorganogenesis.Nat.Mater.21,479–487(2022).
+Reportingsummary 18. Rezakhani,S.,Gjorevski,N.&Lutolf,M.P.Extracellularmatrix
+Further information on research design is available in the Nature requirementsforgastrointestinalorganoidcultures.Biomaterials
+PortfolioReportingSummarylinkedtothisarticle. 276,121020(2021).
+19. Yassin,M.A.etal.Cellseedingdensityisacriticaldeterminantfor
+Dataavailability copolymerscaffolds-inducedboneregeneration.J.Biomed.Mater.
+The RNA-seq data described in this article are available at Gene Res.A103,3649–3658(2015).
+Expression Omnibus (GEO) under accessions “GSE214868” and 20. Hui,T.Y.,Cheung,K.M.,Cheung,W.L.,Chan,D.&Chan,B.P.In
+“GSE197356”.ThesmallRNA-seqdataareavailableunder“GSE215294”. vitrochondrogenicdifferentiationofhumanmesenchymalstem
+All other data needed to support the conclusions in the paper are cellsincollagenmicrospheres:inﬂuenceofcellseedingdensity
+presentedinthepaperand/orthesupplementaryinformationorfrom andcollagenconcentration.Biomaterials29,3201–3212(2008).
+thecorrespondingauthoruponreasonablerequest.Sourcedataare 21. Qazi,T.H.&Burdick,J.A.Granularhydrogelsforendogenoustissue
+providedwiththispaper. repair.Biomater.Biosyst.1,100008(2021).
+22. Feng,Q.etal.Injectionandself‐assemblyofbioinspiredstemcell‐
+References ladengelatin/hyaluronicacidhybridmicrogelspromotecartilage
+1. Kim,J.H.etal.Neuralcellintegrationinto3Dbioprintedskeletal repairinvivo.Adv.Funct.Mater.29,1906690(2019).
+muscleconstructsacceleratesrestorationofmusclefunction.Nat. 23. deRutte,J.M.,Koh,J.,Di&Carlo,D.Scalablehigh‐throughput
+Commun.11,1025(2020). productionofmodularmicrogelsforinsituassemblyofmicro-
+2. Grogan,B.F.&Hsu,J.R.,SkeletalTraumaResC.VolumetricMuscle poroustissuescaffolds.Adv.Funct.Mater.29,1900071(2019).
+Loss.J.Am.J.Am.Acad.Orthop.Sur.19,S35–S37(2011). 24. Daly,A.C.,Riley,L.,Segura,T.&Burdick,J.A.Hydrogelmicro-
+3. Grifﬁn,D.R.etal.Activatinganadaptiveimmuneresponsefroma particlesforbiomedicalapplications.Nat.Rev.Mater.5,
+hydrogelscaffoldimpartsregenerativewoundhealing.Nat.Mater. 20–43(2020).
+20,560–569(2021). 25. Nih,L.R.,Sideris,E.,Carmichael,S.T.&Segura,T.Injectionof
+4. Lienemann,P.S.etal.Smarthydrogelsfortheaugmentationof microporousannealingparticle(MAP)hydrogelsinthestrokecavity
+boneregenerationbyendogenousmesenchymalprogenitorcell reducesgliosisandinﬂammationandpromotesNPCmigrationto
+recruitment.Adv.Sci.(Weinh.)7,1903395(2020). thelesion.Adv.Mater.29,1606471(2017).
+5. Brassard,J.A.&Lutolf,M.P.Engineeringstemcellself-organization 26. Zhao,H.etal.Microﬂuidicsynthesisofinjectableangiogenic
+tobuildbetterorganoids.CellStemCell24,860–876(2019). microgels.Cell.Rep.Phys.Sci.1,100047(2020).
+6. Fu,J.,Warmﬂash,A.&Lutolf,M.P.Stem-cell-basedembryomodels 27. Mealy,J.E.etal.Injectablegranularhydrogelswithmultifunctional
+forfundamentalresearchandtranslation.Nat.Mater.20, propertiesforbiomedicalapplications.Adv.Mater.30,
+132–144(2021). e1705912(2018).
+7. Lee,H.etal.Self-alignedmyoﬁbersin3Dbioprintedextracellular 28. Lutolf,M.P.etal.Designingmaterialstodirectstem-cellfate.
+matrix-basedconstructaccelerateskeletalmusclefunction Nature462,433–441(2009).
+restoration.Appl.Phys.Rev.8,021405(2021). 29. Lee,J.etal.Hair-bearinghumanskingeneratedentirelyfrom
+8. Wang,X.,Ge,J.,Tredget,E.E.&Wu,Y.Themouseexcisionalwound pluripotentstemcells.Nature582,399–404(2020).
+splintingmodel,includingapplicationsforstemcelltransplanta- 30. Daly,A.C.,Davidson,M.D.&Burdick,J.A.3Dbioprintingofhigh
+tion.Nat.Protoc.8,302–309(2013). cell-densityheterogeneoustissuemodelsthroughspheroidfusion
+9. Winkler,T.etal.Dose–responserelationshipofmesenchymalstem withinself-healinghydrogels.Nat.Commun.12,753(2021).
+celltransplantationandfunctionalregenerationaftersevereske- 31. Brassard,J.A.,Nikolaev,M.,Hubscher,T.,Hofer,M.&Lutolf,M.P.
+letalmuscleinjuryinrats.TissueEng.Pt.A15,487–492(2009). Recapitulatingmacro-scaletissueself-organizationthroughorga-
+10. Xu,B.etal.Injectablemesenchymalstemcell-ladenmatrigel noidbioprinting.Nat.Mater.20,22–29(2021).
+microspheresforendometriumrepairandregeneration.Adv.Biol. 32. Zhang,P.&Abate,A.R.High-deﬁnitionsingle-cellprinting:cell-by-
+(Weinh.)5,e2000202(2021). cellfabricationofbiologicalstructures.Adv.Mater.32,
+11. Burdick,J.A.,Mauck,R.L.&Gerecht,S.Toserveandprotect: e2005346(2020).
+hydrogelstoimprovestemcell-basedtherapies.CellStemCell18, 33. Kang,H.W.etal.A3Dbioprintingsystemtoproducehuman-scale
+13–15(2016). tissueconstructswithstructuralintegrity.Nat.Biotechnol.34,
+12. Levit,R.D.etal.Cellularencapsulationenhancescardiacrepair.J. 312–319(2016).
+Am.HeartAssoc.2,e000367(2013). 34. Fang,Y.etal.3DPrintingofcell‐ladenmicrogel‐basedbiphasic
+13. Wechsler,M.E.,Rao,V.V.,Borelli,A.N.&Anseth,K.S.Engineering bioinkwithheterogeneousmicroenvironmentforbiomedical
+theMSCsecretome:ahydrogelfocusedapproach.Adv.Healthc. applications.Adv.Funct.Mater.32,2109810(2022).
+Mater.10,e2001948(2021). 35. Li,X.etal.Inkjetbioprintingofbiomaterials.Chem.Rev.120,
+14. Ho,S.S.,Murphy,K.C.,Binder,B.Y.,Vissers,C.B.&Leach,J.K. 10793–10833(2020).
+Increasedsurvivalandfunctionofmesenchymalstemcellspher- 36. Ouyang,L.,Highley,C.B.,Sun,W.&Burdick,J.A.Ageneralizable
+oidsentrappedininstructivealginatehydrogels.StemCellsTransl. strategyforthe3Dbioprintingofhydrogelsfromnonviscousphoto‐
+Med.5,773–781(2016). crosslinkableinks.Adv.Mater.29,1604983(2017).
+NatureCommunications|(        2022)1  3:7463  20
+
+NEW PAGE
+
+Article https://doi.org/10.1038/s41467-022-35183-8
+37. Yu,C.etal.Photopolymerizablebiomaterialsandlight-based3D 60. Klimczak,A.etal.Musclestem/progenitorcellsandmesenchymal
+printingstrategiesforbiomedicalapplications.Chem.Rev.120, stemcellsofbonemarroworiginforskeletalmuscleregenerationin
+10748–10796(2020). musculardystrophies.Arch.Immunol.Ther.Exp.66,341–354(2018).
+38. Ayan,B.etal.Aspiration-assistedbioprintingforprecisepositioning
+ofbiologics.Sci.Adv.6,eaaw5111(2020). Acknowledgements
+39. Liu,X.&Ma,P.X.Phaseseparation,porestructure,andproperties TheworkwassupportedbytheNationalNaturalScienceFoundationof
+ofnanoﬁbrousgelatinscaffolds.Biomaterials30,4094–4103(2009). China(GrantNumbers:61971255and82111530212),theNaturalScience
+40. Zaman,M.H.etal.Migrationoftumorcellsin3Dmatricesisgov- FoundationofGuangdongProvince(GrantNumber:2021B1515020092),
+ernedbymatrixstiffnessalongwithcell–matrixadhesionandpro- theShenzhenScienceandTechnologyInnovationCommission(Grant
+teolysis.Proc.NatlAcad.Sci.USA103,10889–10894(2006). Numbers:GJHZ20210705143001004,RCYX20200714114736146,
+41. Nagelkerke,A.etal.Extracellularvesiclesfortissuerepairand WDZC20200821141349001,KCXFZ20201221173207022,
+regeneration:evidence,challengesandopportunities.Adv.Drug KCXFZ20200201101050887),andtheShenzhenBayLaboratoryFund
+Deliv.Rev.175,113775(2021). (GrantNumber:SZBL2020090501014).Allschematicsshowninthe
+42. Buzas,E.I.Therolesofextracellularvesiclesintheimmunesystem. maintextandsupplementaryﬁgureswerecreatedwithbiorender.com.
+Nat.Rev.Immunol.1–15(2022).
+43. Wiklander,O.P.etal.Advancesintherapeuticapplicationsof Authorcontributions
+extracellularvesicles.Sci.Transl.Med.11,eaav8521(2019). S.M.andY.C.conceivedanddesignedthiswork.Y.C.setupthebead-jet
+44. Rani,S.,Ryan,A.E.,Grifﬁn,M.D.&Ritter,T.Mesenchymalstemcell- printerprototypeandcompletedthedataanalysis.Y.C.,J.T.,T.D.,Y.H.,
+derivedextracellularvesicles:towardcell-freetherapeuticappli- J.Z.,andZ.H.completedthecellexperiment.Y.C.andH.Z.performedthe
+cations.Mol.Ther.23,812–823(2015). animalexperiment.B.X.andZ.W.providedhelpwithanimalexperiment
+45. Wagner,O.etal.Biocompatibleﬂuorinatedpolyglycerolsfordro- design.J.L.andK.H.providedhelpwithﬁgurevisualization.S.M.super-
+pletmicroﬂuidicsasanalternativetoPEG-basedcopolymersur- visedthiswork.Y.C.andS.M.wrotethemanuscript.Y.C.,S.M.,P.E.,and
+factants.LabChip16,65–69(2016). Y.W.revisedandeditedthemanuscriptwithinputfromallauthors.
+46. Zhu,D.etal.Nitrate-functionalizedpatchconferscardioprotection
+andimprovesheartrepairaftermyocardialinfarctionvialocalnitric Competinginterests
+oxidedelivery.Nat.Commun.12,4501(2021). Theauthorsdeclarenocompetinginterests.
+47. Seifert,A.W.etal.SkinsheddingandtissueregenerationinAfrican
+spinymice(Acomys).Nature489,561–565(2012). Additionalinformation
+48. Guerrero-Juarez,C.F.etal.Woundregenerationdeﬁcitinrats SupplementaryinformationTheonlineversioncontains
+correlateswithlowmorphogeneticpotentialanddistincttran- supplementarymaterialavailableat
+scriptomeproﬁleofepidermis.J.Investig.Dermatol.138, https://doi.org/10.1038/s41467-022-35183-8.
+1409–1419(2018).
+49. Urciuolo,A.etal.Intravitalthree-dimensionalbioprinting.Nat. Correspondenceandrequestsformaterialsshouldbeaddressedto
+Biomed.Eng.4,901–915(2020). ShaohuaMa.
+50. Russell,C.S.etal.Insituprintingofadhesivehydrogelscaffoldsfor
+thetreatmentofskeletalmuscleinjuries.ACSAppl.BioMater.3, PeerreviewinformationNatureCommunicationsthankstheanon-
+1568–1579(2020). ymous,reviewer(s)fortheircontributiontothepeerreviewofthis
+51. Moncal,K.K.etal.Intra‐operativebioprintingofhard,soft,and work.Peerreviewerreportsareavailable.
+hard/softcompositetissuesforcraniomaxillofacialreconstruction.
+Adv.Funct.Mater.31,2010858(2021). Reprintsandpermissionsinformationisavailableat
+52. Xie,M.etal.Insitu3Dbioprintingwithbioconcretebioink.Nat. http://www.nature.com/reprints
+Commun.13,1–12(2022).
+53. Han,W.M.etal.Syntheticmatrixenhancestransplantedsatellite Publisher’snoteSpringerNatureremainsneutralwithregardtojur-
+cellengraftmentindystrophicandagedskeletalmusclewith isdictionalclaimsinpublishedmapsandinstitutionalafﬁliations.
+comorbidtrauma.Sci.Adv.4,eaar4008(2018).
+54. Nguyen,E.H.etal.VersatilesyntheticalternativestoMatrigelfor OpenAccessThisarticleislicensedunderaCreativeCommons
+vasculartoxicityscreeningandstemcellexpansion.Nat.Biomed. Attribution4.0InternationalLicense,whichpermitsuse,sharing,
+Eng.1,1–14(2017). adaptation,distributionandreproductioninanymediumorformat,as
+55. Isenberg,E.A.&Murphy,W.L.SyntheticalternativestoMatrigel. longasyougiveappropriatecredittotheoriginalauthor(s)andthe
+Nat.Rev.Mater.5,539–551(2020). source,providealinktotheCreativeCommonslicense,andindicateif
+56. Zhao,W.etal.Adaptivemulti‐degree‐of‐freedominsitubioprinting changesweremade.Theimagesorotherthirdpartymaterialinthis
+robotforhair‐follicle‐inclusiveskinrepair:apreliminarystudy articleareincludedinthearticle’sCreativeCommonslicense,unless
+conductedinmice.Bioeng.Transl.Med.7,e10303(2022). indicatedotherwiseinacreditlinetothematerial.Ifmaterialisnot
+57. Raposo,G.&Stoorvogel,W.Extracellularvesicles:exosomes, includedinthearticle’sCreativeCommonslicenseandyourintended
+microvesicles,andfriends.J.CellBiol.200,373–383(2013). useisnotpermittedbystatutoryregulationorexceedsthepermitted
+58. Judson,R.N.&Rossi,F.Towardsstemcelltherapiesforskeletal use,youwillneedtoobtainpermissiondirectlyfromthecopyright
+musclerepair.NPJRegen.Med.5,1–6(2020). holder.Toviewacopyofthislicense,visithttp://creativecommons.org/
+59. Decary,S.etal.Shortertelomeresindystrophicmuscleconsistent licenses/by/4.0/.
+withextensiveregenerationinyoungchildren.Neuromuscul.Dis-
+ord.10,113–120(2000). ©TheAuthor(s)2022
+NatureCommunications|(        2022)1  3:7463  21
+
+NEW PAGE

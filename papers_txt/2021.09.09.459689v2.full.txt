@@ -1,0 +1,789 @@
+bioRxiv preprint doi: https://doi.org/10.1101/2021.09.09.459689; this version posted March 7, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+Title:  Targeting the Cx26/NANOG/Focal Adhesion Kinase Complex via Cell-Penetrating Peptides in 
+Triple-Negative Breast Cancers 
+Authors: Erin E. Mulkearns-Hubert1,2,+, Emily Esakov Rhoades1,+, Salma Ben-Salem1, Rashmi Bharti1, Nicole 
+Hajdari1, Sarah Johnson1, Alex Myers1, Iris Nira Smith3, Smarajit Bandyopadhyay4, Charis Eng3, Erinn Downs-
+Kelly5, Justin D. Lathia1,2,6*, Ofer Reizes1,2,6,* 
+Affiliations: 
+1Department  of  Cardiovascular  and  Metabolic  Sciences,  Cancer  Impact  Area,  Lerner  Research  Institute, 
+Cleveland Clinic Foundation, 9500 Euclid Avenue, Cleveland, Ohio 44195. 
+2Department of Molecular Medicine, Cleveland Clinic Lerner College of Medicine of Case Western Reserve 
+University, 9500 Euclid Avenue, Cleveland, Ohio 44195. 
+3Genomic Medicine Institute, Lerner Research Institute, Cleveland Clinic, Cleveland, OH 44195. 
+4Molecular Biotechnology Core, Lerner Research Institute, Cleveland Clinic Foundation, 9500 Euclid Avenue, 
+Cleveland, Ohio 44195. 
+5Department of Pathology, Cleveland Clinic Foundation, 9500 Euclid Avenue, Cleveland, Ohio 44195 
+6Case Comprehensive Cancer Center, 10900 Euclid Ave. Cleveland, OH 44106 
++These authors contributed equally.  
+*Co-senior and Co-Corresponding authors.  
+To whom correspondence should be addressed: Ofer Reizes, reizeso@ccf.org; Justin Lathia, lathiaj@ccf.org 
+ 
+Running title: Peptide targeting of the Cx26/NANOG/FAK complex in TNBC 
+Keywords: connexin, triple-negative breast cancer, focal adhesion kinase, NANOG, peptide 
+Conflict of interests: The authors declare no conflicts of interest.  
+Figures: 6 
+Tables: 0 
+Word count: 5671   
+1 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2021.09.09.459689; this version posted March 7, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+Abstract 
+Triple-negative breast cancer (TNBC) represents the most lethal and treatment-resistant breast cancer subtype 
+with limited treatment options. We previously identified a protein complex unique to TNBC cancer stem cells 
+composed of the gap junction protein connexin 26 (Cx26), the pluripotency transcription factor NANOG, and 
+focal adhesion kinase (FAK). We sought to determine whether a peptide mimetic of Cx26 designed to target 
+the complex attenuated tumor growth in pre-clinical models. Histological assessment was employed to verify 
+expression  of  complex  members.  We  designed  peptides  based  on  Cx26  juxtamembrane  domains  and 
+performed binding experiments with NANOG and FAK using surface plasmon resonance. Peptides with high 
+affinity were engineered with a cell-penetrating sequence and assessed in functional assays including cell 
+proliferation, self-renewal, and in vivo tumor growth, and downstream signaling changes were measured. 
+Binding studies revealed that the Cx26 C-terminal tail and intracellular loop bound to NANOG and FAK with 
+submicromolar-to-micromolar affinity and that a 5-amino acid sequence in the C-terminal tail of Cx26 (RYCSG) 
+was sufficient for binding. The Cx26 C-terminal tail was tagged with an antennapedia cell-penetrating peptide 
+sequence  and  intracellular  localization  was  confirmed.  The  cell-penetrating  Cx26  peptide  (aCx26-pep) 
+disrupted self-renewal as assessed by tumorsphere formation assay while reducing nuclear FAK and NANOG 
+and inhibiting NANOG target gene expression in TNBC cells but not luminal mammary epithelial cells. In vivo, 
+aCx26-pep reduced tumor growth and proliferation and induced cell death. We provide proof-of-concept that a 
+Cx26 peptide-based strategy inhibits growth and alters NANOG activity in TNBC.  
+   
+2 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2021.09.09.459689; this version posted March 7, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+Introduction 
+Triple-negative breast cancer (TNBC), the most aggressive breast cancer subtype, is associated with high 
+rates of recurrence and metastasis1-5. To date, unlike other breast cancer subtypes, no specific targeted 
+approaches exist for TNBC, and toxic chemotherapeutic agents are the primary treatment regimen, highlighting 
+the need to develop new targeted therapies. TNBC contains a high degree of cellular heterogeneity and 
+plasticity that has emerged as a hallmark of the malignant state and accounts for the observed persistent 
+tumor growth, therapeutic resistance, and metastasis6-9. TNBC also contains self-renewing, therapeutically 
+resistant cancer stem cells (CSCs) that are responsible for tumor progression and metastasis10-13. Given the 
+limited treatment options for TNBC, CSC neutralizing strategies are an immediate priority for therapeutic 
+development.    
+Attempts to elucidate the complexity of CSC maintenance have focused on intrinsic driver mutations and 
+altered developmental signaling pathways14. The elevated cellular density within tumors stimulates cellular 
+programs that are activated by cell-cell contact and close proximity. The gap junction family of proteins is 
+composed of connexin subunits and canonically functions in gap junction plaques at the interface of adjacent 
+cells  to  facilitate  direct  cell-cell  communication.  Connexins  can  also  function  non-canonically  as  single 
+membrane channels (hemichannels, which contain a single assembled connexon hexamer of connexins) or as 
+signaling hubs adjacent to any organelle and/or the plasma membrane15. In cancer, the classical role of 
+connexins  as  tumor  suppressors  has  been  widely  described  in  many  tumor  models16-20.  However,  the 
+paradigm that connexins have a global tumor-suppressive role has been challenged by recent evidence that 
+connexins can be pro-tumorigenic by facilitating tumor progression and metastasis21-27. The connexin subunits 
+involved in maintaining homeostasis during the physiological development and function of the mammary gland 
+are Cx26 and Cx4318, 28. In breast cancer, connexins have been described to be both pro- and anti-tumorigenic 
+by regulating transformation, proliferation, cell survival, and metastasis27. Most studies to date suggest a 
+tumor-suppressive role for Cx26 early in breast cancer progression based on evidence that Cx26 is frequently 
+absent or down-regulated in human breast cancer cell lines and human primary tumors15, 29-31. However, these 
+studies are inconsistent with clinical observations that demonstrate a strong correlation between increased 
+Cx26  expression  in  breast  cancer  tissue  samples  post-treatment  (chemotherapy/surgery)  and  decreased 
+3 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2021.09.09.459689; this version posted March 7, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+overall survival32. Moreover, Cx26 expression has been shown to be associated with increased lymphatic 
+vessel invasion, increased tumor size, and poor prognosis in human breast cancers32, 33.  
+We  previously  demonstrated  that  Cx26  is  elevated  in  TNBC  compared  to  normal  mammary  tissue  and 
+enriched in CSCs compared to their non-CSC progeny in TNBC cell lines and patient-derived xenograft 
+models34. In functional studies, we demonstrated that Cx26 is necessary and sufficient for CSC maintenance 
+and regulates NANOG protein stability. In TNBC, Cx26 localizes to an intracellular membrane-bound vesicle in 
+complex with the pluripotency transcription factor NANOG and focal adhesion kinase (FAK). In contrast to its 
+role in the normal mammary epithelium, Cx26 functions in a gap junction-independent manner in TNBC by 
+forming an intracellular complex that underlies the maintenance of CSC function and stabilizes NANOG. We 
+leveraged these initial findings to develop a peptide-based strategy to disrupt this novel signaling network. We 
+developed peptides to the intracellular and extracellular regions of Cx26 and identified the binding domains 
+necessary for interaction with NANOG and FAK. Using a cell-penetrating peptide strategy, we show that 
+introduction  of  the  Cx26  C-terminus  into  TNBC  cells  inhibits  self-renewal,  reduces  NANOG  target  gene 
+expression, and attenuates in vivo tumor growth. Together, this study provides proof-of-concept that targeting 
+CSCs via connexin peptide mimetics represents a viable therapeutic strategy for TNBC.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2021.09.09.459689; this version posted March 7, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+Materials and Methods 
+Study Approvals 
+All mouse procedures were performed under adherence to protocols approved by the Institute Animal Care 
+and Use Committee at the Lerner Research Institute, Cleveland Clinic (#2018-2101). All human specimens 
+were obtained under adherence to protocols approved by the Cleveland Clinic Foundation Institutional Review 
+Board (IRB approval #17-418).  
+TNBC Cx26, FAK, and NANOG Histology and Analysis 
+Annotated cases of invasive ductal carcinoma were retrieved from the surgical pathology files of Cleveland 
+Clinic and included triple-negative breast carcinoma (TNBC), hormone receptor positive (HR+ being estrogen 
+receptor positive) and HER2 negative (HR+/HER2-), hormone receptor negative (HR- being estrogen receptor 
+negative) and HER2 positive (HR-/HER2+) or hormone receptor positive and HER2 positive (HR+/HER2+). In 
+total, 12 TNBC, 12 HR+/HER2-, 5 HR-/HER2+, 4 HR+/HER2+ tumors were evaluated. Hematoxylin and eosin 
+stained slides were reviewed for invasive tumor adequacy and immunohistochemistry (IHC) was performed on 
+μ
+4- m thick formalin-fixed paraffin-embedded (FFPE) whole tissue serial sections following antigen retrieval 
+(Target Retrieval Solution, pH 6.1; Dako, Carpinteria, CA). Immunostains performed included Connexin 26 
+(Cx26)  mouse  monoclonal  antibody  (clone  CX-12H10,  Thermo  Fisher  Scientific, Waltham,  MA)  at  1:200 
+dilution, NANOG rabbit monoclonal antibody (clone EPR2027, Abcam, Cambridge, MA) at 1:250 dilution, and 
+FAK rabbit polyclonal antibody (clone Q05397, Cell Signaling Technology, Danvers, MA ) at 1:500 dilution.  All 
+staining was performed on an automated platform (Ventana Benchmark, Ultraview  XT, Ventana Medical 
+Systems,  Inc,  Tucson,  AZ)  and  visualized  with  ultraView  universal  DAB  detection  kit  (Ventana  Medical 
+Systems, Inc, Tucson, AZ).  The cellular compartment staining (membranous, cytoplasmic or nuclear) was 
+evaluated and the intensity in each case for the three antibodies was characterized as weak, moderate, or 
+strong, and the extent of immunoreactivity scored according to the percentage of tumor cells with staining: 0 
+(0%), 1+ (<5%), 2+ (5–25%), 3+ (26–50%), 4+ (51–75%), and 5+ (76–100%). 
+Cell Culture 
+5 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2021.09.09.459689; this version posted March 7, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+‐ ‐
+MDA MB 231, MDA-MB-468, HCC70, and MCF7 breast cancer cells (American Type Culture Collection; 
+‐
+Manassas,  VA)  were  cultured  in  log growth  phase  in  Dulbecco’s  modified  Eagle's  medium  (DMEM) 
+‐
+supplemented with 1 mM sodium pyruvate (Cellgro, Kansas City, MO) and 10% heat inactivated fetal calf 
+serum (FCS) at 37°C in a humidified atmosphere (5% CO ). All cell lines were authenticated through the 
+2
+Cleveland  Clinic  Lerner  Research  Institute  Cell  Culture  Core  and  routinely  tested  for  mycoplasma 
+contamination. The NANOG-GFP reporter was described previously, and cells were sorted for GFPhi and 
+GFPlo populations as described35.  
+Peptide Synthesis and Validation 
+All peptides, unless otherwise noted, were synthesized by the LRI Molecular Biotechnology Core through 
+standard solid-phase chemistry, using Rink Amide resin and side chain-protected Fmoc-amino acids, on a 
+Liberty Blue Automated Microwave Peptide Synthesizer (CEM Corporation, Matthews, NC). Each peptide was 
+(cid:2) (cid:2)
+purified to > 95% by acetonitrile gradient elution (20 - 50%) on a Vydac preparative C18 column, using 
+reverse-phase HPLC (Waters Corporation). The quality of the peptide was analyzed by HPLC (Agilent 1100) 
+on a reverse-phase analytical C-18 column. The correct mass corresponding to the amino acid composition of 
+each peptide was then confirmed by mass spectrometry (MALDI-TOF/TOF mass spectrometer; Model No. 
+4800; AB SCIEX, Framingham, MA). The peptides were lyophilized and stored at -80°C until reconstituted in 
+1% DMSO/PBS. 
+3D protein structure prediction 
+AlphaFold2  was  used  to  predict  the  3D  structure  of  Cx26,  NANOG  and  FAK: 
+(https://www.blopig.com/blog/2021/07/alphafold-2-is-here-whats-behind-the-structure-prediction-miracle/). 
+Images were rendered using Visual Molecular Dynamics software36. 
+Surface Plasmon Resonance (SPR) Analysis 
+The equilibrium dissociation constants (KD) between synthesized Cx26 cytosolic tail peptides and either 
+NANOG or FAK proteins were determined using the Biacore S200 (Cytiva, USA) at 25°C. The 1% DMSO/1x 
+PBS-P+ (Cytiva) buffer was filtered through a 0.22-µm membrane filter and degassed immediately before the 
+6 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2021.09.09.459689; this version posted March 7, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+experiment as running buffer with a flow rate of 30 µL/min for the instrument system. The purified active 
+NANOG was diluted in 10 mM sodium acetate solution pH 4.5, resulting in a protein concentration of 50 µg/mL, 
+and  purified  active  FAK  was  diluted  in  10  mM  sodium  acetate  solution  pH  5.0,  resulting  in  a  protein 
+concentration of 20 µg/mL. The diluted protein was immobilized on the surface of a Series S Sensor Chip CM5 
+via the primary amine group, employing a standard Amine Coupling Kit (1-Ethyl-3-(3-dimethylaminopropyl)-
+carbodiimide hydrochloride (EDC), N-hydroxysuccinimide (NHS) and 1.0 M ethanolamine-HCl (pH 8.5), and 
+the target immobilization level was 5000 response units (RUs). The flow cell 1 without any modification was 
+used as a reference to correct for system error. The RU values were collected, and all the binding affinity data 
+were calculated by kinetic models (1:1 Langmuir interaction) within the Biacore S200 Evaluation Software. To 
+determine the binding affinity between each peptide and NANOG or FAK, a series of peptide dilutions was 
+analyzed by multi-cycle kinetics/affinity. A concentration gradient of each peptide as the analyte was freshly 
+prepared in running buffer over at least five concentrations (100 nM – 100 µM). Each peptide at various 
+gradient concentrations (including a repeat concentration) and one zero concentration (running buffer) flowed 
+over the immobilized NANOG or FAK, with 180 s for binding, followed by disassociation for 600 s, and the 
+obtained RUs were recorded. After the injection of each concentration of each peptide, the sensor chip surface 
+was regenerated with 10 mM glycine pH 2.5 for 30 s to completely remove the residual peptide. The KD was 
+calculated to evaluate the ability of peptides to interact with NANOG or FAK proteins. 
+Immunofluorescence and Flow Cytometry Analysis of Antp-peptides 
+‐ ‐
+Following peptide treatment, MDA MB 231 cells were lifted and washed in 1x PBS followed by staining with UV 
+Live/Dead  dye  (1:1000,  Thermo  Scientific)  for  15  min  at  room  temperature.  Cells  were  then  fixed  and 
+permeabilized using the Annexin V Staining Kit (BD Biosciences) per the manufacturer’s instructions and 
+incubated  with  FITC-conjugated  anti-antennapedia  (anti-Antp-FITC)  antibody  (1:100,  LSBio)  for  30  min. 
+Samples were washed and analyzed using a BD Fortessa flow cytometer. Data analysis was performed using 
+the FlowJo software v10 (Tree Star, Inc., Ashland, OR). 
+For immunofluorescence staining, MDA-MB-231 cells were plated onto glass coverslips coated with Geltrex 
+(ThermoFisher) in 24-well plates and treated with aCx26-pep (10 µM) for 16 h. Subsequently, coverslips were 
+7 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2021.09.09.459689; this version posted March 7, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+washed with 1x PBS, fixed with 4% paraformaldehyde, and either permeabilized with 0.1% Triton X-100 or left 
+non-permeabilized. Cells were then stained with anti-antennapedia antibody (anti-Antp 4C3, 1:100, University 
+of Iowa Developmental Studies Hybridoma Bank) for 1 h at room temperature. Coverslips were washed twice 
+with 1x PBS and stained with Texas Red-conjugated anti-mouse secondary (1:1000, Invitrogen)  for 1 h at 
+room temperature in the dark, before being mounted in DAPI mount (VWR) onto glass slides and imaged with 
+a confocal microscope at 63x magnification (Leica). Appropriate secondary alone controls were completed to 
+confirm the absence of background staining.  
+CellTiter Glo Proliferation Studies 
+MDA-MB-231 cells were plated in a 96-well (opaque-walled) plates at 1,000 cells/well and treated for 72 h with 
+Antp peptide alone, aCx26-pep or vehicle (1% DMSO in PBS) at the concentrations shown in the figures. At 
+day 0 and post 72 h of treatment, cells were lysed with CellTiter-Glo® Luminescent Cell Viability Assay reagent 
+(Promega), shaken in the dark for 10 min, and luminescence was recorded. Fold change was calculated by 
+normalizing the 72 h luminescence value to day 0 for each group. 
+Self-renewal (Tumorsphere) Assays 
+‐
+Duplicate rows of cells were cultured in serial dilutions per well (1-20 cells per well) in one 96 well plate 
+μ
+‐
+(Sarstedt, Germany) per condition with 200  l serum free DMEM supplemented with 20 ng/ml basic fibroblast 
+(cid:2)
+growth factor (Invitrogen, Grand Island, NY), 10  ng/ml epidermal growth factor (BioSource, Grand Island, 
+μ
+NY), 2% B27 (Invitrogen, Grand Island, NY), and 10  g/ml insulin. The frequency of sphere formation was 
+calculated in such a way that a well with a tumorsphere was counted as a positive well and a well with no 
+tumorspheres  was  counted  as  a  negative  well.  Tumorspheres  were  counted  under  a  phase-contrast 
+microscope  after  2  weeks. The stem  cell  frequencies  were  calculated  using  an  extreme limiting  dilution 
+algorithm (http://bioinf.wehi.edu.au/software/elda/)37.  
+Subcellular Fractionation and Immunoblotting 
+A total of 15x106 cells were plated in a 15 cm dish and treated with 10 µM peptide or 1% DMSO vehicle for 48 
+h. Cells were subsequently lysed and subcellular fractions prepared using the Subcellular Fractionation Kit for 
+8 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2021.09.09.459689; this version posted March 7, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+Cultured Cells (ThermoFisher) according to the manufacturer’s protocol. A total of 25 µg of each fraction was 
+loaded on a 12% SDS-PAGE gel and transferred to PVDF membrane. Membranes were blocked in 5% non-fat 
+milk in TBST for 1 h and incubated with the appropriate primary antibody overnight at 4°C: anti-NANOG 
+(D73G4) (Cell Signaling #4903; 1:1000), anti-FAK (D2R2E) (Cell Signaling #13009; 1:1000), anti-Lamin A/C 
+(Proteintech  #10298-1-AP;  1:3000).  Membranes  were  then  washed  in  TBST  and  incubated  with  the 
+appropriate HRP-tagged secondary antibody (Sigma-Aldrich) for 3 h at room temperature. Rhodamine-tagged 
+anti-actin (Bio-Rad #12004163; 1:10,000) was used as a loading control. All immunoblots were imaged on a 
+Bio-Rad ChemiDoc MP.  
+Real-time Quantitative PCR 
+Quantitative  polymerase  chain  reaction  (qPCR)  was  performed  using  a  StepOnePlus™  Real-Time  PCR 
+‐
+System (Applied Bioystems) with SYBR Green MasterMix (SA Biosciences). RNA was extracted using the 
+RNeasy  kit  (Qiagen,  Limburg,  Netherlands),  and  cDNA  was  synthesized  using  the  Superscript  III  kit 
+(Invitrogen, Grand Island, NY). For qPCR analysis, the threshold cycle (CT) values for each gene were 
+normalized to expression levels of GAPDH. Dissociation curves were evaluated for primer fidelity. The primers 
+used are detailed in Supplemental Table S3. 
+Animal Studies 
+NOD.Cg-Prkdcscid Il2rgtm1Wjl/SzJ  (NSG)  female  mice  were  purchased  from  Jackson  Laboratories  or  the 
+Biological Resource Unit at the Lerner Research Institute, Cleveland Clinic. All mice were maintained in 
+‐ ‐
+microisolator units and provided free access to food and water. MDA MB 231 cells were transduced with a 
+luciferase lentiviral vector (pHIV-Luciferase, Addgene #21375). Following puromycin drug selection, 1x106 cells 
+were injected into the right subcutaneous flank of 6-week-old female mice. Once tumors became palpable, 
+mice were randomized into groups and received a total of 50 µl of either 0.1 mM peptide or vehicle (1% 
+DMSO) via intra-tumoral injection every other day for 20 days. Tumor progression was assessed weekly via 
+bioluminescent  IVIS  imaging  (see  below).  Following  treatment  regiment,  mice  were  euthanized  by  CO  
+2
+asphyxiation with subsequent cervical dislocation and necropsied for further analysis. 
+9 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2021.09.09.459689; this version posted March 7, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+Bioluminescent IVIS Imaging 
+Bioluminescence  images  were  taken  with  an  IVIS  Lumina  (PerkinElmer)  using  D-luciferin  as  previously 
+described38. Mice received an intraperitoneal (IP) injection of D-luciferin (Goldbio LUCK-1G, 150 mg/kg in 150 
+µL) under inhaled isoflurane anesthesia. Images were analyzed (Living Image Software), and total flux were 
+reported in photons/second/cm2/steradian for each mouse.  
+Immunohistochemistry 
+Upon necropsy, subcutaneous tumors were excised, sectioned and placed in 4% paraformaldehyde (PFA) for 
+3 days at room temperature, before being transferred into 70% ethanol and sent to the Histology Core at the 
+LRI for processing, sectioning, and staining. Slides were imaged using the Aperio slide scanner and analyzed.  
+Statistical Analysis 
+(cid:2) (cid:2)
+‐
+Values reported in the results represent mean ± standard error of the mean (SEM). One way analysis of 
+variance was used to calculate statistical significance, and p values and replicate numbers are detailed in the 
+text and figure legends. All experiments were repeated at least three separate times, with technical replicates 
+performed within each experimental replicate as appropriate.  
+Data Availability Statement 
+The data generated in this study are available upon request from the corresponding author. 
+10 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2021.09.09.459689; this version posted March 7, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+Results  
+The Cx26/NANOG/FAK complex is present in patient TNBC samples 
+Previous data from our group identified a protein complex unique to TNBC CSCs composed of the gap junction 
+protein connexin 26 (Cx26), the pluripotency transcription factor NANOG, and focal adhesion kinase (FAK)34. 
+To assess whether the Cx26/NANOG/FAK complex is also present in tumors from patients, we stained 
+sections of human triple-negative invasive ductal carcinoma for Cx26, NANOG, and FAK. Hematoxylin & eosin 
+staining showed the invasive nature of the tumors (Fig. 1A). In cultured TNBC cells, we found that Cx26 
+localizes  to  an  intracellular  compartment  rather  than  the  canonical  plasma  membrane  localization  of 
+connexins34. Consistently, we observed intracellular localization of staining for Cx26, NANOG, and FAK in 
+adjacent tumor sections of TNBC patient tumor (Fig. 1B-D). In contrast, tumor samples from patients with 
+hormone receptor-positive and HER2-negative tumors showed cell surface localization of Cx26 distinct from 
+NANOG and FAK (Fig. 1E-H, summarized in Fig. 1I). This indicates that Cx26, NANOG, and FAK have 
+similar subcellular localizations in TNBC, suggesting that the complex may be present in TNBC patient tumors 
+as well as in cells, as we previously described34.   
+FAK and NANOG interact with the cytosolic tail of Cx26 
+Based on the essential role for the Cx26/NANOG/FAK complex in TNBC CSC maintenance34, targeting the 
+complex represents a therapeutic opportunity. To develop therapies targeting the complex, we used surface 
+plasmon  resonance  (SPR)  to  interrogate  the  specific  domains  through  which  the  proteins  interact.  We 
+generated peptide fragments representing the intracellular and extracellular domains of Cx26 and determined 
+their ability to bind to either FAK or NANOG by SPR. The strongest binding occurred between NANOG and the 
+Cx26 cytosolic tail and between FAK and both the cytosolic tail and the cytosolic loop, with dissociation 
+constants  in  the  nanomolar  and  micromolar  ranges,  respectively  (Fig.  2A).  Importantly,  no  binding  was 
+observed  between  the  FAK  and  NANOG  proteins  alone  (Fig.  2A).  These  observations  combined  with 
+predictive modeling suggest that complex binding requires Cx26, as we detected binding between Cx26 and 
+NANOG,  Cx26  and  FAK,  and  all  members  of  the  complex  but  not  between  FAK  and  NANOG  alone 
+(Supplemental Fig. 1). These data informed a binding schematic for the Cx26/NANOG/FAK complex (Fig. 
+11 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2021.09.09.459689; this version posted March 7, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+2B) where NANOG binds to the C-terminus while FAK interacts with both the C-terminus and the intracellular 
+loop of Cx26. To determine the specific Cx26 cytosolic tail amino acid residues important for binding, several 
+truncations of the C-terminal tail were synthesized and subjected to SPR analysis for binding to both NANOG 
+and FAK. The minimal required region mapped to Cx26 amino acids 216-220 (Supplemental Table S1 and 
+Supplemental Fig. S2 and S3). To gain more insight into the kinetics of binding, we co-incubated the Cx26 
+cytosolic tail with NANOG prior to applying the components to a FAK-bound chip. We also performed this 
+analysis  with  Cx26  cytosolic  tail  pre-incubated  with  FAK  prior  to  applying  to  a  NANOG-bound  chip. 
+Interestingly, the Cx26 cytosolic tail had decreased binding affinity for both FAK and NANOG when pre-
+incubated with the other complex member compared to the Cx26 cytosolic tail alone or pre-incubation with 
+bovine serum albumin control (not shown). Taken together, these data indicate that NANOG and FAK binding 
+to the Cx26 cytosolic tail may be competitive.  
+Based on the observation that the Cx26 cytosolic tail is essential for interaction with NANOG and FAK, we 
+sought to understand the effect of disrupting the complex using a Cx26 cytosolic tail-derived cell-penetrating 
+peptide. We  tagged  a  peptide  containing  the  Cx26  cytosolic  tail sequence  with  an  antennapedia  (Antp) 
+(RQIKIWFQNRRMKWKK)  leader  sequence  (termed  hereafter  aCx26-pep).  Antp  is  a  well-studied  leader 
+sequence used to allow peptides and small molecules to penetrate the plasma membrane39.  aCT1, a Cx43 C-
+terminal tail mimetic peptide, impairs the malignant progression of luminal breast cancer cells and enhances 
+the activity of the standard-of-care chemotherapies lapatinib and tamoxifen40, 41. We first confirmed that the 
+Antp leader sequence did not significantly alter the ability of aCx26-pep to bind to either FAK or NANOG by 
+SPR (Fig. 2C). To determine the optimal treatment conditions, cells were assessed for the presence of aCx26-
+pep by flow cytometry (Fig. 2D) and intracellular immunofluorescence (IF) staining (Fig. 2E) using an anti-Antp 
+antibody. Optimal treatment conditions were determined to be 10 µM peptide for a minimum of 16 h.  
+Self-renewal but not proliferation of TNBC cells is attenuated by aCx26-pep treatment 
+To assess the functional impact of treatment, we evaluated cell proliferation and self-renewal in TNBC cells 
+treated with aCx26-pep in vitro. MDA-MB-231 TNBC cells were treated with increasing doses of vehicle, Antp 
+alone,  and  aCx26-pep,  and  cell  proliferation  was  measured  after  72  h  of  treatment.  Interestingly,  cell 
+12 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2021.09.09.459689; this version posted March 7, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+proliferation was not significantly affected by treatment with aCx26-pep (Fig. 3A, B). To assess changes in 
+self-renewal, tumorsphere formation was interrogated in three TNBC cell lines (MDA-MB-231, MDA-MB-468 
+and HCC70) and one luminal breast cancer cell line (MCF7) treated with vehicle, Antp, Antp-tagged scrambled 
+aCx26-pep (aScr-pep), and aCx26-pep. Tumorsphere-initiation frequency was assessed using an extreme 
+limiting-dilution assay (ELDA) and subsequently analyzed using ELDA analysis software37. TNBC cells treated 
+with aCx26-pep had significantly decreased tumorsphere frequency compared to those treated with aScr-pep, 
+whereas the luminal breast cancer cell line showed no significant difference between aScr-pep and aCx26-pep 
+(Fig. 3C-F, Supplemental Table S2, Supplemental Fig. S4). A shortened region of the Cx26 cytosolic tail 
+tagged with Antp, aCx26-pep 216-220, showed similar effects to aCx26-pep (Supplemental Fig. S5). We then 
+evaluated the effect of aCx26-pep treatment on HCC70 CSCs and non-CSCs enriched using our NANOG-GFP 
+reporter. aCx26-pep treatment significantly reduced tumorsphere frequency in both NANOG-GFPhi CSCs and 
+NANOG-GFPlo  non-CSCs  (Supplemental  Fig.  S6).  Together,  these  data  show  that  disrupting  the 
+Cx26/NANOG/FAK complex using aCx26-pep decreases the self-renewal capacity of TNBC.  
+ aCx26-pep treatment alters FAK and NANOG levels and NANOG function   
+To evaluate the effect of aCx26-pep on members of the Cx26/FAK/Nanog complex, we first measured the 
+effect of the peptide on pluripotency transcription factors. While we did not observe a change in Sox2 levels 
+(not shown), there was a significant decrease in Oct4 mRNA levels in both MDA-MB-231 and HCC70 cells 
+treated with aCx26-pep compared to aScr-pep (Fig. 4A). We next interrogated whether peptide treatment 
+affected the levels and subcellular localization of NANOG and FAK. After 48 h treatment with aCx26-pep, 
+HCC70 cells were subjected to subcellular fractionation and immunoblotting for FAK and NANOG (Fig. 4B). 
+We observed dramatic decreases in both FAK and NANOG levels in the nuclear fraction of TNBC cells, 
+suggesting that treatment with aCx26-pep may disrupt the function of these proteins. This recapitulates the 
+destabilization of NANOG we previously observed after knockdown of Cx2634. To further understand the 
+downstream signaling changes following treatment of TNBC cells with aCx26-pep, we performed a targeted 
+qPCR assessment of NANOG-regulated genes. Following 7 days of treatment with vehicle, aScr-pep, or 
+aCx26-pep, expression of NANOG target genes including FABP5, POSTN, NRP2, PIN1, and TAGLN was 
+13 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2021.09.09.459689; this version posted March 7, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+significantly decreased in MDA-MB-231 TNBC cells treated with aCx26-pep compared to those treated with 
+vehicle or aScr-pep (Fig. 4C). Additionally, expression of epithelial cell markers such as cytokeratin 18 and 19 
+(KRT18 and KRT19) was significantly increased in the aCx26-pep treatment group (Fig. 4D). In contrast, 
+treatment of MCF7 luminal breast cancer cells did not significantly change NANOG target gene or cytokeratin 
+gene expression (Fig. 4D-F). Together, these results indicate decreased levels of FAK and NANOG, reduced 
+transcriptional activity of NANOG, and an increase in epithelial cell signature after treatment with aCx26-pep.  
+In vivo TNBC tumor progression is attenuated by aCx26-pep  
+To determine the effect of aCx26-pep on tumor formation in vivo, NSG mice were subcutaneously injected into 
+the flank with TNBC MDA-MB-231 luciferase-expressing cells and randomized into treatment groups once 
+tumors became palpable. Mice were intra-tumorally injected every other day for 20 days with either vehicle, 
+aScr-pep, or aCx26-pep and monitored by weekly bioluminescence imaging (Fig. 5A). Mice treated with 
+aCx26-pep exhibited significantly reduced luciferase signal (tumor burden) over time when compared to those 
+treated with aScr-pep or vehicle controls (Fig. 5B, C).  
+We then performed histological assessment of the resulting tumors. Upon H&E staining of isolated tumors, we 
+observed that the percent tumor viability was significantly decreased in aCx26-pep-treated mice compared to 
+vehicle- or aScr-pep-treated mice (Fig. 6A). Immunofluorescence staining of the endpoint tumors showed that 
+Ki67  (Fig.  6B),  a  marker  for  proliferation,  and  vimentin  (Fig.  6C),  a  marker  for  epithelial-mesenchymal 
+transition (EMT), were decreased, while cleaved caspase 3 was increased (Fig. 6D), in the aCx26-pep-treated 
+groups, suggesting that peptide treatment led to a more epithelial cell phenotype with increased cell death and 
+diminished proliferation. Taken together, these data support the efficacy of aCx26-pep for targeting TNBC 
+CSCs.  
+ 
+   
+14 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2021.09.09.459689; this version posted March 7, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+Discussion  
+Overall, our findings provide proof-of-concept data that a peptide strategy can be employed to reduce CSC 
+self-renewal and tumor growth. We leveraged previous observations of the Cx26/NANOG/FAK complex in 
+TNBC  to  develop  a  pre-clinical  peptide-based  targeting strategy  to  attenuate  CSC  function.  Our  studies 
+focused solely on CSCs and tumor growth, key cancer phenotypes that likely involve FAK and NANOG. 
+However, given the number of downstream signaling networks associated with FAK and NANOG, there are 
+likely to be other cellular programs that may also be driven by their association with Cx26, including adhesion, 
+migration, and invasion. An additional unanswered question is the possibility of differential functions of free and 
+Cx26-complex-bound NANOG and FAK.  
+Immunohistochemical analysis complemented our breast cancer cell line data, with the majority of TNBC 
+specimens having cytoplasmic expression of Cx26 and a subset exhibiting a similar staining pattern of FAK 
+and NANOG. In contrast, the majority of HR+/HER2- carcinomas showed membranous expression of Cx26 
+and cytoplasmic localization of FAK and NANOG. The distinct cellular localization of Cx26 expression in TNBC 
+and HR+/HER2- tumors further supports the hypothesis that therapeutic targeting of Cx26 would benefit this 
+aggressive tumor subtype. Although the immunohistochemical TNBC data are not as compelling as those seen 
+in the TNBC cell lines, FFPE immunohistochemistry may suffer from antibody affinity, fixation issues, and 
+antigen retrieval. Clinical outcomes data related to a larger cohort defined with Cx26, FAK and NANOG will be 
+helpful in further elucidating this complex and its role.   
+Our findings identify a strategy to target CSCs and the NANOG-associated signaling network by blocking 
+intracellular Cx26 interactions via a cell-penetrating peptide approach. A challenge in targeting connexin family 
+members  remains  specificity,  as  there  is  a  high  degree  of  structural  homology  among  connexin  family 
+members, apart from the cytoplasmic tail that provides a binding surface for adaptor proteins to initiate 
+signaling programs. In previous work, the cytoplasmic tail of Cx43 was found to associate with zona occludens-
+1 (ZO-1) to exclude assembled connexins from the gap junction plaque; disruption of the interaction with ZO-1 
+resulted in an increase in gap junction intracellular communication41. A peptide mimetic of this region of the 
+Cx43 tail tagged with antennapedia has been successfully leveraged to enhance diabetic would healing and is 
+in advanced stages of clinical testing42, and a TAT fusion of a region of Cx43 that binds to SRC has been 
+15 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2021.09.09.459689; this version posted March 7, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+shown to decrease glioblastoma CSC phenotypes43-47. These findings provided the first example that peptides 
+can be used to modulate intracellular connexin function for a clinically relevant application. Our findings provide 
+the first evidence of the utility of this application for TNBC targeting and potential downstream signaling 
+modulation. While these peptide-based approaches show promise, there remain barriers to implementation, 
+including delivery and stability. While we primarily tested aCx26-pep, which contains the full 11 amino acid 
+cytosolic tail sequence, we observed similar effects with the first five amino acids of the cytosolic tail, RYCSG, 
+which  corresponds  to  amino  acids  216-220.  Further  study  is  required  to  determine  the  optimal  peptide 
+sequence for both efficacy and stability. Differences in concentrations of peptide available, as well as the 
+presence of the tumor microenvironment, may have been responsible for slight differences between peptide 
+effects observed in vivo and in vitro, such as tumor cell viability. An additional question is the effect of our 
+targeting peptide on normal stem cell function. Based on our observation that aCx26-pep does not affect 
+luminal breast cancer cells such as MCF7, which also express FAK and NANOG, we would anticipate limited 
+toxicity to normal stem cells. Future studies will focus on addressing these key limitations to facilitate clinical 
+translation.  
+Targeting CSCs remains of interest in many cancers, including TNBC, but many late-stage trials are focused 
+on canonical developmental programs (including Sonic hedgehog, Wnt, and Notch). Next-generation strategies 
+are  more  likely  to  be  successful  if  they  can  leverage  CSC-specific  signaling  networks.  CSC  targeting 
+represents a new cancer therapeutic development pipeline that is complementary to oncogene addiction 
+targeting and tumor suppressor re-expression. Connexins and their main functions of cell-cell communication, 
+hemichannel communication, and initiation of signaling have been largely understudied in the context of cancer 
+and may represent a new therapeutic target. These findings highlight a selective strategy using a peptide 
+approach to target TNBC, leading to new therapeutic options for the unmet need in this patient population. 
+ 
+   
+16 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2021.09.09.459689; this version posted March 7, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+References 
+ 
+1.  Abdulkarim  BS,  Cuartero  J,  Hanson  J,  Deschenes  J,  Lesniak  D  and  Sabri  S.  Increased  risk  of 
+locoregional recurrence for women with T1-2N0 triple-negative breast cancer treated with modified radical 
+mastectomy  without  adjuvant  radiation  therapy  compared  with  breast-conserving  therapy.  J  Clin  Oncol. 
+2011;29:2852-8. 
+2.  Al-Hajj M, Wicha MS, Benito-Hernandez A, Morrison SJ and Clarke MF. Prospective identification of 
+tumorigenic breast cancer cells. Proc Natl Acad Sci U S A. 2003;100:3983-8. 
+3.  Aslakson CJ and Miller FR. Selective events in the metastatic process defined by analysis of the 
+sequential dissemination of subpopulations of a mouse mammary tumor. Cancer research. 1992;52:1399-405. 
+4.  Greenberg PA, Hortobagyi GN, Smith TL, Ziegler LD, Frye DK and Buzdar AU. Long-term follow-up of 
+patients with complete remission following combination chemotherapy for metastatic breast cancer. J Clin 
+Oncol. 1996;14:2197-205. 
+5.  Rakha EA, El-Sayed ME, Green AR, Lee AH, Robertson JF and Ellis IO. Prognostic markers in triple-
+negative breast cancer. Cancer. 2007;109:25-32. 
+6.  Lawrence RT, Perez EM, Hernandez D, Miller CP, Haas KM, Irie HY, Lee SI, Blau CA and Villen J. The 
+proteomic landscape of triple-negative breast cancer. Cell Rep. 2015;11:630-44. 
+7.  Perou CM. Molecular stratification of triple-negative breast cancers. Oncologist. 2011;16 Suppl 1:61-70. 
+8.  Lehmann  BD,  Bauer  JA,  Chen  X,  Sanders  ME,  Chakravarthy  AB,  Shyr  Y  and  Pietenpol  JA. 
+Identification of human triple-negative breast cancer subtypes and preclinical models for selection of targeted 
+therapies. J Clin Invest. 2011;121:2750-67. 
+9.  Hudis CA and Gianni L. Triple-negative breast cancer: an unmet medical need. Oncologist. 2011;16 
+Suppl 1:1-11. 
+10.  Charafe-Jauffret E, Ginestier C, Iovino F, Wicinski J, Cervera N, Finetti P, Hur MH, Diebel ME, Monville 
+F, Dutcher J, Brown M, Viens P, Xerri L, Bertucci F, Stassi G, Dontu G, Birnbaum D and Wicha MS. Breast 
+cancer  cell  lines  contain  functional  cancer  stem  cells  with  metastatic  capacity  and  a  distinct  molecular 
+signature. Cancer research. 2009;69:1302-13. 
+11.  Giatromanolaki A, Sivridis E, Fiska A and Koukourakis MI. The CD44+/CD24- phenotype relates to 
+'triple-negative' state and unfavorable prognosis in breast cancer patients. Med Oncol. 2011;28:745-52. 
+12.  Idowu  MO,  Kmieciak  M,  Dumur  C,  Burton  RS,  Grimes  MM,  Powers  CN  and  Manjili  MH. 
+CD44(+)/CD24(-/low)  cancer  stem/progenitor  cells  are  more  abundant  in  triple-negative  invasive  breast 
+carcinoma phenotype and are associated with poor outcome. Hum Pathol. 2012;43:364-73. 
+13.  Sheridan C, Kishimoto H, Fuchs RK, Mehrotra S, Bhat-Nakshatri P, Turner CH, Goulet R, Jr., Badve S 
+and  Nakshatri  H.  CD44+/CD24-  breast  cancer  cells  exhibit  enhanced  invasive  properties:  an  early  step 
+necessary for metastasis. Breast Cancer Res. 2006;8:R59. 
+14.  Martin-Castillo B, Lopez-Bonet E, Cuyas E, Vinas G, Pernas S, Dorca J and Menendez JA. Cancer 
+stem cell-driven efficacy of trastuzumab (Herceptin): towards a reclassification of clinically HER2-positive 
+breast carcinomas. Oncotarget. 2015;6:32317-38. 
+15.  Stewart  MK,  Bechberger  JF,  Welch  I,  Naus  CC  and  Laird  DW.  Cx26  knockout  predisposes  the 
+mammary gland to primary mammary tumors in a DMBA-induced mouse model of breast cancer. Oncotarget. 
+2015;6:37185-99. 
+16.  Lee  SW,  Tomasetto  C  and  Sager R.  Positive  selection  of  candidate  tumor-suppressor  genes  by 
+subtractive hybridization. Proc Natl Acad Sci U S A. 1991;88:2825-9. 
+17.  Cronier L, Crespin S, Strale PO, Defamie N and Mesnil M. Gap junctions and cancer: new functions for 
+an old story. Antioxid Redox Signal. 2009;11:323-38. 
+18.  Mesnil M. Connexins and cancer. Biol Cell. 2002;94:493-500. 
+19.  Laird DW, Fistouris P, Batist G, Alpert L, Huynh HT, Carystinos GD and Alaoui-Jamali MA. Deficiency 
+of connexin43 gap junctions is an independent marker for breast tumors. Cancer research. 1999;59:4104-10. 
+20.  Janssen-Timmen U, Traub O, Dermietzel R, Rabes HM and Willecke K. Reduced number of gap 
+junctions in rat hepatocarcinomas detected by monoclonal antibody. Carcinogenesis. 1986;7:1475-82. 
+21.  Dobrowolski R, Sasse P, Schrickel JW, Watkins M, Kim JS, Rackauskas M, Troatz C, Ghanem A, 
+Tiemann K, Degen J, Bukauskas FF, Civitelli R, Lewalter T, Fleischmann BK and Willecke K. The conditional 
+connexin43G138R mouse mutant represents a new model of hereditary oculodentodigital dysplasia in humans. 
+Hum Mol Genet. 2008;17:539-54. 
+17 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2021.09.09.459689; this version posted March 7, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+22.  el-Sabban ME and Pauli BU. Cytoplasmic dye transfer between metastatic tumor cells and vascular 
+endothelium. J Cell Biol. 1991;115:1375-82. 
+23.  Ito A, Katoh F, Kataoka TR, Okada M, Tsubota N, Asada H, Yoshikawa K, Maeda S, Kitamura Y, 
+Yamasaki H and Nojima H. A role for heterologous gap junctions between melanoma and endothelial cells in 
+metastasis. J Clin Invest. 2000;105:1189-97. 
+24.  Ezumi K, Yamamoto H, Murata K, Higashiyama M, Damdinsuren B, Nakamura Y, Kyo N, Okami J, 
+Ngan CY, Takemasa I, Ikeda M, Sekimoto M, Matsuura N, Nojima H and Monden M. Aberrant expression of 
+connexin 26 is associated with lung metastasis of colorectal cancer. Clin Cancer Res. 2008;14:677-84. 
+25.  Li Q, Omori Y, Nishikawa Y, Yoshioka T, Yamamoto Y and Enomoto K. Cytoplasmic accumulation of 
+connexin32 protein enhances motility and metastatic ability of human hepatoma cells in vitro and in vivo. Int J 
+Cancer. 2007;121:536-46. 
+26.  Elzarrad MK, Haroon A, Willecke K, Dobrowolski R, Gillespie MN and Al-Mehdi AB. Connexin-43 
+upregulation in micrometastases and tumor vasculature and its role in tumor cell attachment to pulmonary 
+endothelium. BMC Med. 2008;6:20. 
+27.  A Gonçalves J-YP, E Brain, C Tarpin, H Cure, B Esterni, A Boyer-Chammard, F Bertucci, A Jalaguier, 
+G Houvenaeghel, P Viens, E Charaffe-Jauffret, and J-M Extra. Abstract OT2-3-05: AVASTEM: a phase II 
+randomized trial evaluating anti-cancer stem cell activity of pre-operative bevacizumab and chemotherapy in 
+breast cancer. Cancer research. 2012;72. 
+28.  McLachlan E, Shao Q and Laird DW. Connexins and gap junctions in mammary gland development 
+and breast cancer progression. J Membr Biol. 2007;218:107-21. 
+29.  Hirschi KK, Xu CE, Tsukamoto T and Sager R. Gap junction genes Cx26 and Cx43 individually 
+suppress the cancer phenotype of human mammary carcinoma cells and restore differentiation potential. Cell 
+growth & differentiation : the molecular biology journal of the American Association for Cancer Research. 
+1996;7:861-70. 
+30.  Wilgenbus KK, Kirkpatrick CJ, Knuechel R, Willecke K and Traub O. Expression of Cx26, Cx32 and 
+Cx43 gap junction proteins in normal and neoplastic human tissues. Int J Cancer. 1992;51:522-9. 
+31.  Kanczuga-Koda L, Sulkowski S, Lenczewski A, Koda M, Wincewicz A, Baltaziak M and Sulkowska M. 
+Increased expression of connexins 26 and 43 in lymph node metastases of breast cancer. Journal of clinical 
+pathology. 2006;59:429-33. 
+32.  Teleki I, Krenacs T, Szasz MA, Kulka J, Wichmann B, Leo C, Papassotiropoulos B, Riemenschnitter C, 
+Moch H and Varga Z. The potential prognostic value of connexin 26 and 46 expression in neoadjuvant-treated 
+breast cancer. BMC Cancer. 2013;13:50. 
+33.  Naoi Y, Miyoshi Y, Taguchi T, Kim SJ, Arai T, Tamaki Y and Noguchi S. Connexin26 expression is 
+associated with lymphatic vessel invasion and poor prognosis in human breast cancer. Breast cancer research 
+and treatment. 2007;106:11-7. 
+34.  Thiagarajan PS, Sinyuk M, Turaga SM, Mulkearns-Hubert EE, Hale JS, Rao V, Demelash A, Saygin C, 
+China A, Alban TJ, Hitomi M, Torre-Healy LA, Alvarado AG, Jarrar A, Wiechert A, Adorno-Cruz V, Fox PL, 
+Calhoun BC, Guan JL, Liu H, Reizes O and Lathia JD. Cx26 drives self-renewal in triple-negative breast 
+cancer via interaction with NANOG and focal adhesion kinase. Nat Commun. 2018;9:578. 
+35.  Thiagarajan PS, Hitomi M, Hale JS, Alvarado AG, Otvos B, Sinyuk M, Stoltz K, Wiechert A, Mulkearns-
+Hubert E, Jarrar AM, Zheng Q, Thomas D, Egelhoff TT, Rich JN, Liu H, Lathia JD and Reizes O. Development 
+of a Fluorescent Reporter System to Delineate Cancer Stem Cells in Triple-Negative Breast Cancer. Stem 
+Cells. 2015;33:2114-25. 
+36.  Humphrey W, Dalke A and Schulten K. VMD: visual molecular dynamics. J Mol Graph. 1996;14:33-8, 
+27-8. 
+37.  Hu Y and Smyth GK. ELDA: extreme limiting dilution analysis for comparing depleted and enriched 
+populations in stem cell and other assays. J Immunol Methods. 2009;347:70-8. 
+38.  Chambers LM, Esakov E, Braley C, AlHilli M, Michener C and Reizes O. Use of Transabdominal 
+Ultrasound for the detection of intra-peritoneal tumor engraftment and growth in mouse xenografts of epithelial 
+ovarian cancer. PLoS One. 2020;15:e0228511. 
+39.  Sagan S, Burlina F, Alves ID, Bechara C, Dupont E and Joliot A. Homeoproteins and homeoprotein-
+derived peptides: going in and out. Curr Pharm Des. 2013;19:2851-62. 
+18 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2021.09.09.459689; this version posted March 7, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+40.  Grek CL, Rhett JM, Bruce JS, Abt MA, Ghatnekar GS and Yeh ES. Targeting connexin 43 with alpha-
+connexin carboxyl-terminal (ACT1) peptide enhances the activity of the targeted inhibitors, tamoxifen and 
+lapatinib, in breast cancer: clinical implication for ACT1. BMC Cancer. 2015;15:296. 
+41.  Hunter AW, Barker RJ, Zhu C and Gourdie RG. Zonula occludens-1 alters connexin43 gap junction 
+size and organization by influencing channel accretion. Mol Biol Cell. 2005;16:5686-98. 
+42.  Zhang A, Hitomi M, Bar-Shain N, Dalimov Z, Ellis L, Velpula KK, Fraizer GC, Gourdie RG and Lathia 
+JD.  Connexin  43  expression  is  associated  with  increased  malignancy  in  prostate  cancer  cell  lines  and 
+functions to promote migration. Oncotarget. 2015;6:11640-51. 
+43.  Gangoso E, Talaveron R, Jaraiz-Rodriguez M, Dominguez-Prieto M, Ezan P, Koulakoff A, Medina JM, 
+Giaume C and Tabernero A. A c-Src Inhibitor Peptide Based on Connexin43 Exerts Neuroprotective Effects 
+through the Inhibition of Glial Hemichannel Activity. Front Mol Neurosci. 2017;10:418. 
+44.  Jaraiz-Rodriguez M, Tabernero MD, Gonzalez-Tablas M, Otero A, Orfao A, Medina JM and Tabernero 
+A. A Short Region of Connexin43 Reduces Human Glioma Stem Cell Migration, Invasion, and Survival through 
+Src, PTEN, and FAK. Stem Cell Reports. 2017;9:451-463. 
+45.  Jaraiz-Rodriguez M, Talaveron R, Garcia-Vicente L, Pelaz SG, Dominguez-Prieto M, Alvarez-Vazquez 
+A, Flores-Hernandez R, Sin WC, Bechberger J, Medina JM, Naus CC and Tabernero A. Connexin43 peptide, 
+TAT-Cx43266-283, selectively targets glioma cells, impairs malignant growth, and enhances survival in mouse 
+models in vivo. Neuro Oncol. 2020;22:493-504. 
+46.  Pelaz SG, Jaraiz-Rodriguez M, Alvarez-Vazquez A, Talaveron R, Garcia-Vicente L, Flores-Hernandez 
+R, Gomez de Cedron M, Tabernero M, Ramirez de Molina A, Lillo C, Medina JM and Tabernero A. Targeting 
+metabolic plasticity in glioma stem cells in vitro and in vivo through specific inhibition of c-Src by TAT-
+Cx43(266-283). EBioMedicine. 2020;62:103134. 
+47.  Pelaz SG, Ollauri-Ibanez C, Lillo C and Tabernero A. Impairment of Autophagic Flux Participates in the 
+Antitumor Effects of TAT-Cx43(266-283) in Glioblastoma Stem Cells. Cancers (Basel). 2021;13. 
+ 
+   
+19 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2021.09.09.459689; this version posted March 7, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+Acknowledgements. The authors would like to thank members of the Lathia and Reizes laboratories for 
+insightful comments during implementation of these studies. We appreciate the technical contributions of Chad 
+Braley; members of the Lerner Genomics Shared Lab Resources, specifically Dr. Dean Horton; and the 
+Imaging Core, namely Dr. Judith Drazba. The research was supported by the Department of Defense Grant 
+W81XWH1910503, NIH R21 CA191263, and VeloSano Bike to Cure. Work in the Lathia laboratory is also 
+supported  by  NIH  R35  NS127083  and  P01  CA245705,  the  Lerner  Research  Institute,  and  the  Case 
+Comprehensive Cancer Center. Work in the Reizes laboratory is also supported by Cleveland Clinic Center of 
+Excellence, VeloSano Bike to Cure and The Laura J. Fogarty Endowed Chair for Uterine Cancer Research.  
+   
+20 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2021.09.09.459689; this version posted March 7, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+Figure legends: 
+Figure 1. Cx26, NANOG, and FAK localize to intracellular compartments in TNBC tumors. A-D: TNBC 
+assessed by sequential whole slides as stained with A) Hematoxylin and eosin showing an invasive ductal 
+carcinoma  with  focal  squamous  differentiation,  Nottingham  grade  3,    B)  NANOG  stain  showing  weak 
+cytoplasmic expression within tumor cells (inset showing granular cytoplasmic staining in a large subset of the 
+tumor cells), C) Cx26 stain showing intense cytoplasmic staining within a majority of the tumor cells (inset 
+showing higher magnification) and D) FAK stain showing weak granular cytoplasmic staining within a subset of 
+tumor cells (inset showing weak granular cytoplasmic staining and darker accentuation of staining in area of 
+squamous  differentiation).  E-H:  Estrogen/progesterone  receptor  (ER/PR)+/HER2-  tumor  assessed  by 
+sequential  whole  slides  stained  with  E)  Hematoxylin  and  eosin  showing  an  invasive  ductal  carcinoma, 
+Nottingham grade 3, F) NANOG immunohistochemical stain showing variable cytoplasmic expression within 
+tumor  cells  (inset  showing  both  weak  and  more  intense  foci  of  cytoplasmic  staining),  G)  Cx26 
+immunohistochemical stain showing circumferential membranous expression on tumor cells (inset showing 
+moderate to strong diffuse membrane staining) and H) FAK immunohistochemical stain showing very weak 
+granular cytoplasmic staining within tumor cells (inset showing weak but diffuse granular cytoplasmic staining). 
+Photomicrograph total magnification for each pane is 100x; inset total magnification is 400x. I) Summary table 
+describing histological findings.  
+Figure 2. Cx26 cytosolic tail peptide binds both FAK and NANOG and penetrates the cell membrane 
+upon addition of an antennapedia (Antp) leader sequence. A) Table denoting dissociation constants for 
+interactions between Cx26 and NANOG and FAK. B) Cartoon depiction of complex based on SPR analysis. C) 
+Summary table of FAK and NANOG dissociation constants with Antp alone, tagged cytosolic tail, or tagged 
+cleaved tail peptides by SPR analysis. D) Intracellular flow cytometry staining and E) immunofluorescence 
+staining for Antp following 10 µM aCx26-pep treatment for 16 h, demonstrating the ability of the peptide to 
+cross the plasma membrane. Scale bar, 40 µm.  
+Figure 3. TNBC self-renewal but not cell proliferation is attenuated following aCx26-pep treatment. Cell 
+proliferation measured by CellTiter Glo is not significantly affected by aCx26-pep treatment compared to 
+21 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2021.09.09.459689; this version posted March 7, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+controls over time (A) or by concentration of peptide (B). Tumorsphere initiation frequency is decreased in 
+MDA-MB-231 C), MDA-MB-468 D), and HCC70 E) TNBC cells treated with aCx26-pep compared to vehicle, 
+Antp alone, or aScr-pep controls but is not affected in MCF7 luminal breast cancer cells (F). *** p<0.001 by 
+Chi-squared test compared to aScr-pep.  
+Figure 4. aCx26-pep treatment alters FAK and NANOG levels and NANOG function. A) Following a 7 day 
+treatment  with  10  µM  aCx26-pep,  MDA-MB-231  and  HCC70  cells  had  decreased  expression  of  the 
+pluripotency transcription factor Oct4. B) Treatment with aCx26-pep for 48 h decreased the amount of FAK and 
+NANOG in the nuclear fraction. Actin and Lamin A/C were used as loading controls. Mem., membrane. Cyto, 
+cytoplasmic. Nuc., nuclear. C-F) After 7 days of treatment, genes regulated by NANOG by qPCR  were 
+decreased with aCx26-pep compared to cells treated with either cytosolic tail peptide alone, aScr-pep or 
+vehicle  alone  (C),  while  the  expression  of  keratin  genes  was  increased  (D).  There  were  no  significant 
+differences in gene expression between the vehicle, cytosolic tail, or aScr-pep groups. E-F) No changes were 
+not  observed  in  NANOG  target  or  keratin  gene  expression  in  MCF7  luminal  breast  cancer  cells.  n=3 
+independent experimental replicates, each performed in technical triplicate. * p<0.05, ** p<0.01, *** p<0.001 by 
+one-way ANOVA.  
+Figure 5. Tumor growth is attenuated upon aCx26-pep treatment in vivo. A) Following palpability of 
+tumors in the subcutaneous right flank generated by MDA-MB-231 cell injection, mice were intratumorally 
+treated with 50 µl of either 0.1 mM peptide or vehicle (1% DMSO) every other day for 20 days and monitored 
+by weekly IVIS imaging. B) Representative IVIS images of treated mice at Day 0 and Day 42. C) Tumors 
+treated with aCx26-pep exhibited attenuated tumor growth over time compared to control groups. n=8 mice per 
+group; * p<0.05, ** p<0.01, *** p<0.001 by two-way ANOVA.  
+Figure  6.  aCx26-pep-treated  tumors  show  decreased  tumor  proliferation  and  cell  viability  and 
+increased cell death. At endpoint, aCx26-pep-treated tumors exhibited diminished viability by H&E scoring 
+(A), decreased Ki67 staining (B), decreased vimentin expression (C), and increased cleaved caspase 3 levels 
+(D) compared to tumors treated with either aScr-pep or vehicle. H&E: 7-8 mice per group, IF staining: 3-4 mice 
+22 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2021.09.09.459689; this version posted March 7, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+per group, 3 images per mouse. Scales bars are as denoted in each fluorescence image; for (A), scale bar = 
+302 µm. *p<0.05, **p<0.01, ***p<0.001, ****p<0.0001 by one-way ANOVA. 
+23 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2021.09.09.459689; this version posted March 7, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2021.09.09.459689; this version posted March 7, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2021.09.09.459689; this version posted March 7, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2021.09.09.459689; this version posted March 7, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2021.09.09.459689; this version posted March 7, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2021.09.09.459689; this version posted March 7, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+
+NEW PAGE

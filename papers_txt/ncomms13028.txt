@@ -1,0 +1,439 @@
+ARTICLE
+Received6May 2016 |Accepted 23Aug2016 |Published 4Oct 2016 DOI:10.1038/ncomms13028 OPEN
+Retinal transplantation of photoreceptors results
+in donor–host cytoplasmic exchange
+Tiago Santos-Ferreira1,*, S´ılvia Llonch1,*, Oliver Borsch1,*, Kai Postel1, Jochen Haas1 & Marius Ader1
+Pre-clinicalstudiesprovidedevidenceforsuccessfulphotoreceptorcellreplacementtherapy.
+Migration andintegration ofdonorphotoreceptorsintotheretina hasbeen proposed asthe
+underlyingmechanismforrestoredvisualfunction.Herewerevealthatdonorphotoreceptors
+do not structurally integrate into the retinal tissue but instead reside between the photo-
+receptor layer and the retinal pigment epithelium, the so-called sub-retinal space, and
+exchange intracellular material with host photoreceptors. By combining single-cell analysis,
+Cre/loxtechnologyandindependentlabellingofthecytoplasmandnucleus,wereliablytrack
+allogeneic transplants demonstrating cellular content transfer between graft and host
+photoreceptors without nuclear translocation. Our results contradict the common view that
+transplantedphotoreceptorsmigrateandintegrateintothephotoreceptorlayerofrecipients
+and therefore imply a re-interpretation of previous photoreceptor transplantation studies.
+Furthermore, the observed interaction of donor with host photoreceptors may represent an
+unexpected mechanism for the treatment of blinding diseases in future cell therapy
+approaches.
+1CRTD/CenterforRegenerativeTherapiesDresden,TechnischeUniversita¨tDresden,Fetscherstrasse105,01307Dresden,Germany.*Theseauthors
+contributedequallytothework.CorrespondenceandrequestsformaterialsshouldbeaddressedtoM.A.(email:marius.ader@crt-dresden.de).
+NATURECOMMUNICATIONS|7:13028|DOI:10.1038/ncomms13028|www.nature.com/naturecommunications 1
+
+NEW PAGE
+
+ARTICLE
+NATURECOMMUNICATIONS|DOI:10.1038/ncomms13028
+P
+hotoreceptor transplantation has been shown to repair celldoubletsorattachedﬂuorescentdebris(Fig.1c).Theseresults
+retinalfunctioninmousemodelsofretinaldegeneration1–3. suggest the exchange of cytoplasmic content or fusion between
+Therefore, it is considered as a potential cell replacement donor and host photoreceptors.
+treatmentoptionforretinopathiescharacterizedbyphotoreceptor
+loss such as retinitis pigmentosa and age-related macular
+degeneration. Following sub-retinal, that is, between the Exchange of intracellular content between donor and host. To
+photoreceptor/outer nuclear layer (ONL) and retinal pigment directly assess the exchange of intracellular content between
+epithelium, transplantation of photoreceptor precursors into donor and host cells, photoreceptors isolated from a conditional
+partially degenerated adult retinas, several reports provided mouse reporter line containing a loxP-ﬂanked stop cassette
+evidence for successful migration, integration and maturation of upstream of the tdTomato reporter gene (Ai9 mice16) were
+donor cells into the host’s ONL1–6. transplanted into photoreceptor-speciﬁc Cre-recombinase
+In most transplantation studies, donor cells expressing a expressing hosts (B2-Creþ/(cid:2); n¼6; Fig. 2a)17. Three weeks
+ﬂuorescent reporter are used to facilitate their identiﬁcation after grafting, donor cells located in the sub-retinal space
+within the host tissue. However, sole reporter detection can be (357±96 cells per retina; Fig. 2f) as well as photoreceptors
+misleading,as ithasalso been found inhostcellsdue todonor– within the host ONL (443±103 cells per retina; Fig. 2f) showed
+host cell fusion7–9. Indeed, transplantation studies performed expression of tdTomato (Fig. 2b–e), whereas no reporter
+morethanadecadeagousingCre/LoxPtechnologyanddetection expression was detected on transplantation of Ai9 donor cells
+of ﬂuorescent bi-nucleated heterokaryons demonstrated into B2-Cre(cid:2)/(cid:2) recipients (Fig. 2f and Supplementary Fig. 2).
+spontaneous fusion between bone marrow-derived donor This result indicates that Cre-recombinase produced by host
+cells and diverse host cell types, including Purkinje neurons, photoreceptorstranslocatesintodonorcellsenablingtheexcision
+cardiomyocytes and hepatocytes9, thereby challenging the of the stop cassette and thus expression of the reporter protein.
+hypothesis of somatic (stem) cell transdifferentiation into The detection of the ﬂuorescent reporter also within
+multiple cell types10. photoreceptors of the recipient’s ONL suggests a bidirectional
+In previous photoreceptor transplantation studies, a potential exchange of intracellular material between donor and host cells
+fusionbetweendonorandhostcellswasruledout,asﬂuorescent or, alternatively, could be due to integration of ﬂuorescent-
+reporterpositivephotoreceptorsfoundwithintheONLcontained labelled cells, following unidirectional transfer of Cre-
+just a single nucleus and, moreover, some ﬂuorescently labelled recombinase, into the ONL.
+processesofdonorcellsshowednoco-labellingwhengraftedinto
+hosts expressing a different ﬂuorescent marker4,5. In general,
+exchange of cytoplasmic content between cells is not restricted GFPþ cells in thehost ONL lacka donor-derived nucleus. To
+to the generation of syn- or heterokaryons, that is, the distinguishbetweenpotentialintegrationofdonorphotoreceptors
+generation of a single cell containing two nuclei, but can also and fusion events, donor cells with the nucleus and cytoplasm
+be observed between morphologically distinct cells that form independently labelled were used for grafting experiments.
+membrane connections10 including plasma bridges/tunnelling Therefore, Nrl-eGFP mice were repeatedly injected during
+nanotubes11,12 or transfer intracellular material by vesicular development with the thymidine analogue 5-ethynyl-2´-deoxyur-
+transport processes13. idine(EdU)tolabelnucleiofproliferatingcellswithintheretina
+In this study, we reinvestigated the potential occurrence of (Supplementary Fig. 3a–d). Subsequently, P4 photoreceptor
+fusion events following allogeneic photoreceptor transplantation precursors containing cytoplasmic GFP and EdU-labelled nuclei
+by(i) single-cell analysisusing ﬂowcytometry, (ii)the Cre/LoxP were sub-retinally transplanted into adult wild-type mice. Three
+fusion assay and (iii) separating cytoplasmic from nuclear weeks after transplantation, the ONL of experimental retinas
+labelling. With these experiments we observe that, after retinal (n¼3) contained GFP-labelled cells with mature photoreceptor
+transplantation, the majority of grafted photoreceptors do not morphology (Supplementary Fig. 3e) located next to clusters of
+structurally integrate into recipient tissue but instead exchange GFPþ grafts residing in the sub-retinal space. Although the
+intracellular material with host photoreceptors. majority of GFPþ cellsplaced inthe sub-retinalspacewere also
+EdUþ (SupplementaryFig.3e–h),noEdUlabellingwasobserved
+in GFPþ cells located within the ONL (Supplementary
+Results Fig. 3e,i–k). These results suggest that integration of donor cells
+Double ﬂuorescent photoreceptors after transplantation. into the host ONL does not occur or is a rare event; instead,
+Initially, postnatal day (P) 4 photoreceptors, isolated from cytoplasmic content, but not the entire cell nuclei/nuclear
+reportermiceexpressingcytoplasmicenhancedgreenﬂuorescent genomic DNA, might be exchanged from donor cells to host
+protein (eGFP) driven by the rod-speciﬁc neural retina leucine photoreceptors.
+zipper promoter (Nrl-eGFP14), were transplanted into the sub- As consecutive EdU injections during development did
+retinalspaceofrecipientmiceubiquitouslyexpressingDsRED15, not label all photoreceptors of the P4 retina (Supplementary
+to assess whether single cells within host retinas contained both Fig. 3b–d), Y-chromosome ﬂuorescent in situ hybridization
+reporters (Fig. 1a). Three weeks after grafting, ﬂow cytometric (FISH) was used to identify all nuclei within the donor cell
+analysisidentiﬁedcellpopulationswithinhostretinasexpressing fraction (Fig. 3 and Supplementary Fig. 4), allowing quantitative
+eGFP or DsRED, as well as a robust number of double-labelled analysis. Therefore, donor photoreceptors were isolated from
+(eGFPþ/DsREDþ) cells (98±17 cells per 1 million photorece- male Nrl-eGFP mice and transplanted into female wild-type
+ptors;n¼3;Fig.1b).Furtheranalysisofindividualexperimental recipients (Fig. 3a). After 3 weeks, virtually all analysed GFPþ
+retinas (n¼3) by imaging ﬂow cytometry, a technique allowing cells within the sub-retinal space contained a Y-chromosome
+concurrent visualization of individual events during ﬂow identifying them as donor photoreceptors (98.24±0.77%;
+cytometry (Supplementary Fig. 1), revealed that 80% of double- Fig. 3b–f,k). In contrast, of all GFPþ photoreceptors located
+positivecellsindeedexpressedbothﬂuorescentreporters,thatis, within the host ONL, only few cells showed co-staining for the
+GFP and DsRED (Fig. 1c). In contrast, in control samples Y-chromosome (1.2±0.42%; Fig. 3b,g–j,k, l–o), conﬁrming that
+containing a mixture of enriched P4 GFPþ photoreceptors with cytoplasmic content but not the nucleus of donor cells is
+DsREDþ retinalcells,doublepositivitywasonlyobserveddueto translocated into host photoreceptors.
+2 NATURECOMMUNICATIONS|7:13028|DOI:10.1038/ncomms13028|www.nature.com/naturecommunications
+
+NEW PAGE
+
+ARTICLE
+NATURECOMMUNICATIONS|DOI:10.1038/ncomms13028
+a
+Retinal transplantation
+Nrl-eGFP DsRED
+Donor
+Conventional photoreceptor
+flow cytometry
+Host cells
+Control Imaging
+flow cytometry  “Fused”
+Nrl-eGFP photoreceptor
++
+b
+Nrl-eGFP into DsRED DsRED Nrl-eGFP
+0.001 0.01 0 0 92.8 0 Nrl-eGFP into DsRED
+s n=3
+or 150
+pt
+e
++D photorecmillion cells100
++P/DsREper 1  50
+P GF 0
+FG 14.8 85.2 25.7 74.3 7.2 0 e
+DsRED
+BF
+c +
+Nrl-eGFP into DsRED GFP GFP
++ +
+BF GFP DsRED DsRED DsRED
+n=3
+100
+cells ine gate 80
+Percentage of double positiv 264000
+0
+Double False
+positive double
+positive
+Control: Nrl-eGFP/DsRED mix
+n=3
+100
+cells ine gate 80 100%
+entage of ble positiv 6400
+Percdou 20 0%
+0
+Double False
+P positive double
+FG positive
+DsRED
+Figure1|AnalysisofDsREDhostretinasgraftedwithNrl-eGFPphotoreceptorsbyconventionalandimagingﬂowcytometry.(a)Schematic
+representationofexperimentaloutline:transplantationofP4eGFPþ photoreceptorsintotheretinaofadultDsREDhostsandcorrespondingcontrol
+(mixingofenrichedP4eGFPþ photoreceptorswithDsREDþ retinalcells)withsubsequentconventionalandimagingﬂowcytometryanalysis.(b)Flow
+cytometricanalysisofindividualexperimentalretinas(n¼3)revealedarobustnumberofGFPþ/DsREDþ double-labelledphotoreceptors(98±17
+photoreceptorsper1millionphotoreceptors)withinDsREDhostretinas3weeksaftertransplantationofeGFPþ donorcells(b,leftplot),indicating
+exchangeofcytoplasmicmaterialbetweendonorandhostphotoreceptors.Nrl-eGFP(b,rightplot)orDsRED(b,middleplot)retinasdonotcontain
+double-positivecells.(c)Intransplantedretinas(Nrl-eGFPintoDsRED;n¼3),imagingﬂowcytometryidentiﬁedsingleGFPþ/DsREDþ cells(three
+exemplarycellsareshown)inthedouble-positivecellpopulation(upperleftplot,bluegate).Themajorityofcells(B80%;upperrightgraph)showed
+doublefusedﬂuorescence,whereasB20%werefalsedouble-positive(thatis,containingdoubletsorattachedﬂuorescencedebris).Alldouble-positive
+eventsinNrl-eGFPmixedDsREDcontrols(lowerleftplot,bluegate;lowerrightgraph;n¼3)wereidentiﬁedasfalsedouble-positive(100%;three
+exemplarycellsareshown).Scalebar,5mm.Datarepresentmean±s.e.m.BF,brightﬁeld.
+NATURECOMMUNICATIONS|7:13028|DOI:10.1038/ncomms13028|www.nature.com/naturecommunications 3
+
+NEW PAGE
+
+ARTICLE
+NATURECOMMUNICATIONS|DOI:10.1038/ncomms13028
+a
+LoxP LoxP RPE
+CAG Pr Stop tdTomato
+SRS
+B2-Cre+/– 3 Weeks
+OS/IS
+Ai9 ONL
+Donor photoreceptor “Fused” donor photoreceptor “Fused” host photoreceptor B2-Cre+/– host photoreceptor
+precursor 
+tdTomato / DAPI 
+b c
+SRS SRS
+ONL ONL
+d e f
+800
+B2-Cre+/–
++o B2-Cre–/–
+at 600
+ma
+mber of tdTo cells/retin 240000
+u
+N
+0
+ONL ONL O N L S ubretinal O N L S ubretinal
+Figure2|VisualizationoffusioneventsfollowingphotoreceptortransplantationusingCre/LoxPtechnology.(a)Schematicrepresentationof
+experimentaloutlinetovisualizetransferofcytoplasmicmaterialbetweendonorandhostcellsbyCre/LoxPrecombination.(b–e)Donorphotoreceptors
+isolatedfromﬂoxedreportermice(Ai9)andtransplantedintorodphotoreceptor-speciﬁcCremice(B2-Creþ/(cid:2))showexpressionofthetdTomato
+reporterinsub-retinal(SRS)locatedcells(b–e;arrowheadind,e)revealingtransferofCre-recombinasefromhostphotoreceptorstodonorcells.tdTomato
+isalsopresentinphotoreceptorslocatedintheONL(b–e;arrowind,e),suggestingbidirectionaltransportofintracellularcontentbetweendonorandhost
+photoreceptors.(f)QuantiﬁcationoftdTomatoþ cellsinthesub-retinalspaceandintheONLofB2-Creþ/(cid:2) hosts(n¼6)showsimilaramountsof
+reporter-labelledcells(ONL:443±103cellsperretina;SRS:357±96cellsperretina).NotdTomato-expressingcellsweredetectedintransplanted
+B2-Cre(cid:2)/(cid:2) mice(n¼4).Datarepresentmean±s.e.m.Scalebar,:20mm(c,e).CAGSPr,CAGSpromoter;INL,innernuclearlayer;IS/OS,inner/outer
+segments;ONL,outernuclearlayer;RPE,retinalpigmentepithelium;SRS,sub-retinalspace.
+Discussion recent data on transplantation of photoreceptors into mouse
+Photoreceptor replacement therapies have shown promising models of severe retinal degeneration with complete loss of
+resultsleadingtofunctionalrestorationofrodandcone-mediated photoreceptorsdidnotresultincellswithintherecipient’sretinal
+vision1,3. Migration and integration of grafted photoreceptors tissue with reporter labelling20,21, suggesting that retinal cells of
+into the host’s retinal circuitry has been hypothesized as the the inner nuclear layer, that is, horizontals, bipolars, Mu¨ller glia
+underlying mechanism for vision improvement18. However, our or amacrines, do not exchange cytoplasmic content with donor
+results reveal that de novo integration of photoreceptor photoreceptors. Notably, grafted photoreceptors in severely
+transplants is a rare event. Conversely, sub-retinally located degenerated retinas still showed signs of a mature phenotype
+donor cells exchange cytoplasmic content with endogenous including expression of phototransduction proteins, outer
+photoreceptors. Thus, potential restoration of visual function segment-like structures and synapse formation that resulted in
+might have been achieved by material transfer, suggesting a new some functional improvements20,21. Therefore, disease states
+powerful mechanism to rescue dysfunctional and degenerating characterized by complete loss of photoreceptors represent a
+photoreceptors. Our ﬁndings will have strong implications for a promising target for photoreceptor replacement approaches in
+re-evaluation of the ﬁeld of photoreceptor transplantation. future clinical applications.
+Interestingly, reporter expressionwithinthehostretinal tissue Previous studies reported ﬂuorophore-labelled cells within the
+was only observed in the ONL and exclusively detected in hostONL,notonlyinwild-typehostsbutalsoinseveralgenetic
+photoreceptors, suggesting that exchange of intracellular content degeneration mouse models that contain dysfunctional photo-
+isrestrictedtophotoreceptor–photoreceptorinteractions.Indeed, receptors1–4. Further studies need to be performed, to evaluate
+transplantationofotherﬂuorescentretinalcelltypes,forexample, whetherdonor–hosttransferofcytoplasmiccontentoccursinthe
+retinal progenitors or CD73(cid:2) cells, resulted only in very few diseasedretinaaswell.Interestingly,thedescribedmorphologyof
+reporter-labelled photoreceptors in the ONL4,6,19. In addition, ﬂuorophore-labelled cells within the ONL strongly correlated
+4 NATURECOMMUNICATIONS|7:13028|DOI:10.1038/ncomms13028|www.nature.com/naturecommunications
+
+NEW PAGE
+
+ARTICLE
+NATURECOMMUNICATIONS|DOI:10.1038/ncomms13028
+a
+Nrl-eGFP WT 3 Weeks
+RPE
+SRS
+“Fused” host photoreceptor OS/IS
+Male photoreceptor
+with grafted cell 
+ONL
+Female photoreceptor Integrated photoreceptor
+Y-Chromosome/Nrl-eGFP/DAPI
+b k
+105
+S +Pa
+SR g–j Host retcin–af +Y-chromosome/GFells in the host retin190530
+L %c
+ON 0
+SRS ONL
+c d e f
+SRS SRS SRS SRS
+g h i j
+ONL ONL ONL ONL
+l m n o
+ONL ONL ONL ONL
+Figure3|Donorcell-derivedeGFPbutnonucleiarelocatedinhostphotoreceptors.(a)Experimentaloverview:Nrl-eGFPmalephotoreceptor
+precursorsweretransplantedintowild-typefemaleretinas.Sectionsofindividualexperimentalretinas(n¼5)wereanalysedbyY-chromosomeFISHand
+immunohistochemistryforeGFP.(b)Overviewofgraftedarea3weeksaftertransplantation(increasedspacebetweengraftandhostONLresultsfroma
+histological(cutting)artefact).(c–f)Y-chromosomeþ/GFPþcellswerelocatedintheSRS,identifyingthemasdonorphotoreceptors(seealsoarrowhead
+ing–j).(g–j)Y-chromosome(cid:2)/GFPþcellsweredetectedintheONLofthehostretina(arrows),demonstratingtransferofdonorcytoplasmiccontentbut
+notnucleitohostphotoreceptors.(k)QuantiﬁcationofGFPþ cellscontainingY-chromosomeintheSRSandintheONLofthehost.Althoughthevast
+majorityoftheGFPþcellsintheSRScontainedaY-chromosome(98.24±0.77%),only1.2±0.42%ofGFPþ cellsintheONLshowedapositivestaining
+fortheY-chromosome.Datarepresentmean±s.e.m.(l–o)VeryfewGFPþcellswithintheONLofthehostretinawerealsoY-chromosomeþ,indicatinga
+lowextentofstructuralintegrationofdonorcellsintothehostretina.Scalebars,20mm(f,i,j,o).INL,innernuclearlayer;IS/OS,inner/outersegments;ONL,
+outernuclearlayer;RPE,retinalpigmentepithelium;SRS,sub-retinalspace.
+with the morphology of host photoreceptors in different the presence of ﬂuorescent reporters, correct expression of
+degeneration models2, suggesting a potential fusion of donor proteins missing in the respective disease models was observed
+and host photoreceptors also in a disease environment. Besides inONLlocatedphotoreceptorsandevenfunctionalrecoverywas
+NATURECOMMUNICATIONS|7:13028|DOI:10.1038/ncomms13028|www.nature.com/naturecommunications 5
+
+NEW PAGE
+
+ARTICLE
+NATURECOMMUNICATIONS|DOI:10.1038/ncomms13028
+achieved following photoreceptor transplantation in injected(1mlpergrambodyweight)intofemaletime-matedNrl-eGFPmice18
+dysfunctional, mildly degenerated retinas1–3. Based on our and20daysafterfertilization.Deliveredpupsreceivedadditionalintraperitoneal
+ﬁndings, we conclude that the majority of donor cells remain in EdUinjections(5mM,4mlpergrambodyweight)atP1andP3beforeretinal
+tissuewasharvestedatP4fortransplantation(seeabove)orhistologicalanalysis.
+the sub-retinal space and thus may not form direct synaptic
+Priorimmunohistochemistry(seebelow)EdUwasdetectedon20mm-thickretinal
+connections to endogenous secondary neurons. Hence, we cryosectionsbyfollowingthemanufacturer’sinstructionsusingAlexaFluor647
+hypothesize that the observed visual improvements1–3 might azideforvisualization.
+resultfromremainingendogenousphotoreceptorssupplemented
+by donor cell-derived proteins. Interestingly, reporter labelled Immunohistochemistry. Transplantedmicewerekilled3weeksaftertransplan-
+photoreceptors within the ONL have been observed up to 6 tation,eyesenucleatedandﬁxedin4%paraformaldehyde(MerckMillipore)
+monthsfollowingtransplantation,althoughinsigniﬁcantlylower for1hat4(cid:2)C.Theposteriorpartoftheeye(sclera,choroid,retinalpigmented
+numbers than after 4 weeks2,22, implying stable photoreceptor– epitheliumandretina)wascryopreservedovernightat4(cid:2)Cina30%
+(weight/volume)sucrosesolutionandembeddedinoptimalcuttingmedium
+photoreceptor connections or, alternatively, dynamic re-arrange- (OCT,NEG50,ThermoScientiﬁc).Twenty-micrometre-thicksectionswere
+ments of cell–cell contacts over long periods of time given that collectedonstarfrostslides,air-driedfor1hatroomtemperature(RT),hydrated
+GFP has a half-life of B26h23. Improving fusion efﬁciency, as withPBSfor30minandincubatedwithblockingsolutioncontaining0.3%
+Triton-X100(SERVA),1%BSA(SERVA)and5%donkeyserumfor1hatRT.
+reported for transplanted bone marrow cells with Purkinje
+SlideswereincubatedwithprimaryantibodyagainstGFP(10mgml(cid:2)1stock
+neurons in conditions such as inﬂammation, radiation solutiondiluted1:1,000,AbCam,ref:AB13970)overnightat4(cid:2)C,washed3times
+exposure, chemotherapeutic drugs, age or damage24 and for10minandrespectiveCy2-conjugatedsecondaryantibody(1.5mgml(cid:2)1stock
+increasing long-time survival of transplanted photoreceptors solutiondiluted1:1,000,JacksonImmunoresearch,ref:703225155)wasaddedfor
+might therefore represent a new opportunity for cell-based 90minina40,6-diamidino-2-phenylindolesolution(DAPI,1:20,000,Sigma).
+Followingincubation,slideswerewashedthreetimesfor10mininPBSand
+treatment approaches for photoreceptor degenerative diseases.
+mountedinAquaPolymount(Polysciences).
+Interestingly, a recent study provided evidence that damage-
+induced fusionof haematopoietic stemand progenitor cellswith
+Imageacquisitionandprocessing. Fluorescentimageswereacquiredusinga
+retinal ganglion or amacrine cells contributed to retinal tissue
+structuredilluminationmicroscope(ApotomeImagerZ1,Zeiss)andprocessed
+repair25. ofﬂineusingFiji,AdobePhotoshopandAdobeIllustrator.AdobeIllustratorwas
+In conclusion, photoreceptor transplantation into host retinas usedtogenerateillustrationsandschematicrepresentations.Mouseillustration
+with remaining photoreceptors results in photoreceptor– usedforschematicrepresentationswassimplemouse(c)SeansPotatoBusiness,
+CC-BY-SA-3.0.
+photoreceptor biomaterial exchange rather than migration and
+integration into the recipient’s ONL. Transfer of cellular content
+betweendonor and host cellshasto be takeninto account when FISHforY-chromosomedetection. ForcombinedchromosomalFISH
+(Y-chromosomeFISH)andimmunohistochemistry29,experimentalretinaswere
+interpreting experiments using photoreceptor transplantation
+collected,ﬁxedfor1hat4(cid:2)Cwithfreshlyprepared4%paraformaldehyde
+into partially degenerated retinas with the intention to achieve (MerckMillipore)andcryopreservedin30%sucroseovernightat4(cid:2)C.
+cell replacement. In fact, the potential exchange of cellular Cryosectionsof10mmthicknesswererehydratedwith10mMcitratebufferand
+material in any transplantation setting should be rigorously treatedwith2(cid:3) salinesodiumcitratebuffer(SSC).Followingpretreatmentwith
+50%formamidefor1hatRT,sectionswerewashedinPBSfor5minandincubated
+evaluated given the increasing number of reports providing
+withprimaryantibodyagainsteGFP(10mgml(cid:2)1stocksolutiondiluted1:800,
+evidenceforcomplete9,25,26orpartial(ourstudy)cell–cellfusion AbCam,ref:AB13970)overnightat4(cid:2)C,followedbyincubationwithsecondary
+events. Such knowledge will be an important prerequisite to antibodyconjugatedtoAlexaFluor488(1.5mgml(cid:2)1stocksolutiondiluted
+determine the impact of donor cells in tissue repair27. Although 1:1,000,JacksonImmunoresearch,ref:103545155)for90minatRT.Next,
+hybridizationoftheXMPYorangeprobe(undiluted,Metasystems,ref:
+the mechanism of vision improvement by photoreceptor
+D-1421-050-OR)totheY-chromosomewasperformed.Afterloadingtheprobe
+transplantation may be different than originally conceptualized,
+intothehybridizationchamber,thoseweresealedwithrubbercement.Toallowthe
+capitalizing on the fusion-mediated exchange of cytoplasmic probetopenetratethetissue,sampleswereincubatedfor3hat45(cid:2)C.Then,
+components may represent a productive direction for the samplesweretransferredtoahotblockat80(cid:2)Cfor5min,todenatureDNA.
+development of cell support therapies. Afterwards,probeswerehybridizedwithDNAfor2daysat37(cid:2)C.
+Posthybridizationconsistedof3(cid:3)15minwasheswith2(cid:3) SCCat37(cid:2)Cand
+2(cid:3)5minstringencywasheswith0.1(cid:3) SCCat60(cid:2)C.Finally,sectionswere
+Methods counterstainedwithDAPI(1:15,000,Sigma).
+Photoreceptortransplantationintothemouseretina. Photoreceptorswere
+isolatedfrompostnatalday(P)4Nrl-eGFP14orAi9(ref.16;Gt(ROSA) Quantiﬁcationofﬂuorescentcellsinretinalsections.Fluorescentlabelledcells,
+26Sortm9(CAG-tdTomato)Hze,JacksonLaboratory,BarHarbor,USA)mice,enriched thatis,eGFP,Ai9(tdTomato)orY-chromosome,werequantiﬁedonDAPI-stained
+byCD73-basedmagnetic-activatedcellsortingandtransplantedintothesub-retinal serialsectionsofexperimentalretinas(Z5biologicalreplicates)usingﬂuorescence
+spaceofadult(6–9week)mice28.Therefore,eyesfromdonorP4pupswere microscopy(ApotomeImagerZ1,Zeiss).Respectivedatawereplottedusing
+enucleated,rinsedinPBSandtransferredtoHank’sbalancesaltsolution(Gibco). GraphPadPrismversion6(GraphPadSoftware).
+Next,retinaswereisolated,digestedtoasinglecellsuspensionusingpapain
+dissociation(WorhingtonBiochemicalCorporation)andtheresultingcellsuspension
+wasincubatedwithratanti-mouseCD73antibody(0.5mgml(cid:2)1stocksolution Flowcytometry. Transplantedretinas(n¼3)andretinasfromtheusedreporter
+diluted1:40,BDBiosciences,ref:550738)followedbyanti-ratIgGMicrobeads strains,thatis,Nrl-eGFP(n¼3)andDsRED(n¼3),weredissociatedtoasingle-
+(1:5ofstocksolution,Miltenyi,Germany,ref:130–048–502).Cellsuspensionswere cellsuspensionusingpapaindissociation(WorthingtonBiochemicalCorporation)
+rinsed,spundown,ranthroughLSColumnsattachedtoamagnetandCD73þ cell for20minwith100mgml(cid:2)1papainaccordingtothemanufacturer’sinstructions,
+fractions(rodphotoreceptors)wereconcentratedbycentrifugationandresuspension followedbyﬁltrationthrough30mmcellstrainers(SysmexPartec).Sampleswere
+toa2(cid:3)105cellpermlsolution.Usingablunt34Gaugeneedleattachedtoa10ml analysedforreporterﬂuorescence,thatis,eGFPandDsRED,withaBDFACS-
+Hamiltonsyringe,donorcellsweretrans-vitreallytransplantedintothesub-retinal CantoIIﬂowcytometer(BDBioscience)aftergatingretinalcellsforsinglets
+spaceofrecipients,thatis,wild-type,ubiquitousDsRED(actin-DsRED,(15), (FSC-HversusFSC-AandSSC-HversusSSC-A)andphotoreceptors.Flow
+B6.Cg-Tg(CAG-DsRed*MST)1Nagy/j,JacksonLaboratory)orrodphotoreceptor- cytometrydatawereprocessedofﬂineusingFlowJosoftware(TreeStar).
+speciﬁcB2-Cre17mice.Allanimalexperimentswereapprovedbytheethics
+committeeoftheTUDresdenandtheLandesdirektionDresden(approvalnumber
+24-9168.11-1/2008-33,24-9168.11-1/2012-33and24-9168.11-1/2013-23)and Imagingﬂowcytometry. Forimagingﬂowcytometry,individualtransplanted
+performedinaccordancewiththeregulationoftheEuropeanUnion,Germanlaws retinas(n¼3)weredissociatedandprocessedasforconventionalﬂowcytometry
+(Tierschutzgesetz),theARVOstatementfortheUseofAnimalsinOphthalmicand (seeabove).Controlsamples(thatis,mixedeGFPandDsREDcells)weregener-
+VisionResearch,aswellastheNIHGuideforthecareanduseoflaboratorywork. atedasfollows:P4Nrl-eGFPretinasandadultDsREDretinaswereseparately
+dissociatedintoasingle-cellsuspensionandNrl-eGFProdswereenrichedusing
+CD73-basedmagnetic-activatedcellsortinginlinewiththeprocedurefortrans-
+EdUlabellingofdonorphotoreceptors. ThethymidineanalogueEdU(20mM; plantation(seeabove).EachindividualDsREDretina(n¼3)wasthenmixedwith
+Click-iTEdUAlexaFluor647ImagingKit;Invitrogen)wasintraperitoneally 2(cid:3)105Nrl-eGFProdsandspundownforfurtherprocessing.Transplantationand
+6 NATURECOMMUNICATIONS|7:13028|DOI:10.1038/ncomms13028|www.nature.com/naturecommunications
+
+NEW PAGE
+
+ARTICLE
+NATURECOMMUNICATIONS|DOI:10.1038/ncomms13028
+controlsampleswereanalysedforreporterﬂuorescence(thatis,eGFPandDsRED) 21.Singh,M.S.etal.Reversalofend-stageretinaldegenerationandrestorationof
+usinganImageStreamXMarkIIimagingﬂowcytometer(Amnis),aftergating visualfunctionbyphotoreceptortransplantation.Proc.Natl.Acad.Sci.USA
+retinalcellsforsinglets(aspectratioversusarea).Forreasonsoftechnicalfeasibility 110,1101–1106(2013).
+(limitationofdatavolumeperdatasetpersample),themajorityofmereDsRED- 22.West,E.L.etal.Long-termsurvivalofphotoreceptorstransplantedintothe
+positivecellswasgatedoutandhenceexcludedfromdataacquisitionbyusing adultmurineneuralretinarequiresimmunemodulation.StemCells28,
+GFPﬂuorescenceasacutoffparameter.Datawereprocessedofﬂineusing 1997–2007(2010).
+IDEASsoftware(Amnis).Acquiredindividualimagesofdouble-positive 23.Corish,P.&Tyler-Smith,C.Attenuationofgreenﬂuorescentproteinhalf-life
+(GFPþ/DsRedþ)cells(73,34and31individualcellsfromtransplantedretinas;
+inmammaliancells.ProteinEng.12,1035–1040(1999).
+12,5and4individualcellsfromthemixedcontrolsamples)wereanalysedand
+24.Kemp,K.,Wilkins,A.&Scolding,N.Cellfusioninthebrain:twocellsforward,
+quantiﬁedfortheappearanceofGFPandDsREDwithinthesamecell,doublets
+onecellback.ActaNeuropathol.(Berl.)128,629–638(2014).
+andcellswithattachedﬂuorescentdebris.
+25.Sanges,D.etal.Wnt/b-cateninsignalingtriggersneuronreprogrammingand
+regenerationinthemouseretina.CellRep.4,271–286(2013).
+Dataavailability.Theauthorsdeclarethatalldatasupportingtheﬁndingsofthis 26.Cusulin,C.etal.Embryonicstemcell-derivedneuralstemcellsfusewith
+studyareavailablewithinthearticleanditsSupplementaryInformationﬁlesor microgliaandmatureneurons.StemCells30,2657–2671(2012).
+fromthecorrespondingauthoruponreasonablerequest. 27.Sullivan,S.&Eggan,K.Thepotentialofcellfusionforhumantherapy.Stem
+CellRev.2,341–349(2006).
+References 28.Eberle,D.,Santos-Ferreira,T.,Grahl,S.&Ader,M.Subretinaltransplantation
+ofMACSpuriﬁedphotoreceptorprecursorcellsintotheadultmouseretina.
+1. Pearson,R.A.etal.Restorationofvisionaftertransplantationof
+J.Vis.Exp.84,e50932(2014).
+photoreceptors.Nature485,99–103(2012).
+29.Solovei,I.inFluorescenceInSituHybridization(FISH)(edsBridger,J.M.&
+2. Barber,A.C.etal.Repairofthedegenerateretinabyphotoreceptor
+Volpi,E.V.)71–82(HumanaPress,2010).
+transplantation.Proc.NatlAcad.Sci.USA110,354–359(2013).
+3. Santos-Ferreira,T.etal.Daylightvisionrepairbycelltransplantation.
+StemCells33,79–90(2015). Acknowledgements
+4. MacLaren,R.E.etal.Retinalrepairbytransplantationofphotoreceptor WethankSindyBo¨hme,SabrinaRichterandKatrinSippelforanimalhusbandry,
+precursors.Nature444,203–207(2006). DrsYunZ.LeandMikeO.KarlforprovidingB2-Cremice,DrsAnandSwaroopand
+5. Bartsch,U.etal.Retinalcellsintegrateintotheouternuclearlayerand SandraCottetforprovidingNrl-eGFPmice,andDrsEllyTanaka,GerdKempermann,
+differentiateintomaturephotoreceptorsaftersubretinaltransplantationinto MikeO.KarlandAnnetteE.Ru¨nkerforadviceandcriticallyreadingthemanuscript.
+adultmice.Exp.EyeRes.86,691–700(2008). ThisworkwassupportedbytheFlowCytometryFacility,acorefacilityof
+6. Eberle,D.,Schubert,S.,Postel,K.,Corbeil,D.&Ader,M.Increasedintegration BIOTEC/CRTDatTechnischeUniversita¨tDresden.Thisworkwasﬁnanciallysupported
+oftransplantedCD73-positivephotoreceptorprecursorsintoadultmouse bytheDeutscheForschungsgemeinschaft(DFG)FZT111CenterforRegenerative
+retina.Invest.Ophthalmol.Vis.Sci.52,6462–6471(2011). TherapiesDresden,ClusterofExcellence(M.A.),DFGGrantAD375/3-1(M.A.)andthe
+7. Terada,N.etal.Bonemarrowcellsadoptthephenotypeofothercellsby ProRetinaStiftung(M.A.).
+spontaneouscellfusion.Nature416,542–545(2002).
+8. Ying,Q.-L.,Nichols,J.,Evans,E.P.&Smith,A.G.Changingpotencyby
+Author contributions
+spontaneousfusion.Nature416,545–548(2002).
+9. Alvarez-Dolado,M.etal.Fusionofbone-marrow-derivedcellswithPurkinje T.S.F.,S.L.andO.B.contributedtotheexperimentaldesign,dataacquisition,data
+neurons,cardiomyocytesandhepatocytes.Nature425,968–973(2003). analysisandmanuscriptpreparation.J.H.contributedtodataacquisition.K.P.
+10.Ogle,B.M.,Cascalho,M.&Platt,J.L.Biologicalimplicationsofcellfusion. contributedtoexperimentaldesignanddataacquisition.M.A.contributedto
+Nat.Rev.Mol.CellBiol.6,567–575(2005). experimentaldesign,dataanalysisandmanuscriptpreparation.
+11.Gerdes,H.-H.,Rustom,A.&Wang,X.Tunnelingnanotubes,anemerging
+intercellularcommunicationrouteindevelopment.Mech.Dev.130,381–387
+(2013). Additional information
+12.Inaba,M.,Buszczak,M.&Yamashita,Y.M.Nanotubesmediateniche-stem- SupplementaryInformationaccompaniesthispaperathttp://www.nature.com/
+cellsignallingintheDrosophilatestis.Nature523,329–332(2015). naturecommunications
+13.Conner,S.D.&Schmid,S.L.Regulatedportalsofentryintothecell.
+Nature422,37–44(2003). Competingﬁnancialinterests:Theauthorsdeclarenocompetingﬁnancial
+14.Akimoto,M.etal.TargetingofGFPtonewbornrodsbyNrlpromoterand interests.
+temporalexpressionproﬁlingofﬂow-sortedphotoreceptors.Proc.NatlAcad.
+Reprintsandpermissioninformationisavailableonlineathttp://npg.nature.com/
+Sci.USA103,3890–3895(2006).
+reprintsandpermissions/
+15.Vintersten,K.etal.Mouseinred:redﬂuorescentproteinexpressioninmouse
+EScells,embryos,andadultanimals.Genesis40,241–246(2004). Howtocitethisarticle:Santos-Ferreira,T.etal.Retinaltransplantationofphoto-
+16.Madisen,L.etal.Arobustandhigh-throughputCrereportingand receptorsresultsindonor–hostcytoplasmicexchange.Nat.Commun.7,13028
+characterizationsystemforthewholemousebrain.Nat.Neurosci.13,133–140 doi:10.1038/ncomms13028(2016).
+(2010).
+17.Le,Y.-Z.etal.Mouseopsinpromoter-directedCrerecombinaseexpressionin
+transgenicmice.Mol.Vis.12,389–398(2006). This work is licensed under a Creative Commons Attribution 4.0
+18.Warre-Cornish,K.,Barber,A.C.,Sowden,J.C.,Ali,R.R.&Pearson,R.A. InternationalLicense.Theimagesorotherthirdpartymaterialinthis
+Migration,integrationandmaturationofphotoreceptorprecursorsfollowing articleareincludedinthearticle’sCreativeCommonslicense,unlessindicatedotherwise
+transplantationinthemouseretina.StemCellsDev.23,941–954(2013). inthecreditline;ifthematerialisnotincludedundertheCreativeCommonslicense,
+19.Czekaj,M.etal.Invitroexpandedstemcellsfromthedevelopingretinafailto userswillneedtoobtainpermissionfromthelicenseholdertoreproducethematerial.
+generatephotoreceptorsbutdifferentiateintomyelinatingoligodendrocytes. Toviewacopyofthislicense,visithttp://creativecommons.org/licenses/by/4.0/
+PLoSONE7,e41798(2012).
+20.Eberle,D.etal.Outersegmentformationoftransplantedphotoreceptor
+precursorcells.PLoSONE7,e46305(2012). rTheAuthor(s)2016
+NATURECOMMUNICATIONS|7:13028|DOI:10.1038/ncomms13028|www.nature.com/naturecommunications 7
+
+NEW PAGE

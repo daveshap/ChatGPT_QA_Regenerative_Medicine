@@ -1,0 +1,1577 @@
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531717; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-ND 4.0 International license.
+ 
+ 
+KCNN4 links PIEZO-dependent mechanotransduction to NLRP3 
+inflammasome activation 
+5  Li Ran1,2,3,4#, Tao Ye1,2,3,4, Eric Erbs1,2,3,4, Izabela Sumara1,2,3,4, Romeo Ricci1,2,3,4,5* and Zhirong 
+Zhang1,2,3,4#* 
+Affiliations: 
+1Institut de Génétique et de Biologie Moléculaire et Cellulaire, Illkirch, France 
+2Centre National de la Recherche Scientifique, UMR7104, Illkirch, France  
+10  3Institut National de la Santé et de la Recherche Médicale, U964, Illkirch, France  
+4Université de Strasbourg, Illkirch, France  
+5Laboratoire de Biochimie et de Biologie Moléculaire, Nouvel Hôpital Civil, Strasbourg, France 
+#These authors contributed equally to this work 
+*Correspondence to: romeo.ricci@igbmc.fr or zhirong.zhang@igbmc.fr 
+15   
+Abstract: 
+Immune cells sense their microenvironment to fine-tune their inflammatory responses. Patients 
+with cryopyrin associated periodic syndrome (CAPS), caused by mutations in the NLRP3 gene, 
+present auto-inflammation. However, its manifestation is largely dependent on environmental cues 
+20  through so far unknown mechanisms. Here, we link PIEZO-mediated mechanotransduction to 
+NLRP3 inflammasome activation. Yoda1, a PIEZO1 agonist, dramatically lowers the threshold 
+for  NLRP3  inflammasome  activation.  PIEZO-mediated  stiffness-sensing  increases  NLRP3-
+dependent inflammatory responses. Activation of PIEZO1 triggers calcium influx, which activates 
+KCNN4, a calcium-activated potassium channel, to evoke potassium efflux promoting NLRP3 
+25  inflammasome activation. Activation of PIEZO1 is sufficient to activate the inflammasome in cells 
+expressing CAPS-causing NLRP3 mutants in a KCNN4-dependent manner. We thus propose that 
+PIEZO-dependent mechanosensing is essential for triggering auto-inflammation in CAPS. 
+ 
+One Sentence Summary: PIEZO-dependent mechanotransduction stimulates KCNN4-dependent 
+30  potassium efflux to potentiate NLRP3 inflammasome activation. 
+ 
+ 
+1 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531717; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-ND 4.0 International license.
+Main Text: 
+Immune cells primarily respond to pathogen exposure using pattern recognition receptors (PRRs) 
+to elicit an inflammatory response (1, 2). However, it is increasingly recognized that other 
+parameters in the microenvironment alter in the course of inflammation and that innate immune 
+5  cells are capable to adapt their responses to those variations. More recently, changes in immune 
+cell activation in response to mechanical cues has been put forward. It has been demonstrated that 
+impaired  PIEZO1-dependent  mechanosensation  in  myeloid  cells  alters  their  inflammatory 
+response (3–6). While these studies primarily linked PIEZO1 signaling to transcription of cytokine 
+and chemoattractant, we asked the question whether mechanotransduction has an impact on pattern 
+10  recognition receptor activation itself. The intracellular NLRP3 inflammasome receptor was one 
+potential candidate given its capacity to detect a remarkable variety of environmental cues (7–10). 
+Moreover, gain of function mutations in the NLRP3 gene lead to the development of Cryopyrin-
+Associated Periodic Syndromes (CAPS), an auto-inflammatory condition that often occurs at 
+joints and eyes, highly mechanical sites, and that can be triggered via cold exposure (11). 
+15  NLRP3 inflammasome activation requires two principal steps, priming through Toll-like or 
+cytokine receptor signaling resulting in robust expression of the inflammasome components and 
+activation leading to inflammasome complex assembly (7–10). Assembly includes recruitment of 
+the adaptor protein ASC that binds pro-Caspase-1, leading to self-activation of Caspase-1. Active 
+Caspase-1 cleaves pro-IL-1β and pro-IL-18 into their mature forms promoting their secretion and 
+20  also cleaves Gasdermin D triggering pro-inflammatory lytic cell death, called pyroptosis (7–10). 
+We  wondered  whether  PIEZO-mediated  mechanotransduction  alters  NLRP3  inflammasome 
+activation. To this end, we used Yoda1, a PIEZO1 agonist (12), and THP-1 cells, a human acute 
+leukemia monocytic cell line widely used for assessing NLRP3 inflammasome activation. THP-1 
+cells in suspension were primed with LPS and exposed to nigericin to activate the NLRP3 
+25  inflammasome in absence or presence of Yoda1. Yoda1 significantly enhanced susceptibility of 
+THP-1 cells to nigericin-induced NLRP3 inflammasome activation as evidenced by increased 
+amounts of cleaved and secreted IL-1β and Caspase-1 in supernatants measured by ELISA and/or 
+Western blotting (Fig. 1, A and 1B) and enhanced pyroptosis determined by Sytox Green uptake 
+(Fig. 1C). Nigericin induces NLRP3 inflammasome activation in a potassium efflux-dependent 
+30  manner (13), we thus wondered if it was the same with potassium efflux-independent activators, 
+imiquimod R837 and its derivative CL097 (14). Yoda1 also dramatically lowered the threshold of 
+NLRP3 inflammasome activation in response to R837 or its derivative CL097 (fig. S1, A-F). No 
+induction of pyroptosis was observed in NLRP3 knockout (KO) THP-1 cells (Fig. 1C and fig. S1C, 
+S1F) confirming that Yoda1-induced potentiation was NLRP3-dependent. The release of cleaved 
+35  IL-1β and Caspase-1 in response to LPS plus nigericin, R837 or CL097 were also markedly 
+enhanced in Yoda1-stimulated murine bone marrow-derived macrophages (BMDMs) as compared 
+to control-treated cells (fig. S1, G-L). In line with previous study (4), Yoda1 treatment also slightly 
+enhanced the production of TNFα, which is not directly linked to inflammasome activation. 
+Formation of ASC specks is a hallmark of cells in which the NLRP3 inflammasome is activated 
+40  (15). LPS-primed BMDMs stimulated with nigericin (Fig. 1D), R837 (fig. S1, M and N) or CL097 
+(fig. S1, M and N) showed significantly enhanced cell numbers containing ASC specks when co-
+treated with Yoda1 as compared to cells without Yoda1 treatment. Yoda1 had no such effect on 
+activation of the AIM2-, or pyrin inflammasome (fig. S2, A and B). 
+To confirm that the effect of Yoda1 on NLRP3 inflammasome activation was PIEZO-dependent, 
+45  we next generated PIEZO1 KO, PIEZO2 KO and PIEZO1/2 double knockout (dKO) THP-1 cells 
+using CRISPR/Cas9-mediated gene editing. Deletion of either gene in THP1 cells was confirmed 
+2 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531717; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-ND 4.0 International license.
+using Sanger sequencing (fig. S3, A-C). Yoda1-induced potentiation of inflammasome activation 
+in response to nigericin (fig. S4, A-C), R837 (fig. S4, D-F) or CL097 (fig. S4, G-I) was abolished 
+in PIEZO1 KO and PIEZO1/2 dKO cells but not in PIEZO2 KO cells, confirming that effects of 
+Yoda1 occur through PIEZO1 activation. Deletion of both PIEZO1 and PIEZO2 did not affect 
+5  canonical inflammasome activation in response to nigericin, R837 or CL097 in the absence of 
+Yoda1 (fig. S5, A-I). Re-expression of PIEZO1 in PIEZO1 KO THP-1 cells restored the increased 
+sensitivity to inflammasome activation in response to nigericin (Fig. 1, F-H), R837 (fig. S6, A-C) 
+or CL097 (fig. S6, D-F). We next generated wild type (WT) and NLRP3 KO THP-1 cells 
+ectopically expressing PIEZO1. In WT cells ectopically expressing PIEZO1, Yoda1 was sufficient 
+10  to trigger cleavage and secretion of IL-1β and Caspase-1 as well as pyroptosis; while Yoda1 didn’t 
+show such effects in NLRP3 KO cells ectopically expressing PIEZO1 (fig. S7, A-C). 
+PIEZO1 senses microenvironmental stiffness modulating macrophage function (3–5). THP-1 cells 
+cultured on stiff substrates secreted more IL-1β than cells cultured on soft substrates in response 
+to nigericin and R837 (Fig. 1I). Deletion of PIEZO1 and PIEZO2 attenuated the secretion of IL-
+15  1β triggered by nigericin and R837 in cells cultured on stiff substrates (Fig. 1I). A reduction of 
+secretion of IL-1β was also observed in PIEZO1/2 dKO cells cultured on soft substrates (Fig. 1I). 
+Our data thus demonstrate that PIEZO1 activation or PIEZO protein-mediated stiffness-sensing 
+lowers the threshold for NLRP3 inflammasome activation. 
+Activation of PIEZO channels evoke cellular Ca2+ influx (16). We thus monitored cytosolic Ca2+ 
+20  level  using  a  genetically-encoded  fluorescent  Ca2+  indicator,  jGCaMP7S  (17),  in  WT  and 
+PIEZO1/2 dKO THP-1 cells treated with R837 in absence or presence of Yoda1. Increase of 
+cytosolic Ca2+ levels occurred in presence of Yoda1 in WT cells but not when treated with R837 
+alone (fig. S8A). In contrast, cells lacking PEIZO1 and PIEZO2 did not show obvious increase of 
+cytosolic Ca2+ in response to Yoda1 or R837 plus Yoda1 (fig. S8A). We then asked whether 
+25  potentiation of NLRP3 inflammasome activation by Yoda1 was Ca2+ influx-dependent. To this 
+end, we compared the effect of Yoda1 in THP-1 cells treated in culture medium with or without 
+Ca2+. Indeed, enhanced IL-1β and Caspase-1 release and pyroptosis in presence of Yoda1 in R837 
+and CL097-treated cells were significantly decreased when cells were treated in Ca2+-free medium 
+as  compared  to  cells  treated  in  Ca2+-containing  medium  (fig.  S8,  B-G).  Thus,  Ca2+  influx 
+30  contributes to PIEZO1-mediated potentiation of NLRP3 inflammasome activation. 
+What is the mechanism by which PIEZO1-mediated Ca2+ influx amplifies NLRP3 inflammasome 
+activation? To address this question, we have chosen to perform a genome-wide CRISPR/Cas9-
+mediated knockout screen in THP-1 cells stably expressing Cas9 using the human CRISPR 
+Brunello lentiviral pooled sgRNA library (18). We used R837 to induce NLRP3 inflammasome 
+35  activation  to  set  up  this  screen.  To  obtain  hits  specifically  related  to  PIEZO1-dependent 
+mechanisms of inflammasome activation, we have chosen a R837 concentration in which co-
+treatment with R837 and Yoda1 led to approximately 85% cell death, while stimulation with R837 
+alone resulted in basic level (10 to 15%) of cell death. R837 plus Yoda1-induced cell death was 
+applied twice to ensure maximal elimination of Yoda1-sensitive cells. For the assessment of 
+40  enrichment of sgRNAs, co-treated cells were compared to vehicle control-treated cells (Fig. 2A). 
+In this screen, NLRP3, ASC (PYCARD) and PIEZO1 were identified as top hits as expected. In 
+addition, ATP11A and CDC50A (TMEM30A), which were reported to directly mediate PIEZO1 
+activation on membranes (19), were also identified. Very intriguingly, KCNN4, a calcium-
+activated potassium channel which was reported to act downstream of PIEZO1 in red blood cell 
+45  (20), was the first-ranked hit. We further validated the involvement of KCNN4 in this context 
+using both genetical and pharmacological approaches. Deletion of KCNN4 using CRISPR/Cas9-
+3 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531717; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-ND 4.0 International license.
+mediated gene editing in THP-1 cells (fig. S9) attenuated the enhancing effect of Yoda1 on R837-
+induced pyroptosis, cleavage and secretion of IL-1β and Caspase-1 (Fig. 2, B-D and fig. S10, A-
+C). Re-expression of EGFP-tagged KCNN4 restored the enhancing effect of Yoda1 on NLRP3 
+inflammasome activation in KCNN4 KO cells (Fig. 2, B-D). In line with previous results obtained 
+5  in PIEOZ1/2 dKO cells, deletion of KCNN4 didn’t affect NLRP3 inflammasome activation 
+induced by nigericin, R837 or CL097 alone (fig. S11, A-F). Consistently, pharmacological 
+inhibition of KCNN4 by TRAM-34 (21) similarly inhibited pyroptosis, cleavage and secretion of 
+IL-1β and Caspase-1 induced by R837 plus Yoda1 in THP-1 cells (fig. S12, C-E). Similar results 
+were also obtained in BMDMs (fig. S11, F and G). To further consolidate the role of KCNN4-
+10  mediated potassium efflux mediating the effect of Yoda1 on NLRP3 inflammasome activation, we 
+blocked potassium efflux by increasing extracellular potassium concentrations and assessed its 
+effect on NLRP3 inflammasome activation. In line with previous studies (13, 14, 22), increasing 
+extracellular  potassium  concentrations  completely  blocked  nigericin-induced,  but  not  R837-
+induced pyroptosis, cleavage and secretion of IL-1β and Caspase-1 (Fig. 2, E-G and fig. S12A, 
+15  S12B). However, increasing extracellular potassium concentrations completely blocked enhancing 
+effects of Yoda1 on R837-induced NLRP3 inflammasome activation (Fig. 2, E-G and fig. S12, C-
+G). These results suggest that potassium efflux via KCNN4 mediates the enhancing effect of 
+PIEZO1 activation on NLRP3 inflammasome activation. 
+In CAPS patients, auto-activation of NLRP3 inflammasome occurs in absence of infection or 
+20  tissue injury (11). However, inflammation occurs at sites of mechanical impact and in response to 
+cold exposure (11). We thus asked whether PIEZO-dependent mechanotransduction was important 
+in triggering auto-activation of the NLRP3 inflammasome in CAPS patients. To this end, we 
+expressed three CAPS-causing NLRP3 (mouse) mutants, D301N, T346M and R258W, in NLRP3-
+deficient THP-1 cells. NLRP3-deficient cells expressing WT NLRP3 or GFP and WT cells 
+25  expressing GFP were used as controls. Expression of NLRP3 and GFP was confirmed by Western 
+blotting (fig. S13B). Pyroptotic cell death was determined by propidium iodide incorporation. In 
+line with previous studies (23–26), cells expressing CAPS-causing NLRP3 mutants displayed 
+significantly enhanced pyroptosis in response to LPS alone as compared to control-treated cells 
+and LPS-treated control cells (fig. S13A). Importantly, Yoda1 stimulation was sufficient to induce 
+30  pyroptosis in CAPS-causing NLRP3 mutants expressing cells as compared to control-treated cells 
+(Fig. S13A). Similar to LPS treatment, Yoda1 had only minor effects on induction of pyroptosis 
+in control cells (fig. S13, A and B). We next expressed GFP, WT NLRP3 and CAPS-causing 
+NLRP3  mutants in WT, PIEZO1  KO,  PIEZO2 KO and  PIEZO1/2 dKO  THP-1 cells. The 
+expression of NLRP3 and GFP was confirmed by Western blotting (fig. S13C). LPS-induced 
+35  pyroptosis in cells expressing CAPS-causing NLRP3 mutants was not dependent on PIEZO1 or 
+PIEZO2 as the response was unaltered in PIEZO1 KO, PIEZO2 KO and PIEZO1/2 dKO cells (fig. 
+S13D). However, Yoda1-induced pyroptosis in cells expressing CAPS-causing NLRP3 mutants 
+depended on PIEZO1 expression (Fig. 3A). We further tested whether PIEZO1-dependent activity 
+was KCNN4-dependent. Indeed, inhibition of KCNN4 dramatically inhibited Yoda1-induced 
+40  inflammasome activation in these cells (Fig. 3, B and C). Mice carrying the NLRP3A350V mutation 
+develop CAPS-like symptoms (24). To test whether activation of PIEZO1 is sufficient to activate 
+inflammasome  in  cells  endogenously  expressing  a  CAPS-causing  NLRP3  mutant,  liver 
+macrophages were isolated from these mice. Cells were primed with low dose of LPS to ensure 
+the expression of NLRP3 and IL-1β and further treated with Yoda1. Low dose of LPS induced 
+45  moderate secretion of IL-1β as expected (Fig. 3D). Treatment of Yoda1 potentiated secretion of 
+IL-1β, while no IL-1β was detected in control cells under tested conditions (Fig. 3D). Importantly, 
+4 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531717; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-ND 4.0 International license.
+inhibition of KCNN4 attenuated Yoda1-induced inflammasome activation in these cells (Fig. 3D). 
+Thus,  activation  of  PIEZO1  by  Yoda1  is  sufficient  to  activate  the  inflammasome  in  cells 
+expressing CAPS-causing NLRP3 mutants. Altogether, our results suggest that KCNN4 acts 
+downstream of PIEZO1-induced Ca2+ influx to promote NLRP3 inflammasome activation, a 
+5  mechanism that may contribute to environmental effects on severity of CAPS. 
+Immune cells including macrophages are constantly exposed to microenvironmental changes, such 
+as  shear  stress  in  the  circulation  during  extravasation,  membrane  reorganization  during 
+transmigration, hydrostatic pressure in blood vessels, lung and heart (27). These changes redirect 
+their responses to physiological and pathological cues (27). The NLRP3 inflammasome plays 
+10  critical roles in innate immune responses detecting various endogenous and exogenous danger 
+signals.  In  this  study,  we  have  provided  a  direct  link  between  PIEZO  protein-mediated 
+mechanosensing and NLRP3 inflammasome-dependent immune response. Activation of PIEZO1 
+lowers the threshold of NLRP3 inflammasome activation in presence of its activators. However, 
+activation of PIEZO1 by Yoda1 is not sufficient to activate NLRP3 inflammasome in wild type 
+15  THP-1 cells and BMDMs. However, boosting PIEZO1-signalling by overexpressing PIEZO1 and 
+subsequent Yoda1 treatment was sufficient to activate NLRP3 inflammasome. Persistence of 
+mechanical cues are therefore likely to boost NLRP3-mediated inflammatory response in vivo. We 
+identified KCNN4 to act downstream of PIEZO protein-mediated calcium influx and to promote 
+NLRP3 inflammasome. Several studies have shown that intracellular Ca2+ signaling is involved in 
+20  NLRP3 inflammasome activation (28–30). But the mechanism underlying remained unclear. 
+KCNN4 represents a valid link between Ca2+ signaling and potassium efflux, the latter constituting 
+an established prerequisite in NLRP3 inflammasome activation in response to most stimuli. In 
+CAPS patients, inflammation is often more prominent in eyes, joints and bones, sites harboring 
+movement-associated  mechanical  properties.  Moreover,  urticaria  seen  in  CAPS  patients  is 
+25  frequently cold-induced. In this study, we discovered that PIEZO1 signaling is sufficient to 
+activate the NLRP3 inflammasome in cells expressing CAPS-causing NLRP3 mutants. Thus, 
+targeting of this pathway may provide a novel therapeutic strategy for treatment of CAPS patients 
+and potentially other NLRP3-related inflammatory diseases. 
+ 
+30  References: 
+1.   R. Medzhitov, Recognition of microorganisms and activation of the immune response. 
+Nature. 449, 819–826 (2007). 
+2.   S. W. Brubaker, K. S. Bonham, I. Zanoni, J. C. Kagan, Innate immune pattern recognition: 
+a cell biological perspective. Annu Rev Immunol. 33, 257–290 (2015). 
+35  3.   A. G. Solis, P. Bielecki, H. R. Steach, L. Sharma, C. C. D. Harman, S. Yun, M. R. de Zoete, 
+J. N. Warnock, S. D. F. To, A. G. York, M. Mack, M. A. Schwartz, C. S. Dela Cruz, N. W. 
+Palm, R. Jackson, R. A. Flavell, Mechanosensation of cyclical force by PIEZO1 is essential 
+for innate immunity. Nature. 573, 69–74 (2019). 
+4.   H. Atcha, A. Jairaman, J. R. Holt, V. S. Meli, R. R. Nagalla, P. K. Veerasubramanian, K. T. 
+40  Brumm, H. E. Lim, S. Othy, M. D. Cahalan, M. M. Pathak, W. F. Liu, Mechanically 
+activated ion channel Piezo1 modulates macrophage polarization and stiffness sensing. Nat 
+Commun. 12, 3256 (2021). 
+5 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531717; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-ND 4.0 International license.
+5.   J. Geng, Y. Shi, J. Zhang, B. Yang, P. Wang, W. Yuan, H. Zhao, J. Li, F. Qin, L. Hong, C. 
+Xie, X. Deng, Y. Sun, C. Wu, L. Chen, D. Zhou, TLR4 signalling via Piezo1 engages and 
+enhances the macrophage mediated host response during bacterial infection. Nat Commun. 
+12, 3519 (2021). 
+5  6.   H. Du, J. M. Bartleson, S. Butenko, V. Alonso, W. F. Liu, D. A. Winer, M. J. Butte, Tuning 
+immunity through tissue mechanotransduction. Nat Rev Immunol (2022), 
+doi:10.1038/s41577-022-00761-w. 
+7.   E. Latz, T. S. Xiao, A. Stutz, Activation and regulation of the inflammasomes. Nat Rev 
+Immunol. 13, 397–411 (2013). 
+10  8.   V. A. K. Rathinam, K. A. Fitzgerald, Inflammasome Complexes: Emerging Mechanisms 
+and Effector Functions. Cell. 165, 792–800 (2016). 
+9.   S. Christgen, T.-D. Kanneganti, Inflammasomes and the fine line between defense and 
+disease. Curr Opin Immunol. 62, 39–44 (2020). 
+10.   P. Broz, V. M. Dixit, Inflammasomes: mechanism of assembly, regulation and signalling. 
+15  Nat Rev Immunol. 16, 407–420 (2016). 
+11.   L. M. Booshehri, H. M. Hoffman, CAPS and NLRP3. J Clin Immunol. 39, 277–286 (2019). 
+12.   R. Syeda, J. Xu, A. E. Dubin, B. Coste, J. Mathur, T. Huynh, J. Matzen, J. Lao, D. C. Tully, 
+I. H. Engels, H. M. Petrassi, A. M. Schumacher, M. Montal, M. Bandell, A. Patapoutian, 
+Chemical activation of the mechanotransduction channel Piezo1. Elife. 4 (2015), 
+20  doi:10.7554/eLife.07369. 
+13.   R. Muñoz-Planillo, P. Kuffa, G. Martínez-Colón, B. L. Smith, T. M. Rajendiran, G. Núñez, 
+K+ efflux is the common trigger of NLRP3 inflammasome activation by bacterial toxins and 
+particulate matter. Immunity. 38, 1142–1153 (2013). 
+14.   C. J. Groß, R. Mishra, K. S. Schneider, G. Médard, J. Wettmarshausen, D. C. Dittlein, H. 
+25  Shi, O. Gorka, P.-A. Koenig, S. Fromm, G. Magnani, T. Ćiković, L. Hartjes, J. Smollich, A. 
+A. B. Robertson, M. A. Cooper, M. Schmidt-Supprian, M. Schuster, K. Schroder, P. Broz, 
+C. Traidl-Hoffmann, B. Beutler, B. Kuster, J. Ruland, S. Schneider, F. Perocchi, O. Groß, 
+K+ Efflux-Independent NLRP3 Inflammasome Activation by Small Molecules Targeting 
+Mitochondria. Immunity. 45, 761–773 (2016). 
+30  15.   A. Stutz, G. L. Horvath, B. G. Monks, E. Latz, ASC speck formation as a readout for 
+inflammasome activation. Methods Mol Biol. 1040, 91–101 (2013). 
+16.   B. Coste, J. Mathur, M. Schmidt, T. J. Earley, S. Ranade, M. J. Petrus, A. E. Dubin, A. 
+Patapoutian, Piezo1 and Piezo2 are essential components of distinct mechanically activated 
+cation channels. Science. 330, 55–60 (2010). 
+35  17.   H. Dana, Y. Sun, B. Mohar, B. K. Hulse, A. M. Kerlin, J. P. Hasseman, G. Tsegaye, A. 
+Tsang, A. Wong, R. Patel, J. J. Macklin, Y. Chen, A. Konnerth, V. Jayaraman, L. L. 
+6 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531717; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-ND 4.0 International license.
+Looger, E. R. Schreiter, K. Svoboda, D. S. Kim, High-performance calcium sensors for 
+imaging activity in neuronal populations and microcompartments. Nat Methods. 16, 649–
+657 (2019). 
+18.   J. G. Doench, N. Fusi, M. Sullender, M. Hegde, E. W. Vaimberg, K. F. Donovan, I. Smith, 
+5  Z. Tothova, C. Wilen, R. Orchard, H. W. Virgin, J. Listgarten, D. E. Root, Optimized 
+sgRNA design to maximize activity and minimize off-target effects of CRISPR-Cas9. Nat 
+Biotechnol. 34, 184–191 (2016). 
+19.   M. Tsuchiya, Y. Hara, M. Okuda, K. Itoh, R. Nishioka, A. Shiomi, K. Nagao, M. Mori, Y. 
+Mori, J. Ikenouchi, R. Suzuki, M. Tanaka, T. Ohwada, J. Aoki, M. Kanagawa, T. Toda, Y. 
+10  Nagata, R. Matsuda, Y. Takayama, M. Tominaga, M. Umeda, Cell surface flip-flop of 
+phosphatidylserine is critical for PIEZO1-mediated myotube formation. Nat Commun. 9, 
+2049 (2018). 
+20.   S. M. Cahalan, V. Lukacs, S. S. Ranade, S. Chien, M. Bandell, A. Patapoutian, Piezo1 links 
+mechanical forces to red blood cell volume. Elife. 4 (2015), doi:10.7554/eLife.07370. 
+15  21.   H. Wulff, M. J. Miller, W. Hansel, S. Grissmer, M. D. Cahalan, K. G. Chandy, Design of a 
+potent and selective inhibitor of the intermediate-conductance Ca2+-activated K+ channel, 
+IKCa1: a potential immunosuppressant. Proc Natl Acad Sci U S A. 97, 8151–8156 (2000). 
+22.   V. Pétrilli, S. Papin, C. Dostert, A. Mayor, F. Martinon, J. Tschopp, Activation of the 
+NALP3 inflammasome is triggered by low intracellular potassium concentration. Cell 
+20  Death Differ. 14, 1583–1589 (2007). 
+23.   I. Aksentijevich, C. D. Putnam, E. F. Remmers, J. L. Mueller, J. Le, R. D. Kolodner, Z. 
+Moak, M. Chuang, F. Austin, R. Goldbach-Mansky, H. M. Hoffman, D. L. Kastner, The 
+clinical continuum of cryopyrinopathies: novel CIAS1 mutations in North American 
+patients and a new cryopyrin model. Arthritis Rheum. 56, 1273–1285 (2007). 
+25  24.   S. D. Brydges, J. L. Mueller, M. D. McGeough, C. A. Pena, A. Misaghi, C. Gandhi, C. D. 
+Putnam, D. L. Boyle, G. S. Firestein, A. A. Horner, P. Soroosh, W. T. Watford, J. J. 
+O’Shea, D. L. Kastner, H. M. Hoffman, Inflammasome-mediated disease animal models 
+reveal roles for innate but not adaptive immunity. Immunity. 30, 875–887 (2009). 
+25.   Y. Nakamura, L. Franchi, N. Kambe, G. Meng, W. Strober, G. Núñez, Critical role for mast 
+30  cells in interleukin-1β-driven skin inflammation associated with an activating mutation in 
+the nlrp3 protein. Immunity. 37, 85–95 (2012). 
+26.   Z. Zhang, G. Meszaros, W.-T. He, Y. Xu, H. de Fatima Magliarelli, L. Mailly, M. Mihlan, 
+Y. Liu, M. Puig Gámez, A. Goginashvili, A. Pasquier, O. Bielska, B. Neven, P. Quartier, R. 
+Aebersold, T. F. Baumert, P. Georgel, J. Han, R. Ricci, Protein kinase D at the Golgi 
+35  controls NLRP3 inflammasome activation. J Exp Med. 214, 2671–2693 (2017). 
+27.   M. Huse, Mechanical forces in the immune system. Nat Rev Immunol. 17, 679–690 (2017). 
+7 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531717; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-ND 4.0 International license.
+28.   G.-S. Lee, N. Subramanian, A. I. Kim, I. Aksentijevich, R. Goldbach-Mansky, D. B. Sacks, 
+R. N. Germain, D. L. Kastner, J. J. Chae, The calcium-sensing receptor regulates the 
+NLRP3 inflammasome through Ca2+ and cAMP. Nature. 492, 123–127 (2012). 
+29.   M. Rossol, M. Pierer, N. Raulien, D. Quandt, U. Meusch, K. Rothe, K. Schubert, T. 
+5  Schöneberg, M. Schaefer, U. Krügel, S. Smajilovic, H. Bräuner-Osborne, C. Baerwald, U. 
+Wagner, Extracellular Ca2+ is a danger signal activating the NLRP3 inflammasome 
+through G protein-coupled calcium sensing receptors. Nat Commun. 3, 1329 (2012). 
+30.   T. Murakami, J. Ockinger, J. Yu, V. Byles, A. McColl, A. M. Hofer, T. Horng, Critical role 
+for calcium mobilization in activation of the NLRP3 inflammasome. Proc Natl Acad Sci U 
+10  S A. 109, 11282–11287 (2012). 
+ 
+Acknowledgments: We thank all the membranes in Ricci’s laboratory for scientific inputs. We 
+also thank the facilities at IGBMC, including cell cytometry facility, cell culture facility, imaging 
+facility and animal facility, for their technique help during the whole study.  
+15  Funding: Work in the laboratory of R.R. was supported by the Agence Nationale de la Recherche 
+(ANR) (AAPG 2017 LYSODIABETES), by the USIAS fellowship grant 2017 of the University 
+of  Strasbourg,  by  the  Fondation  de  Recherche  Médicale  (FRM)  -  Program:  Equipe  FRM 
+(EQU201903007859, Prix Roger PROPICE pour la recherche sur le cancer du pancréas) and by 
+the ANR-10-LABX-0030-INRT grant as well as the ANR-11-INBS-0009-INGESTEM grant, both 
+20  French State funds managed by the ANR under the frame program Investissements d’Avenir; L.R. 
+was supported by the China Scholarship Council (CSC). 
+Author contributions: Conceptualization, Z.Z. and R.R.; Methodology, Z.Z., L.R. and T.Y.; 
+Investigation,  Z.Z.  and  L.R.;  Writing  –  Review  &  Editing,  R.R.,  Z.Z.  and  L.R.;  Funding 
+Acquisition, R.R.; Resources, Z.Z., L.R. and E.E.; Supervision, Z.Z. and R.R.. 
+25  Competing interests: Authors declare no competing interests.  
+Data and materials availability: All data is available in the main text or the supplementary 
+materials.  
+Supplementary Materials: 
+Materials and Methods 
+30  Figures S1-S13 
+ 
+ 
+8 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531717; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-ND 4.0 International license.
+ 
+ 
+Materials and Methods 
+ 
+Mice 
+Nlrp3A350VneoR mice were obtained from The Jackson Laboratory and crossed with LysM-Cre mice 
+to obtain mice with myeloid-specific expression of NLRP3A350V. Mice were housed under specific 
+pathogen-free conditions with controlled temperature (19-23°C) and humidity (50-60%) on a 12-
+h light/dark cycle with unrestricted access to water and standard laboratory chow. Maintenance 
+and animal experimentation were in accordance with the local ethical committee (Com’Eth) in 
+compliance with the European legislation on care and use of laboratory animals (La cellule AFiS 
+(Animaux  utilisés  à  des  Fins  Scientifiques):  APAFIS#36729-2022041911158105  v2).  No 
+exclusion of animals used for experiments was performed. Littermates were chosen randomly 
+according to their genotypes. 
+Reagents 
+Imiquimod (R837) (tlrl-imq), CL097 (tlrl-c97) and MCC950 (inh-mcc) were purchased from 
+InvivoGen. Nigericin sodium salt (N7143), Propidium Iodide (P4170), Lipopolysaccharides from 
+Escherichia coli 055: B5 (L2880) and Phorbol 12-myristate 13-acetate (PMA) (P1585) were 
+obtained from Sigma-Aldrich. Yoda1 (5586) and TRAM34 (2946) were purchased from Bio-
+techne. Sytox™ Green Nucleic Acid Stain (S7020) was purchased from Thermo Fisher Scientific. 
+Human  macrophage-colony  stimulating  factor  (hM-CSF)  (11343117)  was  obtained  from 
+Immunotools. Anti-Caspase1 (p20) (human) antibody (AG-20B-0048-C100), anti-Caspase1 (p20) 
+(mouse) antibody (AG-20B-0042), anti-NLRP3 antibody (AG-20B-0014-C100) were purchased 
+from AdipoGen. Anti-human IL-1β antibody (AF-201-NA) was from R&D Systems. Anti-murine 
+IL-1β antibody (5129-100) was from BioVision. Anti-tubulin (T5168) was from Sigma-Aldrich. 
+1 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531717; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-ND 4.0 International license.
+ 
+ 
+Anti-GFP antibody (ab13970) was obtained from Abcam. Anti-ASC antibody (sc-22514) was 
+obtained from Santa Cruz Biotechnology. 
+Plasmids 
+The pX330-P2A-EGFP and pX330-P2A-RFP plasmid was previously generated by inserting P2A-
+GFP and P2A-RFP sequence into pX330-U6-Chimeric_BB-CBh-hSpCas9 (26). KCNN4 CDS 
+was amplified from THP-1 cDNA by PCR. KCNN4 fused with EGFP was cloned into pBOB 
+plasmid using ligation-independent cloning (LIC). Calcium reporter jGCaMP7s sequence was 
+amplified from pGP-CMV-jGCaMP7s (104463, Addgene) and cloned into pBOB plasmid by LIC. 
+C-terminal EGFP-tagged CAPS-causing mouse Nlrp3 mutants R258W, D301N and T346M were 
+cloned into pBOB plasmid by LIC. Mouse Piezo1 CDS was amplified from a gift plasmid from 
+Prof. Ardem Patapoutian and cloned into pBOB plasmid by LIC. The primers used are listed 
+below: 
+Name  Sequences 
+pBOB mPiezo1 CDS-F  5’ATGGAGCCGCACGTGCTGGGCGCCGGGC3’ 
+pBOB mPiezo1 CDS-R  5’CTACTCCCTCTCACGTGTCCACTTA 3’ 
+PBOB KCNN4-EGFP F1  5’ATGGGCGGGGATCTGGTGCTTGGC 3’ 
+5’TCCTCGCCCTTGCTCACCATCTTGGACTGCTGGC
+PBOB KCNN4-EGFP R1 
+TGGGTTCTGGA 3’ 
+5’AACCCAGCCAGCAGTCCAAGATGGTGAGCAAGG
+PBOB KCNN4-EGFP F2 
+GCGAGGAGCTGT 3’ 
+PBOB KCNN4-EGFP R2  5’CTACTTGTACAGCTCGTCCATGCCG 3’ 
+pBOB-jGCaMP7s-F  5’ATGGGTTCTCATCATCATCATCATC 3’ 
+pBOB-jGCaMP7s-R  5’TTACTTCGCTGTCATCATTTGTACA 3’ 
+mNlrp3 R258W-F  5’TATCCACTGCTGGGAGGTGAGCCTC 3’ 
+mNlrp3 R258W-R  5’GAGGCTCACCTCCCAGCAGTGGATA 3’ 
+mNlrp3 D301N-F  5’TGGATGGCTTTAATGAGCTACAAGG 3’ 
+mNlrp3 D301N-R  5’CCTTGTAGCTCATTAAAGCCATCCA 3’ 
+mNlrp3 T346M-F  5’CTGCTCATAACGATGAGGCCGGTAG 3’ 
+mNlrp3 T346M-R  5’CTACCGGCCTCATCGTTATGAGCAG 3’ 
+ 
+Generation of knockout cell lines using CRISPR/Cas9-mediated gene editing 
+2 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531717; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-ND 4.0 International license.
+ 
+ 
+For the generation of PIEZO1 KO, PIEZO2 KO, PIEZO1/2 double knockout (dKO) and KCNN4 
+KO THP-1 cell lines, two sgRNAs (sgRNA 1 and sgRNA 2) for each gene were designed and 
+cloned into pX330-P2A-EGFP or pX330-P2A-RFP, respectively, using T4 ligation. THP-1 cells 
+were transfected with mixture of two sgRNAs-expressing plasmids (0.5 µg each) using X-
+tremeGENE 9 according to the manufacturer’s manual. 24 h after transfection, GFP and RFP 
+double-positive cells were sorted and collected using BD FACS Aria™ III Cell Sorter. Single cell 
+colonies were obtained by seeding into 96-well plates via series of dilution. The sequences of 
+sgRNAs are listed below: 
+Name  Sequences 
+hPIEZO1 sgRNA 1  5' CACCAAGATGCCCAGGTCAG 3' 
+hPIEZO1 sgRNA 2  5' CCCGGCAGAGCCCACATCCA 3' 
+hPEZIO2 sgRNA 1  5' TATGAAGAGGATTTCAATGG 3' 
+hPIEZO2 sgRNA 2  5' AACAACGACTTTCCCAGCAG 3' 
+hKCNN4 sgRNA 1  5' TTCGGCGTCTCAAGGCCCCC 3' 
+hKCNN4 sgRNA 2  5' CAGAGATGCTGTGGTTCGGG 3' 
+ 
+Validation of obtained THP-1 knockout cell lines by Sanger sequencing 
+For the validation of PIEZO1 KO, PIEZO2 KO, PIEZO1/2 dKO, KCNN4 KO THP-1 clones, 
+genomic fragments containing sgRNA targeting sites were amplified by PCR and cloned into 
+pUC57 plasmid using LIC. After transformation of E.coli competent cells, plasmids were purified 
+from at least 6 bacteria colonies and subjected to Sanger sequencing. Obtained sequences were 
+aligned to reference sequence to determine the insertion/deletion. The primers used are listed 
+below: 
+Name  Sequences 
+PIEZO1 KO GT-F  5' CCTGTCCTCTTGGTCTGACCGCGGC 3' 
+PIEZO1 KO GT-R  5' CCATGTCGGGGCGTGGAGGTTTCTG 3' 
+PIEZO2 KO GT-F  5' CTGGTTGTCTTCCCTTTTTTCCTGA 3' 
+PIEZO2 KO GT-R  5' AACCTAGAAAATGGAGTCGCTTAGC 3' 
+3 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531717; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-ND 4.0 International license.
+ 
+ 
+KCNN4 KO GT-F  5' TGCCCCAAGACACACCCTAGCCCCT 3' 
+KCNN4 KO GT-R  5' CAAGTCCCCAGTCCCTCCTCCCTCA 3' 
+ 
+Cell culture  
+THP-1, mouse primary bone marrow-derived macrophages (BMDMs) and HEK293t cell lines 
+were cultured at 37°C with 5% CO2. THP-1 cells were grown in RPMI 1640 supplement with 
+10 mM HEPES, 10% fetal calf serum (FCS), 2.5 g/l glucose, 1 mM sodium pyruvate, gentamycin 
+and 50 µM β-mercaptoethanol. HEK293t cells were grown in DMEM (1 g/ml glucose) supplement 
+with 10% fetal calf serum, penicillin and streptomycin. BMDMs were differentiated from bone 
+marrow progenitors isolated from the tibia and femur in DMEM (4,5g/l glucose) supplement with 
+50 ng/ml recombinant hM-CSF, 10% heat-inactivated fetal calf serum, penicillin and streptomycin 
+for 7 days. For treatment of cells, BMDMs and THP-1 cells were primed with 1 µg/mL LPS for 
+3 h, followed by the treatment of nigericin, Imiquimod and CL097 in presence or absence of 25 µM 
+Yoda1. For treatment of inhibitor, cells were pretreated with inhibitor for 45 min and followed by 
+stimulation in presence of inhibitor. To assess the involvement of K+ efflux, LPS-primed cells 
+were treated with NLRP3 inflammasome activator in the culture medium supplemented with 5 
+mM, 15 mM, 25 mM, or 35 mM KCl. For the experiments with calcium-free medium, BMDMs 
+and THP-1 cells were primed with 1 µg/mL LPS for 3h in DMEM (4,5g/l glucose) containing 10% 
+FCS, cells were washed once with PBS before treatment with nigericin, R837 or CL097 in DMEM 
+(4,5g/l  glucose)  without  calcium  containing  10%  dialyzed  FCS.  For  the  stiffness-related 
+experiments, cells seeded on silicone gels of 0.2 Kpa and 64 Kpa (5165-5EA and 5145-5EA, 
+Sigma-Aldrich) with culture medium containing 100 nM PMA for 3 h, followed by replacement 
+of fresh medium and incubation at 37 ℃ overnight. On the next day, cells were treated with 
+nigericin or R837. 
+4 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531717; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-ND 4.0 International license.
+ 
+ 
+Immunoblotting 
+Both cell lysates and culture supernatants were subjected to immunoblotting. For cell lysates, cells 
+were lysed on ice with 1× RIPA buffer (50 mM Tris-HCl pH 7.5, 150 mM NaCl, 1 mM EDTA, 1 
+mM EGTA, 1% Triton X-100, 1 mM NaVO4, 1.5 mM Sodium pyrophosphate, 1 mM NaF, 1 mM 
+β-Glycerophosphate)  supplemented  with  protease  inhibitor  cocktail.  The  immunoblot  was 
+prepared using Glycine SDS-PAGE gels. For the supernatants, the proteins were extracted using 
+methanol-chloroform precipitation protocol as previously described (26), separated by Tricine 
+SDS-PAGE  and  analyzed  by  immunoblotting.  The  PVDF  membranes  were  incubated  with 
+primary antibody at 4 °C overnight. After 3 times washes with TBS-T, membranes were incubated 
+with HRP-conjugated secondary antibody for 1 hour at RT. Membranes were again washed with 
+TBS-T  for  3  times  and  were  incubated  with  Immobilon  Forte  Western  HRP  substrate 
+(WBLUF0500, EMD Millipore Corporation). Images were captured using AI600 Imager from GE 
+Healthcare Life Science. 
+Flow cytometry 
+For analysis of lytic cell death, after treatments, THP-1 cells were spin down and resuspended in 
+cold PBS with 1 µM of Sytox Green or propidium iodide (PI). Sytox Green- or PI- positive cells 
+were analyzed by BD FACS Celesta™ Flow Cytometer. For cell sorting, THP-1 cells were spin 
+down and resuspended in cold PBS supplemented with 1% of fetal calf serum, followed by sorting 
+at sterile condition using BD FACS Aria™ III Cell Sorter in fresh medium for further culture. 
+Measurement cytokines using ELISA 
+IL-1β and TNFα levels in collected culture supernatants were determined by ELISA according to 
+the user’s manual. Human IL-1 beta/IL-1F2 DuoSet ELISA (DY201), mouse IL-1 beta/IL-1F2 
+DuoSet ELISA (DY401), human TNF-alpha DuoSet ELISA (DY210), mouse TNF-alpha DuoSet 
+5 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531717; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-ND 4.0 International license.
+ 
+ 
+ELISA (DY410) and DuoSet ELISA Ancillary Reagent Kit 2 (DY008) were purchased from R&D 
+system.  
+Immunofluorescence and live-video imaging 
+For  immunofluorescence,  cells  plated  on  coverslips  (12-mm)  were  fixed  with  4% 
+paraformaldehyde for 15 min at room temperature after treatments. Coverslips were washed three 
+times with PBS for 5 min each time and permeabilized with 0.1% saponin in PBS for 10 min, 
+followed by blocking in PBST (PBS plus 0.05% Tween-20) containing 0.5% BSA for 1 h. The 
+coverslips were further incubated with anti-ASC antibody (1/100 dilution) for 1 h at room 
+temperature, followed by incubation with the secondary for 1h at room temperature (avoid the 
+coverslips in direct light). After three times washing with PBST, cells were stained with DAPI and 
+mounted for further imaging. For live-video imaging, THP-1 WT and PIEZO1/2 dKO cells stably 
+expressing jGCaMP7S were seeded on µ-dish 35 mm high glass bottom (81158, Ibidi) in culture 
+medium  containing  100  nM  PMA  for  3 h,  followed  by  replacement  of  fresh  medium  and 
+incubation overnight. On the next day, cells were treated with R837, Yoda1 or R837 plus Yoda1. 
+The images were acquired using a Nikon spinning disk with an interval of 20s. Ionomycin was 
+added at ~16 min after treatment. Fluorescence intensities of individual cells over time were 
+quantified with Image J. 
+Lentivirus packaging and infection  
+The 3rd generation lentiviral vector system with three packaging helper plasmids (pVSVG, pMDL 
+and pREV) was used in this study. The lentivirus packaging was performed in HEK293t cells. 
+HEK293t cells were transfected with Lipofectamine 2000 according to the user’s manual. THP-1 
+cells (4.0 × 105 cells per well in 6-well plate) were infected in 1.5 mL lentivirus-contained culture 
+6 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531717; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-ND 4.0 International license.
+ 
+ 
+medium plus 1 mL fresh medium containing final concentration of 10 µg/mL polybrene. 48 hours 
+after viral infection, cells were used for further experiments. 
+Genome-wide CRISPR/Cas9-mediated knockout screen  
+The Brunello human genome-wide CRISPR/Cas9 knockout lentiviral library containing 76,441 
+sgRNAs systemically targeting 19,114 genes on human genome was used in this study. Briefly, 
+THP-1 cells stably expressing Cas9 protein were infected with the pooled Brunello lentivirus 
+library at ROI of 0.2. After puromycin selection for 3 days, cells were further expanded. To ensure 
+a representation of minimal 500 cells per sgRNA, at least 4.0×107 cells were used in each group. 
+An adequate number of cells were primed with LPS in suspension for 3 hours and treated with 
+vehicle (control group) or R837 plus Yoda1 (treated group). When pyroptotic cell death reached 
+~85% in the treated group, R837 and Yoda1 were washed out and the survivals were expanded. 
+When cell number reached 4.0 × 107 cells, these cells were repeatedly treated with R837 plus 
+Yoda1 to reach reached ~85% of pyroptotic cell death. R837 and Yoda1 were washed out and the 
+survivals were further expanded to reach 4.0 × 107 cells. Genomic DNA from both control- and 
+treated groups was isolated using the phenol/chloroform extraction method. Fragments containing 
+sgRNA were amplified from genomic DNA by PCR referring to the protocol from broad institute 
+GPP  Web  Protal  (https://portals.broadinstitute.org/gpp/public/resources/protocols).  PCR 
+fragments were cleaned up using NucleoSpin gel and PCR clean-up kit (740609.50, MACHEREY-
+NAGEL) according to the users’ manual and subjected to next generation sequencing (NGS). 
+Sequencing was performed on an Illumina HiSeq 4000 sequencer as 50 bp single end reads by the 
+GenomEast platform, a member of the ’France Genomique’ consortium (ANR-10-INBS-0009). 
+Image analysis and base calling were performed using RTA version 2.7.7 and bcl2fastq version 
+2.20.0.422. Sequencing reads were trimmed, aligned and counted using PinAPL-Py and guide 
+7 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531717; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-ND 4.0 International license.
+ 
+ 
+RNAs (Brunello library). The Matching Threshold for bowtie2 alignment was defined as 35. Data 
+were statistically analyzed using Model-based Analysis of Genome-wide CRISPR/Cas9 Knockout 
+(MAGeCK v0.5.9.3). The method ranks sgRNAs based on p-values calculated from the negative 
+binomial model, and uses a modified robust ranking aggregation (RRA) algorithm to identify 
+positively or negatively selected genes. Read counts were normalized by total number of reads. 
+Enrichment testing of paired samples was performed using the test function in MAGeCK with --
+paired option. Volcano plot was generated using ggplot package in R and significance was defined 
+as FDR < 0.05. 
+Statistical analysis 
+Preliminary experiments were performed and sample size was determined based on generally 
+accepted rules to test preliminary conclusions reaching statistical significance, where applicable. 
+For FACS experiments, the percentage of Sytox green-positive and PI-positive cells was provided. 
+For immunofluorescence experiments, a minimum of 150 cells were counted per condition, and 
+the percentage containing ASC specks cells was calculated. Values are presented by “Mean +/-
+SD”. Unless specified, statistical analyses were performed with the two tailed t-test using Prism 
+(GraphPad Software). Statistical significance was indicated using the following symbols: * p < 
+0.05, ** p < 0.01 and *** p < 0.001.  
+ 
+8 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531717; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-ND 4.0 International license.
+A D F
+**
+*** DMSO Yoda1 0.8 ***
+3
+g/ml)2 Control ng/ml)00..46 ******
+β (n 1β (
+IL-101 NDND gericin IL-0.02 ND- - + -ND- + ND- -+ Yoda1
+-+ -+ Yoda1 Ni - ++ - ++ -++ Ni
+- - ++ Ni e.v. e.v. Piezo1
+DAPI ASC
+WT PIEZO1 KO
+B E G
+%)  WT PIEZO1 KO
+-- +- +- ++ YNoida1 ells (60 - e+.v.+ - e+.v.+ -Pie+zo1+ Ni
+c
+p IL-1β p17 ng 40 *** - - + - - + - - + Yoda1
+Su CASP1 p20 ntaini Sup IL-1β p17
+IL-1β p31 k-co20 CASP1 p20
+Lys CASP1 p45 pec IL-1β p31
+Tubulin SC s 0 -+ -+ Yoda1 Lys CASP1 p45
+A - - ++ Ni Tubulin
+C H I
+***
++Sytox Green cells (%)2460000 *** +Sytox Green cells (%)1234500000 *** ****** IL-1β (ng/ml)011...505 *N*i* ** dWKTIL-1β (ng/ml)O123 R*8***3*7 **
+-+ -+ -+ -+ Yoda1 0 - - + - - + - -+ Yoda1 0 0
+- - ++ - - ++ Ni - ++ - ++ -++ Ni pa pa pa pa
+K K K K
+WT NLRP3 KO e.v. e.v. Piezo1 2  4  2  4 
+0. 6 0. 6
+WT PIEZO1 KO
+Fig. 1.  The PIEZO-mediated mechano-sensing potentiates NLRP3 inflammasome activation. (A) ELISA 
+measurements of IL-1β in culture supernatants from THP-1 primed with 1 µg/ml LPS for 3 h and followed by treat-
+ment with 5 µM nigericin (Ni) in presence or absence of Yoda1 25 µM. (B) Immunoblotting of culture supernatants 
+(Sup) and lysates (Lys) from LPS-primed THP-1 treated as in panel A. Antibodies against IL-1β and Caspase-1 
+(CASP1) were used. An antibody against Tubulin was used as a loading control. (C)  Uptake of Sytox Green in 
+LPS-primed wild type (WT) and NLRP3 KO THP-1 cells treated as described in panel A. (D) Representative immu-
+nofluorescence images of ASC speck formation in LPS-primed BMDMs stimulated with 2.5 μM nigericin in the 
+presence or absence of 25 µM Yoda1. White arrows indicate ASC specks (green). Scale bars: 10 µm. (E) Quantifi-
+cation of macrophages containing ASC specks in experiments as described in  panel D. (F) ELISA measurements 
+of IL-1β in culture supernatants from WT and PIEZO1 KO THP-1 cells expressing empty vector (e.v.) or mouse 
+Piezo1. Cells primed with 1 µg/ml LPS for 3 h and followed by treatment with 5 µM nigericin (Ni) in presence or 
+absence of Yoda1 25 µM for 40 min. (G) Immunoblotting of culture supernatants (Sup) and lysates (Lys) from 
+LPS-primed cells treated as described in panel F. Antibodies against IL-1β and Caspase-1 (CASP1) were used.  
+An antibody against Tubulin was used as a loading control. (H) Uptake of Sytox Green from LPS-primed cells treat-
+ed as described in panel F. Sytox Green uptake was analyzed by FACS after staining. (I) ELISA measurements of 
+IL-1β in culture supernatants from WT and PIEZO1/2 dKO (dKO) THP-1 cells cultured on soft (0.2 Kpa) or stiff (64 
+Kpa) silicone. Cells were treated with nigericin (Ni) for 40 min or R837 for 2 h. “ND” not detected. *p < 0.05,  **p < 
+0.01, ***p < 0.001. Data are representative of at least three independent experiments.
+
+NEW PAGE
+
+A B
+ns
+bioRxiv preprint doi: httpNs:o//ndsoiig.onrigfic/1a0n.t1101/2023.03.08.531717; tKhCisN Nv4ersion posted M5arch 8, 2023. The copyright holder for this preprint
+(which was not cer1ti5fied by Ipnecerer aresveidew) is the author/funder, whPoY hCaARs Dgranted bioRxiv a license to di*s*play the preprint in perpetuity. It is made 
+available under aCC-BY-ND 4.0 Internation4al license.
+Decreased PIEZO1 ml)
+HGOAXNAA1B3 IAKTBPK1B1A 1β (ng/23
+L-
+TMEM30A I1
+RA )Io10 ZBTB7A CREBBP 0 NDND NDND ND
+R RELA KHDRBS1 NLRP3 -+-+ -+-+ -+-+ Yoda1
+g(10  POLD2 POAPTXO1LA - -++ - -++ - -++ R837
+o CYCS NFIL3 GFP GFP KCNN4
+l HK1 UBR4
+UBA1 VARS MEDZ2C3RB1 DAP3 MOGCS17orf98 WT KCNN4 KO
+RPL34 MRPS23 MTTP STAT1 D
+5 PDZK1IP1 GALE 100 ns
+EIF5
+80 ***
+%)
+s (60
+ell
+c40
++PI 
+0 20
+−2 0 2 0
+-+-+ -+-+ -+-+ Yoda1
+log (R837+Yoda1/Ctrl)
+2  - -++ - -++ - -++ R837
+C GFP GFP KCNN4
+WT KCNN4 KO
+GFP GFP KCNN4 WT KCNN4 KO
+E
+- - + + - - + + - - + + R837 ***
+***
+- + - + - + - + - + - + Yoda1
+12 ***
+**
+IL-1β p17
+p
+Su CASP1 p20 ml) 9
+g/
+NLRP3 β (n 6
+1
+IL-1β p31 IL- 3
+DD D D
+CASP1 p45 NN N N
+s 0
+y
+L KCNN4-GFP P - + - + + + + - - - Yoda1
+F
+G - - + + + + + - - - R837
+GFP B:  - - - - + - - - - - MCC950
+I - - - - - - - + + + Nigericin
+Tubulin  5 5 5 5 5 2040 5 2040 KCl (mM)
+F G
+***
+5 5 5 5 5 20 40 5 20 40 KCl (mM)
+- - - - - - - + + + Nigericin *** ***
+***
+- - - - + - - - - - MCC950 ***
+- - + + + + + - - - R837 %)80 *** ***
+*
+- + - + + + + - - - Yoda1 ells (60
+Sup CILA-1SβP p11 p720 +een c40
+Gr
+x 20
+IL-1β p31 yto
+S
+0
+CASP1 p45
+s - + - + + + + + - - - - - Yoda1
+y
+L NLRP3 - - + + + + + + - - - - - R837
+- - - - - - - - + + + + + Nigericin
+Tubulin 5 5 5 5 10203040 5 10203040 KCl (mM)
+Fig. 2. KCNN4 acts downstream of PIEZO-mediated calcium influx to promote NLRP3 inflammasome activation. 
+(A) Genome-wide CRISPR/Cas9 screening identifies genes involved in Yoda1-mediated pyroptosis. RRA score in the 
+comparison R837 plus Yoda1 vs vehicle. (B) ELISA measurements of IL-1β in culture supernatants from WT and KCNN4 
+KO THP-1 cells expressing GFP or GFP-tagged KCNN4 (KCNN4). Cells primed with 1 µg/ml LPS for 3 h and followed 
+by treatment with 100 µM R837 in presence or absence of Yoda1 25 µM for 1 h. (C) Immunoblotting of culture superna-
+tants (Sup) and lysates (Lys)  from cells in experiments as described in panel B. Antibodies against IL-1β and Caspase-1 
+(CASP1) were used.  An antibody against Tubulin was used as a loading control. (D) Uptake of Propidium Iodide (PI) in 
+LPS-primed cells in experiments as described in panel B. (E) ELISA measurements of IL-1β in culture supernatants from 
+LPS-primed BMDMs treated with 50 µM R837 or 15 µM nigericin with or without Yoda1 in medium containing indicated 
+concentration of extracellular KCl. (F) Immunoblotting of culture supernatants (Sup) and lysates (Lys) from LPS-primed 
+BMDMs in experiments as described in panel E. (G) Uptake of Sytox Green in LPS-primed THP-1 cells followed by treat-
+ment of 100 µM R837 or 15 µM nigericin with or without 25 µM Yoda1 in medium containing different concentrations of 
+extracellular KCl. “ND” not detected. “ns” not significant, *p < 0.05,  **p < 0.01, ***p < 0.001. Data are representative of 
+at least three independent experiments.
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531717; this version posted March 8, 2023. The copyright holder for this preprint
+(which wasA not certified by peer review) is the author/funder, who haBs granted bioRxiv a license to display the preprint in perpetuity. It is made 
+GFP Nlrp3WT
+available under aCC-BY-ND 4.0 International license.
+Nlrp3D301N Nlrp3T346M Nlrp3R258W
+GFP Nlrp3WT
+*
+* Nlrp3D301N Nlrp3T346M Nlrp3R258W
+*
+* 100
+** ***
+60 * * %) 80 ****
+** s ( 60 ***
+cells (%)40 **** ** +PI cell 2400 *****
++PI 20 0
+- + - - LPS
+0 - - + + Yoda1
+W T PIE Z O 1 K O PIE Z O 2 K OPIE Z O 1/2 d K O - - - + TRAM34
+C D
+***
+Yoda1 Yoda1+TRAM34 1.5 ***
+N M W N M W
+GFPWTD301T346R258GFPWTD301T346R258 ml)1.0
+g/
+p n
+Su CASP1 p20 β (
+CASP1 p45 L-10.5
+I
+D D D D D
+NLRP3-GFP P N N N N N
+s F 0
+y G
+L GFP B:  - - + + - - + + Yoda1
+I - - - + - - - + TRAM34
+Tubulin LPS LPS
+Nlrp3A350V/+ WT
+Fig. 3. Actication of PIEZO1 is sufficient to trigger NLRP3 inflammasome activation in cells expressing 
+CAPS-causing NLRP3 mutants. (A) Uptake of Propidium Iodide (PI) in WT, PIEZO1 KO, PIEZO2 KO and 
+PIEZO1/2 dKO THP-1 cells expressing GFP, WT- or D301N-, T346M-, R258W mutated mouse Nlrp3. Cells were 
+treated with 25 µM Yoda1 for 6 h. (B)  Uptake of Propidium Iodide (PI) in WT THP-1 cells expressing GFP, WT- 
+or D301N-, T346M-, R258W mutated mouse Nlrp3. Cells were treated with vehicle, 1 µg/ml LPS, 25 µM Yoda1 or  
+25 µM Yoda1 plus 5 µM TRAM34 for 6h. (C) Immunoblotting of culture supernatants (Sup) and lysate(Lys) from 
+WT THP-1 cells expressing GFP, WT- or D301N-, T346M-, R258W mutated mouse Nlrp3. Cells were treated with  
+25 µM Yoda1 in presence or absence of 5 µM TRAM34 for 6h. Antibodies against Caspase-1 (CASP1) and GFP 
+were used. An antibody against Tubulin was used as a loading control. (D) ELISA measurements of IL-1β in 
+culture supernatants in fetal liver macrophages from mice (n=7) as indicated. Cells were primed with 1 ng/ml LPS 
+for 1 h, followed by treatment with vehicle or 25 µM Yoda1 in presense or absence of 5 µM TRAM34 for 3 h.  “ND” 
+means not detected. *p < 0.05,  **p < 0.01, ***p < 0.001. Data are representative of at least three independent 
+experiments.
+
+NEW PAGE
+
+A B C
+(ml)wh9biicohR wxiavs p nreopt rcinetr tdifoi*ei*:d* h bttyp sp:e//edro rie.ovrige/w1)0 .is1 1th0e-1 /a2u0t2h32o5.r0/f3u.n05d80e.5r,3 w1107h01o7 h;R ath8si3 sg7 rv a(eμnrMtseio)d n b piooRsxtei%)vd  1aM0 la0icrecnhs 8e,  t2o0 d2i3s.p Tlahye t hceo ppyrreigphritn ht oinld peerr fpoert uthitiys.  pItr eisp rminatde 
+upernatants (ng/63 *** Sup -av+aila-ble+ un-de+r a-CC+-BICIYYLLoA---d11NSaββDP1  pp 1431 .p1702 I0nternat+ox Green cells (ion2468a0000l license. *** ***
+L-1β in s0 -ND+ *-*+* -+ - + Yoda1 Lys CTuAbSuPlin1  p45 Syt 0 --+ -2+5 -50+ -10+0 --+ -2+5 -50+ 1-0+0 RYo8d3a71 (μM) 
+I - 25 50 100 R837 (μM) 
+WT NLRP3 KO
+D E F
+100
+pernatants (ng/ml)1629 *** ** Sup -- + -10+ -25+ -50+ ICICYLLoAL--d110Saββ9P1  7pp1 31( pμ172M0)  +ox Green cells (%)24680000 *** ***
+β in su 3 NDND ND ND Lys CASP1 p45 Syt 0 - + - + - + - + - + - + - + - + Yoda1
+L-1 0 - + - + - + - + Yoda1 Tubulin  - 10 25 50 - 10 25 50 CL097 (μM) 
+I - 10 25 50 CL097 (μM)  WT NLRP3 KO
+G I K M
+*** DMSO Yoda1
+30 ** *** 40 * 25
+ml) ml)30 ml)20 837
+IL-1β (ng/1200 IL-1β (ng/1200 *** IL-1β (ng/1105 7R
+5 9
+** 0
+DD DD D DD D L
+NN NN N NN N C
+0 0 0
+0.8 2.0 1.5
+DAPI ASC
+TNFα (ng/ml)000...246 TNFα (ng/ml)011...505 TNFα (ng/ml)01..50 N g cells (%) 6800 ***
+n
+0 - + - + - + Yoda1 0 - + - + - + - + Yoda1 0 - + - + - + - + Yoda1 ntaini40 ***
+- 2.5 5 Ni (μM)  - 25 50 100 R837 (μM)  - 10 25 50 CL097 (μM)  k-co20
+H J L c
+e
+- 2.5 5 Ni (μM)  - 25 50 100 R837 (μM)  - 10 25 50 CL097 (μM)  sp 0
+- + - + - + Yoda1 - + - + - + - + Yoda1 - + - + - + - + Yoda1 C  -+ - + Yoda1
+AS 37 97
+IL-1β p17 IL-1β p17 IL-1β p17 8 0
+p p p R CL
+u u u
+S CASP1 p20 S CASP1 p20 S CASP1 p20
+IL-1β p31 IL-1β p31 IL-1β p31
+s s s
+Ly CASP1 p45 Ly CASP1 p45 Ly CASP1 p45
+Tubulin  Tubulin  Tubulin 
+Fig. S1.  The PIEZO1 agonist Yoda1 lowers the threshold of NLRP3 inflammasome activation. (A, D) ELISA measure-
+ments of IL-1β in culture supernatants from THP-1 primed with 1 µg/ml LPS for 3 h and followed by treatment with imiqui-
+mod  R837 (A) or CL097 (D). (B, E) Immunoblotting of culture supernatants (Sup) and lysates (Lys) from LPS-primed 
+THP-1 treated as in panel A and D. Antibodies againist IL-1β and Caspase-1 (CASP1) were used. Antibody against Tubulin 
+was used as a loading control. (C, F)  Uptake of Sytox Green in LPS-primed THP-1 WT and NLRP3 KO cells treated as in 
+panel A and D. (G, I, K) ELISA measurements of IL-1β and TNFα in culture supernatants from LPS-primed BMDMs treated 
+with nigericin (Ni) (G), R837 (I), CL097 (K) as indicated in presence or absence of Yoda1 25 µM. (H, J, L) Immunoblotting 
+of culture supernatants (Sup) and lysates (Lys) from LPS-primed BMDMs treated as in panel G, I, K. Antibodies againist 
+IL-1β and Caspase-1 (CASP1) were used. Antibody against Tubulin was used as a loading control. (M) Representative 
+immunofluorescence images of ASC speck formation in LPS-primed BMDMs stimulated with 50 μM R837 or 25 μM CL097 
+in the presence or absence of 25 µM Yoda1. White arrows indicate ASC specks. Scale bars: 10 µm. (N) Quantification of 
+macrophages containing ASC specks in panel M. “ND” not detected. *p < 0.05,  **p < 0.01, ***p < 0.001. Data are repre-
+sentative of at least three independent experiments.
+
+NEW PAGE
+
+bioRxiv preprint doAi: https://doi.org/10.1101/2023.03.08.531717; thisB version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-ND 4.0 International license.
+WT NLRP3 KO WT NLRP3 KO
+- + + - + + poly(dA/dT) - + + - + + TcdB
+- - + - - + Yoda1 - - + - - + Yoda1
+Sup IL-1β p17 Sup IL-1β p17
+CASP1 p20 CASP1 p20
+NLRP3  NLRP3 
+Lys IL-1β p31 Lys IL-1β p31
+CASP1 p45 CASP1 p45
+Tubulin  Tubulin 
+Fig. S2. Yoda1 don’t show enhancing effects on AIM2- and NLRC4 inflammasome activation. (A, B) 
+Immunoblotting of culture supernatants (Sup) and lysates (Lys) from LPS-primed WT and NLRP3 KO BMDMs 
+transfected with 1µg/ml poly(dA:dT) for 4 h (A) or treated with 1 nM TcdB for 2 h (B) in presence or absence 
+of 25 µM Yoda1. Antibodies againist IL-1β and Caspase-1 (CASP1) were used. Antibody against Tubulin was 
+used as a loading control. Data are representative of three independent experiments.
+
+NEW PAGE
+
+bAioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531717; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+sgRNA1 sgRNA2
+available under aCC-BY-ND 4.0 International license.
+1  WT allele  TGGCCCCTGACCTGGGCATCTTGGTGGTCTCCT...GAACACCCGGCAGAGCCCACATCCACGG
+O
+Z KO allele 1  TGGCCCCTG------------------------...---------------------TCCACGG -79 bp
+E
+PI KO allele 2  TGGG-----------------------------...----------------------CCACGG -85 bp
+B
+sgRNA1 sgRNA2
+2  WT allele  TCTATGAAGAGGATTTCAATGGAGGAGATGG...CACCACTGCTGGGAAAGTCGTTGTTACCAT
+O
+Z KO allele 1  TCTATGAAGAGGATTTCAA------------...--------CTGGGAAAGTCGTTGTTACCAT -116 bp
+E
+PI KO allele 2  TCTATGAAGAGGATTTCAA------------...--------CTGGGAAAGTCGTTGTTACCAT -116 bp
+C
+sgRNA1 sgRNA2
+1  WT allele  TGGCCCCTGACCTGGGCATCTTGGTGGTCTCCT...GAACACCCGGCAGAGCCCACATCCACGG
+O
+EZ KO allele 1  TGGCCCCTG------------------------...---------------------TCCACGG -79 bp
+PI
+KO allele 2  TGGCCCCTG------------------------...----------------------CCACGG -80 bp
+sgRNA1 sgRNA2
+2  WT allele  TCTATGAAGAGGATTTCAATGGAGGAGATGG...CACCACTGCTGGGAAAGTCGTTGTTACCAT
+O
+Z KO allele 1  TCTATGAAGAGGATTTCAA------------...--------CTGGGAAAGTCGTTGTTACCAT -116 bp
+E
+PI
+KO allele 2  TCTATGAAGAGGATTT---------------...--------CTGGGAAAGTCGTTGTTACCAT -119 bp
+Fig. S3. Validation of PIEZO1 KO, PIEZO2 KO and PIEZO1/2 dKO THP-1 cells. (A-C) Sequences of PIEZO1 
+and/or PIEZO2 alleles validated by Sanger sequencing in PIEZO1 KO (A), PIEZO2 KO (B), PIEZO1/2 dKO (C). 
+The sequences of sgRNAs are indicated by arrows. A mutation is highlighted in red, “-” indicates a deleted nucleo-
+tide, “...” in PIEZO1 alleles indicates a fragment of 34 bps; “...” in PIEZO2 alleles indicates a fragment of 96 bps. 
+The seqeuncing was performed once.
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531717; this version posted March 8, 2023. The copyright holder for this preprint
+A B
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+- - + + Ni
+available under aCC-BY-ND 4.0 International license.
+WT PIEZO1 KO - + - + Yoda1
+PIEZO2 KO  PIEZO1/2 dKO O O O O
+K K K K
+** KO KO 2 d KO KO 2 d KO KO 2 d KO KO 2 d
+4 *** O1  O2  O1/ O1  O2  O1/ O1  O2  O1/ O1  O2  O1/
+*** Z Z Z Z Z Z Z Z Z Z Z Z
+T E E E TE E E T E E E T E E E
+W PI PI PI WPI PI PI W PI PI PI W PI PI PI
+ml)3 IL-1β p17
+g/ up
+β (n2 S CASP1 p20
+1
+IL-1 IL-1β p31
+0 ND ND NDND ND Lys CASP1 p45
+- + - + Yoda1 Tubulin 
+- - + + Ni
+C D
+* ***
+3
+75 * ***
+%) *** ***
++Green cells (2550 L-1β (ng/ml)12 *** ******
+x  I
+yto NDND NDNDND NDNDNDND
+S 0
+0 - + - + - + - + Yoda1
+- + - + Yoda1
+- - + + Ni - 25 50 100 R837 (μM)
+E
+- 25 50 100 R837 (μM)
+- + - + - + - + Yoda1
+O O O O O O O O
+K K K K K K K K
+O O d O O d O O d O O d O O d O O d O O d O O d
+K K 2  K K 2  K K 2  K K 2  K K 2  K K 2  K K 2  K K 2 
+1  2  1/ 1  2  1/ 1  2  1/ 1  2  1/ 1  2  1/ 1  2  1/ 1  2  1/ 1  2  1/
+O O O O O O O O O O O O O O O O O O O O O O O O
+Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z
+T E E E TE E E T E E E T E E E T E E E TE E E T E E E T E E E
+W PI PI PI WPI PI PI W PI PI PI W PI PI PI W PI PI PI WPI PI PI W PI PI PI W PI PI PI
+IL-1β p17
+p
+u
+S CASP1 p20
+IL-1β p31
+s
+Ly CASP1 p45
+Tubulin
+F
+100 ***
+%) ***
+***
+s ( 80
+ell
+c 60
++n  **
+e
+e 40 *
+Gr ***
+x  20
+o
+yt
+S 0
+- + - + - + - + Yoda1
+- 25 50 100 R837 (μM)
+G
+**
+4 **
+***
+ml)3 *
+β (ng/2 *** **
+1
+IL-1
+DDDD DD D DDDD
+NNNN NN N NNNN
+0
+- + - + - + - + Yoda1
+- 10 20 50 CL097 (μM)
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531717; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+H available under aCC-BY-ND 4.0 International license.
+- 10 25 50 CL097 (μM)
+- + - + - + - + Yoda1
+O O O O O O O O
+K K K K K K K K
+O O d O O d O O d O O d O O d O O d O O d O O d
+K K 2  K K 2  K K 2  K K 2  K K 2  K K 2  K K 2  K K 2 
+1  2  1/ 1  2  1/ 1  2  1/ 1  2  1/ 1  2  1/ 1  2  1/ 1  2  1/ 1  2  1/
+O O O O O O O O O O O O O O O O O O O O O O O O
+WT PIEZ PIEZ PIEZ WTPIEZ PIEZ PIEZ WT PIEZ PIEZ PIEZ WT PIEZ PIEZ PIEZ WT PIEZ PIEZ PIEZ WTPIEZ PIEZ PIEZ WT PIEZ PIEZ PIEZ WT PIEZ PIEZ PIEZ
+IL-1β p17
+p
+u
+S CASP1 p20
+IL-1β p31
+s
+Ly CASP1 p45
+Tubulin 
+I
+**
+100 **
+**
+%)
+s ( 80 *
+ell **
+c 60 *
++n 
+e
+e 40
+Gr
+ox  20
+yt
+S 0
+- + - + - + - + Yoda1
+- 10 25 50 CL097 (μM)
+Fig. S4. Deleted of PIEZO1 abolishes the sensitizing effect of Yoda1 on NLRP3 inflammasome 
+activation. (A, D, G) ELISA measurements of IL-1β in culture supernatants in THP-1 wild type (WT), 
+PIEZO1 KO, PIEZO2 KO and PIEZO1/2 dKO cells primed with 1 µg/ml LPS for 3 h and followed by treat-
+ment with nigericin (A), R837 (D) and CL097 (G) as indicated in presence or absence of 25 µM Yoda1. 
+(B, E, H) Immunoblotting of culture supernatants (Sup) and lysates (Lys) from LPS-primed cells in experi-
+ments as described in panel A, D and G. Antibodies againist IL-1β and Caspase-1 (CASP1) were used. 
+Antibody against Tubulin was used as a loading control. (C, F, I) Uptake of Sytox Green from LPS-primed 
+cells in experiments as described in panel A, D and G. Sytox Green uptake was analyzed by FACS after 
+staining. “ND” not detected. *p < 0.05,  **p < 0.01, ***p < 0.001. Data are representative of at least three 
+independent experiments.
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531717; this version posted March 8, 2023. The copyright holder for this preprint
+(which was notA certified by peer review) is the authDor/funder, who has granted bioRxiv aG license to display the preprint in perpetuity. It is made 
+Ctrl Ni available under aCC-BY-ND 4.0 International license.
+Ctrl R837 Ctrl CL097
+IL-1β in supernatans (ng/ml)0123 NDW T dNDKO IL-1β in supernatans (ng/ml)01234 NDW T dNDKO IL-1β in supernatans (ng/ml)012345 NDW T dNDKO
+B E H
+WT dKO WT dKO WT dKO
+- + - + Ni - + - + R837 - + - + CL097
+IL-1β p17 IL-1β p17 IL-1β p17
+Sup CASP1 p20 Sup CASP1 p20 Sup Casp1 p20
+NLRP3  NLRP3  NLRP3
+Lys IL-1β p31 ys IL-1β p31 Lys IL-1β p31
+CASP1 p45 L CASP1 p45 Casp1 p45
+Tubulin Tubulin  Tubulin 
+C F I
+Ctrl Ni Ctrl R837 Ctrl CL097
+60
+%) %)60 %)40
++Sytox Green cells (24000 +Sytox Green cells (2400 +Sytox Green cells (1230000
+W T dKO 0 W T KO W T dKO
+d
+Fig. S5. PIEZO1 and PIEZO2 are not involoved in canonical NLRP3 inflammasome activation. (A, D, 
+G) ELISA measurements of IL-1β in culture supernatants in THP-1 wild type (WT) and PIEZO1/2 dKO (dKO) 
+cells primed with 1 µg/ml LPS for 3 h and followed by treatment with 15 µM nigericin (Ni) (A), 150 µM R837 
+(D) and 75 µM CL097 (G). (B, E, H) Immunoblotting of culture supernatants (Sup) and lysates (Lys) from 
+LPS-primed cells in experiments as described in panel A, D and G. Antibodies againist IL-1β and Caspase-1 
+(CASP1) were used. Antibody against Tubulin was used as a loading control. (C, F, I) Uptake of Sytox Green 
+from LPS-primed cells treated as in panel A, D and G.  Sytox Green uptake was analyzed by FACS after 
+staining. Data are representative of three independent experiments. “ND” means not detected. Data are 
+representative of at least three independent experiments.
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531717; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-ND 4.0 International license.
+A B C
+1.0 *** 100
+*** WT PIEZO1 KO %)
+ml) ** - e+.v.+ - e+.v.+ P-ie+zo+1 R837 ells ( 80 *** *** ***
+ng/0.5 - - + - - + - - + Yoda1 +n c 60
+IL-1β ( Sup CILA-1SβP p11 p720 ox Gree 2400
+D D D yt
+0 N N N IL-1β p31 S 0
+- -+ - -+ --+ Yoda1 s - -+ - -+ --+ Yoda1
+-++ -++ -++ R837 Ly CASP1 p45 -++ -++ -++ R837
+e.v. e.v. Piezo1 e.v. e.v. Piezo1
+Tubulin 
+WT PIEZO1 KO WT PIEZO1 KO
+D E F
+***
+WT PIEZO1 KO
+*** 100 ***
+1.0 e.v. e.v. Piezo1 %) ***
+*** s ( 80
+- + + - + + - + + CL097 ell ***
+ml) - - + - - + - - + Yoda1 +n c 60
+g/ e
+IL-1β (n0.5 Sup CILA-1SβP p11 p720 ytox Gre 2400
+ND ND ND IL-1β p31 S 0 - -+ - -+ --+ Yoda1
+0
+- -+ - -+ --+ Yoda1 s -++ -++ -++ CL097
+-++ -++ -++ CL097 Ly CASP p45 e.v. e.v. Piezo1
+e.v. e.v. Piezo1 Tubulin  WT PIEZO1 KO
+WT PIEZO1 KO
+Fig. S6. Reconstitution of Piezo1 restores the sensitizing effect of Yoda1 on NLRP3 inflammasome 
+activation in PIEZO1 KO cells.  (A, D) ELISA measurements of IL-1β in culture supernatants in WT and 
+PIEZO1 KO THP-1 cells expressing empty vector (e.v.) or mouse Piezo1. Cells were primed with 1 µg/ml 
+LPS for 3 h, followed by treatment with 100 µM R837 (A), 50 µM CL097 (D) in presence or absence of 25 
+µM Yoda1. (B, E) Immunoblotting of culture supernatants (Sup) and lysates (Lys) from LPS-primed cells in 
+experiments as described in panel A and D. Antibodies againist IL-1β and Caspase-1 (CASP1) were used. 
+Antibody against Tubulin was used as a loading control. (C, F) Uptake of Sytox Green from LPS-primed cells 
+in experiments as described in panel A and D. Sytox Green uptake was analyzed by FACS after staining. 
+“ND” not detected. **p < 0.01, ***p < 0.001. Data are representative of at least three independent experi-
+ments.
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531717; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer reAview) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-ND 4.0 International license.
+2
+***
+***
+ml)
+g/
+n1
+β (
+1
+L-
+I
+D D DDD D D
+N N NNN N N
+0
+++ - ++ - ++ - + + - LPS
+-++ -++ - ++ - ++ Yoda1
+e.v. Piezo1 e.v. Piezo1
+WT NLRP3 KO
+B
+WT NLRP3 KO
+e.v. Piezo1 e.v. Piezo1
++ + - + + - + + - + + - LPS
+- + + - + + - + + - + + Yoda1
+IL-1β p17
+p
+u
+S CASP1 p20
+IL-1β p31
+CASP1 p45
+s
+y
+L
+NLRP3 
+Tubulin 
+C
+%)25 *** **
+s (20
+ell
+c
++n 15
+e
+Gre10
+ox  5
+yt
+S
+0
+++ - ++- ++ - + + - LPS
+-++ - ++ - ++ - ++ Yoda1
+e.v. Piezo1 e.v. Piezo1
+WT NLRP3 KO
+Fig. S7. Yoda1 alone is sufficient to activate  NLRP3 inflammasome in cells ectopically-expressing Piezo1. (A) 
+ELISA measurements of IL-1β in culture supernatants in WT and NLRP3 KO THP-1 cells expressing 
+empty vector (e.v.) or mouse Piezo1. Cells were primed with or without 1 µg/ml LPS for 3 h, followed  by 
+treatment with 25 μM Yoda1. (B) Immunoblotting of culture supernatants (Sup) and lysates (Lys) from 
+cells in experiments as described in panel A. Antibodies againist IL-1β and Caspase-1 (CASP1) were 
+used.  Antibody against Tubulin was used as a loading control. (C) Uptake of Sytox Green in cells in 
+experiments as described in panel A. Sytox Green uptake was analyzed by FACS after staining. “ND” 
+not detected. **p < 0.01, ***p < 0.001. Data are representative of at least three independent experi-
+ments.
+
+NEW PAGE
+
+A B
+WT PIEZO1/2 dKO
+bioRxiv preprint doi:R h8tt3p7s+:/Y/doodia.o1rg/10R.1813071+/2Y0o2d3a.103.08.531717; this version posted March 8, 2023. The copyright holder for this preprint
+(which was n2o0t 0certifiedY obdya p1eer review) Yiso dthae1 author/funder, who has granted bioRxiv a licweitnhs eC ato2+ dispwla/yo  tChea 2p+reprint in perpetuity. It is made 
+available under aCC-BY-ND 4.0 International license.
+R837 R837 with Ca2+ w/o Ca2+
+***
+150 0.5
+***
+0
+F-F0)/F0*10100 1β (ng/ml)000...234 ***
+( 50 L-
+I0.1
+0 0
+-+- + - +- + - + -+ - + -+ Yoda1
+- 25 50 100 R837(μM)
+-50
+0 5 10 15 20
+Time (min)
+C D
+- 25 50 100 R837 (μM) with Ca2+ w/o Ca2+
++ + - - + + - - + + - - + + - - Ca2+ 100 with Ca2+ w/o Ca2+
+- + - + - + - + - + - + - + - + Yoda1 %) **
+p IL-1β p17 ells ( 80 ***
+Su CASP1 p20 +n c 60
+e **
+e 40
+Gr
+IL-1β p31 ox  20
+s yt
+Ly CASP1 p45 S 0
+-+- + - +- + - + -+ - + -+ Yoda1
+Tubulin
+- 25 50 100 R837(μM)
+E F
+with Ca2+ w/o Ca2+
+- 10 25 50 CL097 (μM)
+0.6 with Ca2+ w/o Ca2+ *** + + - - + + - - + + - - + + - - Ca2+
+- + - + - + - + - + - + - + - + Yoda1
+ml) ***
+g/0.4 up IL-1β p17
+n S
+β ( CASP1 p20
+1
+IL-0.2 IL-1β p31
+**
+ys CASP1 p45
+0 L
+-+-+ -+-+ -+-+ -+-+ Yoda1 Tubulin 
+- 10 25 50 CL097 (μM)
+G with Ca2+ w/o Ca2+
+%)100 with Ca2+ w/o Ca2+ ***
+s ( 80 **
+ell
++n c 60
+e
+Gre 40 ***
+ox  20
+yt
+S
+0
+-+-+ -+-+ -+-+ -+-+ Yoda1
+- 10 25 50 CL097 (μM)
+Fig. S8. Ca2+ influx is required for the enhaning effect of PIEZO-mediated mechanosensing on NLRP3 inflam-
+masome activation. (A) Measurement of cytosolic Ca2+ levels in WT and PIEZO1/2 dKO THP-1 cells using a Ca2+ 
+reporter jGCaMP7s. Cells were treated with 100 µM R837, 25 µM Yoda1 or 100 µM R837 plus 25 µM Yoda1. The 
+images were acquired using a Nikon spinning-disk microscope with an interval of 20s. Stimuli were added into the 
+culture medium at 1 min as indicated by a red arrow, and ionomycin was added at end of the experiments as indicated 
+by a blue arrow. Fluorescence intensities of individual cells over time were quantified. (B, E) ELISA measurements of 
+IL-1β in culture supernatants from LPS-primed THP-1 treated with R837 (B), CL097 (E) as indicated in presence or 
+absence of 25 µM Yoda1 in medium with Ca2+ or without (w/o) Ca2+. (C, F) Immunoblotting of culture supernatants 
+(Sup) and lysates (Lys) from LPS-primed THP-1 cells in experiments as described in panel B and E. Antibodies 
+against IL-1β and Caspase-1 (CASP1) were used. An antibody against Tubulin was used as a loading control. (D, G) 
+Uptake of Sytox Green in LPS-primed THP-1 cells in experiments as described in panel B and E. Sytox Green uptake 
+was analyzed by FACS after staining. **p < 0.01, ***p < 0.001. Data are representative of at least three independent 
+experiments.
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531717; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-ND 4.0 International license.
+sgRNA1 sgRNA2
+WT allele TGGCCTGGGGGCCTTGAGACGCCGAAAGCGC…CATGGTGCTGCATGCAGAGATGCTGTGGTTCGGGGGGTGC
+Allele 1 TGGCCTGGG----------------------…-------------------------------GGGGGGTGC -118 bp
+Clone1
+Allele 2 TGGCCTGGG----------------------…-------------------------------GGGGGGTGC -118 bp
+Allele 1 TGGCCTGGG----------------------…-------------------------------GGGGGGTGC -118 bp
+Clone2
+Allele 2 TGGCCTGG-----------------------…-------------------------------GGGGGGTGC -119 bp
+Allele 1 TGGCCTGGGG---------------------…------------------------------CGGGGGGTGC -116 bp
+Clone3
+Allele 2 TGGCCTGGGG---------------------…----------CATGCAGAGATGCTGTGGTT-GGGGGGTGC -87 bp
+Fig. S9. Generation of THP-1 KCNN4 KO cells using CRISPR/Cas9-mediated gene editing. Validation of 
+KCNN4 KO THP-1 cells by Sanger Sequencing. sgRNAs  were indicated by arrows.  “-” means a deleted 
+nucleotide, “...” means a fragment of 65 bps.
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.oArg/10.1101/2023.03.08.531717; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who* *has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-ND 4.0 International license.
+**
+5
+**
+4
+ml)
+g/ 3
+n
+β ( 2
+1
+L-
+I 1
+DD DD DD DD
+NN NN NN NN
+0
+-+ - + -+ -+ -+ -+ - + -+ Yoda1
+- - ++ - -++ - -++ - -++ R837
+WT #1 #2 #3
+KCNN4 KO
+B
+KCNN4 KO
+WT #1 #2 #3
+- - + + - - + + - - + + - - + + R837
+- + - + - + - + - + - + - + - + Yoda1
+IL-1β p17
+p
+u
+S CASP1 p20
+IL-1β p31
+CASP1 p45
+s
+y
+L
+NLRP3 
+Tubulin 
+C
+***
+100 ***
+%) ***
+s ( 80
+ell
+c
++n  60
+e
+Gre 40
+ox  20
+yt
+S
+0
+-+ - + -+ -+ -+ -+ - + -+ Yoda1
+- - ++ - -++ - -++ - -++ R837
+WT #1 #2 #3
+KCNN4 KO
+Fig. S10. Deletion of KCNN4 abolishes the sensitizing effect of Yoda1 on NLRP3 inflammasome activa-
+tion. (A) ELISA measurements of IL-1β in culture supernatants from WT and KCNN4 KO THP-1 cells primed 
+with 1 µg/ml LPS for 3 h and followed by treatment with 100 µM R837 in presence or absence of 25 µM Yoda1 
+for 1.5 h.  (B) Immunoblotting of culture supernatants (Sup) and lysates (Lys) from LPS-primed cells in experi-
+ments as described in panel A. Antibodies against IL-1β, Caspase-1 (CASP1) and NLRP3 were used. An 
+antibody against Tubulin was used as a loading control. (C) Uptake of Sytox Green in  LPS-primed cells in 
+experiments as described in panel A. “ND” not detected. **p < 0.01, ***p < 0.001. Data are representative of 
+three independent experiments.
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531717; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-ND 4.0 International license.
+A C E
+%)80 %)60 %)60
++Green cells (4600 +Green cells (2400 +Green cells (2400
+Sytox 200 Sytox  0 Sytox  0
+-+ -+ -+ - + Ni -+ -+ -+ - +R837 -+ -+ -+ - +CL097
+WT #1 #2 #3 WT #1 #2 #3 WT #1 #2 #3
+KCNN4 KO KCNN4 KO KCNN4 KO
+B D F
+KCNN4 KO KCNN4 KO KCNN4 KO
+WT #1 #2 #3 WT #1 #2 #3 WT #1 #2 #3
+- + - + - + - + Ni - + - + - + - + R837 - + - + - + - + CL097
+Sup ICLA-1SβP p11 p720 Sup CILA-1SβP p11 p720 Sup ICLA-1SβP p11 p720
+IL-1β p31 IL-1β p31 IL-1β p31
+CASP1 p45 CASP1 p45 CASP1 p45
+s s
+y s y
+L y L
+NLRP3  L NLRP3  NLRP3
+Tubulin  Tubulin  Tubulin
+Fig. S11.  KCNN4 is not involoved in canonical NLRP3 inflammasome activation. (A, C, E) Uptake 
+of Sytox Green in WT and KCNN4 KO THP-1 cells primed with1 µg/ml LPS for 3 h and followed by treat-
+ment with 15 µM nigericin for 1 h (A), 150 µM R837 for 1.5 h (C), 75 µM CL097 for 40 min (E). Sytox 
+Green uptake was analyzed by FACS after staiing. (B, D, F) Immunoblotting of culture supernatants 
+(Sup) and lysates (Lys) from LPS-primed cells in experiments as described in panel A, C and E. Antibod-
+ies against IL-1β, Caspase-1 (CASP1) and NLRP3 were used. An antibody against Tubulin was used as 
+a loading control. Data are representative of three independent experiments.
+
+NEW PAGE
+
+A B C
+***
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531717; this version posted March 8, 2023. Th*e* *copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to disp*la**y the preprint in perpetuity. It is made 
+40 avail-abl-e u-nde-r a-CC--B+Y-MNCDC 49.05 0International license. ***
+5 5 10 20 30 40 5 KCl (mM) **
+- + + + + + + R837 5 *
+IL-1β (ng/ml)123000 Sup ICILLA--11SββP  pp131 p1720 β (ng/ml)234
+1
+0 ND s CASP1 p45 IL-1
+5- +5 1+02+03+04+0 +5 KRC83l 7(mM) Ly NLRP3 0 ND ND
+- + - + + + + + + + + Yoda1
+- - - - - - + MCC950 Tubulin 
+- - + + + + + + + + + R837
+- - - - 0.10.51.05.0 - - - TRAM34 (μM)
+D - - - - - - - - + - - MCC950
+5 5 5 5 5 5 5 5 5 20 40 KCl (mM) 5 5 5 5 5 5 5 5 5 2040 KCl (mM)
+- - - - - - - - + - - MCC950
+- - - - 0.10.5 1.0 5.0 - - - TRAM34 (μM) F ***
+- - + + + + + + + + + R837 ***
+**
+- + - + + + + + + + + Yoda1 15
+*
+*
+IL-1β p17
+p
+Su ml)10
+CASP1 p20 g/
+n
+IL-1β p31 β (
+L-1 5
+CASP1 p45 I
+s
+Ly NLRP3  0 ND ND ND
+- + - + + + + + + + + Yoda1
+Tubulin  - - + + + + + + + + + R837
+- - - - 0.10.51.05.0 - - - TRAM34 (μM)
+E - - - - - - - - + - - MCC950
+*** 5 5 5 5 5 5 5 5 5 2040KCl (mM)
+***
+***
+** G
+5 5 5 5 5 5 5 5 5 20 40 KCl (mM)
+**
+- - - - - - - - + - - MCC950
+%)80 * - - - - 0.1 0.5 1.05.0 - - - TRAM34 (μM)
+s ( - - + + + + + + + + + R837
+cell60 - + - + + + + + + + + Yoda1
++en 40 p IL-1β p17
+e u
+Gr S CASP1 p20
+x 20
+o
+yt IL-1β p31
+S
+0
+- + - + + + + + + + + Yoda1 CASP1 p45
+s
+- - + + + + + + + + + R837 y
+L
+- - - - 0.10.51.05.0 - - - TRAM34 (μM) NLRP3
+- - - - - - - - + - - MCC950
+Tubulin 
+5 5 5 5 5 5 5 5 5 2040 KCl (mM)
+Fig. S12. Inhibition of KCNN4 blocks the effect of Yoda1 on NLRP3 inflammasome activation. (A) ELISA meas-
+urements of IL-1β in culture supernatants from LPS-primed BMDMs treated with 100 µM R837 in medium containing 
+indicated concentration of extracellular KCl. (B) Immunoblotting of culture supernatants (Sup) and lysates (Lys) from 
+LPS-primed BMDMs in experiments as described in panel A. Antibodies against IL-1β, Caspase-1 (CASP1) and 
+NLRP3 were used. An antibody against Tubulin was used as a loading control. (C) ELISA measurements of IL-1β in 
+culture supernatants from LPS-primed THP-1 cells treated with 100 µM R837, 25 µM Yoda1 or 100 µM R837 plus 25 
+µM Yoda1 in presence of TRAM34, 10 µM MCC950 or extracellular KCl as indicated for 1.5 h. (D) Immunoblotting of 
+culture supernatants (Sup) and lysates (Lys) from THP-1 cells in experiments as described in panel C. (E) Uptake of 
+Sytox Green in THP-1 cells in experiments as described in panel C. (F) ELISA measurements of IL-1β in culture super-
+natants from LPS-primed BMDMs treated with 50 µM R837, 25 µM Yoda1 or 50 µM R837 plus 25 µM Yoda1 in pres-
+ence of TRAM34, 10 µM MCC950 or extracellular KCl as indicated for 1.5 h. (G) Immunoblotting of culture superna-
+tants (Sup) and lysates (Lys) from LPS-primed BMDMs treated as in panel F. Antibodies against IL-1β, Caspase-1 
+(CASP1) and NLRP3 were used. An antibody against Tubulin was used as a loading control. “ND” not detected. *p < 
+0.05,  **p < 0.01, ***p < 0.001. Data are representative of at least three independent experiments.
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531717; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+A available under aCC-BY-ND 4.0 IntBernational license.
+WT NLRP3 KO
+GFP GFP Nlrp3WT NLRP3 KO
+WT
+Nlrp3D301N Nlrp3T346M Nlrp3R258W GFP GFP WT D301NT346MR258W
+100 40 *
+NLRP3 
+*
+ells (%) 6800 cells (%)2300 * NGLFRPP3-GFP B: GFP
++PI c 40 +PI 10 Tubulin  I
+20
+0 0
+Ctrl LPS Yoda1
+C
+ WT PIEZO1 KO PIEZO2 KO PIEZO1/2 dKO
+N  M  W  N  M  W  N  M  W  N  M  W 
+GFP WT D301T346R258 GFP WT D301 T346R258 GFP WT D301T346R258 GFP WT D301T346R258
+NLRP3 
+NLRP3-GFP  P
+F
+G
+GFP  B: 
+I
+Tubulin 
+D
+100 GFP Nlrp3WT
+Nlrp3D301N Nlrp3T346M Nlrp3R258W
+80
+%)
+s ( 60
+ell
++PI c 40
+20
+0
+W T PIE Z O 1 K O PIE Z O 2 K OPIE Z O 1/2 d K O W T PIE Z O 1 K O PIE Z O 2 K POIE Z O 1/2 d K O
+Ctrl LPS
+Fig.  S13.  Yoda1  is  sufficient  to  activate  NLRP3  inflammasome  activation  in  cells  expressing 
+CAPS-causing NLRP3 mutants. (A) Uptake of Propidium Iodide (PI) in WT and NLRP3 KO THP-1 cells 
+expressing GFP, WT- or D301N-, T346M-, R258W mutated mouse Nlrp3. Cells were treated with vehicle,1 
+µg/ml LPS or 25 μM Yoda1. Propidium Iodide uptake was analyzed by FACS after staining. (B) Immunoblot-
+ting of lysates from WT and NLRP3 KO THP-1 cells expressing GFP, WT- or D301N-, T346M-, R258W mutat-
+ed Nlrp3 as decribed in panel A. Antibodies against NLRP3 and GFP were used. An antibody against Tubulin 
+was used as a loading control. (C) Immunoblotting of lysates from WT, PIEZO1 KO, PIEZO2 KO and 
+PIEZO1/2 dKO THP-1 cells expressing GFP, WT- or D301N-, T346M-, R258W mutated Nlrp3. Antibodies 
+against NLRP3 and GFP were used. An antibody against Tubulin was used as a loading control. (D) Uptake 
+of Propidium Iodide (PI) in WT, PIEZO1 KO, PIEZO2 KO and PIEZO1/2 dKO THP-1 cells expressing GFP, 
+WT- or D301N-, T346M-, R258W mutated mouse Nlrp3. Cells were treated with vehicle or 1 µg/ml LPS for 6 
+h. Propidium Iodide uptake was analyzed by FACS after staining. *p < 0.05. Data are representative of at least 
+three independent experiments.
+
+NEW PAGE

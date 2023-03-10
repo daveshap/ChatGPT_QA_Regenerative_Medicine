@@ -1,0 +1,1898 @@
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+1  Inhibition mechanism and antiviral activity of an α-ketoamide based SARS-CoV-2 main 
+2  protease inhibitor 
+3   
+4  Xiaoxin Chen1,2*, Xiaodong Huang3*, Qinhai Ma3*, Petr Kuzmič4*, Biao Zhou5,6, Jinxin Xu5, Bin Liu3, 
+5  Haiming Jiang3, Wenjie Zhang3, Chunguang Yang3, Shiguan Wu3, Jianzhou Huang2, Haijun Li2, 
+6  Chaofeng Long2, Xin Zhao7, Hongrui Xu5, Yanan Sheng5,8, Yaoting Guo5, Chuanying Niu5,8, Lu Xue5, 
+7  Yong Xu5, Jinsong Liu5, Tianyu Zhang5, James Spencer9, Wenbin Deng1, Shu-Hui Chen10#, Xiaoli 
+8  Xiong5#, Zifeng Yang3,6,11#, Nanshan Zhong3,6,11# 
+9   
+10  1. School of Pharmaceutical Sciences (Shenzhen), Sun Yat-sen University, Shenzhen, Guangdong, 
+11  China 
+12  2. Guangdong Raynovent Biotech Co., Ltd, Guangzhou, Guangdong, China 
+13  3. State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory 
+14  Disease, Guangzhou Institute of Respiratory Health, the First Affiliated Hospital of Guangzhou 
+15  Medical University, Guangzhou, Guangdong, China 
+16  4. BioKin Ltd., Watertown, Massachusetts, United States 
+17  5. State Key Laboratory of Respiratory Disease, CAS Key Laboratory of Regenerative Biology, 
+18  Guangdong Provincial Key Laboratory of Stem Cell and Regenerative Medicine, Guangdong 
+19  Provincial Key Laboratory of Biocomputing, Guangzhou Institutes of Biomedicine and Health, 
+20  Chinese Academy of Sciences, Guangzhou, Guangdong, China 
+21  6. Guangzhou Laboratory, Guangzhou, Guangdong, China. 
+22  7. Guangdong Provincial Public Laboratory of Analysis and Testing Technology, China National 
+23  Analytical Center, Guangdong Academy of Sciences, Guangzhou, China 
+24  8. School of Life Sciences, University of Science and Technology of China, Hefei, China 
+25  9. School of Cellular and Molecular Medicine, University of Bristol, Bristol BS8 1TD, U.K. 
+26  10. WuXi AppTec, 288 Fute Zhong Road, Waigaoqiao Free Trade Zone, Shanghai, China 
+27  11. State Key Laboratory of Quality Research in Chinese Medicine, Macau University of Science and 
+28  Technology, Taipa, Macau (SAR), China 
+29   
+30  *These authors contributed equally: Xiaoxin Chen, Xiaodong Huang, Qinhai Ma, Petr Kuzmič. 
+31  #e-mail: chen_shuhui@wuxiaptec.com; xiong_xiaoli@gibh.ac.cn; jeffyah@163.com; 
+32  nanshan@vip.163.com.   
+  1 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+33  Abstract 
+34   
+35  SARS-CoV-2 has demonstrated extraordinary ability to evade antibody immunity by 
+36  antigenic drift. Small molecule drugs may provide effective therapy while being part of a 
+37  solution to circumvent SARS-CoV-2 immune escape. In this study we report an α-ketoamide 
+38  based peptidomimetic inhibitor of SARS-CoV-2 main protease (Mpro), RAY1216. Enzyme 
+39  inhibition kinetic analysis established that RAY1216 is a slow-tight inhibitor with a Ki of 8.6 
+40  nM; RAY1216 has a drug-target residence time of 104 min compared to 9 min of PF-
+41  07321332 (nirmatrelvir), the antiviral component in Paxlovid, suggesting that RAY1216 is 
+42  approximately 12 times slower to dissociate from the protease-inhibitor complex compared to 
+43  PF-07321332. Crystal structure of SARS-CoV-2 Mpro:RAY1216 complex demonstrates that 
+44  RAY1216 is covalently attached to the catalytic Cys145 through the α-ketoamide warhead; 
+45  more extensive interactions are identified between bound RAY1216 and Mpro active site 
+46  compared to PF-07321332, consistent with a more stable acyl-enzyme inhibition complex for 
+47  RAY1216. In cell culture and human ACE2 transgenic mouse models, RAY1216 
+48  demonstrates comparable antiviral activities towards different SARS-CoV-2 virus variants 
+49  compared to PF-07321332. Improvement in pharmacokinetics has been observed for 
+50  RAY1216 over PF-07321332 in various animal models, which may allow RAY1216 to be 
+51  used without ritonavir. RAY1216 is currently undergoing phase III clinical trials 
+52  (https://clinicaltrials.gov/ct2/show/NCT05620160) to test real-world therapeutic efficacy 
+53  against COVID-19. 
+54     
+  2 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+55  Introduction 
+56   
+57  SARS-CoV-2 has become established in the human population through the coronavirus 
+58  disease 2019 (COVID-19) pandemic and is likely to remain in circulation. Owing to 
+59  multinational efforts, vaccines were rapidly rolled out in the early stage of the pandemic and 
+60  proved successful in saving lives. However, likely due to population immune pressures 
+61  established by infections and vaccinations, SARS-CoV-2 Omicron variants with highly 
+62  mutated spike proteins quickly emerged (Tian et al., 2022). Rapid emergence of highly 
+63  mutated variants has demonstrated the virus's extraordinary capacity to escape humoral 
+64  immunity, representing a great challenge to vaccines and therapeutic antibodies (Cox et al., 
+65  2022; Harvey et al., 2021). 
+66   
+67  A number of small molecule SARS-CoV-2 therapeutics have been developed (Fenton 
+68  and Keam, 2022). This therapeutic strategy may be part of a solution to combat SARS-CoV-2 
+69  immune escape. Of note, the orally available drugs molnupiravir and Paxlovid have been 
+70  approved for COVID-19 treatment after being validated through clinical trials. Molnupiravir 
+71  (LAGEVRIO, also known as EIDD-2801) is a prodrug of N-hydroxycytidine; this mutagenic 
+72  ribonucleoside is a broad-spectrum antiviral agent targeting the viral RNA polymerase by 
+73  lethal mutagenesis. However, this molecule has also been shown to be mutagenic to the host 
+74  (Zhou et al., 2021). Paxlovid is a combination of PF-07321332 (nirmatrelvir) and ritonavir. 
+75  PF-07321332 is a peptidomimetic that selectively inhibits the SARS-CoV-2 main protease 
+76  (Mpro, also known as 3C-like (3CL) protease) (Owen et al., 2021; Zhao et al., 2022), while 
+77  ritonavir is a cytochrome P450 inhibitor that functions to slow down cytochrome P450-
+78  mediated metabolism of PF-07321332 to improve bioavailability. However, the usage of 
+79  ritonavir limits the clinical application range of Paxlovid due to the drug-drug interaction, 
+80  which may cause potential safety issues. Therefore, our original goal is to aim for a drug 
+81  candidate endowed with a longer half-life while maintaining good enzyme inhibitory potency 
+82  as demonstrated by PF-07321332. We expect that such a newly designed Mpro inhibitor may 
+83  possess prolonged pharmacokinetic stability in human, which can hopefully avoid the usage 
+84  of ritonavir. The drug target of PF-07321332, Mpro, plays a role in the viral polyprotein pp1a 
+85  and pp1ab processing that is essential in the SARS-CoV-2 life cycle (Ziebuhr et al., 2000). 
+86  The Mpro gene has been observed to be relatively conserved among various SARS-CoV-2 
+87  variants, therefore Mpro represents a promising target for drug development for SARS-CoV-2. 
+88   
+  3 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+89  Other than PF-07321332, multiple series of SARS-CoV-2 Mpro inhibitors have been 
+90  developed or discovered (Boras et al., 2021; Breidenbach et al., 2021; Dai et al., 2020; 
+91  Drayman et al., 2021; Gao et al., 2022; Jin et al., 2020; Kitamura et al., 2022; Ma et al., 2020; 
+92  Ma et al., 2021; Owen et al., 2021; Qiao et al., 2021; Quan et al., 2022; Unoh et al., 2022; 
+93  Zaidman et al., 2021; Zhang et al., 2020; Zhu et al., 2020b). With a few exceptions 
+94  (Breidenbach et al., 2021; Gao et al., 2022; Jin et al., 2020; Unoh et al., 2022; Zaidman et al., 
+95  2021), the majority of these molecules are peptidomimetics which often exhibit poor 
+96  pharmacokinetic (PK) properties. In this study, we report a further peptidomimetic Mpro 
+97  inhibitor - RAY1216 currently in phase III clinical trial. Inspired by the successful HCV 
+98  protease inhibitor discovery program reported for telaprevir (Chen and Tan, 2005; Kwong et 
+99  al., 2011; Yip et al., 2004a; Yip et al., 2004b), RAY1216 was developed to feature an α-
+100  ketoamide warhead and incorporates chemical moieties known to confer selectivity towards 
+101  coronavirus Mpro. Here we characterize in detail the kinetics of SARS-CoV-2 Mpro inhibition 
+102  by RAY1216 and determine the crystal structure of the covalent adduct with SARS-CoV-2 
+103  Mpro. Further, the antiviral activity, protection against SARS-CoV-2 variants in animal 
+104  models, and PK properties are reported, and compared to those of PF-07321332. 
+105   
+106  Structure of RAY1216  
+107   
+108  RAY1216 (Fig. 1) was developed via multiple rounds of optimization conducted at P1, 
+109  P2, P3, and P4 moieties and finally the covalent warhead was changed from nitrile to α-
+110  ketoamide moiety. The details of the structure–activity relationship (SAR) optimizations will 
+111  be further disclosed in a separate report. RAY1216 was chemically synthesized (Fig. S1) and 
+112  the identity of the product is confirmed by NMR (Fig. S2-S4). The inhibitor features a 
+113  cyclopentyl substituted a-ketoamide warhead, a pyroglutamine with a pyrrolidinone 
+114  sidechain at P1 (this moiety is known to mimic glutamine, which dominates in the P1 
+115  position of coronavirus Mpro recognition sequences (Xiong et al., 2021)), a P2 
+116  cyclopentylproline, a P3 cyclohexylglycine and a P4 tri-fluoroacetamide (Fig. 1). The 
+117  absolute configuration of synthesized RAY1216 was confirmed by X-ray crystallography 
+118  (Fig. S5). 
+119   
+120  In vitro inhibition of Mpro by RAY1216 compared to PF-07321332 
+121   
+122  We used a fluorescence resonance energy transfer (FRET)-based peptide cleavage assay 
+123  (Grum-Tokars et al., 2008) to monitor SARS-CoV-2 Mpro activity (Fig. S6-7) and we 
+  4 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+124  estimated a K  of 31 μM and a k  of 0.12 s−1 for Mpro (Fig. S6-8 and Table S2-S3). To 
+M cat
+125  compare inhibition by RAY1216 and PF-07321332, Mpro (final concentration 80 nM as 
+126  determined by the Bradford assay) was added to a solution of substrate (20 μM) and inhibitor 
+127  (maximum concentration 444 nM, 2:3 dilution series down to 17 nM) in the assay buffer. The 
+128  increase in fluorescence intensity was monitored in real time over a period of one hour. 
+129  Representative replicates for RAY1216 or PF-07321332 are shown in Fig. 2 (also see Fig. S8 
+130  and S9). Both compounds displayed a gradual onset of inhibitory activity; an initial relatively 
+131  uninhibited phase in product formation is followed by a gradual approach to pseudo-
+132  equilibrium (“slow binding” inhibition (Morrison, 1982; Morrison and Walsh, 1988)). 
+133  Compound concentrations significantly lower than the nominal enzyme concentration caused 
+134  a prominent inhibitory effect (“tight binding” inhibition (Cha, 1975; 1976; Cha et al., 1975)). 
+135  The time course of the assay in the absence of inhibitors ([I] = 0) was markedly nonlinear due 
+136  to substrate depletion. Under these particular experimental conditions, the classic algebraic 
+137  “k ” methods of enzyme kinetic analysis (Copeland, 2013) cannot be utilized. Instead, 
+obs
+138  combined progress curves obtained at various inhibitor concentrations were fit globally to a 
+139  system of first-order ordinary differential equations (ODE) solved by the software package 
+140  DynaFit (Kuzmic, 1996; 2009). 
+141  The data vs. model overlay plots in Fig. 2a and Fig. 2b illustrate that the overall 
+142  inhibitory potencies of RAY1216 and PF-07321332 are very similar. Note that at the three 
+143  highest inhibitor concentrations ([I] = 444, 296, and 198 nM) the reaction progress curves 
+144  become nearly horizontal at the end of the assay both in Fig. 2a and Fig. 2b. However, also 
+145  note that the approach to the quasi steady-state is markedly slower for RAY1216 when 
+146  compared with PF-07321332. This fundamental difference between the two compounds is 
+147  made most clearly visible in the instantaneous rate plots shown in Fig. 2c and Fig. 2d, 
+148  respectively. For example, at the highest inhibitor concentration ([I] = 444 nM, bottom curve 
+149  shown in red in Fig. 2c) it takes approximately 20 minutes for the enzyme to become fully 
+150  inhibited by RAY1216. In contrast, it takes less than one minute for the enzyme to become 
+151  fully inhibited by PF-07321332 under identical conditions. Note in Fig. 2c and Fig. 2d that 
+152  the reaction rate does not decrease to zero even at inhibitor concentrations significantly 
+153  higher than the enzyme concentration. This demonstrates the effective kinetic reversibility of 
+154  the observed enzyme–inhibitor interactions despite the fact that the crystal structure shows a 
+155  covalent binding mode (see below). Thus, RAY1216 appears to be an example of a 
+156  “reversible covalent” inhibitor (Bradshaw et al., 2015). Since the equilibrium dissociation 
+157  constants K = k  / k  for the two compounds are similar (Table 1), while it takes very much 
+i d a
+  5 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+158  longer for RAY1216 to fully associate with the enzyme, it necessarily means that not only the 
+159  association rate constant but also the dissociation rate constant is very much lower for 
+160  RAY1216, in comparison with PF-07321332. In that sense, RAY1216 could be described as 
+161  a "slow-on, slow-off" inhibitor, whereas PF-07321332 inhibition of Mpro is "fast-on, fast-off". 
+162  The results of a comprehensive kinetic analysis using multiple replicates (n = 3, for each 
+163  inhibitor) are summarized in Table 1 (see Table S3-S4 for detailed analysis), where k  is the 
+a
+164  association rate constant and k  is the dissociation rate constant. The inhibition constant Ki 
+d
+165  and the drug-target residence time (t ) were computed from these primary regression 
+res
+166  parameters using the usual formulas (Copeland et al., 2006), while assuming that both 
+167  inhibitors are kinetically competitive with the fluorogenic peptide substrate (see Methods for 
+168  details). The results summarized in Table 1 indicate that RAY1216 has a more than an order 
+169  of magnitude (12×) lower dissociation rate constant in comparison with PF-07321332. Thus, 
+170  the drug-target residence time for RAY1216 is measured in hours (1.7 hr), instead of in 
+171  minutes (9 min) in the case of PF-07321332. At the same time, the equilibrium binding 
+172  affinity of RAY1216 (8.4 nM) measured by the inhibition constant K is only approximately 
+i
+173  two-fold lower than that of PF- 07321332. Note that K = (3.8 ± 0.2) nM reported here for PF-
+i
+174  07321332 is in good agreement with K = 3.1 (1.5−6.8) nM previously reported by Pfizer 
+i
+175  (Owen et al., 2021). The observed enzyme inhibition kinetics, in particular the drug-target 
+176  residence time results listed in Table 1, is consistent with slow-tight inhibition of Mpro by 
+177  RAY1216, suggesting that RAY1216 forms a more stable enzyme-inhibitor complex (E-I) 
+178  than that formed by PF-07321332. 
+179   
+180  Structure of RAY1216 bound to SARS-CoV-2 Mpro 
+181   
+182  To further understand the activity of RAY1216, we soaked SARS-CoV-2 Mpro crystals 
+183  with 6 mM RAY1216 in crystallization solution and the structure of RAY1216 bound to Mpro 
+184  at 2.0 Å resolution was determined by X-ray diffraction (Fig. 3a and Table S5). We 
+185  identified unambiguous electron density consistent with RAY1216 molecules in both active 
+186  sites of Mpro dimer (Fig. 3a and Fig. S10) and the dimer appears to be largely symmetric 
+187  (Fig. 3a and Fig. S11). The electron density shows that RAY1216 is covalently attached to 
+188  Mpro via a thiohemiketal bond formed between the Sg sulfur of the catalytic Cys145 and the 
+189  α-keto carbon of the RAY1216 warhead (Fig. 3b and Fig. S10). The α-ketoamide warhead at 
+190  the inhibitor P1’ position is able to interact with the Mpro active site through a number of 
+191  potential hydrogen bonds: the oxyanion (or hydroxyl) group of the thiohemiketal accepts a 
+  6 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+192  hydrogen bond from His41; and the warhead amide oxygen is within hydrogen bond 
+193  accepting distance of the backbone amides of Gly143, Ser144 and Cys145 which form the 
+194  canonical cysteine protease “oxyanion hole” (Fig. 3c). These interactions are consistent with 
+195  the proposal that the a-ketoamide represents a superior warhead through its ability to engage 
+196  two hydrogen bonding interactions to the target protease catalytic center, rather than just one 
+197  (Zhang et al., 2020), as seen for aldehyde (Zhang et al., 2020; Zhu et al., 2011) or Michael 
+198  acceptor (Tan et al., 2013; Zhang et al., 2020) warheads. The cyclopentyl substituent on the 
+199  warhead amide is well defined by the electron density (Fig. 3b and Fig. S10) and is situated 
+200  4.2 Å from the sidechain of Mpro Leu27, demonstrating a hydrophobic contact between the 
+201  cyclopentyl moiety and the aliphatic Leu27 sidechain (Fig. 3c). 
+202   
+203  In the P2 position of RAY1216, the peptide bond is stabilized within the 
+204  cyclopentylproline moiety previously utilized at the P2 position of telaprevir (Lin et al., 2006; 
+205  Qiao et al., 2021). Electron density shows that the hydrophobic cyclopentyl ring slots snugly 
+206  into the groove between M49 and M165 (Fig. 3b-c and Fig. S10). Plasticity has been 
+207  observed for the S2 substrate binding pocket which accommodates the P2 moiety upon 
+208  inhibitor binding (Fig. S11) (Kneller et al., 2020). It has been shown that S2 pockets in 
+209  coronavirus Mpro have a strong preference towards hydrophobic amino acids, particularly 
+210  leucine (Rut et al., 2021; Sacco et al., 2020; Xiong et al., 2021). It has also been shown in a 
+211  separate study that dimethylcyclopropylproline and cyclopentylproline, used in boceprevir 
+212  and telaprevir respectively (Fig. 1), when incorporated in a-ketoamide inhibitors, can each 
+213  occupy the S2 pocket with similar potencies (Qiao et al., 2021). 
+214   
+215  The P3 moiety of RAY1216 features a cyclohexyl group that extends towards the 
+216  exterior of the active site without making any direct contacts with Mpro (Fig. 3c). The density 
+217  for the cyclohexyl para-carbon positioned furthest from the active site cavity is weak (Fig. 
+218  3b), suggesting that the cyclohexyl group remains relatively flexible within the inhibitor-
+219  enzyme complex. Nevertheless, it has been reported that substituents at P3 position can affect 
+220  both drug potency and pharmacokinetic properties (Owen et al., 2021; Qiao et al., 2021). 
+221   
+222  RAY1216 and PF-07321332 share the same γ-lactam and tri-fluoroacetamide moieties at 
+223  P1 and P4 respectively. The P1 γ-lactam is known as an optimal fragment for viral protease 
+224  inhibition as it mimics glutamine and has been proven to be responsible for potent inhibitory 
+225  activity against a variety of enzymes with specificity towards native substrates with a P1 
+226  glutamine (Dragovich et al., 1999; Owen et al., 2021; Qiao et al., 2021). In the RAY1216: 
+  7 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+227  Mpro complex, the γ-lactam nitrogen donates potential hydrogen bonds to the backbone 
+228  carbonyl oxygen of Phe140 (3.19 Å), to the carboxylate of Glu166 (3.17 Å), and to the 
+229  sidechain hydroxyl of Ser1 from the second monomer of the MPro dimer (Fig. 3c). The γ-
+230  lactam carbonyl oxygen accepts a hydrogen bond (2.54 Å) from the imidazole of His163 
+231  (Fig. 3c). These interactions have also been observed in the complex formed between PF-
+232  07321332 and Mpro (Fig. 3d) (Owen et al., 2021). Clear electron density is observed for the 
+233  P4 tri-fluoroacetamide capping moiety in the RAY1216:Mprocomplex structure (Fig. 3b and 
+ 
+234  Fig.S10), it contacts Leu167 sidechain and accepts a hydrogen bond from Gln192 amide 
+235  (Fig. 3c). Equivalent interactions have been observed in the PF-07321332:Mprocomplex 
+ 
+236  structure (Fig. 3d) (Owen et al., 2021). In summary, despite differences in the P1’ warhead, 
+237  P2 bicycloproline and P3 substituent structures, interactions mediated by the P1 γ-lactam and 
+238  P4 tri-fluoroacetamide moieties are largely maintained between RAY1216 and PF-07321332. 
+239   
+240  Antiviral activities of RAY1216 in cell culture and mouse models 
+241   
+242  Based on the encouraging in vitro activity of RAY1216, we next sought to investigate 
+243  inhibitory activity of RAY1216 towards SARS-CoV-2 infection in cell and mouse model. 
+244  The 50% cytotoxic concentration (CC ) of RAY1216 was determined to be 511 μM for 
+50
+245  VeroE6 cells (Fig. S12). In virus inhibition assays the half-maximal effective concentration 
+246  (EC ) values for RAY1216 against different SARS-CoV-2 variants are 95 nM (WT), 130 
+50
+247  nM (Alpha), 277 nM (Beta), 97 nM (Delta), 86 nM (Omicron BA.1) and 158 nM (Omicron 
+248  BA.5), respectively (Fig. 4a). The corresponding selectivity indices (SI, CC /EC ) are 
+50 50
+249  ~5380 (WT), ~3930 (Alpha), ~1850 (Beta), ~5270 (Delta), ~5940 (Omicron BA.1) and 
+250  ~3230 (Omicron BA.5), respectively (Table 2 and Fig. S13). 
+251   
+252  We further characterized the protective effect of RAY1216 against virus infection in a 
+253  human ACE2 transgenic mouse model (Bao et al., 2020). Mice were intranasally challenged 
+254  with lethal doses (105 PFU) of SARS-CoV-2 (Delta variant) and the protective effect of 
+255  RAY1216 was assessed. The mortality of the mice in the untreated virus-infected group was 
+256  100% at 5 days post-infection. RAY1216 administered at three different doses (600 
+257  mg/kg/day, 300 mg/kg/day and 150 mg/kg/day) was able to protect mice infected with 
+258  SARS-CoV-2 by 100%, 43% and 14%, respectively (Fig. 4b). This result suggests that 
+259  treatment with RAY1216 effectively prolonged survival of SARS-CoV-2 infected mice (Fig. 
+260  4c). To examine effect of RAY1216 on lung virus titre and pathology, a separate set of 
+261  experiments was performed with a non-lethal dose of virus inoculum (103.5 PFU). RAY1216 
+  8 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+262  (600 mg/kg/day and 300 mg/kg/day) decreased viral titres in lungs significantly compared 
+263  with the infection-only group (Fig. 4d). Compared to the infection-only group, RAY1216 
+264  (600 mg/kg/day) was able to reduce lung virus titre by more than 1 Log unit. This effect may 
+265  be slightly weaker for RAY1216 compared to PF-07321332 under the same experimental set-
+266  up (Fig. 4d and e), but the difference is not statistically significant. Lung histopathology of 
+267  infected mice, compared to that of infected mice treated by RAY1216, shows that RAY1216 
+268  administered at 600 mg/kg/day and 300 mg/kg/day reduced virus induced pathology (Fig. 4f). 
+269  RAY1216 administered at a dose of 600 mg/kg/day provided a similar level of protection 
+270  against lung tissue inflammation injury to that observed with PF-07321332 (Fig. 4f). 
+271   
+272  Pharmacokinetics of RAY1216 
+273   
+274  Pharmacokinetics (PK) can significantly influence drug therapeutic efficacy. We next 
+275  examined pharmacokinetics of RAY1216 and PF-07321332 in head-to-head experiments. 
+276  RAY1216 and PF-07321332 show comparable in-vitro stabilities in plasmata of various 
+277  different animal species (Table S6), based on this result, we investigated in-vivo PK 
+278  properties of RAY1216 and compared with those of PF-07321332 in mice, rats and 
+279  cynomolgus macaques (Table 3). Following intravenous (IV) administration, RAY1216 has 
+280  plasma clearance (Cl) rates in the range of 10 – 22.5 mL/min/kg (compared to 23.4 – 30.2 
+281  mL/min/kg for PF-07321332) and elimination half-lives in the range of 0.9 - 3.8 h (compared 
+282  to 0.3 – 0.7 h for PF-07321332) among different animals. Following oral (PO) 
+283  administration, RAY1216 has elimination half-lives ranging between 2.6 – 14.9 h (compared 
+284  to 1.1-1.4 h for PF-07321332) among the different animal models. These characteristics 
+285  represent an improvement over PF-07321332, which demonstrates faster plasma clearance 
+286  and shorter elimination half-lives under equivalent conditions across all the animal models 
+287  tested. These in vitro and in vivo data indicate that RAY1216 may have promising human PK 
+288  profile. Indeed, it has been noted in a number of studies that α-ketoamides appear to possess 
+289  superior chemical and metabolic stability, particularly comparing to aldehyde based 
+290  peptidomimetics (Robello et al., 2021). 
+291   
+292  In mouse pharmacokinetics experiments, RAY1216 also exhibits improvements when 
+293  compared to PF-07321332, in area under the curve from time 0 extrapolated to last 
+294  (AUC ) for serum drug concentration (Fig. 5). Based on EC /EC  values determined 
+0~last 50 90
+295  using VeroE6 cells, a single IV dose of 3 mg kg–1 maintained the RAY1216 plasma 
+296  concentration above EC  and EC  for 4 hours and 8 hours respectively. A single PO dose of 
+50 90
+  9 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+297  10 mg kg–1 maintained the RAY1216 plasma concentration above EC  and EC  for 6 hours 
+50 90
+298  and 10 hours respectively. Both parameters represent a marked improvement over those 
+299  obtained for PF-07321332, the active anti-viral component in Paxlovid. 
+300   
+301  Discussion 
+302   
+303  In this study, we characterized inhibition of SARS-CoV-2 Mpro by RAY1216, a 
+304  peptidomimetic inhibitor. This compound features a cyclopentyl-substituted α-ketoamide 
+305  warhead, a P1 pyroglutamine (known to confer selectivity towards CoV Mpro), a P2 
+306  cyclopentylproline as originally utilized in the anti-HCV drug telaprevir (Yip et al., 2004a), a 
+307  P3 cyclohexylglycine, and finally a P4 tri-fluoroacetamide as utilized in PF-07321332. We 
+308  found more extensive interactions between the covalently attached drug and the SARS-CoV-
+309  2 Mpro enzyme in the crystal structure of the RAY1216:Mpro acyl enzyme complex, compared 
+310  with that of PF-07321332. In enzyme inhibition assays we found that RAY1216 inhibits Mpro 
+311  via a slow-tight mechanism, with an approximately 12-fold longer drug-target residence time. 
+312  These inhibition characteristics suggest that RAY1216 forms a more stable acyl-enzyme 
+313  adduct when compared with PF-07321332. It has recently emerged that drug-target residence 
+314  time is an important parameter to optimise for drug efficacy (Copeland et al., 2006; Dahl and 
+315  Akerud, 2013; Lu and Tonge, 2010). In pharmacokinetic studies, RAY1216 showed 
+316  improved elimination half-lives compared to PF-07321332. This may allow its use without 
+317  ritonavir which is known to have significant unwanted drug-drug interactions.  
+318   
+319  In summary, RAY1216 possesses superior drug-target residence time and 
+320  pharmacokinetic properties when compared with PF-07321332 (nirmatrelvir), the active anti-
+321  viral component in Paxlovid. On the other hand, PF-07321332 is slightly favoured over 
+322  RAY1216 in reducing mouse lung viral titre. The real-world efficacy of RAY1216 as a 
+323  potential therapeutic for the treatment of COVID-19 in humans will be revealed by phase III 
+324  clinical trial, which is currently ongoing. 
+325     
+  10 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+326   
+327   
+328  Fig 1. Chemical structures of RAY1216 and related anti-viral protease inhibitors. 
+329     
+  11 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+330   
+331   
+332  Fig. 2 SARS-CoV-2 Mpro inhibition by RAY1216 and PF-07321332. a, Progress curves of 
+333  Mpro inhibition (80 nM Mpro, 20 μM substrate) at different RAY1216 concentrations (data 
+334  points), reactions were started without preincubation. Progress curves are fit in DynaFit 
+335  (Kuzmic, 1996; 2009) using ODE method (lines) and residuals of the fits are shown. b, 
+336  Progress curves of Mpro inhibition by PF- 07321332 under the same experimental conditions 
+337  and they are fit in DynaFit using the same analysis procedure. c and d, Instantaneous reaction 
+338  rates derived from the fits to the progress curves. See Methods for mathematical and 
+339  statistical details of data-analytic procedures. 
+340     
+  12 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+parameter  unit  RAY1216  PF-07321332  ratio RAY/PF 
+k µM-1 s-1  0.019 ± 0.001  0.49 ± 0.04  0.04 
+a 
+k s-1  0.000161 ± 0.000008  0.0018 ± 0.0002  0.09 
+d 
+Ki =kd/ka  nM  8.4 ± 0.2   3.8 ± 0.2  2.2 
+t min  104 ± 5  9 ± 1  11.5 
+res 
+341   
+342  Table 1. Kinetic parameters of MPro inhibition by RAY1216 and PF-07321332 as 
+343  determined by ODE method in DynaFit. Mean and standard deviation from replicates (n = 
+344  3) are reported. See Methods for mathematical and statistical details of data-analytic 
+345  procedures. 
+346   
+347   
+348     
+  13 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+349 
+ 
+350   
+351  Fig. 3 Crystal structure of RAY1216 in complex with SARS-CoV-2 Mpro. a, Cartoon 
+352  representation of the dimeric Mpro bound to RAY1216. Promoter A is in green, protomer B is 
+353  in blue and RAY1216 is shown as yellow ball-and-stick models in active sites of both Mpro 
+354  protomers. b, A zoom-in view of the RAY1216 bound active site of protomer A. 2Fo-Fc 
+355  density map (blue mesh, contoured at 1.3σ) is shown around bound RAY1216 and the 
+356  catalytic Cys145 side chain (also see Fig. S10 for omit map densities). Clear electron density 
+357  is observed for the thiohemiketal bond formed between the bound RAY1216 α-keto carbon 
+358  and the catalytic Cys145 sulfur. c, Same view as in b showing detailed interactions between 
+359  RAY1216 and active site of Mpro. Selected sidechains of interacting residues are shown, 
+360  backbone carbonyl and amide are represented as red and blue dots. d, Detailed interactions 
+361  between PF-07321332 and active site of Mpro(based on PDB: 7RFW (Owen et al., 2021)) are 
+ 
+362  shown in the same view as in c. In c and d, Molecular surfaces of selected residues involved 
+363  in hydrophobic contacts with bound inhibitors are shown. Hydrogen bonds are shown in 
+364  dashed lines. Extra hydrogen bonds formed by RAY1216 to Mpro or hydrogen bonds of 
+  14 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+365  different properties to Mpro between RAY1216 and PF-07321332 are highlighted with 
+366  colours. 
+367     
+  15 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+368   
+369  Fig 4. Antiviral activities of RAY1216 in cell culture and animal model. a, Inhibition of 
+370  SARS-CoV-2 wildtype ancestral strain and variants in cell culture. Protection of Vero E6 cell 
+371  from cytopathic effect (CPE) of SARS-CoV-2 virus infection was assessed by MTT cell 
+  16 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+372  viability assay (mean ± SD, n = 3). Virus inhibition titres are estimated from dose response 
+373  curves of cell survival vs RAY1216 concentration. b and c, body weight change (mean ± SD) 
+374  and survival rates of ACE2 transgenic C57BL/6 mice infected with SARS-CoV-2 after 
+375  receiving indicated daily oral doses of RAY1216, PF-07321332 or PBS control (n = 7). d and 
+376  e, SARS-CoV-2 virus titres (mean ± SD) in mouse lung tissues at 3 d.p.i. (n = 3) and 5 d.p.i 
+377  (n = 7) after receiving indicated daily doses of RAY1216 or PF-07321332. f, Comparison of 
+378  virus induced histology changes in mouse lung tissues after receiving indicated oral daily 
+379  doses of RAY1216, PF-07321332 (n = 3). Histology examples of no virus (NC) and virus 
+380  (virus) controls are included for comparison. 
+381   
+382     
+  17 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+                   
+SARS-CoV-2  RAY1216 (nM)  PF-07321332 (nM) 
+variant 
+EC   EC   EC   EC  
+50 90 50 90
+WT   95  228  94  193 
+Alpha   130  349  72  205 
+Beta   277  685  145  328 
+Delta   97  251  71  177 
+Omicron BA.1  86  204  107  215 
+Omicron BA.5  158  359  111  266 
+   
+       
+383  Table 2. Antiviral activities of RAY1216 compared to PF-07321332 in cell culture. 
+384   
+385   
+  18 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+                                     
+dose  C   T   AUC Cl  Vd   T   oral F 
+max max 0~last          ss 1/2
+Compound  Species 
+(mg/kg)  (nM)  (h)  (nM·h)  (mL/min/kg)  (L/kg)  (h)  (%) 
+ 
+3.0 (IV)  --  --  7789  10  1.4  3.8  -- 
+mouse 
+10 (PO)  1287  2.0  5698  --  --  2.6  22 
+ 
+2.0 (IV)  --  --  4505  12.5  1.1  2.2  -- 
+RAY1216  rat 
+10 (PO)  916  0.9  7429  --  --  4.3  33 
+1.0 (IV)  --  --  1157  22.5  1.0  0.9  -- 
+cynomolgus 
+macaque 
+5.0 (PO)  102  1.5  458  --  --  14.9  8 
+ 
+3.0 (IV)  --  --  3327  30.2  0.46  0.7  -- 
+mouse 
+10 (PO)  2715  0.3  3577  --  --  1.1  33 
+ 
+2.0 (IV)  --  --  1600  42  1.2  0.8  -- 
+PF-
+rat 
+07321332 
+10 (PO)  2173  0.4  2384  --  --  1.0  30 
+1.0 (IV)  --  --  1511  23.4  0.5  0.3  -- 
+cynomolgus 
+macaque 
+5.0 (PO)  601  1.5  793  --  --  1.4  11 
+                     
+386   
+387  Table 3. Compound pharmacokinetics parameters in different animal species. 
+388  C : the maximum observed concentration of the drug collected in bodily material from subjects in a clinical study 
+max
+389  T : the time it takes to reach the maximum concentration or time to C  
+max max
+390  AUC: “Area Under the Curve” and represents the total exposure of the drug experienced by the subject in a clinical study 
+391  Cl: total plasma clearance 
+392  Vd : Steady state volume of distribution 
+ss
+393  T : Half-time is the time it takes for half the drug concentration to be eliminated 
+1/2
+394  oral (F%): Oral bioavailability
+  19 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+395   
+396   
+397  Fig 5. Plasma concentrations of RAY1216 and PF-07321332 after intravenous 
+398  injection (IV) dosing and gavage (PO) dosing in mice. Red dashed line represents the 
+399  lower limit of quantitation (LLOQ: 2 nM/L) of plasma drug concentration. EC  and EC  
+50 90
+400  values against SARS-CoV-2 WT strain determined using Vero E6 cell are indicated by black 
+401  dashed lines. 
+402   
+403     
+  20 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+404  References 
+405   
+406  Bao, L., Deng, W., Huang, B., Gao, H., Liu, J., Ren, L., Wei, Q., Yu, P., Xu, Y., Qi, F., et al. (2020). The 
+407  pathogenicity of SARS-CoV-2 in hACE2 transgenic mice. Nature 583, 830-833. 10.1038/s41586-
+408  020-2312-y. 
+409  Bates, D.M., and Watts, D.G. (1988). Nonlinear regression analysis and its applications (Wiley). 
+410  Boras, B., Jones, R.M., Anson, B.J., Arenson, D., Aschenbrenner, L., Bakowski, M.A., Beutler, N., 
+411  Binder, J., Chen, E., Eng, H., et al. (2021). Preclinical characterization of an intravenous 
+412  coronavirus 3CL protease inhibitor for the potential treatment of COVID19. Nat Commun 12, 
+413  6055. 10.1038/s41467-021-26239-2. 
+414  Bradshaw, J.M., McFarland, J.M., Paavilainen, V.O., Bisconte, A., Tam, D., Phan, V.T., Romanov, S., 
+415  Finkle, D., Shu, J., Patel, V., et al. (2015). Prolonged and tunable residence time using reversible 
+416  covalent kinase inhibitors. Nat Chem Biol 11, 525-531. 10.1038/nchembio.1817. 
+417  Breidenbach, J., Lemke, C., Pillaiyar, T., Schakel, L., Al Hamwi, G., Diett, M., Gedschold, R., Geiger, 
+418  N., Lopez, V., Mirza, S., et al. (2021). Targeting the Main Protease of SARS-CoV-2: From the 
+419  Establishment of High Throughput Screening to the Design of Tailored Inhibitors. Angew Chem 
+420  Int Ed Engl 60, 10423-10429. 10.1002/anie.202016961. 
+421  Cha, S. (1975). Tight-binding inhibitors—I: Kinetic behavior. Biochemical Pharmacology 24, 2177-
+422  2185. https://doi.org/10.1016/0006-2952(75)90050-7. 
+423  Cha, S. (1976). Tight-binding inhibitors—III: A new approach for the determination of competition 
+424  between tight-binding inhibitors and substrates—inhibition of adenosine deaminase by 
+425  coformycin. Biochemical Pharmacology 25, 2695-2702. https://doi.org/10.1016/0006-
+426  2952(76)90259-8. 
+427  Cha, S., Agarwal, R.P., and Parks, R.E. (1975). Tight-binding inhibitors—II: Non-steady state nature of 
+428  inhibition of milk xanthine oxidase by allopurinol and alloxanthine and of human erythrocytic 
+429  adenosine deaminase by coformycin. Biochemical Pharmacology 24, 2187-2197. 
+430  https://doi.org/10.1016/0006-2952(75)90051-9. 
+431  Chen, S.H., and Tan, S.L. (2005). Discovery of small-molecule inhibitors of HCV NS3-4A protease as 
+432  potential therapeutic agents against HCV infection. Curr Med Chem 12, 2317-2342. 
+433  10.2174/0929867054864769. 
+434  Copeland, R.A. ( 2013). Evaluation of enzyme inhibitors in drug discovery : a guide for medicinal 
+435  chemists and pharmacologists, 2nd Edition (Wiley). 
+436  Copeland, R.A., Pompliano, D.L., and Meek, T.D. (2006). Drug-target residence time and its 
+437  implications for lead optimization. Nat Rev Drug Discov 5, 730-739. 10.1038/nrd2082. 
+438  Cox, M., Peacock, T.P., Harvey, W.T., Hughes, J., Wright, D.W., Consortium, C.-G.U., Willett, B.J., 
+439  Thomson, E., Gupta, R.K., Peacock, S.J., et al. (2022). SARS-CoV-2 variant evasion of 
+440  monoclonal antibodies based on in vitro studies. Nat Rev Microbiol, 1-13. 10.1038/s41579-022-
+441  00809-7. 
+442  Dahl, G., and Akerud, T. (2013). Pharmacokinetics and the drug-target residence time concept. Drug 
+443  Discov Today 18, 697-707. 10.1016/j.drudis.2013.02.010. 
+  21 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+444  Dai, W., Zhang, B., Jiang, X.M., Su, H., Li, J., Zhao, Y., Xie, X., Jin, Z., Peng, J., Liu, F., et al. (2020). 
+445  Structure-based design of antiviral drug candidates targeting the SARS-CoV-2 main protease. 
+446  Science 368, 1331-1335. 10.1126/science.abb4489. 
+447  Dragovich, P.S., Prins, T.J., Zhou, R., Webber, S.E., Marakovits, J.T., Fuhrman, S.A., Patick, A.K., 
+448  Matthews, D.A., Lee, C.A., Ford, C.E., et al. (1999). Structure-based design, synthesis, and 
+449  biological evaluation of irreversible human rhinovirus 3C protease inhibitors. 4. Incorporation of 
+450  P1 lactam moieties as L-glutamine replacements. J Med Chem 42, 1213-1224. 
+451  10.1021/jm9805384. 
+452  Drayman, N., DeMarco, J.K., Jones, K.A., Azizi, S.A., Froggatt, H.M., Tan, K., Maltseva, N.I., Chen, 
+453  S., Nicolaescu, V., Dvorkin, S., et al. (2021). Masitinib is a broad coronavirus 3CL inhibitor that 
+454  blocks replication of SARS-CoV-2. Science 373, 931-936. 10.1126/science.abg5827. 
+455  Emsley, P., and Cowtan, K. (2004). Coot: model-building tools for molecular graphics. Acta Crystallogr 
+456  D Biol Crystallogr 60, 2126-2132. 10.1107/S0907444904019158. 
+457  Fenton, C., and Keam, S.J. (2022). Emerging small molecule antivirals may fit neatly into COVID-19 
+458  treatment. Drugs Ther Perspect 38, 112-126. 10.1007/s40267-022-00897-8. 
+459  Fersht, A. (1999). Structure and mechanism in protein science : a guide to enzyme catalysis and 
+460  protein folding (W.H. Freeman). 
+461  Gao, S., Sylvester, K., Song, L., Claff, T., Jing, L., Woodson, M., Weisse, R.H., Cheng, Y., Schakel, L., 
+462  Petry, M., et al. (2022). Discovery and Crystallographic Studies of Trisubstituted Piperazine 
+463  Derivatives as Non-Covalent SARS-CoV-2 Main Protease Inhibitors with High Target Specificity 
+464  and Low Toxicity. J Med Chem 65, 13343-13364. 10.1021/acs.jmedchem.2c01146. 
+465  Grum-Tokars, V., Ratia, K., Begaye, A., Baker, S.C., and Mesecar, A.D. (2008). Evaluating the 3C-like 
+466  protease activity of SARS-Coronavirus: recommendations for standardized assays for drug 
+467  discovery. Virus Res 133, 63-73. 10.1016/j.virusres.2007.02.015. 
+468  Harvey, W.T., Carabelli, A.M., Jackson, B., Gupta, R.K., Thomson, E.C., Harrison, E.M., Ludden, C., 
+469  Reeve, R., Rambaut, A., Peacock, S.J., and Robertson, D.L. (2021). SARS-CoV-2 variants, spike 
+470  mutations and immune escape. Nature Reviews Microbiology 19, 409-424. 10.1038/s41579-021-
+471  00573-0. 
+472  Jin, Z., Du, X., Xu, Y., Deng, Y., Liu, M., Zhao, Y., Zhang, B., Li, X., Zhang, L., Peng, C., et al. (2020). 
+473  Structure of M(pro) from SARS-CoV-2 and discovery of its inhibitors. Nature 582, 289-293. 
+474  10.1038/s41586-020-2223-y. 
+475  Johnson, K.A. (2009). Fitting enzyme kinetic data with KinTek Global Kinetic Explorer. Methods 
+476  Enzymol 467, 601-626. 10.1016/S0076-6879(09)67023-3. 
+477  Kabsch, W. (2010). XDS. Acta Crystallogr D Biol Crystallogr 66, 125-132. 
+478  10.1107/S0907444909047337. 
+479  Kitamura, N., Sacco, M.D., Ma, C., Hu, Y., Townsend, J.A., Meng, X., Zhang, F., Zhang, X., Ba, M., 
+480  Szeto, T., et al. (2022). Expedited Approach toward the Rational Design of Noncovalent SARS-
+481  CoV-2 Main Protease Inhibitors. J Med Chem 65, 2848-2865. 10.1021/acs.jmedchem.1c00509. 
+482  Kneller, D.W., Phillips, G., O'Neill, H.M., Jedrzejczak, R., Stols, L., Langan, P., Joachimiak, A., Coates, 
+483  L., and Kovalevsky, A. (2020). Structural plasticity of SARS-CoV-2 3CL M(pro) active site cavity 
+  22 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+484  revealed by room temperature X-ray crystallography. Nat Commun 11, 3202. 10.1038/s41467-
+485  020-16954-7. 
+486  Kuzmic, P. (1996). Program DYNAFIT for the analysis of enzyme kinetic data: application to HIV 
+487  proteinase. Anal Biochem 237, 260-273. 10.1006/abio.1996.0238. 
+488  Kuzmic, P. (2009). DynaFit--a software package for enzymology. Methods Enzymol 467, 247-280. 
+489  10.1016/S0076-6879(09)67010-5. 
+490  Kwong, A.D., Kauffman, R.S., Hurter, P., and Mueller, P. (2011). Discovery and development of 
+491  telaprevir: an NS3-4A protease inhibitor for treating genotype 1 chronic hepatitis C virus. Nat 
+492  Biotechnol 29, 993-1003. 10.1038/nbt.2020. 
+493  Lin, C., Kwong, A.D., and Perni, R.B. (2006). Discovery and development of VX-950, a novel, 
+494  covalent, and reversible inhibitor of hepatitis C virus NS3.4A serine protease. Infect Disord Drug 
+495  Targets 6, 3-16. 10.2174/187152606776056706. 
+496  Liu, Y., Kati, W., Chen, C.M., Tripathi, R., Molla, A., and Kohlbrenner, W. (1999). Use of a fluorescence 
+497  plate reader for measuring kinetic parameters with inner filter effect correction. Anal Biochem 
+498  267, 331-335. 10.1006/abio.1998.3014. 
+499  Lu, H., and Tonge, P.J. (2010). Drug-target residence time: critical information for lead optimization. 
+500  Curr Opin Chem Biol 14, 467-474. 10.1016/j.cbpa.2010.06.176. 
+501  Ma, C., Sacco, M.D., Hurst, B., Townsend, J.A., Hu, Y., Szeto, T., Zhang, X., Tarbet, B., Marty, M.T., 
+502  Chen, Y., and Wang, J. (2020). Boceprevir, GC-376, and calpain inhibitors II, XII inhibit SARS-
+503  CoV-2 viral replication by targeting the viral main protease. Cell Res 30, 678-692. 
+504  10.1038/s41422-020-0356-z. 
+505  Ma, C., Xia, Z., Sacco, M.D., Hu, Y., Townsend, J.A., Meng, X., Choza, J., Tan, H., Jang, J., Gongora, 
+506  M.V., et al. (2021). Discovery of Di- and Trihaloacetamides as Covalent SARS-CoV-2 Main 
+507  Protease Inhibitors with High Target Specificity. J Am Chem Soc 143, 20697-20709. 
+508  10.1021/jacs.1c08060. 
+509  Ma, Q., Lei, B., Chen, R., Liu, B., Lu, W., Jiang, H., Chen, Z., Guo, X., Wang, Y., Zhang, L., et al. 
+510  (2022). Liushen Capsules, a promising clinical candidate for COVID-19, alleviates SARS-CoV-2-
+511  induced pulmonary in vivo and inhibits the proliferation of the variant virus strains in vitro. Chin 
+512  Med 17, 40. 10.1186/s13020-022-00598-4. 
+513  McCoy, A.J., Grosse-Kunstleve, R.W., Adams, P.D., Winn, M.D., Storoni, L.C., and Read, R.J. (2007). 
+514  Phaser crystallographic software. J Appl Crystallogr 40, 658-674. 10.1107/S0021889807021206. 
+515  Morrison, J.F. (1982). The slow-binding and slow, tight-binding inhibition of enzyme-catalysed 
+516  reactions. Trends in Biochemical Sciences 7, 102-105. https://doi.org/10.1016/0968-
+517  0004(82)90157-8. 
+518  Morrison, J.F., and Walsh, C.T. (1988). The Behavior and Significance of Slow-Binding Enzyme 
+519  Inhibitors. In Advances in Enzymology and Related Areas of Molecular Biology, pp. 201-301. 
+520  https://doi.org/10.1002/9780470123072.ch5. 
+521  Murshudov, G.N., Vagin, A.A., and Dodson, E.J. (1997). Refinement of macromolecular structures by 
+522  the maximum-likelihood method. Acta Crystallogr D Biol Crystallogr 53, 240-255. 
+523  10.1107/S0907444996012255. 
+  23 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+524  Owen, D.R., Allerton, C.M.N., Anderson, A.S., Aschenbrenner, L., Avery, M., Berritt, S., Boras, B., 
+525  Cardin, R.D., Carlo, A., Coffman, K.J., et al. (2021). An oral SARS-CoV-2 M(pro) inhibitor clinical 
+526  candidate for the treatment of COVID-19. Science 374, 1586-1593. 10.1126/science.abl4784. 
+527  Park, K.I., Park, H.S., Kang, S.R., Nagappan, A., Lee, D.H., Kim, J.A., Han, D.Y., and Kim, G.S. 
+528  (2011). Korean Scutellaria baicalensis water extract inhibits cell cycle G1/S transition by 
+529  suppressing cyclin D1 expression and matrix-metalloproteinase-2 activity in human lung cancer 
+530  cells. J Ethnopharmacol 133, 634-641. 10.1016/j.jep.2010.10.057. 
+531  Qiao, J., Li, Y.S., Zeng, R., Liu, F.L., Luo, R.H., Huang, C., Wang, Y.F., Zhang, J., Quan, B., Shen, C., 
+532  et al. (2021). SARS-CoV-2 M(pro) inhibitors with antiviral activity in a transgenic mouse model. 
+533  Science 371, 1374-1378. 10.1126/science.abf1611. 
+534  Quan, B.X., Shuai, H., Xia, A.J., Hou, Y., Zeng, R., Liu, X.L., Lin, G.F., Qiao, J.X., Li, W.P., Wang, F.L., 
+535  et al. (2022). An orally available M(pro) inhibitor is effective against wild-type SARS-CoV-2 and 
+536  variants including Omicron. Nat Microbiol 7, 716-725. 10.1038/s41564-022-01119-7. 
+537  Robello, M., Barresi, E., Baglini, E., Salerno, S., Taliani, S., and Settimo, F.D. (2021). The Alpha Keto 
+538  Amide Moiety as a Privileged Motif in Medicinal Chemistry: Current Insights and Emerging 
+539  Opportunities. J Med Chem 64, 3508-3545. 10.1021/acs.jmedchem.0c01808. 
+540  Rut, W., Groborz, K., Zhang, L., Sun, X., Zmudzinski, M., Pawlik, B., Wang, X., Jochmans, D., Neyts, 
+541  J., Mlynarski, W., et al. (2021). SARS-CoV-2 M(pro) inhibitors and activity-based probes for 
+542  patient-sample imaging. Nat Chem Biol 17, 222-228. 10.1038/s41589-020-00689-z. 
+543  Sacco, M.D., Ma, C., Lagarias, P., Gao, A., Townsend, J.A., Meng, X., Dube, P., Zhang, X., Hu, Y., 
+544  Kitamura, N., et al. (2020). Structure and inhibition of the SARS-CoV-2 main protease reveal 
+545  strategy for developing dual inhibitors against M(pro) and cathepsin L. Sci Adv 6. 
+546  10.1126/sciadv.abe0751. 
+547  Sheldrick, G.M. (2015a). Crystal structure refinement with SHELXL. Acta Crystallogr C Struct Chem 
+548  71, 3-8. 10.1107/S2053229614024218. 
+549  Sheldrick, G.M. (2015b). SHELXT - integrated space-group and crystal-structure determination. Acta 
+550  Crystallogr A Found Adv 71, 3-8. 10.1107/S2053273314026370. 
+551  Tan, J., George, S., Kusov, Y., Perbandt, M., Anemüller, S., Mesters, J.R., Norder, H., Coutard, B., 
+552  Lacroix, C., Leyssen, P., et al. (2013). 3C protease of enterovirus 68: structure-based design of 
+553  Michael acceptor inhibitors and their broad-spectrum antiviral effects against picornaviruses. J 
+554  Virol 87, 4339-4351. 10.1128/jvi.01123-12. 
+555  Tian, D., Sun, Y., Xu, H., and Ye, Q. (2022). The emergence and epidemic characteristics of the highly 
+556  mutated SARS-CoV-2 Omicron variant. J Med Virol 94, 2376-2383. 10.1002/jmv.27643. 
+557  Unoh, Y., Uehara, S., Nakahara, K., Nobori, H., Yamatsu, Y., Yamamoto, S., Maruyama, Y., Taoda, Y., 
+558  Kasamatsu, K., Suto, T., et al. (2022). Discovery of S-217622, a Noncovalent Oral SARS-CoV-2 
+559  3CL Protease Inhibitor Clinical Candidate for Treating COVID-19. J Med Chem 65, 6499-6512. 
+560  10.1021/acs.jmedchem.2c00117. 
+561  Watts, D.G. (1994). Parameter estimates from nonlinear models. Methods Enzymol 240, 23-36. 
+562  10.1016/s0076-6879(94)40041-5. 
+563  Winn, M.D., Ballard, C.C., Cowtan, K.D., Dodson, E.J., Emsley, P., Evans, P.R., Keegan, R.M., 
+  24 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+564  Krissinel, E.B., Leslie, A.G., McCoy, A., et al. (2011). Overview of the CCP4 suite and current 
+565  developments. Acta Crystallogr D Biol Crystallogr 67, 235-242. 10.1107/S0907444910045749. 
+566  Xiong, M., Su, H., Zhao, W., Xie, H., Shao, Q., and Xu, Y. (2021). What coronavirus 3C-like protease 
+567  tells us: From structure, substrate selectivity, to inhibitor design. Med Res Rev 41, 1965-1998. 
+568  10.1002/med.21783. 
+569  Yip, Y., Victor, F., Lamar, J., Johnson, R., Wang, Q.M., Barket, D., Glass, J., Jin, L., Liu, L., Venable, 
+570  D., et al. (2004a). Discovery of a novel bicycloproline P2 bearing peptidyl alpha-ketoamide 
+571  LY514962 as HCV protease inhibitor. Bioorg Med Chem Lett 14, 251-256. 
+572  10.1016/j.bmcl.2003.09.074. 
+573  Yip, Y., Victor, F., Lamar, J., Johnson, R., Wang, Q.M., Glass, J.I., Yumibe, N., Wakulchik, M., Munroe, 
+574  J., and Chen, S.H. (2004b). P4 and P1' optimization of bicycloproline P2 bearing tetrapeptidyl 
+575  alpha-ketoamides as HCV protease inhibitors. Bioorg Med Chem Lett 14, 5007-5011. 
+576  10.1016/j.bmcl.2004.07.007. 
+577  Zaidman, D., Gehrtz, P., Filep, M., Fearon, D., Gabizon, R., Douangamath, A., Prilusky, J., 
+578  Duberstein, S., Cohen, G., Owen, C.D., et al. (2021). An automatic pipeline for the design of 
+579  irreversible derivatives identifies a potent SARS-CoV-2 M(pro) inhibitor. Cell Chem Biol 28, 1795-
+580  1806 e1795. 10.1016/j.chembiol.2021.05.018. 
+581  Zhang, L., Lin, D., Sun, X., Curth, U., Drosten, C., Sauerhering, L., Becker, S., Rox, K., and 
+582  Hilgenfeld, R. (2020). Crystal structure of SARS-CoV-2 main protease provides a basis for 
+583  design of improved α-ketoamide inhibitors. Science 368, 409-412. 10.1126/science.abb3405. 
+584  Zhao, Y., Fang, C., Zhang, Q., Zhang, R., Zhao, X., Duan, Y., Wang, H., Zhu, Y., Feng, L., Zhao, J., et 
+585  al. (2022). Crystal structure of SARS-CoV-2 main protease in complex with protease inhibitor PF-
+586  07321332. Protein Cell 13, 689-693. 10.1007/s13238-021-00883-2. 
+587  Zhou, S., Hill, C.S., Sarkar, S., Tse, L.V., Woodburn, B.M.D., Schinazi, R.F., Sheahan, T.P., Baric, 
+588  R.S., Heise, M.T., and Swanstrom, R. (2021). β-d-N4-hydroxycytidine Inhibits SARS-CoV-2 
+589  Through Lethal Mutagenesis But Is Also Mutagenic To Mammalian Cells. J Infect Dis 224, 415-
+590  419. 10.1093/infdis/jiab247. 
+591  Zhu, L., George, S., Schmidt, M.F., Al-Gharabli, S.I., Rademann, J., and Hilgenfeld, R. (2011). Peptide 
+592  aldehyde inhibitors challenge the substrate specificity of the SARS-coronavirus main protease. 
+593  Antiviral Res 92, 204-212. 10.1016/j.antiviral.2011.08.001. 
+594  Zhu, N., Zhang, D., Wang, W., Li, X., Yang, B., Song, J., Zhao, X., Huang, B., Shi, W., Lu, R., et al. 
+595  (2020a). A Novel Coronavirus from Patients with Pneumonia in China, 2019. New England 
+596  Journal of Medicine 382, 727-733. 10.1056/NEJMoa2001017. 
+597  Zhu, W., Xu, M., Chen, C.Z., Guo, H., Shen, M., Hu, X., Shinn, P., Klumpp-Thomas, C., Michael, S.G., 
+598  and Zheng, W. (2020b). Identification of SARS-CoV-2 3CL Protease Inhibitors by a Quantitative 
+599  High-Throughput Screening. ACS Pharmacol Transl Sci 3, 1008-1016. 
+600  10.1021/acsptsci.0c00108. 
+601  Ziebuhr, J., Snijder, E.J., and Gorbalenya, A.E. (2000). Virus-encoded proteinases and proteolytic 
+602  processing in the Nidovirales. J Gen Virol 81, 853-879. 10.1099/0022-1317-81-4-853. 
+603     
+  25 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+604  Author contributions 
+605  Z.Y., X.X. and X.C. conceived the study under the direction of N.Z.; X.C., J.H., H.L., C.L. 
+606  and S-H. C. provided the Mpro inhibitors, collected chemical characterization data and in-vivo 
+607  and in-vitro pharmacokinetics data. X.H. expressed, purified Mpro and performed enzyme 
+608  kinetics assays under the supervision of X.X.; Q.M. performed virus inhibition assays in cell 
+609  culture and animal models and prepared figures with assistance from B.L., H.J., W.Z., C.Y., 
+610  S.W. and under the supervision of Z.Y.; P.K. and X.X. analysed enzyme kinetics data and 
+611  prepared figures; X.H. and B.Z. obtained Mpro crystals and performed crystal soaking 
+612  experiments under the supervision of X.X.; J.X., X.H., B.Z., Y.S., Y.G. performed Mpro 
+613  crystal diffraction experiments and collected diffraction data under the supervision of Y.X. 
+614  and J.L.; X.H determined the Mpro crystal structures and built molecular models with 
+615  assistance from C.N., L.X. and under the supervision of X.X.; H.X. and X.X. analysed the 
+616  Mpro crystal structures and prepared figures; with input from all authors, X.X., P.K., X.H., 
+617  Q.M. and X.C. wrote the initial draft which was reviewed and edited by Z.Y., S-H.C., Z.X., 
+618  J.S. T.Z., J.H. and W.D.; N.Z., X.X. and Z.Y. acquired funding and supervised the research. 
+619   
+620  Competing interests 
+621  X.C., J.H., H.L. and C.L. are employees of Guangdong Raynovent Biotech Co., Ltd, which 
+622  holds the patent of RAY1216. 
+623   
+624  Acknowledgement 
+625  We thank the staffs at beamline BL19U1 of Shanghai Synchrotron Radiation Facility for 
+626  assistance on data collection. This work was supported by National Multidisciplinary 
+627  Innovation Team Project of Traditional Chinese Medicine (ZYYCXTD-D-202201 to Z.Y.); 
+628  Guangdong Science and Technology Foundation (2022B1111060003 to Z.Y.); Guangzhou 
+629  Science and Technology Planning Project (2022B01W0001 and 202102100003 to Z.Y.); 
+630  Emergency Key Program of Guangzhou Laboratory (EKPG21-06 to X.X.); R&D Program of 
+631  Guangzhou Laboratory (SRPG22-002 and SRPG22-003 to X.X; TL22-13 to Z.Y.). Natural 
+632  Science Fund of Guangdong Province (2021A1515011289 to X.X.). X.X. acknowledges 
+633  Start-up grants from the Chinese Academy of Sciences. 
+634     
+  26 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+635  Supporting Information 
+636   
+637   
+638  Fig. S1. Synthesis of RAY1216. 
+639     
+  27 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+640   
+641  Fig. S2. 1H NMR spectra of RAY1216 in DMSO-d6. 
+642   
+643     
+  28 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+644    
+645  Fig. S3. 13C NMR spectrum of RAY1216 in DMSO-d6. 
+646   
+647     
+  29 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+648   
+649  Fig. S4. 19F NMR spectrum of RAY1216 in DMSO-d6. 
+650   
+651     
+  30 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+652   
+653  Fig. S5. Single crystal X-ray structure of RAY1216. 
+654     
+  31 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+       
+Molecule  RAY1216 
+Radiation Type  CuKα (λ=1.54184 Å) 
+Crystal size (mm3)  0.16 × 0.18 × 0.22  
+Crystal system  monoclinic 
+Space group  P 2  
+1
+ 
+cell dimensions 
+a, b, c (Å)  10.6833 9.8921 15.3665 
+α, β, γ (°)  90.00 91.11 90.00 
+Cell volume (Å3)  1623.63 (2) 
+Cell formula units Z  2 
+Crystal density   (g/cm3)  1.309 
+cacl
+Crystal F (000)  680 
+Absorption coefficient (μ/mm-1)  0.862 
+Index ranges  -12≤ h ≤12, -11≤ k ≤11, -18≤ l ≤18 
+Cell measurement temperature (K)  149.9 (8) 
+2θ range for data collection (°)  5.752 to 133.106 
+Goodness-of-fit on F2  1.041 
+Final R indexes [I>=2σ(I)]  R =0.0351, wR =0.0914 
+1 2
+Final R indexes [all data]  R =0.0358, wR =0.0921 
+1 2
+Largest diff. peak/hole/e Å-3  0.39/-0.31 
+Reflections collected/unique  40929/5638 [R  = 0.0391] 
+int
+Flack parameter  0.10(5) 
+   
+655  Table S1. Data collection and statistics of single crystal X-ray structure of RAY1216. 
+656   
+657     
+  32 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+658   
+659  Fig. S6. Determination of molar response coefficient of fluorescent Dabcyl-Edans 
+660  cleavage product. a, total observed change in fluorescence intensity (∆F) upon complete 
+661  conversion of the substrate to product is plotted against the starting concentration of substrate 
+662  ([S]) over the complete concentration range (1.25 – 80 µM); data points are fit to the 
+663  quadratic function. b, Fit of the reduced concentration range (1.25 – 20 µM) to a straight line. 
+664     
+  33 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+665   
+666   
+667  Fig. S7. Substrate-only progress curves fit to the Michaelis-Menten reaction mechanism 
+668  shown in Scheme 1. The mathematical model for the fitted curves is represented by Eq.1 – 
+669  Eq.5. a, Replicate 1. b, Replicate 2. 
+670     
+  34 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+Replicate 1                      
+#  parameter  initial  final ± std.err.  low  high 
+1  k , s-1  10  31.09 ± 0.82  27.4  35.67 
+dS
+2  k , s-1  0.1  0.05246 ± 0.00097  0.04808  0.05787 
+dP
+   
+3  F  # 1, rfu  0  14.82 ± 0.72 
+0
+   
+4  F  # 2, rfu  0  4.44 ± 0.53 
+0
+   
+5  F  # 3, rfu  0  3.88 ± 0.5 
+0
+   
+6  F  # 4, rfu  0  -0.74 ± 0.41 
+0
+   
+7  F  # 5, rfu  0  1.77 ± 0.36 
+0
+           
+Replicate 2                      
+#  parameter  initial  final ± std.err.  low  high 
+1  k , s-1  10  30.82 ± 0.81  27.16  35.36 
+dS
+2  k , s-1  0.1  0.0542 ± 0.0010  0.0497  0.0598 
+dP
+   
+3  F  # 1, rfu  0  15.33 ± 0.75 
+0
+   
+4  F  # 2, rfu  0  6.83 ± 0.54 
+0
+   
+5  F  # 3, rfu  0  -1.22 ± 0.52 
+0
+   
+6  F  # 4, rfu  0  -2.02 ± 0.43 
+0
+   
+7  F  # 5, rfu  0  -0.41 ± 0.37 
+0
+           
+671  Table S2. Results of fit of substrate-only progress curves to the Michaelis-Menten 
+672  reaction model, replicate 1 and 2. Columns labeled as “low” and “high” contain the lower 
+673  and upper limits, respectively, of non-symmetrical confidence intervals obtained by the 
+674  profile-t method of Bates and Watts (Bates and Watts, 1988; Watts, 1994) while using the 
+675  empirical value of ∆SSQ = 5% according to # parameter initial the previously suggested 
+676  method (Johnson, 2009). 
+677     
+  35 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+678   
+  36 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+679  Fig. S8. Inhibition of Mpro by PF-07321332. Left panels, Replicated (a-c) PF-07321332 
+680  inhibition progress curves (dots) are overlaid with best-fit model curves corresponding to the 
+681  reaction mechanism in Scheme 2 and represented by Eq.6-Eq.11; the residuals of the fits are 
+682  shown. Right panels, corresponding plots of instantaneous reaction rates for the 3 replicates. 
+683     
+  37 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+                           
+parameter  rep. 1  rep. 2  rep.3  mean ± stdev  cv(%)  note 
+k , μM-1 s-1  1  1  1      fixed 
+aS
+k , s-1  31  31  31      fixed 
+dS
+k , s-1  0.112  0.112  0.119  0.115 ± 0.004  3.7   
+dP
+k , μM-1 s-1  0.53  0.46  0.48  0.49 ± 0.04  7.4   
+a
+k , s-1  0.002  0.0016  0.0018  0.0018 ± 0.0002  10.7   
+d
+ 
+[E], nM  49.5  49.5  48.2  49.1 ± 0.7  1.5 
+F  # 1, rfu  7  1.8  3.9       
+0
+F  # 2, rfu  -4  3.6  -2.6       
+0
+F  # 3, rfu  -3.5  -0.7  -4.7       
+0
+F  # 4, rfu  -7.4  -7.6  -2       
+0
+F  # 5, rfu  1.1  0.7  5.4       
+0
+F  # 6, rfu  4.4  6.1  4.3       
+0
+F  # 7, rfu  0.9  3.7  3.7       
+0
+F  # 8, rfu  6  9  4.3       
+0
+F  # 9, rfu  10.1  8.5  3.5       
+0
+F  # 10, rfu  2.8  12.6  7.2             
+0
+kcat,s-1  0.112  0.112  0.119  0.115 ± 0.004  3.7  = kdP 
+KM,μM  31.112  31.112  31.119  31.115 ± 0.004  0.01  = (kdP+kdS)/kaS 
+k /K , M-1 s-1  3610  3600  3840  3680 ± 140  3.8   
+cat M
+Ki, nM  3.86  3.6  3.87  3.78 ± 0.16  4.1  =kd/ka 
+tres, min  8.2  10.2  9  9.1 ± 1.0  10.7  =1/kd 
+% enzyme activity  61.9  61.9  60.3  61.3 ± 0.9  1.5  =100 × [E] / 80.0 
+             
+684  Table S3. Results of fit from global analysis of PF-07321332 inhibition data. Note that 
+685  both active enzyme concentration [E] (nominal concentration 80.0 nM) and the turnover 
+686  number k were treated as adjustable parameters. “stdev” is the standard deviation from 
+dP 
+687  replicates (n = 3) and “cv(%)” is the corresponding coefficient of variation, cv = 100 × 
+688  stdev/mean. For details see Methods section. 
+689     
+  38 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+690   
+  39 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+691  Fig. S9. Inhibition of Mpro by RAY1216. Left panels, Replicated (a-c) RAY1216 inhibition 
+692  progress curves (dots) are overlaid with best-fit model curves corresponding to the reaction 
+693  mechanism in Scheme 2 and represented by Eq.6-Eq.11; the residuals of the fits are shown. 
+694  Right panels, corresponding plots of instantaneous reaction rates for the 3 replicates. 
+695     
+  40 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+                           
+parameter  rep. 1  rep. 2  rep.3  mean ± stdev  cv(%)  note 
+k , μM-1 s-1  1  1  1      fixed 
+aS
+k , s-1  31  31  31      fixed 
+dS
+k , s-1  0.11  0.11  0.11      fixed 
+dP
+k , μM-1 s-1  0.0183  0.0187  0.0208  0.0193 ± 0.0014  7.1   
+a
+k , s-1  0.000153  0.000161  0.000169  0.000161 ± 0.000008  4.9   
+d
+ 
+[E], nM  53.3  52.7  52.8  52.9 ± 0.3  0.6 
+F  # 1, rfu  15.9  10.3  12.7       
+0
+F  # 2, rfu  11.1  14.7  12.0       
+0
+F  # 3, rfu  10.2  5.3  7.9       
+0
+F  # 4, rfu  8.5  2.6  8.7       
+0
+F  # 5, rfu  -2.0  2.0  -3.5       
+0
+F  # 6, rfu  5.4  -0.9  3.3       
+0
+F  # 7, rfu  7.2  13.9  2.8       
+0
+F  # 8, rfu  1.1  -1.4  9.4       
+0
+F  # 9, rfu  4.7  5.1  4.6       
+0
+F  # 10, rfu  0.7  -3.2  5.1             
+0
+Ki,nM  8.4  8.6  8.1  8.4 ± 0.2  2.9  =kd/ka 
+tres,min  109  104  99  104 ± 5  4.9  =1/kd 
+% enzyme activity  66.6  65.9  66.0  66.2 ± 0.4  0.6  =100 × [E] / 80.0 
+             
+696  Table S4. Results of fit from global analysis of RAY1216 inhibition data. Note that active 
+697  enzyme concentration [E] (nominal concentration 80.0 nM) was treated as adjustable 
+698  parameters while the turnover number k was fixed. “stdev” is the standard deviation from 
+dP 
+699  replicates (n = 3) and “cv(%)” is the corresponding coefficient of variation, cv = 100 × 
+700  stdev/mean. For details see Methods section. 
+701     
+  41 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+    Mpro free enzyme  Mpro+RAY1216 
+Protein/Ligand 
+    (PDB: 8IGO)  (PDB: 8IGN) 
+wavelength (Å)  0.97849  0.97853 
+Space group       C 2  P 1 
+cell dimensions     
+a, b, c (Å)  97.39 82.49 51.42  55.83 60.94 64.04 
+α, β, γ (°)  90.00 115.52 90.00  80.03 68.34 70.67 
+Data  Resolution (Å)  43.46-2.00 (2.05-2.00)  59.42-2.00 (2.05-2.00) 
+collection  R   0.031 (0.327)  0.067 (0.504) 
+merge
+No. Reflections (total)  156563 (11225)  168870 (11201) 
+No. Reflections (unique)  23876 (1817)  48627 (3545) 
+I/σI  31.6 (5.1)  9.9 (2.1) 
+Completeness (%)  96.2 (98.8)  97.5 (96) 
+Multiplicity  6.6 (6.2)  3.5 (3.2) 
+No. Reflections  23851 (2089)  47154 (4676) 
+R /R   0.2059/0.2491  0.1862/0.2312 
+work free
+No. atoms     
+Protein  2314  4654 
+Inhibitor  -  90 
+Water  100  255 
+Refinement  B-factors     
+Protein  43.06  38.84 
+Inhibitor  -  37.25 
+Water  44.64  45.39 
+R.m.s deviations     
+Bond lengths(Å)  0.008  0.0066 
+Bond angles(°)  0.87  1.478 
+MolProbity score  1.41  1.94 
+Clashscore  4.15  6.02 
+Poor rotamers (%)  0  2.13 
+Validation  Ramchandran plot     
+Favored (%)  96.66  94.82 
+Allowed (%)  3.34  5.18 
+Disallowed (%)  0  0 
+       
+702  Table S5. Data collection and refinement statistics of Mpro crystal structures. 
+703 
+  42 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+704   
+705   
+706  Fig S10. Simulated-annealing 2mFo-DFc composite omit map densities showing bound 
+707  RAY1216 and covalent linkages between RAY1216 and Cys145. The simulated-annealing 
+708  composite omit map for the Mpro dimer was calculated by omitting bound RAY1216 and 
+709  Cys145 in both monomers. Shown densities are contoured at 1.1σ, models are colored 
+710  according to Fig. 2. a, density in protomer A. b, density in protomer B. 
+711     
+  43 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+712   
+713   
+  44 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+714  Fig S11. Comparison of active site structures of Mpro in different inhibitor complexes 
+715  shows active site structural plasticity. Structures of boceprevir (PDB: 7com (Qiao et al., 
+716  2021)), MI-23 (PDB: 7d3i (Qiao et al., 2021)), PF-07321332 (PDB: 7rfw (Owen et al., 
+717  2021)), telaprevir (PDB: 7c7p (Qiao et al., 2021)) in complex with Mpro are compared with 
+718  RAY1216:Mpro structures. 
+719     
+  45 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+720   
+721  Fig. S12. Cytotoxicity of RAY1216 on Vero E6 cells. 
+722     
+  46 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+723   
+724  Fig. S13. Dose–response curves (mean ± SD, n = 3) of wildtype (WT) and variant SARS-
+725  CoV-2 strains by PF-07321332 in Vero E6 cell using MTT cell viability assay. 
+726     
+  47 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+       
+Plasma stability (%2h) 
+Animal species 
+RAY1216  PF-07321332 
+mouse  85  91.4 
+rat  85  84.3 
+dog  83  74.6 
+cynomolgus macaque  81  99.6 
+human  110  74.6 
+   
+ 
+727  Table S6. In-vitro plasma stability data. 
+728     
+  48 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+729  Materials and Methods 
+730   
+731  Synthesis of RAY1216 
+732  Step 1: Synthesis of the RAY1216-2 hydrochloride salt 
+733  To a solution of RAY1216-1 (500 mg, 1.75 mmol) in ethyl acetate (5 mL) at 20 °C HCl/EA 
+734  (10 mL, 4 M) was added. The resulting mixture was stirred for 2 h at 20 °C. Solvent was 
+735  removed to afford the residue as unpurified RAY1216-2 hydrochloride salt. 1H NMR (400 
+736  MHz, CD OD) δ = 4.28 - 4.20 (m, 1H), 3.91 - 3.81 (m, 3H), 3.45 - 3.35 (m, 2H), 2.86 - 2.74 
+3
+737  (m, 1H), 2.48 - 2.36 (m, 1H), 2.29 - 2.19 (m, 1H), 2.02 - 1.94 (m, 1H), 1.93 - 1.80 (m, 1H). 
+738  Step 2: Synthesis of RAY1216-4 
+739  To a solution of Boc-L-cyclohexylglycine (1 g, 3.89 mmol) in N,N-dimethylformamide (10 
+740  mL) 2-(7-azobenzotriazole)-N,N-tetramethylurea hexafluorophosphate (1.77 g, 4.66 mmol) 
+741  was added. The resulting mixture was stirred for 0.5 h, to which diisopropylethylamine (1.26 
+742  g, 9.72 mmol) and RAY1216-3 hydrochloride salt (1.02 g, 4.66 mmol) were added. The 
+743  resulting mixture was stirred for 16 h at 20 °C. The reaction mixture was added to methyl 
+744  tert-butyl ether (50 mL), water (20 mL) and washed with 3% citric acid (20 mL×2) and brine 
+745  (20 mL). The combined organic phase was dried over anhydrous sodium sulfate. Solvent was 
+746  removed and the residue was purified by silica gel column chromatography (petroleum ether: 
+747  ethyl acetate = 3:1) to afford RAY1216-4. 1H NMR (400MHz, CDCl ) δ = 5.22 - 5.11 (m, 
+3
+748  1H), 4.36 (d, J=3.9 Hz, 1H), 4.27 (dd, J=6.9, 9.3 Hz, 1H), 4.21 - 4.12 (m, 2H), 3.83 (dd, 
+749  J=7.8, 10.4 Hz, 1H), 3.70 (br dd, J=3.6, 10.4 Hz, 1H), 2.81 - 2.61 (m, 2H), 1.82 - 1.70 (m, 
+750  6H), 1.68 - 1.61 (m, 4H), 1.56 - 1.48 (m, 2H), 1.46 - 1.38 (m, 9H), 1.29 - 1.22 (m, 4H), 1.21 - 
+751  0.98 (m, 4H). 
+752  Step 3: Synthesis of RAY1216-5 
+753  To a THF (14 mL) solution of RAY1216-4 (1.41g, 3.34 mmol), LiOH•H O (280.03 mg, 6.67 
+2
+754  mmol) in water (5 mL) was added. The resulting mixture was stirred for 16 h at 20 °C. Citric 
+755  acid was added to the reaction mixture to 3%. Solvent was removed and residue was 
+756  extracted with ethyl acetate (50 mL), washed with brine (30 mL). The combined organic 
+757  phase was dried over anhydrous sodium sulfate. Solvent was removed to afford the residue as 
+758  unpurified RAY1216-5. 1H NMR (400MHz, DMSO-d ) δ = 12.58 - 12.23 (m, 1H), 6.92 - 
+6
+759  6.82 (m, 1H), 4.11 - 3.94 (m, 2H), 3.82 - 3.76 (m, 1H), 3.72 - 3.62 (m, 1H), 2.73 - 2.64 (m, 
+760  1H), 2.62 - 2.55 (m, 1H), 1.92 - 1.42 (m, 12H), 1.40 - 1.32 (m, 9H), 1.18 - 1.06 (m, 3H), 1.00 
+761  - 0.81 (m, 2H). 
+762  Step 4: Synthesis of RAY1216-6 
+763  To a 2-butanone (7 mL) solution of RAY1216-5 (650 mg, 1.65 mmol), 1-
+764  hydroxybenzotriazole (222.63 mg, 1.65 mmol), 1-(3-dimethylaminopropyl)-3-
+765  ethylcarbodiimide hydrochloride (379.03 mg, 1.98 mmol), diisopropylethylamine (638.84 
+766  mg, 4.94 mmol) were added. The resulting mixture was stirred for 0.5 h at 20 °C, before 
+767  RAY1216-2 hydrochloride salt (366.88 mg, 1.65 mmol) was added. The resulting mixture 
+768  was stirred for 16 h at 20 °C. The reaction mixture was diluted with water (20 mL) and 
+  49 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+769  extracted with dichloromethane: methanol (30 mL×2, 10:1), the combined organic phase was 
+770  washed with 3% citric acid (20 mL×2), brine (30 mL). The organic phase was dried over 
+771  anhydrous sodium sulfate. Solvent was removed and the residue was purified by silica gel 
+772  column chromatography (dichloromethane: methanol = 20: 1) to afford RAY1216-6. 1H 
+773  NMR (400 MHz, CDCl ) δ = 7.49 - 7.42 (m, 1H), 6.23 - 6.05 (m, 1H), 5.28 - 5.17 (m, 1H), 
+3
+774  4.64 - 4.51 (m, 1H), 4.43 - 4.24 (m, 2H), 3.92 - 3.81 (m, 1H), 3.78 - 3.70 (m, 3H), 3.39 - 3.27 
+775  (m, 2H), 2.94 - 2.75 (m, 2H), 2.57 - 2.36 (m, 2H), 2.24 - 2.07 (m, 1H), 1.94 - 1.50 (m, 14H), 
+776  1.49 - 1.41 (m, 9H), 1.27 - 0.95 (m, 6H). 
+777  Step 5: Synthesis of RAY1216-7 
+778  To a THF (31 mL) solution of RAY1216-6 (3.10 g, 5.51 mmol) at 0 ℃, lithium borohydride 
+779  (240.02 mg, 11.02 mmol) was added. Temperature of the mixture was allowed to warm to 
+780  20 °C slowly and stirred for 2 h at 20 °C. The mixture was diluted with water (10 mL) and 
+781  ethyl acetate (20 mL) and stirred for 10 min, white solid was collected as crude target product 
+782  RAY1216-7 by filtration. LCMS (m/z) 535.4 [M+1]+. 
+783  Step 6: Synthesis of RAY1216-8 
+784  To a DCM (10 mL) solution of compound RAY1216-7 (0.5 g, 935.13 μmol) Dess-Martin 
+785  periodinane (594.94 mg, 1.40 mmol) was added. The resulting mixture was stirred for 16 h. 
+786  The mixture was diluted with saturated sodium thiosulfate (15 mL) and saturated sodium 
+787  bicarbonate solution (15 mL) and stirred for 10 min. The aqueous layer was extracted with 
+788  DCM (50 mL×2). The combined organic phase was washed with brine (5 mL) and dried over 
+789  anhydrous sodium sulfate. Solvent was removed and to afford the residue as unpurified 
+790  RAY1216-8. LCMS (m/z) 533.4 [M+1]+. 
+791  Step 7: Synthesis of RAY1216-9 
+792  To a DCM (10 mL) solution of RAY1216-8 (436 mg, 818.52 μmol), acetic acid (58.98 mg, 
+793  982.22 mmol) and cyclopentyl isocyanide (94.44 mg, 982.22 μmol) were added. The 
+794  resulting mixture was stirred for 2 h at 25 ℃. After addition of saturated ammonium chloride 
+795  solution (10 mL), the reaction mixture was stirred for 10 min and extracted with DCM (20 
+796  mL). The combined organic phase was washed with brine (5 mL). The organic phase was 
+797  dried over anhydrous sodium sulfate, solvent was removed and the residue was purified by 
+798  silica gel column chromatography (dichloromethane: methanol = 10:1) to afford RAY1216-9. 
+799  LCMS (m/z) 688.4 [M+1]+. 
+800  Step 8: Synthesis of RAY1216-10 
+801  To a MeOH (3 mL) solution of RAY1216-9 (190 mg, 276.22 μmol), K CO (95.44 mg, 
+2 3 
+802  690.54 μmol) in water (5 mL) was added. The resulting mixture was stirred for 16 h at 20 °C. 
+803  The reaction mixture was diluted with 3% citric acid and extracted with DCM (40 mL× 3), 
+804  the combined organic phase was washed with brine (30 mL) and dried over anhydrous 
+805  sodium sulfate. Solvent was removed to afford the residue as unpurified crude RAY1216-10. 
+806  Step 9: Synthesis of RAY1216-11 
+807  To a DCM (10 mL) solution of RAY1216-10 (238.00 mg, 368.52 μmol), Dess-Martin 
+808  periodinane (203.19 mg, 479.08 μmol) was added. The resulting mixture was stirred for 16 h 
+809  at 20℃. The reaction mixture was diluted with saturated sodium thiosulfate (15 mL) and 
+  50 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+810  saturated sodium bicarbonate solution (15 mL), extracted with DCM (50 mL×2), and washed 
+811  with brine (15 mL). The organic phase was dried over anhydrous sodium sulfate, solvent was 
+812  removed, and the residue was purified by silica gel column chromatography 
+813  (dichloromethane: methanol = 20:1) to afford RAY1216-11. 
+814  Step 10: Synthesis of RAY1216-12 
+815  To a THF (3 mL) solution of RAY1216-11 (125 mg, 194.16 μmol), HCl/EA (2.91 mL, 4 M) 
+816  was added. The resulting mixture was stirred for 1 h at 25 °C. Solvent was removed to afford 
+817  crude RAY1216-12. 
+818  Step 11: Synthesis of RAY1216 
+819  To a THF (3 mL) solution of RAY1216-12 (125 mg, 229.91 μmol) at 0 ℃, TFAA (193.15 
+820  mg, 919.63 μmol) and pyridine (127.30 mg, 1.61 mmol) were added. The resulting mixture 
+821  was stirred for 16 h at 20 °C. The reaction mixture was diluted with water (20 mL) and 
+822  extracted with dichloromethane (30 mL× 2). The combined organic phase was washed with 
+823  3% citric acid (40 mL) and brine (40 m L×2). The organic phase was dried over anhydrous 
+824  sodium sulfate. Solvent was removed and the residue was purified by HPLC to afford 
+825  RAY1216. LC-MS (m/z) 640.0 [M+1]+. 
+826  1H NMR (400 MHz, DMSO-d6) δ ppm 9.75 d (J=7.5 Hz,1H) 8.64 d (J=7.5 Hz,1H), 8.50 d 
+827  (J=8.3 Hz,1H), 7.65 s (1H), 5.14 ddd (J=11.5, 8.3, 2.9 Hz,1H), 4.28 t (J=8.6 Hz,1H), 4.20 d 
+828  (J=4.2 Hz,1H), 4.04 m (1H), 3.76 AABB-d (J=10.2, 7.6, 3.0 Hz,2H), 3.20 - 3.11 m (2H), 2.69 
+829  m (1H), 2.55 m (1H), 2.50 m (1H), 2.20 - 1.69 m (2H), 1.88 - 1.60 m (2H), 1.83 m (1H), 1.80 
+830  -1.40 m (6H), 1.80 - 1.50 m (4H), 1.80-1.40 m (4H), 1.79-0.95 m (4H), 1.65 - 1.13 m (6H). 
+831  13C NMR (400 MHz, DMSO-d6) δ ppm 115.9, 156.5, 56.1, 38.7, 28.2, 28.6, 25.4, 25.6, 25.8, 
+832  168.6, 53.5, 42.7, 24.6, 31.2, 31.66, 47.5, 65.5, 171.9, 51.8, 31.8, 37.5, 178.4, 39.5, 27.5, 
+833  197.2, 161.0, 50.4, 23.6, 31.64, 31.68. 
+834  Crystallization of RAY1216 and X-ray diffraction 
+835  RAY1216 powder (approximately 30 mg) was dissolved in isopropyl acetate (approximately 
+836  600 μl) with gentle stirring gently until the mixture was saturated. The solution was 
+837  transferred into a transparent 2ml MS sample vial after being filtered by syringe filter. The 
+838  sample vial was sealed with a parafilm and 5-10 holes on the parafilm were pierced by a 
+839  syringe needle. The MS vial was placed in a closed brown bottle which contained 0.1 - 0.2 
+840  cm level of n-hexane. Solutions were let stand at 20 - 30 °C for 48 hours. After granular 
+841  white crystals were observed in the MS vial, the isopropyl acetate was removed, and a single 
+842  crystal of RAY1216 was sealed with silicone grease and subjected to X-ray diffraction on a 
+843  Rigaku Oxford Diffraction XtaLAB Synergy-S four-circle diffractometer equipped with a 
+844  CuKα source (λ=1.54184 Å) and a HyPix-6000HE area detector. 
+845  Data collection and structure determination 
+846  40929 diffraction spots were collected by X-ray diffraction experiment, and 5638 
+847  independent diffraction dots were indexed and integrated (R =0.0391). Diffraction collection 
+int
+848  range 2θ = 5.752° to 133.106°, diffraction index range -12≤h≤12, -11≤k≤11, -18≤l≤18. 
+849  Structure was determined by SHELXT (Sheldrick, 2015b) and refined by SHELXL (against 
+  51 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+850  F2) (Sheldrick, 2015a). 406 parameters are participating in structural refinement. The final 
+851  result has a goodness-of-fit (s) = 1.041, R = 0.0351, wR  = 0.0914. The residual electron 
+1  2
+852  density values are 0.39 and -0.31 e Å-3. The data collection and structure refinement statistics 
+853  are summarized in Table S1. 
+854  Recombinant protein production 
+855  Based on a previous study (Zhang et al., 2020), a construct encoding SARS-CoV-2 Mpro 
+856  (ORF1ab 3264-3569, GenBank code:MN908947.3）was subcloned into the pGEX-6p-1 
+857  vector between the BamHI and XhoI restriction sites with extra C-terminal extension 
+858  GPHHHHHHHHHH. The resulting construct was verified by DNA sequencing. The 
+859  construct plasmid was transformed into BL21 (DE3) E. coli cells (Vazyme, #C504-02/03) 
+860  and scale-up expression (~ 6 L) was started from a single colony in LB medium 
+861  supplemented with 100 μg/ml of ampicillin at 37 °C. The cells were induced with 0.5 mM 
+862  IPTG when the OD600 reached 0.8. Cells were allowed to grow post induction for 20 h at 
+863  16 °C.  
+864  The cells were harvested by centrifugation, and cell pellet was lysed in the lysis buffer 
+865  (20mM Tris, pH 7.8, 150mM NaCl, 10mM imidazole) by sonication on ice. Cell lysate was 
+866  cleared by high-speed centrifugation (20,000 × g at 4°C for 1h). The supernatant was mixed 
+867  with Ni-NTA resin for ~ 2 h at 4 °C on a shaker. The Ni-NTA resin was washed with two 
+868  buffers of different imidazole concentrations (20 mM Tris, pH 7.8, 150 mM NaCl, 20 mM/50 
+869  mM imidazole) each for over 30 resin volumes to remove contaminants. The target protein 
+870  was eluted by the elution buffer (20 mM Tris, pH 7.8, 150 mM NaCl, 500 mM imidazole). 
+871  400U Human rhinovirus (HRV) 3C enzyme was added into the eluted protein to remove the 
+872  C-terminal histidine tag and the mixture was dialysed at 4 °C overnight in dialysis buffer (20 
+873  mM Tris, pH 7.8, 150 mM NaCl, 1m M DTT) using a dialysis bag with MWCO (Molecular 
+874  Weight Cut Off) of 10 kDa. The dialysed mixture was reloaded onto the Ni-NTA resin and 
+875  His-tag-free target protein was collected from the flow-through. 
+876  Since the expressed Mpro contains the native Mpro cleavage sequence “SAVLQ/SGFRK” 
+877  found between Nsp4 and Nsp5 (Mpro) in the SARS-CoV-2 Nsp polyprotein (slash indicates 
+878  the Mpro cleavage site) near the N-terminus, Mpro auto-cleaving activity generates an authentic 
+879  N-terminus during protein expression. The HRV 3C enzyme recognition site has the 
+880  sequence (LEVLFQ/GP, slash indicates the HRV 3C enzyme cleavage site) after HRV 3C 
+881  cleavage, it will generate an authentic Mpro C-terminus (LEVLFQ/SAV, native Mpro C-
+882  terminal recognition sequence, slash indicates the cleavage site). Purified Mpro with authentic 
+883  N- and C-termini was concentrated by a 10 kDa MWCO Amicon Ultra 50 centrifugal filters 
+  52 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+884  (Merck Millipore) at 4 °C to ~ 10 mg/ml. Concentrated protein was either used for 
+885  crystallization without freezing or flash frozen in liquid nitrogen and stored under -80 °C. 
+886  Enzyme activity assay 
+887  The enzyme assays were performed in enzyme kinetics assay buffer (20 mM Tris pH 7.8, 150 
+888  mM NaCl, 1 mM DTT and 100 μg/ml bovine serum albumin) using Dabcyl-
+889  KTSAVLQ/SGFRKME-Edans (Beyotime, #P9733, ‘/’ indicates the Mpro cleavage site) as the 
+890  substrate. Florescent signal by enzyme cleavage of the substrate was monitored on a 
+891  Molecular Devices FlexStation 3 reader with filters for excitation at 340 nm and emission at 
+892  490 nm at 20 °C. 
+893  Molar response coefficient of fluorescent product 
+894  Mpro at a relatively high concentration (1.0 μM) was assayed with 1.25, 2.5, 5, 10, 20, 40, and 
+895  80 μM substrate at 37 °C. Under these experimental conditions the substrate was completely 
+896  converted into the fluorogenic product over a course of 20 minutes. The total observed 
+897  change in fluorescence intensity (∆F), when plotted against the starting concentration of 
+898  substrate ([S]), displayed a significant involvement of the frequently seen Dabcyl-Edans 
+899  inner-filter effect (Liu et al., 1999). The dependence of ∆F on [S] follows a non-linear 
+900  quadratic function as illustrated in Fig. S6a. However, within the restricted range of substrate 
+901  concentrations (1.25 - 20 μM, Fig. S6b) the dependence of ∆F on [S] is approximately linear, 
+902  with the slope equal to the differential molar response coefficient of the product r  = (88.1 ± 
+P
+903  3.5) rfu/μM. Thus, in all the following enzyme kinetic analyses we constrained the substrate 
+904  concentration accordingly ([S] ≤ 20 μM) and treated the molar response coefficient as a fixed 
+905  parameter, set to the best-fit value of r  = 88 rfu/μM. 
+P
+906   
+907  Determination of the Michaelis constant, K  
+M
+908  Preliminary attempts to determine the Michaelis constant K  by fitting initial rates vs [S] to 
+M
+909  the Michaelis-Menten equation were found to be inaccurate due to the Dabcyl-Edans inner-
+910  filter effect (Liu et al., 1999). Thus, substrate kinetic parameters were determined by the 
+911  global fit of reaction progress curves recorded at 1.25, 2.5, 5, 10, and 20 μM to the first-order 
+912  ordinary differential-equation (ODE) model corresponding to the reaction mechanism shown 
+913  in Scheme 1, using the software package DynaFit (Kuzmic, 1996; 2009). The DynaFit script 
+914  file is provided in the Supplementary Dataset. 
+k k
+aS dP
+E + S E.S E + P
+k
+915  dS  
+916  Scheme 1. Assumed Michaelis-Menten reaction mechanism of Mpro substrate hydrolysis. 
+  53 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+917  The mathematical model for the reaction progress curves is auto-generated by DynaFit 
+918  according to Scheme 1 and is shown as Eq.1, where F is the fluorescence intensity at the 
+919  arbitrary reaction time t; F  is the baseline offset or fluorescence intensity observed at time t 
+0
+920  = 0; r  = 88 rfu/μM is the molar response of the reaction product; and [P] is the concentration 
+P
+921  of the reaction product at time t. In its turn, the product concentration is computed by 
+922  numerically solving the ODE system represented by Eq.1–Eq.5. 
+923   
+F = F + r [P] (Eq.1)
+0 P
+d[E]
+= −k [E][S] + k [E.S]+ k [E.S] (Eq.2)
+aS dS dP
+dt
+d[S]
+= −k [E][S] + k [E.S] (Eq.3)
+aS dS
+dt
+d[E.S]
+= +k [E][S] − k [E.S]− k [E.S] (Eq.4)
+aS dS dP
+dt
+d[P]
+= +k [E.S] (Eq.5)
+dP
+924  dt  
+925   
+926  The enzyme–substrate association rate constant k S was fixed at the diffusion limited 
+a
+927  constant value of 1.0 μM−1s−1 (or 1 × 106 M−1s−1) (Fersht, 1999), whereas the dissociation rate 
+928  constants k S and k P were treated as globally adjustable model parameters. Each individual 
+d d
+929  progress curve was associated with a locally optimized offset parameter F . The experimental 
+0
+930  data files (Km-R1-f.csv and Km-R2-f.csv) are provided as Supplementary Datasets. The 
+931  results of fit for both replicates are illustrated graphically in Fig. S7. 
+932  The best-fit values of adjustable model parameters are listed in Table S2. The average and 
+933  standard deviation from replicates (n = 2) of the dissociation rate constant is k  = (31.0 ± 
+dS
+934  0.2) s−1. This particular value of k  is utilized in subsequent kinetic analyses of Mpro 
+dS
+935  inhibition as a fixed model parameter (see below). The corresponding average and standard 
+936  deviation of the Michaelis constant is K  ≡ (k  + k )/k  = (31.0 ± 0.2) μM. This value is 
+M dS dP aS
+937  identical, within the specified experimental error, to a previously published value of K  = 
+M
+938  (28.2 ± 3.4) μM (Ma et al., 2020). 
+939  Inhibition kinetics of PF-07321332 and active-site titration 
+940  The microscopic rates constants for association and dissociation of PF-07321332, as well as, 
+941  the concentration of Mpro active sites hence the enzyme’s turnover number k , were 
+cat
+942  determined as follows. The enzyme (nominal concentration 80 nM) was assayed at varied 
+  54 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+943  concentrations of the inhibitor (maximum 444 nM, 2/3 dilution series down to 17 nM, nine 
+944  concentrations plus control [I] = 0) in triplicate. The ten reaction progress curves from each 
+945  replicate were combined into a global dataset and fit to a differential-equation model 
+946  corresponding to the reaction mechanism shown in Scheme 2 using the software package 
+947  DynaFit (Kuzmic, 1996; 2009). The requisite DynaFit script file and PF-07321332 inhibition 
+948  progress curve data are provided as Supplementary Datasets. 
+k k
+aS dP
+E + S E.S E + P
+k
+dS
+k
+a
+E + I E.I
+k
+949  d  
+950  Scheme 2. Proposed reaction and inhibition mechanisms of Mpro. 
+d[E]
+= −k [E][S]+k [E.S]+k [E.S]−k [E][I] +k [E.I] (Eq.6)
+aS dS dP a d
+dt
+d[S]
+= −k [E][S]+k [E.S] (Eq.7)
+aS dS
+dt
+d[E.S]
+= +k [E][S]−k [E.S]−k [E.S] (Eq.8)
+aS dS dP
+dt
+d[P]
+= +k [E.S] (Eq.9)
+dP
+dt
+d[I]
+= −k [E][I] +k [E.I] (Eq.10)
+a d
+dt
+d[E.I]
+= +k [E][I] −k [E.I] (Eq.11)
+a d
+951  dt  
+952  To obtain kinetic parameters of PF-07321332 inhibition, the microscopic rate constants k  
+aS
+953  and k  are fixed, whereas the turnover number rate constant k  ≡ k  and the active enzyme 
+dS cat dP
+954  site concentration are treated as adjustable model parameters (Table S3) (marked by the 
+955  notation “??” in DynaFit script files). The combined progress curves were fit globally to 
+956  Eq.1, where the product concentration [P] in this case is computed by numerically solving the 
+957  ODE system represented by Eq.6–Eq.11. 
+958  Thus, the complete list of globally optimized parameters (shared by all progress curves) 
+959  consists of k , k , k , and [E]; the ten baseline offset values, F , each specific to a particular 
+dP a d 0
+960  progress curve, were treated as locally adjustable model parameters. The overlay of 
+961  experimental data on the best-fit model curves and the corresponding plots of instantaneous 
+962  reaction rates are shown in Fig. S8. Numerical results are summarized in Table S3. 
+  55 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+963  The results listed in Table S3 show that all adjustable model parameters were obtained with 
+964  better than 11% reproducibility. The enzyme was approximately 61% active. The turnover 
+965  number k  = 0.12 s−1 compares well with k  = 0.16 s−1 previously reported (Ma et al., 
+cat cat
+966  2020). Similarly, the inhibition constant K ≡ k /k  = (3.8 ± 0.2) nM determined here 
+i d a
+967  compares well with the previously reported value of K = 3.1 (1.5 − 6.8) nM (Owen et al., 
+i
+968  2021). The PF-07321332 inhibitor associates relatively rapidly with the enzyme, with 
+969  bimolecular association rate constant equal to k  = 4.9 × 105 M−1s−1. The drug-target 
+a
+970  residence time t  ≡ 1/k  is approximately 9 minutes. 
+res d
+971  Inhibition kinetics of RAY1216  
+972  Preliminary analysis of RAY1216 inhibition data revealed that it is possible to reliably deter- 
+973  mine either the turnover number k  ≡ k , or the active enzyme concentration [E], but not 
+cat dP
+974  both. However, the precise values of these model parameters and in particular the active 
+975  enzyme concentration strongly influence the best-fit values of the inhibition rate constants k  
+a
+976  and k . For this reason we have analysed the RAY1216 datasets while treating the 
+d
+977  microscopic rate constant k  as a fixed parameter determined in the fit of the PF-07321332 
+dP
+978  data above (The RAY1216 and PF-07321332 experiments were carried out in parallel on the 
+979  same day using the same Mpro prep). (The “??” notation is deleted on the “kdP” line in the 
+980  provided DynaFit script to fix “k ” for fitting the RAY1216 datasets.) 
+dP
+981   
+982  Thus, the complete list of globally optimized parameters (shared by all progress curves) 
+983  consists of k , k , and [E]; the ten baseline offset values, F , each specific to a particular 
+a d 0
+984  progress curve, were again treated as locally adjustable model parameters. The overlay of 
+985  experimental data on the best-fit model curves and the corresponding plots of instantaneous 
+986  reaction rates are shown in Fig. S9. Note that, in comparison with Fig. S8, the instantaneous 
+987  rate plots show significantly longer time that is required for near-equilibrium to be 
+988  established, even at the highest inhibitor concentrations. This graphically illustrates that 
+989  RAY1216 is a “slow-on, slow-off” inhibitor of Mpro, while PF-07321332 is a “fast-on, fast-
+990  off” inhibitor. Numerical results of fit are summarized in Table S4. 
+991  The results listed in Table S4 show that all adjustable model parameters were obtained with 
+992  better than 5% reproducibility. The enzyme was apparently 66% active. This value differs 
+993  slightly from the 61% enzyme activity determined in the analysis of PF-07321332 data (see 
+994  Table S3). We observed that, throughout the working day, the enzymatic activity of Mpro 
+995  decreased slightly but systematically over time. RAY1216 associates relatively slowly with 
+996  the target enzyme, with bimolecular association rate constant equal to k  = 1.9 × 104 M−1s−1 
+a
+997  The inhibition constant of RAY1216, K = 8.4 nM, is 2.2 times higher than the K for PF-
+i i
+998  07321332 determined here (Table S3). In contrast, the drug-target residence time is 104/9 = 
+999  11.5 times longer. 
+  56 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+1000  Crystallization and crystal soaking with RAY1216 inhibitor 
+1001  Apo Mpro crystals were crystallized by mixing 1 μl of freshly purified Mpro (without freezing) 
+1002  at 10 mg/ml with 1 μl crystallization solution (0.1 M MES monohydrate pH 6.5, 12% w/v 
+1003  Polyethylene glycol 20,000) using hanging drop vapor diffusion method at 16 °C. 
+1004  Crystals normally grew overnight. The apo crystals were flash frozen in cryoprotection 
+1005  solution (0.1 M MES monohydrate pH 6.5, 12% w/v polyethylene glycol 20,000, 40% 
+1006  glycerol) using liquid nitrogen. To obtain RAY1216 soaked crystals, apo crystals were 
+1007  transferred into the crystallization solution supplemented with 6.6 mM RAY1216 and 3% 
+1008  DMSO (from the RAY1216 solution). The crystals were soaked for ~10 min at 16 °C. 
+1009  Finally, crystals were briefly soaked in cryoprotection solution (0.1 M MES monohydrate pH 
+1010  6.5, 12% w/v polyethylene glycol 20,000, 40% glycerol) supplemented with 6.6 mM 
+1011  RAY1216 before being frozen in liquid nitrogen. 
+1012  Data collection and structure determination 
+1013  Single crystal X-ray diffraction data were collected on beamline BL19U1 at Shanghai 
+1014  Synchrotron Radiation Facility (SSRF) at 100 K using an Eiger X 16M hybrid-photon-
+1015  counting (HPC) detector. Data integration and scaling were performed using the XDS 
+1016  software (BUILT 20220220) (Kabsch, 2010). Structures were determined by molecular 
+1017  replacement (MR) using the Phaser MR 2.8.3 (McCoy et al., 2007) program in CCP4 7.1.018 
+1018  (Winn et al., 2011), with a SARS-CoV-2 Mpro structure (Zhao et al., 2022) (PDB code: 
+1019  7VH8) as the search model. Iterative manual model building was carried out in Coot 0.9.6 
+1020  (Emsley and Cowtan, 2004), Final structures were refined with Refmac 5.8.0267 (Murshudov 
+1021  et al., 1997) . The data collection and structure refinement statistics are summarized in Table 
+1022  S5. 
+1023  Cell lines and virus strains 
+1024  African green monkey kidney epithelial (Vero E6) cells were purchased from the American 
+1025  Type Culture Collection (ATCC), and cultured in Dulbecco’s modified Eagle’s medium 
+1026  (DMEM, Gibco, USA) supplemented with 10% fetal bovine serum (FBS, Gibco, USA), 100 
+1027  μg/mL streptomycin (Gibco, USA), and 100 U/mL penicillin (Gibco, USA). SARS-CoV-2 
+1028  and its variants, namely Alpha (B.1.1.7), Beta (B.1.1.529), Delta (B.1.617.2), Omicron BA.1 
+1029  (B.1.1.529) and Omicron BA.5 (BA.5.2) were isolated from clinical samples and were 
+1030  deposited at the First Affiliated Hospital of Guangzhou Medical University. Viruses were 
+1031  propagated as previously described (Zhu et al., 2020a), the viruses were aliquoted and stored 
+  57 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+1032  at -80 °C and the titres of cultured viruses were estimated as 50% tissue culture infective 
+1033  doses (TCID ) using the Reed–Muench method. 
+50
+1034  Cytotoxicity and cytopathic effect (CPE) inhibition assays-SARS-CoV-2 
+1035  The 50% toxicity concentration (CC ) for RAY1216 in Vero E6 cells was determined using 
+50
+1036  the MTT (3-(4,5-dimethylthazolk-2-yl)-2,5-diphenyl tetrazolium bromide) assay (Park et al., 
+1037  2011). Different dilutions of RAY1216 and PF-07321332 were incubated with Vero E6 (5 × 
+1038  104 cells/well) cells in 96-well plates for the cytotoxicity assay, and the concentration of 
+1039  RAY1216 and PF-07321332 causing 50% cell death were determined as the CC  value. The 
+50
+1040  50% inhibition concentration (EC ) of virus-induced cytopathic effect (CPE) was used to 
+50
+1041  investigate the efficacy of RAY1216 and PF07321332 against SARS-CoV-2. A monolayer of 
+1042  Vero E6 cells was inoculated with 100 TCID  of SARS-CoV-2 wildtype or variant strains at 
+50
+1043  37 °C for 2 h. The cells were incubated with different concentrations of RAY1216 and PF-
+1044  07321332 after removal of the inoculum. Infected cells were observed under a microscope 
+1045  after 72 h of incubation to assess CPE. Dose response curves were plotted as CPE vs Log 
+1046  inhibitor concentrations. The selectivity indices (SI) were determined using the ratio of CC
+50 
+1047  to EC . 
+50
+1048  Antiviral and anti-inflammatory activity of RAY1216 in mouse model 
+1049  Antiviral studies using animals were approved by the Guangzhou Medical University Ethics 
+1050  Committee of Animal Experiments (IACUC certificate No.: GZL0008). All antiviral 
+1051  experiments using animals passed the ethical review and were performed in strict accordance 
+1052  with the National Research Council Criteria and the Chinese Animal Protection Act. Five-to 
+1053  six-week-old female ACE2 transgenic C57BL/6 mice (Bao et al., 2020; Ma et al., 2022) 
+1054  weighing 18–22 g were acquired from GemPharmatech Co., Ltd. (Jiangsu, China) and housed 
+1055  under specific pathogen-free (SPF) conditions at Guangzhou Customs District Technology 
+1056  Center Biosafety Level 3 (BSL-3) Laboratory. Mice were randomly divided into six groups 
+1057  (n = 7): the control group; SARS-CoV-2 virus (Delta variant (B.1.617.2)) infected group; 
+1058  treatment groups of three different RAY1216 concentrations (600 mg/kg/day, 300 mg/kg/day, 
+1059  150 mg/kg/day); and a PF-07321332 treatment group (600 mg/kg/day). Mice were 
+1060  anesthetized by inhalation of 5% isoflurane and each mouse was inoculated with 50 μl PBS 
+1061  containing a lethal dose of 105 PFU SARS-CoV-2 (Delta variant) for the infected groups. For 
+1062  the control group, 50 µl PBS was administered intranasally. 2 hr after infection, the infected 
+1063  mice were intragastrically administered with RAY1216 (600 mg/kg/day, 300 mg/kg/day, 150 
+1064  mg/kg/day), PF-07321332 (600 mg/kg/day) or PBS daily for 5 days. Weight change and 
+1065  mortality of mice in each group was recorded daily for 5 days. To measure lung virus titres 
+  58 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+1066  and to examine lung pathology, a separate set of experiments was performed under the same 
+1067  grouping and conditions except that each mouse was inoculated with a non-lethal dose of 
+1068  103.5 PFU SARS-CoV-2 (Delta variant) for the infected groups. At 3 and 5 days post 
+1069  infection, mice were sacrificed, and lung tissues were collected to measure virus titres and to 
+1070  examine lung pathology. 
+1071  In-vitro plasma stability analysis 
+1072  To assess in-vitro plasma stabilities of RAY1216 and PF-07321332, 2 µM of the tested 
+1073  compounds  were  incubated  in  plasma  from  different  CD-1  mouse,  SD  rat,  beagle  dog, 
+1074  cynomolgus monkey and human at 37 ℃ for 2 hr. 40 μL of samples were added into 160 μL 
+1075  of internal standard working solution (200 ng/mL tolbutamide in MeOH). The mixed solutions 
+1076  were vortex and centrifuged at 16000 g for 10 min at 2-8 °C. The supernatant was analysed by 
+1077  LC-MS/MS. 
+1078  Pharmacokinetic studies 
+1079  The pharmacokinetic (PK) studies using animals were approved by the WuXi AppTec Ethics 
+1080  Committee of Animal Experiments (IACUC certificate No.: NJ-20220531). All animals used 
+1081  in this study were male and chosen randomly. Pharmacokinetic properties of RAY1216 and 
+1082  PF-07321332 following a single intravenous injection (IV) or gavage (PO) administration 
+1083  were examined. Briefly, two groups were assigned for each animal species, male CD-1 
+1084  mouse (2 mice/group), male SD rat (3 rats/group) and male cynomolgus macaque (2 
+1085  cynomolgus macaques /group), respectively. The test compound was administered to each 
+1086  group at the indicated dose, orally or intravenously. The specific doses administered are 
+1087  shown in Table 3. Plasma samples of animals in IV groups were collected before 
+1088  administration (0), 0.083, 0.25, 0.5, 1, 2, 4, 8 and 24 hours after administration; samples of 
+1089  animals in PO groups were collected before administration (0), 0.25, 0.5, 1, 2, 4, 6, 8, and 24 
+1090  hours after administration. 
+1091  LC-MS/MS analysis of plasma samples 
+1092  Plasma samples were obtained by centrifugation and concentrations of the compounds in the 
+1093  serum were assessed by LC-MS/MS. On an ACQUITY UPLC System, ACQUITY UPLC 
+1094  Protein BEH C4 column (300Å, 1.7 μm, 2.1 × 50 mm), ACQUITY UPLC HSS T3 column 
+1095  (1.8 μm, 2.1 × 50 mm) and Phenomenex Kinetex C18 LC column (2.6 μm, 100 Å, 2.1 × 50 
+1096  mm) were used for analyses of samples from mouse, rat and cynomolgus macaque, 
+  59 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531862; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+1097  respectively. The pharmacokinetic parameters of RAY1216 and PF-07321332 in plasma were 
+1098  calculated using non-compartmental analysis as implemented in Phoenix WinNonlin software 
+1099  (version 8.3.4). 
+  60 
+
+NEW PAGE

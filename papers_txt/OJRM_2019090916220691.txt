@@ -1,0 +1,614 @@
+Open Journal of Regenerative Medicine, 2019, 8, 5-16 
+https://www.scirp.org/journal/ojrm 
+ISSN Online: 2169-2521 
+ISSN Print: 2169-2513 
+ 
+ 
+ 
+Erythrocyte Membrane Protein Band 3 Predicts 
+Interferon Ribavirin-Induced Anemia 
+Engin Altintas1*, Serap Yalin2, Orhan Sezgin1, Enver Ucbilek1, Anil Tombak1, Arzu Kanik3 
+1Department of Gastroenterology, Faculty of Medicine, University of Mersin, Mersin, Turkey 
+2Faculty of Pharmacy, University of Mersin, Mersin, Turkey 
+3Department of Biostatistics, Faculty of Medicine, University of Mersin, Mersin, Turkey 
+ 
+ 
+ 
+How to cite this paper: Altintas, E., Yalin,  Abstract 
+S., Sezgin, O., Ucbilek, E., Tombak, A. and 
+Kanik, A. (2019) Erythrocyte Membrane  Aim & Background: It was proposed that the differences in erythrocyte 
+Protein Band 3 Predicts Interferon Riba-  membrane protein contents—especially band 4—take a role in the serious 
+virin-Induced  Anemia. Open Journal of 
+anemia related to interferon plus ribavirin (I/R). The aim of this study is to 
+Regenerative Medicine, 8, 5-16. 
+evaluate whether the erythrocyte membrane protein contents predict anemia 
+https://doi.org/10.4236/ojrm.2019.82002   
+  related to I/R or not. Methods: 180 mcg interferon α 2a once a week and 
+Received: October 20, 2018 
+weight adjusted ribavirin daily were given for 48 weeks to fifty patients with 
+Accepted: June 27, 2019 
+chronic hepatitis C. It was diagnosed as anemia when haemoglobin concen-
+Published: June 30, 2019 
+  tration was <10 mg/dL. In the beginning, the erythrocyte membrane protein 
+Copyright © 2019 by author(s) and   contents of all patients were separated by “Sodium Dodecyl Sulphate Polya-
+Scientific Research Publishing Inc. 
+crylamide Gel Disc Electrophoresis (SDS-PAGE)” and haemoglobin concen-
+This work is licensed under the Creative 
+trations were measured. Results: Anemia developed in 17 patients (34%). The 
+Commons Attribution International  
+License (CC BY 4.0).  levels of erythrocyte membrane proteins were as; spectrin: 20.468 ± 2.5902, 
+http://creativecommons.org/licenses/by/4.0/   
+ankyrin: 4.576 ± 1.2706, B3: 19.240 ± 2.8358, B4.1: 5.628 ± 1.8832, and B4.2: 
+Open Access
+    5.848 ± 1.8030. When the relation between the development of anemia and 
+erythrocyte membrane proteins was investigated, a relation was only found at 
+B3 which was not statistically significant (p = 0.058). When ROC analysis was 
+performed, 95% CI p = 0.035 for B3 (0.517 - 0.792) was found. In patients 
+whose B3 level was below 17.7%, the sensitivity of anemia development risk 
+was calculated as 64.7% and the specificity thereof was calculated as 66.7%. 
+Erythrocyte membrane protein contents by gender were only different at B3 
+(p = 0.042). Anemia developed in 17 patients (34%). 14 of these patients were 
+of female and 3 were of male gender; the gender played a significant role in 
+terms of anemia (p = 0.003). Conclusions: Erythrocyte membrane protein B3 
+is not only useful in predicting the patient under the risk of developing ane-
+mia, but also it may be useful in preventing it and it may explain why women 
+inclined to anemia. 
+ 
+DOI: 10.4236/ojrm.2019.82002  Jun. 30, 2019  5  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+E. Altintas et al. 
+ 
+Keywords 
+Anemia, Erythrocyte Membrane Protein, Interferon, Ribavirin 
+ 
+1. Introduction 
+The current standard of care for the treatment of chronic hepatitis C is pegin-
+terferon and ribavirin, which can induce a sustained virological response (SVR) 
+in the majority of patients treated [1] [2]. 
+Ribavirin is a purine nucleoside analogue [3]. Even though its mechanism of 
+action is still controversial, it widely prevents the replication of DNA and RNA 
+viruses through the inhibition of inosine monophosphate dehydrogenase, an es-
+sential enzyme in the synthesis of guanosine triphosphate [3]. The final step of 
+this chain is the fatal mutagenesis of the RNA genome [3]. Currently, the treat-
+ment of patients with hepatitis C consists of interferon-α and ribavirin combina-
+tion therapy [4] [5]. Combination therapy, in comparison to single-agent inter-
+feron treatment, leads to an increase in side effects [4]-[11]. Dose reductions are 
+common and they are essentially required in 10% of patients under combination 
+therapy who develop anemia [3] [4] [5] [6] [7]. The major toxicity related to ri-
+bavirin use is haemolytic anemia. This side effect has been associated with the 
+accumulation of ribavirin triphosphate in red blood cells (RBCs), leading to the 
+inhibition of erythrocyte functions [12] [13]. 
+The single most common adverse event and the primary reason for dose mod-
+ifying ribavirin is haemolytic anemia [1] [2] [14] [15]. The median declines in 
+haemoglobin during the course of the treatment with PEGIFN and RVN is 2.5 g 
+[1] [2] [14] [15]. Approximately 20% of patients have a decline in haemoglobin 
+of 4 g or more [16]. 
+Aim of this study is to investigate whether erythrocyte membrane proteins 
+(EMP) predict interferon ribavirin-induced anemia. 
+2. Methods 
+Patient Selection: A total of 50 consecutive prospectively enrolled patients 
+with chronic HCV infection who underwent liver biopsy at Mersin University 
+Faculty of Medicine Hospital comprised the study cohort between January 
+2007-December 2008. The study protocol was approved by the Human Ethics 
+Committee of our hospitals and all subjects gave written informed consent to 
+participate in the present study. All subjects had antibodies against HCV (Abbot, 
+Axsym. Hepatitis C virus encoded antigen) and detectable HCV RNA by PCR 
+(Amplicor HCV; Roche Diagnostics. Branchburg, NJ).  
+A complete clinical evaluation was performed on each patient. Baseline cha-
+racteristics collected at the time of liver biopsy included the age, height, weight 
+and body mass index (BMI). The formula for BMI is weight in kilograms divided 
+by height in meters squared. Information regarding the average current daily al-
+ 
+DOI: 10.4236/ojrm.2019.82002  6  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+E. Altintas et al. 
+ 
+cohol intake (g/day) in the past 6 months and past alcohol intake (g/day) before 
+the last 6 months was noted. The patients with diabetes mellitus, heart disease, 
+renal failure, anemia and haemoglobinopathy were excluded. 
+Laboratory Test: In the morning of the liver biopsy, venous blood was drawn 
+after a 12 hour overnight fast to determine the serum levels of alanine amino-
+transferase, albumin, bilirubin, complete blood count, international normalized 
+ratio, and EMP content. On the 4 week, blood samples were collected in order to 
+measure EMP content and ribavirin levels. The following laboratory values were 
+measured at baseline, and then at weeks 2, 4, 8, 12, 16, 20, 24 and 48 of treat-
+ment: haemoglobin, white blood cells (WBCs), neutrophils, platelets and ALT. 
+All biochemical tests were performed using a conventional automated analyzer 
+within the Department of Clinical Chemistry at Mersin University Faculty of 
+Medicine Hospital. 
+The plasma level of ribavirin at therapy week 4 was measured by high pressure 
+liquid chromatography (HPLC). 
+Erythrocyte Membrane Protein Extraction: The blood samples collected to 
+determine the EMP were centrifuged for 20 min/1000g followed by the removal 
+of the plasm − platelet + leukocyte layer on top. Equal amounts of isotonic 
+phosphate (5 mM NaH2PO4 and 147 mM NaCl) tampon were placed on the 
+underlying cells. It was again centrifuged for 20 min/1000g followed by the re-
+moval of the liquid on top. The washing process was repeated three times. Each 
+time, some portion of the upper-lying cells was removed to obtain a pure eryt-
+hrocyte suspension. What were obtained in the end were light pink erythrocyte 
+membrane proteins remnants, which were stored at −80˚C until EMP determi-
+nation. 
+To denature the proteins, 2 ml of electrophoresis pre-treatment solution (1% 
+Sodium Dodecyle Sulphate, 7% Sucrose, 10 mM Tris-HCl (pH: 8)) were added 
+on the erythrocyte membrane protein remnants, and it was stored at 37˚C for 60 
+minutes. 
+The denatured samples were electrophoresed with SDS-PAGE. The protein 
+fractions were stained by soaking in 1% of Coomassie Brilliant Blue R-250 over-
+night at room temperature. Fractions were obtained during the electrophoresis 
+of the membrane proteins extracted from all blood samples collected from pa-
+tients. These fractions were: Spectrin (Sp), Ankyrin (Ank), Protein Band 3 (B3), 
+Protein Band 4.1 (B4.1), Protein Band 4.2 (B4.2). The quantitative evaluation of 
+the fractions was made with a Densitometer (Beckman Appraise). 
+Statistical Analysis: Once all data was entered into the MedCalc 9.4.2.1 
+package programme, informative statistics for all parameters were given for both 
+the group with anemia and the group without anemia. Cut-off values were de-
+termined according to the values with anemia and without anemia, and also the 
+statistics were calculated. Also the areas below the ROC curve were calculated as 
+per the parameters, and they were compared with the areas which were below 
+the ROC curve as per the other parameters, and the related graphics were drawn. 
+ 
+DOI: 10.4236/ojrm.2019.82002  7  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+E. Altintas et al. 
+ 
+3. Results   
+Characteristics of Patients 
+180 mcg interferon α 2a once a week and weight adjusted ribavirin (Subjects 
+with body weight < 65 kg: 800 mg/day, subjects with body weight < 85 kg > 65 
+kg: 1000 mg/day, subjects with body weight > 85 kg: 1200 mg/day) daily were 
+given for 48 weeks to fifty patients with chronic hepatitis C (See Table 1). The 
+dose of ribavirin was reduced by 200 mg in patients whose haemoglobin con-
+centrations fell below 10 g/dL during the course of treatment and it was discon-
+tinued if the concentration of Hb fell below 8.5 g/dL. There were 25 female and 
+25 male patients with a median age of 54.86 ± 8.00 years. The patients’ erythro-
+cyte membrane protein levels were as follows: Sp: 20.468 ± 2.5902, Ank: 4.576 ± 
+1.2706, B3: 19.240 ± 2.8358, B4.1: 5.628 ± 1.8832 and B4.2: 5.848 ± 1.8030. Ane-
+mia developed in 17 patients (34%). 14 of these patients were of female and 3 
+were of male gender; the gender played a significant role in terms of anemia (p = 
+0.003). Erythrocyte membrane protein contents by gender were only different at 
+B3 (p = 0.042) (See Table 2). Ribavirin treatment was discontinued in 9 (10.58%). 
+With respect to anemia; the plasma levels of ribavirin was not different (1.384 ± 
+0.644 mg/ml vs 1.276 ± 0.858 mg/ml; p = 0.390)  
+When the relation between the development of anemia and erythrocyte 
+membrane proteins was investigated, a relation was only found at B3, which was 
+not statistically significant (p = 0.058). No statistically significant differences 
+were observed in the areas below the curve when activities of EMPs’ in diagnos-
+ing anemia were analyzed by pairwise comparison of ROC curve. The calculated 
+p values are as follows: p = 0.210 for SP and B3, p = 0.467 for Sp and Ank, p =  
+ 
+Table 1. The characteristics of patients. 
+Parameter  Study Group  Non-anemia  Anemia  p value 
+N (%)  50  33 (66%)  17 (34%)   
+Age ± SD (year)  54.86 ± 8.00  54.30 ± 7.53  55.94 ± 8.97  0.499 
+Sex (F/M)  25/25  11/22  14/3  0.003 
+Hb ± SD (gr/dl)  13.728 ± 1.53  14.352 ± 1.27  12.518 ± 1.28  <0.001 
+Htc ± SD (%)  40.332 ± 4.01  41.767 ± 3.68  37.547 ± 3.10  <0.001 
+Ferritin ± SD (ng/ml)  206.94 ± 325.67  234.91 ± 376.05  152.65 ± 192.98  0.403 
+Vitamin B12 ± SD (mg/dl)  413.400 ± 235.51  381.758 ± 173.07  474.824 ± 322.30  0.188 
+Folic acid ± SD (mg/dl)  9.468 ± 2.69  9.533 ± 2.61  9.341 ± 2.92  0.814 
+Spectrin ± SD (%)  20.468 ± 2.5902  19.600 ± 2.85  19.653 ± 3.26  0.953 
+Ankyrin ± SD (%)  4.576 ± 1.2706  4.570 ± 1.57  4.053 ± 1.20  0.242 
+Protein Band 3 ± SD (%)  19.240 ± 2.8358  19.358 ± 2.50  17.924 ± 2.40  0.058 
+Protein Band 4.1 ± SD (%)  5.628 ± 1.8832  5.339 ± 1.86  5.547 ± 2.11  0.723 
+Protein Band 4.2 ± SD (%)  5.848 ± 1.8030  5.703 ± 1.36  6.076 ± 1.70  0.404 
+Ribavirin level (mg/ml)  1.324 ± 0.758  1.276 ± 0.858  1.384 ± 0.644  0.390 
+ 
+DOI: 10.4236/ojrm.2019.82002  8  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+E. Altintas et al. 
+ 
+Table 2. Comparison of erythrocyte membrane contents by gender. 
+Sex  Male  Female  p value 
+n = 50  25  25   
+Spectrin ± SD  19.500 ± 2.8912  19.736 ± 3.0990  0.782 
+Ankyrin ± SD  4.364 ± 1.6735  4.224 ± 1.2634  0.887 
+Protein Band 3 ± SD  19.596 ± 2.9054  18.144 ± 1.9197  0.042 
+Protein Band 4.1 ± SD  5.196 ± 1.7558  5.624 ± 2.1111  0.440 
+Protein Band 4.2 ± SD  5.780 ± 1.5853  5.880 ± 1.4036  0.814 
+B3 level was significantly different between male and female. 
+ 
+0.941 for Sp and B4.1, p = 0.834 for Sp and B4.2, p = 0.552 for B3 and Ank, p = 
+0.164 for B3 and B4.1, p = 0.301 for B3 and B4.2, p = 0.484 for Ank and B4.1, p = 
+0.621 for Ank and B4.2. p = 0.788 for B4.1 and B4.2 (Figure 1). 
+When ROC analysis was performed, 95 % CI p = 0.035 for B3 (0.517 - 0.792) 
+was found. In patients whose B3 level was below 17.7%, the sensitivity of anemia 
+development risk was calculated as 64.7% and the specificity thereof was calcu-
+lated as 66.7% (Figure 2(a) & Figure 2(b)). 
+4. Discussion 
+We have observed a relation between the development of anemia and B3 level. 
+The result for B3 in ROC analysis was 95% CI (0517 - 0.792) p = 0.035. In pa-
+tients whose B3 level was below 17.7%, the sensitivity of anemia development 
+risk was calculated as 64.7% and the specificity thereof was calculated as 66.7%. 
+We have observed more anemia cases on females (14/17, p = 0.003), the reason 
+of which we have explained with lower levels of B3 compared to males (18.144 ± 
+1.9197 versus 19.596 ± 2.9054. p = 0.042). 
+The average maximum reduction in haemoglobin levels was 3.1 g/dL with ri-
+bavirin plus conventional interferon, and 3.7 g/dL with ribavirin plus pegylated 
+interferon [2] [17]. Ribavirin causes various degrees of erythrocyte haemolysis in 
+nearly all patients, and necessitates a dose reduction in 7% - 9% of patients un-
+der combination therapy [2] [3] [17] [18]. The prevalence of anemia in our 
+study was 34% (17/50). The higher frequency compared to that reported in the 
+literature may be attributable to our definition of anemia as haemoglobin levels 
+below 10 g/dl. Ribavirin treatment was discontinued in 9 (10.58%); these results 
+are consistent with those reported in the literature.  
+Little is known about the mechanism of anemia developing during IFN/ribavirin 
+combination therapy for HCV infection. Ribavirin causes dose-dependent and 
+reversible haemolytic anemia. Once inside the red blood cells, ribavirin under-
+goes phosphorylation to its active form that causes depletion of adenosine tri-
+phosphate, and ribavirin triphosphate, which interrupts cellular functions, ac-
+cumulates inside the erythrocytes [19] [20]. The accumulation of ribavirin tri-
+phosphate inside the RBCs disrupts antioxidant mechanisms on the erythrocyte  
+ 
+DOI: 10.4236/ojrm.2019.82002  9  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+E. Altintas et al. 
+ 
+100
+80
+Sp 
+y
+vit 60 B3
+siti Ank 
+n 40 B 4.1 
+e
+S B 4.2 
+20
+0
+0 20 40 60 80 100
+100-Specificity
+ 
+Figure 1. ROC analysis of EMP. When the EMPs’; Sp and B3’s (p = 0.210). Sp and Ank’s 
+(p = 0.467), Sp and B4.1’s (p = 0.941), Sp and B4.2’s (p = 0.834), B3 and Ank’s (p = 0.552), 
+B3 and B4.1’s (p = 0.164), B3 and B4.2’s (p = 0.301), Ank and B4.1’s (p = 0.484), Ank and 
+B4.2’s (p = 0.621), B4.1 and B4.2’s (p = 0.788) activities of diagnosing anemia are ana-
+lyzed by comparison of ROC curve, no statistical differences were observed in the areas 
+below the curve. 
+ 
+ Box-and-whisker  Means  
+26
+24
+22
+3  20
+B
+18
+16
+14
+0 1
+Anemia  
+(a) 
+ 
+(b) 
+Figure 2. (a) & (b) ROC analysis of B3. In ROC analysis, 95% CI p = 0.035 for B3 (0.517 - 
+0.792) was found. In patients whose B3 level was below 17.7%, the sensitivity of anemia 
+development risk was calculated as 64.7% and the specificity thereof was calculated as 
+66.7%. 
+ 
+DOI: 10.4236/ojrm.2019.82002  10  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+E. Altintas et al. 
+ 
+membrane and causes oxidative damage, which leads to the removal of the 
+damaged erythrocytes by the reticuloendothelial system [20]. When erythrocytes 
+are exposed to in-vitro ribavirin, the osmotic fragility and deformability of red 
+blood cells are maintained [21]. 
+Homma et al. [22] established a significant correlation between the female 
+gender, advanced age (>60 years) and weight-adjusted ribavirin dosage (>12 
+mg/kg) and anemia. Erythrocyte ribavirin level was another risk factor that was 
+reported [23]. The only factor that posed a risk for the development of anemia in 
+another our study was age [24]. The risk of anemia increased 1.112-fold with 
+age.  
+Furthermore, in-vitro studies have shown that RBCs of patients who develop 
+haemolytic anemia during HCV treatment are more susceptible to oxidative 
+stress [25]. Marked differences have been ascertained in the oxidative stress 
+markers and membrane proteins of patients with or without a history of ribavi-
+rin-induced anemia [25]. These findings suggest that there exist risk factors re-
+lated to erythrocytes for ribavirin-induced anemia. It has been suggested that the 
+augmented susceptibility of erythrocytes to oxidative stress and modifications in 
+the erythrocyte membrane content may be a result of alterations in the Adeno-
+sylmethionine/Adenosylhomocysteine ratio inside erythrocytes that are caused 
+by ribavirin; however this has not been investigated [26]. It has been shown that 
+total cholesterol, total phospholipids and the cholesterol/phospholipid ratio dis-
+tinctly increase in the erythrocyte membrane lipid contents in patients receiving 
+IFN/ribavirin treatment [27]. It is particularly contended that these changes in 
+the erythrocyte membrane lipids lead to a decrease in erythrocyte flexibility 
+and membrane viscosity, and may result in the haemolytic anemia related to 
+IFN/ribavirin treatment [27]. 
+The red blood cell (RBC), an anucleated cell, presents a very limited biosyn-
+thesis capacity and poor repair mechanisms. Thus, whenever exposed to physical 
+and/or chemical stress. RBC suffers and accumulates physical and/or molecular 
+damage. Several enzymes are involved in the RBC antioxidant defence, such as 
+catalase (Cat), superoxide dismutase (SOD) and glutathione peroxidase (GPx), 
+which is a selenium (Se)-dependent enzyme. The levels of reduced glutathione 
+(GSH) in the cell are also important in protecting the cell from the deleterious 
+action of reactive oxygen species. The ageing of the cell is associated with a de-
+crease in the activity of several enzymes (such as glucose-6-phosphate dehydro-
+genase [28] [29] and glutathione peroxidase (GPX) [29] and with modifications 
+in membrane proteins [30], which ultimately may lead to its destruction. Mod-
+ifications in the erythrocyte membrane band 3 protein, by proteolytic cleavage, 
+clustering or exposure of unusual epitopes, trigger the binding of specific an-
+ti-band 3 autoantibodies and complement activation, marking the cell for death 
+[31] [32] [33] [34]. Pronounced differences in markers of oxidative stress and 
+membrane proteins exist between patients with and without a history of ribavi-
+rin-induced anemia [25]. Patients with previous severe ribavirin-induced anemia 
+had lower levels of protein sulfhydryls and thioredoxin, higher levels of pro-
+ 
+DOI: 10.4236/ojrm.2019.82002  11  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+E. Altintas et al. 
+ 
+tein-mixed disulfides and glutathione peroxidase, and a membrane protein pat-
+tern consistent with band 4 dimer disaggregation [25]. In vitro studies have 
+shown that erythrocytes of patients who have had haemolysis during treatment 
+of HCV are more susceptible to oxidative stress [25].  
+De Franceschi L et al. [15] have reported that ribavirin-treated patients showed 
+an increase in aggregated band 3, which was associated with a significantly in-
+creased binding of autologous antibodies and complement C3 fragments indi-
+cating an erythrophagocytic removal by reticuloendothelial system. Older and 
+damaged RBCs presented higher band 3 aggregation and lower fragmentation 
+[28]. The younger RBCs showed reduced aggregation and higher fragmentation 
+[28].  
+Human pregnancy is associated with increased oxidative stress [35]. These 
+features may account for some erythrocyte membrane damage in pregnancy [36] 
+[37]. The data of study which investigated erythrocyte band 3 profile as a cumu-
+lative marker of oxidative and/or proteolytic damage have suggested band 3 pro-
+file as a marker of erythrocyte changes in pregnancy, which are independent of 
+the “physiological anemia” of pregnancy [38].  
+The development of cellular defects earlier during the RBC life-span leads to 
+their premature removal from the circulation [31] [39] [40]. The pathway for the 
+removal of senescent or damaged RBCs must involve a change in components 
+that are already present in the circulating RBC, since de novo protein synthesis 
+will have terminated before the RBC reaches maturity. In fact, a senescent cell 
+antigen immunologically related to band 3 protein [32] [33] [41], the trans-
+membrane protein known as the anion channel, marks the RBC for death by 
+triggering the binding of a specific autoanti-band 3 antibody, and complement 
+activation [31] [35] [39] [42]. The modified antigenicity of band 3 may result 
+from proteolytic cleavage, clustering or even by exposure of unusual epitopes 
+[39] [43] [44]. Therefore it seems reasonable to assume that any RBC under 
+oxidative and/or proteolytic stress will be marked for death by band 3 modifica-
+tion, and that the band 3 profile may provide a useful marker of biochemical 
+distress. Changes in band 3 observed with aging include a decrease in efficiency 
+in anion transport, in spite of an increase in the number of anion bindings sites, 
+decrease in glucose transport, binding of antibodies to aged band 3, increase in 
+band 3 degradation to smaller fragments, and in situ binding of physiological 
+IgG autoantibodies resulting in cellular removal [45]. 
+Band 3 isoforms. members of the anion exchange family of proteins, are in a 
+number of physiological activities such as cell volume and osmotic haemostasis. 
+HCO−/Cl− Exchange, red cell aging, IgG binding and cellular removal, and the 
+3
+maintenance of the structural integrity of cells [45]. The findings of previous 
+studies have confirmed that band 3 is important in acid base haemostasis, O/CO 
+2 2
+transport, and membrane stability and skeletal organization [45]. Band 3 defi-
+cient red cells were very unstable suggesting that the bilayer of the normal red 
+cell membrane may be stabilized by interaction with band 3 [45]. 
+ 
+DOI: 10.4236/ojrm.2019.82002  12  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+E. Altintas et al. 
+ 
+Hence, deficiency in the level of B3 can be so extended that, remaining 
+amount can be unable to preclude oxidative stress caused by ribavirin. Flexibility 
+of erythrocyte membrane can diminish; transformation to senescent erythrocyte 
+form can be accelareted and eventually moved off the circulation. Especially, a 
+decrease in the RBC deformability and membrane fluidity by changes in these 
+RBC membrane proteins was supposed and it is suggested that those changes 
+may result in haemolytic anemia by interferon plus ribavirin treatment.  
+As a result of this study, we showed that the level of erythrocyte membrane 
+protein band 3 may predict ribavirin induced anemia. There are a lot of band 3 
+mutations and polymorphisms [46]. Study of naturally occurring band 3 muta-
+tions or measuring of the level of band 3 or band 3 profiles may help in the un-
+derstanding or prediction of the interferon ribavirin induced anemia. 
+References 
+[1]  Manns, M.P., McHutchison, J.G., Gordon, S.C., et al. (2001) Peginterferon Alfa-2b 
+plus Ribavirin Compared with Interferon Alfa-2b plus Ribavirin for Initial Treat-
+ment of Chronic Hepatitis C: A Randomized Trial. The Lancet, 35, 958-965.  
+https://doi.org/10.1016/S0140-6736(01)06102-5 
+[2]  Fried, M.W., Shiffman, M.L., Reddy, K.R., et al. (2002) Peginterferon Alfa-2a plus 
+Ribavirin for Chronic Hepatitis c Virus Infection. The New England Journal of 
+Medicine, 347, 975-982. https://doi.org/10.1056/NEJMoa020047 
+[3]  Cameron, C.E. and Castro, C. (2001) The Mechanism of Action of Ribavirin: Lethal 
+Mutagenesis of RNA Virus Genomes Mediated by the Viral RNA-Dependent RNA 
+Polymerase. Current Opinion in Infectious Diseases, 14, 757-764.  
+https://doi.org/10.1097/00001432-200112000-00015 
+[4]  Poynard, T., Marcellin, P., Lee, S., et al. (1998) Randomised Trial of Interferon-a-2b 
+plus Ribavirin for 48 Weeks or for 24 Weeks versus Interferon-a-2b plus Placebo for 
+48 Weeks for Treatment of Chronic Infection with Hepatitis C Virus. International 
+Hepatitis Interventional Therapy Group (IHIT). The Lancet, 352, 1426-1432.  
+https://doi.org/10.1016/S0140-6736(98)07124-4 
+[5]  McHutchison, J., Gordon, S., Schiff, E., et al. (1998) Interferon a-2b Alone or in 
+Combination with Ribavirin as Initial Treatment for Chronic Hepatitis C. Hepatitis 
+Interventional  Therapy  Group. The New England Journal of Medicine,  339, 
+1485-1492. https://doi.org/10.1056/NEJM199811193392101 
+[6]  Saab, S. and Martin, P. (1999) Hemolytic Anemia and the Treatment of Chronic 
+Hepatitis C. Journal of Clinical Gastroenterology, 28, 289-290.  
+https://doi.org/10.1097/00004836-199906000-00001 
+[7]  Tappero, G., Ballare, M., Farina, M. and Negro, F. (1998) Severe Anemia Following 
+Combined Alpha-Interferon/Ribavirin Therapy of Chronic Hepatitis C (Letter). 
+Journal of Hepatology, 29, 1033-1034.  
+https://doi.org/10.1016/S0168-8278(98)80138-4 
+[8]  Di Bisceglie, A.M., Shindo, M., Fong, T.L., et al. (1992) A Pilot Study of Ribavirin 
+Therapy for Chronic Hepatitis C. Hepatology, 16, 649-654.  
+https://doi.org/10.1002/hep.1840160307 
+[9]  Main, J. (1995) Future Studies of Combination Therapy for Chronic Hepatitis C: 
+Optimizing Response Rates for Each Hepatitis C Population. Journal of Hepatology, 
+23, 32-35. 
+ 
+DOI: 10.4236/ojrm.2019.82002  13  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+E. Altintas et al. 
+ 
+[10]  Reichard, O., Schvarcz, R. and Weiland, O. (1997) Therapy of Hepatitis C: Alpha 
+Interferon and Ribavirin. Hepatology, 26, 108S-111S.  
+https://doi.org/10.1002/hep.510260719 
+[11]  Sparrelid, E., Ljungman, P., Ekelof-Andstrom, E., et al. (1997) Ribavirin Therapy in 
+Bone Marrow Transplant Recipients with Viral Respiratory Tract Infections. Bone 
+Marrow Transplant, 19, 905-908. https://doi.org/10.1038/sj.bmt.1700752 
+[12]  Shulman, N.R. (1984) Assessment of Hematological Effects of Ribavirin in Humans. 
+In: Smith, R.A., Knight, V. and Smith, J.A.D., Eds., Clinical Applications of Ribavi-
+rin, Academic Press, New York, 79-92. 
+[13]  Glue, P. (1999) The Clinical Pharmacology of Ribavirin. Seminars in Liver Disease, 
+19, 17-24.  
+[14]  Shiffman, M.L. (2004) Side Effects of Medical Therapy for Chronic Hepatitis C. 
+Annals of Hepatology, 3, 5-10. https://doi.org/10.1016/S1665-2681(19)32118-0 
+[15]  De Franchesi, L., Fattovich, G., Turrini, F., et al. (2000) Hemolytic Anemia Induced 
+by Ribavirin Therapy in Patients with Chronic Hepatitis C Virus Infection: Role of 
+Membrane Oxidative Damage. Hepatology, 31, 997-1004.  
+https://doi.org/10.1053/he.2000.5789 
+[16]  Lertora, J.J., Rege, A.B., Lacour, J.T., et al. (1991) Pharmacokinetics and Long-Term 
+Tolerance to Ribavirin in Asymptomatic Patients Infected with Human Immunode-
+ficiency Virus. Clinical Pharmacology & Therapeutics, 50, 442-449.  
+https://doi.org/10.1038/clpt.1991.162 
+[17]  Hadziyannis, S.J., Sette Jr., H., Morgan, T.R., et al. (2004) Peginterferon Alfa-2a and 
+Ribavirin Combination Therapy in Chronic Hepatitis C. A Randomized Study of 
+Treatment Duration and Ribavirin Dose. Annals of Internal Medicine, 140, 346-355.  
+https://doi.org/10.7326/0003-4819-140-5-200403020-00010 
+[18]  (2003) PEG-Intron (Peginterferon Alfa-2b) Package Insert. Schering Corporation, 
+Kenilworth. 
+https://www.accessdata.fda.gov/drugsatfda_docs/label/2001/pegsche080701LB.htm   
+[19]  Jarvis, S.M., Thorn, J.A. and Glue, P. (1998) Ribavirin Uptake by Human Erythro-
+cytes  and  the  Involvement  of  Nitrobenzylthioinosine-Sensetive  (es)-Nucleoside 
+Transporters. British Journal of Clinical Pharmacology, 123, 1587-1592.  
+https://doi.org/10.1038/sj.bjp.0701775 
+[20]  Van Vlierbergh, H., Delanghe, J.R., De Vos, M. and Leroux-Roel, G. (2001) BASL 
+Steering Committee. Factors Influencing Ribavirin-Induced Hemolysis. Journal of 
+Hepatology, 34, 911-916. https://doi.org/10.1016/S0168-8278(01)00029-0 
+[21]  Furne, J.K., Springfield, J.R., Ho, S.B. and Levitt, M.D. (2003) Simplification of the 
+End-Alveolar Carbon Monoxide Technique to Assess Erythrocyte Survival. Journal 
+of Laboratory and Clinical Medicine, 142, 52-57.  
+https://doi.org/10.1016/S0022-2143(03)00086-6 
+[22]  Homma, M., Matsuzaki, Y., Inoue, Y., Shibata, M., Mitamura, K., Tanaka, N. and 
+Kohda, Y. (2004) Marked Elevation of Erythrocyte Ribavirin Levels in Interferon 
+and  Ribavirin-Induced  Anemia. Clinical Gastroenterology and Hepatology,  2, 
+337-339. https://doi.org/10.1016/S1542-3565(04)00064-3 
+[23]  Nomura, H., Tanimoto, H., Kajiwara, E., et al. (2004) Factors Contributing to Riba-
+virin-Induced Anemia. Journal of Gastroenterology and Hepatology, 19, 1312-1317.  
+https://doi.org/10.1111/j.1440-1746.2004.03459.x  
+[24]  Mert Altintas, Z., Altintas, E., Sezgin, O., et al. (2008) The Effect of Genetic Defects 
+of Single Carbon Metabolism on Ribavirin Induced Anemia in the Patients with 
+Chronic Hepatitis C. Hepato-Gastroenterology, 55, 327. 
+ 
+DOI: 10.4236/ojrm.2019.82002  14  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+E. Altintas et al. 
+ 
+[25]  Grattagliano, I., Russmann, S., Palmieri, V.O., Portincasa, P., Palasciano, G. and 
+Lauterburg, B.H. (2005) Glutathione Peroxidase, Thioredoxin and Membrane Pro-
+tein Changes in Erythrocytes Predict Ribavirin-Induced Anemia. Clinical Pharma-
+cology & Therapeutics, 78, 422-432. https://doi.org/10.1016/j.clpt.2005.07.002 
+[26]  Altintas, E. and Sezgin, O. (2004) S-Adenosylhomocysteine Hydrolase, S-Adenosyl- 
+methionine, S-Adenosylhomocysteine: Correlations with Ribavirin Induced Ane-
+mia. Medical Hypotheses, 63, 834-837. https://doi.org/10.1016/j.mehy.2004.03.031 
+[27]  Tanaka, H., Miyano, M., Ueda, H., Fukui, K. and Ichinose, M. (2005) Changes in 
+Serum and Red Blood Cell Membrane Lipids in Patients Treated with Interferon 
+Ribavirin for Chronic Hepatitis C. Clinical and Experimental Medicine, 5, 190-195.  
+https://doi.org/10.1007/s10238-005-0085-0 
+[28]  Santos-Silva, A., Castro, E.M.B., Teixeira, N.A., Guerra, F.C. and Quintanilha, A. 
+(1998) Erythrocyte Membrane Band 3 Profile Imposed by Cellular Aging by Acti-
+vated  Neutrophils  and  by  Neutrophilic  Elastase. Clinica Chimica Acta,  275, 
+185-196. https://doi.org/10.1016/S0009-8981(98)00082-5 
+[29]  Imanishi, H., Nakai, T., Abe, T. and Takino, T. (1986) Glutathione Linked Enzyme 
+Activities in Red Cell Aging. Clinica Chimica Acta, 159, 73-76.  
+https://doi.org/10.1016/0009-8981(86)90168-3 
+[30]  Brovelli, A., Castellana, M.A., Minetti, G., Piccinini, G., Seppi, C., Renzis, M.R. and 
+Balduini, C. (1991) Conformational Changes and Oxidation of Membrane Proteins 
+in Senescent Human Erythrocytes. In: Magnani, M. and De Flora, A., Eds., Red 
+Blood Cell Aging, Advances in Experimental Medicine and Biology, Vol. 307, Ple-
+num, New York, 59-73. https://doi.org/10.1007/978-1-4684-5985-2_6 
+[31]  Lutz, H.U., Bussolino, F., Flepp, R., Fasler, S., Stammler, P., Kazatchkine, M.D. and 
+Arese, P. (1987) Naturally Occurring Anti-Band-3 Antibodies and Complement 
+Together Mediate Phagocytosis of Oxidatively Stressed Human Erythrocytes. Pro-
+ceedings of the National Academy of Sciences of the United States of America, 84, 
+7368-7372. https://doi.org/10.1073/pnas.84.21.7368 
+[32]  Kay, M.M.B., Goodman, S.R., Sorensen, K., Whitfield, C.F., Wong, P., Zaki, L. and 
+Rudloff, V. (1983) Senescent Cell Antigen Is Immunologically Related to Band 3. 
+Proceedings of the National Academy of Sciences of the United States of America, 
+80, 1631-1635. https://doi.org/10.1073/pnas.80.6.1631 
+[33]  Kay, M.M.B. (1984) Localization of Senescent Cell Antigen on Band 3. Proceedings 
+of the National Academy of Sciences of the United States of America, 81, 5753-5757.  
+https://doi.org/10.1073/pnas.81.18.5753 
+[34]  Kay, M.M.B., Marchalonis, J.J., Schluter, S.F. and Bosman, G. (1991) Human Eryt-
+hrocyte Aging: Cellular and Molecular Biology. Transfusion Medicine Reviews, 5, 
+173-195. https://doi.org/10.1016/S0887-7963(91)70207-1 
+[35]  Rebelo, I., Carvalho-Guerra, F., Periera-Leite, L. and Quintanilha, A. (1995) Lacto-
+ferrin as a Sensitive Blood Marker of Neutrophil Activation in Normal Pregnan-
+cieas. European Journal of Obstetrics & Gynecology and Reproductive Biology, 62, 
+189-194. https://doi.org/10.1016/0301-2115(95)02203-J 
+[36]  Choi, J.W. and Pai, S.H. (2001) Change in Erythropoesis with Gestational Age dur-
+ing Pregnancy. Annals of Hematology, 80, 26-31.  
+https://doi.org/10.1007/s002770000229 
+[37]  Tian, L.P., Nelson, E.A.S., Senok, A.C., Yu, L.M., Oppenheimer, S.J. and Li, K. 
+(1998) Red Cell Age and Susceptibility to Malaria during Pregnancy. Acta Obstetri-
+cia et Gynecologica Scandinavica, 77, 717-721.  
+https://doi.org/10.1034/j.1600-0412.1998.770704.x 
+ 
+DOI: 10.4236/ojrm.2019.82002  15  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+E. Altintas et al. 
+ 
+[38]  Belo, L., Rebelo, I., Castro, E.M.B., Catarino, C., Pereira-Leite, L., Quintanilha, A. 
+and Santos-Silva, A. (2002) Band 3 as a Marker of Erythrocyte Changes in Preg-
+nancy. European Journal of Haematology, 69, 145-151.  
+https://doi.org/10.1034/j.1600-0609.2002.02788.x 
+[39]  Lutz, H.U. (1990) Erythrocyte Clearance Blood Cell Biochemistry. In: Harris, J.R., 
+Ed., Erythroid Cells, Plenum, New York, 81-120.  
+https://doi.org/10.1007/978-1-4757-9528-8_4 
+[40]  Bosch, F.H., Werre, J.M., Schipper, L., et al. (1994) Determinants of Red Blood Cell 
+Deformability in Relation to Cell Age. European Journal of Haematology, 52, 35-41.  
+https://doi.org/10.1111/j.1600-0609.1994.tb01282.x 
+[41]  Kay, M.M.B. (1978) Role of Physiologic Autoantibody in the Removal of Senescent 
+Human Red Cells. Journal of Supramolecular Structure, 9, 555-567.  
+https://doi.org/10.1002/jss.400090409 
+[42]  Lutz, A. (1992) Naturally Occurring Anti-Band 3 Antibodies. Transfusion Medicine 
+Reviews, 6, 201-211. https://doi.org/10.1016/S0887-7963(92)70170-9 
+[43]  Czerwinki, M., Wasniowska, K., Steuden, I., Duk, M., Wiedlocha, A. and Lisowska, 
+E. (1988) Degradation of the Human Erythrocyte Membrane Band 3 Studied with 
+Monoclonal Antibody Directed against an Epitope on the Cytoplasmic Fragment of 
+Band 3. European Journal of Biochemistry, 174, 647-654.  
+https://doi.org/10.1111/j.1432-1033.1988.tb14147.x 
+[44]  Low, P.S. (1991) Role of Hemoglobin Denaturation and Band 3 Clustering in In-
+itiating Red Cell Removal. In: Magnani, M. and De Flora, A., Eds., Red Blood Cell 
+Aging, Plenum, New York, 173-183. https://doi.org/10.1007/978-1-4684-5985-2_16 
+[45]  Kay, M.M. (2004) Band 3 and Its Alterations in Health and Disease. Cellular and 
+Molecular Biology, 50, 117-138. 
+[46]  Bruce, L.J. and Taner, M.J. (1999) Erythroid Band 3 Variants and Disease. Bailliere’s 
+Clinical Haematology, 12, 637-654. https://doi.org/10.1053/beha.1999.0046 
+ 
+ 
+ 
+DOI: 10.4236/ojrm.2019.82002  16  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE

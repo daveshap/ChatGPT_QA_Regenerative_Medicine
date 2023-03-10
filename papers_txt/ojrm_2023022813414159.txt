@@ -1,0 +1,877 @@
+Open Journal of Regenerative Medicine, 2023, 12, 1-20 
+https://www.scirp.org/journal/ojrm 
+ISSN Online: 2169-2521 
+ISSN Print: 2169-2513 
+ 
+ 
+ 
+Genetic Cell Therapy in Anti-Aging   
+Regenerative Cosmetology 
+Peter K. Law1,2, Jun Ren3 
+1Cell Therapy Institute, Wuhan, China 
+2Huazhong University of Science and Technology, Wuhan, China 
+3Wuhan University Affiliated Tong Ren Hospital, Wuhan, China 
+  
+ 
+ 
+How to cite this paper: Law, P.K. and Ren,  Abstract 
+J. (2023) Genetic Cell Therapy in Anti-Aging 
+Regenerative Cosmetology. Open Journal  As post-WWII baby boomer approaching age 80, Anti-Aging Regenerative 
+of Regenerative Medicine, 12, 1-20.  Cosmetology (AARC) has been developed and patented for beautifying and 
+https://doi.org/10.4236/ojrm.2023.121001  strengthening the human body using live cells; to enhance the appearance and 
+ 
+function of various bodily parts to provide health and aestheticism of human 
+Received: January 6, 2023 
+Accepted: February 26, 2023  being throughout life. It is a combined cosmetic and preventive medicine to 
+Published: March 1, 2023  intervene with and to correct the undesirable phenotypic expression of aging. 
+  The intrinsic properties of myoblasts and foreskin fibroblasts in development 
+Copyright © 2023 by author(s) and  
+and regeneration are harnessed to formulate a genetic cell therapy program 
+Scientific Research Publishing Inc. 
+This work is licensed under the Creative  which is safe and efficacious as previously been tested in FDA Phase III clini-
+Commons Attribution International   cal trials. Myoblasts are selected for strength development and foreskin fi-
+License (CC BY 4.0).  broblasts for tenacity and smooth-to-the-touch. Both cell types are highly mi-
+http://creativecommons.org/licenses/by/4.0/   
+totic and non-carcinogenic. In additional to providing large quantities of nuc-
+Open Access
+    lei as regenerative gene medicine, and of mitochondria as energy generators, 
+myoblasts secret tumor necrosis factor alpha (TNF-α) for skin whitening and 
+melanoma prevention. Myoblasts, because of their small size, spindle shape, 
+and resilience, grow readily on collagen and laminin within wrinkles of skin 
+surfaces, thus enhancing the color, luster, and texture of the skin “plated” with 
+them. Alternatively, they can be injected subcutaneously as cell filler to reduce 
+wrinkles. Intramuscular injection of myoblasts can augment the size, shape, 
+consistency, tone, and strength of muscle groups, improving the lines, contours, 
+and vitality to sculpt a youthful appearance. By improving cell genetics and 
+organ functions, the program holds promise to sustain the human subject in 
+good health and appearance, with a good quality of life and life prolongation. 
+ 
+Keywords 
+Anti-Aging, Genetic Cell Therapy, Myoblast, Body Building, Beautification, 
+Cosmetology 
+ 
+DOI: 10.4236/ojrm.2023.121001  Mar. 1, 2023  1  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+P. K. Law, J. Ren 
+ 
+1. Introduction 
+Aging is hereditary [1]. It is characterized with progressive cell degeneration and 
+tissue attrition, leading to organ failure and death. Myoblast Transfer Therapy 
+(MTT) is a genetic cell therapy which replenishes dead myofibers with live ones, 
+and repairs degenerative myofibers with normal complimentary genes [2]. MTT 
+prevents organ failure, intervening with disease onset and/or progression, thus 
+prolonging the life expectancy of the human subjects [3]. By maintaining normal 
+function of various bodily organs in which myofibers are a constituent, MTT 
+sustains the human subject in good health with a good quality of life [4]. It is an 
+area with great promise that can be traced to one of the earliest INDs of cell thera-
+py and gene therapy, numbered BB-IND 5108, approved on May 13, 1993 by the 
+Food and Drug Administration (FDA) in facilitating the availability of safe and 
+effective treatments [5].  
+2. Pathogenesis and Signs of Aging 
+The earliest signs of aging are loss of energy and strength due to genetically pro-
+gramed degeneration of ATP-producing mitochondria (Figure 1) [4]. Mitochon-
+drial degeneration diminishes energy production, body warmth, physical activi-
+ty, leading to disuse atrophy and degeneration of fast-twitch (Type II A and B) 
+muscle fibers [6] that account for slow movement and incoordination in the el-
+derlies. Tendon origin and/or insertion of atrophic muscles are often unduly 
+overstretched causing excruciating pain to the subject. Weakening of anal and 
+urinary sphincter muscles can even affect excretory function. Women after two 
+to three natural childbirths may experience stressed urinary incontinence (SUI) 
+just like men after surgical removal of hypertrophic prostates. Perhaps the loss of 
+muscle bulk and strength is the most significant deficit of aging. Whereas this 
+loss is socially accepted as a normal trend of physiologic development, it is this 
+deficit which hinders the subject to continue to work, socialize, or to participate 
+in professional sports.  
+Losses of muscle fibers and physical activity are a vicious cycle affecting not 
+only skeletal muscles but the overlying skin also. Reductions in muscle volume 
+coupled with constant muscle stretching and relaxation are direct causes of fine 
+lines and wrinkles on aging skin which begins to lose elasticity, smoothness, 
+suppleness and firmness. This aging process of the skin is accelerated with long 
+exposure to the ultraviolet sunray (photo-aging) and to dry wind. Stress, lack of 
+sleep, bad habits and diets all add to it. The aged skin develops age spots and ac-
+tinic keratosis with accumulation of melanocytes, a rough non-homogeneous 
+stratum corneum and a thinner dermis. These serious alterations in skin struc-
+ture often cause change in membrane permeability to various ions in the sensory 
+nerve endings embedded in the skin surface, causing allergy and itching. Skin fi-
+broblasts usually undergo mitotic divisions to cope with adverse conditions in 
+attempt to maintain homeostasis. However, their lack of substantial regenerative 
+capability as limited by their telomere content forces the oncogenes to be turned 
+on and results in skin cancer.  
+ 
+DOI: 10.4236/ojrm.2023.121001  2  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+P. K. Law, J. Ren 
+ 
+ 
+Figure 1. Electron micrograph showing abnormal mitochondria (M) and membranous 
+bodies (MB). (a) Section of degenerative muscle fiber containing membranous structures 
+could still be recognized as swollen and disrupted mitochondria. (b) Mitochondria with 
+numerous areas of low density (*) in the matrix space. (c) Membranous body associated 
+with mitochondria. (d) Mitochondrial outer membrane forming a continuum (T) with 
+membranous body. (e) Large autophagic vacuole or membranous body containing mem-
+branous structures and mitochondria. (f) Membranous bodies showing positive acid 
+phosphatase reaction. The asterisk denotes a lead phosphate deposit. (Reproduced with 
+permission from Law et al. Experimental Neurology 80: 361, 1983. Academic Press, New 
+York). 
+ 
+Addiction of coffee (caffeine), tea (nicotine), alcohol and/or drugs significant-
+ly reduces calcium and magnesium ion absorption leading to osteoporosis, bone 
+fracture and premature loosening and loss of teeth. The latter is often associated 
+with gum atrophy. The greatest storages of these ions in the body are in the sar-
+coplasmic reticulum of muscle fibers and the blood stream.  
+ 
+DOI: 10.4236/ojrm.2023.121001  3  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+P. K. Law, J. Ren 
+ 
+The blood circulatory system, especially arterioles, venules, and capillaries 
+become construed or brittle with age and break, leading to cell death as in ischemic 
+heart disease, stroke, and in Type-II diabetic patients with ischemic skin which 
+necessitates skin grafting or even amputation. Central to capillary blockade and 
+breakage is the loss of oxygen and nutrients to the end-organs, resulting in hair 
+loss, erectile dysfunction, pale face, and significant reduction in regenerative ac-
+tivity and capability.  
+Mitochondrial degeneration in brain cells causes lack of instant recall, even 
+long-term memory. Death of neurons, Schwan cells and astrocytes lead to lacunar 
+infarction of cerebral cortex, brain stem and cerebellum resulting in brain atrophy. 
+The structural and functional losses all contribute to distortion of the former 
+youthful appearance and joyous psycho, ultimately distressing the subject and in 
+severe situations result in depression, and schizophrenia. 
+As such, aging is a hereditary, chronically debilitating and ultimately fatal dis-
+ease. Anti-aging is a medical science different from cosmetic cover-ups. It con-
+veys great social values in contrast to the general perception of its just having 
+economic values. The gross abuse of scientific understanding without demon-
+strating the safety and efficacy of treatment procedures for lucrative financial 
+gain constitutes medical malpractice.  
+3. Market Size 
+The baby-boomers after the Second World War are over 75. They will be the 
+prime users of AARC. The world revolves around the achievers who are usually 
+over 35. There are numerous body builders and beauty users in their twenties 
+and even late teens. Then there are those with birth deformities, trauma, burns, 
+surgical wounds, malnutrition and others. It is estimated that more than 50% of 
+the world population now needs some form of AARC treatments. With expo-
+nential growth of cell therapy technologies in regenerative medicine, human be-
+ings will live past 100 years before this century ends. These elder and wiser people 
+will demand better appearance and better quality of life. In time, almost every 
+living human being will need one or more of such enhancement with age. 
+4. Beauty and Its Parameters 
+Beauty is a physical attribute that often enhances one’s self-confidence, career 
+and quality of life. Whereas there is a common perception about what consti-
+tutes beauty, beauty is truly in the eye of the beholder. Advances in artificial in-
+telligence and 3D-typing allow computerized animation for the subject’s body 
+part to be modified to the liking of the subject. The ability to control and mod-
+ulate the various physical parameters of appearance using the genetic cell thera-
+py of MTT ensures customized satisfaction.  
+The physical parameters of appearance are size, shape, tone, color, luster, 
+texture, consistency, and density. These inborn characteristics may not satisfy 
+the subject’s fancy. These parameters deteriorate in every external organ ac-
+ 
+DOI: 10.4236/ojrm.2023.121001  4  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+P. K. Law, J. Ren 
+ 
+cording to the genetically programmed degeneration of aging. Throughout the 
+ages, there are numerous anti-aging ways using non-living ingredients. Current 
+technologies favor human cell therapies using live cells, cytokines and co-factors 
+to enhance the parameters of appearance. These biologics, as they are called, are 
+designed to provide improvement of appearance and function. 
+5. Cell Therapy Cosmetics 
+The cell is the basic unit of all life. They are the building blocks of the bodily or-
+gans. Good health is the well-being of all bodily cells. Cells are what life is made 
+of. In aging or degenerative conditions, cells degenerate and die, rendering the 
+organ (e.g. hair, skin, muscles, breasts, sex organs) which they inhabit dysfunc-
+tional. An effective treatment must not only repair degenerating cells, but also 
+replace dead cells with live ones as well. This can best be achieved by the trans-
+plantation of genetically normal cells, or cell therapy [6].  
+Cell culture in the laboratory is the only method known to man for the repli-
+cation of new live cells. With proper in vitro techniques and precautions, normal 
+cells can be cultured in compliance to standards to repair degenerates and 
+wounds, and to replenish the degenerative organ with new live cells [7]. 
+Cell transplantation allows propagation of “new life” in degenerative tissues. The 
+dysfunctional organ, once invaded with scar and necrotic tissue, is now repopulated 
+with live cells that augment its appearance (Figure 2) and function (Figure 3). 
+6. Myoblast Anti-Aging Therapy   
+Human beings are products of evolution. In the last 160 million years of mam-
+malian evolution, skeletal muscles have developed to occupy 55% of the volume 
+of the human body. With every muscle fiber containing 200 to 500 nuclei, and 
+approximately 100 mitochondria adjacent to every muscle nucleus, MTT is the 
+best regenerative technology to rejuvenate the body by providing DNAs and 
+ATP. No other tissue in the human body exhibit a higher density of nuclei and 
+mitochondria, the organelles that harbor DNAs and ATP for production of 
+strength and energy (Figure 4). Thus, the FDA approved Phase II and Phase III 
+50-billion-MTT protocol that was demonstrated to be safe and efficacious in 
+human clinical trials [8] literally implanted 50 billion muscle nuclei and 5 trillion 
+mitochondria into 80 large muscle groups of single Duchenne muscular dystro-
+phy (DMD) boys and limb-girdle muscular dystrophy (LGMD) adults. Many of 
+these subjects demonstrated significant improvement in quality of life and life 
+prolongation [4]. They represented a small group of seriously genetically defec-
+tive individuals saved by MTT. The same technology can be applied to anti-aging 
+in improving muscle structure and function. Advancements in tissue-resident 
+adult stem/progenitor cell research have revealed that enhanced telomere attri-
+tion, oxidative stress, ultraviolet radiation exposure and oncogenic events lead-
+ing to severe DNA damages and genomic instability may occur in these imma-
+ture and regenerative cells during chronological aging [9]. 
+ 
+DOI: 10.4236/ojrm.2023.121001  5  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+P. K. Law, J. Ren 
+ 
+ 
+Figure 2. MTT augments size of treated organ by increasing muscle fiber number and 
+tonicity, adding speed with increase in fast-twitch muscle fibers (Reproduced with per-
+mission from Law et al. Muscle Nerve 1988; 11: 525-533). 
+ 
+ 
+Figure 3. Myoblast-injected dystrophic soleus showed significant increases in twitch and 
+tetanic tensions than the contralateral un-injected dystrophic soleus (Reproduced with 
+permission from Law 1994. RG Landes, Austin). 
+ 
+DOI: 10.4236/ojrm.2023.121001  6  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+P. K. Law, J. Ren 
+ 
+ 
+Figure 4. Electron micrograph showing (a) Normal appearing mitochondria - M with 
+cisternae regularly spaced; (b) For every nucleus, there were about 100 mitochondria 
+around; (c) Normal presynaptic terminal or axon-A containing numerous mitochon-
+dria-M (Reproduced with permission from Law et al. Experimental Neurology; 80: 361, 
+1983 Academic Press, New York). 
+ 
+The feelings of being weak and cold during aging indicate degradation of the 
+energy production network of mitochondria (Figure 1) [10] densely populating 
+the neuromuscular systems that are doing the real heavy lifting (Figure 4). 
+Striated muscles, cardiac muscles and smooth muscles that occupy approx-
+imately 55% by volume of the human body are constantly at work to maintain 
+body temperature and normal metabolism. Degradation of the power network of 
+adeno-triphosphate (ATP) production leads directly to cell apoptosis, organ 
+malfunction and eventually human death [4].  
+With the 50-B MTT into 80 large muscle groups of the body, there was a 
+mean 70% increase in normal myofiber number attributed to donor myoblast 
+fusion after transplantation [8]. Considering that each myofiber contains 200 to 
+500 muscle nuclei, literally trillions of mitochondria from young men are im-
+planted with each 50-billion MTT to regenerate the energy network of life. These 
+are not isolated and manipulated mitochondria that have difficulty in integrating 
+into the human body through mitochondrial transfusion [11]. The MTT proto-
+col was the one that has kept some DMD patients living in their 30’s and 40’s in-
+ 
+DOI: 10.4236/ojrm.2023.121001  7  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+P. K. Law, J. Ren 
+ 
+stead of expiring at age 20 [3] [4] [12] [13]. It may have similar effect on the el-
+derlies and Type-II diabetics [14]. 
+The proof-of-concept presented above indicated that intramuscular injection 
+of myoblasts can augment the size, shape, consistency, tone, and strength of 
+muscle groups, improving the lines, contours, and vitality from the sculpture for 
+a youthful appearance. Table 1 illustrated the gradual increase in muscle strength 
+as contractile filaments like actin, myosin, troponin and tropomyosin were de-
+posited and organized after the myotubes were vascularized, innervated and 
+matured to be muscle fibers. An average 123% increase in maximum contractile 
+force at 18 months after MTT was obtained taking the means from four major 
+muscle groups of the body. The results were based on studies of 50-B MTT on 
+DMD muscles. Given the treatment, one would expect the elderlies, the athletes, 
+the soldiers and the astronauts will out-perform the DMD boys in these increas-
+es in muscle contractility.   
+7. Facial Rejuvenation 
+The face identifies an individual. It is the first impression to a stranger. For love 
+of beauty, an inborn beautiful or handsome face often bestows and conveys its 
+owner special opportunities and benefits, especially in life-long events such as 
+career, marriage and friendship that are linked directly to one’s happiness. Thus, 
+it is not surprising that not only the rich and powerful but innumerous well-to-do 
+people have become addicted to facial rejuvenation. With the baby-boomers af-
+ter the Second World War all approaching age 75, facial rejuvenation becomes a 
+norm for the 962 million people over age 60. This market size, however, is noth-
+ing compared to that of users with age spanning from 25 to 65.  
+8. Biologic Skin Cover 
+Cell replacement and targeting of the molecular systems found in skin hold great 
+promise for controlling or even curing skin aging [15]. Myoblasts and foreskin 
+fibroblasts are differentiated cells committed to their lineages. They are capable 
+of extensive cell division in culture. The two cell types can be used to develop  
+ 
+Table 1. Mean percentage increases in the maximum contractile force of the plantar flex-
+or muscles of DMD boys at 3, 6, 9, 12 and 15 months after the administration of the 
+25-billion MTT protocol (800 million myoblasts injected) or the 50-billion MTT protocol 
+(1200 myoblasts injected) (Reproduced from Law et al. Gene Therapy and Molecular Bi-
+ology, 1: 345-363, 1998). 
+Months after MTT 
+ 
+3  6  9  12  15 
+ 
+25 Billion MTT 
+9%  19%  31%  45%  61% 
+(800 × 106 myoblasts) 
+25 Billion MTT 
+11%  23%  37%  53%  71% 
+(1200 × 106 myoblasts) 
+ 
+DOI: 10.4236/ojrm.2023.121001  8  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+P. K. Law, J. Ren 
+ 
+into body cover, either singly or in combination. Myoblasts, because of their 
+small size, spindle shape, and resilience, can grow within wrinkles and on colla-
+gen and laminin of skin surfaces without blood supply, thus enhancing the color, 
+luster and texture of the skin “plated” with them (Figure 5). They can have an-
+ti-inﬂammatory and antiapoptotic properties by paracrine-secreting growth fac-
+tors and cytokines on the site of administration [16]. 
+The common skin fibroblasts are polygonal, 10 to 15 times the size of the 
+myoblasts and produce a rougher body cover. Cancers are commonly associated 
+with skin fibroblasts but not with myoblasts and foreskin fibroblasts. Thus, a 
+new layer of biological skin consisting of pure myoblasts and/or foreskin fibrob-
+lasts can eliminate skin defects and blemishes. Safe and efficacious for the hands 
+with serious wrinkles, the technology will be applicable for wrinkle and blemish 
+reduction for the face and other skin parts.  
+A patented method for refurbishing skin of an individual comprises 1) re-
+moving dead cells from the surface of the skin with a smooth abrasive or by one 
+or more chemicals such as lactic acid to generate a prepared surface and 2) ap-
+plying myoblasts in a myoblast cell-nutritive solution to the prepared skin sur-
+face. The myoblast cell suspension useful for skin enhancement of an individual, 
+comprising autologous or allogeneic human myoblasts, serum from the individ-
+ual, an angiogenesis factor and large 6 chondroitin sulfate for controlled, rapid 
+cell fusion of the myoblasts. The invention may also use foreskin fibroblast cell 
+suspension in a similar process, either singly or in combination with myoblasts.  
+Myoblasts from a serum-like suspension (MYOLA) is applied as thick layer(s) 
+with a sterile brush to the prepared skin surface such that the myoblasts survive, 
+develop, and become integrated into the collagen and laminin of the human 
+skin, thereby filling in cracks, crevices, wrinkles, blemishes, holes and laser scars 
+of the skin. The myoblasts smooth imperfections in the skin and provide further 
+qualities such as resilience, coloration and strength. Warm moist oxy-
+gen-containing air, or more preferably pure oxygen is blown onto the treated  
+ 
+ 
+Figure 5. Supra-cutaneous application of adherent myoblasts onto the left hand resulted 
+in wrinkle reduction two weeks after (Reproduced with permission from Law and Law. 
+Recent Patents on Regenerative Medicine 1: 88-117, 2011 [8] Bentham Science, Oak 
+Park). 
+ 
+DOI: 10.4236/ojrm.2023.121001  9  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+P. K. Law, J. Ren 
+ 
+area for at least 1 hour. Cell graft is left undisturbed for at least 12 or more 
+hours. Thus, layers of biologic skin consisting of pure myoblasts and myotubes 
+can eliminate skin defects and blemishes left behind after laser removal. The 
+whole procedure may be repeated in intervals of 6 to 12 months to obtain smoother 
+and younger looking skin. 
+Similarly, foreskin fibroblasts may be used singly or in combination with myob-
+lasts and/or myotubes to produce similar results. Foreskin fibroblasts advanta-
+geously can provide smooth texture and tensile strength to the new skin. A mix-
+ture of myoblasts and myotubes is particularly useful for filling in large skin areas 
+such as large wrinkles. The presence of myotubes helps mechanically bridge large 
+gaps, and the ratio and average size of the myotubes in such mixtures may be 
+prepared and adjusted as needed. 
+Myoblasts can be autologous obtained from the treated individual, or from 
+other human beings. If not autologous, the immunosuppressant cyclosporine is 
+administered 2 days in advance. Although other immune suppressants may be 
+used, cyclosporine for 2 weeks at two oral doses totaling 5 mg/Kg body weight 
+per day is preferred because it facilitates donor cell survival.  
+Myoblasts can be also injected subcutaneously as a cellular filler to reduce 
+wrinkles.  
+Free licenses are available to qualified collaborators at  
+peter@celltherapy.com  
+Law  PK.  Biologic  skin  repair  and  enhancement.  WO2004017972A1; 
+WO2004017972A8;  AU2003263906A1;  AU2003263906B2;  CA2496434A1; 
+CN100482228C;  CN1700915A;  CN03819963.7;  CN  E038199637XS; 
+EP1587515A1; EP1587515A4; SI110581; US2006057119A1. 
+9. MYOLA (Biologic Skin Cream) 
+Biologic creams are formulated to promote cell survival, growth and develop-
+ment to enhance the color, luster, density and texture of the skin. Fair skin is de-
+sirable, but its exposure to radiation of strong sunlight often leads to skin cancer. 
+Myola, a unique essence formulated with myoblast extracts, is specially designed 
+to rejuvenate the fair skin. Among other ingredients, it comprises  
+1) tumor necrosis factor alpha (TNF-α), an anti-cancer and a whitening factor;  
+2) telomeres [17], a mitotic agent to enhance cell division; 
+3) mitochondria, the ATP manufacturer to provide energy for regeneration; 
+4) muscle nuclei, the DNA supplier of regenerative proteins for cell repair. 
+In additional to being used as a carrier solution in the skin refurbishing men-
+tioned in the last section, MYOLA will find application in daily skin mainten-
+ance.  
+Endogenic and exogenous exosomes are being developed as treatment options 
+to repair, regenerate, and rejuvenate skin [18]. The paracrine factors of stem 
+cell-derived exosomes have significant potential as a cell-free therapy for scar 
+treatment [19]. 
+ 
+DOI: 10.4236/ojrm.2023.121001  10  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+P. K. Law, J. Ren 
+ 
+10. Soft Tissue Augmentation 
+Intramuscular injection of myoblasts can augment the size, shape, consistency, 
+tone and strength of muscle groups, improving the lines, contours and vitality 
+from the sculpture for a youthful appearance [3]. The myoblast technology can 
+be used for cosmetic enhancement such as bodybuilding and in tissue implants 
+for breast/buttock/facial augmentation or reconstruction (Figure 6, Figure 7) 
+[3]. 
+The myoblasts can be injected intramuscularly to grow muscles, or subcuta-
+neously as a filler. Unlike the noncellular collagen which will be absorbed in 
+three to six months after injection, injected myoblasts are cells that will survive 
+and last for tens of years within the host. Myoblasts are endogenous to the hu-
+man body and have been proven safe in clinical trials involving over 300 muscu-
+lar dystrophy patients and 300 heart patients worldwide [3]. Myoblasts will not 
+cause cancer like silicone. Their constructs will not burst and be absorbed like 
+saline or collagen implants. They develop to become myotubes and muscle fi-
+bers. 
+Free licenses are available to qualified collaborators at  
+peter@celltherapy.com  
+Law  PK.  Myoblast  therapy  for  cosmetic  treatment.  WO9618303A1 
+US7341719B1; AU4597696A; CA2183167A1; CN03101588.3; CN1127343C; 
+CN1146712A; CN1477190A; EP0743820A1; EP0743820A4; EP1407788A2; 
+SG74036A1; SG99279A1; SG99846A1; US7341719 B1. 
+ 
+ 
+Figure 6. Facial restoration with 10 billion myoblast-implantation 
+before versus after 3 months. 
+ 
+DOI: 10.4236/ojrm.2023.121001  11  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+P. K. Law, J. Ren 
+ 
+   
+Figure 7. Ultrasound examination demonstrated that subcutaneous soft tissue thickness 
+increased from 0.30 cm before implantation (left) to 1.35 cm 3 months after (right). 
+11. Aging Diabetics 
+Aging diabetics will be the ideal subjects to be tested on the Genetic Cell Thera-
+py for Anti-Aging Regenerative Cosmetology of MTT because they suffered the 
+combined pathological consequences of both aging and Type II diabetes. In the 
+world’s first human gene therapy and somatic cell therapy [2], it was concluded, 
+“Through natural cell fusion, which is inherent in myogenesis and muscle rege-
+neration, donor myoblasts insert full complements of normal genes into dy-
+strophic muscle fibers. Therefore, it does not matter which gene is abnormal or 
+which protein is missing. MTT has potential application to all hereditary muscle 
+diseases. It repairs degenerating cells and replenishes lost cells. This first case 
+suggests that MTT offers a safe and effective means for alleviating muscle bio-
+chemical deficit(s) in muscles of DMD.” This conclusion was extrapolated to a 
+Type II diabetes clinical study testing for feasibility and safety [20], and to di-
+abetic mouse studies for pathogenesis, mechanisms and proof-of-concept [21] 
+[22].  
+The  mouse  studies  indicated  that  xenotransplantation  of  normal  human 
+myoblasts into limb skeletal muscles of KK diabetic mice up-regulated mul-
+ti-genes involved in impaired insulin signaling pathway and mitochondria bio-
+genesis and function. This was accompanied with improved glucose tolerance 
+and reduced hyperglycemia in the KK mice. The results indicated that MTT re-
+gulated the expression levels of genes that play important roles in the pathoge-
+nesis of skeletal muscle insulin resistance.  
+It is anticipated that, in addition to providing a genetic cell therapy to relieve 
+the various symptoms of Type-II diabetes, the 50-billion MTT will instill bio-
+chemical, structural and functional improvements to the aged or aging subjects. 
+It is long overdue to conduct clinical trial on this large population of aging di-
+abetics using MTT, considering the devasting sufferings of the ill and the huge 
+social economic burden borne by the national healthcare systems. 
+Free licenses are available to qualified collaborators at  
+peter@celltherapy.com  
+Law PK. Disease prevention and alleviation by human myoblast transplan-
+ 
+DOI: 10.4236/ojrm.2023.121001  12  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+P. K. Law, J. Ren 
+ 
+tation. US13/968,982; US10449219B2; US2015050300A1; US2018000867A1; 
+AU2013231029A1;  CN201310455357.4;  CN103550784A;  CN107648267A; 
+CN108042571A; EP2837683A1; EP2837683B1; ES2615553T3; HK1248114A1; 
+JP2015051969A 
+12. Anti-Aging Angiomyogenesis 
+Distribution of oxygen and nutrients to the peripheral organs is significantly re-
+duced for people aged over 45. In developing treatment for human myocardial 
+infarction, we have grown five times more blood capillaries and muscle fibers 
+simultaneously using human myoblasts transduced with human VEGF (vascular 
+endothelial growth factor) gene [20] [23] [24]. In addition to their application 
+to treating heart diseases [25]-[30], potentially these cells can be used to treat 
+male/female impotency, baldness and to produce redder lips and pinker face be-
+cause of the higher density of capillaries within layers of myogenic cells after 
+myoblast treatment. The latter serves as a fertile ground to seed new hair follicle 
+cells on the bald head or other body parts to give the desirable hair color, density 
+and consistency. The effect of increased vascular reactivity may be useful in pa-
+thological situations in which an intense angiogenesis is desirable, such as tissue 
+ischemia [31]. Likewise, the angiomyogenic myoblasts can be chemically trans-
+formed using bone morphogenic proteins (BMP) to become osteoblasts [32] for 
+treating osteoporosis, bone fractures and loose tooth pulps (Figure 8). 
+13. Bioactive Implants and Fractal Stimulation 
+1) Coating of implantable materials with myogenic cells 
+Allogeneic and autologous myoblasts are particularly useful for coating bio-
+logical body parts, for example a pig heart valve, human damaged tissue, and 
+non-biologics such as stents, plastic valves, plastic heart valves, vessels either  
+ 
+ 
+Figure 8. Transverse section of a part of a rabbit skull showing: (A) Bony reconstruct 
+filling a small hole drilled on the rabbit skull 6 months ago that was implanted with a 
+mixture of human myoblasts, bone morphogenetic protein (BMP) and hydroxyapatite 
+(HA); (B) A similar hole implanted with BMP and HA but no myoblasts showed no bony 
+reconstruct and was left unfilled. H&E stain. Microscopic magnification, 400×. 
+ 
+DOI: 10.4236/ojrm.2023.121001  13  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+P. K. Law, J. Ren 
+ 
+biologic or synthetic, and any other implantable materials. A biological tissue in 
+this context may be for example, a sphincter muscle, a skin, a tongue, an eyelid, 
+an eardrum, stomach tissue, bladder tissue, vascular tissue, artery section, vein 
+section, aorta section, heart tissue. A skilled artisan can optimize the amount 
+and conditions for coating. 
+For example, a pig heart valve may be coated with myoblasts obtained from a 
+muscle biopsy derived from the patient. Desirably, the pig heart valve, or other 
+implant is first coated with a scaffold material such as fibronectin, laminin and/or 
+collagen prior to coating with myoblasts. Desirably, the coating is thick enough 
+to block sites of the uncoated surface from reacting with one or more compo-
+nents of the immune surveillance system. Crosslinking adsorbed material may 
+be carried out by any of known conventionally means to both ensure long term 
+attachment and a suitable thickness. 
+2) Implantation of Myogenic Cells, Particularly Autologous Cells for En-
+hanced Muscle Function 
+Many patients that need electrode stimulation enhancement of muscle func-
+tion have weakened muscles. These muscles acquire improved function by trans-
+planting myogenic cells before, during or after electrode implantation. Myogenic 
+cells, such as autologous myogenic cells prepared from the patient beforehand, 
+can be reintroduced at high levels, such as 106 to 107 cells, 107 to 108 cells, 108 to 
+109 cells, or even higher. The cells, once introduced, fuse with preexisting muscle 
+cells, thus contributing their DNA and fortifying the bulk of the native muscle. 
+3) Synergy results from including myogenic cells with an electrode. The myo-
+genic cells, when already attached to an electrode, shorten the time required for 
+the body to accommodate the electrode. A smaller excitation current is required 
+because of the accommodation of electrode with muscle cells in vitro, particu-
+larly when the muscle cell morphology is altered prior to implantation with the 
+use of entraining currents in vitro.  
+For example, cells that coat the electrode and other cells in the vicinity, in an 
+embodiment, are electrically stimulated by the electrode during growth in cul-
+ture. The stimulation may occur over a period of at least 1 hour, 3 hours, 6 
+hours, or 12 hours but preferably occurs for at least one day, two days or three 
+days. This stimulation may facilitate the induction of genes involved with forma-
+tion of the motor end plate and/or other features that desirably interact with the 
+electrode. By increasing the amount of these features, a more sensitive electrode 
+response may be elicited after implantation.  
+In another desirable embodiment, nerve cell progenitors likewise are incu-
+bated with the electrode in vitro before implantation. In a desirable embodi-
+ment, nerve cells precursors and myogenic cells are incubated with the electrode 
+in vitro and experience electrical activation of that electrode in vitro, which in-
+duces the cells to form structures that respond to the electrical activation. The 
+amount of electrical current and voltage used as well as periodicity and wave 
+form, preferably similar to that used on the electrode after implantation. Prefer-
+ 
+DOI: 10.4236/ojrm.2023.121001  14  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+P. K. Law, J. Ren 
+ 
+ably the stimulation is biphasic, to alleviate effects of electrolysis, and the in-
+stantaneous current is less than 10 ma, more preferably less than 3 ma, and in 
+some situations where repeated stimulations (more than once per 5 minutes) 
+occur over an extended time, less than 0.5 ma or even less than 100 microam-
+peres.  
+Free licenses are available to qualified collaborators at  
+peter@celltherapy.com  
+Law PK and MOTSENBOCKER MA. Bioactive implants. WO2004030706A2; 
+WO2004030706A3 AU2003272805A1; AU2003272805A8  
+Therapeutic stimulation methodologies based on inherently fractal nature of 
+physiologic dynamics involve the use of electrical currents, electromagnetic 
+fields, temperature change, ultrasound, light, and so forth. These stimulation 
+therapies can be categorized into three main modalities: electrical stimulation 
+modalities, thermal modalities, and non-thermal modalities. Electrical stimula-
+tion modalities include therapeutic techniques where electrical current is directly 
+applied to the body of treated subject. Direct application of electrical current to 
+the brain also falls under this category. Thermal modalities consist of stimula-
+tions that induce temperature change on the body for therapeutic effects without 
+the direct transfer of electrical current. Non-thermal modalities functions through 
+energy transfer without directly applying electrical current and without the ef-
+fects of temperature change. A fourth miscellaneous category for stimulation 
+techniques consists of the stimulation effects of music along with physical sti-
+mulation as in massage therapy. Common to most of these therapeutic strategies 
+is that the stimulation is delivered at certain fixed periods or frequencies. We in-
+troduce some rudiments of fractal dynamics, and the notions of self-similarity, 
+scale-invariance, and long-range correlation or memory in the dynamics of a 
+system [33]. We present evidence that fractal dynamics is commonly observed in 
+healthy physiological systems while unhealthy systems are shown to veer away 
+from fractal dynamics towards periodic or random motion. This difference in 
+dynamics can be observed in many biological signals such as in neural activity, 
+heart rate variations, and breathing patterns. We propose that an optimal stimu-
+lation technique should thus be one that encourages an unhealthy, non-fractal 
+pathological system towards a healthy, fractal dynamic. Given the ubiquity of 
+fractality in healthy biological dynamics, we argue that a fractal pattern of sti-
+mulation is a more optimal approach to functional restoration than the widely 
+used conventional periodic stimulation, which may further consolidate the ex-
+isting pathological dynamics [33].  
+14. Stressed Urinary Incontinence (SUI) and Fecal   
+Incontinence (FI)   
+These are embarrassing dysfunctions that inhibit socializing of innumerous 
+numbers of women aged 45 upward. Birth of children has left these ladies, some 
+holding important offices, with weakened internal and external sphincter mus-
+ 
+DOI: 10.4236/ojrm.2023.121001  15  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+P. K. Law, J. Ren 
+ 
+cles. Publication over 1100 cases has demonstrated that MTT is safe and effica-
+cious for SUI and FI. In conjunction with treating SUI, more myoblasts can be 
+implanted into the vaginal wall to enhance tightness and contractile force during 
+sexual intercourse. Current surgical and cauterizing techniques often left scars 
+that created discomfort for both partners. Myoblast implantation over the pubic 
+bone provides not only a sexier appearance, but also a “shock absorber” on im-
+pact, thus reducing the piercing discomfort caused by the skinny yet attractive 
+ladies. And for that special partner and moment, a hymen can be reconstructed 
+from layers of myotubes cultured and patched on with fibronectin or biologic 
+glue. Similar restructuring of the larynx can produce a sexier voice of higher 
+pitch, a tympanum for the traumatized eardrum, a cellular patch for esophageal 
+and/or stomach ulcers. 
+15. Tendon Repair in Sport Medicine   
+Myoblasts constitute a better biomaterial than tenocytes in synthesizing stronger 
+and smoother tendons for transplantation repair. These tendons exhibited greater 
+stiffness, tensile strength, Young’s modulus, and could handle higher maximum 
+load [34]. One can envision MTT developing into sport and military medicine in 
+muscle, tendon, bone, cartilage and joint repairs. 
+16. Tai Chi and Chi Gong   
+No matter how good a muscle is endowed, it needs exercise to be in shape. In 
+younger days, active sports provide competitive spirit and release of endorphins 
+and hormones essential for maintenance of youth. In addition, muscle stretching 
+such as in yoga induces new formation of sarcomeres, thus increasing the max-
+imum contractile force. As one ages, active sports may over-stretch tendons, 
+fracture bones and rupture capillaries.  
+Tai Chi and Chi Gong are milder forms of exercise recommended to people 
+aged 45 and over. The movements are slow and are designed to provide isotonic 
+muscle contractions rather than purely isometric. Historically, these are two 
+styles of Kung Fu developed by Chinese martial Taoists to maintain balance of 
+body and mind. Tai Chi strengthens the postural muscles of the waist and the 
+legs, thus helping to prevent the elderlies from falling. Chi Gong increases the 
+oxygen content of the body by training and strengthening the respiratory mus-
+cles such as the rectus abdominis, the oblique, the paraspinal muscles and the 
+diaphragm in order to shift the ordinary thoracic breathing into the adapted 
+abdominal mode.  
+By willfully depressing the diaphragm and filling the lungs, one can increase 
+oxygen intake. The mild and sustained movements of Chi Gong also enhance 
+oxygen distribution via the blood circulatory system to various extremities of the 
+body including the brain. The persistent inhaling and exhaling exercise train the 
+body to develop low oxygen tolerance and strong nasotracheal muscles.  
+Chi Gong has immense value for the wheelchair bound and bed-laden elder-
+ 
+DOI: 10.4236/ojrm.2023.121001  16  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+P. K. Law, J. Ren 
+ 
+lies and patients. In addition to preventing disuse atrophy and oxygen depriva-
+tion, Chi Gong provides the trained ability to cough up mucus from the trachea 
+which proves to be invaluable in saving lives at times of pneumonia, COVID-19, 
+and respiratory failure in DMD. Half an hour of Chi Gong a day chases the 
+death spirit away.  
+Many years of feeding often leave the alimentary canal stretched with fauna of 
+bacteria and fungi. The latter feed on carbohydrate and fibers, generating large 
+amounts of carbon dioxide and hydrogen sulfide that are toxic to the body. El-
+derlies lacking exercise usually have gas entrapments in the intestine, causing 
+distension and constipation. The intraabdominal pressure often leads to high 
+blood pressure and heart ischemia. Tai Chi and Chi Gong are perhaps the best 
+forms of exercise for the elderlies to relieve the yearnings for “Porsche” and 
+“Ferrari”, though one is sitting in a Rolls Royce or Mercedes Benz.  
+17. Familial Myoblast Cell Banks   
+A myoblast cell line of 100 billion or more can be established from 2 grams of 
+muscle biopsy from the healthiest male child of each family, to be used in the 
+prevention, treatment or beautification of every family member. 
+18. Conclusion   
+The genetic cell therapy of MTT regenerates aging muscles and skin to provide 
+added strength and youthful appearance. Implanted myoblasts, preferably allo-
+geneic, survive, develop and function in the host with 2-weeks’ oral doses of an 
+immunosuppressant. The myoblasts develop into muscle fibers, adding 70% new 
+muscle cells to augment the size, shape and function of the injected muscle or 
+organ. Intramuscular injection of 50 billion myoblasts into 80 major muscle groups 
+under general anesthesia provides huge amounts of nuclei and mitochondria 
+that are necessary to operate the regenerative processes. The inherent natural cell 
+fusion of myoblasts incorporates nuclei transfer, foreign gene integration, regu-
+lation and expression all in one encounter to ensure natural spatial and temporal 
+transcription of the normal genome to produce whatever missing proteins that 
+are necessary to be young again. Future directions include the concept of “preci-
+sion cosmetic medicine” utilizing gene editing and cellular therapies to tailor re-
+juvenation techniques based on individual’s genetic make-up and therefore needs 
+[35]. Anti-aging regenerative medicine is as exciting as ever!   
+Acknowledgements 
+This work was supported by the Cell Therapy Institute (China) Endowment 
+Fund. Professor Peter K. Law is a Distinguished Scholar of China. 
+Conflicts of Interest 
+The authors declare no conflicts of interest regarding the publication of this pa-
+per. 
+ 
+DOI: 10.4236/ojrm.2023.121001  17  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+P. K. Law, J. Ren 
+ 
+References 
+[1]  Campisi, J., Kapahi, P., Lithgow, G.J., et al. (2019) From Discoveries in Ageing Re-
+search to Therapeutics for Healthy Ageing. Nature, 571, 182-192.  
+https://doi.org/10.1038/s41586-019-1365-2 
+[2]  Law, P.K., Bertorini, T., Goodwin, T.G., et al. (1990) Dystrophin Production In-
+duced by Myoblast Transfer Therapy in Duchenne Muscular Dystrophy. The Lan-
+cet, 336, 114-115. https://doi.org/10.1016/0140-6736(90)91628-N 
+[3]  Law, P.K., Law, D.M., Ye, L., et al. (2019) Myoblasts Provide Safe and Effective 
+Treatments for Hereditary Muscular Dystrophies, Cardiomyopathies, Type 2 Di-
+abetes, Solid Tumors and Aging. In: Haider, K.H. and Aziz, S., Eds., Stem Cells— 
+From Hype to Real Hope, Walter de Gruyter GmbH, Berlin, 71-97.  
+https://doi.org/10.1515/9783110587043-004 
+[4]  Law, P.K., Li, W., Song, Q., et al. (2022) Chapter 22. Myoblast Therapies Constitute 
+a Safe and Efficacious Platform Technology of Regenerative Medicine for the Hu-
+man Health Industry. In: Haider, K.H. and Aziz, S., Eds., Stem Cells Latest Ad-
+vances, Springer Nature GmbH, Berlin, 1-66.  
+https://doi.org/10.1007/978-981-16-6016-0_34-1 
+[5]  Marks, P. and Gottlieb, S. (2018) Balancing Safety and Innovation for Cell-Based 
+Regenerative Medicine. The New England Journal of Medicine, 378, 954-959.  
+https://doi.org/10.1056/NEJMsr1715626 
+[6]  Law, P.K. (1994) Myoblast Transfer: Gene Therapy for Muscular Dystrophy. RG 
+Landes Co., Austin. 
+[7]  Law, P.K. (1995) Methods for Human Myoblast Culture and Transplantation. In: 
+Recordi, C., Ed., Methods in Cell Transplantation, RG Landes Co., Austin, Sec. H5, 
+707-730. 
+[8]  Law, P.K. and Law, D.M. (2011) Human Myoblast Genome Therapies and Devices 
+in Regenerative Medicine. Recent Patents on Regenerative Medicine, 1, 88-117.  
+https://doi.org/10.2174/2210297311101010088 
+[9]  Mimeault, M. and Batra, S.K. (2009) Recent Insights into the Molecular Mechan-
+isms Involved in Aging and the Malignant Transformation of Adult Stem/Progenitor 
+Cells and Their Therapeutic Implications. Ageing Research Reviews, 8, 94-112.  
+https://doi.org/10.1016/j.arr.2008.12.001 
+[10]  Law, P.K., Saito, A. and Fleischer, S. (1983) Ultrastructural Changes in Muscle and 
+Motor Endplate of the Dystrophic Mouse. Experimental Neurology, 80, 361-382.  
+https://doi.org/10.1016/0014-4886(83)90289-3 
+[11]  Sullivan, D. (2021) “Whole-Body Mitochondrial Transfusion” Start-Up Lands Fund-
+ing. Longevity Technology, January 28, 2021. 
+[12]  Law, P.K. (2016) Disease Prevention and Alleviation by Human Myoblast Trans-
+plantation. Open Journal of Regenerative Medicine, 5, 25-43.  
+https://doi.org/10.4236/ojrm.2016.52003 
+[13]  Law, P.K. (2017) Crime against Humanity. Open Journal of Regenerative Medicine, 
+6, 35-645. https://doi.org/10.4236/ojrm.2017.64004 
+[14]  Law, P.K., Law, D.M., Lu, P., et al. (2004) The World’s First Myoblast Study of Type 
+II Diabetic Patients. Business Briefing: North American Pharmacotherapy No. 2. 
+[15]  Peng, Y., Xuan, M., Leung, V.Y.L. and Cheng, B. (2015) Stem Cells and Aberrant 
+Signaling of Molecular Systems in Skin Aging. Ageing Research Reviews, 19, 8-21.  
+https://doi.org/10.1016/j.arr.2014.10.006 
+[16]  Godic, A. (2019) The Role of Stem Cells in Anti-Aging Medicine. Clinics in Der-
+ 
+DOI: 10.4236/ojrm.2023.121001  18  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+P. K. Law, J. Ren 
+ 
+matology, 37, 320-325. https://doi.org/10.1016/j.clindermatol.2019.04.011 
+[17]  Di Donna, S., Mamchaoui, K., Cooper, R.N., et al. (2003) Telomerase Can Extend 
+the Proliferative Capacity of Human Myoblasts but Does Not Lead to Their Im-
+mortalization. Molecular Cancer Research, 1, 643-653.  
+[18]  Xiong, M., Zhang, Q., Hu, W., et al. (2021) The Novel Mechanisms and Applica-
+tions of Exosomes in Dermatology and Cutaneous Medical Aesthetics. Pharmaco-
+logical Research, 166, Article ID: 105490.  
+https://doi.org/10.1016/j.phrs.2021.105490 
+[19]  Giri, S., Machens, H.-G. and Bader, A. (2019) Therapeutic Potential of Endogenous 
+Stem Cells and Cellular Factors for Scar-Free Skin Regeneration. Drug Discovery 
+Today, 24, 69-84. https://doi.org/10.1016/j.drudis.2018.10.014 
+[20]  Law, P.K., Sim, E.K.W., Haider, Kh.H., et al. (2004) Myoblast Genome Therapy and 
+the Regenerative Heart. In: Kipshidze, N.N. and Serruys, P.W., Eds., Handbook of 
+Cardiovascular Cell Transplantation, Martin Dunitz, London, 241-258. 
+[21]  Ye, L., Lee, K.O., Su, L.P., et al. (2009) Skeletal Myoblast Transplantation for Atten-
+uation of Hyperglycaemia, Hyperinsulinaemia and Glucose Intolerance in a Mouse 
+Model of Type 2 Diabetes Mellitus. Diabetologia, 52, 1925-1934.  
+https://doi.org/10.1007/s00125-009-1421-9 
+[22]  Ma, J.H., Su, L.P., Zhu, J., et al. (2013) Skeletal Myoblast Transplantation on Gene 
+Expression Profiles of Insulin Signaling Pathway and Mitochondrial Biogenesis and 
+Function in Skeletal Muscle. Diabetes Research and Clinical Practice, 102, 43-52.  
+https://doi.org/10.1016/j.diabres.2013.08.006 
+[23]  Law, P.K. (2002) Concomitant Angiogenesis/Myogenesis in the Regenerative Heart. 
+Business Briefing: Future Drug Discovery, Genomics: 64-67, October 2002.  
+[24]  Law, P.K., Haider, K., Fang, G., et al. (2004) Human VEGF165-Myoblasts Produce 
+Concomitant Angiogenesis/Myogenesis in the Regenerative Heart. Molecular and 
+Cellular Biochemistry, 263, 173-178.  
+https://doi.org/10.1023/B:MCBI.0000041859.60354.f5 
+[25]  Ye, L., Haider, H.Kh., Jiang, S., et al. (2003) High Efficiency Transduction of Hu-
+man VEGF165 into Human Skeletal Myoblasts: In Vitro Studies. Experimental & 
+Molecular Medicine, 35, 412-420. https://doi.org/10.1038/emm.2003.54 
+[26]  Ye, L., Haider, H.Kh., Jiang, S., et al. (2005) In Vitro Functional Assessment of Hu-
+man Skeletal Myoblasts after Transduction with Adenoviral Bi-Cistronic Vector 
+Carrying Human VEGF165 and Angiopoietin-1. The Journal of Heart and Lung 
+Transplantation, 24, 1393-1402. https://doi.org/10.1016/j.healun.2004.06.004 
+[27]  Ye, L., Haider, H.Kh., Tan, R.S., et al. (2007) Transplantation of Nanoparticle Trans-
+fected Skeletal Myoblasts Overexpressing Vascular Endothelial Growth Factor-165 
+for Cardiac Repair. Circulation, 116, 113-120.  
+https://doi.org/10.1161/CIRCULATIONAHA.106.680124 
+[28]  Ye, L., Haider, H.Kh., Tan, R., et al. (2008) Angiomyogenesis Using Liposome Based 
+Vascular Endothelial Growth Factor-165 Transfection with Skeletal Myoblast for 
+Cardiac Repair. Biomaterials, 29, 2125-2137.  
+https://doi.org/10.1016/j.biomaterials.2008.01.014 
+[29]  Haider, H.K.H., Ye, L., Jiang, S., et al. (2004) Angiomyogenesis for Cardiac Repair 
+Using Human Myoblasts as Carriers of Human Vascular Endothelial Growth Fac-
+tor. Journal of Molecular Medicine, 82, 539-549.  
+https://doi.org/10.1007/s00109-004-0546-z 
+[30]  Law, P.K., Law, D.L., Lu, P., et al. (2006) Human Myoblast Genome Therapy. Jour-
+nal of Geriatric Cardiology, 3, 135-151. 
+ 
+DOI: 10.4236/ojrm.2023.121001  19  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+P. K. Law, J. Ren 
+ 
+[31]  Rigotti, G., Charles-de-Sá, L., Gontijo-de-Amorim, N.F., et al. (2016) Expanded Stem 
+Cells, Stromal-Vascular Fraction, and Platelet-Rich Plasma Enriched Fat: Compar-
+ing Results of Different Facial Rejuvenation Approaches in a Clinical Trial. Aes-
+thetic Surgery Journal, 36, 261-270. https://doi.org/10.1093/asj/sjv231 
+[32]  Katagiri, T., Yamaguchi, A., Komaki, M., et al. (1994) Bone Morphogenetic Pro-
+tein-2 Converts the Differentiation Pathway of C2C12 Myoblast into the Osteoblast 
+Lineage. Journal of Cell Biology, 127, 1755-1766.  
+https://doi.org/10.1083/jcb.127.6.1755 
+[33]  Cheng, W., Law, P., Kwan, H. and Cheng, R. (2014) Stimulation Therapies and the 
+Relevance of Fractal Dynamics to the Treatment of Diseases. Open Journal of Re-
+generative Medicine, 3, 73-94. https://doi.org/10.4236/ojrm.2014.34009 
+[34]  Chen, B., Wang, B., Zhang, W.J., Zhou, G. and Cao, Y. (2012) In Vivo Tendon En-
+gineering with Skeletal Muscle Derived Cells in a Mouse Model. Biomaterials, 33, 
+6086-6097. https://doi.org/10.1016/j.biomaterials.2012.05.022 
+[35]  Crowley, J.S., Liu, A. and Dobke, M. (2021) Regenerative and Stem Cell-Based Tech-
+niques for Facial Rejuvenation. Experimental Biology and Medicine, 246, 1829-1837.  
+https://doi.org/10.1177/15353702211020701 
+ 
+ 
+ 
+DOI: 10.4236/ojrm.2023.121001  20  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE

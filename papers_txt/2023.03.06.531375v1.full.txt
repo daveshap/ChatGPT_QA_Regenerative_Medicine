@@ -1,0 +1,1484 @@
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531375; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+Integration of Avidity and Differentiation is enabled by CD8+ T-cell sensing of IFN-γ 
+ 
+Lion F.K. Uhl*, Han Cai*, Jagdish N. Mahale*, Andrew J. MacLean*, Julie M. Mazet*, Alexander J. He*, 
+Doreen Lau$, Tim Elliott$, and Audrey Gerard*‡ 
+ 
+* The Kennedy Institute of Rheumatology and $ Centre for Immuno-oncology, Nuffield Department 
+of Medicine, University of Oxford. 
+‡ Corresponding author Audrey.gerard@kennedy.ox.ac.uk 
+ 
+Abstract 
+The most effective responses to intracellular pathogens have a breadth of T-cell clones with 
+different affinities for their cognate peptide, and a diversity of functional phenotypes, from effector 
+to long-lived memory cells. While high- and low-affinity T-cells are inherently skewed towards 
+becoming effector and memory, respectively, overall, both functional subsets exploit a wide range of 
+affinities. How the breadth of affinities and functionalities are coordinated is therefore unclear. In this 
+study, we provide evidence that direct sensing of the cytokine IFN-γ by CD8+ T-cells is a factor 
+controlling the integration of T-cell affinity and differentiation during infection. IFN-γ increases the 
+expansion of low-affinity T-cells, allowing them to overcome the selective advantage of high-affinity 
+T-cells. Concomitantly, IFN-γ reinforces high-affinity T-cell entry into the memory pool. As a result, 
+direct IFN-γ sensing by CD8+ T-cells increases the avidity of the memory response. This comes at the 
+expense of the primary T-cell response, for which IFN-γ decreases the avidity, leading to sub-optimum 
+immunity to infection. IFN-γ sensing by CD8+ T-cells is paracrine, provided by a distinct subset of CD8+ 
+T-cells called Virtual Memory T-cells, an antigen inexperienced subset that harbors memory features. 
+Overall, we propose that IFN-γ and Virtual Memory T-cells fulfil a critical immunoregulatory role by 
+enabling the coordination of T-cell avidity and fate. 
+ 
+    
+  1 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531375; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+Introduction 
+CD8+ T-cells are critical for clearing intracellular pathogens and tumors. The efficacy of CD8+ T-cell 
+responses relies on a breadth of different clones, the formation of a strong effector cytotoxic 
+response, as well as the generation of memory cells that will provide enhanced protection upon 
+rechallenge (Stemberger et al. 2007; Wong and Pamer 2003). T-cell differentiation into effector or 
+memory is regulated by multiple factors, including T-cell receptor (TCR) affinity for its cognate peptide, 
+costimulatory signals and cytokines (Kaech and Cui 2012). Despite considerable work, how those 
+different factors are integrated to generate a robust albeit diverse short- and long-term response 
+remains mostly unknown. 
+Avidity represents the capacity of T-cells to recognize infected cells and in turn elicit effector 
+functions (Laugel et al. 2007). To estimate the avidity of an endogenous T-cell response, pMHC 
+tetramers, which bind multivalently and often predict functional responses, are often used (Pace et 
+al. 2012; van Gisbergen et al. 2011). But because the tetramer itself and the staining method can 
+impact the range of discrimination between T-cell clones of different avidities (Dolton et al. 2015), this 
+is not always used as a quantitative measure. The average avidity of the T-cell response is typically 
+assessed by quantifying the up-regulation of activation markers (such as CD69) or effector functions 
+(such as IFN-γ production) following stimulation of T-cells with increasing concentrations of cognate 
+peptide (Ioannidou et al. 2017; Viganò et al. 2012). Small variations of those avidity measures in the 
+T-cell response towards a given pathogen can have drastic consequences. For example, during  COVID-
+19 infection, hospitalized patients have only 3-4-fold lower average T-cell avidity to spike antigens 
+than patients with milder disease (Bacher et al. 2020). Small differences in TCR avidity can also impact 
+tolerance, as an increase in TCR avidity of <2-fold towards a self-antigen is enough to break tolerance 
+in a mouse model of diabetes (King et al. 2012). This indicates that the average avidity of an 
+endogenous response has to be tightly regulated. 
+Together with co-receptors and co-stimulatory molecules, TCR affinity is an important factor 
+controlling the avidity of the T-cell response (Pettmann et al. 2021). High-affinity T-cell clones are 
+sufficient  to  control  infections  (Alexander-Miller  2005).  They  have  a  competitive  advantage  in 
+interacting with antigen-presenting cells and expand better (Butz and Bevan 1998; Smith, Wikstrom, 
+and Fazekas de 2000). Despite these selective advantages, large clonal breadth with the presence of 
+low-affinity T-cells are consistently observed (Martinez et al. 2016; Martinez and Evavold 2015; Zehn, 
+Lee, and Bevan 2009) during an immune response, suggesting the existence of active regulatory 
+mechanisms.  
+TCR affinity regulates CD8+ T-cell recruitment to an immune response, but also their fate. When a 
+single CD8+ T-cell clone recognizes its cognate with high-affinity, its fate is biased towards effector 
+differentiation, whereas priming of the same clone with low-affinity peptide results in memory 
+skewing (Kaech and Cui 2012; Solouki et al. 2020). However, a breadth of affinities is found throughout 
+immune  responses  (Martinez  et  al.  2016;  Martinez  and  Evavold  2015),  suggesting  that  clonal 
+repartition over differentiation states is actively regulated. Cells bearing the same TCR can lead to 
+heterogenous differentiation patterns (Buchholz et al. 2013; Gerlach et al. 2013; Stemberger et al. 
+2007), further supporting the notion that additional factors regulate the relationship between 
+differentiation and TCR affinity.  
+This overall suggests that regulation of T-cell avidity throughout an immune response requires the 
+co-regulation of differentiation and affinity. A co-regulation implies that T-cells have to directly receive 
+and integrate the multiple cues. IFN-γ is a cytokine that controls CD8+ T-cell differentiation, expansion 
+(Gérard et al. 2013; Krummel et al. 2018; Sercan et al. 2010; Whitmire 2011; Tewari, Nakayama, and 
+Suresh 2007; Badovinac, Tvinnereim, and Harty 2000) and the immunodominance of the T-cell 
+response (Badovinac, Tvinnereim, and Harty 2000). Because IFN-γ regulates T-cell responses in part 
+through direct signaling in T-cells (Gérard et al. 2013; Krummel et al. 2018; Tewari, Nakayama, and 
+Suresh 2007; Whitmire et al. 2007), it is a strong candidate for regulating avidity throughout an 
+immune response.  
+  2 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531375; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+Here, we present evidence that direct IFN-γ sensing by CD8+ T-cells coordinate avidity and 
+differentiation during an immune response. By deleting the receptor of IFN-γ in CD8+ T-cells, we 
+demonstrated that IFN-γ limits the expansion of high-affinity T-cells, while increasing the expansion 
+of low-affinity T-cells and skewing their differentiation towards effector. As a result, IFN-γ lowers the 
+avidity of the primary response, while increasing the avidity of the memory response. Importantly, 
+the regulation of avidity by IFN-γ has profound consequences, resulting in sub-optimum primary 
+immunity towards viral infection, a trade-off leading to improved memory responses. IFN-γ signaling 
+in CD8+ T-cells occurs during priming, where it is provided by a specific CD8+ T-cell subset, called Virtual 
+Memory T-cells (T ). We propose that T  cells fulfil a critical immunoregulatory role in modulating 
+VM VM
+collective T-cell behavior. Overall, our data demonstrate that IFN-γ coordinate T-cell breadth and fate 
+to allow for a retention of T-cell affinities throughout the immune response and a balance between 
+short- and long-term immune responses. 
+   
+  3 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531375; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+Results 
+IFN-γ sensing by CD8+ T-cells results in sub-optimum immunity to Influenza. 
+Given  the  tight  regulation  of  T  cell  responses  in  terms  of  avidity  and  differentiation,  we 
+hypothesized that inhibiting the factors intrinsically regulating these two features would have major 
+consequences on CD8+ T cell-dependent immune responses. Because IFN-γ has been implicated in 
+controlling the immunodominance and differentiation during infection and can act directly on T-cells, 
+we focused on IFN-γ and first determined the consequence of blocking IFN-γ sensing by CD8+ T-cells 
+for viral responses. To this aim, we deleted the IFN-γR in CD8+ T-cells by crossing the E8I-Cre model 
+(Maekawa et al. 2008) to IFN-γR1flox/flox mice (Lee et al. 2013) (CD8-IFN-γRKO). IFN-γR deletion was 
+specific for CD8+ T-cells, as assessed by IFN-γR1 staining (Fig.S1A). This was confirmed by crossing 
+Cd8a-Cre to ROSA-Tomato mice, where Tomato expression was used as a read-out of Cre expression 
+(Fig.S1B). CD8-IFN-γRKO or control mice (WT) mice were infected with the Influenza virus strain X31 
+expressing OVA (X31-OVA) and their weight was monitored over time as a general read-out of control 
+of the infection. Overall, CD8-IFN-γRKO mice lost less weight than WT mice (Fig.1A-B) following 
+infection with a sub-lethal dose of X31-OVA. WT mice exhibited impaired survival when infected with 
+a higher dose of X31-OVA, while CD8-IFN-γRKO mice recovered (Fig.1C-D). We concluded that IFN-γ-
+sensing by CD8+ T-cells results in sub-optimum effector responses against Influenza.  
+We then investigated the mechanism by which IFN-γ regulated CD8+ T-cell responses to Influenza 
+infection. We tested whether increased cytotoxicity may be responsible for enhanced resistance to 
+Influenza infection in CD8-IFN-γRKO mice. Using in vivo cytotoxicity assay, we found that killing was 
+efficient in both WT and CD8-IFN-γRKO mice  (Fig.1E-F). In addition, ex vivo surface expression of 
+lysosome-associated membrane protein-1 (LAMP-1), a marker of cytotoxic CD8+ T-cell degranulation, 
+was comparable between WT and CD8-IFN-γRKO CD8+ T-cells (Fig.1G). This demonstrates that the sub-
+optimum CD8+ T-cell immunity induced by IFN-γ sensing was not the result of impaired intrinsic 
+cytotoxic functions. Because IFN-γ is known to regulate expansion and trafficking (Bhat et al. 2017; 
+Castro et al. 2018), we then investigated whether the increased control by CD8+ T cells was due to 
+increased cell number in the lung. The number and fraction of lung OVA-specific CD8+ T-cells, analyzed 
+by Kb-N4 tetramer staining (Fig. S1C), at the peak of the infection was equivalent between CD8-IFN-
+γRKO and WT T-cells (Fig.1H-I), indicating that IFN-γ-sensing by CD8+ T-cells did not regulate their 
+overall expansion/recruitment to effector sites.  
+As  effector  function  and  recruitment  were  largely  unaffected  by  IFN-γ  sensing,  we  then 
+investigated whether IFN-γ sensing by CD8+ T-cells affected the average avidity of the T-cell response. 
+We analyzed Kb-N4 tetramer binding of lung CD8+ T-cells and normalized the Mean Fluorescence 
+Intensity (MFI) by CD3 expression in order to extract the relative affinity, a measure of TCR affinity 
+and/or avidity at the population level (Pace et al. 2012). CD8-IFN-γRKO T-cells exhibited increased 
+relative affinity (Fig.1J), indicating that IFN-γ sensing by CD8+ T-cells lowers the avidity of primary 
+responses, leading to sub-optimum immunity to Influenza.  
+IFN-γ sensing by CD8+ T-cells decreases the avidity of the primary T-cell response. 
+To explore whether the regulation of avidity by IFN-γ was a general mechanism, we switched to 
+another model of infection, Listeria monocytogenes (LM) expressing Ovalbumin (OVA), an intracellular 
+pathogen for which CD8+ T-cell response is well characterized. This model also allows us to alter the 
+affinity and avidity of CD8+ T-cell responses by using LM expressing the dominant OVA peptide 
+recognized by CD8+ T-cells (N4) or altered OVA peptides of lower affinity.  
+We first tested whether the avidity of CD8+ T-cell primary responses was also affected by IFN-γ 
+sensing following LM infection. CD8-IFN-γRKO or WT mice were infected with LM expressing OVA (LM-
+OVA) and OVA-specific CD8+ T-cells were analyzed by Kb-N4 tetramer staining. In this system, 
+expansion of endogenous OVA-specific T-cells was increased in CD8-IFN-γRKO mice (Fig.2A), most likely 
+because the spleen is both a priming and effector site during LM infection. In addition, OVA-specific 
+T-cells exhibited a significant shift in tetramer binding towards higher MFI (Fig.2B-C). As for Influenza 
+infection, normalizing tetramer binding by CD3 or TCR expression to extract relative avidity measures 
+  4 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531375; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+indicated that CD8-IFN-γRKO CD8+ T-cells were of higher avidity compared to their control counterparts 
+(Fig.S2A-C).  This  was  not  a  consequence  of  increased  LM-OVA  load  (Fig.S2D),  increased  IFN-γ 
+production (Fig.S2E) or differential priming, as assessed by CD69 upregulation (Fig.S2F). This was also 
+not the result of early egress of low-affinity T-cells, as the increased tetramer binding in CD8-IFN-γRKO 
+CD8+ T-cells was already present 5 days after infection (Fig.S2G). 
+Our data indicate that IFN-γ-sensing by CD8+ T-cells lowers the avidity of the primary response in 
+two different infection models. We then sought to quantify the difference in avidity between WT and 
+CD8-IFN-γRKO CD8+ T-cell responses. We measured IFN-γ production following stimulation of CD8+ T-
+cells with increasing concentrations of the OVA peptide (N4) ex vivo. IFN-γ expression by WT and CD8-
+IFN-γRKO T-cells were similar in magnitude (Fig.2D) but the EC  was decreased for CD8-IFN-γRKO 
+50
+compared to WT CD8+ T-cells, both by flow cytometry (Fig.2E-F) and ELISA (Fig.2G-H), indicating a 
+higher avidity of the CD8-IFN-γRKO T-cell repertoire. This demonstrated that IFN-γ-sensing by CD8+ T-
+cells decreases the avidity of the primary response by about 2-4-fold. We validated this result by 
+quantifying OVA-specific CD8+ T-cell avidity by dynamic acoustic force measurements. Endogenous 
+OVA-specific T-cells from WT and CD8-IFN-γRKO mice were isolated at the peak of LM-OVA infection 
+and allowed to adhere on a flow chamber containing a monolayer of Kb+, OVA-expressing cells. 
+Increasing acoustic force was then applied and T-cell detachment from the monolayer was monitored 
+by microscopy. Using this method, we confirmed that CD8-IFN-γRKO OVA-specific T-cells displayed 
+increased avidity compared with WT T-cells (Fig.2I-J). Taken together, we demonstrated that IFN-γ-
+sensing by CD8+ T-cells decreases the avidity of the primary response using multiple techniques, 
+showing that this phenotype is robust. 
+To understand whether the function of IFN-γ on the avidity of the CD8+ T-cell response could 
+originate from modulating the behavior of clones with different TCR affinity, we fixed the CD8+ T-cell 
+clonotype by using the OVA-specific CD8+ T-cell clone OT-I, and varied the affinity of TCR priming. We 
+transferred the smallest number of OT-I T-cells allowing reliable detection following priming with 
+peptides exhibiting low-affinity for the OT-I TCR. WT and IFN-γRKO OT-I were co-transferred in mice 
+that were subsequently challenged with LM expressing either the high-affinity OVA peptide N4 or 
+altered peptides of lower affinity. We then compared the expansion of WT and IFN-γRKO OT-I T-cells 
+upon priming. Expansion of IFN-γRKO OT-I T-cells was increased following high-affinity (N4 peptide) 
+priming at the peak of the response compared to WT. Surprisingly, priming with low-affinity peptides 
+led to decreased frequency of IFN-γRKO over WT OT-I T-cells (Fig.2K, S2H), demonstrating that direct 
+sensing of IFN-γ by CD8+ T-cells differentially affected T-cell expansion according to TCR affinity, 
+favoring the participation of low-affinity T-cells while restraining the expansion of high-affinity T cells. 
+This is consistent with our finding that IFN-γ-sensing by CD8+ T-cells decreases the avidity of the 
+primary response. 
+Altogether, we concluded that IFN-γ signaling in CD8+ T-cells curtails expansion of T-cells with high 
+affinity TCR, resulting in decreased avidity of the primary response. 
+ 
+CD8+ T-cell paracrine IFN-γ signalling during priming regulates the avidity of the primary response. 
+IFN-γ production during LM-OVA infection is characterized by an early wave of IFN-γ production 
+occurring during priming and a second wave during the peak of the effector response (Krummel et al. 
+2018). To determine when IFN-γ was sensed by CD8+ T-cells to regulate T-cell avidity, anti-IFN-γ was 
+administered either 16-24h or at day 5 and 6 post-infection. Similar to deleting IFN-γR on CD8+ T-cells, 
+blocking IFN-γ 16-24h post-infection resulted in increased abundance of OVA-specific CD8+ T-cells 
+(Fig.3A) and increased tetramer (but not CD3) staining (Fig.3B-C). Taken together, we concluded that 
+IFN-γ was sensed 16-24h post-infection to regulate the expansion and avidity of OVA-specific CD8+ T-
+cells. Blocking IFN-γ during the second wave had no effect on those measures. 
+Because NK cells were the main source of IFN-γ at the onset of LM infection (Fig.S3), we 
+investigated whether they contributed to the regulation of T-cell avidity. To do so, we ablated NK cells 
+with depleting NK1.1 antibody (Fig.3D) and infected mice with LM-OVA. The proportion and avidity of 
+the T-cell response against OVA was assessed at the peak of the response. Depleting NK cells resulted 
+  5 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531375; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+in an increase in the proportion of tetramer+ T-cells (Fig.3E), most likely due to the increased bacterial 
+load, as mice without NK cells fail to control LM infection (Viegas et al. 2013). However, this was not 
+accompanied by an increase in tetramer staining (Fig.3F), demonstrating that NK cells were not the 
+source of IFN-γ implicated in the regulation of T-cell avidity. 
+Because IFN-γ is shared between CD8+ T-cells during priming (Krummel et al. 2018) and the second 
+cellular source of IFN-γ (Fig.S3), we hypothesized that CD8+ T-cell-derived IFN-γ may be the dominant 
+source regulating CD8+ T-cell avidity. To test this, we created mixed bone marrow (BM) chimeras by 
+reconstituting lethally irradiated IFN-γKO mice with ad-mixed IFN-γKO and CD8aKO BM, resulting in IFN-
+γ deletion specifically in CD8+ T-cells (CD8-IFN-γKO mice). Reconstitution of IFN-γKO mice with ad-mixed 
+IFN-γKO and WT BM was used to generate control (WT) mice (Fig.3G). STAT1 phosphorylation in CD8+ 
+T-cells was analyzed 24h post-LM-OVA infection, as a read-out of IFN-γ signaling. WT CD8+ T-cells 
+exhibited enhanced IFN-γ signaling compared to CD8-IFN-γKO cells (Fig.3H). Ablation of CD8-induced 
+IFN-γ led to 40% inhibition of IFN-γ signaling (Fig.3H) while CD8+ T-cells constitute a small proportion 
+of IFN-γ-producing cells (around 15%, Fig.S3), suggesting that CD8+ T-cells are highly sensitive to their 
+own IFN-γ. At the peak of the response, we observed an increase in the proportion of OVA-specific T-
+cells (Fig.3I) in CD8-IFN-γKO mice, with enhanced tetramer binding (Fig.3J), as observed with CD8-IFN-
+γRKO mice (Fig.2C).  
+Taken together, we concluded that CD8+ T-cell paracrine IFN-γ signaling regulates the avidity of 
+their response.  
+ 
+IFN-γ is provided by Virtual Memory T (T ) cells during priming. 
+VM
+Given  that  CD8+  T-cells  primarily  sense  their  own  IFN-γ  to  regulate  their  avidity,  we  then 
+characterized which CD8+ T-cell subset secreted IFN-γ using scRNA-seq of CD8+ T-cells from control 
+mice and mice infected with LM-OVA for 24h. Unsupervised hierarchical clustering identified 6 clusters 
+(Fig.S4A), which were labelled based on known markers of naïve and memory T-cells (Fig.S4B). We 
+distinguished 4 clusters harboring a naïve phenotype that we merged (Fig.4A-B), and 2 clusters with a 
+memory phenotype (Cd44, Eomes and Cxcr3). One memory cluster had features of naïve cells, such as 
+Lef1, Ccr7 and Sell (encoding for CD62L) expression, expressed high levels of Il2rb and low levels of the 
+integrin Itga4 (Fig.4A-B). These markers are characteristic of Virtual Memory T-cells (T ), a subset of 
+VM
+antigen-independent memory T-cells (Hussain and Quinn 2019). The T  characteristic expression 
+VM
+pattern was confirmed by Differential Gene Expression analysis (Fig.4C). Analysis of IFN-γ transcript 
+revealed  that  T   cells  were  the  predominant  subpopulation  producing  IFN-γ  (Fig.4D-E).  We 
+VM
+confirmed this by flow cytometry using GREAT mice, an IFN-γ reporter strain whereby YFP expression 
+is driven by the IFN-γ promoter  (Reinhardt, Liang, and Locksley 2009). GREAT mice were infected with 
+LM-OVA and the production of IFN-γ by the different CD8+ T-cell subsets was assessed using CD44, 
+CD122 and CD49d (Itga4) to delineate naïve, T  and antigen-experienced memory CD8+ T-cells. Up 
+VM
+to 70% of IFN-γ producers were T  (Fig.4F) 24h after LM-OVA infection. Similar data was observed 
+VM
+with LM expressing gp33, ruling out the possibility of antigenic bias (Fig.4F). We concluded that T  
+VM
+was the main CD8+ T-cell subset producing IFN-γ during priming. 
+T   cells  are  known  to  exhibit  enhanced  sensitivity  to  inflammatory  cytokines,  resulting  in 
+VM
+bystander activation (White et al. 2016). Differential pathway analysis, however, suggested that T  
+VM
+priming was more complex than bystander priming during LM-OVA infection. While true (antigen-
+experienced) memory T-cells displayed signatures of cytokine priming, T  exhibited additional 
+VM
+signatures, some shared with naïve T-cells, including increased metabolism, heat-shock response, and 
+cell cycle, which could indicate TCR priming (Fig.S4C). To address whether IFN-γ production by T  
+VM
+required TCR priming, CD8+ T-cells from GREAT mice were activated in vitro with anti-CD3ε/-CD28 
+(“TCR stimulation”) and/or inflammatory cytokines, and IFN-γ expression was assessed after 24h. 
+While IL-12 and IL-18 treatment induced some level of IFN-γ production, adding TCR priming 
+synergized with IL-12/18 (Fig.4G). IL-2, IL-7, and IL-15, which share the same γ-chain receptor, further 
+synergized with TCR and IL-12/18 stimulation to increase IFN-γ (Fig.4H). Other known inducers of IFN-
+γ production did not lead to IFN-γ production by CD8+ T-cells (Fig.S4D). This suggests that maximum 
+  6 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531375; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+IFN-γ production by T  required TCR priming. We validated this in vivo. We crossed GREAT mice with 
+VM
+OT-I mice to generate GREAT OT-I T-cells, which were transferred in WT recipients. Mice were then 
+infected with either LM-OVA or LM-gp33. For this, we increased the frequency of OT-I cells transferred 
+in order to detect OT-I T . IFN-γ expression by T  OT-I T-cells was observed upon infection with LM-
+VM VM
+OVA but not LM-gp33 (Fig.4I), confirming the requirement of TCR priming for early IFN-γ induction in 
+vivo. In addition, we confirmed that IFN-γ production by CD8+ T-cells required TCR priming in vivo by 
+using Nur77-reporter mice, for which GFP expression is controlled by the Nur77 promoter and 
+correlates with TCR priming (Moran et al. 2011). Mice were infected with LM-OVA and after 24h, we 
+observed a significant shift in GFP expression in IFN-γ+ CD8+ T-cells compared to non-producers 
+(Fig.S4E). Finally, blocking MHC class-I 24 hours post-infection also significantly decreased IFN-γ 
+expression by CD8+ T-cells (Fig.4J).  
+Given the propensity of T  to produce IFN-γ during priming, and the role of IFN-γ in decreasing 
+VM
+the avidity of the primary response leading to sub-optimal immunity, we investigated whether the 
+presence of T  correlated with disease severity in humans. To do this, we made use of the COMBAT 
+VM
+dataset, a blood atlas delineating innate and adaptive immune dysregulation in COVID-19 (Ahern et 
+al. 2022). In humans, T  corresponds to a subset of CD8+ T effector memory RA (T ) cells that 
+VM EMRA
+expresses multiple killer Ig-like receptors (KIRs) and NKG2A/E (Thiele et al. 2020). We therefore 
+focused on the T clusters (Fig.4K) to identify T . Differentially expressed genes revealed that 
+EMRA  VM
+clusters 2, 3, 5 and 6 are characterized by multiple KIR and NKG2 expression (Dataset 1) and were 
+therefore labelled as T (Fig.4L). Analysis of the relationship between T  and disease severity 
+VM  VM
+revealed that enhanced frequency of T  is associated with severe COVID disease (Fig.4M). This is in 
+VM
+agreement with our finding that CD8+ T-cells mainly sense IFN-γ produced by T , leading to decreased 
+VM
+avidity of the primary response and a subsequently curtailed response during infection. 
+Altogether, our data demonstrate that paracrine IFN-γ sensing by CD8+ T-cell decreases the avidity 
+of the primary response. Because T  is the subset producing IFN-γ during priming, we concluded that 
+VM
+T  cells regulate the avidity of the CD8+ T-cell response. 
+VM
+ 
+IFN-γ-sensing by CD8+ T-cells does not regulate CD8+ T-cell differentiation and TCR diversity. 
+Our data so far demonstrate that IFN-γ sensing by CD8+ T-cells during priming lowers the avidity of 
+the effector response, thereby limiting T-cell responses against intracellular pathogens. However, it 
+was  unclear  whether  IFN-γ  intrinsically  affected  T-cell  differentiation  and  fitness,  or  rather 
+coordinated affinity, expansion, and differentiation. To address this question, we performed single-
+cell RNA- and TCR-sequencing on OVA-specific CD8+ T-cells from CD8-IFN-γRKO and WT mice 9 days 
+post-infection with LM-OVA. Using unsupervised hierarchical clustering, we identified 7 clusters 
+(Fig.S5A), which we manually labelled based on known markers of effector and memory subsets 
+(Fig.S5B). We distinguished 2 memory subsets based on Cx3cr1 expression, Cx3cr1neg being the least 
+differentiated (Gerlach et al. 2016), one effector population and one highly cycling cluster (Fig.5A-B). 
+WT and CD8-IFN-γRKO clusters had similar gene expression profiles, showing that IFN-γ does not affect 
+intrinsic effector or memory potential (Fig.5C). This agrees with the fact that WT and CD8-IFN-γRKO T-
+cells exhibited similar cytotoxicity (Fig1E-G). We also observed that the IFN-γ signature of WT-cells at 
+the peak of infection was low and not decreased by IFN-γR deletion (Fig.S5C), consistent with our 
+finding that CD8+ T-cells sense IFN-γ during priming rather than during the effector stage.  
+We then tested whether IFN-γ sensing would alter the differentiation of endogenous CD8+ T-cells. 
+We did not detect any significant differences by flow cytometry (Fig.5D-E), where the proportion of 
+SLECs (KLRGIhiCD127lo) (Fig.5D) and MPECs (KLRGIloCD127hi) (Fig.5E) was identical between CD8-IFN-
+γRKO and WT endogenous OVA-specific CD8+ T-cells at the peak of the response. It demonstrated that 
+IFN-γ sensing does not regulate overall CD8+ T-cell differentiation. It was however worth noting that 
+blocking overall IFN-γ during priming increased SLEC proportion (Fig.S5D) and conversely decreased 
+MPEC proportion (Fig.S5E), which might be explained by the function of IFN-γ on other cell types, 
+indirectly affecting CD8+ T-cell differentiation. For example, in models of vaccination, IFN-γ signaling 
+in CD11b+ cells regulates CD62L expression on CD8+ T-cells (Sercan et al. 2010).  
+  7 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531375; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+We then investigated whether the difference in avidity between WT and CD8-IFN-γRKO T-cells was 
+related to the use of a different TCR repertoire. Analysis of TCR usage showed that the OVA-specific 
+T-cell repertoire following LM-OVA infection is unique for each mouse, regardless of the genotype 
+(Fig.S5F), suggesting that TCR repertoires emerging after infection are qualitatively different, as 
+observed during CMV infection (Schober et al. 2020). The increased avidity induced by IFN-γR deletion 
+may be the result of the expansion and dominance of a few high-affinity T-cell clones, which would 
+result in decreased TCR diversity. However, IFN-γ sensing by T-cells did not regulate TCR diversity 
+(Fig.5F), indicating that differences in avidity are not solely due to an alternate priming of high-affinity 
+T-cells. To get more insight into the function of IFN-γ on the relationship between clonal breadth and 
+differentiation, we compared the TCR clonal overlap between the different subsets. The overlap 
+between SLECs and the memory populations was limited, about 20%, and was not affected by IFN-γR 
+deletion (Fig.S5G). Interestingly, analysis of the overlap between the cycling population and the other 
+subsets revealed that inhibition of IFN-γ sensing enhanced the overlap between cycling and SLEC 
+populations (Fig.5G), suggesting that the expansion of distinct clones was enhanced following IFN-γR 
+deletion. Given our previous data demonstrating that high-affinity T-cells expanded more following 
+IFN-γR deletion, we hypothesize that those clones were of high-affinity for their cognate peptide. This, 
+however, was not enough to reduce TCR diversity, indicating that lower affinity T-cells were still 
+efficiently primed and recruited. Similar results were obtained when we focused our analysis on the 
+four most expanded TCRV  chains (Fig.S5H-I).  
+β
+We concluded that IFN-γ sensing does not affect T-cell differentiation per se and TCR diversity, but 
+combined analysis of scRNA- and scTCR-seq suggests that IFN-γ sensing regulates the relationship 
+between clonal expansion and T-cell subsets. 
+ 
+IFN-γ-sensing by CD8+ T-cells increases the avidity of the memory response. 
+Because low- and high-affinity T-cells are known to have distinct differentiation skewing (Knudson 
+et al. 2013) and IFN-γ sensing by CD8+ T-cells lowers the avidity of the primary response, we 
+hypothesized  that  IFN-γ  may  rather  regulate  the  relationship  between  T-cell  avidity  and 
+differentiation. To investigate this relationship, we first analyzed the differentiation state of adoptively 
+transferred WT and IFN-γRKO OT-I T-cells upon infection with LM expressing altered OVA peptides. IFN-
+γR deletion had limited effect on the differentiation of high-affinity T-cells, whereas it increased MPEC 
+skewing of low-affinity T-cells (Fig.6A-B). This suggested that IFN-γR deletion enhanced memory 
+formation of low-affinity T-cells. To test this, a small number of WT and IFN-γRKO OT-I T-cells were ad-
+mixed, and transferred in WT mice, which were challenged with LM expressing altered OVA peptides 
+with varying affinities. After 60 days, mice were re-challenged with LM-OVA in order to analyze OTI 
+expansion. Priming with high-affinity peptides led to a slight decreased frequency of IFN-γRKO over WT 
+OT-I T-cells during recall responses, as already suggested (Krummel et al. 2018). However, expansion 
+of IFN-γRKO OT-I T-cells primed with low-affinity peptides was increased compared to WT during recall 
+responses (Fig.6C). This suggested that IFN-γ sensing by CD8+ T-cells increased the avidity of the 
+memory response by limiting the inherent skewing in memory differentiation of low-affinity T-cells.  
+To test this hypothesis, we first analyzed the avidity of OVA-specific SLEC and MPEC CD8+ T-cells at 
+the peak of the response. As expected, CD8-IFN-γRKO SLECs were skewed towards higher tetramer 
+binding compared with WT (Fig.6D-E). However, CD8-IFN-γRKO MPECs displayed overall highly variable 
+avidity at this time point (Fig. 6D-F). To specifically address whether IFN-γ affected the avidity of the 
+memory response, LM-OVA infected CD8-IFN-γRKO and WT mice were re-challenged after 60 days, and 
+the expanded memory T-cell population was analyzed. CD8-IFN-γRKO T-cells exhibited lower tetramer 
+binding (Fig.6G), indicating that the memory compartment was skewed towards lower avidity in CD8-
+IFN-γRKO mice. Similar results were observed following Influenza infection. We challenged WT and 
+CD8-IFN-γRKO mice with the Influenza strain X31-OVA. After 60 days, mice were re-challenged with 
+another virus strain, PR8-OVA. This strategy was used because X31 and PR8 express the same NP  T-
+68
+cell epitope but different B-cell epitopes, ensuring the virus was not cleared by memory B-cells. 
+Endogenous OVA-specific T-cells were indeed of lower avidity (Fig.6H) in the lung, but we could detect 
+  8 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531375; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+very few of those cells. We therefore also analyzed the avidity of the T-cell repertoire towards the 
+dominant flu antigen NP . Both in draining lymph nodes and in the lung, NP + CD8+ T-cells expanded 
+68 68
+less (Fig.6I-J) and were of lower avidity (Fig.6K-L) in CD8-IFN-γRKO mice compared to WT mice. 
+Altogether, we concluded that IFN-γ improves memory responses. 
+ 
+Overall, our data demonstrate that IFN-γ sensing by CD8+ T-cells results in decreased avidity of the 
+primary response, leading to sub-optimum control of infection. This is accompanied by increased 
+avidity of the secondary response. T  are the main subset providing IFN-γ to other T-cells, linking 
+VM
+innate signals to the regulation of CD8+ T-cell breadth, ensuring that the effector and memory pools 
+are composed of a breadth of T-cell clones. 
+ 
+   
+  9 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531375; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+Discussion 
+In this study, we described a critical role of IFN-γ as a paracrine modulator of CD8+ T-cell responses 
+by coordinating T-cell expansion, differentiation, and avidity. Individual CD8+ T-cell clones exhibit a 
+remarkable degree of functional and phenotypic plasticity, a prerequisite for effective adaptive 
+responses (Kaech and Cui 2012; Buchholz, Schumacher, and Busch 2016; Rutishauser and Kaech 2010). 
+However,  such  malleability  necessitates  regulatory  mechanisms  ensuring  robustness  at  the 
+population-wide level. Our data demonstrate that IFN-γ mediates such regulatory mechanisms, not 
+only during infection but also during anti-tumor immunity (Mazet et al. 2023).  
+Regulating the avidity of the T-cell response is critical. Increased avidity in the same order of 
+magnitude we observed for IFN-γR deletion has been correlated with resistance to viral infection in 
+humans. Increased control of HIV-1 replication by CD8+ T-cells (Almeida et al. 2007) is correlated with 
+increased avidity, and, consequently, HIV controllers display higher functional avidities of Gag-specific 
+and HLA-B-restricted responses than non-controllers (Berger et al. 2011). Similar increased avidity has 
+been observed in patients that cleared Hepatitis C compared to chronically infected patients (Yerly et 
+al. 2008). This emphasizes the importance of understanding the mechanisms regulating the avidity of 
+the T-cell response. 
+High-affinity T-cells have a competitive advantage over low-affinity T-cells, with ligand affinity 
+determining  the  frequency  of  responding  cells  (Richard  et  al.  2018).  Low-affinity  T-cells  are 
+nevertheless efficiently recruited during an immune response (Zehn, Lee, and Bevan 2009), resulting 
+in a physiological range of affinities of around 100-fold (Hebeisen et al. 2013; Dolton et al. 2018). Our 
+data demonstrate that this is in part due to IFN-γ, improving low-avidity T-cell expansion and thereby 
+lowering the threshold for low-affinity T-cells to enter the effector response, overcoming the selective 
+advantage of high-affinity T-cells. Multiple hypotheses could explain the importance of recruiting 
+lower-affinity T-cells during primary responses. During infection, too many high-avidity T-cells may 
+drive  immunopathology  (Hillaire,  Rimmelzwaan,  and  Kreijtz  2013).  In  addition,  they  become 
+dysfunctional and exhausted in chronic conditions (Shakiba et al. 2021). Interestingly, in metastatic 
+melanoma patients, PD-1neg T-cell clones naturally present within an endogenous repertoire exhibit 
+lower avidity TCRs than PD-1+ T-cell clones, exemplifying the tight relationship between T-cell avidity 
+and exhaustion (Simon et al. 2016).  
+Lowering the avidity of the primary response may also be necessary to increase the avidity of the 
+secondary response by allowing high-affinity T-cell clones, which are inherently biased to becoming 
+effector, to also enter the memory pool, as shown here. While low-avidity T-cells are intrinsically 
+skewed to become memory T-cells (Knudson et al. 2013) where they are important for memory 
+responses towards mutated pathogens (van Gisbergen et al. 2011; Kavazović et al. 2020), IFN-γ 
+ensures that high-avidity T-cells are also part of the memory pool, enabling efficient memory response 
+towards both mutated and native pathogen. 
+Mechanistically, we found that IFN-γ is provided by T  to other CD8 T-cells during priming, serving 
+VM
+as “Signal 3”. But how IFN-γ signaling coordinate the selection of high- versus low-affinity T-cells 
+throughout the effector and memory pool is unclear. IFN-γ induces the expression of transcription 
+factors known to regulate the threshold of T-cell activation, proliferation, and differentiation, such as 
+c-Myc and T-bet (Gocher, Workman, and Vignali 2021; Richer, Nolz, and Harty 2013). Alternately, IFN-
+γ induces ICAM-1 expression, which has been shown to regulate memory formation (Gérard et al. 
+2013; Cox et al. 2013). Regulation of ICAM-1 expression in CD8+ T-cells could alter the nature of T-T 
+communication and associated quorum sensing (Zenke et al. 2020). It is tempting to speculate that 
+those factors may integrate with TCR signaling, but more studies are necessary to elucidate the 
+mechanisms enabling this coordination. 
+ 
+Taken together, our work provides evidence that IFN-γ serve an important autoregulatory role by 
+coordinating CD8+ T-cell avidity and differentiation, decreasing the avidity of the primary response 
+while increasing the avidity of the memory response, ensuring a balanced control of short- and long-
+term immunity. 
+  10 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531375; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+Methods 
+Mice  
+CD8a-CreGFP (JAX stock no.: 008766), IFN-γRflox/flox (JAX stock no.: 025394), IFN-γ-GREAT-YFP (JAX 
+stock no.: 017580), IFN-γKO (JAX stock no.: 002287), Nur77-GFP (JAX stock no.: 018974), CD8aKO (JAX 
+stock no.: 002665) and OT-I (JAX stock no.: 003831) were purchased from Jackson Laboratory. 
+C57BL/6J mice were purchased from Charles River, UK (JAX stock number: 000664). To generate CD8 
+IFN-γRKO mice CD8a-CreGFP mice were crossed with IFN-γRflox/flox mice, which were subsequently 
+crossed to Rosa26-tdTomato mice (kind gift from the group of Tal Arnon). All experiments involving 
+mice were conducted in agreement with the United Kingdom Animal (Scientific Procedures) Act of 
+1986 and performed in accordance to approved experimental procedures by the Home Office and the 
+Local Ethics Reviews Committee (University of Oxford). 
+Cell Isolation 
+Spleens were harvested from mice at indicated time points, mashed in 1x PBS and filtered through 
+70 μM filter. Splenocytes were resuspended in red lysis buffer (155 mM NH4Cl, 12 mM NaHCO3 and 
+0.1 mM EDTA in ddH O) and incubated on ice for 5 minutes, before being washed in PBS twice.  
+2
+For T-cell isolation, WT or OT-I CD8+ T-cells were isolated through negative separation from lymph 
+nodes and spleens of 6- to 12-week-old WT or OT-I mice, using the MojoSortTM CD8+ T-cell isolation 
+kit and magnets (Biolegend, #480008 and #480019). Isolated T-cells were resuspended in complete 
+RPMI (RPMI 1640 [Gibco, #21870-076] supplemented with 2% FCS and 100x Penicillin-Streptomycin 
+[Gibco, #10378-016]). 
+Infection and Treatments 
+Mice were given an intravenous (i.v.) injection of 20*103 colony-forming units (cfu) of LM 
+expressing either a secreted form of OVA (LM-OVA) or one of the LM following strains expressing the 
+indicated peptides (LM-N4, LM-T4, LM-Q4H7, LM-V4, LM-G4 or LM-gp33). LM strains were provided 
+by Dietmar Zehn (TU Munich) expect LM-gp33, which was purchased from Nanjing Sungyee Biotech. 
+Frozen down LM aliquots were expanded in Brain Heart Infusion (BHI) broth (Sigma, #53286-100G) 
+and LM suspensions were plated on BHI agar plates (Sigma, #70138-500G). LM (200.000 cfu for 24h 
+experiments; 20.000 cfu for d7-10 experiments) was injected intravenously when they were in 
+exponential phase of growth. For memory responses, mice were rechallenged at least 60 days after 
+the primary infection with 200.000 cfu. 
+In some experiments, OT-I T-cells (2-3x106 cells or 50.000 cells for 24h or d7-10 experiments, 
+respectively) were transferred into mice recipient by intravenous injection the days before infection.  
+In some experiments, mice received a single intraperitoneal (i.p.) injection 16-24 hours post 
+infection of 75 μg of isotype matched control antibody (rat IgG1, BioXCell, #BE0088) or anti-Interferon-
+gamma (BioXCell, clone: XMG1.2). In some experiments 50 ug of isotype matched control antibody 
+(rat IgG2a, BioXCell, #BE0089) or anti-NK1.1 (BioXCell, clone: PK136) was injected intraperitoneally 
+two days and one day prior to infection, as well as on day 4 and 6 post-infection. 
+For subsequent staining of intracellular cytokines, mice were injected i.p. with 250 μg BFA 6 hours 
+before being killed. 
+For primary infection with Influenza virus, mice weighing >20g were anaesthetized using isoflurane 
+and intranasally administered with 4x104 or 4x105 PFU of X31-OVA influenza A virus in PBS. Mice were 
+weighted for 14d following infection. For memory responses, mice were rechallenged at least 60 days 
+after the primary infection with 106 PR8-OVA. 
+In vitro Activation and Treatment 
+For in vitro re-stimulation experiments, splenocytes were activated 7-10 days after infection with 
+different concentrations of N4 peptide or phorbol 12-myristate 13-acetate (PMA) (2 ng/mL) and 
+ionomycin (20 ng/mL).  
+  11 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531375; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+For in vitro stimulation experiments, naïve T-cells were seeded in 96-well U-bottom together with 
+bone marrow-derived dendritic cells (BMDCs) loaded with the indicated OVA peptide (Proteogenix) at 
+10 ng/mL or antibodies. For experimental conditions including TCR stimulation, wells were pre-coated 
+with anti- CD3ε (Biolegend, #145-2C11) prepared in PBS at 1 μg/mL for 2-3 hours at 37°C before being 
+emptied for seeding. For ICAM-1 stimulation, wells were pre-coated with 5 μg/mL ICAM-1 (Biolegend, 
+#553006) for 2-3 hours at 37°C before being emptied for seeding. Following coating with anti-CD3ε 
+and/or  ICAM-1,  cytokine  preparations  were  added  to  the  wells  according  to  the  specified 
+experimental conditions, which included different combinations of IL-12 (Biolegend, #577004), IL-18 
+(Biolegend, #767004), IL-15 (Biolegend, #566302), TNF (PeproTech, #315-01A-20uG), IL-33 (Biolegend, 
+#580504), IFN-α (Biolegend, #752804), IFN-β (Biolegend, #581304), IL-2 (Biolegend, #575404), IL-1β 
+(Biolegend,  #575102),  and  IL-7  (PreproTech,  #217-17).  For  co-stimulation,  1  μg/mL  anti-CD28 
+(Biolegend, #37.51) was also added to wells pre-coated with anti-CD3ε. The cells were incubated 
+overnight under the specified conditions at 37°C in 5% CO  before being subjected to staining and flow 
+2
+cytometry analysis. 
+For subsequent staining of intracellular cytokines, cultured cells were treated with 7 μg/mL 
+brefeldin A (BFA, ChemCruz, #sc-200861A) 30 minutes post-stimulation and incubated for 4.5 hours 
+at 37°C in 5% CO2 before further processing. 
+Generation of BM chimeras 
+IFN-γKO Recipient mice were irradiated with 4.25 Gy per cycle for two irradiation cycles, 4 hours 
+apart. Bone marrow from IFN-γKO, CD8aKO or C57BL/6J mice were prepared from femur and tibia. Cell 
+suspension was filtered through a 40 μM strainer shortly prior to intravenous injection of 100 μL 
+(equivalent to 1.25 x105 cells/mouse). Mice were kept for two weeks post-transplantation on 
+antibiotics (Enroflocaxin) in drinking water to avoid infection. 
+In Vivo Cytotoxicity Assay 
+Isolated and washed splenocytes were resuspended in complete RPMI and divided into two 15 mL 
+falcon tubes, each containing 1 mL splenocyte suspension. OVA peptide SIINFEKL (N4) was added to 
+one splenocyte suspension to a final concentration of 10 μg/mL. Both the peptide-treated and 
+untreated splenocytes were incubated at 37°C for 30 minutes and shaken half-way. The cells in both 
+tubes were counted and resuspended to obtain 1 mL suspensions containing 10*106 cells. Peptide-
+loaded and non-loaded cell suspensions were incubated with 1 μM eFluor 670 and 2 μM CFSE in 1x 
+PBS, respectively. The dye-stained cell suspensions were centrifuged and resuspended in 1x PBS, 
+before being mixed at a 1:1 ratio for injection into LM-OVA-infected recipient mice, as well as a naïve 
+mouse used as control. Splenocytes were isolated from the spleens of infected and naïve mice 24h 
+following injection, and cytotoxic killing by OVA-specific CD8+ T-cells was assessed through flow 
+cytometry analysis. The degree of cytotoxicity is given as the percentage of targeT-cell lysis relative to 
+the naive mouse, calculated by the following formula: 100-100*(R /Rn ), where the R values are 
+infected aïve
+equal to the % peptide-loaded population/% non-loaded population ratios in the infected and naive 
+mice. 
+Flow Cytometry 
+Single-cell suspensions obtained from spleen or cultured CD8+ T-cells were stained in V-bottom 96-
+well plates in flow cytometry buffer (2% FCS, 2 mM EDTA, and 0.02% sodium azide in 1x PBS). Live 
+dead staining and surface staining was performed using Zombie NIR Fixable Viability Kit (Biolegend, 
+#423106/423105), TruStain FcXTM (anti-mouse CD16/32, Biolegend, #101319) and fluorochrome-
+conjugated primary antibodies (Biolegend, Cell Signaling Technology or BD Biosciences), respectively. 
+For experiments that included tetramer staining, cells were incubated with either Alexa Fluor 647- or 
+BV421-conjugated, N4-specific MHC I tetramers (obtained from the National Institutes of Health 
+Tetramer Core Facility [Emory University, Atlanta]) diluted 1:500 in flow cytometry buffer for 30 
+minutes at room temperature, prior to surface staining. If not otherwise indicated, all cells were fixed 
+either in 4% paraformaldehyde (PFA) for 10 minutes at room temperature or using eBioscienceTM 
+  12 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531375; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+Foxp3/Transcription Factor Staining Set (Invitrogen, #00-5523-00) for 30 minutes at 4°C. Intracellular 
+transcription factor staining was performed after fixation and permeabilization using fluorescently 
+labelled primary antibodies. Intracellular cytokine staining was performed after 15 minutes fixation 
+using  BD  Cytofix/CytopermTM  Fixation/Permeabilization  Kit  (BD  Biosciences,  #554714).  Flow 
+cytometry data were recorded on BD LSRII or FortessaX20 using DIVA software and analyzed using 
+FlowJoTM software (Tree Star).  
+Surface markers used for flow cytometry analysis included: anti-CD8 (Biolegend, clone: 53-6.7), 
+anti-CD4 (Biolegend, clone: RM4-5), anti-CD69 (Biolegend, clone: H1.2F3), anti-CD44 (Biolegend, 
+clone: IM7), anti-CD49d (Biolegend, clone: R1-2), anti-NK1.1 (Biolegend, clone: PK137), anti-KLRGI 
+(Biolegend, clone: 2F1/KLRF1). Antibodies used for intracellular cytokine staining included anti-IFN-
+gamma (Biolegend, clone: XMG1.2) and anti-TNF (Biolegend, clone: MP6-XT22). 
+Cell binding avidity assays 
+For acoustic force spectroscopy of T cell avidity using the Z-Movi cell avidity analyser (LUMICKS, 
+The Netherlands), microfluidic chips were functionalised with 1M NaOH followed coating with poly-L-
+lysine (Sigma Aldrich). Chips were kept dry in a 37oC incubator, with repeated aspiration of any residual 
+liquid. For target cell monolayer seeding, microfluidic chips were rehydrated with prewarmed media. 
+B16 tumour cells expressing OVA (70 – 80% confluency) were then seeded at a density of 100 million 
+cells/mL and frequent checking under the microscope to ensure no bubble formation and appropriate 
+seeding density. Cells were incubated for 3h at 37oC, with fresh change of media in between. 
+Experiments were performed with sorted tetramerpos cells isolated from 4 WT and 4 CD8-IFN-γRKO 
+mice 9 days after LM-OVA infection on each chip. Sorted cells were cultured for 3 days prior to 
+measuring  cell  avidity.  Effector  T  cells  were stained  with CellTrace  Far  Red  Proliferation  Kit 
+(ThermoFisher Scientific) according to manufacturer’s instructions. The labelled cells were then 
+seeded at a density of 10 million cells/mL onto the microfluidic chip containing the target cell 
+monolayer and incubated for 15 min prior to increasing force application to measure cellular avidity. 
+The 2 different types of effector cells were evaluated on the same microfluid chip, and the order was 
+randomised between chips on repeated runs. Image-based automated detection of T cell detachment 
+was performed using the Oceon software (LUMICKS) and analysis was conducted according to 
+manufacturer recommendations. 
+Single-cell RNA sequencing 
+For CD8+ T-cell sequencing during priming: CD8+ T-cells from 3 naïve mice and 3  mice infected with 
+LM-OVA for 24h were sorted from splenocytes, cryopreserved in 20% FBS and 10% DMSO in RPMI and 
+further  processed  by  Single  Cell  Discoveries,  Netherlands.  Samples  were  further  processed  in 
+accordance with 10x Genomics single cell protocols. Single cell libraries were prepared using the 
+Chromium 3ʹ v2 platform (10× Genomics, Pleasanton, CA) following the manufacturer’s protocol. In 
+brief, single cells were encapsulated into gel beads in emulsions (GEMs) in the GemCode instrument 
+followed by cell lysis and barcoded reverse transcription of RNA, amplification, shearing and 3ʹ adaptor 
+and sample index attachment. Approximately, 5000 to 7000 cells were recovered. Libraries were 
+sequenced on the Illumina NovaSeq 6000. Read mapping, alignment to GRCm38 and quantitation of 
+sample count matrices was performed with the 10x Genomics Cell Ranger pipeline (v 4.0.0).  
+For CD8+ T-cell sequencing at the peak of the primary response: tetramerpos CD8+ T-cells from 4 WT 
+and 4 CD8 IFN-γRKO mice infected with LM-OVA for 9 days were sorted from splenocytes. Each mouse 
+from each genotype was labelled with TotalSeq™ Hashtags (Biolegend) and mixed. Approximately 
+20,000 cells per sample were loaded onto the 10X Genomics Chromium Controller (Chip K). Gene 
+expression, feature barcoding and TCR sequencing libraries were prepared using the 10x Genomics 
+Single Cell 5' Reagent Kits v2 (Dual Index) following manufacturer user guide (CG000330 Rev B). The 
+final libraries were diluted to ~10nM for storage. The 10nM library was denatured and further diluted 
+prior to loading on the NovaSeq6000 sequencing platform (Illumina, v1.5 chemistry, 28bp/98bp paired 
+end for gene expression and feature barcoding, 150bp paired end for TCR libraries). 
+ 
+  13 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531375; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+scRNA-sequencing analysis. 
+Datasets were analyzed using Seurat version 4.0.5 (Hao et al., 2021). For CD8+ T-cell sequencing 
+during priming, we filtered out T-cells having less than 600 and more than 5,000 detected genes, cells 
+in which mitochondrial protein-coding genes represented more than 10% of UMI. Cells were then 
+further filtered based on the expression of Cd2, Cd8a and Cd8b1. Samples were then integrated with 
+the IntegrateData function and normalized with the scTransform function of Seurat and variation 
+associated  with  mitochondrial  and  ribosomal  UMI  percentage  were  regressed  out.  Principal 
+components were calculated using the top 3,000 variable features. These genes were used as input 
+for  principal  component  analysis  (PCA),  and  significant  PCs  (n  =  30)  identified  using  Seurat 
+(“JackStraw” test and “Elbowplot”). Clustering was performed with the Louvain algorithm (n = 30 PCs, 
+resolution = 0.3). 
+For CD8+ T-cell sequencing at the peak of the primary response, we filtered out T-cells having less 
+than 500 and more than 5,500 detected genes, cells in which mitochondrial protein-coding genes 
+represented more than 5% of UMI and cells in which the percentage of largest genes was more than 
+15% of UMI. Cells were then further filtered based on the expression of Cd2, Cd8a and Cd8b1. Samples 
+were then integrated with the IntegrateData function and normalized with the scTransform function 
+of Seurat and variation associated with mitochondrial UMI percentage were regressed out. Principal 
+components were calculated using the top 3,000 variable features. These genes were used as input 
+for  principal  component  analysis  (PCA),  and  significant  PCs  (n  =  20)  identified  using  Seurat 
+(“JackStraw” test and “Elbowplot”). Clustering was performed with the Louvain algorithm (n = 20 PCs, 
+resolution = 0.3). A large cluster corresponding to a contamination with naïve CD8 T cells was removed 
+and dataset was re-normalized, scaled and PCA and UMAP were re-calculated.  
+For differential expression analysis, NormalizeData and ScaleData were run on the RNA assay of 
+the integrated data. Significant differentially expressed genes between clusters were identified using 
+the “FindAllMarkers” function, Wilcoxon test and selecting markers expressed in at least 25% of cells. 
+Significant differentially expressed genes between stimulation within clusters were identified using 
+the “FindMarkers” function, Wilcoxon test and selecting markers expressed in at least 25% of cells. 
+Pathway analysis was performed with Fast gene set enrichment analysis (fgsea), using the Gene 
+Ontology or the Reactome pathway repositories. IFNg signature (Ifngr2, Stat1, Stat2, Irf1, Irf2, Irf7, 
+Cxcl9, Cxcl10, Cxcl11) was computed using the package UCell (Andreatta and Carmona 2021). 
+For  TCR  sequencing  analysis,  paired  chain  TCR  sequences  were  obtained  through  targeted 
+amplification  of  full-length  V(D)J  segments  during  library  preparation.  Sequence  assembly  and 
+clonotype calling was done through cellranger’s immune profiling pipeline (cellranger multi). TCR 
+profiling  on  filtered  contig  annotations  was  done  using  R  package  scRepertoire  version  1.1.4 
+(Borcherding, Bormann, and Kraus 2020). Only cells for which both TCRa and TCRb could be identified 
+were used. Clone calling was done for each sample set independently before integration in the Seurat 
+object. Diversity was done by calculating the Shannon Index for each mouse, using the function 
+clonalDiversity in scRepertoire. 
+Statistical Analysis 
+One-way ANOVA was selected for pairwise comparisons across multiple experimental conditions 
+and unpaired student’s t-tests were used to compare two conditions for statistical significance. EC  
+50
+between groups was calculated by fitting a 3-parameter fixed-slope Hill function and confirming good 
+fit by the R square function and visual inspection before performing a F-test to compare the model 
+parameters. Data were considered statistically significant when p < 0.05. Data are presented as mean 
+± SEM or ± SD. Statistical analysis was performed using GraphPad Prism 7 software. Ns=non-
+significant, *P < 0.05, **P < 0.001, ***P < 0.0002 and ****P < 0.0001. 
+Data availability 
+The mouse scRNAseq and scTCRseq data generated in this study will be deposited in the GEO 
+database. Datasets reused in this study: EGAS00001005507. All data are included in the Supplemental 
+  14 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531375; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+Information or available from the authors upon reasonable requests, as are unique reagents used in 
+this Article. 
+ 
+Acknowledgments 
+We thank Tal Arnon, Michael Dustin, Vivian W. C. Lau, Anne Chauveau and Mariana Borsa for 
+critical reading of the manuscript. We thank the Lumicks team, in particular Brittany Wingham, for 
+assistance with cell binding avidity experiments and JonathanWebber for assistance with cell sorting. 
+We thank the NIH Tetramer facility for all the tetramers used in this study. This work was supported 
+by the BBSRC (BB/R015651/1 to A.G), Cancer Research UK (CR-UK) (C5255/A18085 through the Cancer 
+Research UK Oxford Centre and 29549 to A.G); the Kennedy Trust for Rheumatology Research 
+(KENN151607 and KENN202112 to A.G), John Fell Funds (0006162 to A.G), MLSTF funds and Kennedy 
+Trust Price Studentship (to L.F.K.U). 
+ 
+Figure legends 
+Figure 1: IFN-γR deletion in CD8+ T-cells improves effector responses against Influenza infection 
+(A-B) CD8-IFN-γRKO (red) and WT (grey) mice were infected with 4x104 pfu X31-OVA and weight 
+was measured every two days to quantify relative weight loss. Graphs show average (A) and individual 
+(B) weight loss. (C-D) CD8-IFN-γRKO and WT mice were infected with 105 pfu of X31-OVA. Graphs shows 
+average weight (C) and survival (D) over time. (E-F) CD8-IFN-γRKO (red) and WT (grey) mice were 
+infected with LM-OVA and injected with differentially labelled mixtures of N4-loaded or unloaded 
+target splenocytes at day 7 post-infection to quantify in vivo cytotoxicity. E- Dotplot example of 
+antigen-specific in vivo cytotoxicity. F- Graph shows in vivo cytotoxicity normalized by the percentage 
+of endogenous OVA-specific T-cells. G- CD8-IFN-γRKO (red) and WT (grey) mice were infected with LM-
+OVA. Splenocytes were isolated between d7 and 10 and re-stimulated with N4 peptide. LAMP-1 
+expression  in  CD8+  T-cells  was  analyzed  by  flow  cytometry  normalized  by  the  percentage  of 
+endogenous OVA-specific T-cells. (H-J) CD8-IFN-γRKO (red) and WT (grey) mice were infected with X31-
+OVA and lungs were isolated 8 days post-infection to analyze the relative abundance (H), absolute 
+numbers (I) and relative avidity (J) of tetramer+ CD8+ T-cells by flow cytometry. Data are pooled from 
+3 (A-D, G, J, n = 11-13) or 4 (F, H-I, each dot represents an experiment) independent experiments. 
+Error bars indicate the mean ± s.e.m (A, C) or median (F-I) or median ± s.d. (J). Relative avidity was 
+calculated by dividing tetramer MFI by CD3 MFI. Cytotoxicity and LAMP-1 expression was normalized 
+to the relative abundance of tetramer+ CD8+ T-cells within each sample. Comparison between groups 
+was calculated using the two-tailed unpaired Student’s t-test (A-F). *P<0.05; **P<0.01; ***P<0.001; 
+NS, not significant.  
+Figure 2: IFN-γR deletion in CD8+ T-cells increases the avidity of effector T-cells 
+ (A-H) CD8-IFN-γRKO (red) and WT (grey) mice were infected with LM-OVA and splenocytes were 
+isolated at the peak of the response (day 7-10). (A-C) Endogenous OVA-specific (tetramer+) CD8+ T-
+cells were analyzed by flow cytometry. Graphs show their relative abundance (A), representative 
+tetramer histogram (B), normalized tetramer MFI (C). (D-H) Splenocytes were re-stimulated in vitro 
+with the indicated concentrations of N4 for 16h. D- Percent of CD8-IFN-γRKO (red) and WT (grey) CD8+ 
+T-cells expressing IFN-γ at the maximum peptide concentration. IFN-γ expression was assessed by flow 
+cytometry and normalized by % of tetramer+ cells. (E-H) Analysis of relative IFN-γ expression by flow 
+cytometry (E) and ELISA (G) and quantification of EC  by flow cytometry (F) and ELISA (H). (I-J) CD8-
+50
+IFN-γRKO and WT mice were infected with LM-OVA and tetramer+ CD8+ T-cells were sorted 9 days post-
+infection to measure TCR avidity after 2 days of culturing. (I) Analysis of CD8-IFN-γRKO (red) and WT 
+(grey) CD8+ T-cell binding to target cells during acoustic force measurement. (J) Quantification of CD8-
+IFN-γRKO (red) and WT (grey) CD8+ T-cell binding at maximum force. (K) WT mice were transferred with 
+  15 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531375; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+50,000 ad-mixed WT and IFN-γRKO OT-I T-cells and infected with LM expressing the indicated OVA 
+peptides. Spleens were isolated 9 days post-infection to analyze OT-I T-cells expansion by flow 
+cytometry. Data are expressed as the ratio between IFN-γRKO and WT OT-I cell number. Data are 
+pooled from 9 (A-D, each dot represents an experiment), 3 (E-H, each dot represents an experiment), 
+2 (I-J, each dot represents an experiment) or 3 (K, n = 6) independent experiments. Error bars indicate 
+the median (C-D, J-K) or mean ± s.e.m (E, G). Tetramer-binding gMFIs of CD8-IFN-γRKO samples were 
+normalized to mean WT expression within each independent experiment. Comparison between 
+groups was calculated using the two-tailed unpaired Student’s t-test (A, C-D, F, H, J) or a Two-way 
+ANOVA and Šidák’s multiple comparison test (K). *P<0.05; **P<0.01; ***P<0.001; NS, not significant. 
+Figure 3: IFN-γ-is by CD8+ T-cells at priming and is paracrine 
+(A-C) WT mice were infected with LM-OVA and mice were either left untreated (grey) or treated with 
+anti-IFN-γ 16-24 hours (red) or at day 5 and 6 (orange) post-infection. Splenocytes were isolated 9 
+days post infection and analyzed by flow cytometry. Graphs show relative abundance (A), tetramer 
+gMFIs (B), and CD3 gMFI (C) of tetramer+ CD8+ T-cells. (D-E) WT mice were treated with depleting 
+NK1.1 antibodies (brown) or control antibodies (grey) and infected with LM-OVA. D- Splenocytes were 
+isolated after 24h and the proportion of NK cells was quantified by flow cytometry. (E-F) Splenocytes 
+were isolated after 9 days and tetramer+ CD8+ T-cells were analyzed by flow cytometry. Graphs show 
+relative abundance (E) and tetramer gMFIs (F) of tetramer+ CD8+ T-cells.  (G-H) WT (blue) and CD8-
+IFN-γKO (pink) chimera mice were infected with LM-OVA. G- Splenocytes were isolated after 24h and 
+stimulated in vitro with PMA/Ionomycin. IFN-γ expression by NK and CD8+ T-cells was quantified by 
+flow  cytometry.  H-  Graph  shows  the  percentage  of  IFN-γ-expressing  CD8+  T-cells  or  NK  cells. 
+Splenocytes were isolated after 24h and STAT1 phosphorylation in activated (CD69+) CD8+ T-cells was 
+analyzed by flow cytometry. (I-J) Splenocytes were isolated after 9 days and tetramer+ CD8+ T-cells 
+were analyzed by flow cytometry. Graphs show relative abundance (I) and tetramer gMFIs (J) of 
+tetramer+ CD8+ T-cells. Data are pooled from 3 (A-C, n = 6-12), 2 (D-F, n = 10), 4 (G-J, each dot 
+represents an experiment) independent experiments. STAT1 phosphorylation was normalized to 
+control (IFN-γKO) pSTAT1 MFI. Error bars indicate the median. Comparison between groups was 
+calculated using the two-tailed unpaired Student’s t-test (D-F, I-J) or a Two-way ANOVA and Šidák’s 
+multiple comparison test (A-C, G-H). *P<0.05; **P<0.01; ***P<0.001; NS, not significant.  
+Figure 4: T  are the main CD8+ T-cell source of IFN-γ-during priming 
+VM
+ (A-F) CD8+ T-cells from naïve mice or mice infected with LM-OVA for 24h were sorted and subjected 
+to  scRNA-seq  analysis  (n=3).  A-  Graph-based  clustering  (n=3224  ctrl;  n=3495  LM-OVA)  of  the 
+assembled cell states. B- Heatmap shows the average expression of selected markers. C- Volcanoplot 
+shows specific differentially regulated genes between T  and other CD8+ T-cells. Green dots: genes 
+VM
+with log2 (fold-change) value >0.5 or <-05; Blue dots: genes with an adjusted p value<0.05; Red dots: 
+genes with log2 (fold-change) value >0.5 or <-05 and an adjusted p value<0.05. D- Graph shows the 
+relative frequency of naïve, T  or memory T cells (TM) CD8+ T-cells within the IFN-γ+ CD8+ T-cell 
+VM
+fraction. E- Dot plot shows the average expression of IFN-γ in naïve, T  or TM cells at steady-state 
+VM
+and 24h post LM-OVA infection. F- GREAT mice were infected with either LM-OVA (red) or LM-gp33 
+(blue) and CD8+ T-cell populations among IFN-γ (YFP)+ splenocytes were analyzed by flow cytometry 
+24h after infection. (G-H) CD8+ T from GREAT mice were stimulated in vitro with anti-CD3/-28 (TCR), 
+and the indicated cytokines. IFN-γ production was analyzed by flow cytometry after 24h. I- Mice were 
+transferred with 2x106 GREAT OT-I CD8+ T-cells and infected with LM-OVA (red) or LM-gp33 (orange). 
+IFN-γ (YFP) expression by OT-I was quantified by flow cytometry 24 hours post-infection. J- GREAT 
+mice were infected with LM-OVA and treated with anti-MHC class-I, and anti-IL-12/-18 as indicated. 
+IFN-γ (YFP) production was quantified in CD8+ T-cells 24h post-infection. (K-M) T  clusters from the 
+EMRA
+COMBAT human blood atlas were reanalyzed according to COVID-19 severity. K- Graph-based 
+clustering of the T  clusters. L- Volcanoplot shows specific differentially regulated genes between 
+EMRA
+T  and other T . Green dots: genes with log2 (fold-change) value >0.5 or <-05; Blue dots: genes 
+VM EMRA
+with an adjusted p value<0.05; Red dots: genes with log2 (fold-change) value >0.5 or <-05 and an 
+  16 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531375; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+adjusted p value<0.05. M- Violinplot shows the percentage of T  that are T  according to disease 
+EMRA VM
+state and severity. Each dot is a patient. Pairwise group comparisons with two-sided Wilcoxon signed-
+rank test. Data are pooled from 3 (F-H, n = 6-12) or 4 (I-J, each dot represents an experiments) 
+independent experiments. Error bars indicate the median (F, I-J) or mean ± s.e.m (G-H). *P<0.05; 
+**P<0.01; ***P<0.001; NS, not significant. 
+Figure 5: IFN-γR deletion in CD8+ T-cells does not regulate overall differentiation and TCR diversity. 
+(A-C, F-G) CD8-IFN-γRKO and WT mice were infected with LM-OVA, tetramer+ CD8+ T-cells were sorted 
+from spleens 9 days post infection and subjected to scRNA-seq and scTCR-seq analysis (n=4). A- Graph-
+based clustering (n=5646 WT; n=4837 CD8-IFN-γRKO) of the assembled differentiation states. B- 
+ViolinPlot shows the expression of selected markers. C- Plot shows the average gene expression of WT 
+and  CD8-IFN-γRKO  clusters.  (D-E)  CD8-IFN-γRKO  and  WT  mice  were  infected  with  LM-OVA  and 
+splenocytes were isolated 9 days post-infection to analyze the relative abundance of SLEC (D) and 
+MPEC (E) cells by flow cytometry. (F) Relative TCR clonal diversity (Shannon index) by cell state and 
+genotype extracted from scTCR-seq analysis. (G) Clonal overlap between the cycling cluster and the 
+other clusters from scTCR-seq analysis. Data are pooled from 9 (D-E, n = 27) independent experiments. 
+Error bars indicate the median. Comparison between groups was calculated using the two-tailed 
+unpaired Student’s t-test. *P<0.05; **P<0.01; ***P<0.001; NS, not significant.  
+Figure 6: IFN-γR deletion in CD8+ T-cells lowers the avidity of CD8+ T-cell memory responses. 
+(A-C) WT mice were transferred with 50,000 ad-mixed WT and IFN-γRKO OT-I T-cells and infected with 
+LM expressing the indicated OVA peptides. Spleens were isolated 9 days post-infection to analyze the 
+relative abundance of SLEC (A) and MPEC (B) within the transferred OT-I population by flow 
+cytometry. C- Mice were re-challenged after at least 60 days with LM-OVA and spleens were isolated 
+5 days after rechallenge to analyze OT-I T-cells expansion by flow cytometry. Data are expressed as 
+the ratio between IFN-γRKO and WT OT-I cell number. (D-G) CD8-IFN-γRKO (red) and WT (grey) mice 
+were infected with LM-OVA. (D-E) Splenocytes were isolated after 9 days and analyzed by flow 
+cytometry. D- Representative histograms of tetramer staining within the SLEC and MPEC populations. 
+(E-F) Normalized tetramer-staining of SLEC (E) and MPEC (F). G- Mice were re-challenged 60 days post-
+infection with LM-OVA and normalized tetramer gMFI was analyzed by flow cytometry after 5 days. 
+(H-L) CD8-IFN-γRKO (red) and WT (grey) mice were infected with X31-OVA. Mice were re-challenged 
+60 days post-infection with PR8-OVA. Tissues were harvested after 5 days and stained for CD8 T-cells 
+and the indicated tetramer. H- Graph shows normalized N4-tetramer gMFI. (I-J) Graphs show the 
+percentage of NP68 tetramer+ CD8+ T-cells in the LN (I) and lung (J). (K-L) Graphs show normalized 
+NP  tetramer gMFI in the LN (K) and lung (L). Data are pooled from 3 (A-C, n = 6), 7 (E-F, each dot 
+68
+represents an experiment) or 5 (G, each dot represents an experiment) independent experiments. 
+Tetramer-binding gMFIs of CD8-IFN-γRKO samples were normalized to mean WT expression within 
+each independent experiment. Error bars indicate the median. Comparison between groups was 
+calculated using the two-tailed unpaired Student’s t-test. *P<0.05; **P<0.01; ***P<0.001; NS, not 
+significant.  
+References 
+Ahern, David J., Zhichao Ai, Mark Ainsworth, Chris Allan, Alice Allcock, Brian Angus, M. Azim Ansari, et 
+al. 2022. “A Blood Atlas of COVID-19 Defines Hallmarks of Disease Severity and Specificity.” Cell 
+185 (5): 916-938.e58. https://doi.org/10.1016/j.cell.2022.01.012. 
+Alexander-Miller, Martha A. 2005. “High-Avidity CD8+ T Cells: Optimal Soldiers in the War against 
+Viruses and Tumors.” Immunologic Research 31 (1): 13–24. https://doi.org/10.1385/IR:31:1:13. 
+Almeida, Jorge R., David A. Price, Laura Papagno, Zaïna Aït Arkoub, Delphine Sauce, Ethan Bornstein, 
+Tedi E. Asher, et al. 2007. “Superior Control of HIV-1 Replication by CD8+ T Cells Is Reflected by 
+Their Avidity, Polyfunctionality, and Clonal Turnover.” Journal of Experimental Medicine 204 (10): 
+2473–85. https://doi.org/10.1084/jem.20070784. 
+  17 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531375; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+Andreatta, Massimo, and Santiago J. Carmona. 2021. “UCell: Robust and Scalable Single-Cell Gene 
+Signature  Scoring.”  Computational  and  Structural  Biotechnology  Journal  19:  3796–98. 
+https://doi.org/10.1016/j.csbj.2021.06.043. 
+Bacher, Petra, Elisa Rosati, Daniela Esser, Gabriela Rios Martini, Carina Saggau, Esther Schiminsky, 
+Justina  Dargvainiene,  et  al.  2020.  “Low-Avidity  CD4+  T  Cell  Responses  to  SARS-CoV-2  in 
+Unexposed Individuals and Humans with Severe COVID-19.” Immunity 53 (6): 1258-1271.e5. 
+https://doi.org/10.1016/j.immuni.2020.11.016. 
+Badovinac, Vladimir P, Amy R Tvinnereim, and John T Harty. 2000. “Regulation of Antigen-Specific 
+CD8+  T  Cell  Homeostasis  by  Perforin  and  Interferon-γ.”  Science  290  (5495):  1354–57. 
+https://doi.org/10.1126/science.290.5495.1354. 
+Berger, Christoph T., Nicole Frahm, David A. Price, Beatriz Mothe, Musie Ghebremichael, Kari L. 
+Hartman,  Leah  M.  Henry,  et  al.  2011.  “High-Functional-Avidity  Cytotoxic  T  Lymphocyte 
+Responses to HLA-B-Restricted Gag-Derived Epitopes Associated with Relative HIV Control.” 
+Journal of Virology 85 (18): 9334–45. https://doi.org/10.1128/jvi.00460-11. 
+Bhat, Purnima, Graham Leggatt, Nigel Waterhouse, and Ian H Frazer. 2017. “Interferon-γ Derived from 
+Cytotoxic Lymphocytes Directly Enhances Their Motility and Cytotoxicity.” Cell Death \& Disease 
+8 (6): e2836. https://doi.org/10.1038/cddis.2017.67. 
+Borcherding, Nicholas, Nicholas L. Bormann, and Gloria Kraus. 2020. “ScRepertoire: An R-Based Toolkit 
+for  Single-Cell  Immune  Receptor  Analysis.”  F1000Research  9:  1–17. 
+https://doi.org/10.12688/f1000research.22139.2. 
+Buchholz, Veit R., Michael Flossdorf, Inge Hensel, Lorenz Kretschmer, Bianca Weissbrich, Patricia Gräf, 
+Admar Verschoor, Matthias Schiemann, Thomas Höfer, and Dirk H. Busch. 2013. “Disparate 
+Individual  Fates  Compose  Robust  CD8+  T  Cell  Immunity.”  Science  340  (6132):  630–35. 
+https://doi.org/10.1126/science.1235454. 
+Buchholz, Veit R, Ton N M Schumacher, and Dirk H Busch. 2016. “T Cell Fate at the Single-Cell Level.” 
+Annual Review of Immunology 34 (1): 1–28. https://doi.org/10.1146/annurev-immunol-032414-
+112014. 
+Butz, Eric A., and Michael J. Bevan. 1998. “Massive Expansion of Antigen-Specific CD8+ T Cells during 
+an  Acute  Virus  Infection.”  Immunity  8  (2):  167–75.  https://doi.org/10.1016/S1074-
+7613(00)80469-0. 
+Castro, Flávia, Ana Patrícia Cardoso, Raquel Madeira Gonçalves, Karine Serre, and Maria José Oliveira. 
+2018.  “Interferon-Gamma  at  the  Crossroads  of  Tumor  Immune  Surveillance  or  Evasion.” 
+Frontiers in Immunology 9: 847. https://doi.org/10.3389/fimmu.2018.00847. 
+Cox, Maureen A., Scott R. Barnum, Daniel C. Bullard, and Allan J. Zajac. 2013. “ICAM-1-Dependent 
+Tuning of Memory CD8 T-Cell Responses Following Acute Infection.” Proceedings of the National 
+Academy  of  Sciences  of  the  United  States  of  America  110  (4):  1416–21. 
+https://doi.org/10.1073/pnas.1213480110. 
+Dolton, Garry, Katie Tungatt, Angharad Lloyd, Valentina Bianchi, Sarah M Theaker, Andrew Trimby, 
+Christopher J Holland, et al. 2015. “More Tricks with Tetramers: A Practical Guide to Staining T 
+Cells  with  Peptide–MHC  Multimers.”  Immunology  146  (1):  11–22. 
+https://doi.org/10.1111/imm.12499. 
+Dolton, Garry, Efthalia Zervoudi, Cristina Rius, Aaron Wall, Hannah L Thomas, Anna Fuller, Lorraine 
+Yeo, et al. 2018. “Optimized Peptide–MHC Multimer Protocols for Detection and Isolation of 
+Autoimmune  T-Cells.”  Frontiers  in  Immunology  9:  1378. 
+https://doi.org/10.3389/fimmu.2018.01378. 
+Gérard, Audrey, Omar Khan, Peter Beemiller, Erin Oswald, Joyce Hu, Mehrdad Matloubian, and 
+Matthew  F  Krummel.  2013.  “Secondary  T  Cell–T  Cell  Synaptic  Interactions  Drive  the 
+Differentiation  of  Protective  CD8+  T  Cells.”  Nature  Immunology  14  (4):  356–63. 
+https://doi.org/10.1038/ni.2547. 
+Gerlach, Carmen, E. Ashley Moseman, Scott M. Loughhead, David Alvarez, Anthonie J. Zwijnenburg, 
+Lisette Waanders, Rohit Garg, Juan C. de la Torre, and Ulrich H. von Andrian. 2016. “The 
+  18 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531375; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+Chemokine  Receptor  CX3CR1  Defines  Three  Antigen-Experienced  CD8 T  Cell  Subsets  with 
+Distinct  Roles  in  Immune  Surveillance  and  Homeostasis.”  Immunity  45  (6):  1270–84. 
+https://doi.org/10.1016/j.immuni.2016.10.018. 
+Gerlach, Carmen, Jan C. Rohr, Leïla Perié, Nienke Van Rooij, Jeroen W.J. Van Heijst, Arno Velds, Jos 
+Urbanus, et al. 2013. “Heterogeneous Differentiation Patterns of Individual CD8+ T Cells.” 
+Science 340 (6132): 635–39. https://doi.org/10.1126/science.1235487. 
+Gocher, Angela M, Creg J Workman, and Dario A A Vignali. 2021. “Interferon-γ: Teammate or 
+Opponent  in  the  Tumour  Microenvironment?”  Nature  Reviews  Immunology,  1–15. 
+https://doi.org/10.1038/s41577-021-00566-3. 
+Hebeisen, Michael, Susanne G. Oberle, Danilo Presotto, Daniel E. Speiser, Dietmar Zehn, and Nathalie 
+Rufer. 2013. “Molecular Insights for Optimizing T Cell Receptor Specificity against Cancer.” 
+Frontiers in Immunology 4 (JUN): 1–10. https://doi.org/10.3389/fimmu.2013.00154. 
+Hillaire, M. L.B., G. F. Rimmelzwaan, and J. H.C.M. Kreijtz. 2013. “Clearance of Influenza Virus 
+Infections by T Cells: Risk of Collateral Damage?” Current Opinion in Virology 3 (4): 430–37. 
+https://doi.org/10.1016/j.coviro.2013.05.002. 
+Hussain, Tabinda, and Kylie M Quinn. 2019. “Similar but Different: Virtual Memory CD8 T Cells as a 
+Memory-like  Cell  Population.”  Immunology  and  Cell  Biology  97  (7):  675–84. 
+https://doi.org/10.1111/imcb.12277. 
+Ioannidou, Kalliopi, Petra Baumgaertner, Philippe O. Gannon, Michel F. Speiser, Mathilde Allard, 
+Michael Hebeisen, Nathalie Rufer, and Daniel E. Speiser. 2017. “Heterogeneity Assessment of 
+Functional  T  Cell  Avidity.”  Scientific  Reports  7  (March):  1–11. 
+https://doi.org/10.1038/srep44320. 
+Kaech, Susan M, and Weiguo Cui. 2012. “Transcriptional Control of Effector and Memory CD8+ T Cell 
+Differentiation.” Nature Reviews Immunology 12 (11): 749–61. https://doi.org/10.1038/nri3307. 
+Kavazović, Inga, Hongya Han, Giulia Balzaretti, Erik Slinger, Niels A W Lemmermann, Anja ten Brinke, 
+Doron Merkler, et al. 2020. “Eomes Broadens the Scope of CD8 T-Cell Memory by Inhibiting 
+Apoptosis  in  Cells  of  Low  Affinity.”  PLOS  Biology  18  (3):  e3000648. 
+https://doi.org/10.1371/journal.pbio.3000648. 
+King, Carolyn G, Sabrina Koehli, Barbara Hausmann, Mathias Schmaler, Dietmar Zehn, and Ed Palmer. 
+2012. “T Cell Affinity Regulates Asymmetric Division, Effector Cell Differentiation, and Tissue 
+Pathology.” Immunity 37 (4): 709–20. https://doi.org/10.1016/j.immuni.2012.06.021. 
+Knudson, Karin M., Nicholas P. Goplen, Cody A. Cunningham, Mark A. Daniels, and Emma Teixeiro. 
+2013. “Low-Affinity T Cells Are Programmed to Maintain Normal Primary Responses but Are 
+Impaired  in  Their  Recall  to  Low-Affinity  Ligands.”  Cell  Reports  4  (3):  554–65. 
+https://doi.org/10.1016/j.celrep.2013.07.008. 
+Krummel, Matthew F, Jagdish N Mahale, Lion F K Uhl, Emily A Hardison, Adriana M Mujal, Julie M 
+Mazet, Robert J Weber, Zev J Gartner, and Audrey Gérard. 2018. “Paracrine Costimulation of IFN-
+γ Signaling by Integrins Modulates CD8 T Cell Differentiation.” Proceedings of the National 
+Academy of Sciences 115 (45): 201804556. https://doi.org/10.1073/pnas.1804556115. 
+Laugel, Bruno, Hugo A van den Berg, Emma Gostick, David K Cole, Linda Wooldridge, Jonathan Boulter, 
+Anita Milicic, David A Price, and Andrew K Sewell. 2007. “Different T Cell Receptor Affinity 
+Thresholds and CD8 Coreceptor Dependence Govern Cytotoxic T Lymphocyte Activation and 
+Tetramer  Binding  Properties*.”  Journal  of  Biological  Chemistry  282  (33):  23799–810. 
+https://doi.org/10.1074/jbc.m700976200. 
+Lee, Sang Hun, Javier A. Carrero, Ravindra Uppaluri, J. Michael White, Jessica M. Archambault, Koon 
+Siew Lai, Szeman Ruby Chan, Kathleen C. F. Sheehan, Emil R. Unanue, and Robert D. Schreiber. 
+2013. “ Identifying the Initiating Events of Anti- Listeria Responses Using Mice with Conditional 
+Loss of IFN-γ Receptor Subunit 1 (IFNGR1) .” The Journal of Immunology 191 (8): 4223–34. 
+https://doi.org/10.4049/jimmunol.1300910. 
+Maekawa, Yoichi, Yoshiaki Minato, Chieko Ishifune, Takeshi Kurihara, Akiko Kitamura, Hidefumi 
+Kojima, Hideo Yagita, et al. 2008. “Notch2 Integrates Signaling by the Transcription Factors RBP-
+  19 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531375; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+J  and  CREB1  to  Promote  T  Cell  Cytotoxicity.”  Nature  Immunology  9  (10):  1140–47. 
+https://doi.org/10.1038/ni.1649. 
+Martinez, Ryan J., Rakieb Andargachew, Hunter A. Martinez, and Brian D. Evavold. 2016. “Low-Affinity 
+CD4+ T Cells Are Major Responders in the Primary Immune Response.” Nature Communications 
+7 (December): 13848. https://doi.org/10.1038/ncomms13848. 
+Martinez, Ryan J., and Brian D. Evavold. 2015. “Lower Affinity T Cells Are Critical Components and 
+Active Participants of the Immune Response.” Frontiers in Immunology 6 (September): 468. 
+https://doi.org/10.3389/fimmu.2015.00468. 
+Mazet, Julie M., Jagdish N. Mahale, Orion Tong, Robert A. Watson, Ana Victoria Lechuga-Vieco, 
+Gabriela Pirgova, Vivian W.C. Lau, et al. 2023. “IFNγ Signaling in Cytotoxic T Cells Restricts Anti-
+Tumor Responses by Inhibiting the Maintenance and Diversity of Intra-Tumoral Stem-like T 
+Cells.” Nature Communications 14 (1): 1–21. https://doi.org/10.1038/s41467-023-35948-9. 
+Moran, Amy E, Keli L Holzapfel, Yan Xing, Nicole R Cunningham, Jonathan S Maltzman, Jennifer Punt, 
+and Kristin A Hogquist. 2011. “T Cell Receptor Signal Strength in Treg and INKT Cell Development 
+Demonstrated by a Novel Fluorescent Reporter Mouse.” The Journal of Experimental Medicine 
+208 (6): 1279–89. https://doi.org/10.1084/jem.20110308. 
+Pace, Luigia, Andy Tempez, Catharina Arnold-Schrauf, Fabrice Lemaitre, Philippe Bousso, Luc Fetler, 
+Tim Sparwasser, and Sebastian Amigorena. 2012. “Regulatory T Cells Increase the Avidity of 
+Primary  CD8+  T  Cell  Responses  and  Promote  Memory.”  Science  338  (6106):  532–36. 
+https://doi.org/10.1126/science.1227049. 
+Pettmann, Johannes, Anna Huhn, Enas Abu Shah, Mikhail A. Kutuzov, Daniel B. Wilson, Michael L. 
+Dustin, Simon J. Davis, P. Anton van der Merwe, and Omer Dushek. 2021. “The Discriminatory 
+Power of the t Cell Receptor.” ELife 10: 1–42. https://doi.org/10.7554/eLife.67092. 
+Reinhardt, R Lee, Hong-Erh Liang, and Richard M Locksley. 2009. “Cytokine-Secreting Follicular T Cells 
+Shape  the  Antibody  Repertoire.”  Nature  Immunology  10  (4):  385–93. 
+https://doi.org/10.1038/ni.1715. 
+Richard, Arianne C., Aaron T. L. Lun, Winnie W. Y. Lau, Berthold Göttgens, John C. Marioni, and Gillian 
+M. Griffiths. 2018. “T Cell Cytolytic Capacity Is Independent of Initial Stimulation Strength.” 
+Nature Immunology 19 (8): 849–58. https://doi.org/10.1038/s41590-018-0160-9. 
+Richer, Martin J., Jeffrey C. Nolz, and John T. Harty. 2013. “Pathogen-Specific Inflammatory Milieux 
+Tune the Antigen Sensitivity of CD8+ T Cells by Enhancing T Cell Receptor Signaling.” Immunity 
+38 (1): 140–52. https://doi.org/10.1016/j.immuni.2012.09.017. 
+Rutishauser, Rachel L., and Susan M. Kaech. 2010. “Generating Diversity: Transcriptional Regulation 
+of Effector and Memory CD8+ T-Cell Differentiation.” Immunological Reviews 235 (1): 219–33. 
+https://doi.org/10.1111/j.0105-2896.2010.00901.x. 
+Schober, Kilian, Florian Voit, Simon Grassmann, Thomas R Müller, Joel Eggert, Sebastian Jarosch, 
+Bianca Weißbrich, et al. 2020. “Reverse TCR Repertoire Evolution toward Dominant Low-Affinity 
+Clones  during  Chronic  CMV  Infection.”  Nature  Immunology  21  (4):  434–41. 
+https://doi.org/10.1038/s41590-020-0628-2. 
+Sercan, Özen, Diana Stoycheva, Günter J Hämmerling, Bernd Arnold, and Thomas Schüler. 2010. “IFN-
+γ Receptor Signaling Regulates Memory CD8+ T Cell Differentiation.” The Journal of Immunology 
+184 (6): 2855–62. https://doi.org/10.4049/jimmunol.0902708. 
+Shakiba, Mojdeh, Paul Zumbo, Gabriel Espinosa-Carrasco, Laura Menocal, Friederike Dündar, Sandra 
+E. Carson, Emmanuel M. Bruno, et al. 2021. “TCR Signal Strength Defines Distinct Mechanisms of 
+T  Cell  Dysfunction  and  Cancer  Evasion.”  Journal  of  Experimental  Medicine  219  (2). 
+https://doi.org/10.1084/jem.20201966. 
+Simon,  Sylvain,  Virginie  Vignard,  Laetitia  Florenceau,  B.  Dreno,  A.  Khammari,  F.  Lang,  and  N. 
+Labarriere.  2016.  “PD-1  Expression  Conditions  T  Cell  Avidity  within  an  Antigen-Specific 
+Repertoire.” OncoImmunology 5 (1): 1–11. https://doi.org/10.1080/2162402X.2015.1104448. 
+Smith, A. L., M. E. Wikstrom, and B. Fazekas de. 2000. “Visualizing T Cell Competition for Peptide/MHC 
+Complexes: A Specific Mechanism to Minimize the Effect of Precursor Frequency.” Immunity 13 
+  20 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531375; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+(6): 783–94. https://doi.org/10.1016/S1074-7613(00)00076-5. 
+Solouki, Sabrina, Weishan Huang, Jessica Elmore, Candice Limper, Fei Huang, and Avery August. 2020. 
+“ TCR Signal Strength and Antigen Affinity Regulate CD8 + Memory T Cells .” The Journal of 
+Immunology 205 (5): 1217–27. https://doi.org/10.4049/jimmunol.1901167. 
+Stemberger, Christian, Katharina M Huster, Martina Koffler, Florian Anderl, Matthias Schiemann, 
+Hermann Wagner, and Dirk H Busch. 2007. “A Single Naive CD8+ T Cell Precursor Can Develop 
+into  Diverse  Effector  and  Memory  Subsets.”  Immunity  27  (6):  985–97. 
+https://doi.org/10.1016/j.immuni.2007.10.012. 
+Tewari, Kavita, Yumi Nakayama, and M Suresh. 2007. “Role of Direct Effects of IFN-γ on T Cells in the 
+Regulation  of  CD8  T  Cell  Homeostasis.”  The  Journal  of  Immunology  179  (4):  2115–25. 
+https://doi.org/10.4049/jimmunol.179.4.2115. 
+Thiele, Daniel, Nicole L La Gruta, Angela Nguyen, and Tabinda Hussain. 2020. “Hiding in Plain Sight: 
+Virtually Unrecognizable Memory Phenotype CD8+ T Cells.” International Journal of Molecular 
+Sciences 21 (22): 8626. https://doi.org/10.3390/ijms21228626. 
+van Gisbergen,  Klaas P.J.M.,  Paul L.  Klarenbeek,  Natasja A.M.  Kragten,  Peter-Paul A.  Unger, 
+Marieke B.B. Nieuwenhuis, Felix M. Wensveen, Anja ten Brinke, et al. 2011. “The Costimulatory 
+Molecule CD27 Maintains Clonally Diverse CD8+ T Cell Responses of Low Antigen Affinity to 
+Protect  against  Viral  Variants.”  Immunity  35  (1):  97–108. 
+https://doi.org/10.1016/J.IMMUNI.2011.04.020. 
+Viegas, Nuno, Lisa Andzinski, Ching Fang Wu, Ronja Melinda Komoll, Nelson Gekara, Kurt E. Dittmar, 
+Siegfried Weiss, and Jadwiga Jablonska. 2013. “IFN-γ Production by CD27+ NK Cells Exacerbates 
+Listeria Monocytogenes Infection in Mice by Inhibiting Granulocyte Mobilization.” European 
+Journal of Immunology 43 (10): 2626–37. https://doi.org/10.1002/eji.201242937. 
+Viganò, Selena, Daniel T. Utzschneider, Matthieu Perreau, Giuseppe Pantaleo, Dietmar Zehn, and 
+Alexandre Harari. 2012. “Functional Avidity: A Measure to Predict the Efficacy of Effector T 
+Cells?” Clinical and Developmental Immunology 2012. https://doi.org/10.1155/2012/153863. 
+White, Jason T, Eric W Cross, Matthew A Burchill, Thomas Danhorn, Martin D McCarter, Hugo R Rosen, 
+Brian O’Connor, and Ross M Kedl. 2016. “Virtual Memory T Cells Develop and Mediate Bystander 
+Protective Immunity in an IL-15-Dependent Manner.” Nature Communications 7 (1): 11291. 
+https://doi.org/10.1038/ncomms11291. 
+Whitmire, Jason K. 2011. “Induction and Function of Virus-Specific CD4+ T Cell Responses.” Virology 
+411 (2): 216–28. https://doi.org/10.1016/j.virol.2010.12.015. 
+Whitmire, Jason K, Boreth Eam, Nicola Benning, and J Lindsay Whitton. 2007. “Direct Interferon-γ 
+Signaling Dramatically Enhances CD4+ and CD8+ T Cell Memory.” The Journal of Immunology 179 
+(2): 1190–97. https://doi.org/10.4049/jimmunol.179.2.1190. 
+Wong, Phillip, and Eric G. Pamer. 2003. “CD8 T Cell Responses to Infectious Pathogens.” Annual Review 
+of Immunology 21 (2): 29–70. https://doi.org/10.1146/annurev.immunol.21.120601.141114. 
+Yerly, Daniel, David Heckerman, Todd M. Allen, John V. Chisholm, Kellie Faircloth, Caitlyn H. Linde, 
+Nicole Frahm, et al. 2008. “Increased Cytotoxic T-Lymphocyte Epitope Variant Cross-Recognition 
+and Functional Avidity Are Associated with Hepatitis C Virus Clearance.” Journal of Virology 82 
+(6): 3147–53. https://doi.org/10.1128/jvi.02252-07. 
+Zehn, Dietmar, Sarah Y Lee, and Michael J Bevan. 2009. “Complete but Curtailed T-Cell Response to 
+Very Low-Affinity Antigen.” Nature 458 (7235): 211–14. https://doi.org/10.1038/nature07657. 
+Zenke, Simon, Margriet M Palm, Julia Braun, Alina Gavrilov, Philippa Meiser, Jan P Böttcher, Niklas 
+Beyersdorf, et al. 2020. “Quorum Regulation via Nested Antagonistic Feedback Circuits Mediated 
+by the Receptors CD28 and CTLA-4 Confers Robustness to T Cell Population Dynamics.” Immunity 
+52 (2): 313--327.e7. https://doi.org/10.1016/j.immuni.2020.01.018. 
+ 
+  21 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531375; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+A B
+WT WT 1/12  lost less than 90% of starting weight
+CD8-IFN-γRKO KO 5/12  lost less than 90% of starting weight
+ns
+100 110
+ns
+ns
+95 ns 100
+%) %)
+ht ( 90 ** ht ( 90
+g g
+Wei Wei
+85 80 WT
+CD8-IFN-γRKO
+80 70
+0 2 4 6 8 10 0 5 10
+Time post infection [d] Time post infection [d]
+C D
+100 100
+WT
+95 CD8-IFN-γRKO al
+v
+%) urvi
+ht ( 90 **** of S 50
+Weig 85 bility 
+a
+b
+80 o WT
+Pr ****
+CD8-IFN-γRKO
+75 0
+0 2 4 6 8 10 0 2 4 6 8 10
+Time post infection [d] Time post infection [d]
+E F G
+Input ns
+Ctrl
+6
+100 ns
+d] ed]
+N4-loaded malise 98 maliz 4
+670Fluor %) [nor 96 %) [nor
+e Ctrl CWDT8-IFN-γR city ( 94 +P-1 ( 2
+KO xi M
+o 92
+N4-loaded ytot LA
+C
+90 0
+WT  KO  WT  KO 
+CD8-IFN-γR CD8-IFN-γR
+CFSE
+H I J
+7 ns 30 ns 15
+**
+40] a.i)
+%) 6 x1 y (
++mer ( + (#) [20 avidit10
+a 5 er e 
+bK-N4 tetr 4 N4 tetram10 N4 relativ 5
+bK- bK-
+3 0 0
+WT  KO  WT  KO  WT  KO 
+CD8-IFN-γR CD8-IFN-γR CD8-IFN-γR
+FFiigguurree  11
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531375; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+A B C D
+Gated on CD8+ Gated on tetramer+ Gated on tetramer+ Gated on tetramer+
+5 ** CD8-IFN-γR 1.6 2.5 ns
+KKOO
+****
+%)4 er)  1.4 zed]2.0
+b+K-N4 tetramer (123 WWTT b-N4 tetramMFI(K[normalized]11..02 +FN-γ(%) [normali11..05
+g I
+0 0.8 0.5
+WT  KO  WT  KO  WT  KO 
+Kb-N4 tetramer (AF647)
+CD8-IFN-γR CD8-IFN-γR CD8-IFN-γR
+E F G H
+100 100
+WT
+15 CD8-IFN-γRKO 5
+* *
+x) 75 x) 75
+a a 4
++(% of mIFN-γ 50 -11C (x10)[M]50105 +IFN-γ(% of m 50 -10C (x10)[M]5023
+25 E 25 E
+1
+WT
+CD8-IFN-γRKO
+0 0 0 0
+-13 -12 -11 -10 -9 -8 -12 -11 -10 -9 -8
+WT  KO  WT  KO 
+log  N4 [M]
+10 CD8-IFN-γR log10 N4 [M] CD8-IFN-γR
+I J K
+100
+N2.0 **
+WT 0p 2.5 ***
+0 *
+CD8-IFN-γRKO 0
+75 1 **
+%) g at 1.5 WT2.0
+ells ( 50 ndin KO/1.5
+und T-c T-cell bi1.0 FN-γR 1.0
+Bo 25 zed 0.5 T-I I
+ali O0.5
+m
+or
+0 N0.0 0.0
+0 250 500 750 1000
+WT  KO  4 4 7 4 4
+N T H V G
+Force (pN) CD8-IFN-γR Q4
+LM-OVAp
+Figure 2
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531375; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+A ns B ns C
+10 ** ** 2.5 ** ** ns
+4000
+%) 8 er)  2.0 ns ns
++etramer ( 46 N4 tetrammalized]11..05 FI (CD3) 23000000
+b-N4 tK 2 b-MFI(K[nor0.5 gM 1000
+g
+0 0.0 0
+- 24h +d6 - 24h +d6 - 24h +d6
+16- d5 16- d5 16- d5
+anti-IFN-γ anti-IFN-γ  anti-IFN-γ
+D E F
+d9 post-infection d9 post-infection
+8 15 1.5
+**** ns ns
+6 %) er) 
+s (%) +mer ( 10 etramzed] 1.0
+ell 4 a 4 tali
+NK c 4 tetr 5 bK-Nnorm 0.5
+2 bK-N MFI([
+g
+0 0 0.0
+anti- anti- anti-
+Mock Mock Mock
+NK1.1 NK1.1 NK1.1
+G H I J
+       IFN-γ KO
+24h post-infection d9 post-infection d9 post-infection
+       CD8-IFN-γ KO
+       CD8-IFN-γ WT 3.0 20 1.4
+ns **
+50
+**
+**** 2.5 **** %) 15 er) 
++N-γ cells (%)234000 ns MFI (pSTAT1) normalised] 12..50 +4 tetramer ( 10 bK-N4 tetramnormalized]11..02
+IF10 g [ 1.0 bK-N 5 MFI([
+g
+0 0.5 0 0.8
+ImCmDu8ne celNl sKu1b.t1ype N-γ KO W T KO        CWDT8-IFNK-Oγ        CWDT8-IFNK-γO
+F
+ I        CD8-IFN-γ
+Figure 3
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531375; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+A B C
+Naive T TM
+VM
+Ccr7
+Sell Expression
+200
+3 Lef1 -1.0
+Cd44 P
+2_ Naive ENokmg7es -00..50 go01
+PAM0 Cxcr3 0.5 L-100
+U Tbx21 1.0
+Il2rb
+-3
+Cd5
+TVM Itga4
+TM
+Cx3cr1
+0
+-6
+-5.0 -2.5 0.0 2.5 5.0 -2.5 0.0 2.5 5.0
+UMAP_1 UMAP_1
+D E F
+80 ****
+****
+% Expressing Cells 80 ****
+****
++% of IFN-γ cells that are 246000 NaTTivVMTTeMV   M(((MLLL  (M(MMccoo---OOOnnttVVVrrooAAAll))))) Average E1234500x00000..p05ression +% of IFN-γ cells that are246000
+-0.5
+0 Naive (control)
+-1.0  0
+Naive T TM
+VM aive T VM TM aive T VM TM
+N N
+LM-OVA LM-gp33
+G ns H I J
+25 **** 60 **** 50 *** *** 8 ***
+**
+20 %)40
++N-γ cells (%) 1105 **** +N-γ cells (%) 2400 nsns **** +γ OT-I cells (2300 + cells (%)N-γ 46
+IF 5 IF IFN-10 IF 2
+0 0 0 0
+TCR - + + + + - - TCR - - - - + + + + Naive OVA gp33 a-IL-12/-18     -         -       +     
+IL-12 - - - - + + + +
+IL-12 - - + + - + - IL-18 - - - - + + + + a-MHC-I     -        +       +    
+LM
+IL-18 - - + - + - + IL-2 - + - - - + - -
+IL-7 - - + - - - + -
+IL-15 - - - + - - - +
+K L M   Kruskal-Wallis, p = 0.014
+0.013
+2.00 T  clusters
+4 EMRA
+0.74
+e
+u A
+21.75 val RME 0.024
+_PAMU11..2550 71 2 rIeFsNp. 3 65 XCL1/2 -log adjusted p-1015000 T nihtiw T fo noMV00..24
+0 itro
+1.2 1.4 1.6 1.8 2.0 -1.0 -0.5 0.0 0.5 1.0 po 0
+UMAP_1 log2 fold change rP Healthy COVID COVID
+mild severe
+Figure 4
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531375; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+A B
+CD8-IFN-γRKO WT 4 Klrg1
+6
+2
+Sell
+le 2
+3 ve Eomes
+L
+ n 2
+2_ ois Tbx21
+PAM0 serp 6 Ccl5
+U xE 3
+Cx3cr1
+-3
+3
+Mki67
+-6 C x 3 cr1C- x 3 cr1+ S L E C C y clin g
+-5 0 5 10 -5 0 5 10
+MPEC
+UMAP_1
+C 6 SLEC Cycling Cx3cr1- MPEC Cx3cr1+ MPEC
+4 4 4
+O 4
+K
+R
+γ
+-N
+F 2 2 2 2
+I-8
+D
+C
+0 0 0 0
+0 2 4 6 0 2 4 0 2 4 0 2 4
+WT
+D E F WT G WT
+CD8-IFN-γRKO CD8-IFN-γRKO
+100 30 3.4 ns ns ns ns 0.5 ns ns *
+ns ns
+Cs (%)6800 Cs (%) 20 CR diversity33..02 with Cycling00..34
+SLE40 MPE10 nal T2.8 erlap 0.2
+o v
+20 Cl2.6 O0.1
+0 0 2.4 0.0
+CWD8T-IFNK-γOR CWD8T-IFNK-γOR Cx3cr1-Cx3cr1+ SLECCycling Cx3cr1- Cx3cr1+ SLEC
+MPEC MPEC
+Figure 5
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.06.531375; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is 
+made available under aCC-BY-NC-ND 4.0 International license.
+A B C
+100 OT-I WT 100 OT-I WT 2.0 *
+OT-I IFN-γRKO OT-I IFN-γRKO **
+ns ns ns *** ns
+80 ns ns ns ** 80 WT1.5
+%) %) O/
+Cs (60 Cs (60 γR K1.0
+LE40 PE40 N-
+S M F
+T-I I0.5
+20 20 O
+0 0 0.0
+N4 T4 Q4H7 V4 N4 T4 Q4H7 V4 N4 Q4H7 V4
+LM-OVAp LM-OVAp LM-OVAp
+D E F
+Gated on tetramer+ (AF647) d9 post-infection d9 post-infection
+ns
+1.4 ** 1.4
+SLECs MPECs SLECs 4 tetramer) normalized]11..23 4 tetramer) normalized]1.2
+MPECs bMFI(K-NSLECs [11..01 b-NMFI(KMPECs [1.0
+gof  gof 
+0.9 0.8
+Kb-N4 tetramer (AF647) WT KO WT KO
+CD8-IFN-γR CD8-IFN-γR
+G H
+LM-OVA Influenza-OVA
+1.2 1.5
+* *
+mer)  1.0 mer)  1.0
+etrazed] etrazed]
+4 tali0.8 4 tali
+Nm Nm
+bFI(K-[nor bFI(K-[nor0.5
+M 0.6 M
+g g
+0.0
+WT KO WT KO
+CD8-IFN-γR CD8-IFN-γR
+I J K L
+Lymph Node Lymph Node Lung Lung
+10 * 1.2 50 ** 1.5
+* **
+b+K-NP tetramer (%)68 8246 bMFI(K-NP tetramer) 68[normalized]01..80 b+K-NP tetramer (%)6831240000 bMFI(K-NP tetramer) 68[normalized]01..50
+g 0.6 g
+0 0 0.0
+WT KO WT KO WT KO WT KO
+       CD8-IFN-γR        CD8-IFN-γR        CD8-IFN-γR        CD8-IFN-γR
+Figure 6
+
+NEW PAGE

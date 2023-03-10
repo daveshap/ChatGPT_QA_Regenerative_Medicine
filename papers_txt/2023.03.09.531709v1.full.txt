@@ -1,0 +1,1352 @@
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531709; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+1  Hybrid  immunity  elicits  potent  cross-variant  ADCC  against  SARS-CoV-2  through  a 
+2  combination of anti-S1 and S2 antibodies 
+3   
+4  Running Title: Anti-S1 and S2 antibody responses support robust ADCC 
+5   
+6  Michael D. Grant1†, Kirsten Bentley2†, Ceri A. Fielding2, Keeley M. Hatfield1, Danielle P. Ings1, Debbie 
+7  Harnum3, Eddie Wang2, Richard Stanton2*†, and Kayla A. Holder1*† 
+8  1Immunology and Infectious Diseases Program, Division of BioMedical Sciences, Faculty of Medicine, 
+9  Memorial University of Newfoundland, St. John’s, NL, Canada 
+10  2Division of Infection and Immunity, School of Medicine, Cardiff University, Cardiff, CF14 4XN, UK 
+11  3Eastern Health Regional Health Authority, St. John’s, NL Canada 
+12   
+13  †These authors contributed equally 
+14   
+15   
+16  *Corresponding author: 
+17  Dr. Kayla Holder 
+18  H1803 Immunology 
+19  Faculty of Medicine 
+20  Memorial University of Newfoundland 
+21  300 Prince Phillip Drive  
+22  St. John’s, NL, Canada, A1B 3V6 
+23  Tel: 1-709-864-6565 
+24  email: kayla.holder@mun.ca 
+25   
+26  *Corresponding author: 
+27  Prof. Richard Stanton 
+28  Cardiff University School of Medicine 
+29  Henry Wellcome Building 
+1 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531709; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+30  Heath Park 
+31  Cardiff 
+32  CF14 4XN 
+33  Tel: 029 22 
+34  email: StantonRJ@cardiff.ac.uk 
+35   
+36  *Corresponding author: 
+37  Prof. Michael Grant 
+38  H1803 Immunology 
+39  Faculty of Medicine 
+40  Memorial University of Newfoundland 
+41  300 Prince Phillip Drive  
+42  St. John’s, NL, Canada, A1B 3V6 
+43  Tel: 1-709-864-6569 
+44  email: mgrant@mun.ca   
+2 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531709; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+45  Abstract 
+46  Antibodies capable of neutralising SARS-CoV-2 have been well studied, but the Fc receptor-dependent 
+47  antibody activities that also significantly impact the course of infection have not been studied in such 
+48  depth. SARS-CoV-2 infection induces antibody-dependent NK cell responses targeting multiple antigens, 
+49  however, as most vaccines induce only anti-spike antibodies, we investigated spike-specific antibody-
+50  dependent cellular cytotoxicity (ADCC). Vaccination produced antibodies that only weakly induced ADCC, 
+51  however, antibodies from individuals who were infected prior to vaccination (‘hybrid’ immunity) elicited 
+52  much stronger anti-spike ADCC. Quantitative and qualitative aspects of humoral immunity contributed to 
+53  this capability, with infection skewing IgG antibody production towards S2, vaccination skewing towards 
+54  S1 and hybrid immunity evoking strong responses against both domains. The capacity for hybrid immunity 
+55  to provide superior spike-directed ADCC was associated with selectively increased antibody responses 
+56  against epitopes within both S1 and S2. Antibodies targeting both spike domains were important for 
+57  strong antibody-dependent NK cell activation, with three regions of antibody reactivity outside the 
+58  receptor-binding domain (RBD) corresponding with potent anti-spike ADCC. Consequently, ADCC induced 
+59  by hybrid immunity with ancestral antigen was conserved against variants containing neutralisation 
+60  escape mutations in the RBD [Delta and Omicron (BA.1)]. Induction of antibodies recognizing a broad 
+61  range of spike epitopes and eliciting strong and durable ADCC may partially explain why hybrid immunity 
+62  provides superior protection against infection and disease than vaccination alone, and demonstrates that 
+63  spike-only subunit vaccines would benefit from strategies to induce a combination of S1- and S2-specific 
+64  antibody responses.  
+65  Significance 
+66  Neutralising antibodies prevent the entry of cell-free virus, however, antibodies that promote Fc-
+67  dependent activities such as ADCC are critical to control cell-associated virus. Although current SARS-CoV-
+68  2 vaccines induce potent neutralising antibodies, they fail to induce robust ADCC. Our demonstration that 
+69  hybrid immunity induces superior ADCC with pan-variant activity may partially explain why hybrid 
+70  immunity offers enhanced protection against reinfection. It also highlights that vaccine strategies based 
+71  on expression of the spike subunit alone should not focus solely on inducing antibody responses targeting 
+72  the receptor binding domain. 
+73  Key words: SARS-CoV-2, COVID-19, antibodies, NK cell, ADCC   
+3 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531709; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+74  Introduction 
+75  Humoral immunity against SARS-CoV-2 spike (S) protein is induced by infection and by vaccination with 
+76  any of the predominant COVID-19 vaccines used worldwide, most of which encode S as a single antigen 
+77  (1-3). Anti-S antibodies (Ab) target multiple regions within the protein, but the major focus has been on 
+78  those that neutralise cell-free virions. These primarily bind within the receptor binding domain (RBD) or 
+79  in some cases the N-terminal domain (NTD), both of which are found in the S1 domain of the protein. 
+80  Neutralising Abs block or prevent binding between SARS-CoV-2 and the entry receptor angiotensin 
+81  converting enzyme-2 (ACE-2) or prevent post-binding events required for virus entry (4, 5). They are 
+82  thought to be crucial for reducing transmission of SARS-CoV-2, and thus, are a key measure for predicting 
+83  COVID-19 vaccine efficacy (6). 
+84  Despite their clear importance, neutralising Abs have recognised limitations. The number of neutralising 
+85  epitopes is limited, resulting in rapid selection of SARS-CoV-2 variants with mutations that weaken Ab 
+86  binding to key neutralising sites (7, 8). After approximately 3 years of evolution in the human population, 
+87  SARS-CoV-2 variants of concern have largely escaped the neutralising activity of Abs induced by the 
+88  ancestral S antigen and are continually evolving to evade Abs induced by infection with more recent 
+89  variants. As a result, the efficacy of vaccines at preventing infection is already reduced within months of 
+90  their introduction. Once infection occurs, SARS-CoV-2 can undergo direct cell-cell transmission, which 
+91  further undermines the efficacy of neutralising Ab (9). 
+92  To counteract cell-cell virus spread, Abs are required which, rather than neutralising cell-free virions, 
+93  recognise viral antigens on the surface of infected cells (10). These recruit effector cells such as natural 
+94  killer (NK) cells to kill infected cells through antibody-dependent cellular cytotoxicity (ADCC), thereby 
+95  controlling cell-associated virus. Infection with SARS-CoV-2 readily induces Ab capable of supporting ADCC 
+96  (11) and ADCC is a key determinant of immunological control in animal challenge models (12-21). We and 
+97  others have shown that Ab capable of ADCC are effective at preventing disease in animals even in the 
+98  complete absence of neutralising activity (18, 22). Thus, inducing and maximising this activity through 
+99  vaccination is highly desirable. 
+100  In addition to being a target for neutralising Abs, SARS-CoV-2 S is also expressed on the infected cell 
+101  surface, where it is efficiently bound by Abs (11). Thus, S has the potential to be an effective target for Fc 
+102  receptor (FcR)-mediated NK cell activation, providing a single vaccine antigen capable of inducing Ab 
+103  activity targeting both cell-free and cell-associated virus. Although studies have shown that vaccination 
+4 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531709; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+104  induces  anti-S  Abs capable  of  activating  NK  cells when  tested  against  purified  protein  (23-25)  or 
+105  transfected cells (26-31), our previous study revealed that, when tested against live virus, effective ADCC 
+106  was dominated by Abs targeting nucleocapsid (N), membrane (M), and ORF3a and individuals who had 
+107  only anti-S Abs (i.e. vaccinees with no infection history) demonstrated weak ADCC (11). 
+108  Subsequent studies have made it clear that infection with SARS-CoV-2 prior to vaccination with a S-
+109  encoding vaccine (‘hybrid’ immunity) offers superior protection compared to vaccination or infection 
+110  alone (32-35). To explore Fc-dependent mechanisms that may contribute to this protection, we examined 
+111  quantitative and qualitative aspects of S-induced humoral immunity and its association with ADCC 
+112  potency in individuals who had recovered from infection, who had been vaccinated, or both. 
+113  Results 
+114  Hybrid immunity elicits robust ADCC against S-transduced cells 
+115  As all donors in this study were vaccinated with SARS-CoV-2 S-encoding vaccines, we isolated S-specific 
+116  ADCC from responses targeting other SARS-CoV-2 proteins by testing Abs for their capacity to mediate 
+117  lysis of SARS-CoV-2 S-expressing target cells. A series of plasma dilutions were performed initially to 
+118  establish  optimal  levels  on  a  subset  of  samples  and  plasma  was  diluted  1:1000  for  subsequent 
+119  experiments. This dilution distinguished ADCC from no ADCC for vaccinee and post-infection samples and 
+120  discriminated ADCC levels from hybrid immunity across a wide range without plateauing. 
+121  There was minimal background ADCC against parental (non-transduced) MRC-5 elicited by SARS-CoV-2 
+122  seropositive plasma and against Wuhan-Hu-1 S-expressing MRC-5 (Wu-S-MRC-5) cells by pre-pandemic 
+123  plasma (Figure 1a). Consistent with previous data (11), plasma from participants recovered from SARS-
+124  CoV-2 infection mediated weak S-specific ADCC (mean 7.0% lysis) with Abs from only 13/31 individuals 
+125  inducing > 10% lysis (Figure 1b). Responses were weaker amongst those who were vaccinated and not 
+126  previously infected, with only one participant mediating ADCC > 10% after one vaccination (Figure 1b). A 
+127  second vaccination increased responses with 10/40 individuals demonstrating killing above 10% specific 
+128  lysis (Figure 1b). Nevertheless S-specific ADCC remained low overall, comparable overall to that of 
+129  participants with infection-induced immunity (mean 7.7% lysis; Figure 1b). In contrast, hybrid immunity 
+130  substantially enhanced ADCC (mean 31.3% lysis) with the absolute number of participants mediating > 
+131  10% lysis increasing to 29/31 after a single vaccination (Figure 1b). There was no further increase to ADCC 
+132  within the hybrid group upon second vaccination, however, one additional participant (30/31) mediated 
+133  > 10% ADCC (Figure 1b). 
+5 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531709; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+134  Hybrid immunity induces significant S-specific ADCC against infected cells 
+135  Although cells transfected or transduced to express S provide a platform to isolate S-specific ADCC, Ab-
+136  dependent NK cell responses in the context of virus infection can differ significantly from that with cells 
+137  overexpressing surface protein (11). As 51Cr release assays are incompatible with BSL3 conditions, we 
+138  assessed Ab-dependent NK cell activation (ADNKA) against SARS-CoV-2 infected cells by measuring NK cell 
+139  degranulation (CD107a) as a surrogate for ADCC. 
+140  During infection, ADNKA is dominated by Ab targeting antigens other than S, obscuring increases in S-
+141  specific ADNKA attributed to vaccination (11). To circumvent this issue, we focused on individuals with 
+142  asymptomatic or mild infection (and, therefore, comparatively weak pre-vaccine ADNKA responses) 
+143  followed by vaccination with a S subunit vaccine, and tested sera over a range of dilutions. This allowed 
+144  us to select a dilution at which infection-induced anti-N/M/ORF3a responses had faded, but where a 
+145  significant boost to S-specific ADNKA could be measured following vaccination (Figure 1c) across multiple 
+146  donors (Figure 1d). Although a second vaccine dose enhanced the abundance of ADNKA-capable Ab in 
+147  some donors, such that reactivity was maintained at higher dilutions (Figure 1c), it did not alter maximal 
+148  levels of ADNKA (Figure 1c, d). 
+149  Therefore, anti-S Abs can mediate S-specific Ab-dependent NK cell activity against transduced or infected 
+150  cells. However, these Abs are not efficiently induced by natural infection or vaccination – a hybrid 
+151  combination is required. 
+152  Neutralisation and ADNKA engage different Ab populations 
+153  We next used infected cells to compare S-specific ADNKA responses mediated by hybrid immunity induced 
+154  by mild or severe infection to determine whether S-specific ADNKA provided by hybrid immunity 
+155  approached the level of ADNKA induced by the sum of Ab targeting all SARS-CoV-2 cell-surface proteins 
+156  (i.e. including anti-N/M/ORF3a; Figure 2a) (11). Individuals were further stratified by the vaccine they 
+157  received [adenovirus (AstraZeneca ChAdOx1-S) or mRNA (Pfizer-BioNTech)]. Vaccination alone induced 
+158  weak ADNKA, irrespective of vaccine platform (Figure 2a, b). In contrast, hybrid immunity boosted S-
+159  specific ADNKA to levels comparable to the potent multi-antigen ADNKA response of individuals who had 
+160  recovered from mild infection, but not to the extent of those recovered from severe infection (Figure 2b). 
+161  This pattern was in sharp contrast to the neutralising Ab response, where vaccination induced responses 
+162  comparable to mild infection, and hybrid immunity gave responses comparable to severe infection (Figure 
+163  2c). 
+6 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531709; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+164  To investigate further, we considered the correlation between neutralising and ADNKA Ab titres against 
+165  live virus. Comparisons amongst vaccinated individuals in which ADNKA was primarily driven by anti-S 
+166  responses demonstrated a positive correlation between neutralisation and ADNKA, along with a clear 
+167  hierarchy of responses. Vaccination with adenovirus (AstraZeneca ChAdOx1-S) demonstrated the weakest 
+168  neutralisation and ADNKA activity, mRNA (Pfizer-BioNTech) vaccination induced better ADNKA and 
+169  neutralisation than adenovirus vaccination, and both vaccination regimes were inferior to neutralisation 
+170  and ADNKA induced by hybrid immunity (Figure 2d). Although neutralisation and ADNKA showed positive 
+171  correlations in vaccinees and infected individuals (11), the relationship between the two activities was 
+172  markedly different. For any given level of neutralisation, infection showed superior levels of ADNKA 
+173  compared to vaccination (Figure 2e). Thus, in comparison to infection, S-based vaccines are effective at 
+174  inducing neutralising Abs and less so at inducing ADNKA, consistent with the presence of Abs against 
+175  multiple different ADCC targets following infection.  
+176  Superior ADCC from hybrid immunity is not strictly explained by Ab abundance 
+177  To test whether differences in ADCC between hybrid and vaccine-induced immunity were due in part to 
+178  IgG abundance, we compared ADCC with measurements of total IgG targeting full length S (FLS) and 
+179  individual S1 and S2 subunits. Comparisons were also carried out on IgG  subclass Ab; although IgG  is 
+3 1
+180  most abundant, IgG  supports more potent ADCC (36, 37). 
+3
+181  ADCC positively correlated with amounts of anti-S1 and S2 IgG (Figure 3a) and IgG (Figure 3b) Abs, despite 
+3 
+182  anti-S1 IgG  not being abundant in those recovered from infection (Figure 3b). As the hybrid group 
+3
+183  demonstrated more robust ADCC after first vaccination and there were no significant increases in the 
+184  levels of Abs or ADCC after second vaccination (see below), we focused on responses elicited from the 
+185  hybrid group after one vaccine to contrast with the vaccinees post second vaccination. In both the hybrid 
+186  cohort (PV1) and the vaccine group (PV2), ADCC correlated with increased anti-FLS IgG Ab levels (Figure 
+187  3c). This trend persisted when we compared anti-S1 IgG (Figure 3d) and anti-S2 IgG (Figure 3e) Ab levels 
+188  with ADCC. There was also a significant correlation between levels of anti-FLS IgG  Ab and ADCC in both 
+3
+189  the hybrid and vaccine cohorts (Figure 3f), although this correlation was lost for the hybrid group when 
+190  comparing reactivity against individual S1 and S2 subunits of SARS-CoV-2 S (Figure 3g, h). This may reflect 
+191  that the lower abundance of IgG  results in IgG  having a greater influence on total ADCC activity. 
+3 1
+192  Despite these strong correlations between Ab levels and ADCC within cohorts, there were significant 
+193  differences between the cohorts, with Abs from vaccinees eliciting much weaker ADCC for a given level of 
+7 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531709; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+194  Ab compared to their hybrid counterparts. Thus, although Ab levels influence ADCC activity, Ab abundance 
+195  alone does not explain the superior ADCC induced by hybrid immunity. 
+196  Vaccination, infection, and hybrid immunity induce distinct antibody responses to S1 and S2 
+197  Since strong ADCC induced by hybrid immunity reflects the quality of immune response rather than simply 
+198  abundance of IgG, we investigated the specificity of anti-S Abs following vaccination or hybrid immunity 
+199  in more detail. Circulating IgG Abs against FLS and the individual S1 and S2 domains were measured by 
+200  ELISA after infection, and after first and second vaccinations. Anti-FLS IgG Abs were detected (OD > 0.1) 
+201  from 30/31 of the participants included in the hybrid cohort, and 38/40 of the vaccinated individuals 
+202  (Figure 4a). Within the hybrid cohort, levels of anti-FLS Abs rose significantly after first vaccination, but 
+203  there was no further increase upon second vaccination (Figure 4a). In contrast, Ab levels for the vaccinee 
+204  cohort increased significantly following the second vaccination but remained relatively low (Figure 4a). 
+205  Infection generated IgG Abs against both S1 and S2 domains, however, anti-S2 Ab responses were 
+206  favoured over anti-S1 (Figure 4b). Vaccination after infection increased anti-S1 IgG Ab levels but had no 
+207  significant impact on the levels of anti-S2 IgG Abs, indicating preferential boosting of anti-S1 Ab (Figure 
+208  4b). Similar skewing towards anti-S1 responses following vaccination was also apparent amongst those 
+209  vaccinated with no prior infection, as substantially higher levels of anti-S1 IgG Abs compared with anti-S2 
+210  IgG Abs arose after both first and second vaccinations (Figure 4c). Thus, the anti-S IgG Ab response differs 
+211  following infection or vaccination, with vaccination selectively inducing anti-S1 IgG Abs, while infection-
+212  induced immunity promoted higher levels of anti-S2 IgG Abs. 
+213  Infection history dictates anti-S2 IgG  antibody responses 
+3
+214  In addition to measuring the proportion of total IgG targeting S, we assessed the prevalence of IgG  Abs 
+3
+215  in persons with hybrid or vaccine-induced immunity. Anti-S1 IgG  Ab levels after infection were generally 
+3
+216  low, with only 4/31 participants having OD > 0.1 (Figure 4d), but levels increased after first vaccination 
+217  with anti-S1 IgG  Abs detected in 11/31 participants (Figure 4d). In contrast, anti-S2 IgG  Ab levels were 
+3 3
+218  more substantial following infection, with 21/31 of participants having detectable anti-S2 IgG  Abs (Figure 
+3
+219  4d) and vaccination further improved anti-S2 IgG  Ab levels (Figure 4d). With hybrid immunity, levels of 
+3
+220  anti-S2 IgG  Abs were significantly higher than anti-S1 IgG  Abs and remained stable up to ~5 months. 
+3 3
+221  Vaccination alone resulted in 28/40 individuals producing anti-S1 IgG  Abs after first vaccination and 31/40 
+3
+222  after second vaccination (Figure 4e). One vaccination induced low amounts of anti-S2 IgG  Abs in 16/40 
+3
+223  persons that improved upon second vaccination with 30/40 participants having detectable anti-S2 IgG  
+3
+8 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531709; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+224  Abs (Figure 4e). Compared with hybrid immunity, levels of anti-S1 IgG  Abs outweighed anti-S2 IgG  
+3 3
+225  following a single vaccination, with levels similar following two vaccinations (Figure 4e). Therefore, for 
+226  both total IgG and IgG , infection-induced immunity favoured anti-S2 Ab production, whereas vaccination 
+3
+227  induced more robust anti-S1 Ab levels (Figure 4f, g). The strongest IgG Ab responses against both S1 and 
+228  S2 were seen following hybrid immunity. 
+229  ADCC potency depends on antibodies reactive against both S1 and S2 
+230  To determine whether Abs targeting either or both of the S1 and S2 domains were responsible for potent 
+231  S-specific ADCC following hybrid immunity, we selectively depleted Abs that target different S domains 
+232  and assessed ADNKA against infected cells. ADNKA induced by vaccinee serum was too low to observe 
+233  clear effects following depletion so we focussed solely on donors with hybrid immunity. Using two donors, 
+234  we depleted Abs targeting the entire S trimer, the S1 domain, the S2 domain, or specific NTD or RBD 
+235  domains found within S1. Serums were pre-diluted such that the starting dilution was sufficient to have 
+236  diluted out Abs targeting antigens other than S (Figure 1c). Although depleting Abs targeting NTD or RBD 
+237  alone led to only minor reductions in ADNKA, complete S1 or S2 subunit Ab depletion led to significant 
+238  reductions in both donors (Figure 5a, b), indicating that a combination of Abs targeting S1 and S2 is 
+239  required for robust ADNKA. 
+240  Depleting Abs targeting NTD or RBD yielded smaller reductions in ADNKA than depleting Abs targeting the 
+241  entire S1 domain. The reagents used for NTD and RBD depletion targeted amino acids 16-318 and 319-
+242  541, respectively, while the S1 depletion targeted amino acids 16-685. As the S1 depletion potentially 
+243  removed Abs that targeted 542-685, which were not depleted by RBD or NTD depletion, we repeated this 
+244  experiment and included a double depletion of both NTD and RBD (Figure 5c, d). The RBD/NTD double 
+245  depletion closely mirrored S1 depletion. Combined data from five donors indicated that potent ADNKA 
+246  induced by hybrid immunity was dependent on the presence of Abs reactive to both the S1 and S2 regions, 
+247  as depletion of either region led to a significant loss in ADNKA (Figure 5e). 
+248  Antibody reactivity against three determinants along S correlates with potent ADCC 
+249  Having determined that Abs against both S1 and S2 subunits were important for eliciting strong S-specific 
+250  ADCC, we investigated the fine specificity of Ab responses arising from hybrid immunity by ELISA-based 
+251  peptide scanning. 181 overlapping peptides were coated onto ELISA plates in sequential pairs and IgG Ab 
+252  reactivity was measured. A comparison of Abs reactive to linear regions contained in both S1 and S2 
+253  produced after infection (Figure 6a, blue line) and subsequent vaccination (Figure 6a, orange line) 
+9 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531709; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+254  revealed differential patterns and robustness of Ab reactivity. A heatmap illustrating changing patterns of 
+255  linear Ab epitope reactivity along S before and after vaccination is depicted for 7 participants in the hybrid 
+256  group (Figure 6b). 
+257  Samples obtained after infection alone had Abs recognising fewer S1 and S2 epitopes than matched 
+258  samples following vaccination (Figure 6b), with Ab reactivity against three distinct regions along S 
+259  particularly enriched amongst the hybrid samples  (Figure 6b). These three areas of reactivity are 
+260  contained within the (i) C-terminal domain (CTD) 1 and (ii) CTD2 of S1 and (iii) a region in S2 immediately 
+261  upstream of the heptad repeat 2 (HR2) sequence in the connector domain (CD; Figure 6b). Besides the 
+262  early arising and common D614G mutation, these regions showed no genetic variation between Delta or 
+263  Omicron variants (Figure 6b). 
+264  To illustrate potential associations between ADCC and Ab reactivity against these three regions, we used 
+265  data collected from two persons with infection-induced immunity and subsequent vaccination to depict 
+266  the relationship between ADCC and the magnitude of anti-IgG Ab found in CTD1/2 and CD. In both cases, 
+267  increasing anti-IgG Ab levels specific for each of the three regions paralleled robust increases in ADCC 
+268  (Figure 6c). Further, there were significant associations between ADCC and both the number of ADCC 
+269  determinants to which a participant demonstrated IgG Ab reactivity (Figure 6d) and the cumulative OD 
+270  from the three distinct regions (Figure 6e). Thus, epitope specificity plays a key role in S-specific killing of 
+271  SARS-CoV-2-infected cells. 
+272  Hybrid immunity broadly mediates ADCC across variant strains 
+273  Virus evolution in human populations results in selection of viral variants mutated at key residues for 
+274  neutralising Ab binding – primarily within the RBD, but also within the NTD (7, 8). However, ADCC-
+275  susceptible determinants are distributed much more broadly across S (Figure 5) and ADCC determinants 
+276  revealed by peptide scanning do not overlap with mutations in recent virus variants such as Delta and 
+277  Omicron (Figure 6b). This suggests ADCC induced by hybrid immunity may be better preserved than 
+278  neutralisation across variant strains. To assess S-specific Ab-dependent responses against variant strains, 
+279  MRC-5 cells were transduced to express Delta or Omicron S at levels equivalent to Wu-S-MRC-5 (Figure 
+280  7a). When used in ADCC assays, Abs produced after hybrid infection elicited comparable levels of ADCC 
+281  against target cells expressing Wuhan-Hu-1 and Delta S (Figure 7b).  Although ADCC was reduced against 
+282  Omicron S-expressing cells, the relative reduction was mild (12.9% decrease), and 5/16 participants 
+10 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531709; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+283  mediated equivalent levels of ADCC against cells expressing Wuhan-Hu-1, Delta and Omicron S (Figure 
+284  7b). 
+285  A subset of vaccinees mediating detectable ADCC against Wu-S-MRC-5 were similarly tested. Here, the 
+286  decline in ADCC against cells expressing Omicron S was more pronounced with a 35.5% relative reduction 
+287  (Figure 7c). Ab from only 1/14 vaccinees mediated comparable levels of ADCC against wild type and 
+288  variant strains (Figure 7c), consistent with Ab in these donors being focussed on the S1 domain, which is 
+289  more heavily mutated in these virus variants. 
+290  To ensure that these results were comparable to an infection setting, we assessed neutralisation and 
+291  ADCC against replicating virus using either ancestral Wuhan-Hu-1 or Omicron strains. Consistent with 
+292  published data, we observed that Omicron was more resistant to neutralisation following vaccination, and 
+293  despite this decrease in neutralisation being less severe following hybrid immunity compared with 
+294  vaccination, a significant loss was observed (Figure 7d). In contrast, and in agreement with data obtained 
+295  using cells overexpressing S, we measured only a small decline in ADNKA against Omicron-infected cells 
+296  (Figure 7e). Thus, by targeting a broader range of epitopes, including those more conserved across 
+297  variants, ADCC resists virus escape due to virus mutation more effectively than neutralisation. 
+298  Discussion 
+299  Strong and durable immune responses are desirable to limit SARS-CoV-2 transmission and control severity 
+300  of infection. Neutralising Ab activity has dominated as a surrogate measure of protection, however, 
+301  protection against severe illness without robust neutralisation suggests that other aspects of immunity, 
+302  including T cells and NK cells, play a role (38). The ability of T cells and NK cells to limit illness by eliminating 
+303  infected host cells once infection does occur underlies the importance of considering their recruitment in 
+304  vaccination strategies, especially if their activity is better conserved across variants than Ab neutralisation 
+305  (39, 40). 
+306  Associations between ADCC and viral control in animal models (12-22) indicate that it is an important 
+307  component of immunological protection. Infection with SARS-CoV-2 induces Abs against N/M/ORF3a that 
+308  dominate NK cell activation by infected cells (11), however, in the absence of vaccines encoding 
+309  alternative ADCC antigens, it is important to understand the capacity for S-specific ADCC. Infection or 
+310  vaccination alone was insufficient to induce potent S-directed ADCC, whether assessed by direct killing of 
+311  S-expressing cells or NK cell activation against SARS-CoV-2 infected cells. However, the strong ADCC 
+11 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531709; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+312  observed with hybrid immunity indicates that it is possible to generate robust and lasting ADCC through 
+313  S-targeted Ab responses. 
+314  Previous analysis of hybrid immunity in the context of neutralising Abs demonstrated that compared to 
+315  vaccination alone, it results in more memory B-cells and circulating Abs, the latter of which was affirmed 
+316  in our study (41, 42). This increase in circulating IgG enhances neutralisation of more immune-evasive 
+317  virus variants (41, 43, 44), while at the clonal level, it also reflects selection of Abs with higher neutralising 
+318  potency (45). In the case of ADCC, neither increased abundance, nor differences in IgG subclass could 
+319  explain superior hybrid immunity-induced ADCC. Instead, qualitative aspects of the Ab profile played a 
+320  more significant role. Robust levels of Abs targeting numerous epitopes in both S1 and S2 were a 
+321  consistent feature of hybrid immunity. 
+322  The S1 domain of spike contains the NTD and RBD domains, which are required for receptor binding and 
+323  are dominant targets for neutralising Abs. As a result, vaccine development has focussed heavily on 
+324  inducing S1-targeted Abs, including the testing of RBD subunit vaccines (46-50). However, due to 
+325  mutations selected in S1 that tend to reduce neutralisation, there is increasing interest in neutralising Abs 
+326  targeting the more conserved S2 domain (51). Studies in mice demonstrated that S2-specific vaccination 
+327  effectively induces cross-variant neutralisation (51). Our work now extends this by showing that strategies 
+328  to induce both S1 and S2 responses will also serve to boost ADCC. The polyspecific (i.e. S1 and S2) nature 
+329  of S-directed ADCC improves targeting of virus variants with heavily mutated S1 and may limit the ability 
+330  of viruses to evade this arm of host defense. With a wider range of Abs recognizing epitopes distributed 
+331  throughout S, the loss of any single epitope may not substantially impact ADCC, raising the barrier for 
+332  selection of escape mutants. 
+333  The S gene of seasonal human beta coronaviruses (HCoV HKU1, HCoV OC43) is divergent from SARS-CoV-
+334  2, sharing only ~ 36% overall homology, with S2 somewhat more conserved than the S1 domain. The 
+335  preferential Ab targeting of S2 epitopes after infection may be partly attributed to a heterologous boost 
+336  towards cross-reactive S2-specific memory B cells (52-54), with pre-existing cross-reactive HCoV memory 
+337  B cells activated during SARS-CoV-2 infection kick-starting production of anti-S2 Abs. Interestingly, the 
+338  same regions we revealed as key regions of Ab reactivity corresponding with potent ADCC were previously 
+339  demonstrated to be elicited by heterologous anti-S Ab responses (54). This raises the question as to 
+340  whether immunodominant regions within S1 and S2 conserved between HCoV and SARS-CoV-2 are 
+341  selectively targeted for Ab reactivity and avidity to support robust ADCC. If SARS-CoV-2 infection induces 
+342  cross-reactive HCoV anti-S2 Ab production, it is unclear why vaccination did not have a similar effect. 
+12 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531709; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+343  Prolonged antigen exposure from high viral loads, the presence of inflammatory stimuli during virus 
+344  infection, the way S traffics to and is presented on the infected cell surface, or differential sites of antigen 
+345  presentation (e.g. intramuscular for the vaccine, respiratory for the virus), may all contribute to diverse 
+346  outcomes from exposure through infection versus S subunit vaccination. It will be interesting whether 
+347  switching vaccine delivery from intra-muscular to intranasal, to promote mucosal immunity, impacts this 
+348  process (55, 56). 
+349  This study focussed on individuals who were infected prior to vaccination. Many individuals have now 
+350  been infected after being vaccinated with ancestral S antigen and it is unclear how these breakthrough 
+351  infections will affect ADCC against emerging variants. Our previous research demonstrated that infection 
+352  induces non-S ADCC responses that target N/M/ORF3a (11). However, as vaccination reduces the 
+353  induction of non-S (e.g. nucleocapsid) Ab during breakthrough infection, presumably due to enhanced 
+354  vaccine-mediated immunological control (57-59), breakthrough infections may fail to induce potent 
+355  N/M/ORF3a-mediated ADCC. In this case, strong S-directed ADCC induced by hybrid immunity would 
+356  become an important effector mechanism contributing to protection and an important consideration for 
+357  future research. 
+358  In summary, our data reveal that hybrid immunity establishes conditions whereby Abs generated against 
+359  key determinants within S1 and S2 domains elicit ADCC quantitatively superior to vaccination or infection 
+360  alone. In addition, hybrid immunity induced by ancestral antigen engenders an Ab response that retains 
+361  activity against variant strains to a far greater extent than neutralisation. Given the complementary roles 
+362  of neutralisation and ADCC in controlling cell-free and cell-associated virus, respectively, both Fc- and Fab 
+363  V-region mediated effector functions are desirable for incorporation into vaccine strategies. Strong ADCC 
+364  may play a part in the protection offered by hybrid immunity, uncovers a novel role for S2-targeted Abs, 
+365  and suggests that vaccine strategies based on spike expression would benefit from inducing Abs targeted 
+366  broadly across spike, as opposed to just RBD. 
+367  Methods 
+368  Study subjects 
+369  This study was carried out at two sites. In Canada, the study conformed to recommendations of the 
+370  Canadian Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans, and ethical 
+371  approval was given by the Health Research Ethics Authority of Newfoundland and Labrador (HREB). 
+372  Peripheral blood was collected from study subjects at approximately three-month intervals and a 
+13 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531709; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+373  questionnaire addressing previous testing history and reasons for suspecting infection with SARS-CoV-2 
+374  was administered at study intake after written informed consent in accordance with the Declaration of 
+375  Helsinki. Thirty-one individuals with confirmed infection who continued in the study and received 2 doses 
+376  of a COVID-19 vaccine were matched with 40 individuals with no previous infection history who had 
+377  received 2 doses of a COVID 19-vaccine (Table 1). Asymptomatic participants were identified through 
+378  Public Health surveillance and contact tracing after contact with RT-PCR-confirmed cases or through 
+379  serological testing for anti-S and anti-N protein IgG Abs (60). Most participants enrolled following the first 
+380  wave  of  COVID-19  and  infections  were  attributed  to  ancestral  Wuhan-Hu-1  SARS-CoV-2.  Three 
+381  participants had infections attributed to B.1.1.7. Participants self-declared any medical treatments they 
+382  were receiving as well as information on comorbidity. Persons with any known underlying immune 
+383  compromising condition or on immunosuppressive treatment were excluded. 
+384  In the UK, ethical approval was given by Local Research Ethics Committee or the Avon Longitudinal Study 
+385  of Parents and Children (ALSPAC) Ethics and Law Committee. Peripheral blood was collected 2-4 weeks 
+386  after  a  RT-PCR  or  LFD  confirmed  infection,  or  after  vaccination,  from  otherwise  healthy  donors. 
+387  Alternatively, serum samples submitted as part of the ALSPAC cohort (61-63) were assessed based on 
+388  serology for N and S, to identify individuals who had submitted samples after an initial infection, followed 
+389  by samples after each vaccination. In total 18 individuals who were infected prior to vaccination were 
+390  matched with 18 individuals who had received two doses of vaccines with no experience of prior infection. 
+391  Results were also compared to samples from a previously described cohort of individuals who had 
+392  experienced mild or severe COVID-19 and had not been vaccinated (11). 
+393  Blood sample processing 
+394  Whole blood was collected by venipuncture in acid citrate dextrose vacutainers, after which plasma was 
+395  collected following 10 min centrifugation at 500g and stored at -80°C (Canada). Alternatively, whole blood 
+396  was collected in a serum-separating vacutainer and serum collected following centrifugation at 500g for 
+397  10 min (UK). PBMC used for ADCC experiments were isolated from anti-coagulated heparinized blood 
+398  from healthy donors by density gradient centrifugation using the Canadian Autoimmunity Standardization 
+399  Core consensus standard operating procedure (version: March 21, 2019). Freshly isolated PBMC were 
+400  resuspended in lymphocyte medium consisting of RPMI-1640 with 10% FBS (HyClone™), 200 IU/mL 
+401  penicillin/streptomycin,  0.01  M  HEPES,  1%  L-glutamine  (all  from  Invitrogen)  and  2  x  10-5  M  2-
+402  mercaptoethanol (Sigma-Aldrich) and used directly in functional experiments. 
+14 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531709; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+403  Cell lines and viruses 
+404  All cell lines and PBMC were cultured with 5% CO  at 37°C. VeroE6 cells expressing ACE2 and TMPRSS2 
+2
+405  (VAT) and A549 cells expressing ACE2 (AA) were a gift from the University of Glasgow Centre for Virus 
+406  Research (64). Human lung fibroblast MRC-5 cells were obtained from ATCC® (CCL-171™) and Lenti-X™ 
+407  293T cells were obtained from TakaRa (Mountain View CA, USA). All were propagated in complete DMEM 
+408  (Sigma-Aldrich)  containing  10%  FBS (HyClone™)  and  200  IU/mL  penicillin/streptomycin  (Invitrogen, 
+409  Carlsbad CA, USA). Ancestral SARS-CoV-2 was recovered from a BAC containing the complete genome of 
+410  a strain that matches the original Wuhan-Hu-1 (64) and the Omicron (BA.1) variant was a gift from 
+411  Professor Arvind Patel (from the University of Glasgow Centre for Virus Research). Both were propagated 
+412  in VAT cells. Virions were concentrated and purified by pelleting through a 30% sucrose cushion and 
+413  titrated by plaque assay in AA cells as previously described (11). All virus seed stocks were verified by 
+414  whole-genome sequencing on the Illumina platform. 
+415  Spike gene transfer and expression in MRC-5 cells 
+416  The recombinant Lenti-X™ pLVX-IRES lentiviral vector expression system (TakaRa) was used to introduce 
+417  Wuhan-Hu-1, Delta (B.1.617.2), or Omicron (BA.1) S sequences into the MRC-5 cell line. The Wuhan-Hu-1 
+418  S was obtained from BEI Resources in a pcDNA™3.1(-) mammalian expression vector (NR-52420; NIAID, 
+419  NIH)  (65). Delta  S was  synthesised  by  Invitrogen GeneArt (Thermo  Fisher Scientific)  and  contains 
+420  mutations: T19R, T95I, G142D, E156G, E157- F158- R450L, K476T, G612D, R679P, N948D. Omicron S was 
+421  obtained from BEI Resources in a pCMV/R mammalian expression vector (NR-56470; NIAID, NIH) with the 
+422  following mutations: A67V, H69-, V70-, T95I, G142-, V143-, Y144-, Y145D, N211-, L212I, "EPE" insertion 
+423  between 214R and 215D, G339D, S371L, S373P, S375F, K417N, N440K, G446S, S477N, T478K, E484A, 
+424  Q493R, G496S, Q498R, N501Y, Y505H, T547K, D614G, H655Y, N679K, P681H, N764K, D796Y, N856K, 
+425  Q954H, N969K, L981F. 
+426  Constructs were inserted into pLVX-IRES as detailed in (66) using conventional cloning protocols and all 
+427  constructs were verified by forward and reverse strand sequencing (TCAG Facilities, Hospital for Sick 
+428  Children, Toronto ON, Canada) to ensure authenticity. SnapGene Software (San Diego CA, USA) was used 
+429  for  designing  and  visualizing  cloning  procedures,  designing  and  aligning  sequencing  primers  and 
+430  comparing variant sequences to wild-type Wuhan-Hu-1. Transduced cells were propagated and selected 
+431  in  complete DMEM  containing  1 μg/mL  puromycin  (Sigma-Aldrich). Extracellular  S expression  was 
+432  confirmed by flow cytometry, as previously outlined (66). 
+15 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531709; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+433  Antibody-dependent cell-mediated killing assays 
+434  PBMC were freshly processed, resuspended in lymphocyte medium and kept at 37°C and 5% CO  until 
+2
+435  use. For ADCC assays using Wuhan-Hu-1, Delta or Omicron S-expressing MRC-5 target cells, 104 cells/well 
+436  were plated and labelled with 1 μCi Na 51CrO /well (PerkinElmer, Akron, OH, USA) overnight in 96-well 
+2 4
+437  round bottom plates and then washed four times in PBS containing 1% FBS (HyClone™). PBMC (E:T 25:1) 
+438  and heat-inactivated plasma (56°C for 1h) were added to wells with a final volume of 300 μL and final 
+439  plasma dilution of 1:1000 and cytotoxic activity measured by 51Cr release over 5 h. 51Cr release was 
+440  measured in 125 μL of supernatant on a Wallac 1480 Wizard gamma counter and percent specific lysis 
+441  calculated  by  (experimental  51Cr  release  –  spontaneous  51Cr  release)  /  (maximum  51Cr  release  – 
+442  spontaneous 51Cr release) x 100. 
+443  Assays using virus-infected cells used CD107a degranulation ADNKA as a proxy for ADCC to be in 
+444  compliance with BLS3 containment and were carried out as previously described (11). Briefly, AA cells 
+445  were infected at MOI = 5 for 24 h prior to being detached with TrypLE™ (Thermo Fisher, Waltham, MA 
+446  USA), then 25,000 targets mixed with 250,000 PBMC, serum, and anti-CD107a-FITC (BioLegend, London, 
+447  UK) and GolgiStop (BD, Swindon, UK) in a total volume of 100 μL for 5 h. PBMC were stained with live/dead 
+448  fixable  aqua  (Thermo  Fisher),  anti-CD3-PE-Cy7  (UCHT1,  BioLegend),  anti-CD56-BV605  (5.1H11, 
+449  BioLegend), and anti-CD57-APC (HNK-1, BioLegend). Data were acquired and analysed using an Attune 
+450  NXT Flow Cytometer (Thermo Fisher) and expressed as the percentage of live CD107a+ CD57+ NK (CD3-
+451  CD56+) cells. All sera were tested against mock-infected cells to ensure there was no background NK cell 
+452  activation and any sera demonstrating background activation were excluded. A seronegative serum was 
+453  included in all assays as a negative control. To enable comparisons with previous datasets, and to minimise 
+454  inter-experiment variability, a donor serum demonstrating moderate ADNKA was included as a positive 
+455  control in every assay. Sera were tested at a range of dilutions, and the area under the curve (AUC) was 
+456  calculated using GraphPad Prism 9. This value was then normalised to the AUC for the standard serum in 
+457  each assay. 
+458  Virus neutralisation assay 
+459  Assays were carried out as previously described (11). Briefly, 600 plaque forming units of SARS-CoV-2 was 
+460  incubated with appropriate dilutions of serum, in duplicate, for 1 h at 37°C. The mixes were then added 
+461  to pre-plated VeroE6 cells for 48 h. After this time, monolayers were fixed with 4% paraformaldehyde 
+462  (Thermo Fisher), permeabilised for 15 min with 0.5% NP-40 (Merck Life Science, Dorset, UK) then blocked 
+463  for 1 h in PBS containing 0.1% Tween (PBST) and 3% non-fat milk. Primary Ab (anti-N 1C7, Stratech, 1:500 
+16 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531709; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+464  dilution) was added in PBST containing 1% non-fat milk and incubated for 1 h at room temperature. After 
+465  washing  in  PBST,  secondary  Ab  (anti-mouse  IgG-HRP, Pierce,  1:3000  dilution)  was  added  in  PBST 
+466  containing 1% non-fat milk and incubated for 1 h. Monolayers were washed again, developed using 
+467  Sigmafast™ OPD (Sigma-Aldrich) according to manufacturers’ instructions, and read on a Clariostar Omega 
+468  plate reader (OD 450 nm). Wells containing no virus, virus but no Ab, and a standardized serum displaying 
+469  moderate activity were included as controls in every experiment. NT50 were calculated in GraphPad Prism 
+470  9. 
+471  Serological testing 
+472  Plasma was diluted in PBS containing 0.05% TWEEN® 20 (0.05% PBST; Sigma-Aldrich, St. Louis, MO, USA) 
+473  and 0.1% bovine serum albumin (BSA, Sigma-Aldrich) then tested against recombinant proteins coated in 
+474  Dulbecco’s  PBS  (DPBS,  Sigma-Aldrich)  overnight  onto  96-well  Immunlon-2  plates  (VWR  Scientific, 
+475  Mississauga, ON, Canada). Recombinant protein antigens included SARS-CoV-2 FLS glycoprotein trimer 
+476  [50 ng/well; SMT1-1 reference material, National Research Council (NRC), Canada], the S1 subunit of 
+477  SARS-CoV-2 S (65 ng/well; SinoBiological, Wayne, PA, USA) and S2 subunit of SARS-CoV-2 S (50 ng/well; 
+478  SinoBiological). The predicted molecular mass for S1 and S2 were 76.5 kDa and 59.4 kDa, respectively, and 
+479  coating amounts were determined to account for this difference. Plates were washed 4 times with 0.05% 
+480  PBST, blocked for 1 h with 200 μL of PBS containing 1% BSA (Sigma-Aldrich), washed 4 times then 100 
+481  μL/well of diluted plasma (1:500 for FLS IgG or 1:100 for S1 and S2 IgG and IgG ) was applied to antigen-
+3
+482  coated plates in duplicate wells for 1.5 h. Total IgG was measured following 6 washes and a 1-h incubation 
+483  with 100 μL/well of 1:50,000 HRP-conjugated polyclonal goat anti-human IgG (Jackson ImmunoResearch 
+484  Labs, West Grove, PA, USA). IgG  was measured following 6 washes and a 1-h incubation with 100 μL/well 
+3
+485  1:5,000 mouse anti-human biotin-conjugated IgG  hinge (SouthernBiotech, Birmingham, Alabama, USA) 
+3
+486  then 6 washes and 1-h incubation with 100 μL/well 1:40,000 HRP-conjugated streptavidin (Jackson 
+487  ImmunoResearch Labs). Plates were developed using tetramethylbenzidine (TMB) substrate (Sigma 
+488  Aldrich) following 6 washes then incubated in the dark at room temperature for 20 min. Reactions were 
+489  stopped with an equal volume of 1 M H SO  and optical density (OD) read on a BioTek synergy HT plate 
+2 4
+490  reader at 450 nm. 
+491  Antibody depletions 
+492  Depletions of specific Abs from sera were carried out as previously described (11). In brief, Abs targeting 
+493  different domains of S were depleted using magnetic bead conjugated proteins based on either the RBD, 
+494  NTD, entire S1, or entire S2 domain of SARS-CoV-2 Wuhan-Hu-1 S (ACROBiosystems). Beads were 
+17 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531709; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+495  resuspended in PBS + 0.05% BSA, then serum was pre-diluted 1:9, and 50 μl mixed with 150 μl beads. 
+496  Mixtures were incubated on a rotating mixer at 4 °C overnight. Serum diluted in buffer alone was used as 
+497  a control. Magnetic beads were then removed using a 3D printed magnetic stand then a second round of 
+498  depletion carried out using fresh beads as indicated. All values in assays were corrected for dilutions.  
+499  Peptide scan ELISA 
+500  Individual overlapping peptides (17- or 13-mers, with 10 amino acid overlaps) spanning the canonical 
+501  Wuhan-Hu-1 S sequence (NR-52402; BEI Resources) were reconstituted at 10 mg/mL in DMSO (Sigma-
+502  Aldrich) then diluted to 50 μg/mL in DPBS (Sigma-Aldrich) and stored at -20°C. 125 ng/well of each S 
+503  peptide 2 – 181 (BEI Resources) was coated overnight on Immunlon-2 plates (VWR Scientific) in sequential 
+504  pairs (e.g. 2 & 3… 180 & 181). Full length S trimer (SMT1-1, NRC) was diluted in DPBS and coated overnight 
+505  at 150 ng/well as positive control. Plates were washed four times with 0.05% PBST and blocked for 1 h 
+506  with 200 μL/well PBS + 1% BSA. Plasma was diluted 1:50 in 0.05% PBST + 0.1% BSA and 50 μL was applied 
+507  for 1.5 h. Plates were washed six times and total IgG binding was measured in a 1-h incubation with 100 
+508  μL/well of 1:50,000 HRP-conjugated polyclonal goat anti-human IgG (Jackson ImmunoResearch Labs) and 
+509  developed using 50 μL/well TMB substrate (Sigma Aldrich). Reactions were stopped with an equal volume 
+510  of 1 M H SO  and OD read on a BioTek synergy HT plate reader at 450 nm. 
+2 4
+511  Statistical analysis 
+512  Statistical analyses were performed using GraphPad Prism 9 with two-sided P-values < 0.05 considered 
+513  significant.  Normality  of  data  distributions  were  assessed  using  Shapiro-Wilk  test.  Significance  in 
+514  correlations were assessed using Spearman's rank correlation coefficient. Differences in means with 
+515  standard deviation (SD) or medians with interquartile range (IQR, calculated as IQR = Q  − Q ) between 
+3 1
+516  groups were compared by using one-way ANOVA, Student’s t-test, Friedman test or Mann-Whitney U-test 
+517  as appropriate based on normality of data distribution.   
+18 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531709; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+518  Competing Interests 
+519  The authors declare no competing interests. 
+520  Author Contributions 
+521  KAH, RJS, CAF and KB designed and conducted the experiments, analyzed data, constructed figures and 
+522  illustrations and wrote/edited the manuscript. MDG and EW co-wrote and edited the manuscript. KMH 
+523  and DPI assisted with experiments. DH coordinated patient consent, questionnaires and collected blood 
+524  samples. MDG, EW, RJS and KAH obtained funding. 
+525  Acknowledgments 
+526  We thank all participants for providing samples, those who recruited them and the associated teams. This 
+527  includes interviewers, nurses, computer and laboratory technicians, clerical workers, research scientists, 
+528  volunteers, managers and receptionists. This work was supported by a COVID-19 rapid research funding 
+529  opportunity grant (VR1 – 173202) from the Canadian Institutes for Health Research awarded through the 
+530  COVID Immunity Task Force, and the MRC (MR/V028448/1, MR/S00971X/1). The UK Medical Research 
+531  Council and Wellcome (Grant ref: 217065/Z/19/Z) and the University of Bristol provide core support for 
+532  ALSPAC. The funders had no role in study design, data collection and analysis, decision to publish, or 
+533  preparation of the manuscript. Vector pcDNA3.1(-) containing the SARS-Related Coronavirus 2, Wuhan-
+534  Hu-1 S Glycoprotein Gene, NR-52420 was contributed by David Veesler and vector pCMV/R containing 
+535  the SARS-Related Coronavirus 2, S Glycoprotein Gene, Lineage B.1.1.529, Omicron Variant, NR-56470 was 
+536  contributed by JR Mascola for distribution through BEI Resources, NIAID, NIH. SARS-Related Coronavirus 
+537  2 S Protein Peptide Array, NR-52402 was obtained through BEI Resources, NIAID, NIH. Adobe Illustrator 
+538  was used to construct figures. 
+539  Data Availability Statement 
+540  Data supporting the findings of this study and preserving anonymity of study participants will be made 
+541  available from the corresponding authors through electronic correspondence for legitimate scientific 
+542  purposes.   
+19 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531709; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+543  References 
+544  1.  Falsey AR, et al. (2021) Phase 3 Safety and Efficacy of AZD1222 (ChAdOx1 nCoV-19) Covid-19 
+545  Vaccine. N Engl J Med. 
+546  2.  Polack FP, et al. (2020) Safety and Efficacy of the BNT162b2 mRNA Covid-19 Vaccine. N Engl J Med 
+547  383(27):2603-2615. 
+548  3.  Baden LR, et al. (2020) Efficacy and Safety of the mRNA-1273 SARS-CoV-2 Vaccine. New England 
+549  Journal of Medicine 384(5):403-416. 
+550  4.  Li D, Sempowski GD, Saunders KO, Acharya P, & Haynes BF (2022) SARS-CoV-2 Neutralizing 
+551  Antibodies for COVID-19 Prevention and Treatment. Annual Review of Medicine 73(1):1-16. 
+552  5.  Morales-Núñez JJ, Muñoz-Valle JF, Torres-Hernández PC, & Hernández-Bello J (2021) Overview of 
+553  Neutralizing Antibodies and Their Potential in COVID-19. Vaccines (Basel) 9(12). 
+554  6.  Goldblatt D, Alter G, Crotty S, & Plotkin SA (2022) Correlates of protection against SARS-CoV-2 
+555  infection and COVID-19 disease. Immunol Rev 310(1):6-26. 
+556  7.  Tao K, et al. (2021) The biological and clinical significance of emerging SARS-CoV-2 variants. Nature 
+557  Reviews Genetics 22(12):757-773. 
+558  8.  Fan Y, et al. (2022) SARS-CoV-2 Omicron variant: recent progress and future perspectives. Signal 
+559  Transduction and Targeted Therapy 7(1):141. 
+560  9.  Zeng C, et al. (2022) SARS-CoV-2 spreads through cell-to-cell transmission. Proceedings of the 
+561  National Academy of Sciences 119(1):e2111400119. 
+562  10.  Gunn BM & Bai S (2021) Building a better antibody through the Fc: advances and challenges in 
+563  harnessing  antibody  Fc  effector  functions  for  antiviral  protection.  Human  vaccines  & 
+564  immunotherapeutics:1-17. 
+565  11.  Fielding CA, et al. (2022) SARS-CoV-2 host-shutoff impacts innate NK cell functions, but antibody-
+566  dependent NK activity is strongly activated through non-spike antibodies. eLife 11:e74489. 
+567  12.  Yamin R, et al. (2021) Fc-engineered antibody therapeutics with improved anti-SARS-CoV-2 
+568  efficacy. Nature. 
+569  13.  Ullah I, et al. (2021) Live imaging of SARS-CoV-2 infection in mice reveals that neutralizing 
+570  antibodies require Fc function for optimal efficacy. Immunity 54(9):2143-2158.e2115. 
+571  14.  Chan CEZ, et al. (2021) The Fc-mediated effector functions of a potent SARS-CoV-2 neutralizing 
+572  antibody, SC31, isolated from an early convalescent COVID-19 patient, are essential for the 
+573  optimal therapeutic efficacy of the antibody. PLOS ONE 16(6):e0253487. 
+574  15.  Ullah I, et al. (2022) The Fc-effector function of COVID-19 convalescent plasma contributes to 
+575  SARS-CoV-2 treatment efficacy in mice. bioRxiv:2022.2006.2010.495677. 
+576  16.  Noy-Porat T, et al. (2021) Fc-Independent Protection from SARS-CoV-2 Infection by Recombinant 
+577  Human Monoclonal Antibodies. Antibodies (Basel) 10(4). 
+578  17.  Gorman MJ, et al. (2021) Fab and Fc contribute to maximal protection against SARS-CoV-2 
+579  following NVX-CoV2373 subunit vaccine with Matrix-M™ vaccination. Cell Rep Med:100405. 
+580  18.  Beaudoin-Bussieres G, et al. (2021) An anti-SARS-CoV-2 non-neutralizing antibody with Fc-effector 
+581  function defines a new NTD epitope and delays neuroinvasion and death in K18-hACE2 mice. 
+582  bioRxiv:2021.2009.2008.459408. 
+583  19.  Winkler ES, et al. (2021) Human neutralizing antibodies against SARS-CoV-2 require intact Fc 
+584  effector functions for optimal therapeutic protection. Cell 184(7):1804-1820 e1816. 
+585  20.  Schafer A, et al. (2021) Antibody potency, effector function, and combinations in protection and 
+586  therapy for SARS-CoV-2 infection in vivo. J Exp Med 218(3). 
+587  21.  Tortorici MA, et al. (2020) Ultrapotent human antibodies protect against SARS-CoV-2 challenge 
+588  via multiple mechanisms. Science 370(6519):950-957. 
+20 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531709; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+589  22.  Dangi T, et al. (2022) Improved control of SARS-CoV-2 by treatment with nucleocapsid-specific 
+590  monoclonal antibody. J Clin Invest. 
+591  23.  Herman JD, et al. (2021) Functional convalescent plasma antibodies and pre-infusion titers shape 
+592  the early severe COVID-19 immune response. Nature Communications 12(1):6853. 
+593  24.  Kaplonek P, et al. (2022) mRNA-1273 and BNT162b2 COVID-19 vaccines elicit antibodies with 
+594  differences in Fc-mediated effector functions. Science Translational Medicine 14(645):eabm2311. 
+595  25.  Barrett JR, et al. (2021) Phase 1/2 trial of SARS-CoV-2 vaccine ChAdOx1 nCoV-19 with a booster 
+596  dose induces multifunctional antibody responses. Nat Med 27(2):279-288. 
+597  26.  Díez JM, et al. (2021) Anti-Severe Acute Respiratory Syndrome Coronavirus 2 Hyperimmune 
+598  Immunoglobulin  Demonstrates  Potent  Neutralization  and  Antibody-Dependent  Cellular 
+599  Cytotoxicity and Phagocytosis Through N and S Proteins. The Journal of Infectious Diseases 
+600  225(6):938-946. 
+601  27.  Dufloo J, et al. (2021) Asymptomatic and symptomatic SARS-CoV-2 infections elicit polyfunctional 
+602  antibodies. Cell Reports Medicine 2(5). 
+603  28.  Lee WS, et al. (2021) Decay of Fc-dependent antibody functions after mild to moderate COVID-
+604  19. Cell Reports Medicine 2(6). 
+605  29.  Hagemann K, et al. (2022) Natural killer cell-mediated ADCC in SARS-CoV-2-infected individuals 
+606  and vaccine recipients. Eur J Immunol. 
+607  30.  Yu Y, et al. (2021) Antibody-dependent cellular cytotoxicity response to SARS-CoV-2 in COVID-19 
+608  patients. Signal Transduct Target Ther 6(1):346. 
+609  31.  Tauzin A, et al. (2021) A single dose of the SARS-CoV-2 vaccine BNT162b2 elicits Fc-mediated 
+610  antibody effector functions and T cell responses. Cell Host & Microbe 29(7):1137-1150.e1136. 
+611  32.  Ntziora F, et al. (2022) Protection of vaccination versus hybrid immunity against infection with 
+612  COVID-19 Omicron variants among Health-Care Workers. Vaccine 40(50):7195-7200. 
+613  33.  Goldberg Y, et al. (2022) Protection and Waning of Natural and Hybrid Immunity to SARS-CoV-2. 
+614  New England Journal of Medicine 386(23):2201-2212. 
+615  34.  Nordström P, Ballin M, & Nordström A (2022) Risk of SARS-CoV-2 reinfection and COVID-19 
+616  hospitalisation in individuals with natural and hybrid immunity: a retrospective, total population 
+617  cohort study in Sweden. Lancet Infect Dis 22(6):781-790. 
+618  35.  Crotty S (2021) Hybrid immunity. Science 372(6549):1392-1393. 
+619  36.  Vidarsson G, Dekkers G, & Rispens T (2014) IgG subclasses and allotypes: from structure to 
+620  effector functions. Front Immunol 5:520. 
+621  37.  Michaelsen TE, Aase A, Norderhaug L, & Sandlie I (1992) Antibody dependent cell-mediated 
+622  cytotoxicity induced by chimeric mouse-human IgG subclasses and IgG3 antibodies with altered 
+623  hinge region. Mol Immunol 29(3):319-326. 
+624  38.  Scurr MJ, et al. (2022) Magnitude of venous or capillary blood-derived SARS-CoV-2-specific T cell 
+625  response determines COVID-19 immunity. Nature communications 13(1):5422. 
+626  39.  Naranbhai V, et al. (2022) T cell reactivity to the SARS-CoV-2 Omicron variant is preserved in most 
+627  but not all individuals. Cell 185(6):1041-1051.e1046. 
+628  40.  De Marco L, et al. (2022) Assessment of T-cell Reactivity to the SARS-CoV-2 Omicron Variant by 
+629  Immunized Individuals. JAMA Network Open 5(4):e2210871-e2210871. 
+630  41.  Rodda LB, et al. (Imprinted SARS-CoV-2-specific memory lymphocytes define hybrid immunity. 
+631  Cell. 
+632  42.  Wang Z, et al. (2021) Naturally enhanced neutralizing breadth against SARS-CoV-2 one year after 
+633  infection. Nature 595(7867):426-431. 
+634  43.  Bates TA, et al. (2022) Vaccination before or after SARS-CoV-2 infection leads to robust humoral 
+635  response and antibodies that effectively neutralize variants. Science Immunology 7(68):eabn8014. 
+21 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531709; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+636  44.  Medigeshi  GR,  et  al.  (2022)  Sub-optimal  neutralisation  of  omicron  (B.1.1.529)  variant  by 
+637  antibodies induced by vaccine alone or SARS-CoV-2 Infection plus vaccine (hybrid immunity) post 
+638  6-months. EBioMedicine 78:103938. 
+639  45.  Andreano E, et al. (2021) Hybrid immunity improves B cells and antibodies against SARS-CoV-2 
+640  variants. Nature. 
+641  46.  Yang J, et al. (2020) A vaccine targeting the RBD of the S protein of SARS-CoV-2 induces protective 
+642  immunity. Nature 586(7830):572-577. 
+643  47.  Kleanthous H, et al. (2021) Scientific rationale for developing potent RBD-based vaccines targeting 
+644  COVID-19. npj Vaccines 6(1):128. 
+645  48.  Dai L, et al. (2022) Efficacy and Safety of the RBD-Dimer–Based Covid-19 Vaccine ZF2001 in Adults. 
+646  New England Journal of Medicine 386(22):2097-2111. 
+647  49.  Song S, et al. (2022) Sequential immunization with SARS-CoV-2 RBD vaccine induces potent and 
+648  broad neutralization against variants in mice. Virology Journal 19(1):2. 
+649  50.  Zhang J, et al. (2022) A mosaic-type trimeric RBD-based COVID-19 vaccine candidate induces 
+650  potent neutralization against Omicron and other SARS-CoV-2 variants. eLife 11:e78633. 
+651  51.  Ng KW, et al. (2022) SARS-CoV-2 S2-targeted vaccination elicits broadly neutralizing antibodies. 
+652  Science translational medicine 14(655):eabn3715. 
+653  52.  Ng KW, et al. (2020) Preexisting and de novo humoral immunity to SARS-CoV-2 in humans. Science 
+654  370(6522):1339-1343. 
+655  53.  Song G, et al. (2021) Cross-reactive serum and memory B-cell responses to spike protein in SARS-
+656  CoV-2 and endemic coronavirus infection. Nat Commun 12(1):2938. 
+657  54.  Geanes ES, et al. (2022) Cross-reactive antibodies elicited to conserved epitopes on SARS-CoV-2 
+658  spike protein after infection and vaccination. Sci Rep 12(1):6496. 
+659  55.  Afkhami S, et al. (2022) Respiratory mucosal delivery of next-generation COVID-19 vaccine 
+660  provides  robust  protection  against  both  ancestral  and  variant  strains  of  SARS-CoV-2.  Cell 
+661  185(5):896-915.e819. 
+662  56.  Mao T, et al. (2022) Unadjuvanted intranasal spike vaccine elicits protective mucosal immunity 
+663  against sarbecoviruses. Science 378(6622):eabo2523. 
+664  57.  Follmann D, et al. (2022) Anti-nucleocapsid antibodies following SARS-CoV-2 infection in the 
+665  blinded  phase  of  the  mRNA-1273  Covid-19  vaccine  efficacy  clinical  trial. 
+666  medRxiv:2022.2004.2018.22271936. 
+667  58.  Dhakal S, et al. (2022) Reconsideration of Antinucleocapsid IgG Antibody as a Marker of SARS-
+668  CoV-2 Infection Postvaccination for Mild COVID-19 Patients. Open Forum Infectious Diseases 
+669  10(1). 
+670  59.  Karachaliou M, et al. (2022) SARS-CoV-2 infection, vaccination, and antibody response trajectories 
+671  in adults: a cohort study in Catalonia. BMC Medicine 20(1):347. 
+672  60.  Ings DP, et al. (2022) Few SARS-CoV-2 infections detected in Newfoundland and Labrador in the 
+673  absence of Public Health Laboratory-based confirmation. PLoS One 17(1):e0262957. 
+674  61.  Boyd A, et al. (2013) Cohort Profile: the 'children of the 90s'--the index offspring of the Avon 
+675  Longitudinal Study of Parents and Children. Int J Epidemiol 42(1):111-127. 
+676  62.  Fraser A, et al. (2013) Cohort Profile: the Avon Longitudinal Study of Parents and Children: ALSPAC 
+677  mothers cohort. Int J Epidemiol 42(1):97-110. 
+678  63.  Northstone K, et al. (2019) The Avon Longitudinal Study of Parents and Children (ALSPAC): an 
+679  update on the enrolled sample of index children in 2019. Wellcome Open Res 4:51. 
+680  64.  Rihn  SJ,  et  al.  (2021)  A  plasmid  DNA-launched  SARS-CoV-2  reverse  genetics  system  and 
+681  coronavirus toolkit for COVID-19 research. PLoS Biol 19(2):e3001091. 
+682  65.  Walls AC, et al. (2020) Structure, Function, and Antigenicity of the SARS-CoV-2 Spike Glycoprotein. 
+683  Cell 183(6):1735. 
+22 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531709; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+684  66.  Holder KA, Ings DP, Harnum DOA, Russell RS, & Grant MD (2022) Moderate to severe SARS-CoV-
+685  2  infection  primes  vaccine-induced  immunity  more  effectively  than  asymptomatic  or  mild 
+686  infection. NPJ Vaccines 7(1):122.   
+23 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531709; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+687  Figure Captions 
+688  Figure  1|  Vaccine-,  infection-,  and  hybrid  immunity-elicited  S-specific  NK  cell  activation. 
+689  Background NK cell lysis of (a) non-transduced (open black circle) or Wuhan-Hu-1 S-expressing (red 
+690  square) MRC-5 cells elicited by plasma from SARS-CoV-2 seropositive (n = 10) or plasma collected pre 
+691  pandemic (n = 8), respectively, was measured by 51Cr release (E:T 25:1). (b) Sequential measures of S-
+692  MRC-5 cell ADCC elicited by plasma collected after infection then subsequent vaccination or after 
+693  vaccination alone was measured by 51Cr release (E:T 25:1). Experiments were performed in duplicate with 
+694  three independent donors and a representative plot shown. (c, d) Serum samples were serially diluted 
+695  and  CD57+  NK  cell  CD107a  degranulation  against A549-ACE2  cells  infected with  SARS-CoV-2 24  h 
+696  previously at MOI = 5 was measured by flow cytometry. Data from a single individual is shown in (c) and 
+697  compiled data from multiple donors in (d) was assessed by calculating the area under the curve (AUC). 
+698  Black lines bisecting groups in (a) represent the mean of individual plasma samples with standard 
+699  deviation, and in (b) represent median with IQR. P value in (b) was calculated using Kruskal-Wallis test 
+700  with Dunn’s multiple comparisons test and in (d) calculated using one-way ANOVA for matched data with 
+701  Tukey’s correction and shown above horizontal lines spanning comparison groups when significant. The 
+702  probability of hybrid immunity inducing more robust ADCC than vaccine-induced immunity was calculated 
+703  using two-sided Fisher’s exact test. 
+704  Figure 2| Spike-directed ADNKA against SARS-CoV-2-infected cells. A549-ACE2 cells were infected 
+705  with SARS-CoV-2 for 24 h and CD57+ NK cell CD107a expression measured in response to serial dilutions 
+706  of sera from vaccinees (PV2), hybrid immunity (PV2) or persons recovered from mild or severe infection 
+707  and no vaccination. Representative data in (a) is depicted at the indicated dilutions and (b) the AUC was 
+708  calculated, and data compiled for multiple donors (vaccinee n = 18; hybrid immunity n = 18; mild infection 
+709  n = 18; severe infection n =  14). (c) Sera used in (b) were applied to SARS-CoV-2-infected cells, 
+710  neutralisation assessed and NT50 calculated. (d, e) The significance of correlations between ADNKA and 
+711  NT50 were assessed using Spearman’s correlation. 
+712  Figure 3| Associations between ADCC and anti-S1/S2 IgG and IgG  Ab abundance. Correlations 
+3
+713  between ADCC induced by plasma Ab from samples collected post infection (PI) and levels of anti-S1 (open 
+714  black circle) and anti-S2 (red square) (a) IgG and (b) IgG  are plotted. Relationships between the magnitude 
+3
+715  of ADCC mediated by hybrid (PV1; open black circle) and vaccinee (PV2; black square) plasma Ab and (c) 
+716  anti-FLS IgG, (d) anti-S1 IgG, (e) anti-S2 IgG or (f) anti-FLS IgG , (g) anti-S1 IgG and (h) anti-S2 IgG  are 
+3 3  3
+717  depicted. 
+24 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531709; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+718  Figure 4| Anti-S1/S2 Ab responses after vaccination, infection, and hybrid immunity. Circulating 
+719  anti-FLS IgG Abs from (a) participants with hybrid immunity were measured post infection (PI; blue circle) 
+720  and after first (PV1; red chevron) and second (PV2; green square) vaccinations, and from vaccinated 
+721  participants (n = 40) PV1 (purple triangle) and PV2 (orange diamond). Levels of anti-S1 IgG (open black 
+722  circle) and anti-S2 IgG (red square) in samples obtained from (b) participants with hybrid immunity were 
+723  compared PI, PV1 and PV2, and from (c) vaccinees were compared PV1 and PV2. Relative amounts of anti-
+724  S1 and anti-S2 IgG  were measured for (d) persons with hybrid immunity or (e) vaccinees and anti-S1 and 
+3
+725  anti-S2 IgG  Ab levels compared. Hybrid- and vaccine-induced anti-S1 and anti-S2 (f) IgG and (g) IgG  were 
+3 3
+726  contrasted. P values in (a) were calculated using Kruskal-Wallis test with Dunn’s multiple comparisons 
+727  test; (b) – (e) using Friedman’s test with Dunn’s multiple comparisons test; (f), (g) using Kruskal-Wallis test 
+728  with Dunn’s multiple comparisons test and are shown above horizontal lines spanning comparison groups 
+729  when significant. Lines bisecting groups represent median with IQR. 
+730  Figure 5| Assessment of ADNKA after S subunit Ab depletion. Sera from individuals with hybrid 
+731  immunity were diluted 1:9 then Abs targeting the indicated domains of S were depleted using magnetic 
+732  bead-conjugated protein. These depleted serums were then used to measure CD57+ NK cell CD107a 
+733  expression at the indicated dilutions in the presence of SARS-CoV-2-infected A549-ACE2. Four individuals 
+734  are depicted in (a) – (d). (e) The AUC for each sample in (a) – (d) was calculated then the amount of ADNKA 
+735  remaining following depletion of Abs targeting each domain in relation to sera containing all Abs, or sera 
+736  from which all S Abs had been depleted, was determined (n = 5). 
+737  Figure 6| Peptide scanning to identify distinct linear regions associated with robust ADCC. 
+738  Linear FLS Ab epitope reactivity was determined by ELISA-based peptide scanning. (a) A representative 
+739  depiction of anti-IgG Ab reactive to linear segments is illustrated by an overlaid line graph. The blue line 
+740  represents OD results of the full S peptide scan of a sample collected from one participant recovered from 
+741  moderate COVID-19 infection and the orange overlay represents a sample from the same participant 
+742  collected 1 month after their first vaccination. (b) Compiled peptide scan data from samples collected 
+743  from 7 participants post infection (PI) and after hybrid immunity (H) were illustrated using a heat map and 
+744  aligned with known mutations in Delta and Omicron sequences. Three determinants associated with ADCC 
+745  are identified by asterisks. (c) The left axis depicts anti-S1 CDT1/2 (triangle), S1 CTD2 (circle) and S2 CD 
+746  (square) IgG Ab OD and compares these levels with ADCC (right axis) for two participants after infection 
+747  (open black bar) and after subsequent vaccination (open red bar). Participant IgG Ab OD collected from 
+25 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531709; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+748  peptide scanning were (d) scored for number of distinct regions or (e) tallied and associations between 
+749  Ab reactivity and levels of ADCC assessed. 
+750  Figure 7| Vaccine- and hybrid-induced S-specific ADCC against variants of concern. (a) Histogram 
+751  overlay of MRC-5 cells transduced to express similar levels of Wuhan-Hu-1 (black), Delta (grey) and 
+752  Omicron (red) S protein used in 51Cr assay to assess the efficacy of Ab produced with (b) hybrid (n = 14) or 
+753  (c)  vaccine-induced  (n  =  16)  immunity  in  eliciting  ADCC  against  variant  strains.  (d)  SARS-CoV-2 
+754  neutralisation assay was performed on serial dilutions of serum samples and NT50 values against either 
+755  Wuhan-Hu-1 or Omicron-infected A549-ACE2 were calculated. (e) Serum samples were serially diluted 
+756  and CD57+ NK cell CD107a expression against A549-ACE2 cells infected with either Wuhan-Hu-1 or 
+757  Omicron was measured by flow cytometry and AUC calculated. P values in (b) - (e) were calculated using 
+758  Student’s paired t test and shown above horizontal lines spanning comparison groups when significant.   
+26 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531709; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+759  Tables 
+760  Table 1| Relevant features and categorization of study cohort 
+     Hybrid n = 31  Vaccinee n = 40 
+Asymptomatic  4 (12.9) 
+Mild  8 (25.8) 
+Symptom  s n (%) 
+Moderate  14 (45.2)  N/A 
+Severe  5 (16.1) 
+  Mean DPI/DPSI ± SD*  250.4 ± 103.2 
+  Median Age (IQR)  63 (53-73)  55 (40-66) 
+  Mean Age ± SD  60 ± 15.2  53.8 ± 14.3 
+  Female n (%)  18 (58)  27 (67.5) 
+  Male n (%)  13 (42)  13 (32.5) 
+ChAdOx1-S n (%)  3 (9.7)  4 (10) 
+Pfizer-BioNTech n (%)  26 (83.9)  34 (85) 
+Vaccine 1 
+Moderna n (%)  2 (6.4)  2 (5) 
+Mean DPV1 ± SD*  58 ± 14.8  61 ± 15.4 
+Pfizer-BioNTech n (%)  20 (64.5)  26 (65) 
+Vaccine 2  Moderna n (%)  11 (35.5)  14 (35) 
+Mean DPV2 ± SD*  71.2 ± 21.1  72 ± 17.7 
+  Mean Days Between Vaccination ± SD  71.3 ± 16.8  75.5 ± 16 
+761   
+762  *Days post infection/days post symptom onset (DPI/DPSO); days post first vaccination (DPV1); days post second 
+763  vaccination (DPV2). Mild = few symptoms < 7 days; moderate = multiple symptoms > 7 days; severe = hospitalised. 
+27 
+ 
+
+NEW PAGE
+
+Figure 1
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531709; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+Fisher’s p < 0.0001
+p < 0.0001
+a Seropositive (n = 10) b c d p = 0.0001
+Pre pandemic (n = 8) p = 0.0338 Seronegative
+Infection (Mild) p < 0.0001
+% Specific Lysis (ADCC)102468 % Specific Lysis (ADCC) 246000 p < 0.0001 p = 0.0400 +% CD107a CD57 NK cells11505 HHyybbrriidd  PPVV21 ADNKA AUC01122.....50505
+0 0 0 0.0
+n-transdturcaendsduced InfectiHoynbrid HPyVb1rid VaPcVc2ineVea cPcVi1nee PV2 16 32 64 S12e8ru2m56 Di5l1u2ti1o02n4 2048 4096 8192 InfectiHoynbrid PHVy1brid PV2
+o
+n
+
+NEW PAGE
+
+Figure 2
+p = 0.0102
+p = 0.0005
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531709; this version posted March 9, 2023. The copyright holder for this preppri n=t 0.0061
+(which was not certified by peer review) is the author/funder. Alpl  r=ig 0h.t0s0 r0e2served. No reuse allowed without permission. 
+p = 0.0052
+p = 0.0394
+a b c
+Vaccinee PV2 (AZ)
+p = 0.0014 p = 0.0071
+Vaccinee PV2 (Pfizer)
+ells50 Hybrid PV2 8 32768
+C 4
+NK 40 Infection (Severe) C 2
++7  AU 1 1024
+D530 A  0.5 50
+C K T
+of 20 DN 0.25 N
+a  A 0.125 32
+7
+010 0.0625
+1
+D 0.03125
+C
+% 0 0.015625 1
+16 32 64 S1e28rum256 Di5lu12tio10n24 2048 4096 8192 Vaccinee PVH2ybriId nfPeVc2teIdn f(eMcitled)d (Severe) Vaccinee PVH2ybriIdn fPeVct2iIonnf (ecMtiilod)n (Severe)
+d e Vaccinee r = 0.5560, p = 0.0004
+Pfizer
+AZ Infection r = 0.4953, p < 0.0001
+Hybrid
+4 8
+2 4
+C C
+AU 1 AU 2
+A  0.5 A  1
+K K 0.5
+N 0.25 N
+D D 0.25
+A 0.125 A
+0.125
+0.0625 0.0625
+0.03125 0.03125
+16 32 64 128 256 512 1024 2048 1 32 1024 32768
+NT50 NT50
+
+NEW PAGE
+
+Figure 3
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531709; this version posted March 9, 2023. The copyright holder for this preprint
+a (which was not certified by peer breview) is the author/funder. All rights reserved. No reuse allowed without permission. 
+PI S1 IgG (n = 31) PI S2 IgG (n = 31) PI S1 IgG (n = 31) PI S2 IgG (n = 31)
+3 3
+r = 0.5282; p = 0.0023 r = 0.4867; p = 0.0055 r = 0.4652; p = 0.0084 r = 0.4462; p = 0.0119
+3300 3300
+C) C)
+C C
+D D
+A A
+(2200 (2200
+s s
+si si
+y y
+L L
+c c
+cifi1100 cifi1100
+e e
+p p
+S S
+% %
+00 00
+00..00 00..55 11..00 11..55 22..00 22..55 00..00 00..33 00..66 00..99 11..22 11..55 11..88
+Normalised OD S1/S2 IgG Normalised OD S1/S2 IgG
+3
+c Hybrid PV1 (n = 31) Vaccinee PV2 (n = 40) d Hybrid PV1 (n = 31) Vaccinee PV2 (n = 40) e Hybrid PV1 (n = 31) Vaccinee PV2 (n = 40)
+r = 0.4077; p = 0.0228  r = 0.3919; p = 0.0124 r = 0.3923; p = 0.0290  r = 0.5247; p = 0.0005 r = 0.3924; p = 0.0290  r = 0.5615; p = 0.0002
+5500 50 5500
+C) C) C)
+C40 C40 C40
+D D D
+A A A
+( ( (
+ysis30 ysis30 ysis30
+L L L
+cific20 cific20 cific20
+e e e
+p p p
+S10 S10 S10
+% % %
+0 0 0
+0 1 2 3 4 5 0 1 2 3 0 1 2 3
+Normalised OD FLS IgG Normalised OD S1 IgG Normalised OD S2 IgG
+f Hybrid PV1 (n = 31) Vaccinee PV2 (n = 40) g Hybrid PV1 (n = 31) Vaccinee PV2 (n = 40) h Hybrid PV1 (n = 31) Vaccinee PV2 (n = 40)
+r = 0.4422; p = 0.0103 r = 0.4662; p = 0.0024 r = 0.2508; p = 0.1735  r = 0.5269; p = 0.0005 r = 0.1714; p = 0.3566 r = 0.4184; p = 0.0072
+5500 5500 5500
+C) C) C)
+C40 C4400 C40
+D D D
+A A A
+( ( (
+Lysis30 Lysis3300 Lysis30
+ecific20 ecific2200 ecific20
+p p p
+S10 S1100 S10
+% % %
+0 00 0
+0.0 0.5 1.0 1.5 0.0 0.5 1.0 1.5 00..0 0.3 0.6 0.9 1.2 1.5 1.88
+Normalised OD FLS IgG Normalised OD S1 IgG Normalised OD S2 IgG
+3 3 3
+
+NEW PAGE
+
+Figure 4
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531709; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+p = 0.0011
+p < 0.0001
+p = 0.0015
+a b c
+p < 0.0001 p < 0.0001
+p < 0.0001 p = 0.0010 S1 S1
+S2 S2
+p = 0.0016p = 0.0103 p = 0.0002 p < 0.0001
+p < 0.0001 p < 0.0001
+G 5 G3 G 2.0
+g g g p = 0.0001 p < 0.0001
+S I 4 S2 I S2 I
+L 1.5
+F 1/ 1/
+D  S2 S
+O 3 D  D 
+d  O O 1.0
+e d  d 
+s 2 e e
+mali alis1 alis 0.5
+r 1 m m
+o r r
+N o o
+N N
+0 0 0.0
+InfectiHoynbrid HPyVb1rid VaPcVc2ineVea cPcVi1nee PV2 Infection Hybrid PV1 Hybrid PV2 Vaccinee PV1 Vaccinee PV2
+p = 0.0081
+0 1 2
+p = 0.0298
+d e p = 0.0136 f Hybrid (n = 31) g Hybrid (n = 31)
+p = 0.0120
+S1 S1 Vaccinee (n = 40) Vaccinee (n = 40)
+S2 S2 p < 0.0001
+p < 0.0001p < 0.0001p < 0.0001
+p < 0.0001 p < 0.0001
+G32.0 G3 2.0 p = 0.0043 G3 G32.0 p = 0.0251 p = 0.0310
+g g g g
+2 I 2 I 2 I 2 I
+S S S S
+1/ 1.5 1/ 1.5 1/ 1/1.5
+S S S2 S
+D  D  D  D 
+O 1.0 O 1.0 O O1.0
+d  d  d  d 
+e e e e
+s s s1 s
+ali 0.5 ali 0.5 ali ali0.5
+m m m m
+r r r r
+o o o o
+N N N N
+0.0 0.0 0 0.0
+on V1 V2 V1 V2 S1 S2 S1 S2
+Infecti Hybrid P Hybrid P ccinee P ccinee P
+Va Va
+
+NEW PAGE
+
+Figure 5
+a b
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531709; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+Complete
+Trimer
+20 25
+s S1 s
+ell NTD ell
+C C20
+K 15 RBD K 
+N N
++  S2 + 15
+7 7
+5 5
+D10 Seronegative D
+C C
+10
+a  a 
+7 7
+10 5 10
+D D 5
+C C
+%  % 
+0 0
+256 512 1024 2048 4096 8192 256 512 1024 2048 4096 8192
+Serum Dilution Serum Dilution
+c d e
+Complete
+Trimer
+40 S1 40
+s s
+ell NTD ell 150
+C C A
+K 30 RBD K 30 K
+N S2 N N
++7  +7  AD100
+D520 NTD+RBD D520 g 
+C Seronegative C n
+7a  7a  aini
+0 0 m 50
+D110 D110 Re
+% C % C % 
+0 0 0
+256 512 1024 2048 4096 8192 256 512 1024 2048 4096 8192 mer S1 S2 TD BD BD
+Serum Dilution Serum Dilution Tri N R D+R
+T
+N
+
+NEW PAGE
+
+Figure 6
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531709; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+a
+Infection (I)
+2
+m) Hybrid (H)
+n
+0 
+5 1
+4
+D (
+O
+0
+N NTD RBD CTD1 CTD2 FP HR1 CH CD HR2 C
+1  13 305   331 528 685 816 910 985 1035 1079 1163         1211 1273
+b
+* * *
+I
+H
+I
+H 1.5
+I
+H
+I 1.0
+H
+HI 0.5
+I
+H
+0
+I
+H
+S1 S2 S2’
+N NTD RBD CTD1 CTD2 FP HR1 CH CD HR2 C
+1  13 305   331 528 685 816 910 985 1035 1079 1163         1211 1273
+E156G
+Delta T19R 157-157 L452R
+(B.1.617.2) T95I G142D K417N T478K D614G P681R D950N
+Omicron T95I G142D K417N T478K D614G P681H
+(BA.1) 6A96/77V0 143-145 N221121I G339D SS337731PL GN444406KS EF448864VA T547K H655NY679K N764K D796Y N856K Q954NH969KL981F
+S375F S447N Q493R
+L452Q/R G496S
+Q498R
+N501Y
+Y505H
+c d e
+S1 CTD1/2  (peptides 88/89) Hybrid (n = 16) Hybrid (n = 16)
+S1 CTD2  (peptides 94/95) Vaccinee (n = 14) Vaccinee (n = 14)
+S2 CD  (peptides 164/165) r = 0.6648; p < 0.0001 r = 0.5964; p = 0.0005
+s
+2.0 40 C)50 nant4
+% C mi
+1.5 30 Specific ysis (AD3400 C Deter23
+OD1.0 20 Ly c L20 DC
+0.5 10sis (A pecifi10 D of A1
+D S O
+CC %  0 m 0
+) 0 1 2 3 u 0 10 20 30 40 50
+0.0 0 S
+nfectionHybridnfectionHybrid Number of ADCC Determinants % Specific Lysis (ADCC)
+I I
+
+NEW PAGE
+
+Figure 7
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.09.531709; this version posted March 9, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+a b Hybrid PV1 c Vaccinee PV2
+ns p = 0.0010
+ns p < 0.0001
+secondary C) 50 C)50 C)30 C)30
+C C C C
+Wu-Hu-1 D D D D
+A 40 A40 A A
+s ( s ( s (20 s (20
+Delta si 30 si30 si si
+y y y y
+L L L L
+Omicron c  20 c 20 c  c 
+cifi cifi cifi10 cifi10
+e 10 e10 e e
+p p p p
+Surface Spike (PE-A) S S S S
+%  0 %  0 %  0 %  0
+% X-mean u-Hu-1 Delta u-Hu-1 micron u-Hu-1 Delta u-Hu-1 micron
+W W O W W O
+d Vaccinee PV2 (AZ) Vaccinee PV2 (Pfizer) Hybrid PV2 e Hybrid PV2
+p = 0.0056 p < 0.0001
+128 p = 0.0030 1024 19x 1.5 1.6x
+16384 p = 0.0143
+45x 512
+12x A
+64 256 4096 K
+N1.0
+0 0 128 0 1024 D
+5 5 5 A
+T 32 T T
+N N 64 N 256 UC
+A0.5
+32
+16 64
+16
+16
+8 8 0.0
+1 n 1 n 1 n 1 n
+W u-Hu- O micro W u-Hu- O micro W u-Hu- O micro W u-Hu- O micro
+0 5
+
+NEW PAGE

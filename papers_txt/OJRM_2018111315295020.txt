@@ -1,0 +1,423 @@
+Open Journal of Regenerative Medicine, 2018, 7, 19-27 
+http://www.scirp.org/journal/ojrm 
+ISSN Online: 2169-2521 
+ISSN Print: 2169-2513 
+ 
+ 
+ 
+Mesenchymal Stem Cells—A Boon to Orthopedics 
+Ramesh R., Madhan Jeyaraman*, Kartavya Chaudhari, Hardik J. Dhamsania, Prajwal G. S. 
+Department of Orthopedics, JJM Medical College, Davangere, India 
+ 
+ 
+ 
+How to cite this paper: Ramesh R., Jeya- Abstract 
+raman, M., Chaudhari, K., Dhamsania, H.J. 
+and Prajwal G.S. (2018) Mesenchymal Stem  Percutaneous administration of “Orthobiologics” offers the advantage of ac-
+Cells—A  Boon  to  Orthopedics.  Open  celerated and functional recovery of musculoskeletal disorders. Stem cell op-
+Journal of Regenerative Medicine, 7, 19-27.  timizes the biological healing of diseases. The regenerative capacity of mesen-
+https://doi.org/10.4236/ojrm.2018.72002 
+chymal stem cells provides a pavement for clinicians to build up an organ of 
+ 
+Received: May 17, 2018  interest in vitro. Mesenchymal stem cells remain the perfect cell based tissue 
+Accepted: June 26, 2018  regeneration modality for treatment of musculoskeletal disorders in a mini-
+Published: June 29, 2018  mally invasive environment without any significant morbidity. This article 
+ 
+outlines the applications of mesenchymal stem cell administration in various 
+Copyright © 2018 by authors and  
+Scientific Research Publishing Inc.  musculoskeletal disorders. 
+This work is licensed under the Creative   
+Commons Attribution International   Keywords 
+License (CC BY 4.0). 
+http://creativecommons.org/licenses/by/4.0/   Mesenchymal Stem Cells, Orthobiologics, Micromolecules, Differentiation, 
+Open Access Growth Factors 
+   
+ 
+1. Introduction 
+Percutaneous administration of “Orthobiologics” with osteoinductive and osteoin-
+tegrative properties offers the advantage of accelerated and functional recovery 
+of musculoskeletal disorders. Due to recent advances in molecular and tissue en-
+gineering and regeneration, the research on micromolecules has become the 
+prime importance in the field of medical sciences. Stem cell offers a greater ad-
+vantage of biological healing cascade without any significant morbidity to the 
+individuals. The future relies on regenerative medicine called stem cells which 
+has the scientific and ethical controversies. This article outlines the cell of inter-
+est called mesenchymal stem cells usage in orthopaedics. 
+2. Orthobiologics 
+“Orthobiologics” are the biological agents which help in healing the muscular 
+and skeletal disorders within a micromolecular and natural healing environment. 
+ 
+DOI: 10.4236/ojrm.2018.72002  Jun. 29, 2018  19  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+Ramesh R. et al. 
+ 
+The bases of orthobiologics are: 
+•  Matrix materials—Forms the ground substance and scaffold or frame work 
+up-on which the stem cells forms the targeted tissue of interest. 
+•  Growth factors—Potent substances to induce the tissue of interest. 
+•  Stem cells—Biological cells which are cultured to produce the tissue of inter-
+est. 
+There are several forms of orthobiologics which are as follows: 
+1) Bone grafts. 
+2) Bone marrow aspirate. 
+3) Demineralised bone matrix. 
+4) Synthetic bone grafts. 
+5) Autologous blood injection. 
+6) Autologous conditioned serum. 
+7) Platelet rich plasma. 
+8) Stem cells. 
+9) Growth factors. 
+10) Bone morphogenetic proteins. 
+Stem cells 
+Stem cells are the naïve cells, blank cells (don’t possess any cell surface mark-
+ers) and uncommitted cells which can be differentiated into other cell types and 
+can self renew to produce same type of stem cells exponentially in a controlled 
+manner (Figure 1). Broadly stem cells are classified into: 
+a) Embryonic stem cells (ESC) [1] which are found in the inner mass of blas-
+tocyst, 
+b) Adult stem cells (ASC) [1] which are found in bone marrow, adipose tissue 
+or blood cells, 
+c) Induced pluripotent stem cells (iPSC) [1] which are cultured in the labora-
+tory to produce the tissue of interest. 
+Dynamics of stem cells [1] 
+Properties of stem cell [1] 
+A) Self renewal 
+ 
+ 
+Figure 1. Dynamics of stem cells. 
+ 
+DOI: 10.4236/ojrm.2018.72002  20  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+Ramesh R. et al. 
+ 
+•  Obligatory asymmetric replication—Renewal of stem cell from a daughter 
+cell. 
+•  Stochastic differentiation—Differentiation of one daughter cell into stem cell 
+and differentiation of one daughter cell to undergo mitosis to form another 
+stem cell. 
+B) Differentiation 
+ 
+ 
+ 
+Techniques of stem cell application 
+a) Direct delivery—The aspirated bone or bone marrow is directly inserted to 
+the injury site. This facilitates direct delivery of stem cells to the injury site and 
+hastens the healing cascade. 
+b) Cell based delivery—Bone marrow is aspirated, and the stem cells are iso-
+lated, cultured and differentiated in laboratory media to increase their numbers 
+before being applied to the injury site. 
+Embryonic stem cells (ESC) 
+Embryonic stem cells (ES cells or ESCs) are pluripotent stem cells derived 
+from the inner cell mass of a blastocyst, an early stage pre-implantation embryo. 
+Human embryos reach the blastocyst stage 4 - 5 days post fertilization, at which 
+time they consist of 50 - 150 cells. Isolating the embryoblast, or inner cell mass 
+(ICM) results in destruction of the blastocyst, a process which raises ethical issues. 
+Properties of embryonic stem cells 
+Embryonic stem cells are pluripotent which are able to differentiate to gener-
+ate primitive ectoderm, which ultimately differentiates during gastrulation into 
+all derivatives of the three primary germ layers: ectoderm, endoderm, and me-
+soderm. Under defined conditions, embryonic stem cells are capable of propa-
+gating indefinitely in an undifferentiated state. Conditions must either prevent 
+the cells from clumping, or maintain an environment that supports an unspecia-
+lized state. When provided with the appropriate signals, to differentiate (pre-
+sumably via the initial formation of precursor cells) into nearly all mature cell 
+phenotypes. 
+ 
+DOI: 10.4236/ojrm.2018.72002  21  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+Ramesh R. et al. 
+ 
+Uses of ESC are a) regenerative medicine and tissue replacement after injury 
+or disease and b) pluripotent stem cells are used in the treatment of spinal cord 
+injuries, age related macular degeneration, diabetes, neurodegenerative disorders 
+(such as Parkinson’s disease), AIDS. 
+Adult stem cells (ASC) 
+Adult stem cells, known as somatic stem cells, are undifferentiated cells, found 
+throughout the body after development that multiply by cell division to reple-
+nish dying cells and regenerate damaged tissues. ASC have the inherent property 
+of self renewal and multidifferentiative potential. The signalling pathways present in 
+ASC are a) NOTCH gene pathway for hematopoietic, neural and mammary 
+stem cells, b) Wnt signalling pathway for proposed stem cell regulators and c) 
+TGF-β to regulate the stemness of both normal and cancer stem cells. 
+Types of adult stem cells: 
+a) Hematopoietic stem cell—Bone marrow and umbilical cord. 
+b) Mammary stem cell—Luminal and myoepithelial cell types of the gland. 
+c) Intestinal stem cells—Crypts of Lieberkuhn. 
+d) Mesenchymal stem cells. 
+e) Endothelial stem cell—Cells that line blood vessels. 
+f) Neural stem cell—Present in the subventricular zone, which lines the lateral 
+ventricles, and the dentate gyrus of the hippocampal formation. 
+g) Olfactory adult stem cells. 
+h) Ocular stem cells—Found in the area of limbus. 
+i) Neural crest stem cells—Hair follicles which represents a remnant of stem 
+cells of embryonic neural crest. These cells can generate neurons, Schwann cells, 
+myofibroblast, chondrocytes and melanocytes. 
+j) Testicular stem cells—Spermatogonial progenitor cells found in the testicles 
+of laboratory mice by scientists in Germany and the United States. 
+Induced pluripotent stem cells 
+Induced pluripotent stem cells (also known as iPS cells or iPSCs) are a type of 
+pluripotent stem cell that can be generated directly from adult cells. iPSCs are typ-
+ically derived by introducing products of specific sets of pluripotency-associated 
+genes, or “reprogramming factors”, into a given cell type. iPSC derivation is typ-
+ically a slow and inefficient process, taking 1 - 2 weeks for mouse cells and 3 - 4 
+weeks for human cells, with efficiencies around 0.01% - 0.1%. Upon introduc-
+tion of reprogramming factors, cells begin to form colonies that resemble pluri-
+potent stem cells, which can be isolated based on their morphology, conditions 
+that select for their growth, or through expression of surface markers or reporter 
+genes. The challenges in iPSC are low efficiency, inadequate programming, ge-
+nomic insertion and tumorigenic potential. 
+Method of induction of cells: 
+•  Isolate and culture donor cells. 
+•  Transduce stem cell-associated genes into the cells by viral vectors. Red cells 
+indicate the cells expressing the exogenous genes. 
+ 
+DOI: 10.4236/ojrm.2018.72002  22  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+Ramesh R. et al. 
+ 
+•  Harvest and culture the cells according to ES cell culture, using mitotically 
+inactivated feeder cells. 
+•  A small subset of the transfected cells become iPS cells and generate ES-like 
+colonies. 
+Mesenchymal stem cells (MSCs) 
+Mesenchymal stem cells are the specialized form of adult stem cells which has 
+the potential to differentiate into multi-lineage cell lines (Figure 2) such as osteo-
+cyte, chondrocyte, adipocyte, neurocyte, myocyte, histiocyte and stromal cells. 
+MSCs are found in bone marrow, cord cells, adipose tissue, amniotic fluid and 
+molar teeth. 
+ 
+ 
+Figure 2. Biology of mesenchymal stem cells. 
+ 
+Salient features of MSC [2] [3] 
+•  Adherent fibroblast like morphology. 
+•  No expression of hematopoietic stem cell markers such as CD34 and CD14. 
+•  Expression of matrix markers such as CD44, CD29 and CD71. 
+•  Expression of mesenchymal stem cell markers, SH2 and SH105. 
+•  Contains extra cellular matrix components such as collagen, proteoglycans 
+and fibronectin. 
+•  Growth factors and cytokine receptors for TGF-β. 
+•  Anti proliferative activity to inhibit T cell proliferation into tumorigenic cells. 
+•  Favours immunoprivilege & allogenic preparation. 
+Culture of MSC 
+Mesenchymal stem cells are cultured in basal medium such as Dulbecco’s 
+modified Eagle’s medium (high glucose) in the presence of 10% fetal bovine se-
+rum (FBS). In culture, MSCs have a fibroblastic morphology. Primary cultures 
+are usually maintained for 12 - 16 days, during which haematopoietic cell frac-
+tion is depleted. The addition of growth factor supplements such as fibroblast 
+growth factor-2 (FGF-2) to primary cultures of human MSCs to lead to an en-
+ 
+DOI: 10.4236/ojrm.2018.72002  23  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+Ramesh R. et al. 
+ 
+hanced osteogenic potential [2] [3]. 
+Immune modulation of MSCs [4] 
+a) T lymphocyte system 
+MSC-mediated immunoregulation is mediated through nitric oxide and indolea-
+mine 2,3-dioxygenase (IDO), which are only released by MSCs after triggering by 
+IFNγ produced by target cells. IDO inhibits the proliferation of IFNγ-producing 
+TH1 cells and, with PGE, to block NK-cell activity. 
+2
+b) HLA-G5 system 
+MSCs produce soluble HLA-G5 which suppress T-cell proliferation, NK-cell 
+and T-cell cytotoxicity, and promotes regulatory T cell production. 
+Application of MHCs in Orthopedics 
+a) Cartilage 
+Cartilage is an avascular and aneural structure which has very limited poten-
+tial for regeneration. Mesenchymal stem cells are used to provide a scaffold and 
+meshwork to rejuvenate the focal chondral defect by autologous chondrocyte 
+implantation (ACI). ACI is a two-stage procedure, with assessment of the chon-
+dral injury and biopsy to harvest 200 to 300 mg of healthy cartilage, followed by 
+an enzymatic digestion and cell expansion in monolayer culture with cryopre-
+servation of the cells which is further thawed and expanded to the target cell 
+population. During the second stage, a biological reconstruction is performed to 
+repair the articular cartilage defects to hasten the recovery with a successful 
+functional outcome [5]. 
+For osteoarthritis knee, the delivery of ultrasonicated adipose tissue offers a 
+great advantage in proliferation of chondrocytes along with growth factors leads 
+to better pain relief and functional improvement in quality of life. The dose of 
+adipose tissue to be injected depends upon the grade of osteoarthritis and BMI 
+of the individual [6]. 
+b) Bone 
+BMP receptor 1B is required for mesenchymal stem cell to form osteoblastic 
+lineage in bone defects. Mesenchymal stem cells are used to enhance the regene-
+ration of osseous defect in case of segmental bone loss, established non union 
+and regeneration of physeal defect in children [7] [8]. The optimal loading of 
+MSC on-to a carrier such as retroviral or adenoviral molecule offers a great ad-
+vantage in minimally invasive procedure than conventional open surgical tech-
+niques. These MSC should possess the properties of osteoinduction, osteocon-
+duction, osteointegration and mechanical stimulation to regenerate osseous de-
+fects. In segmental bone loss, calcium carbonate or hydroxyapatite scaffold is 
+inserted upon which MSC are delivered to promote osteogenesis and osteointe-
+gration [9]. 
+c) Tendons 
+The chronic and overuse of tendons leads to degenerative conditions such as 
+plantar fasciitis, interscapular fibrofasciitis, tennis elbow, golfer’s elbow and ten-
+dinopathies. Such degenerated tendon has an inferior potential to regenerate. 
+ 
+DOI: 10.4236/ojrm.2018.72002  24  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+Ramesh R. et al. 
+ 
+Autologous tenocyte injection is performed by a needle biopsy of healthy 
+tendon which is subjected for isolation of cell of interest called tenocyte. Then 
+tenocyte is amplified in cell cultured media and are injected into the injured or 
+degenerated tendon [10]. 
+Tendon bioengineering using mesenchymal stem cells and a silk scaffold, al-
+logenic adipose tissue derived mesenchymal stem cells and injection of micro-
+RNA with a loss of miR29 which results in increase in the production of type 
+collagen 3 [11]. 
+d) Ligaments 
+Sports injuries will result in concomitant injury to ligaments which has very 
+poor potential to regenerate. MSC along with bone morphogenetic protein 2 and 
+7 & growth factors enhance neovascularization and regeneration of injured or 
+degenerated ligaments. In ACL and meniscal rupture, intra-articular injection of 
+MSCs with BMP 2 & 7 offers a biological healing of the ruptured ligaments. The 
+scaffold based tissue bioengineering offers a greater advantage in ligamentous 
+healing [12] [13]. 
+e) Spine 
+MSC transplantation into the degenerated disc offers a potential to increase 
+proteoglycans and glycosaminoglycans and induce degenerated spine & disc for 
+regeneration and prevents vertebral collapse. The transported MSC maintain the 
+viability of cells and involve in synthesizing micromolecules responsible for 
+maintenance of disc shape [14]. 
+MSC has the potent ability to form neural tissue and offers a functional life to 
+patients with traumatic paraplegia. The injection of MSC along with carrier mo-
+lecule to the injured site allows optimized enhancement of remyelination of the 
+neural tubes and axons thereby restoring the spinal reflex arcs [15]. 
+f) Miscellaneous disorders 
+MSC has been tried in osteogenesis imperfecta where the defect lies in type 1 
+collagen synthesis. MSC are directed to increase the bone strength & integrity 
+and produces type 1 collagen which prevents recurrent fractures with trivial 
+trauma. MSC eliminates the need of immunosuppression in patients with osteo-
+genesis imperfecta [16]. 
+In Duchene muscular dystrophy, the defect is due to mutation of dystrophin 
+gene leads to the absence of dystrophin protein. MSC administration offers a 
+greater advantage of contractile myotubules differentiation and regeneration of 
+damaged myotubular system [17]. 
+In avascular necrosis of bone, the primary pathology is idiopathic. Some theo-
+ries states avascular necrosis is due to increased intra-osseous pressure. The aim 
+of surgery is to decompress the intra-osseous pressure by drilling multiple holes 
+in the bone. Delivering of MSCs in the drill holes leads to osteointegration and 
+osteogenesis which helps in remodelling of the bony structures [18]. 
+Significance of MSC over ESC and iPSC 
+•  Mesenchymal stem cells are more advantageous than embryonic stem cells 
+ 
+DOI: 10.4236/ojrm.2018.72002  25  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+Ramesh R. et al. 
+ 
+and induced pluripotent stem cells. 
+•  MSC are easily accessible from the donor and to be cultured upon the labor-
+atory. 
+•  MSC does not raise any ethical or legal concerns when compared to embryo-
+nic stem cells. 
+•  MSC does not possess any tumorigenic potential when compared to induced 
+pluripotent stem cells. 
+•  MSC possess immunoprivilege and immunomodulation at every point of cell 
+cycle by which it is propagated to produce the tissue of interest. 
+3. Conclusion 
+MSCs admixed with micromolecules such as growth factors, cytokines & BMPs 
+provide a three dimensional structure and biomechanically, structurally and 
+functionally compliant to the naïve cells of host origin. Further research on the 
+dosage and protocols on MSC for various disorders should be formulated which 
+leads to decreased morbidity and improve the functional quality of life. 
+Conflicts of Interest 
+The authors declare no conflicts of interest regarding the publication of this pa-
+per. 
+References 
+[1]  Barry, F.P. and Murphy J.M. (2004) Mesenchymal Stem Cells: Clinical Applications 
+and Biological Characterization The International Journal of Biochemistry & Cell 
+Biology, 36, 568-584. https://doi.org/10.1016/j.biocel.2003.11.001 
+[2]  Deans, R.J. and Moseley, A.B. (2000) Mesenchymal Stem Cells. Experimental He-
+matology, 28, 875-884. https://doi.org/10.1016/S0301-472X(00)00482-3 
+[3]  Pittenger, M.F., Flake, A.M. and Deans, R.J. (2002) Stem Cell Culture: Mesenchymal 
+Stem Cells from Bone Marrow. In: Atala, A. and Lanza, R.P., Eds., Methods of Tis-
+sue Engineering, Academic Press, San Diego, 461-469. 
+[4]  Uccelli, A., Moretta, L. and Pistoia, V. (2008) Mesenchymal Stem Cells in Health 
+and Disease. Nature Reviews Immunology, 8, 726-736.  
+https://doi.org/10.1038/nri2395 
+[5]  Their, S., Weiss, C. and Fickert, S. (2017) Arthroscopic Autologous Chondrocyte 
+Implantation in the Hip for the Treatment of Full-Thickness Cartilage Defects: A 
+Case Series of 29 Patients and Review of the Literature. SICOT-J, 3, 72.  
+https://doi.org/10.1051/sicotj/2017037 
+[6]  Wakitani, S., Goto, T., Pineda, S.J., et al. (1994) Mesenchymal Cell-Based Repair of 
+Large, Full Thickness Defects of Articular Cartilage. The Journal of Bone and Joint 
+Surgery, 76, 579-592. https://doi.org/10.2106/00004623-199404000-00013 
+[7]  Jaiswal, N., Haynesworth, S.E., Caplan, A.I. and Bruder, S.P. (1997) Osteogenic Dif-
+ferentiation of Purified, Culture-Expanded Human Mesenchymal Stem Cells in Vi-
+tro. Journal of Cellular Biochemistry, 64, 295-312.  
+https://doi.org/10.1002/(SICI)1097-4644(199702)64:2<295::AID-JCB12>3.0.CO;2-I 
+[8]  Reddi, A.H. (1998) Initiation of Fracture Repair by Bone Morphogenetic Proteins. 
+ 
+DOI: 10.4236/ojrm.2018.72002  26  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+Ramesh R. et al. 
+ 
+Clinical Orthopaedics and Related Research, 355, 66-72.  
+https://doi.org/10.1097/00003086-199810001-00008 
+[9]  Ahn, J.I., Terry Canale, S., Butler, S.D. and Hasty, K.A. (2004) Stem Cell Repair of 
+Physeal Cartilage. Journal of Orthopaedic Research, 22, 1215-1221.  
+https://doi.org/10.1016/j.orthres.2004.03.012 
+[10]  Wang, A.W., Bauer, S., Goonatillake, M., Breidahl, W. and Zheng, M.-H. (2013) 
+Autologous Tenocyte Implantation, a Novel Treatment for Partial Thickness Rota-
+tor Cuff Tear and Tendinopathy in an Elite Athelete. BMJ Case Reports, 2013.  
+https://doi.org/10.1136/bcr-2012-007899 
+[11]  Rodeo, S.A., Suzuki, K., Deng, X.H., Wozney, J. and Warren, R.F. (1999) Use of 
+Recombinant Human Bone Morphogenetic Protein-2 to Enhance Tendon Healing 
+in a Bone Tunnel. The American Journal of Sports Medicine, 27, 476-488.  
+https://doi.org/10.1177/03635465990270041201 
+[12]  Hyman, J. and Rodeo, S.A. (2000) Injury and Repair of Tendons and Ligaments. 
+Physical Medicine and Rehabilitation Clinics of North America, 11, 267-288.  
+https://doi.org/10.1016/S1047-9651(18)30129-3 
+[13]  Peretti, G.M., Caruso, E.M., Randolph, M.A. and Zaleske, D.J. (2001) Meniscal Re-
+pair Using Engineered Tissue. Journal of Orthopaedic Research, 19, 278-285.  
+https://doi.org/10.1016/S0736-0266(00)90010-X 
+[14]  Crevensten, G., Walsh, A.J., Ananthakrishnan, D., et al. (2004) Intervertebral Disc 
+Cell Therapy for Regeneration: Mesenchymal Stem Cell Implantation in Rat Inter-
+vertebral Discs. Annals of Biomedical Engineering, 32, 430-434.  
+https://doi.org/10.1023/B:ABME.0000017545.84833.7c 
+[15]  Akiyama, Y., Radtke, C., Honmou, O. and Kocsis, J.D. (2002) Remyelination of the 
+Spinal Cord Following Intravenous Delivery of Bone Marrow Cells. Glia, 39, 
+229-236. https://doi.org/10.1002/glia.10102 
+[16]  Horwitz, E.M., Prockop, D.J., Fitzpatrick, L.A., et al. (1999) Transplantability and 
+Therapeutic Effects of Bone Marrow-Derived Mesenchymal Cells in Children with 
+Osteogenesis Imperfecta. Nature Medicine, 5, 309-313. https://doi.org/10.1038/6529 
+[17]  Gussoni, E., Soneoka, Y., Strickland, C.D., et al. (1999) Dystrophin Expression in 
+the MDX Mouse Restored by Stem Cell Transplantation. Nature, 401, 390-394.  
+https://doi.org/10.1038/43919 
+[18]  Houdek, M.T., Wyles, C.C., Martin, J.R. and Siera, R.J. (2014) Stem Cell Treatment 
+for Avascular Necrosis of the Femoral Head: Current Perspectives. Stem Cell Clon-
+ing, 7, 65-70. 
+ 
+ 
+ 
+DOI: 10.4236/ojrm.2018.72002  27  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE

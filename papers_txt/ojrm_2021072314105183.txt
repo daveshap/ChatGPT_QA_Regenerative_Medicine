@@ -1,0 +1,584 @@
+Open Journal of Regenerative Medicine, 2021, 10, 19-30 
+https://www.scirp.org/journal/ojrm 
+ISSN Online: 2169-2521 
+ISSN Print: 2169-2513 
+ 
+ 
+ 
+Autologous Adipose-Derived Mesenchymal 
+Stem Cells Embedded in Platelet-Rich Fibrin   
+in Diabetic Foot Ulcers 
+Charbel Khalil1,2,3*, Diana Chaker1,4,5, Rawad Salameh1, Yvonne-Elise Germanos6,   
+Elie El Kayem7, Fady Nader6, Jessica Habbouche2,8, Rodrigue Chemaly2,6,7, Albert Azar1,   
+Ahmad Ibrahim1,2,6,9 
+1Reviva Stem Cell Platform for Research and Applications Center, Bsalim, Lebanon 
+2Middle East Institute of Health University Hospital, Bsalim, Lebanon 
+3Faculty of Pharmacy, Saint Joseph University, Beirut, Lebanon 
+4National Institute of Health and Medical Research, INSERM, Paris Sud, France 
+5Faculty of Pharmacy, Therapeutic Innovation from Fundamentals to Applications, Paris Saclay University,  
+Chätenay Malabry, France 
+6Faculty of Medicine, Lebanese University, Beirut, Lebanon 
+7School of Medicine, Lebanese American University, Beirut, Lebanon 
+8Michigan Medicine Speciality Pharmacy, Ann Arbor, MI, USA 
+9Cancer Center, Middle East Institute of Health University Hospital, Bsalim, Lebanon 
+ 
+ 
+ 
+How to cite this paper: Khalil, C., Chaker,  Abstract 
+D., Salameh, R., Germanos, Y.-E., El Kayem, 
+E., Nader, F., Habbouche, J., Chemaly, R.,  Context and Aim: Mesenchymal stem cells (MSCs) and platelet-rich fibrin 
+Azar, A. and Ibrahim, A. (2021) Autolog- (PRF) have emerged as ideal candidates for advanced therapies of various 
+ous Adipose-Derived Mesenchymal Stem  therapeutically-challenging diseases; however, their regenerative potential in 
+Cells Embedded in Platelet-Rich Fibrin in 
+diabetic foot ulcers (DFU) has not been well determined. In this study, we re-
+Diabetic Foot Ulcers. Open Journal of Re- 
+generative Medicine, 10, 19-30.  viewed our clinical experience in mitigating chronic ulcer complications of 
+https://doi.org/10.4236/ojrm.2021.102002   diabetic foot through a conventional treatment of autologous adipose-derived 
+  MSCs embedded in PRF with pure PRF injections. Materials and Methods: 
+Received: April 14, 2021 
+The present study was carried out in 10 patients with an open DFU wound 
+Accepted: June 27, 2021 
+Published: June 30, 2021  selected over a period of 1 year starting from April 2019. Patients were either 
+  injected with PRF alone (Group A) or injected with MSCs derived from adi-
+Copyright © 2021 by author(s) and   pose tissue (ADMSC) embedded in (PRF (Group B). Results: Patients in 
+Scientific Research Publishing Inc. 
+Group B had a better healing index when compared to Group A. Conclusion: 
+This work is licensed under the Creative 
+Commons Attribution International   Use of ADMSC embedded in PRF showed promising results to treat DFU. 
+License (CC BY 4.0).   
+http://creativecommons.org/licenses/by/4.0/   Keywords 
+Open Access
+    Diabetic Foot Ulcer, Diabetes, Mesenchymal Stem Cells, Adipose Tissue, 
+Platelet Rich Fibrin 
+ 
+DOI: 10.4236/ojrm.2021.102002  Jun. 30, 2021  19  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+C. Khalil et al. 
+ 
+1. Introduction 
+Diabetic foot infections have been an increasingly common problem globally 
+due to the sustained rise in new incidences of diabetes and the increasing body 
+weight of diabetic patients [1] [2]. They usually arise either as a skin ulceration 
+caused by a sensory or motor peripheral neuropathy or as a trauma-induced 
+wound [1]. Diabetic foot ulcer (DFU) complications are the main reason for di-
+abetes-related hospitalizations and lower extremity amputations [1]. In the United 
+States, DFUs constitute two-thirds of all non-traumatic amputations [3]; while 
+in Lebanon, 80% of patients with DFUs undergo a lower limb amputation [4]. It 
+is considered a major public health issue because it negatively impacts patients 
+physically and emotionally and involves a large proportion of costs to the medi-
+cal system and society [1] [3]. 
+Patients with open wounds require particular local-wound care [5]. Following 
+tissue injury, cellular and chemotactic factors promote the migration of fibrob-
+lasts, macrophages, keratinocytes, and platelets to the site of injury accompanied 
+with endothelial cell recruitment that is essential for angiogenesis [6] [7] [8]. The 
+process of wound healing is characterized to be a linear pathway that starts with 
+the achievement of hemostasis, followed consecutively by inflammation, epithe-
+lialization, and fibroplasia to complete the healing process [9] [10]. In order to 
+manage and maintain wound healing, the cells release growth factors (GF) and 
+cytokines, such as VEGF, FGF2, TGF-β, etc. [11]. 
+Although many topical agents and wound maintenance interventions are meant 
+to improve the wound healing environment, such as debridement, hyperbaric 
+oxygen therapy, ultrasound and electromagnetic energy [9] [10], negative pres-
+sure wound therapy [11], extracellular matrix products and cellular-based tissue 
+technologies [12], etc. unfortunately data is lacking to support any definitive 
+protocols for DFU healing.  
+In the past decade, various studies have demonstrated that the therapeutic use 
+of platelet-rich plasma (PRP) was successful as a basic sealing and hemostatic 
+therapeutic tool in plastic surgery especially in oral, hand, and aesthetic surgery 
+[12] [13] [14]. However, many limitations in PRP therapy, such as the associa-
+tion of anti-coagulants, have the benefits and clinical outcomes of PRP use in the 
+treatment of chronic ulcers, resulting in the inhibition of the wound healing 
+process [15] [16]. Thus, platelet-rich fibrin (PRF) was developed as an easy to 
+prepare, nontoxic, and biocompatible platelet-based therapeutic alternative [17] 
+[18]. Also known as “Glue Therapy”, PRF used as a cell scaffold was proposed as 
+an effective approach to promote and repair wound healing [6]. PRF is a platelet 
+concentrate collected on a single fibrin membrane that contains all the constitu-
+ents favorable for healing. The scientific rationale behind the use of platelet prep-
+arations lies in the fact that platelets serve as a reservoir for numerous growth 
+factors that are known to play a crucial role in hard-tissue and soft-tissue healing 
+processes [7]. Intact platelets contained within a fibrin matrix release a relatively 
+constant concentration of growth factors over a period of 7 days, stimulating 
+human osteoblastic proliferation. An effect on neoangiogenesis also has been 
+ 
+DOI: 10.4236/ojrm.2021.102002  20  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+C. Khalil et al. 
+ 
+shown through histology. In a membrane form, platelet can be used as a fibrin 
+bandage that serves as a matrix to accelerate the healing of wound edges [8]. 
+Platelets are considered to play an important role in the healing process of 
+wounds, as they release GFs upon activation following their pulverization on the 
+wound bed within the first hour [19]. These GFs contribute to the repair of in-
+jured tissues through promoting angiogenesis, synthesis of extracellular matrix 
+components like collagen, laminin, and integrin, and interestingly via inducing a 
+re-epithelization of the injured site [12] [20]. 
+Recently, mesenchymal stem cells (MSC) have been used in many clinical tri-
+als and applications giving rise to various differentiated cell lineages [13]. MSCs 
+can be collected from bone marrow, umbilical cords [14], and from adipose tis-
+sue (ADMSC), which is a less invasive and painful method than harvesting hu-
+man bone marrow [21]. MSC-based therapies are also promising alternatives to 
+treat tissue loss diseases through their high proliferation potential and cytokine 
+and growth factor secretions known to be essential for organ homeostasis and 
+tissue repair [17]. Like platelets, MSCs also promote healing in DFUs by secret-
+ing GFs, which play a role in reducing inflammation and promoting angiogene-
+sis within the wound [21]. 
+In this study, we evaluated the efficacy of ADMSCs embedded in autologous 
+PRF on the chronic DFU healing process compared to autologous PRF treat-
+ment alone. We propose our protocol as a potentially new cost-effective thera-
+peutic approach with better and faster outcomes than traditional chronic wound 
+healing treatments. 
+2. Material and Methods 
+2.1. Study Design and Patient Selection 
+This is a retrospective, experimental study. Ten patients with chronic DFU were 
+divided into two groups (each n = 5): Group A (pure PRF) and Group B 
+(ADMSC + PRF). The administration of treatment took place on an outpatient 
+basis without the need for hospital admission. Between two and three sessions 
+were performed per patient (once a week). All participants were aged between 53 
+and 93 years old (median age ± 71 years old) and were refractory to the usual 
+conservative DFU treatments, such as enzymatic and antibiotic debriding sub-
+stances and various hydrocolloid dressings. There were no exclusion criteria; 
+all patients with diabetic foot ulcers were included even those with infected 
+wounds.  
+All procedures conducted during the study were carried out in compliance 
+with institutional ethical standards. Reviva Regenerative Medicine Center and 
+the Middle East Institute of Health-University Hospital Ethics Review Boards 
+approved the retrieval of all MSC and PRF collections (Approval Reference 
+Number CTU-009-15) and all patients were asked to read, approve, and sign an 
+informed consent form prior to any participation. 
+To evaluate ulcer progression and examine the regenerative power of the PRF, 
+we used the “Zaragoza 1-4” scale: Table 1.  
+ 
+DOI: 10.4236/ojrm.2021.102002  21  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+C. Khalil et al. 
+ 
+Table 1. Zaragoza scale. 
+Score  Clinical Observation  Outcome 
+0  No improvement  Very Poor 
+1  Granulation only on peripheral edges  Poor 
+2  Deep-seated granulation only  Fair 
+3  Adequate deep-seated and surface granulation  Good 
+4  Complete healing  Excellent 
+2.2. Preparation of Autologous PRF 
+We used the Vivostat® PRF system, an automated system for efficient prepara-
+tion and application of autologous PRF in wound treatment. Blood (120 mL) 
+was drawn into a preparation unit, anticoagulants were added, and the whole 
+preparation unit was double-centrifuged to obtain 5 mL of plasma rich in 
+growth factors and autologous fibrin (concentration 20 mg/mL). This process 
+took approximately 23 minutes (min). Samples were then taken for culture of 
+the wounds and the ulcers were disinfected using a normal saline and chlorhex-
+idine 2% wash. Photographs were taken to allow monitoring of the course of 
+treatment. (Note: No thrombin or bovine components were added to the Vivos-
+tat® PRF at any time.) 
+2.3. Mesenchymal Stem Cell Collection 
+Patients underwent standard liposuction under good medical practice condi-
+tions. Approximately 250 mL of fat mixed with local anesthetics was obtained. 
+To isolate the stromal vascular fraction (SVF), lipoaspirates were washed in-
+tensely with phosphate-buffered saline (PBS) containing 5% of penicillin, strep-
+tomycin and amphotericin B (PSA). Next, the lipoaspirates were digested with 
+an equal volume of 0.075% collagenase type I (Sigma-Aldrich) for 30 - 60 min at 
+37˚C with gentle agitation. The activity of the collagenase was neutralized with 
+Dulbecco’s Modified Eagle Medium (DMEM) containing 10% fetal bovine se-
+rum (FBS; Invitrogen; Thermo Fisher Scientific, Inc., Waltham, MA, USA). To 
+obtain the high-density SVF pellet, the digested lipoaspirate was centrifuged at 
+1200 g for 10 min. The pellet was then resuspended in DMEM containing 10% 
+FBS and filtered through a 100 μm nylon cell strainer (Falcon). The filtered cells 
+were centrifuged at 1200 g for 10 min. The resuspended SVF cells were plated at 
+a density of 1 × 106/cm2 into T75 or T175 culture flasks. Non-adherent cells were 
+removed 12 - 18 hours after initial plating by intensely washing the plates. The 
+resulting fibroblastoid adherent cells, termed AT-derived fibroblastoid adherent 
+cells, were cultivated at 37˚C at a humidified atmosphere containing 5% CO. 
+2
+The expansion medium consisted of Minimum Essential Medium Eagle − Alpha 
+Modification (Alpha MEM) + 10% fetal bovine serum (FBS; Invitrogen; Thermo 
+Fisher Scientific, Inc., Waltham, MA, USA) and 5% penicillin-streptomycin- 
+amphotericin  B  solution  (PSA:  Hyclone;  GE  healthcare,  Logan,  UT,  USA). 
+ADMSCs were maintained in Alpha-MEM + 10% FBS and 5% PSA until they 
+ 
+DOI: 10.4236/ojrm.2021.102002  22  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+C. Khalil et al. 
+ 
+reached 70% to 90% confluency. Cells were harvested at subconfluence using 
+Trypsin (Sigma-Aldrich). 
+2.4. Platelet Concentrate Functionality Evaluation 
+TGF-β1, PDGF-AB, PDGF-BB, VEGF and FGF-2 were measured by ELISA. The 
+supernatant and the antibody (monoclonal biotinyle) form a complex after the 
+interaction of biotin and streptavidin during incubation for 60 min. The excess 
+was eliminated by washing and then an enzyme-antibody complex was added. 
+The complex antibody-enzyme formed the final sandwich complex. After incu-
+bation, the excess was washed again. Afterwards, sulfuric acid was added to stop 
+the reaction and the solution’s color transformed from blue to yellow. The color 
+intensity was directly correlated to the concentration of samples. The absorbance 
+was read at 450 nm. 
+2.5. Flow Cytometry Analysis for ADMSC Characterization and   
+Immunophenotyping   
+For MSC surface marker immunophenotyping, cells were stained with the fol-
+lowing conjugated antibodies: anti-CD45-vioblue, anti-CD34-PE, HLADr-vioblue, 
+anti-CD73-PE, anti-CD90-FITC, anti-CD105-vioblue, CD24-PE, CD44-FITC, 
+CD133-APC, CD14-PE and relevant isotypes (Miltenyi-Biotec). We acquired at 
+least 20,000 events as test samples. 
+2.6. Mesenchymal Stem Cells Embedded in PRF   
+The platelet-rich fibrin obtained after preparation were mixed with 10 × 106 cells 
+of ADMSC. 
+2.7. Injection Procedure 
+The Vivostat® PRF syringe was loaded in an Applicator Unit and applied on the 
+wound with the Spraypen by a minimum distance of 5 cm from the problem 
+area until it was well covered. The final dressing was with Bactigras® covered 
+with a suitable antiperspirant. The dressing was not removed until the following 
+session. 
+3. Statistical Analysis 
+Statistical significance was determined based on a paired T-test and one-way 
+ANOVA test. P values below 0.05 were considered as statistically significant. 
+Chi-square test was used to assess wound healing scores in the two groups. 
+4. Results 
+The present study was carried out with 10 patients selected from the outpatient 
+department over a period of 1 year starting from April 2019 with DFUs. The pa-
+tients were divided into Group A treated with PRF alone (n = 5) and Group B 
+treated with PRF embedded in ADMSC (n = 5) (Table 2). 
+ 
+DOI: 10.4236/ojrm.2021.102002  23  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+C. Khalil et al. 
+ 
+Table 2. Description of clinical cases. 
+Risk   Injection   Number of  Type of  
+Case  Age  Sex  Etiology 
+Factor  Location  Sessions  Injection 
+Hematological Disease (Essential 
+1  93  M  Pressure  Maleola  3  PRF 
+Thrombocythemia) + Diabetes 
+2  87  M  Venous Insufficiency + Diabetes  Post-Surgical  Knee Rupture  2  PRF 
+3  85  M  Renal Insufficiency + Diabetes  Burn  Lower limb  3  PRF 
+4  82  M  Paraplegia + Diabetes  Pressure  Sacrum  2  PRF 
+5  75  F  Paraplegia + Diabetes  Pressure  Sacrum  2  PRF 
+6  55  F  Venous Insufficiency + Diabetes  Post-Surgical  Lower limb  2  PRF + ADMSC 
+7  62  F  Colon Cancer + Diabetes  Post-Surgical  Sacrum  2  PRF + ADMSC 
+8  59  M  Venous Insufficiency + Diabetes  Vascular  Sacrum  2  PRF + ADMSC 
+9  60  M  Venous Insufficiency + Diabetes  Vascular  Lower limb  2  PRF + ADMSC 
+10  53  M  Venous Insufficiency + Diabetes  Post-Surgical  Sacrum  3  PRF + ADMSC 
+ 
+A significantly higher proportion of individuals in the ADMSC +PRF group 
+had a better healing index when compared to the pure PRF group (P < 0.001) 
+(Table 3). 
+Hence, in the present study, DFU grafted with ADMSC + PRF showed a sta-
+tistically significant difference in wound healing; however, clinical significance 
+was also observed in the experimental group with pure PRF grafting. 
+4.1. Platelet Concentrate in PRF 
+The mean concentration of TGF-β1, PDGF-AB, PDGF-BB, VEGF and FGF-2 
+secreted by the PRF were 12,500 pg/mg, 3200 pg/mg, 400 pg/mg, 28 pg/mg and 
+4.2 pg/mg respectively compared to patient serum used as a control (CTR) 
+(Figure 1). 
+4.2. PRF Induces MSC Proliferation 
+All patients showed multiple skin lesions with a median initial size of at least 5 
+cm2, involving the dermis (Grade 1) and subcutaneous (Grade 2) layers. Micro-
+biological assessment was positive in one case, in which antibiotics were added 
+on to the PRF injection (Table 4). A complete response was observed in 4 pa-
+tients after a mean of 3 sessions. The other 4 patient achieved a partial response. 
+Two patients stopped the gel treatment too early due to low patient compliance or 
+death (Figure 2). Pain disappeared in all cases after the 2nd gel application, 
+while granulation tissue was observed after the first application in 3 patients 
+with Grade 2 lesions (Figure 3, Figure 4) injected with PRF alone and 4 pa-
+tients injected with PRF embedded in ADMSC (Table 4). No side effects were 
+documented. 
+ 
+DOI: 10.4236/ojrm.2021.102002  24  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+C. Khalil et al. 
+ 
+Table 3. Intergroup comparison of wound healing score after 6 weeks. 
+Group A (n = 5)  Group B (n = 5) 
+Wound Healing Index 
+PRF Alone  ADMSC + PRF 
+Very poor (Score 1)  0  0 
+Poor (Score 2)  1  0 
+Good (Score 3)  0  1 
+Very Good (Score 4)  4  0 
+Excellent (Score 5)  0  4 
+P value highly significant (P < 0.001) and obtained by Chi-square test. 
+ 
+Table 4. Influence of the infection variable in each patient case. 
+Case  Infection PRE Injection  Infection POST Injection  Sessions  Score 
+1  Yes  No  3  4 
+2  No  No  2  4 
+3  No  No  3  3 
+4  No  No  2  3 
+5  No  No  2  3 
+6  No  No  2  3 
+7  No  No  2  3 
+8  No  No  2  3 
+9  No  No  2  3 
+10  No  No  3  2 
+ 
+ 
+Figure 1. Concentrations (mean ± SEM) of the five selected growth factors in CTR (serum) and Vivostat® PRF nortmalized to 
+total soluble protein. ***p < 0.001 versus serum (paired t-test). 
+ 
+ 
+Figure 2. Patient with diabetic fot ulcer before treatment initation (a) and 3 
+months after PRF injection (b). 
+ 
+DOI: 10.4236/ojrm.2021.102002  25  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+C. Khalil et al. 
+ 
+ 
+Figure 3. Patient with diabetic foot ulcer before treatment initiation (a) and 4 months 
+after PRF injection (b). 
+ 
+ 
+Figure 4. Patient with a leg amputation before treatment initation (a) and 8 weeks post 
+ADMSC + PRF treatment (b). 
+5. Discussion 
+Several research studies have discussed DFU healing processes; however, most of 
+these studies are focused on evaluating regular dressings, such as debridement, 
+antibacterial agents, tulle dressing, polyurethane films, foam, etc. Over recent 
+years, improvement in tissue regeneration therapy in Lebanon has involved the 
+use of PRP in therapeutic processes as a valid application in reconstructive and 
+aesthetic medicine. The therapeutic tool evolution of switching from PRP to PRF 
+cell product has shown the robust potential of PRF as a hemostatic, anti-inflam- 
+matory, and analgesic substance [18] [22]. MSC-based treatment also increases 
+wound tensile strength, reduces scarring and wound contraction, and increases 
+collagen secretion [23] associated with chronic inflammation from the anti-fibro- 
+tic process. In our study, we showed that the candidates treated with their auto-
+logous ADMSC embedded in PRF improved significantly with an efficient wound 
+healing process (Figure 4) compared to their counterparts treated only with PRF 
+(Figure 3). Interestingly, this is the first clinical study in Lebanon to explore the 
+synergic role of MSCs with Vivostat® PRF product on DFU healing.  
+Within our study, all DFU candidates received PRF injections, whether alone 
+or with ADMSC, using the Vivostat® PRF system. The process for retrieving the 
+fibrin from Vivostat® PRF provides a number of advantages compared with oth-
+er automatic and manual systems used for obtaining PRF [24] [25]. First, the 
+standardization of the PRP collection on Vivostat® PRF automated system pro-
+vides a final product (PRP + autologous fibrin) stable in constitution indepen-
+ 
+DOI: 10.4236/ojrm.2021.102002  26  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+C. Khalil et al. 
+ 
+dently of collection time delays and variations in handling operators. Second, the 
+closed system feature in Vivostat® PRF provides a sterile therapeutic product, 
+which minimizes the risk of possible microbial infection after PRF application. 
+Remarkably, the concentration of both PRP and fibrin recovered after a Vivostat 
+run is nine times fold the plasmatic concentration threshold, which is a consi-
+derably high value compared to other automatic PRF collection systems [22]. 
+Eppley et al. performed a meta-analysis on three studies in which chronic ulc-
+ers were treated with PRF for 8 to 10 weeks and recorded complete epitheliza-
+tion of wounds in 81%, 93% and 100% of patients, respectively [26]. Similarly, 
+our results showed good recovering scores after the completion of the PRF ap-
+plications in four of the five candidates treated with PRF alone (Group A). One 
+patient showed a low healing score, which may be correlated to the derived 
+complication of his essential thrombocythemia. The mean concentration of 
+TGF-β1, PDGF-AB, PDGF-BB, VEGF and FGF-2 secreted were statistically sig-
+nificant and correlated positively with proper DFU wound healing. The an-
+ti-bacterial properties attributed to PRF in other studies cannot be completely 
+confirmed in our study, since only one candidate out of 10 showed a positive 
+microbiological infection with Proteus mirabilis. Interestingly, the antibiotic ther-
+apy against P. mirabilis infection was not a conclusive factor in obtaining a poor 
+score of healing recovery. 
+The five patients of Group B were injected with ADMSC embedded in PRF. 
+Four candidates over five showed excellent wound healing scores (80%) and only 
+one candidate showed a good wound healing score (20%) (Figure 4). It has been 
+demonstrated that MSC-based treatments in wound healing reduced scarring, 
+which may have accelerated the wound recovery and improved angiogenesis, 
+modified collagen deposition, and paracrine signaling of MSCs [27]. Our results 
+are consistent with many reports suggesting that MSCs secrete high levels of 
+VEGF and HGF and maintain a higher ratio of TGF-β3 to TGF-β1, which con-
+tributes to cell migration, proliferation, and regulates vascular angiogenesis, ma-
+trix deposition, and degradation of wound healing; they also promote wound 
+reepithelization and reduce scar formation [11]. FGF and HGF enhance the re-
+generation of the dermis in acute incisional wounds [28]. Thus, an increased 
+VEGF is associated with scarless repair [29], as in neutralization of TGF-β1 and 
+TGF-β2 or an increase of TGF-β3 secretion. MSCs and PRF showed a high se-
+cretion of TGF-ß1, PDGF-AB, PDGF-BB, VEGF, and FGF-2 (Figure 1) pro-
+moting a fast wound healing in both groups. This is consistent with the latest 
+theory stating that the therapeutic effects of MSCs are due to their paracrine ef-
+fects and not due to their differentiation capacity. In fact, in the 2019 Caplan 
+report [30], it was suggested to change the name of stem cells to medicinal sig-
+naling cells. The array of secretion or secretome has multiple therapeutic effects 
+such as anti-inflammatory, anti-proliferative and anti-fibrotic effects besides the 
+many other roles such as promoting anti scaring 
+Finally, our results suggest that in both groups, A and B, PRF and ADMSC 
+ 
+DOI: 10.4236/ojrm.2021.102002  27  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+C. Khalil et al. 
+ 
+with PRF promoted wound healing in DFUs. We should highlight the fact that 
+the promising results obtained in our study that platelet-derived growth factors 
+can replace conventional treatments (antibiotic creams, and skin or flap grafts) 
+as a front-line therapeutic option in the treatment of chronic DFUs should not 
+necessarily be generalized. PRF associated with MSC factors are a hopeful treat-
+ment protocol when conventional treatments are unsuccessful or when the pa-
+tient refuses surgical options.  
+6. Conclusions 
+In conclusion, mesenchymal stem cells derived from adipose tissue and their se-
+cretions embedded in PRF potentially appear to have a major role in wound 
+healing in DFU. The Vivostat® PRF system was used as a clinical and therapeutic 
+tool for wound healing applications in our patients. In the future, it would be 
+very interesting to conduct a prospective study in a larger number of patients, to 
+statistically validate the use of ADMSCs embedded in PRF for the treatment of 
+chronic DFU. Further studies are also needed to elucidate the underlying me-
+chanism of cross-talkingbetween MSC secretome components and platelets growth 
+factors. 
+Although many controversies have been reported on the role of stem cells in 
+regenerative medicine, it is crucial that researchers continue to examine the roles 
+and mechanisms of MSCs in wound healing to evaluate the therapeutic potential 
+of MSCs and PRF. 
+Conflicts of Interest 
+The authors declare no conflicts of interest regarding the publication of this pa-
+per. 
+References 
+[1]  Lipsky, B.A., Berendt, A.R., Cornia, P.B., Pile, J.C., Peters, E.J.G., Armstrong, D.G., 
+et al. (2012) Infectious Diseases Society of America Clinical Practice Guideline for 
+the Diagnosis and Treatment of Diabetic Foot Infections. Clinical Infectious Dis-
+eases, 54, e132-e173. https://doi.org/10.1093/cid/cis346 
+[2]  Çamur, S., Batlbay, S.G. and Bayram, S. (2020) Effect of Lower Extremity Amputa-
+tion on Caregiving Burden in Caregivers of Patients with Diabetic Foot: Prospective 
+Cohort Study. International Wound Journal, 17, 890-896.  
+https://doi.org/10.1111/iwj.13342 
+[3]  Hicks, C.W., Selvarajah, S., Mathioudakis, N., Sherman, R.L., Hines, K.F., Black, 
+J.H., et al. (2016) Burden of Infected Diabetic Foot Ulcers on Hospital Admissions 
+and Costs. Annals of Vascular Surgery, 33, 149-158.  
+https://doi.org/10.1016/j.avsg.2015.11.025 
+[4]  Obeid, M., Moughames, E., Aboulhosn, P., Madi, R., Farah, M., Feghali, J., et al. 
+(2018) Epidemiology and Susceptibility Profiles of Diabetic Foot Infections in Five 
+Hospitals in Lebanon. The Journal of Infection in Developing Countries, 12, 347-351.  
+https://doi.org/10.3855/jidc.10063 
+[5]  Ubbink, D.T., Vermeulen, H. and Lubbers, M.J. (2006) Local Wound Care: Evi-
+ 
+DOI: 10.4236/ojrm.2021.102002  28  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+C. Khalil et al. 
+ 
+dence-Based Treatments and Dressings. Nederlands Tijdschrift voor Geneeskunde, 
+150, 1165-1172.  
+[6]  Haleem, A.M., Singergy, A.E., Sabry, D., Atta, H.M., Rashed, L.A., Chu, C.R., et al. 
+(2010) The Clinical Use of Human Culture-Expanded Autologous Bone Marrow 
+Mesenchymal Stem Cells Transplanted on Platelet-Rich Fibrin Glue in the Treat-
+ment of Articular Cartilage Defects: A Pilot Study and Preliminary Results. Carti-
+lage, 1, 253-261. https://doi.org/10.1177/1947603510366027 
+[7]  Srinivas, B., Das, P., Rana, M.M., Qureshi, A.Q., Vaidya, K.C. and Ahmed Raziud-
+din, S.J. (2018) Wound Healing and Bone Regeneration in Postextraction Sockets 
+with and without Platelet-Rich Fibrin. Annals of Maxillofacial Surgery, 8, 28-34.  
+https://doi.org/10.4103/ams.ams_153_17 
+[8]  Zhao, J.-H., Tsai, C.-H. and Chang, Y.-C. (2011) Clinical and Histologic Evaluations 
+of Healing in an Extraction Socket Filled with Platelet-Rich Fibrin. Journal of Den-
+tal Sciences, 6, 116-122. https://doi.org/10.1016/j.jds.2011.03.004 
+[9]  Wallace, H.A., Basehore, B.M. and Zito, P.M. (2020) Wound Healing Phases. Stat-
+Pearls Publishing, Treasure Island. http://www.ncbi.nlm.nih.gov/books/NBK470443  
+[10]  Gonzalez, A.C.O., Costa, T.F., Andrade, Z.A. and Medrado, A.R.A.P. (2016) Wound 
+Healing—A Literature Review. Anais Brasileiros de Dermatologia, 91, 614-620.  
+https://doi.org/10.1590/abd1806-4841.20164741 
+[11]  Full Article: Role of Growth Factors and Biomaterials in Wound Healing. 
+[12]  Follo, F., et al. (2017) Management and Effect of Platelet-Rich Plasma on Wound 
+Healing: Small Reality of Oglio Po Hospital. Acta Bio Medica, 88, 66-70.  
+[13]  Gao, F., Chiu, S.M., Motan, A.L., Zhang, Z., Chen, L., Ji, H.-L., et al. (2016) Mesen-
+chymal Stem Cells and Immunomodulation: Current Status and Future Prospects. 
+Cell Death & Disease, 7, e2062. http://www.nature.com/articles/cddis2015327  
+https://doi.org/10.1038/cddis.2015.327 
+[14]  Amati, E., Sella, S., Perbellini, O., Alghisi, A., Bernardi, M., Chieregato, K., et al. 
+(2017) Generation of Mesenchymal Stromal Cells from Cord Blood: Evaluation of 
+in Vitro Quality Parameters Prior to Clinical Use. Stem Cell Research & Therapy, 8, 
+14. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5260040  
+https://doi.org/10.1186/s13287-016-0465-2 
+[15]  Grigore, T.V. and Cozma, C. (2018) Platelet-Rich Plasma as a Site-Targeted Ap-
+proach in Wound Healing: A Molecular Perspective. Discoveries (Craiova), 6, e87.  
+https://doi.org/10.15190/d.2018.8 
+[16]  Wang, X., Zhang, Y., Choukroun, J., Ghanaati, S. and Miron, R.J. (2018) Effects of 
+an Injectable Platelet-Rich Fibrin on Osteoblast Behavior and Bone Tissue Forma-
+tion in Comparison to Platelet-Rich Plasma. Platelets, 29, 48-55.  
+https://doi.org/10.1080/09537104.2017.1293807 
+[17]  Leach, J.K. and Whitehead, J. (2017) Materials-Directed Differentiation of Mesen-
+chymal Stem Cells for Tissue Engineering and Regeneration. ACS Biomaterials 
+Science & Engineering, 4, 1115-1127. 
+[18]  Fuertes, M., Velasco, V., Larrañaga, G.-E. and Peirona, G. (2009) Our Experience in 
+the Treatment of Chronic Ulcers Using Vivostat® PRF®. Series of 10 Cases. Cirugía 
+Plástica Ibero-Latinoamericana, 35, 9.  
+[19]  Basic Principles of Wound Management—UpToDate.  
+https://www.uptodate.com/contents/basic-principles-of-wound-management  
+[20]  Etulain, J. (2018) Platelets in Wound Healing and Regenerative Medicine. Platelets, 
+29, 556-568. https://doi.org/10.1080/09537104.2018.1430357 
+ 
+DOI: 10.4236/ojrm.2021.102002  29  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+C. Khalil et al. 
+ 
+[21]  Mizukami, H. and Yagihashi, S. (2014) Exploring a New Therapy for Diabetic Po-
+lyneuropathy—The Application of Stem Cell Transplantation. Frontiers in Endo-
+crinology, 5, 45. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3988365  
+https://doi.org/10.3389/fendo.2014.00045 
+[22]  Evaluation of the Effect of Vivostat Platelet Rich Fibrin (PRF) in the Treatment of 
+Diabetic Foot Ulcers—Full Text View—ClinicalTrials.gov.  
+https://clinicaltrials.gov/ct2/show/NCT00770939  
+[23]  Hu, M.S., Borrelli, M.R., Lorenz, H., Longaker, M.T. and Wan, D.C. (2018) Mesen-
+chymal Stromal Cells and Cutaneous Wound Healing: A Comprehensive Review of 
+the Background, Role, and Therapeutic Potential. Stem Cells International, 2018, 
+Article ID: 6901983. https://www.hindawi.com/journals/sci/2018/6901983  
+https://doi.org/10.1155/2018/6901983 
+[24]  Leitner, G.C., Gruber, R., Neumüller, J., Wagner, A., Kloimstein, P., Höcker, P., et 
+al. (2006) Platelet Content and Growth Factor Release in Platelet-Rich Plasma: A 
+Comparison of Four Different Systems. Vox Sanguinis, 91, 135-139.  
+https://doi.org/10.1111/j.1423-0410.2006.00815.x 
+[25]  Zimmermann, R., Jakubietz, R., Jakubietz, M., Strasser, E., Schlegel, A., Wiltfang, J., 
+et al. (2001) Different Preparation Methods to Obtain Platelet Components as a 
+Source of Growth Factors for Local Application. Transfusion, 41, 1217-1224.  
+https://doi.org/10.1046/j.1537-2995.2001.41101217.x 
+[26]  Eppley, B.L., Woodell, J.E. and Higgins, J. (2004) Platelet Quantification and Growth 
+Factor Analysis from Platelet-Rich Plasma: Implications for Wound Healing. Plastic 
+and Reconstructive Surgery, 114, 1502-1508.  
+https://doi.org/10.1097/01.PRS.0000138251.07040.51 
+[27]  Du, H.-C., et al. (2017) Growth Factor-Reinforced ECM Fabricated from Chemical-
+ly Hypoxic MSC Sheet with Improved in Vivo Wound Repair Activity. BioMed Re-
+search International, 2017, Article ID: 2578017.  
+https://www.hindawi.com/journals/bmri/2017/2578017  
+[28]  Ono, I., Yamashita, T., Hida, T., Jin, H.-Y., Ito, Y., Hamada, H., et al. (2004) Com-
+bined Administration of Basic Fibroblast Growth Factor Protein and the Hepato-
+cyte Growth Factor Gene Enhances the Regeneration of Dermis in Acute Incisional 
+Wounds. Wound Repair and Regeneration, 12, 67-79.  
+https://doi.org/10.1111/j.1067-1927.2004.012113.x-1 
+[29]  Rolfe, K.J. and Grobbelaar, A.O. (2012) A Review of Fetal Scarless Healing. Interna-
+tional Scholarly Research Notices, 2012, Article ID: 698034.  
+https://www.hindawi.com/journals/isrn/2012/698034  
+https://doi.org/10.5402/2012/698034 
+[30]  Caplan, A.I. (2019) Medicinal Signalling Cells: They Work, So Use Them. Nature, 
+566, 39. https://doi.org/10.1038/d41586-019-00490-6 
+ 
+ 
+DOI: 10.4236/ojrm.2021.102002  30  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE

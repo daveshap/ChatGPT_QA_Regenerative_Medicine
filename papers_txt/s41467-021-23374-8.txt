@@ -1,0 +1,799 @@
+ARTICLE
+https://doi.org/10.1038/s41467-021-23374-8 OPEN
+ﬁ
+Development of selective bispeci c Wnt mimetics
+for bone loss and repair
+Tristan W. Fowler1, Troy L. Mitchell1, Claudia Y. Janda1,2, Liqin Xie1, Shengjiang Tu1, Hui Chen1, Haili Zhang1,
+JingjingYe1,BrianOuyang1,TomZ.Yuan1,Sung-JinLee1,MaureenNewman1,NikitaTripuraneni1,EricaS.Rego1,
+✉ ✉
+Devin Mutha1, Archana Dilip1, Meghah Vuppalapaty1, Helene Baribault1, Wen-Chen Yeh 1 & Yang Li 1
+0():,;
+123456789 TrohdeeWntnmtosdigenlsa.liWngepdaethswiganyedisainntarinctaibteoldyyc-obnanseecdtepdlatwfoitrhmbothnaetmgeansesrraetgeuslpatoiotennitnahnudmsaenlescatinvde
+Wntmimetics.Usingthisplatform,weengineerbi-speciﬁcWntmimeticsthattargetFrizzled
+and low-density lipoprotein receptor-related proteins and evaluate their effects on bone
+accrual in murine models. These synthetic Wnt agonists induce rapid and robust
+bonebuildingeffects,andcorrectbonemassdeﬁciencyandbonedefectsinvariousdisease
+models,includingosteoporosis,aging,andlongbonefracture.Furthermore,whentheseWnt
+agonists are combined with antiresorptive bisphosphonates or anti-sclerostin antibody
+therapies, additional bone accrual/maintenance effects are observed compared to mono-
+therapy,whichcouldbeneﬁtindividualswithsevereand/oracutebone-buildingdeﬁciencies.
+OurdatasupportthecontinueddevelopmentofWntmimeticsforthetreatmentofdiseases
+of low bone mineral density, including osteoporosis.
+1Surrozen,Inc.,SouthSanFrancisco,CA,USA.2Presentaddress:PrincessMaximaCenterforPediatricOncology,Utrecht,TheNetherlands.
+✉
+email:wenchen@surrozen.com;yang@surrozen.com
+NATURECOMMUNICATIONS|        (2021) 12:3247 |https://doi.org/10.1038/s41467-021-23374-8|www.nature.com/naturecommunications 1
+
+NEW PAGE
+
+ARTICLE
+NATURECOMMUNICATIONS|https://doi.org/10.1038/s41467-021-23374-8
+D
+iseases of low bone mineral density (BMD), including in vivo systems remained to be clearly demonstrated. We have
+osteoporosis, present serious global health concerns for also recently developed a platform for potent and selective Wnt
+both men and women. Osteoporosis-related fragility mimetic generation and engineered water soluble and easily
+fractures are associated with signiﬁcant morbidity and manufacturable IgG-based bi-speciﬁc molecules that bind to
+mortality1–5. It has been estimated that the lifetime risk for speciﬁc Fzd(s) and Lrp5 or 627. We identiﬁed multimerization
+osteoporotic fracture at age 50 is ~20% for men and 50% for of Fzdand Lrp,withoptimalstoichiometryof twoFzdsand one
+women6. Using Fracture Risk Assessment Tool (FRAX) models, or two Lrps, as a requirement for maximal Wnt/β-catenin
+158millionpeople(21millionmenand137millionwomen)over activation27.
+age50yearswereestimatedtobeathighriskforanosteoporotic Inthestudiespresentedhere,weﬁrstexaminedwhether18R5-
+fracture worldwide in 2010, with an expected doubling of this DKK1c can be delivered systemically to induce bone accrual
+numberby20407.Antiresorptiveagentsandboneanabolicdrugs in vivo. To test this hypothesis, we delivered 18R5-DKK1c
+are the mainstays of therapy for osteoporosis, but different through adeno-associated virus (AAV) in a mouse model and
+therapiesarestillneededtoaddresstheclinicalunmetneedsand measuredlongitudinalchangesinboneaccrualusingavarietyof
+provide alternative therapeutic options8,9. In addition, other analyses. In parallel, we engineered tetravalent bi-speciﬁc anti-
+conditions of low bone mineral density, including osteogenesis body-based molecules with different Fzd and Lrp binders and
+imperfecta, renal osteodystrophy, and disuse osteopenia have speciﬁcities.Wethenexaminedtheefﬁcacyoftheserecombinant
+provendifﬁculttotreatandtherapiesareneededtoovercomethis Wnt mimetic proteins on bone building in various disease
+treatment gap10–12. models,includingosteoporosis,aging,andlongbonefracture.We
+Wnt(“Wingless-relatedintegrationsite”or“WinglessandInt- foundthattheseWntmimeticshadrobustbone-buildingeffects,
+1” or “Wingless-Int”) ligands and their signaling activators play thus supporting their continued development as therapeutic
+key roles in controlling the development, homeostasis, and antibodiesto modulatetheWntpathwayfor tissueregeneration.
+regeneration of many essential organs and tissues, including
+bone13–15. Speciﬁcally, osteoblasts, osteocytes, and osteoclasts
+Results
+(rtehgeultahterdeebmyaWjorntc/eβl-lctaytpeensino-fdebpoenned),enatllshiganvealibnege1n6–s1h9.owTnhistohbaes sWelnecttiroenceopftoWrnetxpmriemsseiotincspwriotﬁhlethsefraopmprobporniaeteceFllzsd.Tspoecgiuﬁicdietythtoe
+been observed along the entire osteoblast lineage, including in
+stimulate bone accrual, we investigated Fzd and Lrp expression
+osteocyteswheremodulationofsclerostinisrequiredinresponse on osteoblasts or precursors of osteoblasts. We ﬁrst examined
+tomechanical load-inducedboneaccrual20,21.Additionally,Wnt
+mesenchymalstemcells(MSCs)andfoundthattheyexpresseda
+signalinghasbeenshowntoreducetheratioofreceptoractivator
+of nuclear factor-κB ligand (RANKL)/osteoprotegerin (OPG) wide range of Fzd receptors, including expression of Fzd1,6,7 and
+Fzd , as well as both Lrp5 and 6 (Fig. 1a), suggesting that
+expression, which indirectly reduces osteoclast activation19. 2,3,4,5
+these multipotential precursors could be stimulated through a
+DirectactivationofWntsignalinghasthepotentialtoenhance variety of Fzd and Lrp speciﬁc binder combinations. Next, we
+boneaccrualandrepressboneresorptionindiseasesettings.One studied C3H10T1/2, a ﬁbroblast cell line with MSC-like char-
+of the challenges in engineering a therapeutic that directly acti-
+acteristics that can be differentiated into multiple lineages,
+vates Wnt signaling is the existence of 19 Wnt ligands and
+including osteoblasts and chondroblasts28. The Fzd expression
+mFruizlztilpedlep1o–s1s0ibl(eFczodm1–1b0i)naatniodnsloowfW-denntssiwtyithliproecperpottoeirns,irneccleupdtionrg- panrodﬁl6e,sshuogwgeesdtinexgptrhesastioCn3Hof1F0Tzd11/,22,4c,7e,8lls(Fmiga.y1bb)easntdimbuoltahtedLrpb5y
+related protein 5 and 6 (Lrp5, Lrp6). In addition, Wnt proteins
+are highly modiﬁed post-translationally. Palmitoleoylation on a these Fzd and Lrp binder combinations. To understand expres-
+sion of Wnt receptors on cells committed toward the osteoblast
+conserved serine residue is essential for Wnt interaction and
+lineage, we examined receptor expression on an osteoblast cell
+signaling through their receptors22. Partly due to this post-
+line,MC3T3cells.Theexpressionanalysisshowedthatthesecells
+translational palmitoleoylation, Wnts are hydrophobic, making
+themdifﬁculttoexpressandpurify.Theanti-Fzdantibody18R5 had possible expression of Fzd1,2,7,8 and Fzd4,5 (Fig. 1c). Exam-
+inationofFzdandLrpexpressioninmouse(Fig.1d)andhuman
+isaFzd binder23,andtheLrpbinderDKK1cbindstoboth
+1,2,5,7,8 (Fig. 1e) femoral bones, primary bone tissues that contain mul-
+Lrp5and624,25.ToresolvethesechallengesassociatedwithWnts,
+tiple celltypes, showedexpressionof Fzd orFzd ,and Fzd as
+a Wnt mimetic linking the Fzd binder (18R5 in a single-chain 1 2 6,7
+well as both Lrp5 and Lrp6.
+variable fragment [scFv] format) and the Lrp binder (DKK1c)
+into a single polypeptide chain (18R5-DKK1c) has been pre-
+viously shown to have the potential to activate Wnt/β-catenin AAV-delivered Wnt-mimetic 18R5-DKK1c induces bone
+signaling in various tissue systems, including liver, bone, and accrual.WepreviouslyfoundthattheWntmimetic18R5-DKK1c
+intestine23,26.However,thefunctionalimpactofthismoleculein (with the speciﬁcity for the Fzd and Fzd subfamilies)
+1,2,7 5,8
+a b c d e
+MSC C3H10 T1/2 MC3T3 Mouse Femur Human Bone Digest
+8 50 25 10 120
+Expression Relative to Actin246 Expression Relative to Actin 12340000 Expression Relative to Actin 1125050 Expression Relative to Actin2468 Expression Relative to Actin12468000000
+0 FZD1FZD2FZD3FZD4FZD5FZD6FZD7FZD8FZD9FZD10LRP5LRP6 0 FZD1FZD2FZD3FZD4FZD5FZD6FZD7FZD8FZD9FZD10LRP5LRP6 0 FZD1FZD2FZD3FZD4FZD5FZD6FZD7FZD8FZD9FZD10 0 FZD1FZD2FZD3FZD4FZD5FZD6FZD7FZD8FZD9FZD10LRP5LRP6 0 FZD1FZD2FZD3FZD4FZD5FZD6FZD7FZD8FZD9FZD10LRP5LRP6
+Fig.1Wntsignalingcomponentsexpressionanalysisfromvariouscellsandspecies.Fzd1–10,alongwithLrp5,andLrp6mRNAexpressionin
+amesenchymalstemcells(MSC),bC3H10T1/2cells,cMC3T3cells,dmousefemur,andehumancancellousfemoralheadquantiﬁedbyqPCR
+andnormalizedbythehousekeepinggeneActin.Barsrepresentmeans±SD.dn=3miceanden=3humanfemoralheads.
+2 NATURECOMMUNICATIONS|        (2021) 12:3247 |https://doi.org/10.1038/s41467-021-23374-8|www.nature.com/naturecommunications
+
+NEW PAGE
+
+ARTICLE
+NATURECOMMUNICATIONS|https://doi.org/10.1038/s41467-021-23374-8
+increased alkaline phosphatase (ALP) expression in vitro in cells strengthtestingonbonescollectedatstudytermination(day28).
+of osteoblast lineage in the absence and presence of bone mor- 18R5-DKK1c treatment increased both bone stiffness (Fig. 3d)
+phogeneticprotein226.Thus,wenextinvestigatedwhether18R5- andultimateloadtofracture(Fig.3e)infemurswhentestedby3-
+DKK1c was capable of stimulating bone accrual in vivo. point bending, demonstrating improved resistance to fracture.
+Weﬁrstevaluatedtheachievabilityofdelivering18R5-DKK1c The positive effects on bone strength with 18R5-DKK1c were
+systemicallyusinganAAV-mediatedexpressionof18R5-DKK1c similar to the effects observed with anti-sclerostin antibody and
+in a murine model. On Day 0, mice received a single tail vein signiﬁcantly higher than vehicle control.
+injection of either AAV containing vectors encoding fusion
+proteinsorcontrolgenes,andthenwerefollowedfor28days.For
+Generation of Wnt mimetics. Although 18R5-DKK1c provided
+negative controls, we used vehicle (phosphate-buffered solution
+(PBS),AAVexpressinganti-greenﬂuorescentprotein(GFP),and in vivo proof-of-concept for a Wnt mimetic to stimulate bone
+accrual, it was not suited to further pursue as a potential ther-
+AAV expressing a fusion protein of anti-GFP scFv fused to
+apeuticmoleculedueinparttothepoorbiophysicalpropertiesof
+mutatedDKK1cincapableofbindingtoLrp5/6(scFv(anti-GFP)-
+the DKK1c component of the molecule which resulted in low
+DKK1cF234K). These negative controls were utilized to ensure
+thattheeffectsof18R5-DKK1cwerenotinﬂuencedbyeitherthe expression and the appearance of multiple protein species of the
+fusion molecule. Thus, we generated another Wnt mimetic with
+use of AAV or the format and fusion of the scFv protein. For a speciﬁcity for Fzd , similar to 18R5-DKK1c. In addition,
+positive control, we utilized anti-sclerostin antibody protein at 1,2,5,7,8
+since the Fzd subfamily was expressed in all osteoblast or
+10mg/kg,administeredsubcutaneouslytwiceweekly for4weeks osteoblast pre1c,2u,7rsor cells we proﬁled (Fig. 1a–c), we tested
+(total eight doses). Blood samples were drawn on days 7, 14, 21, whethernarrowingFzdspeciﬁcitytotheFzd subfamilywould
+and 28 of the study period. Both 18R5-DKK1c and scFv(anti- besufﬁcienttostimulateboneaccrual.There1f,o2,r7e,forFzdbinders
+GbyFPa)n-tDi-KFKla1gcFa2n3ti4bKodwyerveiaFlEagL-ItSaAggetdestainndg,dceotencﬁterdmiinngthseyssteermumic weselectedtwoproprietaryFzdbindingIgGs.Theﬁrstonebinds
+toFzd ,referred tohereinasFA,andthesecondonebinds
+delivery was attained (Supplementary Fig. 1a). There were no to Fzd1,2,5,,7,r8eferred to as FB (Supplementary Fig. 1a–d). For Lrp
+measurable changes in body weight (Supplementary Fig. 1b) or 1,2,7
+binders, we selected two proprietary single domain antibodies
+whole-body fat percentage (Supplementary Fig. 1c), as measured
+(VHH) derived from a camelid phage library: an Lrp6 biased
+bydualenergyx-rayabsorptiometry(DEXA),comparingday0to
+binder,referredhereinasL6andanLrp5biasedbinder,referred
+day28.However,therewasanapproximate20%increaseinliver
+herein as L5 (Supplementary Fig. 2e, f). These four binders are
+weightwhennormalizedtototalbodyweightinthe18R5-DKK1c
+distinct from the binders described previously27 but are assem-
+group compared to vehicle (Supplementary Fig. 1d). Colon and bled into tetravalent bispeciﬁc formats as shown in Fig. 4a, the
+stamryallFiign.te1set–inhe),laenndgthlivaenr,dcwoleoing,htanwdersemualnlcihnatensgteinde(hSuisptoppleamtheonl-- stoichiometryidentiﬁedpreviouslytobeoneofthemostefﬁcient
+format for Wnt signal activation27. Since the Lrp binding VHH
+ogy was within normal range (Supplementary Fig. 1i). Small
+domain can be attached to four different locations on the Fzd
+intestine and liver sections stained with proliferation marker, binding IgG, we ﬁrst tested the four different combinations
+Ki67, revealed no differences across groups (Supplementary
+between L6 and FA (depicted in Fig. 4a). While all four combi-
+Fig. 1j).
+nations activated Wnt signaling as detected in Wnt responsive
+We next examined the potential role of 18R5-DKK1c in
+HEK293 Super TopFlash (STF) reporter cells, the attachment of
+stimulatingboneaccrual.Comparedtovehicle,systemicexpression
+of18R5-DKK1csigniﬁcantlyincreasedwhole-bodyBMDasearlyas VHH to the N-terminal end of either the heavy (NH) or light
+(NL) chain resulted in higher activity than attachment to the C-
+day 14 and BMD remained increased at day 28, as determined by
+terminalends(Fig.4b),withhalf-maximaleffectiveconcentration
+DEXA (Fig. 2a, b). The increase in BMD with 18R5-DKK1c was
+(EC ) values in the pM range. Based on these results, fusion of
+similar to that observed for anti-sclerostin antibody. We also 50
+observedanincreaseinBMDinlumbarvertebraeL4–L6(Fig.2c), the VHH domain to the N terminus of light chain (NL) was
+whichwasmeasuredatday28only.Transientsigniﬁcantincreases selectedforfurtherevaluationinthestudiesdescribedherein.As
+shownin Fig.4c, thefourdifferent combinations of theFzd and
+fromday0inprocollagen-1-N-terminalpeptide(P1NP),amarker
+Lrp binders, FA-L5, FA-L6, FB-L5, and FB-L6 fusions of VHH
+of bone formation, were observed with anti-sclerostin antibody domaintotheNterminusoflightchainarestronglyefﬁcaciousin
+treatmentand18R5-DKK1c(Fig.2d).Comparedtovehicle,18R5-
+DKK1csigniﬁcantlyincreasedbonevolume/totalvolume(BV/TV) inducing Wnt signaling compared to recombinant human
+WNT3AinHEK293cells.Additionally,thesefourWntmimetics
+in the proximal tibia, as assessed longitudinally over the 28-day
+induced Wnt signaling in the osteoblast precursor cell line,
+study period via micro-CT analysis (Fig. 2e). In addition, femurs
+measured at day 28 showed signiﬁcantly increased BV/TV at the C3H10T1/2cells,byseveralordersofmagnitudegreaterpotency
+whencomparedtoWNT3A(Fig.4d).To assesstheeffectsofL5
+distalepiphysis(Fig.2f)andcorticalthicknessofthemid-diaphysis
+andL6bindingarmsaloneonWntsignaling,theywerefusedtoa
+(Fig. 2g) with 18R5-DKK1c treatment (Supplementary Table 2).
+Fc,insteadoftoanti-FzdantibodiestogenerateL5-FcandL6-Fc.
+TheBMDandBV/TVincreasesobservedatday14weresustained
+As shown in Fig. 4e, in the absence of Fzd binding arms, Lrp
+throughday 28.
+bindersalone(asthebivalentFcfusionmolecules)werenotable
+To further examine the underlying changes in bone histology
+to induce Wnt signal.
+andcellphysiology,histomorphometricanalysesofproximaltibia
+wereconductedattheendofthe28-daystudyperiod.Wefound
+thattreatmentwith18R5-DKK1ccomparedtovehicleresultedin Wnt mimetics stimulate bone accrual. We ﬁrst examined the
+signiﬁcantly increased trabecular number, trabecular thickness, pharmacokinetic effects of FA-L6 delivered as recombinant pro-
+and osteoid thickness (Supplementary Table 1), consistent with tein in vivo, and found that the half-life (~4 days) of FA-L6
+an increase of bone volume percentage. Furthermore, 18R5- (Fig.5a)issimilartoanIgGmolecule29,indicatingthatFA-L6is
+DKK1c compared to vehicle signiﬁcantly increased osteoblast not rapidly cleared. Next, to investigate the safety and bone-
+surface, suggesting an anabolic mechanism of action (Fig. 3a–c, buildingeffectsofFA-L6,weconducteda28-daystudyinwhich
+Supplementary Table 1). 8-week-old female C57BL/6 mice (n=8–10/treatment group)
+To ensure the increased bone mass induced by 18R5-DKK1c received twice weekly intraperitoneal injections with one of the
+was physiological and functional, we conducted biomechanical following agents: vehicle (PBS, negative control), anti-green
+NATURECOMMUNICATIONS|        (2021) 12:3247 |https://doi.org/10.1038/s41467-021-23374-8|www.nature.com/naturecommunications 3
+
+NEW PAGE
+
+ARTICLE
+NATURECOMMUNICATIONS|https://doi.org/10.1038/s41467-021-23374-8
+Fig.2RadiographicandserumanalysesofboneaccrualinducedbyWntmimetics.aRepresentativex-ray(toprow)andmicro-computedtomography
+(micro-CT)(bottomrow)imagesatday28.Forx-ray,individualsampleregionsofinterest(ROI)quantiﬁedthelongitudinal(b)averagewhole-bodybone
+mineraldensity(BMD).aRedarrowspointtoincreasedbonemineral(radiographiccontrast)inthedistalfemurandproximaltibia.Reddottedregions
+demarcatetheROIanalyzedforcaveragelumbarvertebra(L4–L6).dSerumsamplesobtainedatdays0,7,14,21,and28wereassessedforprocollagen
+type-1N-terminalpropeptide(P1NP).Foreachtimepoint,theserumP1NPlevelsforalltestgroupsarenormalizedtotheaverageofvehicle-treatedP1NP
+serumconcentration.eLongitudinalaveragetibialBV/TVatdays0,14,and28.fDay28exvivoendpointmicro-CTquantiﬁcationofthedistalfemoral
+epiphysealBV/TVandgmid-shaftcorticalthicknesscollectedattermination.Statisticalsigniﬁcancewasdeterminedbytwo-wayANOVAfor(b,d,e)and
+one-wayANOVAforallothers.Graphsrepresentmeanvalues±SD,wherein*p<0.05,**p<0.01,***p<0.001,****p<0.0001.Statisticalanalyseswhere
+thefollowinglettersdeﬁnegroups(a=Vehicle,b=Anti-Sclerostin,c=18R5-Dkk1c).bDay14,avs.b,p=0.0049;avs.c,p=0.0031;Day21,avs.b,p=
+0.0005;avs.c,p=0.0002;Day28:avs.b,p=0.0006;avs.c,p≤0.0001.cavs.b,p≤0.0001;avs.c,p≤0.0001.dDay7,avs.b,p≤0.0001;avs.c,
+p=0.017;Day14,avs.b,p≤0.0001,avs.c,p≤0.0001.eDay14,avs.b,p≤0.0001;avs.c,p≤0.0001;Day28,avs.b,p=0.0033;avs.c,p≤0.0001.
+favs.b,p=0.0388;avs.c,p≤0.0001.gavs.b,p≤0.0001;avs.c,p=0.0009.b–gn=10mice/group.
+ﬂuorescent protein (anti-GFP) antibody 10mg/kg (negative increase in tibial BV/TV starting from day 7, with both effects
+control), anti-sclerostin antibody 10mg/kg (positive control, sustainedthroughday21.Micro-CToffemursonday28revealed
+subcutaneous),orFA-L6(atincreasingdosesrangingfrom0.001 that with FA-L6 treatment, BV/TV at the distal epiphysis of
+to 1mg/kg). No liver or gastrointestinal abnormalities outside femurs was signiﬁcantly increased (Fig. 5d), as was cortical
+normal range were observed for any treatment or dose level thicknessatthemidshaft(Fig.5e),suggestingimprovedresistance
+tested.Inaddition,incontrastto18R5-DKK1c,nochangeinliver to fracture.
+weightwasobservedfollowingFA-L6treatment.Theliverweight To understand the impact of narrowing the Fzd speciﬁcity to
+increasewith18R5-DKK1cmaybemoleculespeciﬁcorduetothe Fzd and effects of different Lrp binders on bone growth, we
+1,2,7
+AAV delivery method. Future studies will be needed to further comparedtheeffectsofFA-L5,FA-L6,FB-L5,andFB-L6at1or
+understand this effect by 18R5-DKK1c. Treatment with FA-L6 10mg/kg in naive 20-week-old female C57BL/6 mice (Supple-
+resulted in dose-dependent increases in whole-body BMD, as mentary Fig. 3) over a 14-day period. The control groups were
+measured by DEXA (Fig. 5b) and in proximal tibial BV/TV, as vehicle (PBS), anti-GFP antibody control 10mg/kg, and anti-
+measured by micro-CT (Fig. 5c). As early as 7 days after treat- sclerostin antibody 25mg/kg. All treatments were administered
+ment initiation with 1mg/kg FA-L6, statistically signiﬁcant ele- twice weekly. All Wnt mimetics groups induced signiﬁcant bone
+vations in BMD (Fig. 5b) and tibial BV/TV (Fig. 5c) were growth compared to vehicle, as shown by whole body as well as
+observed, and this effect was sustained through 21 days of femurand lumbarBMDafter14days of treatment(Supplemen-
+longitudinal DEXA analysis. A signiﬁcant increase in BMD was tary Fig. 3) demonstrating that narrowing the Fzd speciﬁcity to
+alsoobservedafter0.3mg/kgFA-L6startingfromday14,andan Fzd remaineffectiveininducingbonegrowth.Itisinteresting
+1,2,7
+4 NATURECOMMUNICATIONS|        (2021) 12:3247 |https://doi.org/10.1038/s41467-021-23374-8|www.nature.com/naturecommunications
+
+NEW PAGE
+
+ARTICLE
+NATURECOMMUNICATIONS|https://doi.org/10.1038/s41467-021-23374-8
+ScFv(anti-GFP)-
+a Vehicle Anti-Sclerostin GFP Dkk1cF234K 18R5-DKK1c Vehicle
+Anti-Sclerostin (10 mg/kg)
+dner’shrome GScFFPv (anti-GFP)-DKK1cF234K
+GolTric d 18R5-DKK1c
+Femur Stiffness
+200
+b **** ****
+150
+dner’shrome N/mm100
+GolTric 50
+0
+c e
+Femur Ultimate Load to Failure
+e Resistant hosphatase N234000 **** ****
+TartratAcid P 10
+0
+Fig.3HistologyandmechanicaltestingofboneaccrualinducedbyWntmimetics.a,bTibiaswereisolatedafter28days,formalinﬁxed,embeddedin
+methylmethacrylate,sectionedlongitudinally,andstained.Representativeimagesoftibialsectionsfromeachtreatmentgroupata4×scalebar1mmand
+b10×scalebar200µmstainedwithGoldner’strichrome(mineralizedboneiscoloredblue)andc40×scalebar50µmstainedfortartrateresistantacid
+phosphatase(TRAP).Femurscollectedatstudytermination(day28)wereanalyzedforbonestrengthatthemid-shaftfemurbyastandard3-point
+bendingtestandquantiﬁedfordaveragefemurstiffnessandeaverageultimateloadtofailure.a–cRepresentativeimagesfromn=10samples/group
+havingsimilarresults.d,eBargraphsrepresentmeanvalues±SD.Statisticalsigniﬁcancewasdeterminedbyone-wayANOVA,where****p<0.0001.The
+followinglettersdeﬁnegroups(a=Vehicle,b=Anti-Sclerostin,c=18R5-DKK1c).davs.b,p≤0.0001;avs.c,p≤0.0001.eavs.b,p≤0.0001;avs.c,
+p≤0.0001.n=10mice/group.
+a b
+HEK293 STF
+FA-L6_NL FA-L6_NH
+400000 FA-L6_NL
+FA-L6_NH
+FA-L6_CH
+300000
+FA-L6_CL
+U
+L 200000
+FA-L6_CH FA-L6_CL R
+100000
+0
+-6 -4 -2 0 2 4
+Log [Protein], nM
+c d e
+HEK293 STF C3H10T1/2 STF HEK293 STF
+30000 FA-L5 250000 FA-L5 20000 L5-Fc
+FA-L6 FA-L6 L6-Fc
+200000
+FB-L5 FB-L5 15000 WNT3A
+20000
+FB-L6 150000 FB-L6
+LU WNT3A LU WNT3A LU10000
+R R100000 R
+10000
+5000
+50000
+0 0 0
+-6 -4 -2 0 2 4 -6 -4 -2 0 2 4 -6 -4 -2 0 2 4
+Log[Protein], nM Log[Protein], nM Log[Protein], nM
+Fig.4InvitrocharacterizationofWntmimeticmolecules.aDiagramofthetetravalentbi-speciﬁcWntmimeticformats.VHHdomainisrepresentedby
+theopenovalsymbolandIgGbytheblack-ﬁlledovalsymbol.b–eWntsignalingSTFactivityisrepresentedbyrelativeluminescenceunits(RLU).bThe
+dose-dependentSTFactivitiesofthefourdifferentVHH-IgGfusionmimeticsshownina.cDose-dependentSTFactivitiesoftheFA-L5,FA-L6,FB-L5,FB-
+L6,andWNT3AinHEK293cells.dDose-dependentSTFactivitiesofFA-L5,FA-L6,FB-L5,FB-L6,andWNT3AinC3H10T1/2cells.eDose-dependentSTF
+activitiesofL5-Fc,L6-Fc,andWNT3AinHEK293cells.Dataarerepresentativeofthreeindependentexperimentsperformedintriplicatesandareshown
+asmean±SD.
+NATURECOMMUNICATIONS|        (2021) 12:3247 |https://doi.org/10.1038/s41467-021-23374-8|www.nature.com/naturecommunications 5
+
+NEW PAGE
+
+ARTICLE
+NATURECOMMUNICATIONS|https://doi.org/10.1038/s41467-021-23374-8
+Fig.5Wntmimeticantibodiesrobustlystimulateboneaccrualinnaiveyoungandoldermice.aSerumconcentrationsofFA-L6antibodyafter
+intraperitonealadministration,asmeasuredbyELISAovera21-dayperiod.Eachtimepointrepresentstheaverageassessedinthreeanimals,witherrorbars
+representingthestandarddeviationofthemean.b–e8-week-oldC57BL6/Jfemalemicewereinjectedbi-weeklyfor28daysintraperitoneallywithincreasing
+concentrationsofFA-L6antibodyandcomparedtoanegativecontrolantibody(anti-GFPIgG1mg/kg),andapositivecontrol(bi-weeklysubcutaneous
+administrationof10mg/kganti-sclerostinantibody).bLongitudinalDEXAmeasurementsofwhole-bodyBMDquantiﬁedfordays0,7,14,and21.
+cLongitudinalmicro-CTofproximaltibialbonevolume/tissuevolume(BV/TV)quantiﬁedondays0,7,14,and21.dEndpointdistalfemoralBV/TVand
+emid-shaftcorticalthicknesswerequantiﬁedatday28.fWhole-bodyBMDbyDEXAin16-week-oldC57BL6/Jfemalemiceinjectedbi-weeklyfor14days
+withFA-L6(10mg/kg)orFB-L5(1or10mg/kg)antibody,oranegativecontrolantibody(anti-β-gal10mg/kg),orpositivecontrol(anti-sclerostinantibody
+25mg/kg).g,h1-year-oldC57BL6/Jfemalemicewereinjectedbi-weeklyfor28daysintraperitoneallywith1and10mg/kgofFA-L6orFB-L5antibodyora
+negativecontrolantibody(anti-β-gal)orpositivecontrol(bi-weeklysubcutaneousadministrationof25mg/kganti-sclerostinantibody).gLongitudinal
+whole-bodyBMDovertimeandhday28endpointdistalfemoralBV/TVmeasurementsareshown.aGraphrepresentsmean±SD,n=3mice.b–hBar
+graphsrepresentmeanvalues±SD.Statisticalsigniﬁcancewasdeterminedbytwo-wayANOVAforb,c,gandone-wayANOVAforallothers(*p<0.05,
+**p<0.01,***p<0.001,****p<0.0001)wherethefollowinglettersdeﬁnegroups(a=Vehicle,b=Anti-Sclerostin,c=FA-L6(0.3mg/kg),d=FA-L6
+(1mg/kg),e=FA-L6(10mg/kg),f=FB-L5(10mg/kg)).bDay7,avs.d,p=0.041;Day14,avs.b,p=0.032,avs.c,p=0.0412,avs.d,p≤0.0001;Day
+21,avs.b,p=0.0019,avs.c,p=0.0092,avs.d,p=0.0024.cDay7,avs.c,p≤0.0001;avs.d,p≤0.0001.Day14,avs.c,p≤0.0001;avs.d,p≤
+0.0001.Day21,avs.c,p≤0.0001;avs.d,p≤0.0001.davs.b,p=0.0183,avs.c,p=0.0141,avs.d,p=0.0002.eavs.b,p=0.001,avs.d,p=0.0401.
+favs.b,p=0.007,avs.e,p≤0.0001,avs.f,p≤0.0001.gDay14,avs.f,p≤0.0001;Day21,avs.b,p≤0.0001,avs.e,p≤0.0001,avs.f,p≤0.0001;
+Day28,avs.b,p≤0.0001,avs.e,p≤0.0001,avs.f,p≤0.0001.havs.b,p≤0.0001,avs.e,p≤0.0001,avs.f,p≤0.0001.n=8mice/group.
+to note that both FA and FB when attached with Lrp binder anti-β-gal (antibody control) 10mg/kg, anti-sclerostin antibody
+L5 showed trended better effects than fusions with L6 in the 10 25mg/kg, or the Wnt mimetics FA-L6 or FB-L5 at two
+mg/kgdosegroups.Therefore,wefocusedontheFzdbinderwith concentrations (1 or 10mg/kg). FB-L5 10mg/kg rapidly and
+narrowFzdspeciﬁcity,FB(Fzd speciﬁc),fusionstoL5,FB-L5 signiﬁcantly increased whole-body BMD compared to vehicle
+1,2,7
+in subsequent studies. after only 14 days of treatment (Fig. 5g). FA-L6 10mg/kg and
+The potential effects of Wnt mimetics on tissues outside of anti-sclerostin antibody treatment also induced a signiﬁcant
+bone was assessed in naive 16-week-old female C57BL/6 mice increase in whole-body BMD compared to vehicle, however to a
+with FA-L6 (Fzd speciﬁc) at 10mg/kg and FB-L5 (Fzd lesser degree and with delayed kinetics compared to FB-L5
+1,2,5,7,8 1,2,7
+speciﬁc) at 1 or 10mg/kg over a 14-day period. The control (Fig. 5g). Micro-CT of femurs collected at day 28 revealed
+groups were vehicle (PBS), anti-β-galactosidase (anti-β-gal, signiﬁcantincreasesindistalfemurepiphysealBV/TVintheanti-
+antibody control) 10mg/kg, and anti-sclerostin antibody 25mg/ sclerostin antibody, FA-L6 10mg/kg, and FB-L5 10mg/kg
+kg. All treatments were administered twice weekly. While the treatment groups, with the greatest overall gains observed in
+10mg/kg doses of FA-L6 and FB-L5 induced signiﬁcant bone the FB-L5 cohort (Fig. 5h).
+growthcomparedtovehicle,asshownbywhole-bodyBMDafter
+14 days of treatment (Fig. 5f), liver and small intestine sections
+stained with proliferation marker, Ki67, revealed no differences Wnt mimetic induces gene expression in bone tissue. To fur-
+across groups, and liver and intestine histology also appeared ther investigate the effects Wnt mimetics on Wnt signaling, cell
+normal (Supplementary Fig. 4a, b). proliferation, and osteogenesis, we examined gene expression
+We next investigated whether the positive effects on bone changesinbonetissues.Weadministeredasingleintraperitoneal
+building can be applied to older animals. One-year-old female doseofeitherFB-L510mg/kgoranti-β-gal(antibodycontrol)to
+mice were treated twice weekly for 4 weeks with vehicle (PBS), 12-week-old female C57BL/6 mice. Another control group of
+6 NATURECOMMUNICATIONS|        (2021) 12:3247 |https://doi.org/10.1038/s41467-021-23374-8|www.nature.com/naturecommunications
+
+NEW PAGE
+
+ARTICLE
+NATURECOMMUNICATIONS|https://doi.org/10.1038/s41467-021-23374-8
+Fig.6Wntmimeticantibodiesreversebonelossassociatedwithovariectomyinducedosteoporosis.aSchematicofexperimentaldesign.4-week-old
+C57BL6/Jfemalemiceweresurgicallyovariectomized(OVX).Sevenmonthslater,DEXAwasusedtoconﬁrmbonelossintheOVXgroupspriorto
+treatmentinitiation.Micewereinjectedbi-weeklywithintraperitonealadministrationofFA-L610mg/kgorFB-L510mg/kgantibody,oranegative(anti-β-
+gal)orpositivecontrol(bi-weeklysubcutaneousinjectionofanti-sclerostinantibody25mg/kg)for28days.bLongitudinalDEXAmeasurementswere
+collectedandwhole-bodyBMDquantiﬁedfordays0,7,14,21,and28andcwholefemurBMDonday28.Bonestrengthatthemid-shaftfemurwas
+analyzedbyastandard3-pointbendingtestandquantiﬁedfordaverageultimateloadtofailure.eRepresentativemicro-CTreconstructionsofday28L4
+lumbarvertebra(imagesfromn=8samples/grouphavingsimilarresults)andfquantiﬁcationofL4BV/TV.CompressiveloadingwasappliedtoL5
+vertebraetoquantifygmaxloadandhstiffness.Graphsrepresentmeanvalues±SD,n=8mice/group,exceptVehicle+OVX,wheren=3.Statistical
+signiﬁcancewasdeterminedbytwo-wayANOVAforbandone-wayANOVAforallothersb–dandf–h,wherethefollowinglettersdeﬁnegroups(a=
+OVX+Vehicle,b=OVX+Anti-Sclerostin,c=OVX+FA-L6,d=OVX+FB-L5)and*p<0.05,**p<0.01,***p<0.001,****p<0.0001.bDay7,avs.d,
+p=0.0135.Day14,avs.c,p=0.0014,avs.d,p≤0.0001.Day21,avs.b,p=0.0023,avs.c,p≤0.0001,avs.d,p≤0.0001.Day28,avs.b,p=0.0005,
+avs.c,p≤0.0001,avs.d,p≤0.0001.c,avs.b,p=0.0427,avs.c,p=0.0023,avs.d,p=0.0156.d,avs.c,p=0.0164,avs.d,p=0.0098.favs.b,
+p=0.0002,avs.c,p≤0.0001,avs.d,p≤0.0001.gavs.b,p=0.0111,avs.c,p≤0.0001,avs.d,p≤0.0001.havs.b,p=0.0174,avs.c,p=0.0056,a
+vs.d,p≤0.0001.
+mice were injected with a single subcutaneous dose of anti- intheﬁrstweekwereabletosigniﬁcantlyrescuetheosteoporotic
+sclerostinantibody25mg/kg.Animalswereeuthanized8,24,48, phenotype caused by ovariectomy (Fig. 6b, Day 7). Reversal of
+and 120h after treatment, and marrow ﬂushed tibias were iso- bone loss was also observed with FA-L6 (beginning by day 14)
+lated, and ﬂash frozen for RNA extraction (Supplementary and anti-sclerostin antibody (beginning by day 21) (Fig. 6b).
+Table 3 and Supplementary Fig. 5). Compared to anti-β-gal, FB- However, the Wnt mimetics, particularly FB-L5, reversed bone
+L5 signiﬁcantly increased the expression of genes produced pre- loss and enhanced bone accrual in ovariectomy mice to a level
+dominantlybyosteoblastlineages(Runx2,Alp,Rankl),similarto higher than that observed in sham control animals. This heigh-
+anti-sclerostin antibody. Osteoclast stimulating factor Rankl was tenedBMDroserapidlybyday14andwassustainedthroughday
+induced transcriptionally in both the anti-sclerostin and FB-L5 28, similar to what was observed in both young and old animal
+groups. Compared to anti-sclerostin antibody, FB-L5 stimulated models (Fig. 5f–h).
+greater induction of Axin2 and Mki67, suggesting that bone At day 28, femurs and vertebrae were collected for micro-
+accrualmediatedbyFB-L5treatmentoccursdifferentlythanthat architecturalanalysisandbiomechanicalstrengthandtreatments
+mediated by anti-sclerostin antibody treatment, possibly due to compared to OVX+vehicle control. FB-L5 treatment signiﬁ-
+the direct activation of Wnt signaling and downstream cascade. cantly increased femoral BMD (Fig. 6c). Also, biomechanical
+testing of femurs revealed that both FA-L6 and FB-L5 treatment
+signiﬁcantly increased ultimate load to failure compared to
+Wntmimeticcorrectslowbonemassinanosteoporosismodel. OVX+vehicle control (Fig. 6d). Vertebrae (L4) from micro-CT
+To extend our understanding of how Wnt mimetic treatment reconstructions (Fig. 6e) demonstrated visible increases in both
+mayberelevantinaskeletaldiseasesetting,weutilizedC57BL/6 cortical and cancellous bone growth, which were conﬁrmed by
+femalemicethathadundergoneovariectomyorshamsurgeryat the statistically signiﬁcant increases in BV/TV following treat-
+4 weeks of age (Fig. 6a). At 8 months of age, DEXA was per- ment with FA-L6, FB-L5, or anti-sclerostin antibody (Fig. 6f).
+formed to conﬁrm that hormone ablation had led to an osteo- Each of these treatments also showed statistically signiﬁcant
+porotic phenotype (Fig. 6b, Day 0, sham vs. all other groups). increases in maximum load (Fig. 6g) and stiffness (Fig. 6h), as
+Oncelowbonemasshadbeenestablished,werandomizedgroups shown by compressive force biomechanical testing of lumbar
+basedonequivalentlydecreasedBMDandinitiatedtwiceweekly vertebrae (L5). This striking increase in trabecular and cortical
+treatments for 4 weeks with vehicle (PBS), anti-β-gal 10mg/kg bone of both the femur and vertebrae in ovariectomized mice
+(antibodycontrol),anti-sclerostinantibody25mg/kg,ortheWnt suggests that Wnt mimetics, particularly FB-L5, can rapidly
+mimetics FA-L6 10mg/kg or FB-L5 10mg/kg. As shown by reverse severe bone loss due to hormone ablation-induced
+whole-bodyBMD(measuredbyDEXA),twotreatmentsofFB-L5 osteoporosis.
+NATURECOMMUNICATIONS|        (2021) 12:3247 |https://doi.org/10.1038/s41467-021-23374-8|www.nature.com/naturecommunications 7
+
+NEW PAGE
+
+ARTICLE
+NATURECOMMUNICATIONS|https://doi.org/10.1038/s41467-021-23374-8
+Fig.7CombinationstudiesofWntmimeticantibodieswithcurrentlyavailabletherapeutics.a12-week-oldC57BL6/Jfemalemicewereinjectedbi-
+weeklyfor28dayswithintraperitonealadministrationofFB-L5(10mg/kg)antibodyandcomparedtoanegativecontrolanti-β-gal(10mg/kg)and
+positivecontrolbi-weeklysubcutaneousadministrationof25mg/kganti-sclerostinantibodyoracombinationofanti-sclerostinantibodyandFB-L5.A2-
+weekwashoutperiodthenfollowed(day42assessment).LongitudinalDEXAmeasurementswerecollectedandwhole-body%BMDchangequantiﬁedfor
+days0,14,28,and42,normalizedtobaseline.Atday28,combinationtreatmentinducedstatisticallysigniﬁcantincreasesinBMDcomparedtoindividual
+treatments.Atday42,combinationtreatmentmaintainedtheboneaccrualgainedduringtheﬁrst4weeksoftreatmentandremainedstatistically
+signiﬁcantcomparedtoindividualtreatments.b12-week-oldC57BL6/Jfemalemicewereinjectedbi-weeklyfor28dayswithintraperitonealadministration
+ofFB-L5(10mg/kg)antibodyandcomparedtoanegativecontrolanti-β-gal(10mg/kg).Fromday28throughday42,animalsweretreatedwitheither
+vehicleoralendronateat1or4mg/kg.LongitudinalDEXAmeasurementswerecollectedandwhole-body%BMDquantiﬁedfordays0,14,28,and42,
+normalizedtobaseline.a,bGraphsrepresentmeanvalues±SD,n=8mice/group.Statisticalsigniﬁcancedeterminedbytwo-wayANOVA(**p<0.01,
+****p<0.0001),wherethefollowinglettersdeﬁnegroups,a(a=anti-β-Gal,b=Anti-Sclerostin,c=FB-L5,d=FB-L5+Anti-Sclerostin)andb(a=anti-β-
+Gal+Vehicle,b=FB-L5+Vehicle,c=FB-L5+Alendronate(1mg/kg),d=FB-L5+Alendronate(4mg/kg)).aDay14,avs.b,p≤0.0001,avs.c,p≤
+0.0001,avs.d,p≤0.0001,bvs.c,p≤0.0001,bvs.d,p≤0.0001.Day28,avs.b,p≤0.0001,avs.c,p≤0.0001,avs.d,p≤0.0001,bvs.c,p≤0.0001,
+bvs.d,p≤0.0001,cvs.d,p≤0.0001.Day42,avs.b,p≤0.0001,avs.c,p≤0.0001,avs.d,p≤0.0001,bvs.c,p=0.0031,bvs.d,p≤0.0001,cvs.d,
+p≤0.0001.bDay14,avs.b,p≤0.0001,avs.c,p≤0.0001,avs.d,p≤0.0001.Day28,avs.b,p≤0.0001,avs.c,p≤0.0001,avs.d,p≤0.0001.Day
+42,avs.b,p≤0.0001,avs.c,p≤0.0001,avs.d,p≤0.0001,bvs.c,p=0.0023,bvs.d,p≤0.0001.
+Combination or sequential therapy with Wnt mimetic administered alendronate at two different doses, 1 or 4mg/kg
+improvesbonemass.WeinvestigatedwhetherWntmimeticand (givenasasingleoralgavagedose)(Fig.7b).Withtheadditionof
+anti-sclerostinantibodytreatmentmightworkinacombinatorial eitherdoseofalendronate,boneaccrualinducedbyFB-L5atday
+way. We treated 12-week-old naive animals with anti-sclerostin 28 was maintained at day 42. BMD at day 42 was signiﬁcantly
+antibody 25mg/kg and FB-L5 10mg/kg, either alone or in increased in the group that received combined sequential
+combination, twice weekly for 4 weeks, followed by a 2-week treatment compared to FB-L5 alone.
+washoutperiodofnotreatment.Intheﬁrst4weeks,combination
+treatment induced statistically signiﬁcant increases in BMD ver-
+susindividualtreatments(Fig.7a).Furthermore,afterthe2-week Wnt mimetics as delayed treatment for fracture repair. Wnt
+washout period, combination therapy maintained the bone signaling has been shown to regulate chondrocyte and cartilage
+accrualgainedduringtheﬁrst4weeksoftreatmentandremained differentiation30, which is necessary for callus development in
+statistically signiﬁcantcompared to individualtreatments. Taken early fracture repair. Considering the dramatic effects of Wnt
+together, these results suggest that a combination of anti- mimetic treatment in our previous experiments, we wanted to
+sclerostin antibody and Wnt mimetic treatment work com- determineiffracturerepaircouldbeenhanced.Weﬁrstexamined
+plementarily to elicit prolonged bone accrual and/or reduced the effect of adding a Wnt mimetic immediately after fracture,
+bone resorption. and found that callus formation and subsequent fracture repair
+We next examined whether sequential treatment of anti- was inhibited (Supplementary Fig. 6). Based on these results, we
+resorptivebisphosphonatecanhelppreservebonemassgainedby reasoned that it would be better to activate Wnt signaling after
+FB-L5 treatment. We treated 12-week-old naive animals with the initial phase of ﬁbrocartilaginous callus formation. Thus, we
+twice weekly intraperitoneal injections of FB-L5 10mg/kg alone examined the role of delayed treatment with Wnt mimetics in
+for 4 weeks and then either discontinued treatment or fracturehealing,utilizingtheEinhornmousemodelofafemoral
+8 NATURECOMMUNICATIONS|        (2021) 12:3247 |https://doi.org/10.1038/s41467-021-23374-8|www.nature.com/naturecommunications
+
+NEW PAGE
+
+ARTICLE
+NATURECOMMUNICATIONS|https://doi.org/10.1038/s41467-021-23374-8
+Fig.8Wntmimeticantibodiesincreaseboneaccrualandbonerepairwhenprovided2weeksafterfracture.aSchematicofexperimentaldesign.12-
+week-oldC57BL6/JfemalemiceweresurgicallyfracturedadheringtotheEinhornfracturemodel.Animalsdidnotreceiveanytreatmentsfor2weeksto
+allowforanormalcartilaginouscallustoform.bCallusformationwasvisuallyconﬁrmedbyx-ray(toppanel)atday14;representativeimages(n=
+8samples/grouphavingsimilarresults)demonstrateasmall,butvisible,calluswithnocorticalfusion.Micewereinjectedbi-weekly(BIW)for21days
+withintraperitonealadministrationofFB-L5(10mg/kg),FA-L6(10mg/kg)andcomparedtoanegativecontrolanti-β-galandbi-weeklysubcutaneous
+administrationofanti-sclerostin(30mg/kg)antibody.Representativex-rayimagesdemonstratethelargeamountofcorticalfusionandradiographic
+contrastpresentinthecallusandmarrowcavityofbonestreatedwithFA-L6andFB-L5(bottompanel)atday28.cFemurswereisolatedatday35and
+scannedbyµCT.Measurementsweremadeaccordingtotheleftpanel,wherereddottedlinesrepresent4.2mm,or400slicesbyµCT,centeredonthe
+fracturelinewithimageanalysisshownfortissueareavs.bonearea,andrepresentativeimagesshownforeachtreatmentgroup.dCallustissuevolume,
+bonetissuevolume,BV/TV,andbonemineralcontent/mm(BMC/mm)weremeasuredforallanimalsatday35.dGraphsrepresentmeanvalues±SD,
+n=8mice/group.Statisticalsigniﬁcancewasdeterminedbyone-wayANOVA(*p<0.05,**p<0.01,***p<0.001,****p<0.0001),wherethefollowing
+lettersdeﬁnegroups,(a=Vehicle,b=FA-L6,c=FB-L5).Callustissuevolume,avs.b,p≤0.0001,avs.c,p≤0.0001.Bonetissuevolume,avs.b,p=
+0.0001,avs.c,p=0.0022.BV/TV,avs.b,p=0.001,avs.c,p=0.0116.BMC/mm,avs.b,p=0.001,avs.c,p=0.0117.
+fracture31. The experimental design is shown in Fig. 8a. Two Wnt mimetics in a bi-speciﬁc IgG antibody format with bio-
+weeksafterfracture,callusformationwasconﬁrmedbyx-rayfor physicalpropertiessuitablefortherapeuticdeliveryandtestedthe
+all animals (Fig. 8b, top panel), and mice were randomized into bone-buildingeffectsoftheseagonistsinnormalandosteoporotic
+ﬁve groups for treatment with vehicle (PBS), anti-β-gal antibody murinemodels.Inourstudies,theWntmimeticsproducedrapid
+10mg/kg,anti-sclerostinantibody25mg/kg,FA-L610mg/kg,or bone growth effects. Whole-body BMD and proximal tibial BV/
+FB-L5 10mg/kg twice weekly for 3 weeks. Two weeks after TV were signiﬁcantly increased, generally within 7–14 days fol-
+initiatingproteintreatment(4weeksafterfracture),radiographic lowingtreatment,witheffectssustainedthroughthe28-daystudy
+contrastofthecalluswasincreasedinanimalstreatedwitheither periods. These positive effects were observed in younger (8 and
+FA-L6orFB-L5(Fig.8b,bottompanel).After1additionalweek 16 weeks old) and older (1-year-old) female mice. Likewise, in
+of treatment, we excised bones and performed micro-CT to hormone ablation-induced osteoporosis, the Wnt mimetics
+quantifytissueandbonevolume(Fig.8c).Statisticallysigniﬁcant increased whole-body and femoral BMD as well as vertebral
+increases were observed in callus tissue volume, bone tissue corticalandcancellousbonegrowth.Furthermore,biomechanical
+volume, BV/TV, and BMC/mm in femurs from animals treated testingrevealedsigniﬁcantincreasesinbonestrength.TheseWnt
+with FA-L6 and FB-L5 compared to vehicle (Fig. 8d). These molecules not only built bone rapidly in the animal models, but
+results demonstrate that Wnt mimetics can stimulate rapid and also showed a sustained effect on bone accrual when combined
+robust mineralization in healing bone tissue after fracture. with currently available antiresorptive and bone anabolic medi-
+cations.Whileanti-sclerostintreatmentwasalsoshowntoreverse
+Discussion bone loss, the effect was delayed compared to Wnt mimetics at
+The main objective of the series of studies reported here was to the doses tested. Future broad dose range studies comparing the
+test the hypothesis that Fzd-Lrp receptor heterodimerizing Wnt bone accrual effects of anti-sclerostin and Wnt mimetics may
+mimetics have the ability to activate Wnt/β-catenin signaling to provide further insights on the similarities and differences
+stimulaterapidbonegrowthinvivo.Buildingonpreviousinvitro between these treatments.
+ﬁndings26, we used a mouse model to ﬁrst investigate whether a We and others have shown that numerous Fzds are expressed
+Wnt mimetic agonist could stimulate bone accrual in vivo. We in bone tissues or isolated cell lines32,33. It remains to be deter-
+demonstrated that systemic delivery of a Wnt mimetic (namely, mined, however, which speciﬁc Fzd(s) have the more profound
+18R5-DKK1c) enhances bone-building activities and that the functional impact on bone accrual. Our results from 18R5-
+resulting bones were functional and biomechanically sound. DKK1c, FA-L5, FA-L6, FB-L5, and FB-L6 suggest that multiple
+Having demonstrated this proof-of-concept, we then developed Fzds and Fzd subfamilies can confer bone-building effects. To
+NATURECOMMUNICATIONS|        (2021) 12:3247 |https://doi.org/10.1038/s41467-021-23374-8|www.nature.com/naturecommunications 9
+
+NEW PAGE
+
+ARTICLE
+NATURECOMMUNICATIONS|https://doi.org/10.1038/s41467-021-23374-8
+further understand Fzd and Lrp speciﬁcities, additional agonists no bisphosphonate present. One possible explanation is that
+with various binders of Fzd or Fzd , or mono-speciﬁc Fzd, animals dosed over a few weeks develop neutralizing anti-drug
+1,2,7 5,8
+coupled with various binders to Lrp5 or Lrp6, need to be engi- antibodies, similar to what has been previously reported39,
+neered and examined for their differential effects on bone- effectively diminishing theinitial stimulatory activity of the Wnt
+building and fracture repair. Similarly, the resulting bi-speciﬁc mimeticsonboneaccrual.However,wedidnotcomprehensively
+agonists with different activities in the Wnt signaling reporter studythedevelopmentofanti-drugantibodiesorosteoclastsand
+assayandinvivoboneefﬁcacyneedtobethoroughlyinvestigated the key factors affecting osteoclast differentiation and activation.
+to elucidate functional impacts of Fzd speciﬁcities. It is possible Futurestudieswillneedtoexaminetheinvitroandinvivodirect
+that other Fzd-Lrp combinations will yield even greater bone effectsofWntmimetictreatmentonthefusion,maturation,and
+accrual. Furthermore, skeletal sites may differ in their sensitivity activity of osteoclasts.
+to particular Fzd-Lrp combinations, a possibility that would Bone regeneration and fracture repair are highly complex,
+require additional studies. In addition, under certain skeletal involving MSCs and multiple signaling pathways, including the
+diseaseconditions,therecouldbeeitheranabundanceorlackof Wnt/β-catenin signaling pathway40. During fracture healing, β-
+a particular Fzd subfamily. These exciting possibilities could catenin and Wnt ligands and receptors, including Fzd
+1,2,4,5
+provide a therapeutic armamentarium for targeting a variety of and Lrp 5 and 6, are upregulated41,42. Wnt/β-catenin signaling
+skeletal diseases or fractures at different sites. has been shown to control osteoblast and chondrocyte
+Current treatments for osteoporosis include antiresorptive differentiation30.WefoundthatadministrationofaWntmimetic
+therapies(bisphosphonates,estrogens,selectiveestrogenreceptor immediately after fracture inhibited callus formation and sub-
+modulators, calcitonin, and monoclonal antibodies such as sequent repair. These resutls were surprising beause of the
+denosumab) and anabolic therapies (teriparatide, abaloparatide, accompanying increase in mineralization of the fractured bone
+and the anti-sclerostin monoclonal antibody romosozumab, extending away from, but clearly absent in, the fracture site. It
+which indirectly activates Wnt signaling by blocking a negative appears that exogenous Wnt stimulation at the time of frature
+regulator,sclerostin).SclerostinactsasadirectantagonisttoWnt actively inhibits the formation of cartilagenous callus while also
+signaling through binding Lrp5 and Lrp634. Combination or mobilizing osteoblast precursors within the marrow cavity to
+sequential therapy has the potential to improve bone mass and rapidly mineralize, however this mechanism remains to be clar-
+bonestrengthcomparedtomonotherapy9,35,36.Inourstudies,we iﬁed.Wntmimetictreatmentinitiated2weekspost-fracturefora
+found that the combination of our Wnt agonist FB-L5, with total of 3 weeks, resulted in signiﬁcant increases in callus and
+bisphosphonate or anti-sclerostin antibody treatment induced bone tissue volumes as well as BMD, suggesting a possible ther-
+greaterimprovementsinBMDcomparedtomonotherapy.These apeutic role for Wnt mimetics in healing bone tissue after
+results suggest that Wnt mimetics in combination with current fracture43.Follow-upstudieswillneedtofocusonhowthehighly
+clinicaltreatmentsforosteoporosismayenhancebonerepairand mineralized,repairedcalluswillremodelandrespondtowashout
+help maintain bone mass. Wnt mimetics may also provide a under normal loading conditions. Additionally, the increases in
+stimulusforrapidlyimprovingbonemassinpre-optimizationof contralateral, unfractured femoral BMD could provide rapid
+patients preparing for skeletal surgery. protection against subsequent fracture. It will be interesting to
+ThemechanismofhowWntsignalingactivationpropelsbone expandupontheseﬁndingstounderstandwhetherlocalinjection
+formation remains to be elucidated. Bone formation and home- ofaWntmimeticisefﬁcaciousinbuildingboneafterfractureor
+ostasis is a balance between osteoblast and osteoclast activities. following skeletal reconstructive therapy.
+Studies suggest that Wnt activation possibly impacts osteoblasts Inconclusion,ourstudiesofWntmimeticmoleculesprovidea
+and osteoblast lineages by increasing the number of osteoblasts blueprint to design a fast-acting bone anabolic therapeutic can-
+and bone-lining cells, and by enhancing activity and differentia- didatethatcanbeneﬁtindividualswithseverebonedeﬁciencyas
+tion of osteoblasts37. In our study, we observed increased osteo- wellasthosewhoneedtobuildbonequickly.Therobustefﬁcacy
+blast number in vivo, consistent with what has been previously and short-term treatment requirement for our molecule may be
+reported in the literature in vitro26. Using gene expression ana- beneﬁcialaswellfromasafetyperspective.CombinationofaWnt
+lysis, we found that Ki67 signals were the most profoundly ele- mimeticwithantiresorptivetreatmenttomaintainbonegainmay
+vatedgenesignatureaftersingle-doseFB-L5treatment,providing beanotherattractivetreatmentscenario.Ouremergingtoolboxof
+insight into the rapid bone growth that we detected radio- Wnt mimetics with different properties and receptor speciﬁcities
+graphically. Likewise, we observed a rapid return to baseline in willallowustoengineeracandidatemoleculethathasincreased
+the Ki67 expression level. It is not clear whether longer-term selectivity for bone, while deepening our understanding of the
+treatment with a Wnt mimetic would result in the same magni- biology of Wnt activation and bone mass regulation. Wnt sig-
+tudeofampliﬁcationinKi67,orwhetherthereexistsaninternal naling mutations can lead to many diseases, especially activating
+rheostat that would diminish continued proliferation. Of course, mutationsinintracellularsignalingcomponentswhichhavebeen
+while the increase in Ki67 does strongly suggest enhanced pro- linked to cancer. Anti-sclerostin approach has the advantage of
+liferation, additional experiments and analyses are required to morelimitingoff-targeteffectsduetotherelativelyspeciﬁcbone
+unequivocally prove this. Perhaps a renewed pool of osteoblast expression of sclerostin while the Wnt mimetics described here
+precursors would be required before additional stimulation of are applied systemically. Even though there are some differences
+proliferation could be achieved. However, further studies are between Wnt mimetics and mutations found in cancer, for
+neededtodelineatetheprecisemechanismofaction.Theeffectof example, Wnt mimetics induced signaling may differ from
+Wntsignalingonosteoclastsislessclear.Someresearchsuggests intracellular activating mutations in amplitude and duration, as
+a direct effect on osteoclasts38, but most studies point to an Wnt mimetics activate only a subset of Fzds and Wnt mimetics
+indirect effect through Wnt signal regulation of OPG and donotdirectlyaffectR-Spondinstofurtherenhancesignaling.In
+RANKL expression19. We did not observe either a profound addition,negativefeedbackregulatorycomponentsarestillactive
+impact of the Wnt mimetic agonist 18R5-DKK1c on osteoclasts whichcouldlimitmimeticsactivitiesandapplyingbonetargeting
+basedonTRAPstainingorasustainedincreaseintheexpression approachestoWntmimeticsmayreducesystemiceffectsofsuch
+level of RANKL. From our study of the Wnt mimetic FB-L5 in molecules.Nonetheless,thoroughsafetystudiesforWntmimetics
+combination with bisphosphonate, it is clear that some of the will need to be conducted to demonstrate appropriate beneﬁt
+boneaccrualinducedbyWntmimetictreatmentislostifthereis versus risk proﬁle for future therapeutic considerations.
+10 NATURECOMMUNICATIONS|        (2021) 12:3247 |https://doi.org/10.1038/s41467-021-23374-8|www.nature.com/naturecommunications
+
+NEW PAGE
+
+ARTICLE
+NATURECOMMUNICATIONS|https://doi.org/10.1038/s41467-021-23374-8
+Methods Thefollowingmethodwasusedforhumanandmousefemurbone(Fig.1d,e).
+Studydesign.Theobjectivesofthestudiesreportedherewere:(1)todetermine Freshhumancadavericfemurtissuewaspurchasedfromvendor(Folio
+whether18R5-DKK1ccanbedeliveredsystemicallytoinduceboneaccrualinvivo, Conversant).Femurheadswereshippedonweticewithin24hofdeathandtissue
+(2)toengineerbi-speciﬁcmoleculeswithdifferentFzdandLrpbindersandspe- usedimmediatelyuponreceipt.Inatissueculturehood,kimwipesandscissors
+ciﬁcitiesanddeterminetheefﬁcacyoftheseWntmimeticsonbuildingbonein wereusedtoremoveconnectivetissuebeforeremovingthefemoralhead.The
+youngandolderuninjuredmiceandinanovariectomizedmousemodelof remainingdiaphysiswascutinto1–2mmsmallpieceswithapairofdissecting
+osteoporosis,(3)determinewhetherWntmimeticsinduceadditiveboneeffects scissors.BonepieceswerewashedwithcoldPBSbyinvertingandshakingbefore
+whencombinedwithcurrentlyavailableantiresorptiveoranabolictherapies,and beingallowedtosettle,thenthesupernatantwasremoved,andtheprocess
+(4)determinetheabilityforWntmimeticstoimprovefracturehealinginamouse repeated5timesoruntilthebonepieceswerewhitewithnoremainingconnective
+longbonefracturemodel.Wild-typefemaleC57BL/6mice(TheJacksonLabora- tissueorvasculatureremaining.Theprocessoutlinedabovefortibiaswasused
+tory)wereutilized(n=8–10/group)inallexperiments.Allmicewerenaiveani- fromthispointforward.ValueswerecalculatedusingthedeltaCTmethodand
+mals,exceptthosethatunderwentovariectomyorshamsurgery.Nopower valuesarerepresentedasexpressionrelativetohousekeepinggeneactinmultiplied
+analyseswereusedtocalculatesamplesizes,andnosampleswereexcluded.All byafactorof1000.
+experimentswereconductedundernon-blindedconditions.Pathologyassessment
+wasperformedunderblindedconditions.
+SuperTopFlash(STF)assay.WntsignalingactivitywasmeasuredusingHEK293
+cellscontainingaluciferasegenecontrolledbyaWnt-responsivepromoter(Super
+Animalstudiesandstudytreatments.Allanimalexperimentswereperformed TopFlashreporterassay),aspreviouslyreported26.Inbrief,cellswereseededata
+accordingtonationalethicalguidelinesinadditiontotheguidanceandapprovalby densityof10,000perwellin96-wellplates24hpriortotreatmentatthepresence
+theInstitutionalAnimalCareandUseCommittee(IACUC)ofSurrozen,Inc. of3μMIWP2toinhibittheproductionofendogenousWntligands.Recombinant
+EuthanasiawasconductedincompliancewiththecurrentrequirementsofThe WNT3A(R&Dsystems)wasusedasapositivecontrol.Cellswerelysedwith
+GuidefortheCareandUseofLaboratoryAnimals,8thEdition,andtheAmerican LuciferaseCellCultureLysisReagent(Promega),andactivitywasmeasuredwith
+VeterinaryMedicalAssociation(AVMA)GuidelinesonEuthanasia.Allanimals theLuciferaseAssaySystem(Promega),usingvendorsuggestedprocedures.Data
+wereobtainedfromtheJacksonLaboratory(BarHarbor,ME).Onarrival,animals wereplottedasaverage−/+standarddeviationoftriplicatesandﬁttedbynon-
+wererandomlyassignedtogroup(5animals/cage)housingandprovidedwith linearregressionusingPrism(GraphPadSoftware,SanDiego,CA).
+rodentdietandwateradlibitum.Allmiceweremaintainedona12:12-hlight/dark
+photoperiodatanambienttemperatureof22±2°C.Allantibodiesusedinthe Afﬁnitymeasurements.BindingkineticsofFAIgG,FBIgG,L5(FB-L5),andL6
+experimentsweremanufacturedatSurrozen,Inc.laboratoryanddeliveredvia
+(FB-L6)toeachCRDofFzd ,Lrp5(CREATIVEBIOMART,Shirley,NY)or
+intraperitonealinjection.Theanti-sclerostinantibodyusedinourexperimentswas Lrp6E3E427weredetermined1,b2,y5,7b,8io-layerinterferometry(BLI)usingOctetRed96
+preparedbasedonpublishedsequencedata44andadministeredviasubcutaneous
+administration.Alendronatesodium(Fosamax®,Merck&Co.,Inc.,Whitehouse (PALLForteBio,Fremont,CA)instrumentat30°C,1000rpmwithanti-human
+IgGFccapture(AHC)biosensors.FAIgG,FBIgG,FB-L5,orFB-L6dilutedto
+Station,NJ)waspurchasedfromalocalpharmacy,dissolvedinPBS,anddelivered
+50nMintherunningbuffer(PBS,0.05%Tween-20,0.5%BSA,pH7.2)were
+asoralgavage.
+capturedtotheAHCbiosensorfollowedbydippingintowellscontainingthe
+relevantFzdCRDsorLrpproteinsatdifferentconcentrationsinrunningbufferor
+Einhornfracturemodel.Forfracturestudies,anadaptedfracturemethodﬁrst intoawellwithonlyrunningbufferasareferencechannel.KDforeachbinderwas
+describedbyBonnarensandEinhorn31wasperformed.Animalsweremaintained calculatedbyOctetSystemsoftware,basedonﬁttingtoa1:1bindingmodel.
+underanesthesiawithketamineandxylazinethroughouttheprocedureandall BindingspeciﬁcitiesofFAIgGandFBIgGto10Fzdswerealsoexaminedbythe
+animalsweregivenadoseofbuprenorphinepriortosurgery.Aftermakingan BLIassay.BiotinylatedFzdCRDs27dilutedto50nMintherunningbufferwere
+anteriorlongitudinalmidlineincisioncenteredoverthekneejoint,a30-gauge capturedtotheSAbiosensorfollowedbydippingintowellscontainingtheFAIgG
+needlewasusedasanintramedullarypin,drivingitthroughthedistalfemur orFBIgGat200nMinrunningbuffer.
+towardthefemoralheadaftersubluxationofthepatella.Theneedlewasclipped
+andgentlynestedintothedistalfemurtoavoidsofttissuedamage.Pininsertion
+wasconﬁrmedradiographicallypriortofracture.Fractureisgeneratedbydropping Serumboneformationmarkeranalysis.Bloodsampleswereobtainedatdays7,
+14,21,and28ofthetreatmentphaseforbothtreatedandcontrolanimals.All
+aweightontothefemurusingacustomguillotinestylefracturedevice.Theweight
+wasdeterminedastheamountofweightneededfromadeﬁnedheighttogenerate bolbotoaidnewdasfrocomllebcltoeodd2s4amhpalfetserthtrhoeumghosctenretrciefungtatteisotnairnticMleintriCeaotlmleecnt®t.TSuebreum0.8wmaslZ
+animpactleadingtoafocaltransversefractureatthemid-diaphysis.
+SerumSeparatortubes(GreinerBio-One).Serumsampleswerethenassessedfor
+amountofprocollagentype-1N-terminalpropeptide(P1NP)usingtheRat/mouse
+Micro-computedtomography.Micro-computedtomographyofmurinetrabe- P1NPEIAkit(ImmunodiagnosticSystems,Boldon,UK),permanufacturerpro-
+cularandcorticalbonewascompletedusingaScancovivaCT40scanner(Scanco tocol.Thebone-anaboliceffectwasthenassessedbycomparingtheP1NPlevelsof
+Medical,Brüttisellen,Switzerland).Distalfemurs,proximaltibiae,andlumbar treatedversusnegative-controltreatedanimals.
+sampleswerescannedwitha10µMisotropicvoxelsizeaccordingtorecommended
+guidelines45.SamplevolumetricanalysiswasperformedusingScancosoftware.For
+Anti-hFcbindingenzyme-linkedimmunosorbentassay.Plateswerecoatedwith
+thedistalfemurandproximaltibia,100transverseCTsliceswereevaluated anti-humanIgGat1μg/mLinPBS(AfﬁniPureGoatAnti-HumanIgG,Fcγfrag-
+proximaltothegrowthplate.Forvertebrae,trabecularbonewasevaluatedbetween mentspeciﬁc)JacksonImmunoResearch,WestGrove,PA,USA)andincubatedat
+thecranialandcaudalgrowthplate.
+4°Covernight.Plateswerethenwashedwith1xPBSwith0.05%Tween-20(PBST)
+andblockedusingSuperBlockT20(PBS)BlockingBuffer(ThermoFisherScien-
+DualenergyX-rayabsorptiometry(DEXA).BMDofanimalswasmeasuredvia tiﬁc).Eachplatewasthenincubatedat37°Cfor1handwashedwithPBST.Bi-
+aninvivoDEXAmethodusingaFaxitronUltraFocus(FaxitronBioptics,Tucson, speciﬁcantibodywasusedtocreateastandardcurve,andstandardsandsamples
+Arizona).Animalswereanesthetizedduringimagingthroughisoﬂurane,in dilutedinPBSTwereincubatedatroomtemperaturefor1h.Plateswerewashed
+accordancewithanapprovedSurrozen,Inc.IACUCprotocol.Sampleregionsof withPBST,andPeroxidaseAfﬁniPureDonkeyAnti-HumanIgG,Fcγfragment
+interest(ROI)includedtheentiremurineskeleton,exceptmaterialabovethe speciﬁc(JacksonImmunoResearch)wasappliedatroomtemperaturefor1h.
+cervicalspineduetoincreasedradiographicalintensityoftheskull.BMDandbone PlateswerewashedwithPBST,and1-StepUltraTMB-ELISASubstrateSolution
+mineralcontent(BMC)werecalculatedusingtheaccompanyingFaxitronsoftware. (ThermoFisherScientiﬁc)wasappliedfor4min.TheTMBreactionwasstopped
+withsulfuricacidsolutionandtheplatewasmeasuredforabsorbanceat450nmin
+aSpectraMax®Paradigm®(MolecularDevices).Astandardcurvewascreated,and
+Geneexpressionanalysis.Attimezero,femaleC57BL/6micewereinjectedwith
+serumconcentrationsweredeterminedintheaccompanyingsoftware.
+oneofthefollowingproteins:negativecontrolantibody,anti-sclerostinantibody,
+orWntmimetic.Atdescribedtimes(SupplementaryFig.5),animalswere
+euthanized,andtibiascollected.Softtissueandproximalanddistalepiphyseswere Histologyofmurinespecimens.Tissueswereextractedandimmediatelyﬁxedin
+removedpriortoﬂushingofthemedullarycavitywithPBStoremovebone 10%neutralbufferedformalinfor24hpriortoextensivewashinwater.Skeletal
+marrow.Theremainingshaftwasthenﬂashfrozeninliquidnitrogenuntilfurther sampleswerethenincubatedin10%di-andtetra-sodiumEDTAuntilcomplete
+processing.UsingtheQiagenTissueLyserandQiagen5mmStainlessSteelBeads, decalciﬁcation,followedbyserialethanoldehydrationandparafﬁnembedding.
+sampleswerehomogenizedin1mLQiagenTrizollysisreagentuntilcomplete Separatetissuestakenforhistopathologywereplacedin70%ethanoluntilparafﬁn
+homogenization.RNAwasisolatedviaacidguanidiniumthiocyanate-phenol- embeddingfollowingformalinﬁxation.Afterembedding,thetissuesunderwent
+chloroformtechniqueandpuriﬁedwithQiagenRNeasyPlusMinispincolumns, routinehematoxylinandeosinstainingforanalysis.Fluorochromelabelingofthe
+includingDNasedigestionpermanufacturer’sinstructions.A1µgsampleofRNA boneswasperformedbyintraperitonealinjectionsofcalcein(30mg/kg)(Sigma
+wasreversedtranscribedtocDNAusingInvitrogenSuperScriptIVVILOMaster Chemical,St.Louis,MO,USA)administered8dayspriortosacriﬁce.Formalin
+Mix,inaccordancewiththemanufacturer’sprotocol.Quantitative-PCRwas ﬁxedtibiaswereembeddedinmethylmethacrylateandGoldner’strichromeand
+completedwithAppliedBiosystemsTaqmanprobesandAppliedBiosystems TartrateResistantAcidPhosphatasestainingwasperformedonskeletalsamples
+TaqmanFastAdvancedMasterMixfor40cycles.Analysiswasperformedusing forhistomorphometryanalysis,andblindedquantiﬁcationoftheendostealprox-
+the2−ddCtmethod.AllprimersusedcanbefoundintheSupplementaryTable4. imaltibiawasperformedusingOsteoMeasure(OsteoMetrics,Atlanta,GA,USA).
+NATURECOMMUNICATIONS|        (2021) 12:3247 |https://doi.org/10.1038/s41467-021-23374-8|www.nature.com/naturecommunications 11
+
+NEW PAGE
+
+ARTICLE
+NATURECOMMUNICATIONS|https://doi.org/10.1038/s41467-021-23374-8
+Immunoﬂuorescencestaining.ForthecharacterizationofKi-67expressingcells 11. Marini,J.C.etal.Osteogenesisimperfecta.Nat.Rev.Dis.Prim.3,17052
+inliverandintestine,formalinﬁxedparafﬁnembeddedtissuesectionswere (2017).
+examined.Allsampleswereﬁxedin10%bufferedformalin.TheprimaryKi67rat 12. Bloomﬁeld,S.A.Disuseosteopenia.Curr.Osteoporos.Rep.8,91–97(2010).
+anti-mouseantibody(ThermoFisher)wasdilutedto1:300withPBSandincubated 13. vanAmerongen,R.&Nusse,R.TowardsanintegratedviewofWntsignaling
+withtheslidesovernightat4°C.Afterwashing,Ki67-labeleddonkeyanti-ratIgG indevelopment.Development136,3205–3214(2009).
+(ThermoFisher),diluted1:500withPBS,servedassecondaryantibody.Slideswere 14. Niehrs,C.&Acebron,S.P.MitoticandmitogenicWntsignalling.EMBOJ.
+examinedwithaLeica(Wetzlar,Germany)DMi8invertedmicroscope.Digital 31,2705–2713(2012).
+imageswereobtainedwithadigital-camerasystem(sCMOScameraDFC9000, 15. Minear,S.etal.Wntproteinspromoteboneregeneration.Sci.Transl.Med.2,
+Leica). 29ra30(2010).
+16. Glass,D.A.2ndetal.CanonicalWntsignalingindifferentiatedosteoblasts
+Mechanicaltesting.Femurandvertebrabonestrengthwasanalyzedbyamod- controlsosteoclastdifferentiation.Dev.Cell8,751–764(2005).
+iﬁed,publishedmethod46.Three-pointbendingwasusedtoevaluatethebio- 17. Karner,C.M.&Long,F.Wntsignalingandcellularmetabolismin
+mechanicalstrengthoffemur.Thefemurwasthawedfromfrozenstage(−20°C) osteoblasts.CellMol.LifeSci.74,1649–1657(2017).
+toroomtemperature.Theattachedmusclesandtendonswereremoved.Thefemur 18. Bonewald,L.F.&Johnson,M.L.Osteocytes,mechanosensingandWnt
+waswettedwithsalinesoakedgauze.UsingMTS858MiniBionixII(MTS,Eden signaling.Bone42,606–615(2008).
+Prairie,MN,USA),thefemurwasset,andforce-advancedat6mm/minuntil 19. Weivoda,M.M.etal.WntSignalingInhibitsOsteoclastDifferentiationby
+immediatelyaftertheloadpeak.Vertebraewereassessedbystandardcompressive ActivatingCanonicalandNoncanonicalcAMP/PKAPathways.J.BoneMin.
+forceanalysis.TheL4wasthawedtoroomtemperatureandpreparedasdescribed Res31,65–75(2016).
+inthe3-pointtest.Theforcewasadvancedat20mm/minuntilimmediatelyafter 20. Robling,A.G.etal.Mechanicalstimulationofboneinvivoreducesosteocyte
+theloadpeak.TheassociatedTestWorkTM(Version4.08)automaticallyrecorded expressionofSost/sclerostin.J.Biol.Chem.283,5866–5875(2008).
+theadvancementofforceandresultingdisplacementrecordedbyblinded 21. Westendorf,J.J.,Kahler,R.A.&Schroeder,T.M.Wntsignalingin
+technician. osteoblastsandbonediseases.Gene341,19–39(2004).
+22. Janda,C.Y.,Waghray,D.,Levin,A.M.,Thomas,C.&Garcia,K.C.Structural
+Statistics.DatawereanalyzedusingPrism(GraphPadSoftware,SanDiego,CA, basisofWntrecognitionbyFrizzled.Science337,59–64(2012).
+USA)viaaone-wayortwo-wayANOVA(whereappropriate)todeterminesig- 23. Gurney,A.etal.WntpathwayinhibitionviathetargetingofFrizzled
+niﬁcantdifferencesbetweentreatmentversusbasal,wild-type,ornegative-control receptorsresultsindecreasedgrowthandtumorigenicityofhumantumors.
+groups.Post-hocanalyseswereperformedusingTukey’smethodintheaccom- Proc.NatlAcad.Sci.USA109,11717–11722(2012).
+panyingsoftware.Pvalues<0.05wereconsideredstatisticallysigniﬁcant,andare 24. Bourhis,E.etal.Reconstitutionofafrizzled8.Wnt3a.LRP6signalingcomplex
+indicatedintheﬁgureswithanasterisk(*),unlessotherwisereported. revealsmultipleWntandDkk1bindingsitesonLRP6.J.Biol.Chem.285,
+9172–9179(2010).
+25. Ahn,V.E.etal.StructuralbasisofWntsignalinginhibitionbyDickkopf
+Reportingsummary.FurtherinformationonresearchdesignisavailableintheNature bindingtoLRP5/6.Dev.Cell21,862–873(2011).
+ResearchReportingSummarylinkedtothisarticle.
+26. Janda,C.Y.etal.SurrogateWntagoniststhatphenocopycanonicalWntand
+beta-cateninsignalling.Nature545,234–237(2017).
+Data availability 27. Chen,H.etal.Developmentofpotent,selectivesurrogateWNTmolecules
+Theauthorsdeclarethatthedatasupportingtheﬁndingsofthisstudyareavailable andtheirapplicationindeﬁningfrizzledrequirements.CellChem.Biol.27,
+withinthepaperanditsSupplementaryFigures.Sourcedataareprovidedwith 598–609(2020).
+thispaper. 28. Zhao,L.,Li,G.,Chan,K.M.,Wang,Y.&Tang,P.F.Comparisonof
+multipotentdifferentiationpotentialsofmurineprimarybonemarrow
+Material availability stromalcellsandmesenchymalstemcelllineC3H10T1/2.Calcif.TissueInt
+84,56–64(2009).
+Allunique/stablereagentsgeneratedinthisstudyareavailablefromthecorresponding
+29. Ryman,J.T.&Meibohm,B.Pharmacokineticsofmonoclonalantibodies.CPT
+authorswithacompletedMaterialsTransferAgreement. Pharmacomet.Syst.Pharm.6,576–588(2017).
+30. Day,T.F.,Guo,X.,Garrett-Beal,L.&Yang,Y.Wnt/beta-cateninsignalingin
+Received: 18April2020; Accepted: 27April2021; mesenchymalprogenitorscontrolsosteoblastandchondrocytedifferentiation
+duringvertebrateskeletogenesis.Dev.Cell8,739–750(2005).
+31. Bonnarens,F.&Einhorn,T.A.Productionofastandardclosedfracturein
+laboratoryanimalbone.J.Orthop.Res.2,97–101(1984).
+32. Kato,M.etal.Cbfa1-independentdecreaseinosteoblastproliferation,
+osteopenia,andpersistentembryoniceyevascularizationinmicedeﬁcientin
+References Lrp5,aWntcoreceptor.J.CellBiol.157,303–314(2002).
+33. Hoang,B.H.etal.ExpressionofLDLreceptor-relatedprotein5(LRP5)asa
+1. Pedersen,A.B.,Ehrenstein,V.,Szepligeti,S.K.&Sorensen,H.T.Excessrisk
+novelmarkerfordiseaseprogressioninhigh-gradeosteosarcoma.IntJ.
+oimfpveanctouosfcthormoomrbboideimtyb.oOlisstmeopinorhosip.Ifnrtac2t8u,re34p2a1t–ie3n4t3s0an(2d01th7e).prognostic Cancer109,106–111(2004).
+34. Li,X.etal.SclerostinbindstoLRP5/6andantagonizescanonicalWnt
+2. Toth,E.etal.HistoryofPreviousFractureandImminentFractureRiskin signaling.J.Biol.Chem.280,19883–19887(2005).
+SwedishWomenAged55to90YearsPresentingWithaFragilityFracture.J.
+35. Lou,S.,Lv,H.,Li,Z.,Zhang,L.&Tang,P.Combinationtherapyofanabolic
+BoneMiner.Res.https://doi.org/10.1002/jbmr.3953(2020).
+agentsandbisphosphonatesonbonemineraldensityinpatientswith
+3. Borhan,S.etal.IncidentFragilityFracturesHaveaLong-TermNegative
+osteoporosis:ameta-analysisofrandomisedcontrolledtrials.BMJOpen8,
+ImpactonHealth-RelatedQualityofLifeofOlderPeople:TheCanadian
+MulticentreOsteoporosisStudy.J.BoneMin.Res34,838–848(2019). e015187(2018).
+36. Cosman,F.Combinationtherapyforosteoporosis:areappraisal.BonekeyRep.
+4. Silva,D.M.W.etal.Incidenceandexcessmortalityofhipfracturesina
+3,518(2014).
+predominantlyCaucasianpopulationintheSouthofBrazil.Arch.Osteoporos.
+37. Baron,R.&Kneissel,M.WNTsignalinginbonehomeostasisanddisease:
+14,47(2019). fromhumanmutationstotreatments.Nat.Med.19,179–192(2013).
+5. Bliuc,D.&Center,J.R.Determinantsofmortalityriskfollowingosteoporotic
+fractures.Curr.Opin.Rheumatol.28,413–419(2016). 38. Wbyebi,eWta-.ceatteanl.inB.ipMhaosl.icCaenlldBdiools.a3g1e-,d4e7p0e6n–d4e7n1t9re(2gu01la1t)io.nofosteoclastogenesis
+6. Lippuner,K.,Johansson,H.,Kanis,J.A.&Rizzoli,R.Remaininglifetimeand
+39. Chouinard,L.etal.Carcinogenicityriskassessmentofromosozumab:areview
+awbosmoleunte.O10st-eyoepaorrpors.obInatb.il2it0i,es11o3f1o–s1te1o4p0o(r2o0ti0c9)fr.actureinSwissmenand sotfusdcyi.enRteiﬁgucl.wTeoigxhict-ool.f-Pehvaidremn.ce81a,n2d12ﬁ–n2d2in2g(s20in16a).ratlifetimepharmacology
+7. Oden,A.,McCloskey,E.V.,Kanis,J.A.,Harvey,N.C.&Johansson,H. 40. Majidinia,M.,Sadeghpour,A.&Youseﬁ,B.Therolesofsignalingpathwaysin
+BOustredoepnoroofs.hIignht.f2r6a,ct2u2r4e3p–r2o2b4a8bi(l2it0y15w)o.rldwide:secularincreases2010-2040. bonerepairandregeneration.J.CellPhysiol.233,2937–2948(2018).
+41. Zhong,N.,Gersch,R.P.&Hadjiargyrou,M.Wntsignalingactivationduring
+8. Compston,J.E.,McClung,M.R.&Leslie,W.D.Osteoporosis.Lancet393,
+364–376(2019). banodnedrifefgeernenertiaattiioonn.anBdontehe39r,ol5e–o16fD(2is0h0e6v)e.lledinchondrocyteproliferation
+9. Langdahl,B.L.Overviewoftreatmentapproachestoosteoporosis.BrJ
+42. Chen,Y.etal.Beta-cateninsignalingplaysadisparateroleindifferentphases
+Pharmacol.https://doi.org/10.1111/bph.15024(2020).
+offracturerepair:implicationsfortherapytoimprovebonehealing.PLoS
+10. Khosla,S.&Shane,E.Acrisisinthetreatmentofosteoporosis.J.BoneMin.
+Res.31,1485–1487(2016). Med.4,e249(2007).
+12 NATURECOMMUNICATIONS|        (2021) 12:3247 |https://doi.org/10.1038/s41467-021-23374-8|www.nature.com/naturecommunications
+
+NEW PAGE
+
+ARTICLE
+NATURECOMMUNICATIONS|https://doi.org/10.1038/s41467-021-23374-8
+43. Morgan,E.F.etal.Micro-computedtomographyassessmentoffracture Additional information
+healing:relationshipsamongcallusstructure,composition,andmechanical SupplementaryinformationTheonlineversioncontainssupplementarymaterial
+function.Bone44,335–344(2009). availableathttps://doi.org/10.1038/s41467-021-23374-8.
+44. Lewiecki,E.M.Sclerostin:anoveltargetforinterventioninthetreatmentof
+osteoporosis.Disco.Med.12,263–273(2011). CorrespondenceandrequestsformaterialsshouldbeaddressedtoW.-C.Y.orY.L.
+45. Bouxsein,M.L.etal.Guidelinesforassessmentofbonemicrostructureinrodents
+usingmicro-computedtomography.J.BoneMin.Res.25,1468–1486(2010). PeerreviewinformationNatureCommunicationsthanksRolandBaron,KarlWillert
+46. Turner,C.H.&Burr,D.B.Basicbiomechanicalmeasurementsofbone:a andtheother,anonymous,reviewer(s)fortheircontributiontothepeerreviewof
+tutorial.Bone14,595–608(1993). thiswork.
+Reprintsandpermissioninformationisavailableathttp://www.nature.com/reprints
+Acknowledgements
+TheauthorsliketothankHansClevers,K.ChristopherGarcia,CalvinKuo,RoelNusse, Publisher’snoteSpringerNatureremainsneutralwithregardtojurisdictionalclaimsin
+aswellasothermembersofourboardofdirectorsandscientiﬁcadvisorygroupfor publishedmapsandinstitutionalafﬁliations.
+helpfuldiscussionsandsuggestions.TheauthorsalsothankTomLopezandJessie
+Hinojosaforhelpwithbiosensingassaydevelopment,andLorraineR.Baerforeditorial
+support.AllstudieswerefundedbySurrozen,Inc. Open Access This article is licensed under a Creative Commons
+Attribution 4.0 International License, which permits use, sharing,
+Author contributions adaptation,distributionandreproductioninanymediumorformat,aslongasyougive
+appropriatecredittotheoriginalauthor(s)andthesource,providealinktotheCreative
+Conceptionanddesign:T.W.F.,T.L.M.,H.Z.,C.J.,N.T.,H.B.,W.C.Y.andY.L.;devel-
+opmentofmethodologyandacquisitionofdata:T.W.F.,T.L.M.,L.X.,S.T.,H.C.,H.Z., Commonslicense,andindicateifchangesweremade.Theimagesorotherthirdparty
+J.Y.,B.O.,T.Z.Y.,S.L.,M.N.,C.J.,N.T.,E.S.R.,D.M.,A.D.,H.B.,W.C.Y.andY.L;analysis materialinthisarticleareincludedinthearticle’sCreativeCommonslicense,unless
+andinterpretationofdata:T.W.F.,T.L.M.,L.X.,S.T.,H.C.,H.Z.,J.Y.,B.O.,T.Z.Y.,S.L., indicatedotherwiseinacreditlinetothematerial.Ifmaterialisnotincludedinthe
+M.N.,C.J.,N.T.,H.B.,W.C.Y.andY.L;writingandrevisionofthemanuscript:T.W.F., article’sCreativeCommonslicenseandyourintendeduseisnotpermittedbystatutory
+T.L.M.,W.C.Y.andY.L.;studysupervision:T.W.F.,W.C.Y.andY.L.Allauthors regulationorexceedsthepermitteduse,youwillneedtoobtainpermissiondirectlyfrom
+reviewedandgavetheirﬁnalapprovalofthemanuscript. thecopyrightholder.Toviewacopyofthislicense,visithttp://creativecommons.org/
+licenses/by/4.0/.
+Competing interests
+Allauthorsarecurrentorformerfull-timeemployeesand/orfoundersofSurrozen,Inc. ©TheAuthor(s)2021
+Apatentapplicationispendingfortheworkdescribedinthismanuscript.
+NATURECOMMUNICATIONS|        (2021) 12:3247 |https://doi.org/10.1038/s41467-021-23374-8|www.nature.com/naturecommunications 13
+
+NEW PAGE

@@ -1,0 +1,759 @@
+ARTICLE
+https://doi.org/10.1038/s41467-021-23274-x OPEN
+A human antibody selective for transthyretin
+amyloid removes cardiac amyloid through
+phagocytic immune cells
+✉
+Aubin Michalon 1 , Andreas Hagenbuch1, Christian Huy1, Evita Varela 1, Benoit Combaluzier1,
+Thibaud Damy2, Ole B. Suhr 3, Maria J. Saraiva 4, Christoph Hock1,5, Roger M. Nitsch1,5 & Jan Grimm 1
+0():,;
+123456789 Transthyretin amyloid (ATTR) cardiomyopathy is a debilitating disease leading to heart
+failure and death. It is characterized by the deposition of extracellular ATTR ﬁbrils in the
+myocardium. Reducing myocardial ATTR load is a therapeutic goal anticipated to translate
+intorestoredcardiacfunctionandimprovedpatientsurvival.Forthispurpose,wedeveloped
+theselectiveanti-ATTRantibodyNI301A,arecombinanthumanmonoclonalimmunoglobulin
+G1. NI301A was cloned following comprehensive analyses of memory B cell repertoires
+derived from healthy elderly subjects. NI301A binds selectively with high afﬁnity to the
+disease-associatedATTRaggregatesofeitherwild-typeorvariantATTRrelatedtosporadic
+or hereditary disease, respectively. It does not bind physiological transthyretin. NI301A
+removes ATTR deposits ex vivo from patient-derived myocardium by macrophages, as well
+asinvivofrommicegraftedwithpatient-derivedATTRﬁbrilsinadose-andtime-dependent
+fashion. The biological activity of ATTR removal involves antibody-mediated activation of
+phagocyticimmunecellsincludingmacrophages.Thesedatasupporttheevaluationofsafety
+and tolerability of NI301A in an ongoing phase 1 clinical trial in patients with ATTR
+cardiomyopathy.
+1Neurimmune,Schlieren,Switzerland.2ReferralCenterforCardiacAmyloidosisandDepartmentofCardiology,HenriMondorUniversityHospital,
+Créteil,France.3DepartmentofPublicHealthandClinicalMedicine,UmeaUniversity,Umea,Sweden.4i3S-InstitutodeInvestigaçãoeInovaçãoemSaúde
+&IBMC-InstitutodeBiologiaMoleculareCelular,Porto,Portugal.5InstituteforRegenerativeMedicine(IREM),UniversityofZurich,Zurich,Switzerland.
+✉
+email:aubin.michalon@neurimmune.com
+NATURECOMMUNICATIONS|        (2021) 12:3142 |https://doi.org/10.1038/s41467-021-23274-x|www.nature.com/naturecommunications 1
+
+NEW PAGE
+
+ARTICLE
+NATURECOMMUNICATIONS|https://doi.org/10.1038/s41467-021-23274-x
+T
+ransthyretin (TTR) amyloidosis is a systemic disease ELISAformat.Again,NI301AboundwithhighafﬁnitytoATTR
+characterized by the accumulation of TTR amyloid oligomerswithEC valuesinthelownanomolarrange(EC for
+50 50
+(ATTR) in myocardium, peripheral nerves, and various ATTRwt=3.7nM, ATTR-V30M = 12.8 nM and for ATTR-
+other tissues, causing congestive heart failure, polyneuropathy, V122I=3.7nM). NI301A did not bind to native TTR tetramers
+and death1. Sporadic and hereditary forms of the disease are in their physiological conformation (Fig. 1c).
+characterized by the deposition of wild-type TTR (TTRwt) and Surface plasmon resonance (SPR) analyses of binding kinetics
+mutated variants of TTR (TTRv), respectively. TTR is a hepatic showed that NI301A bound ATTRwt oligomers in solution with
+thyroxine and retinol-transporting protein secreted into the an equilibrium dissociation constant (K ) of 1.2nM, with rapid
+D
+blood2. It can partially unfold and aggregate into ATTR ﬁbrils; association and slow dissociation (k =2.1×104 M−1s−1, k =
+a d
+these consists of stable β-pleated sheet structures3. Extracellular 2.6×10−5 s−1; Fig. 1d). Biolayer interferometry (BLI) yielded
+myocardial ATTR deposits accumulate in massive amounts similarresultsforATTRv:NI301AboundATTR-V30Moligomers
+impacting such mechanical properties of the myocardium as in solution with a K of 2.5nM (k =1.7×104M−1s−1, k =
+D a d
+diastolic relaxation followed by systolic impairments during 4.3×10−5s−1) and ATTR-V122I oligomers with a K of 3.6nM
+D
+progression of the disease. In peripheral sensorimotor neurons, (k =2.2×104M−1s−1, k =7.8×10−5s−1; Fig. 1e). Consistent
+a d
+ATTR deposits are causing polyneuropathy, which are, together with its conformation selectivity indicated by sandwich ELISA,
+with cardiomyopathy, the major clinical manifestations of TTR NI301A did not bind physiological native tetramers of either
+amyloidosis4. Most sporadic and many genetic amyloidosis are TTRwt or TTRv.
+associated with both cardiomyopathy and polyneuropathy. Rare NI301A’s selectivity for ATTR was further conﬁrmed by dot
+pure forms of either syndrome include the TTR V122I variant blotanalyses:NI301AboundﬁbrilsofATTRwtandATTR-V20I,
+with dominating cardiomyopathy and the TTR-V30M variant V30M, L55P, S77Y, S112I, Y116S, T119M, and V122I immobi-
+predominantlyassociatedwithpolyneuropathy5.Epidemiological lized on nitrocellulose membranes, but not the cognate native
+studies indicate that TTR amyloidosis with cardiomyopathy TTRtetramers(Fig.1f).Incontrast,anon-selectivecontrolanti-
+(ATTR-CM) is likely massively underdiagnosed. Data from Fin- TTR antiserum (Dako A0002) bound both ATTR ﬁbrils and
+land, USA, Spain, and France consistently indicate that cardiac native TTR tetramers.
+TTRamyloidosiscauses5–13%ofallheartfailureswithpreserved Usingoverlappingpeptidearrays,theNI301A-bindingepitope
+ejection fraction or hypertrophic cardiomyopathies6–11. wasdeterminedasthelinearpeptidesequenceWEPFAlocatedin
+CurrenttreatmentsofTTRamyloidosisincludestabilizationof position 41–45 of mature TTR protein (Supplementary Fig. 1).
+TTRinitsnaturallyfoldedphysiologicalformandgenesilencing, Time-course aggregation studies of in vitro-generated ATTR-
+thus preventing unfolding, aggregation, and deposition in target V30M ﬁbrils separated by semi-native polyacrylamide gel
+tissues12. To remove pre-existing ATTR from affected tissues in electrophoresis(PAGE)characterizedNI301Abindingtospeciﬁc
+patients with TTR amyloidosis, we developed the human oligomeric ATTR species: NI301A bound dimers, trimers,
+monoclonal antibody NI301A selectively targeting ATTR aggre- tetramers, as well as higher-order ATTR aggregates (Fig. 1g).
+gates. By using high-throughput screening of human memory Asexpected,NI301AdidnotreactwithnativeTTRtetramersbut
+B-cell libraries, we generated a collection of ATTR-binding detected misfolded ATTR monomers exposing the NI301A-
+antibodies selected for high-afﬁnity binding to ATTR, amyloid- binding epitope that is hidden in the native monomer. In
+removal activity, and absent binding to naturally folded, contrast,thenon-selectivecontrolantiserumDakoA0002bound
+physiological TTR. This functional selection process led to the both the misfolded monomer and the native tetramer. The
+identiﬁcation of NI301A. NI301A binds to the linear epitope antibody 39-44, described as an amyloid-selective TTR
+WEPFA hidden in TTR’s naturally folded conformation, but antibody13, robustly bound dimers and small ATTR oligomers
+accessible to antibody binding following unfolding and aggrega- but only poorly to larger ATTR oligomers with residual binding
+tion.NI301AbindsATTRdepositsincardiactissuesobtainedat to native TTR tetramers.
+autopsy from ATTR-CM patients and triggers ATTR removal The absence of binding to physiological TTR tetramers was
+from the post-mortem tissues ex vivo via phagocytosis through further investigated in a series of immunoprecipitation experi-
+added human macrophages. In wild-type mice grafted with ments. Whereas Dako A0002 immunoprecipitated native TTR
+patient-derived ATTR ﬁbrils, systemically administered NI301A fromhumanplasmaevenat1:10,000dilution,NI301Afailedto
+accumulates on the grafts and rapidly removes them via Fcγ- immunoprecipitate TTR from the plasma (Fig. 1h and Supple-
+mediated phagocytosis. Together, these data support the clinical mentary Fig. 2).
+testing of NI301A (NI006) in patients with ATTR-CM in an
+ongoing phase 1 clinical trial (NCT04360434).
+NI301A binds ATTR deposits on patient tissues. Immunohis-
+tochemistry (IHC) showed that NI301A bound with high-
+Results selectivity ATTR deposits on a collection of fresh frozen cardiac
+NI301A selectively binds human ATTR. NI301A bound with tissues obtained at autopsy from patients with sporadic ATTR-
+highafﬁnityandspeciﬁcitybothATTRwtandATTRvaggregates, CM (Fig. 2a). Consistent with its high selectivity for ATTR,
+without binding to their native physiological conformation. NI301Afailedtobindtocardiacnon-ATTRdeposits(A+TTR−),
+In enzyme-linked immunosorbent assays (ELISAs) against likely representing light-chain amyloid.
+humanATTRﬁbrilspreparedinvitro(Fig.1a)andcoatedtoassay IHC staining with NI301A of fresh frozen salivary gland
+plates,NI301AboundATTRwt,aswellasATTR-V30MandATTR- biopsiescollected fromATTRT49I,T60A,I68L,S77T,orV122I
+V122I, with high afﬁnities as indicated by EC values in the sub- mutation carriers showed a pronounced staining of ATTR
+50
+nanomolar range (EC for ATTRwt=0.35nM, ATTR-V30M= deposits in all patients analyzed (Fig. 2b). Furthermore, NI301A
+50
+0.38nM, and ATTR-V122I=0.15nM; Fig. 1b). NI301A bound bound ATTR deposits in skin biopsies and abdominal fat
+similarlytoﬁbrilsofATTR-V20I,L55P,S112I,andS116Y(EC for aspirates collected from hereditary cases of ATTR-V30M
+50
+ATTR-V20I=0.14nM, ATTR-L55P=0.61nM, ATTR-S112I= amyloidosis with polyneuropathy (Fig. 2c, d). In contrast to the
+0.20nM,and ATTR-S116Y=0.24nM;Fig.1b). non-selective anti-TTR antiserum Dako A0002, NI301A did not
+Toconﬁrmaggregateselectivityindependentlyofhigh-density bind to native TTR expressed in pancreatic α-cells (Fig. 2c),
+coating, ﬁbrils were presented in solution by using a sandwich conﬁrming further the amyloid selectivity of NI301A.
+2 NATURECOMMUNICATIONS|        (2021) 12:3142 |https://doi.org/10.1038/s41467-021-23274-x|www.nature.com/naturecommunications
+
+NEW PAGE
+
+ARTICLE
+NATURECOMMUNICATIONS|https://doi.org/10.1038/s41467-021-23274-x
+a  b 
+c  d   ATTRwt  tetr.TTRwt 
+e 
+ATTR-V30M  tetr.TTR-V30M  ATTR-V122I  tetr.TTR-V122I 
+f  NI301A  Dako A0002 
+WT  V20I  V30M  L55P S77Y S112I Y116S T119M  V122I  WT  V20I  V30M  L55P S77Y S112I Y116S T119M  V122I 
+tetr.TTR  tetr.TTR 
+ATTR  ATTR 
+g  h 
+NI301A  39-44  Dako A0002  Human plasma 
+IP  tetr. ATTR 1:1  1:100  1:10’000 
+kDa  0  4  24  48  72  96 h  kDa  0  4  24  48  72  96 h  kDa 0  4  24  48  72  96 h  antibody kDa TTR  fibr.  1:10  1:1000 
+28- 
+NI301A 
+188  HMW 188  188  14- 
+98  98  98 
+28- 
+62  - 4  62  62 
+Dako 
+49  - 3  49  49  A0002 14- 
+38  - 2  38  38 
+28  28  28 
+Isotype  14- 
+17  - 1  17  17 
+14  14  14 
+Fig.1NI301Abindstowild-typeandmutantATTRﬁbrilsinvitro,withabsentbindingtonativeTTRtetramers.aCharacterizationofATTRwtﬁbrils
+preparedinvitro:ﬁbrilswerevisualizedbyelectronmicroscopyafter72handboundtheamyloidindicatordyethioﬂavinT.bNI301Abindingtocoated
+ATTRwtandATTRvﬁbrilsbyELISA(symbols:meanofduplicates,lines:dataﬁtting).cSandwichELISAusingNI301Aforcaptureanddetectiontomeasure
+in-solutionbindingtoATTRandTTRtetramers(meanofduplicates).dSPRanalysisofNI301A-bindingkineticstoATTRwtoligomersandnativeTTRwt
+tetramersinsolution.eBLIanalysisofNI301A-bindingkineticstoATTR-V30MandATTR-V122Ioligomers,andnativeTTRvtetramersinsolution.Ford
+ande,data(graytoblack)wereﬁttedwitha1:1bindingmodel(redlines).fDotblotanalysisofNI301Abindingtonativetetramersoramyloidaggregates
+ofTTRwtandTTRvproteins.Apolyclonal,pan-TTRantibody(DakoA0002)wasusedforcomparison.gAnalysisofTTR-V30Maggregationtimecourse
+bysemi-nativeSDS-PAGEfollowedbywesternblottingwithantibodiesNI301A,39-44,andDakoA0002.PositionsofATTRmonomers(1),dimers(2),
+trimers(3),tetramers(4),andaggregatesofhighmolecularweight(HMW)aremarked.hImmunoprecipitationwithantibodiesNI301A,DakoA0002,and
+humanIgG1isotypecontrolofnativeTTRtetramers(tetr.TTR)orpatient-derivedATTRﬁbrils(ATTRﬁbr.),andserialdilutionsofhumanplasmafrom
+healthydonors.
+Onpatientmyocardiumamyloidextracts,NI301Areactedwith without amyloid deposits (A−) or amyloid deposits unrelated to
+high sensitivity to small, medium, and large ATTR aggregates, TTR (A+TTR−) (Fig. 3). Selective binding to ATTR aggregates
+consistent with our results with ATTR-V30M aggregates togetherwithabsentbindingtounrelatedproteinswassustained
+prepared in vitro. Consistent with its ATTR selectivity, NI301A following long exposure, further underscoring NI301A’s high
+did not bind corresponding preparations from cardiac tissues degree of selectivity (Supplementary Fig. 3).
+NATURECOMMUNICATIONS|        (2021) 12:3142 |https://doi.org/10.1038/s41467-021-23274-x|www.nature.com/naturecommunications 3
+
+NEW PAGE
+
+ARTICLE
+NATURECOMMUNICATIONS|https://doi.org/10.1038/s41467-021-23274-x
+a  NI301A  Dako A0002  Congo red  CR polarization 
+ATTRwt 
+Case 1 
+ATTRwt 
+Case 2 
+ATTRwt 
+Case 3 
+A- 
+Control 
+A+TTR- 
+Control 
+200 µm 
+b  ATTR-T49I  ATTR-T60A  ATTR-I68L  ATTR-S77T  ATTR-V122I 
+NI301A 
+Congo red 
+100 µm 
+c  ATTR-V30M  Heathly donor  d  ATTR-V30M #1  ATTR-V30M #2 
+Skin  Pancreas  Fat biopsy  Fat biopsy 
+NI301A 
+Dako 
+A0002 
+60 µm  100 µm 
+Fig.2NI301AbindsTTRamyloidpresentinsporadicandhereditarycasesofATTRamyloidosiswithcardiomyopathyandpolyneuropathy.aIHC
+usingNI301Aonfrozenpost-mortemhearttissuescollectedfromthreesporadiccaseswithATTRwtcardiomyopathy,acasewithoutamyloid(A−),and
+onewithnon-TTRamyloiddeposits(A+TTR−).ATTRdepositswereidentiﬁedbyCongoredstainingwithbirefringenceandimmunostainingwiththepan-
+TTRantibodyDakoA0002.bIHCusingNI301AandCongoredstainingonfrozensalivaryglandbiopsiescollectedfromATTRvcardiomyopathypatients
+carryingthevariantsTTR-T49I,T60A,I68L,S77T,andV122I.cIHCusingNI301AandDakoA0002onskinbiopsyfromapatientwithATTR-V30M
+polyneuropathyandonhumanpancreastissue.dIHCusingNI301AandDakoA0002onabdominalfataspiratesfromtwopatientswithATTR-V30M
+polyneuropathy.
+4 NATURECOMMUNICATIONS|        (2021) 12:3142 |https://doi.org/10.1038/s41467-021-23274-x|www.nature.com/naturecommunications
+
+NEW PAGE
+
+ARTICLE
+NATURECOMMUNICATIONS|https://doi.org/10.1038/s41467-021-23274-x
+NI301A  39-44  Dako A0002  Silver stain 
+mis  ATTR+  A-  mis  ATTR+  A-  mis  ATTR+  A-  mis  ATTR+  A- 
+TTR  1  2  3  4  5  6  7  8  9  TTR  1  2  3  4  5  6  7  8  9  TTR  1  2  3  4  5  6  7  8  9  TTR  1  2  3  4  5  6  7  8  9 
+kDa 
+188 
+98 
+62 
+49 
+38 
+28 
+17 
+14 
+Fig.3NI301AbindssmallandlargeATTRwtaggregatesextractedfrompatienttissues.Semi-nativeSDS-PAGEanalysisoftheamyloidﬁbrilextracts
+preparedfromfrozenpost-mortemcardiactissuespresentingTTRamyloid(ATTR+samples,#1–4),noamyloid(A−samples,#5–8),ornon-TTRamyloid
+(A+TTR−sample,#9).IdenticalSDS-PAGEgelswereprocessedforwesternblotanalysiswiththeantibodiesNI301A,39-44,andDakoA0002,orstained
+withthesilvermethod.ThelowATTRstainingintensityofsample4isconsistentwiththelowamountofTTRamyloidobservedbyIHCinthissample.
+The selectivity of NI301A was further conﬁrmed in a human activity, we evaluated the impact of complement activation on
+tissue cross-reactivity study using fresh frozen human tissue amyloidclearance.Phagocytosisassaysweredoneinthepresence
+arrays. This study did not identify any off-target binding for ortheabsenceofdifferentconcentrationsofeitherfreshorheat-
+NI301A at 30µg/mL, the highest concentration tested. No inactivated human plasma. Human plasma triggered a
+staining was observed on liver tissue sections, the main organ concentration-dependent increase in ATTR-L55P phagocytosis
+producing TTR, further conﬁrming NI301A absent binding to in vitro; heat inactivation of plasma abolished this activity
+physiological TTR protein (Supplementary Fig. 4). (Fig.5a).TheaccelerationbyfreshplasmaofATTRphagocytosis
+wasconﬁrmedinexvivoassays,resultinginanalmostcomplete
+NI301A removes ATTR ﬁbrils by macrophage-mediated pha- removalofcardiacamyloiddepositsbymacrophages(Fig.5b).In
+vitro experiments further conﬁrmed complement activation:
+gocytosis. By using human macrophages freshly prepared from
+peripheral blood mononuclear cells, we established NI301A’s NI301AbindingtocoatedATTRwtﬁbrilsinthepresenceoffresh
+biological activity to trigger phagocytosis of ﬂuorescent TTR- human plasma triggered formation of the insoluble complement
+factor C5b9, indicating that the complement cascade had been
+L55P aggregates. We used TTR-L55P because of its ability to
+activated to completion (Fig. 5c). No complement activation
+oligomerize under physiological conditions. NI301A triggered
+occurred when NI301A was incubated with BSA and plasma,
+ATTR-L55Pphagocytosisinaconcentration-dependentmanner,
+consistent with a speciﬁc effect of NI301A decorating ATTR
+with activity starting at low nanomolar antibody concentrations.
+ﬁbrils.
+Antibody-mediated phagocytosis of ATTR-L55P oligomers was
+impeded by blocking Fc receptors consistent with Fc-mediated
+phagocytosis. An isotype control antibody failed to trigger pha- NI301A binds ATTR ﬁbrils in vivo and activates amyloid
+gocytosis of ATTR-L55P (Fig. 4a). Flow cytometry experiments
+clearance in mice. To characterize the biological activity of
+with ATTR-L55P and antibodies labeled with different ﬂuor-
+NI301Ainvivo,wedevelopedapatient-derivedamyloidxenograft
+escent dyes showed that NI301A, but not the isotype control (PDAX) mouse model. In PDAX mice, ATTR ﬁbrils extracted
+antibody,dose-dependentlytriggeredthephagocytosisofATTR-
+frompatientmyocardiumtissuesweresubcutaneouslygraftedand
+L55P oligomers by macrophages (Fig. 4b and Supplementary ﬂuorescentNI301A-VT680conjugateswereinjectedintravenously
+Fig. 5). Confocal microscopy of human macrophages during
+(i.v.), to determine the target engagement of human amyloid in
+phagocytosis revealed intracellular vesicular localizations of livingmice(Fig.6a).HumanATTRﬁbrilgraftswerethioﬂavinS-
+ATTR-L55P and NI301A, suggesting co-localization of ATTR- positive, indicating preserved β-sheet conformation of the ATTR
+L55P and NI301A within vesicles (Fig. 4b ).
+3 amyloiddeposits.Forty-eighthoursaftergraftingandi.v.antibody
+Amyloid deposits in patients consist of multiple proteins, administration, ﬂuorescent NI301A-VT680 dose-dependently
+proteoglycans, and the plasma protein Serum Amyloid P (SAP), accumulated on human ATTR ﬁbril grafts and colocalized with
+potentially masking ATTR epitopes. To verify that NI301A thioﬂavin S, indicating that it bound to human amyloid in vivo
+triggers phagocytosis of patient amyloid deposits, we developed (Fig. 6b). The NI301A-VT680 ﬂuorescence intensity increased
+an ex vivo functional assay with fresh frozen myocardium linearlywithdoseovertherangeof0.05–15mg/kg,indicatingthat
+sections containing ATTR and incubated them with human
+epitopesforantibodybindingwerenotsaturatedwithdosesupto
+macrophages in the presence of antibodies. During 14 days of
+15mg/kg body weight (Fig. 6c).
+incubation,NI301AremovedATTRfromhumanmyocardiumin Forinvivoefﬁcacyexperiments,weproducedthemonoclonal
+a concentration-dependent manner. NI301A reduced both the
+mouse chimeric antibody ch.NI301A by fusing the human
+total number of ATTR deposits and the total area covered by
+NI301A variable domains with murine IgG2a constant domain
+ATTR deposits by up to 50% (Fig. 4c, d). ATTR removal from sequences. Six hours and 96h following ﬁbril grafting and
+patient myocardium tissue sections was speciﬁc for NI301A; the
+injectionofch.NI301A,wemeasuredATTRbyIHC.After6hof
+isotype control antibody failed to remove ATTR.
+antibodytreatment,micepresentedsimilaramountsofATTRper
+graft, corresponding to an average 86% of the graft area (range
+NI301A-mediated complement activation accelerates amyloid 83.2–89.7%). At this early time point, the ﬁbril grafts were
+clearance. To further characterize NI301A’s amyloid-removal inﬁltrated by neutrophils (CD11B+, LY6G+, IBA1−), an
+NATURECOMMUNICATIONS|        (2021) 12:3142 |https://doi.org/10.1038/s41467-021-23274-x|www.nature.com/naturecommunications 5
+
+NEW PAGE
+
+ARTICLE
+NATURECOMMUNICATIONS|https://doi.org/10.1038/s41467-021-23274-x
+a  b b b
+1  2  3 
+0 nM  10 nM 
+0 
+5
+5
+A-
+1
+30 80 nM  80 nM / no TTR 
+NI
+nM  200 µm 
+ATTR-L55P-488  NI301A 
+c  d 
+Vehicle  NI301A 10 nM 
+500 µm 
+Fig.4NI301AactivatesATTRphagocytosisbyhumanmacrophagesonhumanhearttissue.aInvitroATTRphagocytosisassayperformedwithhuman-
+derivedmacrophages,ﬂuorescentlylabeledTTR-L55Pprotein,anddifferentconcentrationsofNI301Aorisotypecontrolantibodies,withorwithoutFc-
+receptorblockingreagent(FcRblock)(mean±SDoftriplicates).bInvitroATTRphagocytosiswithbothTTR-L55PandNI301Aﬂuorescentconjugates,and
+quantiﬁcationofdouble-positivemacrophagesbyFACS.b Dotplots;b quantiﬁcationofdouble-positivecells;b representativedouble-positive
+1 2 3
+macrophageimagedbyconfocalmicroscopy:blue:Dapi,green:TTR-L55P-atto488,red:NI301A-atto550.cExvivotissueamyloid-removalassay
+performedwithhuman-derivedmacrophagesandNI301Aonpatientmyocardiumsections.Representativepairofadjacenttissuesectionstreatedwith
+NI301AorvehiclecontainingthioﬂavinS-positiveamyloiddeposits(quantiﬁeddepositsingreen).Whitearrowspointtoamyloiddepositsremovedby
+macrophagesinthepresenceofNI301A.dQuantiﬁcationofthioﬂavinS-positiveamyloiddepositnumberandtotalareapertissuesectionfollowing
+treatmentwithincreasingconcentrationsofNI301Aorcontrol.Vehiclen=24sections,NI301An=6sectionsperconcentration(mean±SD).One-way
+ANOVAandDunnett’smultiplecomparisonstest(meandifferenceand95%CI).Numberofdeposits:F(4,43)=4.73,P=0.003;1.0nMvs.Vehicle:
+−85.08(−164.4to−5.8),*P=0.031;10nMvs.Vehicle:−117.4(−196.7to−38.1),**P=0.0017.Totaldepositarea:F(4,43)=1.91,P=0.13;10nMvs.
+Vehicle:−278,662(−560,983to3660),°P=0.054.
+immediate response characteristic of wound-healing process 1mg/kgintraperitoneally(i.p.).ch.NI301Aﬁbrilremovalactivity
+(Supplementary Fig. 6). After 96h, the isotype-treated control wasmaintainedinthepresenceoftafamidis;tafamidisalonehad
+groupshowedamoderate,butstatisticallysigniﬁcant,decreasein no effect on ATTR ﬁbril removal (Fig. 6f).
+graft ATTR area, reﬂecting a spontaneous reaction against the
+human ATTR ﬁbril grafts. All three doses (0.5, 5, and 50mg/kg
+Frequency of cardiac ATTR in autopsy samples from patients
+body weight) of ch.NI301A further reduced ATTR in a dose-
+with heart failure. To investigate the frequency of ATTR cardi-
+dependent manner. Both the 5 and 50mg/kg doses removed the
+amyloid ﬁbrils almost completely, down to background levels of omyopathyandfurthertestthecapacityofNI301AtobindATTR
+in patients, we analyzed 80 autopsy heart tissue samples from
+about 7% of the graft area. Even the low dose of 0.05mg/kg ch.
+patients who died of heart failure at ages ≥80 years. Varying
+NI301A trended to remove amyloid, but its effect was not
+statistically signiﬁcant (Fig. 6d). At this late time point (96h), amounts of Congo red and TTR antibody 39-44 IHC-positive
+ATTR ﬁbril grafts were entirely inﬁltrated by phagocytic ATTRdepositswerepresentin24(30%)cases.Theabundanceof
+monocytes (CD11B+, LY6G−, IBA1−) (Supplementary Fig. 6). ATTR deposits was low in 11 samples (14%), moderate in
+4 samples (5%), and high in 9 samples (11%) (Supplementary
+Mice did not exhibit any sign of overt toxicity.
+Table 1 and Supplementary Fig. 7). NI301A detected ATTR
+Collectively,thelinearincreaseintargetbindingovertherange
+of 0.05–15mg/kg and the strong biological activity starting at deposits by IHC in all 24 ATTR-positive samples.
+dosesof5mg/kgbodyweightsuggestedthattargetsaturationwas
+not required for the maximum activation of ﬁbril removal by Discussion
+phagocytic immune cells in PDAX mice. The results of this study show that NI301A, a human-derived
+A similar in vivo experiment was performed using the Fc- amyloid-selective antibody targeting both ATTRwt and ATTRv,
+inactive variantch.NI301A-LALAPGat10mg/kg i.v.In contrast removed pathological ATTR deposits from patient myocardium
+to treatment with ch.NI301A, which triggered ATTR ﬁbril tissues ex vivo, as well as patient-derived ATTR ﬁbril grafts in
+removal, treatment with ch.NI301A-LALAPG had no effect on mice in vivo. Characterization of the binding properties of
+ﬁbril removal in vivo, indicating that effector functions are NI301A demonstrated (1) that NI301A bound ATTR oligomers
+required for antibody-mediated amyloid clearance (Fig. 6e). andﬁbrilswithsub-nanomolarEC ,(2)thatNI301Awashighly
+50
+Theeffect of ch.NI301A was also evaluated at 10mg/kg i.v. in selective for the amyloid conformation of TTR, and (3) that
+thepresenceoftheTTRstabilizertafamidis,administereddailyat NI301A similarly bound both wild-type and variant ATTR
+6 NATURECOMMUNICATIONS|        (2021) 12:3142 |https://doi.org/10.1038/s41467-021-23274-x|www.nature.com/naturecommunications
+
+NEW PAGE
+
+ARTICLE
+NATURECOMMUNICATIONS|https://doi.org/10.1038/s41467-021-23274-x
+Plasma concentration
+a b
+1 0.8% 2.4% 7.2%
+e
+cl
+hi
+e
+V
+M
+n
+0 
+1
+A 
+1
+0
+3
+NI
+b 5 mm c
+2
+Fig.5Antibody-mediatedcomplementactivationincreasesATTRphagocytosisandtissueamyloidclearance.aInvitroATTRphagocytosisassay
+performedwithhuman-derivedmacrophages,TTR-L55P-atto488,andNI301Ainthepresenceoffreshorheat-inactivatedhumanplasmaatdifferent
+concentrations(mean±SDofquadruplicates).bExvivotissueamyloid-removalassayperformedwiththreeconcentrationsoffreshhumanplasma.
+b RepresentativepairsofadjacenttissuesectionstreatedwithNI301Aorvehicle.b Quantiﬁcationofnumberandareaofamyloiddepositspertissue
+1 2
+section.n=5–6sectionspercondition(mean±SD).Two-wayANOVAformainfactorsPlasmaconcentrationandAntibody,andBonferroni’smultiple
+comparisonstestofNI301Atovehicleconditions(meandifferenceand95%CI).ForthenumberofATTRdeposits:Plasmaconcentration:F(2,26)=16.04,
+P<0.0001;Antibody:F(1,26)=84.53,P<0.0001;NI301Avs.Vehicleusing0.8%plasma:−309.4(−461.5to−157.3),***P<0.0001;NI301Avs.Vehicle
+using2.4%plasma:−302.6(−454.7to−150.5),***P<0.0001;NI301Avs.Vehicleusing7.2%plasma:−308(−446.9to−169.1),***P<0.0001;NI301A
+vs.Isotypeusing7.2%plasma:−238.3(−367.7to−109.0),***P=0.0007.Fortotaldepositarea:plasmaconcentration:F(2,26)=6.85,P=0.0041;
+Antibody:F(1,26)=26.56,P<0.0001;NI301Avs.Vehicleusing2.4%plasma:−522,593(−899,939to−145,246),**P=0.0046;NI301Avs.Vehicle
+using7.2%plasma:−497,895(−842,364to−153,427),**P=0.0031;NI301Avs.Isotypeusing7.2%plasma:−398,001(−734,405to−61,596),*P=
+0.02.cInvitrocomplementactivationassayofNI301AinfreshhumanplasmausingcoatedATTRwtﬁbrilsorbovineserumalbumine(BSA)astarget,
+followedbyimmunodetectionofthecomplementactivationproductC5b9(meanofduplicates).
+(Fig. 1). The latter was conﬁrmed by IHC using tissues collected generatedusingasimilarapproach16.Fromaclinicalperspective,
+frompatientswithsporadicorhereditaryATTRamyloidosiswith theabsentbindingtophysiologicalTTRtetramersandmonomers
+cardiomyopathy or polyneuropathy (Fig. 2). may be a key requirement for therapeutic efﬁcacy of NI301A, as
+Selectivebindingtowild-typeandvariantATTRoligomersand off-targetbindingtonativeTTRpresentathighconcentrationin
+ﬁbrilsisconsistentwithresultsofstructuralstudiesshowingthat plasma could lead to impaired pharmacokinetics and reduced
+pathogenicmutationsintheTTRpolypeptidesequencecanaffect target engagement with tissue ATTR.
+thestabilityofnativetetramers,thuspromotingtheirdissociation In human cardiomyopathy patients, large amounts of ATTR
+into monomers. These mutations, however, do not modify the deposits accumulate in the myocardium. By using in vitro and
+propensity of TTR to misfold, oligomerize, and aggregate into ex vivo systems, we established that NI301A induces ATTR
+amyloid-forming ﬁbrils14, suggesting that the pathogenic phagocytosis in an antibody concentration-dependent manner
+mechanisms of accelerated amyloid formation in the genetic that is mediated by engagement of Fcγ receptors on human
+formsofthedisease isrelatedto decreased stability ofthenative macrophages (Fig. 4). On heart tissue sections from human car-
+TTR tetramer. diomyopathy patients, NI301Adose-dependently removed tissue
+We conﬁrmed the conformation selectivity of NI301A with amyloid by triggering phagocytosis by human macrophages,
+independentassaysincludingsandwichELISA,BLIandSPR,dot attainingmorethan50%amyloidremovalwithina2-weektime.
+blot, semi-native PAGE and western blottings, IHC, and immu- This effect size is substantial, considering the absence of replen-
+noprecipitation from human plasma (Figs. 1 and 2). This strin- ishmentofmacrophagesinourexvivoexperiments(Fig.4).Low
+gent selectivity for pathological TTR conformations results from concentrations of fresh human plasma further increased
+NI301A binding a hidden linear epitope, which is not accessible antibody-mediated amyloid removal from patient tissues, sug-
+on the native TTR conformation but becomes accessible upon gesting synergistic effects throughcomplementfactorsin plasma
+misfolding of β-pleated sheets into a loop protruding from the (Fig. 5).Thecomplement systemcancontribute to theclearance
+amyloid core3,15. Conformation selectivity can be further of amyloid in vivo by a combination of direct protease activity
+enhanced by high avidity binding to repetitive epitopes that are and trans signaling, triggering the formation of macrophage-
+displayed in oligomers and amyloid ﬁbrils as was described for derivedmultinucleatedgiantcellswiththecapacitytoengulfvery
+the β-amyloid-selective antibody aducanumab, which was large particles17. Consistent with intact complement activity,
+NATURECOMMUNICATIONS|        (2021) 12:3142 |https://doi.org/10.1038/s41467-021-23274-x|www.nature.com/naturecommunications 7
+
+NEW PAGE
+
+ARTICLE
+NATURECOMMUNICATIONS|https://doi.org/10.1038/s41467-021-23274-x
+NI301A-VT680  Isotype-VT680 
+a  b 
+0.05 mg/kg  0.5 mg/kg  5 mg/kg  15 mg/kg  15 mg/kg 
+Patient’s 
+ATTR fibrils  PI 
+A
+D
+S 
+Treatment  o-
+c  hi
+T
+0 
+8
+6
+T
+V
+y 
+a
+erl
+v
+O
+500 µm 
+ch.NI301A 96 hours 
+d  6 hours 
+All treatment groups  0.05 mg/kg   0.5 mg/kg  
+#31-50  #57-40  #52-50 
+Isotype 96 hours 
+50 mg/kg   5.0 mg/kg   50 mg/kg  
+#34-39  #46-30  #38-50 
+300 µm 
+e  f 
+Isotype  ch.NI301A-LALAPG  ch.NI301A 
+50 µm 
+fresh, but not heat-inactivated, plasma increased NI301A- ATTR cardiomyopathy is characterized by large accumulation
+mediated phagocytosis of ATTR by macrophages (Fig. 5). of extracellular ATTR ﬁbrils in the myocardium, which can lead
+Finally, NI301A was active in vivo. It accumulated dose- toadoublingofextracellularvolumesinpatientsascomparedto
+dependently on human ATTR ﬁbrils grafted into mice. A mur- healthy subjects18,19, an increase of the left ventricle wall thick-
+inized chimeric variant of NI301A substantially accelerated the ness from <12mm in healthy subjects to >20mm in advanced
+removal of ATTR by phagocytic cells and did not exhibit any patients20,21, and ATTR deposition occupying 30–40% of the
+signsofoverttoxicityinthismodel.Ingoodagreementwiththe total myocardiumtissue area22.Mechanically, amyloidﬁbrilsare
+in vitro phagocytosis data, antibody-mediated ﬁbril removal remarkably rigid and their resistance to rupture has been com-
+in vivo was dose-dependent and required an active Fc domain paredtothatofsteel23.Asaresult,theaccumulationofATTRin
+(Fig. 6). Furthermore, the antibody-mediated ﬁbril removal the myocardium causes progressive tissue rigidiﬁcation together
+activitywasmaintainedinthepresenceoftafamidis,currentlythe with loss of muscle elasticity. Functionally, this loss in elasticity
+only approved therapy for ATTR-CM. can cause diastolic dysfunction during initial disease stages
+8 NATURECOMMUNICATIONS|        (2021) 12:3142 |https://doi.org/10.1038/s41467-021-23274-x|www.nature.com/naturecommunications
+
+NEW PAGE
+
+ARTICLE
+NATURECOMMUNICATIONS|https://doi.org/10.1038/s41467-021-23274-x
+Fig.6Dose-dependentbindingofNI301AonTTRamyloidinvivoandactivationofimmuneclearanceinmice.aSchematicofthepatient-derived
+amyloidxenograftmousemodel:ATTRﬁbrilgraftwasplacedsubcutaneouslyonthethighandtreatmentsadministeredi.v.bInvivobindingof
+ﬂuorescentlylabeledNI301A-VT680topatient-derivedATTRﬁbrilgrafts48hafteramyloidgraftingandantibodyadministration.cQuantiﬁcationof
+NI301A-VT680ﬂuorescenceintensityonATTRgrafts(mean±SDof5miceperdoselevelusing3sectionspermouse).dch.NI301A-mediatedclearance
+ofATTRgraftsinvivo.ATTRremainingafter6and96hoftreatmentwasdetectedbyIHCstainingandquantiﬁed(mean±SDofn=4–5micepergroup
+using3–6sectionspermouse).One-wayANOVA(F(4,19)=13.6,P<0.001)andDunnett’smultiplecomparisonstest(meandifferenceand95%CI).Ch.
+NI301A0.5vs.Isotype:−34.3(−55.0to−13.6),**P=0.001;ch.NI301A5vs.Isotype:−50.9(−72.8to−28.9),***P<0.001;ch.NI301A50vs.Isotype:
+−43.4(−64.1to−22.6),***P<0.001.eEvaluationofFc-silentch.NI301A-LALAPGantibodyonATTRgraftremovalinvivo(mean±SDofn=8miceper
+groupusing3–4sectionspermouse,allantibodiesat10mg/kgi.v.).One-wayANOVA(F(2,21)=14.2,P=0.0001)andDunnett’smultiplecomparisons
+test.Ch.NI301Avs.isotype:−22.4(−34.0to−10.7),***P=0.0003.fEvaluationofch.NI301A+tafamidiscombinationonATTRremovalinvivo(mean±
+SDofn=6–8micepergroup,3–4sectionspermouse;antibodiesonceat10mg/kgi.v.andtafamidisdailyat1mg/kgi.p.).Two-wayANOVAformain
+factorsAntibodiesandStabilizer,andDunnett’smultiplecomparisonstesttotheisotype+vehiclegroup.Antibody:F(1,25)=52.3,P<0.0001;Stabilizer:
+F(1,25)=0.52,P=0.48.Ch.NI301A+vehiclevs.isotype+vehicle:−23.9(−38.2to−9.5),***P=0.001;ch.NI301A+tafamidisvs.isotype+vehicle:
+−31.8(−46.1to−17.4),***P<0.0001.
+followedbyreductionsinejectionfractionandheartfailure.Both Similartoaducanumab,cinpanemab,andAP101,NI301Aisan
+the reduction in left ventricle ejection fraction and the loss of aggregate-selectiveantibodythatwasidentiﬁedbasedonimmune
+contractility are strongly correlated with disease severity and repertoire analyses of memory B-cell complements from healthy
+reducedsurvivaltime20,24.Severaltherapeuticapproachesforthe elderly subjects. Such antibodies targeting pathogenic conforma-
+treatment of ATTR amyloidosis are focused on a slowing or the tions of self-proteins may be generated in response to the age-
+prevention of amyloid formation. The TTR stabilizers tafamidis associated accumulation of pathological protein aggregates
+and the repurposed anti-inﬂammatory drug diﬂunisal, as well as includingvariousformofamyloid,generatingthepossibilityofa
+TTR gene silencers patisiran and inotersen, have achieved sub- physiological mechanism, for elimination of misfolded proteins
+stantial reductions or even a complete halt in disease byengagingimmunebiologyotherwisetargetingnon-self,foreign
+progression25–28. NI301A has a different mode-of-action that is proteins. As a corollary, antibody-mediated removal of ATTR
+targeting the active removal of pre-existing amyloid and may amyloid from heart tissues may well represent an additional
+therefore have a potential beyond disease stabilization for func- approach for the treatment of patients with cardiomyopathy
+tional improvements by decreasing cardiac muscle stiffness and caused by ATTR amyloidosis. To test this possibility, NI301A
+improving heart contractility and elasticity. (NI006)iscurrentlyevaluatedinaphase1clinicaltrialinATTR-
+We evaluated the frequency of ATTR cardiomyopathy in CM patients.
+elderly male Caucasian patients who died of heart failure with
+preserved ejection fraction and found pathologic amounts of Methods
+ATTR in 16% of the samples. This high frequency is consistent Antibodyidentiﬁcation,cloning,andrecombinantexpression.cDNAsequences
+with published data, indicating that ATTR cardiomyopathy is a encodinghumanATTR-bindingantibodieswerederivedfromade-identiﬁed
+massively underdiagnosed condition6–11. NI301A bound ATTR bloodlymphocytelibrarycollectedfromhealthyelderlysubjects.MemoryBcells
+deposits in all positive tissues, suggesting a broad applicability wereisolatedandcultivatedasdescribedinSevignyatal.29.HumanmemoryBcells
+wereCD22+,CD27+andIgD−,IgM−,CD3−,CD56−,andCD8a−.Theywere
+across patients.
+screenedbyELISAfortheexpressionofantibodiesbindingtowild-typeand
+Antibody-mediated amyloid removal is a novel treatment variantATTR.Positivehitswerecounter-screenedtoexcludeclonescross-reacting
+modality. It is currently tested in advanced stages of clinical withunrelatedamyloid-formingproteins.SelectedATTR-reactiveB-cellclones
+development with proof-of-mechanism obtained in patients. In weresubjectedtocDNAcloningofIgGheavyandlight-chainvariableregion
+Alzheimer’sdisease,theAβ-targetingantibodiesaducanumaband sequences,andsub-clonedintoexpressionvectorsencodinghumanIgG1constant
+domainsequences.ExpressionconstructsencodingIgG1heavyandlightchains
+gantenerumabachievedsubstantialreductionsinAβplaqueload weretransientlyexpressedinCHO-ScelllineandpuriﬁedbyproteinAafﬁnity
+inpatients29,30.Amyloidremovalincreasedwithdoseandtime.It chromatography.
+was associated with amyloid-related imaging abnormalities, Humanbloodsamplesfromhealthyelderlysubjectswerecollectedunder
+writteninformedconsentandstudyapprovalbytheEthicsCommitteeofthe
+potentially a correlate of the biological mechanism of antibody-
+CantonofZurich.ThestudywascompliantwiththeHelsinkiDeclaration.
+mediated amyloid removal31. Various other antibodies targeting
+amyloid or pathological protein aggregates are under clinical
+investigation. These include the α-synuclein aggregate-selective PreparationofhumanATTR.HumanTTRwtwasobtainedbypuriﬁcationfrom
+humanbloodplasma(Bio-Rad).ThepathogenicTTRproteinvariantsV20I,
+antibodies cinpanemab and PRX002/RG7935 for the potential V30M,L55P,S77Y,S112I,Y116S,T119M,andV122Iwereexpressedrecombi-
+treatment of Parkinson’s disease32, the anti-τ antibody BIIB076 nantlyinEscherichiacoli(AlexotechandWako);purepreparationsofnon-amy-
+for the potential treatment of Alzheimer’s disease33, and the loid,nativeTTRwt,andTTRvtetramerswereobtainedbysize-exclusion
+chromatographyonSuperdex75columns,toremovepre-existingmisfoldedpro-
+misfolded SOD1-selective antibody AP101 for the potential
+teins.ATTRﬁbrilswerepreparedbyaggregatingTTRat200µg/mLin50mM
+treatment of amyotrophic lateral sclerosis34. Dezamizumab is a acetate-HCl,100mMKCl,1mMEDTApH3.0for5daysat65°Cundershaking
+humanized monoclonal IgG1 antibody binding to native SAP conditionsat1000r.p.m.15.ThisproceduregeneratedthioﬂavinS-positiveﬁbrils
+component, a plasma protein identiﬁed in all types of amyloid readilydetectablebyelectronmicroscopy(Fig.1a).Water-solubleATTRoligomers
+deposits. In a phase 1 clinical trial conducted in patients with werepreparedwiththeaboveprotocolandbylimitingtheaggregationtimeofTTR
+to4hat37°C.
+systemic amyloidosis, dezamizumab treatment was associated
+with signs of organ response such as decreases in liver stiffness,
+which were highly consistent with the macrophage‐dependent Enzyme-linkedimmunosorbentassay.ELISAassaysweredonein96-well
+microplates(Corning)coatedwithATTRﬁbrilsandwereblockedwith2%BSA,
+phagocytic clearance of amyloid demonstrated in animal
+0.1%Tween-20inphosphate-bufferedsaline(PBS)beforeaddingprimaryanti-
+models17,38,39. A phase II trial in patients with cardiac amyloi- bodiesinduplicatesforovernightincubationat4°C.Afterwashing,boundanti-
+dosis was initiated but terminated prematurely due to an bodiesweredetectedwithhorseradishperoxidase(HRP)-conjugatedanti-human
+apparent change in the risk-beneﬁt proﬁle, which might have IgGantibodies(JacksonImmunoresearch)andDAB(3,3'Diaminobenzidine)
+substrate.Theabsorbancewasmeasuredusingamultifunctionplatereader
+beenrelatedtodezamizumabbindingphysiologicalSAPprotein.
+(ThermoFisherVarioskanLuxandSkanIt6.02software).Datawereexportedto
+NATURECOMMUNICATIONS|        (2021) 12:3142 |https://doi.org/10.1038/s41467-021-23274-x|www.nature.com/naturecommunications 9
+
+NEW PAGE
+
+ARTICLE
+NATURECOMMUNICATIONS|https://doi.org/10.1038/s41467-021-23274-x
+Excel(Microsoft)fordatamanagementandwereﬁttedwithalogarithmic Invitroandexvivophagocytosisassays.Macrophagesweredifferentiatedfrom
+dose–responsefunctionwithvariableslope(fourparameterlogisticregression, freshhumanmonocytesbyculturingthesefor10–15daysinmacrophageserum-
+4PL)usingtheleast-squareregressioninPrism7.03(GraphPad). freemedium(M-SFM,LifeTechnologies)supplementedwithmacrophagecolony-
+stimulatingfactor(100ng/mLM-CSF,Miltenyi),orgranulocyteM-CSF(50ng/mL
+GM-CSF,Sigma).
+CaptureELISA.Streptavidin-coatedplates(Greiner)wereloadedwithbiotinylated Invitrophagocytosiswasdonefor2hat37°Cinthepresenceoffucoidanat0.5
+NI301AandblockedbeforetheadditionofATTRorTTRsamplesinduplicatesfor mg/mL,ATTR-L55PlabeledwithAtto488(Sigma)at7µg/mL,NI301A,andisotype
+2hincubationatroomtemperature.Afterwashing,boundATTRwasdetected controlatconcentrationsfrom0to80nM.AnFc-receptorinhibitor(Miltenyi)was
+withanHRP-conjugatedNI301Aantibodyincombinationwithluminescent usedfornegativecontrolat1:100dilution.Afterwashes,thelevelsofATTR-L55P-
+substrate(Biotinylationkit,HRP-labelingkit,andHRPsubstratefromThermo- atto488internalizationweremeasuredwithaﬂuorescenceplatereader(Varioskan
+Fisher).Datawereﬁttedusing4PLwith1/y2weighting. Lux,ThermoFischer).AntibodieslabeledwithAtto550(Sigma)werealsousedin
+combinationwithﬂuorescence-activatedcellsortingtoquantifydouble-positive
+macrophagesonly.Allexperimentswereperformedintriplicates.Forconfocal
+Bindingkineticsassays.BindingtosolubleATTRwtoligomerswasdetermined microscopyimaging,experimentsweredonewithmacrophagescoatedoncoverslips.
+bySPRonaProteOnXPR36machine(Bio-Rad)at25°CinHBS-Tbuffer,usingan Exvivophagocytosiswasdonewithhumanmacrophageson15µm-thickpost-
+anti-humanIgG,Fcγ-speciﬁcantibody(JacksonImmunoresearch)covalently mortemmyocardialsectionsobtainedfromATTR-CMpatients.Tissuesections
+coupledtoaGLMsensorchip,tocaptureNI301Aonthesensor.Datawere weremountedonglasscoverslips,usingpairsofadjacentsectionsforantibodyor
+analyzedinProteOnManagerv.2.0anddouble-referencedusinginterspotsand vehiclecontrolconditions.TheM-SFM/GM-CSFmediumwassupplementedwith
+thebuffer-onlychannel,andﬁttedbyusinga1:1kineticmodel(Langmuirﬁt). interferon-γ(100ng/ml)andlipopolysaccharide(20ng/ml)tostimulate
+BindingtosolubleATTRvoligomerswasdeterminedbyBLIonanOctet macrophagephagocyticactivity.Tissuesections(6replicatespercondition)were
+RED96machine(PallForteBio).Asthistechnologycircumventstheneedfor incubatedfor14daysat37°C(95%CO,5%O)with50%replacementofthecell
+microﬂuidics,itiswellsuitedformeasuringbindingtoproteinaggregates.The culturemediumevery3–4days;theywer2ethend2irectlyﬁxedwith4%PFA,washed,
+experimentsweredoneat25°Cbyusingstreptavidinsensorspreloadedwith stainedwiththioﬂavinS,andmounted.Thefullareaofthetissuesectionswas
+biotinylatedNI301Aorisotypecontrolantibodies.Datawereanalyzedin scannedusinganautomatedslidescanner(OlympusVS120),at×20magniﬁcation
+DataAnalysisv.8.2anddouble-referencedusingisotypeandbuffer-onlyconditions, inboth4′,6-diamidino-2-phenylindoleandtetramethylrhodaminechannels.Both
+andﬁttedusinga1:1kineticmodel. numbersofandareascoveredbyATTRdepositswerequantiﬁedbyusingan
+automatedimageanalysisalgorithmimplementedinacommercialimageanalysis
+software(Image-ProPremier,MediaCybernetics).Datawereanalyzedbyone-way
+Immunoblottings.Fordotblots,200ngofTTRtetramersandATTRﬁbrilspre- analysisofvariance(ANOVA)followedbyDunnett’smultiplecomparisontests.
+paredasdescribedabovewereimmobilizedonnitrocellulosemembranesbyusing
+Forallinvitroandexvivoexperimentswithhumanplasma,plasmawasused
+vacuumﬁltration.Forwesternblottings,TTR-V30Mwasaggregatedfor4daysat
+eitherfreshlyorinactivatedbyheatingat56°Cfor30min.
+37°Cundernear-physiologicalconditionsin10mMcitricacidpH6.0,150mM
+NaCl,and5mMCa2+.Sampleswereseparatedbynon-reducingSDS-PAGEwith
+noheatdenaturation,topreservetheaggregates’sizes,andwereimmobilizedon Complementactivationassay.ELISAplatescoatedwithATTRwtﬁbrilsorBSA
+nitrocellulosemembranesbysemi-dryblotting(ThermoFisher).Epitopemapping wereloadedwithNI301Aandincubatedwithincreasingconcentrationsoffresh
+wasconductedusingacellulosemembranearrayof29overlappingpeptidesof15 humanplasmafor1hat37°C.Afterwashing,thecomplementcomplexC5b9was
+amino-acidlengthand11amino-acidoverlap,whichcoveredthewholemature detectedwithaspeciﬁcantibody(Abcam)andcorrespondingsecondaryantibody
+TTRproteinsequence,and15additionalpeptideswhichcoveredtheTTRleader (JacksonImmunoresearch).
+peptidesequenceand13selectedTTRmutationsassociatedwithhereditaryTTR
+amyloidosis.Membraneswereblocked,incubatedwithNI301Aovernightat4°C, PDAXmodel.AnimalexperimentswereconductedincompliancewiththeSwiss
+anddevelopedwithHRP-conjugated,anti-human,rabbitormouseIgGantibodies federalregulationsandreceivedapprovalfromtheSwissVeterinaryService(license
+(JacksonImmunoresearch)incombinationwithachemiluminescentsubstrate ZH269-14).ATTRﬁbrilswereobtainedfrompost-mortemhearttissuesofATTR-
+(ThermoFisher). CMpatientsusingthedetergent-freewater-basedextractionprocedure36andwere
+preparedat2mg/mLconcentrationtoconferhighviscositytotheextract.ATTR
+ﬁbrilsweregraftedintoSKH1-Elitefemalemiceof2.5–3monthsofagebysub-
+Immunoprecipitation.ProteinA-coatedmagneticbeads(Dynabeads,LifeTech-
+cutaneousinjectionof50µLinthethighsfollowedbyi.v.administrationofthe
+nologies)weresaturatedwithNI301Aoranti-TTRDakoA0002antibodiesand antibody.NI301AantibodywaslabeledwiththeﬂuorescentdyeVivoTag680
+incubatedfor30minatroomtemperaturewithTTRwttetramers,orwithpatient- (PerkinElmer)fortargetbindingexperiments(NI301A-VT680)andthemouse
+derivedATTRﬁbrilsfunctioningascontrols,orwithhumanplasmasamples chimericIgG2aNI301Avariant(ch.NI301A)wasusedforinvivoefﬁcacyexperi-
+diluted0,10,100,1000,and10,000timesinPBSwithTween-20.Afterwashing,
+ments.AnFc-inactivevariant,namedch.NI301A-LALAPG,wasgeneratedusing
+theantibody–antigencomplexeswereeluteddirectlyinSDS-PAGEloadingbuffer theL234A,L235A,andP329Gsubstitutions,whichareknowntoeliminateFcγ
+(80°Cfor15min)separatedbySDS-PAGEandanalyzedbywesternblottingwith receptorandcomplementfactorC1binding37.Tafamidis(Carbosynth)waspre-
+theDakoA0002TTRantibody.
+paredat100µg/mLinvehicle(PBS7.4,10%EtOH,10%PS80)andadministered
+dailyat1mg/kgi.p.Datawereanalyzedbyone-wayortwo-wayANOVAsfollowed
+Immunostaining.Frozenorparaformaldehyde(PFA)-ﬁxedtissuebiopsies byDunnett’smultiplecomparisonstestusingtheisotype-treatedgroupasreference.
+obtainedfromATTR-CMpatientsandfromATTRpolyneuropathypatientswere
+stainedwithCongoredbyusingPutchler’smodiﬁcations35.Immunostainingswere Humanhearttissueanalysis.TheNationalDiseaseResearchInterchangecollected
+doneafterquenchingendogenousperoxidaseactivitywith3%HO inmethanol, theautopsyhearttissuesfrommaleswithheartfailure,withpreservedejection
+2 2
+blockingwith4%BSAand5%normalhorseandgoatserainPBS,incubationwith fraction,whodiedatanageof80yearsormore.Inallcases,thedonors(ortheirnext-
+primaryantibodiesovernightat4°C,anddetectionusinggoatanti-rabbitIgG of-kin)providedinformedconsenttoprocurebiospecimensforbiomedicalresearch.
+antibody(JacksonImmunoresearch)whereneeded,incombinationwiththe OnlydonorsontheCenterforDiseaseControlHighRiskcategoryanddonorswith
+VectastainABCkit(VectorLaboratories)anddiaminobenzidine(Dako).NI301A cardiactumorswereexcludedfromthecollection.Sampleswereprocessedforhis-
+wasusedasabiotinylatedconjugateat10nMonfrozentissuesections.Antibody tologicalanalysis.Congored-positivesampleswerestainedbyIHCwithTTRanti-
+DakoA0002wasusedat1:500or1:1000dilutionsandrequiredPFApostﬁxation bodiesDakoA0002,39-44(Alexotech)andwithNI301Aasdescribedabove.
+forstaining,leadingtoadifferentappearanceofthetissuesduetothedifferent
+processing.Tissuescanningmicroscopywasdoneat×20magniﬁcationinbright Statisticsandreproducibility.AllgroupvaluesarepresentedasmeanandtheSD
+ﬁeldandpolarizationmodeswithanOlympusVS120virtualslidemicroscope.
+representedforgroupswithn>3.Statisticalanalysiswereperformedusingthe
+ImmunostainingofPFA-ﬁxedparafﬁn-embeddedATTRﬁbrilgraftsinmice GraphPadPrismsoftware,usingone-wayANOVAandDunnett’smultiplecom-
+wasperformedasdescribedaboveusingthefollowingprimaryantibodies:Dako parisonstestortwo-wayANOVAandBonferroni’smultiplecomparisontest.P<
+A0002forTTR,Abcamab133357forCD11B,Abcamab2557(cloneNIMP-R14) 0.05wasconsideredasstatisticallysigniﬁcant.Allexperimentshavebeenrepeated
+forLY6G,andWako019-19741forIBA1.
+onindependentoccasionsandgeneratedsimilarresults.
+Tissuecross-reactivityanalyseswereconductedbyimmunostainingusinga
+biotin-conjugatedNI301Aantibodyat1,10,and30µg/mLonfrozenhumantissue
+arrays(USBiomaxFDA903).Thearrayscontained90tissuesectionsrepresenting Reportingsummary.FurtherinformationonresearchdesignisavailableintheNature
+30differentorganseachfromthreedifferentindividuals. ResearchReportingSummarylinkedtothisarticle.
+Data availability
+Fibrilextractionfromtissues.ATTRﬁbrilswereextractedfromfrozencardiac
+tissuesobtainedatautopsyandsemi-puriﬁedusingthedetergent-freeprotocol Alluniquebiologicalmaterialincludedinthisarticlecanbemadeavailableupon
+describedbyPrasetal.36.Thisprotocolpreservestheamyloidconformationby substantiatedrequesttothecorrespondingauthor.Sourcedataareprovidedwith
+relyingonthepartialsolubilityofamyloidﬁbrilsinpurewater. thispaper.
+10 NATURECOMMUNICATIONS|        (2021) 12:3142 |https://doi.org/10.1038/s41467-021-23274-x|www.nature.com/naturecommunications
+
+NEW PAGE
+
+ARTICLE
+NATURECOMMUNICATIONS|https://doi.org/10.1038/s41467-021-23274-x
+Received: 24August 2020; Accepted: 20April2021; 26. Benson,M.D.etal.Inotersentreatmentforpatientswithhereditary
+transthyretinamyloidosis.N.Engl.J.Med.379,22–31(2018).
+27. Maurer,M.S.etal.Tafamidistreatmentforpatientswithtransthyretin
+amyloidcardiomyopathy.N.Engl.J.Med.379,1007–1016(2018).
+28. Berk,J.L.etal.Repurposingdiﬂunisalforfamilialamyloidpolyneuropathy:a
+randomizedclinicaltrial.JAMA310,2658–2667(2013).
+References 29. Sevigny,J.etal.TheantibodyaducanumabreducesAβplaquesinAlzheimer’s
+disease.Nature537,50–56(2016).
+1. Gertz,M.A.etal.Diagnosis,prognosis,andtherapyoftransthyretin
+amyloidosis.J.Am.Coll.Cardiol.66,2451–2466(2015). 30. Klein,G.etal.Gantenerumabreducesamyloid-βplaquesinpatientswith
+2. Alshehri,B.,D’Souza,D.G.,Lee,J.Y.,Petratos,S.&Richardson,S.J.Thediversity prodromaltomoderateAlzheimer’sdisease:aPETsubstudyinterimanalysis.
+ofmechanismsinﬂuencedbytransthyretininneurobiology:development,disease AlzheimersRes.Ther.11,101(2019).
+andendocrinedisruption.J.Neuroendocrinol.27,303–323(2015). 31. Greenberg,S.M.etal.CerebralamyloidangiopathyandAlzheimerdisease—
+3. Schmidt,M.etal.Cryo-EMstructureofatransthyretin-derivedamyloidﬁbril onepeptide,twopathways.Nat.Rev.Neurol.16,30–42(2020).
+fromapatientwithhereditaryATTRamyloidosis.Nat.Commun.10,5008 32. Weihofen,A.etal.Developmentofanaggregate-selective,human-derivedα-
+synucleinantibodyBIIB054thatamelioratesdiseasephenotypesin
+(2019).
+Parkinson’sdiseasemodels.Neurobiol.Dis.124,276–288(2019).
+4. Ando,Y.etal.Guidelineoftransthyretin-relatedhereditaryamyloidosisfor
+clinicians.Orphanet.J.RareDis.8,31(2013). 33. Nobuhara,C.K.etal.Tauantibodytargetingpathologicalspeciesblocks
+neuronaluptakeandinterneuronpropagationoftauinvitro.Am.J.Pathol.
+5. Maurer,M.S.etal.Genotypeandphenotypeoftransthyretincardiac
+187,1399–1412(2017).
+amyloidosis:THAOS(TransthyretinAmyloidOutcomeSurvey).J.Am.Coll.
+Cardiol.68,161–172(2016). 34. Maier,M.etal.Ahuman-derivedantibodytargetsmisfoldedSOD1and
+6. Tanskanen,M.etal.Senilesystemicamyloidosisaffects25%ofthe amelioratesmotorsymptomsinmousemodelsofamyotrophiclateral
+veryagedandassociateswithgeneticvariationinalpha2-macroglobulin sclerosis.Sci.Transl.Med.10,eaah3924(2018).
+andtau:apopulation-basedautopsystudy.Ann.Med.40,232–239 35. Elghetany,M.T.,Saleem,A.&Barr,K.TheCongoredstainrevisited.Ann.
+Clin.Lab.Sci.19,190–195(1989).
+(2008).
+36. Pras,M.,Schubert,M.,Zucker-Franklin,D.,Rimon,A.&Franklin,E.C.The
+7. Mohammed,S.F.etal.Leftventricularamyloiddepositioninpatientswith
+heartfailureandpreservedejectionfraction.JACCHeartFail.2,113–122 characterizationofsolubleamyloidpreparedinwater.J.Clin.Invest.47,
+924–933(1968).
+(2014).
+37. Lo,M.etal.Effector-attenuatingsubstitutionsthatmaintainantibodystability
+8. González-López,E.etal.Wild-typetransthyretinamyloidosisasacauseof
+heartfailurewithpreservedejectionfraction.Eur.HeartJ.36,2585–2594 andreducetoxicityinmice.J.Biol.Chem.292,3900–3908(2017).
+(2015). 38. Richards,D.B.etal.Therapeuticclearanceofamyloidbyantibodiestoserum
+amyloidPcomponent.NEJM.373,1106–1114(2015).
+9. BennaniSmires,Y.etal.Pilotstudyforleftventricularimagingphenotypeof
+39. Richards,D.B.etal.RepeatdosesofantibodytoserumamyloidPcomponent
+patientsover65yearsoldwithheartfailureandpreservedejectionfraction:
+clearamyloiddepositsinpatientswithsystemicamyloidosis.Sci.Transl.
+thehighprevalenceofamyloidcardiomyopathy.Int.J.Cardiovasc.Imaging
+32,1403–1413(2016). Med.10,eaan3128(2018).
+10. Cavalcante,J.L.etal.Cardiacamyloidosisisprevalentinolderpatientswith
+aorticstenosisandcarriesworseprognosis.J.Cardiovasc.Magn.Reson.19,98 Acknowledgements
+(2017).
+Wethankthepatientsandtheirrelativeswhodonatedthebiospecimensusedinthis
+11. Scully,P.R.etal.Prevalenceofcardiacamyloidosisinpatientsreferredfor
+transcatheteraorticvalvereplacement.J.Am.Coll.Cardiol.71,463–464 study,andacknowledgepartialfundingthroughaEurostarsgrant(E!9036).Wealso
+thanktheNationalDiseaseResearchInterchangeforprovidingbiospecimens;Dr.Fab-
+(2018).
+riceHeitz,Neurimmune,andGeryBarmettler,CenterforMicroscopyandImage
+12. Gertz,M.A.,Mauermann,M.L.,Grogan,M.&Coelho,T.Advancesinthe
+AnalysisUniversityofZurich,forelectronmicroscopyimaging;Dr.StefanSchauer,
+treatmentofhereditarytransthyretinamyloidosis:areview.BrainBehav.9,
+FunctionalGenomicsCenterETHandUniversityofZurich,forhissupportwithkinetic
+e01371(2019).
+bindingexperimentsusingSPR;andtheAntibodyTechnologyGroupatNeurimmune
+13. Goldsteins,G.etal.Exposureofcrypticepitopesontransthyretinonlyin
+forantibodycloningandexpression.
+amyloidandinamyloidogenicmutants.Proc.NatlAcad.Sci.USA96,
+3108–3113(1999).
+14. Palaninathan,S.K.Nearly200X-raycrystalstructuresoftransthyretin:what Author contributions
+dotheytellusaboutthisproteinandthedesignofdrugsforTTR A.M.andJ.G.conceivedandledthestudy.A.M.,A.H.,C.Huy,E.V.andB.C.designed
+amyloidoses?Curr.Med.Chem.19,2324–2342(2012). and/orperformed,and/oranalyzedexperiments.C.Hock,T.D.,O.B.S.andM.J.S.pro-
+15. Lai,Z.,Colón,W.&Kelly,J.W.Theacid-mediateddenaturationpathwayof videdmaterialsandscientiﬁcguidance.B.C.,C.Hock,R.M.N.andJ.G.contributedto
+transthyretinyieldsaconformationalintermediatethatcanself-assembleinto experimentaldesignandinterpretationofdata,andcriticallyrevisedthemanuscript.
+amyloid.Biochemistry35,6470–6482(1996). A.M.wrotethemanuscript.
+16. Arndt,J.W.etal.Structuralandkineticbasisfortheselectivityof
+aducanumabforaggregatedformsofamyloid-β.Sci.Rep.8,6412(2018).
+Competing interests
+17. Bodin,K.etal.AntibodiestohumanserumamyloidPcomponenteliminate
+visceralamyloiddeposits.Nature468,93–97(2010). A.M.,A.H.,C.Huy,E.V.,B.C.,C.Hock,R.M.N.andJ.G.areorwere(E.V.)employeesof
+18. Martinez-Naharro,A.etal.MagneticResonanceinTransthyretinCardiac Neurimmune.O.B.S.participatesinclinicaltrialsforAlnylamandProthenaPharma-
+Amyloidosis.J.Am.Coll.Cardiol.70,466–477(2017). ceuticals,andhasservedinAdvisoryboardsforPﬁzer,Alnylam,Akcea,Prothena,and
+19. Treibel,T.A.etal.Extracellularvolumequantiﬁcationbydynamic IntelliaPharmaceuticals,andhasparticipatedineducationalactivitiessponsoredby
+equilibriumcardiaccomputedtomographyincardiacamyloidosis.J. AlnylamandAkceaPharmaceuticals.T.D.participatesinclinicaltrialsandhasservedin
+Cardiovasc.Comput.Tomogr.9,585–592(2015). AdvisoryboardsforAlnylam,Akcea,Pﬁzer,andProthenaPharmaceuticals.M.J.S.does
+20. Damy,T.etal.Clinical,ECGandechocardiographiccluestothediagnosisof nothavecompetinginterest.
+TTR-relatedcardiomyopathy.OpenHeart3,e000289(2016).
+21. Arvidsson,S.,Pilebro,B.,Westermark,P.,Lindqvist,P.&Suhr,O.B.Amyloid Additional information
+cardiomyopathyinhereditarytransthyretinV30Mamyloidosis-impactofsex SupplementaryinformationTheonlineversioncontainssupplementarymaterial
+andamyloidﬁbrilcomposition.PLoSONE10,e0143456(2015). availableathttps://doi.org/10.1038/s41467-021-23274-x.
+22. Kristen,A.V.etal.Cardiacamyloidload:aprognosticandpredictive
+biomarkerinpatientswithlight-chainamyloidosis.J.Am.Coll.Cardiol.68, CorrespondenceandrequestsformaterialsshouldbeaddressedtoA.M.
+13–24(2016).
+23. Xu,Z.,Paparcone,R.&Buehler,M.J.Alzheimer’sabeta(1-40)amyloidﬁbrils PeerreviewinformationNatureCommunicationsthanksMorieA.Gertzandtheother,
+featuresize-dependentmechanicalproperties.Biophys.J.98,2053–2062 anonymous,reviewer(s)fortheircontributiontothepeerreviewofthiswork.Peer
+(2010). reviewerreportsareavailable.
+24. demSiepen,F.A.etal.Predictorsofsurvivalstratiﬁcationinpatientswith
+wild-typecardiacamyloidosis.Clin.Res.Cardiol.https://doi.org/10.1007/ Reprintsandpermissioninformationisavailableathttp://www.nature.com/reprints
+s00392-017-1167-1(2017).
+25. Adams,D.etal.Patisiran,anRNAitherapeutic,forhereditarytransthyretin Publisher’snoteSpringerNatureremainsneutralwithregardtojurisdictionalclaimsin
+amyloidosis.N.Engl.J.Med.379,11–21(2018). publishedmapsandinstitutionalafﬁliations.
+NATURECOMMUNICATIONS|        (2021) 12:3142 |https://doi.org/10.1038/s41467-021-23274-x|www.nature.com/naturecommunications 11
+
+NEW PAGE
+
+ARTICLE
+NATURECOMMUNICATIONS|https://doi.org/10.1038/s41467-021-23274-x
+Open Access This article is licensed under a Creative Commons
+Attribution 4.0 International License, which permits use, sharing,
+adaptation,distributionandreproductioninanymediumorformat,aslongasyougive
+appropriatecredittotheoriginalauthor(s)andthesource,providealinktotheCreative
+Commonslicense,andindicateifchangesweremade.Theimagesorotherthirdparty
+materialinthisarticleareincludedinthearticle’sCreativeCommonslicense,unless
+indicatedotherwiseinacreditlinetothematerial.Ifmaterialisnotincludedinthe
+article’sCreativeCommonslicenseandyourintendeduseisnotpermittedbystatutory
+regulationorexceedsthepermitteduse,youwillneedtoobtainpermissiondirectlyfrom
+thecopyrightholder.Toviewacopyofthislicense,visithttp://creativecommons.org/
+licenses/by/4.0/.
+©TheAuthor(s)2021
+12 NATURECOMMUNICATIONS|        (2021) 12:3142 |https://doi.org/10.1038/s41467-021-23274-x|www.nature.com/naturecommunications
+
+NEW PAGE

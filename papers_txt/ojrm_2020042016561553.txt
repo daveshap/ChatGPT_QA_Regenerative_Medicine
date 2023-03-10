@@ -1,0 +1,1105 @@
+Open Journal of Regenerative Medicine, 2020, 9, 43-64 
+https://www.scirp.org/journal/ojrm 
+ISSN Online: 2169-2521 
+ISSN Print: 2169-2513 
+ 
+ 
+ 
+COVID-19 Pandemic: Its Origin,   
+Implications and Treatments 
+Peter K. Law 
+Cell Therapy Institute, Wuhan, China 
+ 
+ 
+ 
+How to cite this paper: Law, P.K. (2020)  Abstract 
+COVID-19 Pandemic: Its Origin, Implica-
+tions and Treatments. Open Journal of Re-  This is a succinct and current review of pertinent literature to guide develop-
+generative Medicine, 9, 43-64.  ing serum therapy as an emergent treatment to save human lives at times of 
+https://doi.org/10.4236/ojrm.2020.92006  natural or genetically engineered viral/bacterial pandemics. The origin of 
+ 
+2019-nCoV and implications of COVID-19 are discussed using direct quotes 
+Received: April 8, 2020 
+Accepted: April 18, 2020  of published scientific literature to avoid misinterpretation on this very im-
+Published: April 21, 2020  portant event that has caused great loss of human lives and international so-
+  cial economy. It is the goal of this review to warn against and to correct inter-
+Copyright © 2020 by author(s) and  
+national misunderstanding created by deliberate falsification of scientific do-
+Scientific Research Publishing Inc. 
+This work is licensed under the Creative  cumentations and events. This misunderstanding may lead to further destruc-
+Commons Attribution International   tion of life, economy, and political relations. People should not be blind-sighted 
+License (CC BY 4.0).  when making life decisions. 
+http://creativecommons.org/licenses/by/4.0/  
+ 
+Open Access
+    Keywords 
+2019-nCoV, COVID-19, Serum Therapy, Pandemics, Epidemics, Convalescent 
+Plasma, Coronavirus, Vaccine, Bacteria, Mutation, Biologic Warfare Weapons 
+ 
+1. Introduction 
+Scientists are passionate with their visions, taking pride in their work, credit in 
+their inventions, and responsibility to human society, all for the betterment of 
+mankind. It is in this context that I present this review with the hope that bio-
+logical warfare will be banned, and that mankind will unite to combat natural 
+pandemics like plague, diphtheria and malaria. 
+My generation of baby-boomers was blessed with social/economic prosperity 
+and no world war, the number one killer of mankind. However, what we expe-
+rienced with COVID-19, H1N1, SARS, H7N1, H7N9, MERS, AIDS and Ebola 
+within the last 30 years were terrorizing events with destruction of life, economy, 
+relationship, and communication, leaving shadows of anxiety, fear, mistrust and 
+ 
+DOI: 10.4236/ojrm.2020.92006  Apr. 21, 2020  43  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+P. K. Law 
+ 
+discrimination for significant years of our relatively short lives. COVID-19’s in-
+volvement of the livelihood of 7.7 billion people in 211 countries with an esti-
+mate of over 250,000 deaths before it ends is the equivalence of destruction 
+second only to a World War. If we do not take haste to manage this human ca-
+tastrophe, life in a year will be beyond comprehension. 
+As human beings, we need to establish emergency protocols to save lives, and 
+to quickly rebuild and sustain social harmony and world economy at times of 
+sudden pathogenic attacks. With continual competition in development of bio-
+logical warfare weapons, sudden outbreaks, either intentional or unintentional, 
+will render certain countries less desirable to be inhabited, even for those who 
+had been pre-vaccinated, believing that they might become immunotolerant of 
+the viral antigens. We will miss beautiful cultures that we once enjoyed and che-
+rished. 
+Once There was Peace 
+Paleontology recorded that simple lives such as viruses and bacteria were 
+original inhabitants of Earth some 3.5 billion years ago. The first mammal ap-
+peared 200 million years ago, and the first dinosaur, about 50 million years be-
+fore it [1]. These evolutionary ancestors of man (Homo Sapiens) had survived 
+bacterial and viral pathogens for 250 million years. Through evolution, they de-
+veloped a highly specific and potent immune surveillance system throughout 
+their bodies, distributed through the blood circulatory system. 
+By the time human beings came to exist some 3 million years ago, our im-
+mune system had already evolved to reach and sustain an equilibrium with the 
+natural faunas of bacteria and viruses, including those found in the 20-million- 
+year-old flying mammalian species of bats [2]. It was not until groups of Ameri-
+can virologists and molecular geneticists succeeded in editing viral DNA/cDNA/ 
+RNA/m-RNA sequence in late-1990’s that the equilibrium was broken. 
+By 1998, a wide variety of viral delivery vehicles for genes had been tested in-
+cluding murine retroviruses, recombinant adenoviral vectors, adeno-associated 
+virus, HSV, EBV, HIV vectors, and baculovirus. Fusogenic peptides in combina-
+tion with liposomes, or polymers, were used to enhance the release of plasmid 
+DNA from endosomes. There were techniques to exploit the HIV-1 virus to en-
+gineer vectors for gene transfer, the combining of viruses with polymers or ca-
+tionic lipids to improve gene transfer, the attachment of nuclear localization 
+signal peptides to oligonucleotides to direct them to nuclei, and the invention of 
+molecular switch systems allowing genes to be turned on or off at will [3]. 
+2. Origin of COVID-19 
+2019-nCoV genomics indicated that it was a recombinant virus of SARS-CoV 
+and HIV origins. The two species of viruses had distinct and distance pedigrees, 
+and because of the different space and time of their existence, their recombinant 
+had never appeared in a natural setting [4]. Therefore, 2019-nCoV could not be 
+a product of nature, but rather a product of human genetic engineering. 
+ 
+DOI: 10.4236/ojrm.2020.92006  44  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+P. K. Law 
+ 
+To uncover the scientific origin of the 2019-nCoV, it is necessary to under-
+stand certain pertinent scientific reports of gene therapy. Gene therapy encom-
+passes interventions that involve deliberate alteration of the genetic material of 
+living cells to prevent or to treat diseases [5]. This FDA definition places two 
+major technologies into the field of gene therapy: 
+1) Conducted in February and published in The Lancet on July 14, 1990 by my 
+team, myoblast transfer therapy is the world’s first human gene therapy and so-
+matic cell therapy [6]. Through natural cell fusion, which is inherent in myoge-
+nesis and muscle regeneration, genetically normal myoblasts inserted their nuc-
+lei with full complements of normal genes into hereditary DMD dystrophic 
+muscle cells to produce dystrophin, a structural protein that was not produced 
+in DMD muscles due to the genetic defect. The transfer of genetic material and 
+information occurred in vivo, with the myoblasts serving as the source and the 
+vehicle of gene transfer. 
+Gina Kolata reported on the front page of the New York Times on Sunday 
+June 3, 1990 that “Cell Transplant Found Effective in Muscle Disease: Muscular 
+Dystrophy Patient Showed Strength Increase in First Human Test.” William 
+French Anderson [7], then the Director of Virology of the National Institutes of 
+Health (NIH), said that if the finding was confirmed, “This would be a land-
+mark.” [8] Dr. Francis Collins, then a gene therapy researcher at the University 
+of Michigan in Ann Arbor said the research “is a promising lead….” [8]. He 
+recognized that, “there are some real possibilities here…” and both were right 
+with the myoblast technology [9]. Peter Gorner reported on the front page of the 
+Chicago Tribune on April 6, 1992 that “Tests confirm promise of genetic treat-
+ment for dystrophy.” 
+2) Single gene transduction 
+In September 1990, Anderson transferred the adenosine deaminase (ADA) 
+gene into the T cells of a 4-year-old girl with severe combined immunodeficien-
+cy (SCID) using a retroviral vector [10]. Although the integrated vector and 
+ADA gene expression persisted, the subject had to take regular medication 
+throughout the two years of gene treatment. The authors concluded that this 
+single gene therapy was safe and effective to treating patients with this very rare 
+form of disease [11]. On that basis, NIH’s Anderson claimed to be the first per-
+son ever to succeed in gene therapy [12] and became widely acclaimed by 
+Americans as the “Father of Gene Therapy” [11] [12]. 
+Central to this technology is the use of viruses as vectors to deliver normal 
+copies of the faulty or missing gene into a particular cell type of a patient, hoping 
+that the therapeutic gene will be expressed to produce a structural or regulatory 
+protein, thereby alleviating the disease symptom(s) [13] [14]. 
+However, viral vector gene transfer technology has not saved as many lives as 
+once expected, but has killed many as I foretold. The viral related death of Jesse 
+Gelsinger and participants of other trials in 1999 [15] compelled the FDA to 
+re-evaluate gene therapy regulations, thus setting back the development of all 
+ 
+DOI: 10.4236/ojrm.2020.92006  45  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+P. K. Law 
+ 
+gene therapy programs including mine using no virus but human somatic cells 
+called myoblasts. There were numerous deficiencies associated with the use of 
+the single gene transduction technology [9]. Much of the hurdles that were 18 
+years ago [16] [17] remain unresolved today. 
+Grandstands over the Human Genome Project (HGP) [18]-[23] and somatic 
+gene therapies [10] [11] [16] [24] [25] [26] in the last three decades fueled en-
+thusiasm that most human diseases would eventually be cured with molecular 
+medicine [27] [28]. In his position as the Director of the National Institutes of 
+Health (NIH), and in his “Language of God” [23], Collins not only did not pro-
+vide any genetic treatment for COVID-19, he presented “evidence of make- be-
+liefs” and misled the world with the natural origin of 2019-nCoV [29]. 
+Amidst all the “if’s”, “but’s”, “possibly”, and “almost certainly”, Collins rec-
+orded, “So, what is the natural origin of the novel coronavirus responsible for 
+the COVID-19 pandemic? The researchers [30] don’t yet have a precise answer.” 
+People in Collins’ position were often put in ugly situations of having to give up 
+their scientific aptitude and choosing, because of political pressure from their 
+immediate employer, the US Congress. I was once at the receiving end, or rather, 
+non-receiving end of such malice [31]. 
+Collins continued, “Existing computer models predicted that the new corona-
+virus would not bind to angiotensin converting enzyme II (ACE2) as well as the 
+SARS virus. However, to their surprise, the researchers found that the spike pro-
+tein of the new coronavirus actually bound far better than computer predic-
+tions.” After presenting two scenarios of circumstantial evidence of genomic 
+modeling, Collins concluded, “Either way, this study leaves little room to refute a 
+natural origin for COVID-19.” [29] 
+Collins continued, “The researchers [30] went on to analyze genomic data re-
+lated to the overall molecular structure, or backbone, of the new coronavirus. 
+Their analysis showed that the backbone of the new coronavirus’s genome most 
+closely resembles that of a bat coronavirus discovered after the COVID-19 pan-
+demic began. However, the region that binds ACE2 resembles a novel virus 
+found in pangolins, a strange-looking animal sometimes called a scaly anteater. 
+This provides additional evidence that the coronavirus that causes COVID-19 
+almost certainly originated in nature. If the new coronavirus had been manu-
+factured in a lab, scientists most likely would have used the backbones of coro-
+naviruses already known to cause serious diseases in humans.” 
+Was Collins talking about biological weapon in this last sentence? What kind 
+of scientists were Collins referring to who would intentionally cause serious dis-
+eases in humans? In his tax-payers’ entrusted position of NIH Director, Collins 
+cited a non-committal reference [30] and presented a deliberate falsification of 
+published scientific literature of studies described below that were supported by 
+at least three Institutes of NIH, to mislead the world that COVID-19 originated 
+from a natural course of viral evolution of the Hubei bats. 
+I hereby present below the direct, unequivocal evidence that 2019-nCoV is a 
+ 
+DOI: 10.4236/ojrm.2020.92006  46  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+P. K. Law 
+ 
+biological warfare weapon originally produced in the USA, and that COVID-19 
+is a pre-meditated event designed for the USA to consolidate and to sustain po-
+litical and economic supremacy internationally. 
+In 2008, a group of SARS-like CoVs (SL-CoVs) isolated from horseshoe bats 
+had  their  N  terminus  of  the  spike  protein  (S)  combined  with  a  human 
+immunodeﬁciency virus (HIV)-based pseudovirus system, together with cell 
+lines expressing the angiotensin-converting enzyme 2 (ACE2) molecules of hu-
+man, civet, or horseshoe bat. Ren et al. reported, “in addition to full-length S of 
+SL-CoV and SARS-CoV, a series of S chimeras was constructed by inserting dif-
+ferent sequences of the SARS-CoV S into the SL-CoV S backbone.” 
+This was a Guided Natural Selection, a process designed to select a lethal, 
+transmissible virus by serially infecting cells of an animal model that had ACE2 
+receptors similar to human. The chimeric S (spike) covering the receptor-binding 
+domain (RBD) gained its ability to enter cells via human ACE2 receptor sites. 
+The Chinese authors demonstrated that “after replacement of a small segment 
+(aa 310 to 518) of Rp3-S by the cognate sequence of BJ01-S, the chimeric spike 
+protein mimics the function of BJ01-S in regard to receptor usage in the HIV 
+pseudovirus assay system.” That was sufﬁcient to convert the SL-CoV S from 
+non-ACE2 binding to human ACE2 binding, indicating that the SL-CoV S is 
+largely compatible with SARS-CoV S protein both in structure and in function 
+[32]. The CoV spike glycoproteins were responsible for cellular receptor recog-
+nition [32] [33], cell tropism [34] [35], and host speciﬁcity [36]. 
+Ren et al. also reported failure of SARS-CoV S protein to use bat RpACE2 as a 
+receptor, suggesting that despite the presence of a diverse group of SL-CoVs in 
+horseshoe bats, they were unlikely to be the natural reservoir of the immediate 
+progenitor virus for SARS-CoV [32]. That was a non-committal way of saying 
+that SARS-CoV did not have a natural origin. 
+Hou et al. (2010) [37] extended the above study to ACE2 molecules from sev-
+en additional bat species and tested their interactions with human SARS-CoV 
+spike protein using both HIV-based pseudotype and live SARS-CoV infection 
+assays. Live SARS-CoV infection was carried out with help from Gary Crameri 
+and Jennifer Barr, under BioDefense Level 4 (BSL4) conditions at the Australian 
+Animal Health Laboratory (AAHL) [38] [39]. The results, as reported by a group 
+of Chinese scientists funded by the Chinese government, showed that “ACE2 of 
+Myotis daubentoni and Rhinolophus sinicus from Hubei province supported 
+viral entry mediated by the SARS-CoV S protein, albeit with different efficiency 
+in comparison to that of the human ACE2.” Further, “the alteration of several 
+key residues either decreased or enhanced bat ACE2 receptor efficiency” [39]. 
+How effective was this genetically engineered construct that was capable of 
+transmission cross-species from bat to human, and within the same species from 
+human to human? Gain of function (GOF) by which the efficiency of viral 
+spreading in human population was engineered and tested in an international 
+collaborative study in 2015 as reported by Menachery et al. Using the SARS-CoV 
+ 
+DOI: 10.4236/ojrm.2020.92006  47  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+P. K. Law 
+ 
+reverse genetics system [40], a chimeric virus was generated and characterized 
+expressing  the  spike  of  bat  coronavirus  SHC014  [41]  in  a  mouse-adapted 
+SARS-CoV backbone. The University of North Carolina (UNC) collaborative 
+study indicated that viruses encoding the SHC014 spike in a wild-type backbone 
+could efficiently use multiple orthologs of the SARS receptor human ACE2, rep-
+licate efficiently in primary human airway cells and achieve in vitro titers equiv-
+alent to epidemic strains of SARS-CoV. 
+Additionally, in vivo experiments demonstrated replication of the chimeric 
+virus in mouse lung with notable pathogenesis [41]. Evaluation of available 
+SARS-based immune-therapeutic and prophylactic modalities revealed poor ef-
+ficacy; both monoclonal antibody and vaccine approaches failed to neutralize 
+and protect from infection with CoVs using the novel spike protein. An infec-
+tious full-length SHC014 recombinant virus was synthetically re-derived and it 
+demonstrated robust viral replication both in vitro and in vivo. 
+3. Implications of COVID-19 
+Menachery et al.’s 2015 [41] publication deserved every attention because it de-
+scribed the success of an international collaboration to genetically engineered a 
+prototype of 2019-nCoV, confirmed its epidemic destructive capacity, demon-
+strated no effective medicament, vaccine, or any therapeutic or prophylactic 
+modality, and predicted that COVID-19 would be preeminent. It described, “In 
+addition to offering preparation against future emerging viruses, this approach 
+must be considered in the context of the US government–mandated pause on 
+gain-of-function (GOF) studies.” A moratorium was called to end risky virology 
+studies at 14 American institutions, but such effort was in vain [42]. 
+Human ingenuity had advanced viral and bat evolution by a million years, 
+providing them with the new ability to kill mankind. The combined use of virus 
+recombination [32] [33], host switching [32] [33] [34] [35] and GOF [41] were 
+achieved. SARS-coronavirus was known for its wide-spread efficiency in popu-
+lating the upper respiratory tracks, and genuine HIV plasmid could devastate the 
+infected individual’s immune system; and in this case, the target of viral entry is 
+ACE2 receptors of human beings. The combined use of the virus recombination 
+technology and the host switching technology was already research in the wrong 
+direction, upsetting the million-year-old natural equilibrium between human, 
+bats and viruses. It was the GOF, a DNA engineering technology that propelled 
+the efficiency of transmission among the human population of this monstrous 
+chimaera (Figure 1) of SARS-CoV and HIV recombinant to the epidemic and 
+pandemic level. 
+From the 1998 viral P-shuttle SN Vector to the present clustered regularly in-
+terspaced short palindromic repeats (CRISPR) gene editing technology, 
+SHC014CoV, the prototype of 2019-nCoV, was the prime of viral genetic engi-
+neering, and a deadly one. It was biological weapon at its best. It was scientifi-
+cally carried out with vision and passion, and the inventors given due credits in  
+ 
+DOI: 10.4236/ojrm.2020.92006  48  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+P. K. Law 
+ 
+ 
+Figure 1. Modelled homo-trimer spike glycoprotein of 2019-nCoV. The inserts from HIV 
+envelop protein are shown with colored beads, present at the binding site of the protein, 
+from [47]. 
+ 
+funding and publications for their inventions. However, this invention was to 
+benefit no human beings or bats; it would kill them by the millions if left uncon-
+trolled. It revolutionized military warfare, killing enemies without deploying 
+troops, without demarcating boundary, without war declaration, and usually 
+without knowledge or evidence of attack. This invention enabled its owner to kill 
+any mammals having human ACE2 receptors. 
+The 2015 publication of Menachery et al. alerted a potential pandemic if un-
+curbed [41]. In the title of the original article published in Nature Medicine, it 
+used the phrase of “pose threat to human emergence”. That was five years before 
+COVID-19, in the land of technologic totalism of USA, where two Chinese 
+scientists shared their academic advances and were given the middle and the 
+second-last placement in the long 15-author list. It was for the American tech-
+nology of GOF that they collaborated with UNC. The latter was close to Fort 
+Detrick, a key BioDefense Laboratory of the 4th level (BSL4) for biologic weapon 
+production and testing. The GOF “turbo-charged” the SARS-CoV/HIV recom-
+binant and, for the first time, transformed it to become the world’s most power 
+biological weapon of pandemic caliber. This is the origin of the 2019-nCoV. 
+Author Contribution of Menarchery et al. recorded, “V.D.M. designed, coor-
+dinated and performed experiments, completed analysis and wrote the manu-
+script.  B.L.Y.  designed  the  infectious  clone  and  recovered  chimeric  virus-
+es…..R.S.B. designed experiments and wrote manuscript.” These were the origi-
+nal responsible scientific designers of the biological bomb that left 1,852,021 di-
+agnostically infected with COVID-19, and 114,090 dead in 211 countries on 
+April 13, 2020, and these numbers are on an exponential up-swing. 
+As for “preparation against future emerging viruses” since Menarchery et al’s 
+publication five years ago, only one publication has appeared six days ago on 
+April 6, 2020 from the same UNC laboratory of Prof. Ralph S. Baric where 
+ 
+DOI: 10.4236/ojrm.2020.92006  49  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+P. K. Law 
+ 
+2019-nCoV  prototype was  engineered and tested. It documented a vaccine 
+which was tested on mice might be a potential treatment for COVID-19. Other-
+wise, there has been no documentation of any of the 2019-nCoV transmitting 
+bats, if any, were killed to protect human lives. There has not been publication of 
+studies documenting inoculation of bats with 2019-nCoV to study if bat-virus 
+relationship is symbiotic or parasitic, and how well do the bats immune-tolerate 
+these natural or foreign antigens. 
+To a business mind, why spent the money to make a man-killing chimeric virus, 
+and found a vaccine against it, unless the vaccine could be sold at a good profit. 
+However, it is extremely hard if not impossible to develop such vaccine, even by 
+the UNC team itself [43]. Due to the tremendous random recombination of the 
+chimeric viral RNA with different DNA repertoires from different patients by 
+nature, no vaccine can be completely effective in principle, not even manufac-
+tured by Baric’s team from UNC for Americans [43]. The only scientifically valid 
+vaccine can only be derived from pooled antisera of rehabilitated patients of the 
+same blood type [44] [45]. Immediately available therapy for the critically-ill and 
+dying patients could only be from serum therapy as previously described [44] 
+[45]. One’s own immune system is the number one protection. Failing that, pas-
+sive immunogens [44] [45] have to be implemented immediately to save lives. 
+The study of Menachery et al. was heavily funded. Its Acknowledgement cited, 
+“Research in this manuscript was supported by grants from the National Insti-
+tute of Allergy & Infectious Disease and the National Institute of Aging of the 
+US National Institutes of Health (NIH) under awards U19AI109761 (R.S.B.), 
+U19AI107810  (R.S.B.),  AI085524  (W.A.M.),  F32AI102561  (V.D.M.)  and 
+K99AG049092 (V.D.M.), and by the National Natural Science Foundation of 
+China awards 81290341 (Z.-L.S.) and 31470260 (X.-Y.G.), and by USAID-EPT- 
+PREDICT funding from EcoHealth Alliance (Z.-L.S.). Human airway epithelial 
+cultures were supported by the National Institute of Diabetes and Digestive and 
+Kidney Disease of the NIH under award NIH DK065988 (S.H.R.). We also thank 
+M.T. Ferris (Dept. of Genetics, University of North Carolina) for the reviewing 
+of statistical approaches and C.T. Tseng (Dept. of Microbiology and Immunolo-
+gy, University of Texas Medical Branch) for providing Calu-3 cells.” 
+A very unusual and unique statement appeared at the end of the Acknowled-
+gement, “Experiments with the full-length and chimeric SHC014 recombinant 
+viruses were initiated and performed before the GOF research funding pause 
+and have since been reviewed and approved for continued study by the NIH. 
+The content is solely the responsibility of the authors and does not necessarily 
+represent the official views of the NIH.” These last two sentences constituted a 
+NIH disclaimer. What had the sponsors have in mind when they funded this 
+project? No scientist would believe that the project was for the benefit of man, 
+bat, or virus. 
+Coutarda et al. identified a furin-like cleavage site present in 2019-nCoV, 
+SARS CoV and in MERS-CoV but absent in CoV of the same clade. “This furin- 
+ 
+DOI: 10.4236/ojrm.2020.92006  50  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+P. K. Law 
+ 
+like cleavage site, was supposed to be cleaved during virus egress [46] for 
+S-protein  “priming”  and  might  provide  a  gain-of-function  (GOF)  to  the 
+2019-nCoV for eﬃcient spreading in the human population compared to other 
+lineage b betacoronaviruses”.  
+“Strikingly, the 2019-nCoV S-protein sequence contains 12 additional nucleo-
+tides” [4]. These are the “insertions” of genetic engineering. 
+Prof. Francis Boyle of the University of Indiana who drafted the 1989 Biologi-
+cal Weapons Act considered Menachery et al.’s SHC014CoV or the 2019-nCoV 
+as “an offensive biological warfare agent, and it has no legitimate scientific, or 
+medical use  of the Gain-of-Function (GOF) technology” [47]. It was Prof. 
+Boyle’s responsibility to oversee biologic warfare in the USA. According to 
+Boyle, GOF was a DNA genetic engineering technology of “turbo-charging” 
+dangerous biological warfare substances or pathogens. In the Alex Jones Show 
+[47], he spoke of 12 warfare bases housing many BSL3/BSL4 laboratories specia-
+lized in system engineering of biological warfare weapons in the USA, and the 
+BSL3/BSL4 warfare laboratories of Fort Detrick in Maryland was one of them. 
+According to the news report, Fort Detrick had its license revoked last July after 
+an outbreak similar to COVID-19, killing about 20,000 people with 75% of 
+nearby citizens infected. He said he had condemned Fort Detrick and the UNC 
+for  violating  the  1989  Biological  Weapons  Act  that  he  drafted,  for  “tur-
+bo-charging” every pathogen including SARS-CoV and MERS- CoV that he 
+proclaimed were bioweapons from Fort Detrick. He insisted that Fort Detrick 
+should be shut down and their investigators be fully investigated. 
+In the name of academic pursuit and human health, various Institute Direc-
+tors of NIH, beginning with French Anderson of the Institute of Virology unto 
+the NIH Director Francis Collins, used American tax-payers’ money to fund 
+studies to manufacture and test viruses that no others bore a closer resemblance 
+to 2019-nCoV, at least five years ago. For all that “preparation against future 
+emerging viruses”, NIH had not developed any safe and effective treatment. 
+When concerned scientists called moratorium to end U.S. Government man-
+dated pause on GOF projects, NIH Directors unloaded their responsibilities with 
+a disclaimer and funded these man-killing projects with American tax-payers’ 
+money. Is this Liberty and Justice for All? 
+FDA scientist was an author in this man-killing project of Menachery et al. 
+Crime against humanity had been FDA’s specialty [48] [49] [50]. Inside the 
+ivory tower of FDA inhabited many corruptive bureaucrats who would act or 
+not act according to directions. After forcing me out of the USA as a foreign 
+leading scientist holding key patents on myoblast transplantation technology, 
+FDA has listed 23 projects in Phase II/III clinical trial, with more listed under 
+muscle stem cells. EMA also listed 6 projects of myoblast transplantation. This 
+latter platform technology had produced safe and effective therapies for muscu-
+lar dystrophies, cardiomyopathies, Type-II diabetes, solid tumor and aging ac-
+counting for 80% of human death discounting war and pandemic deaths [51]. 
+ 
+DOI: 10.4236/ojrm.2020.92006  51  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+P. K. Law 
+ 
+In December, 2019, USA refused to sign a new international protocol to ban 
+biological warfare. USA has developed the best of biological warfare weapons 
+and has set up 200 BioDefense laboratories around the world. USA has been the 
+only country that refused WHO inspection of its biological warfare laboratories. 
+When CDC suspended the BSL3/4 license from Fort Detrick last July, and de-
+manded close-down of its facility and destruction of its records, many of its 
+workers had already been contaminated, ending in COVID-19 outbreak in the 
+East Coast cities. As of April 13, 2020, COVID-19 is on an exponential up-swing 
+in USA, causing 22,090 deaths and 560,055 accumulatively diagnosed patients 
+within the last four weeks. Vaccination had not been completely effective, espe-
+cially for elderly patients with underlying illnesses. 
+It took some ruthless, law-unbinding, and power-hungry men who wanted to 
+take lives of their fellow men to boost the political and economic supremacy of 
+their own, less their country. They developed, owned, and used the products of 
+the three jointly applied technologies described above. It took someone who was 
+already rich and in power, who could convince the U.S. Congress to exert pres-
+sure onto NIH Director and Directors to fund this and previous man-killing 
+projects, to the extent that NIH had to issue disclaimer statements for its own 
+protection. 
+On March 17, 2020, U. S. President Donald Trump began to proclaime 
+2019-nCoV as “Chinese virus” on world news, to mislead the world and setting 
+the pace for China to pay for COVID-19 world damages. Most people believed 
+President Trump’s version on international television; his telling of Chinese vi-
+rus jumped onto human from eating bats in a broth. Those with higher intelli-
+gence preferred the more exotic bat sashimi, arguing that the 2019-nCoV could 
+not have survived 86˚C, less boiling at 100˚C in the broth.  
+On March 25, at the recommendation of President Trump, 54% of the Repub-
+lican and 36% of the Democratic members of the U.S. Congress voted to de-
+mand China to pay for at least part of the damages, with 42% of the American 
+voters’ support, 28% willing to go to war without hesitation if China refused to 
+pay. 
+On March 29, American news announced that China was the first country to 
+have COVID-19. The U. S. government had threatened not to repay all or por-
+tion of the U.S. debts borrowed from China, amounting to one thousand billion 
+U.S. dollars, for punishing the Chinese government’s delay in the control of 
+COVID-19 spreading from bat-eating in the Hua Nan Seafood Market in Wu-
+han. Strangely enough, it had completely avoided talks of biological warfare, but 
+insisted on condemnation news of Chinese viruses from Wuhan bats. 
+Recent poll announced that 68% of the American voters, mostly misled, was 
+in  support  of  this  action.  Without  fully  understanding  the  true  origins  of 
+2019-nCoV and COVID-19, many innocent Americans may be misled to go to 
+war and die for a wrong cause. There is no reason for China to pay one thousand 
+billion U.S. dollars to admit a crime which China did not commit. In the sixties 
+ 
+DOI: 10.4236/ojrm.2020.92006  52  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+P. K. Law 
+ 
+of the last century, many young Americans took anti-war actions and refused to 
+fight the Viet Nam War. 
+It is the goal of this review to warn against and to correct international mi-
+sunderstanding created by deliberate falsification of scientific documentations 
+and events. This misunderstanding may lead to war and further destruction of 
+life, economy, and political relations. People should not be blind-sighted when 
+making life decisions. It is my social responsibility, as a scientist, to inform the 
+world of the scientific origins of 2019-nCoV and COVID-19. It is time for scien-
+tists to form alliance to speak up and to protect everything that belongs to hu-
+man society. Left unchecked, COVID-19 will leave us with death, destruction, 
+and grief, only second to the last world war. 
+Since December 12, 2019, 2019-nCoV has affected 211 countries and the live-
+lihood of 7.7 billion people. As of April 13, 2020, 1,852,021 people have been di-
+agnosed infected. COVID-19 has only been active for 4 months, and has already 
+killed 114,090 people. If allowed to propagate, it could easily kill 250,000 people 
+in a year. 
+COVID-19 was basically contained by March 18, 2020 in China with no new 
+case reported until imported cases. It took a strong leadership, a great govern-
+ment, good directions of the medical experts, solidarity and discipline of the 
+Chinese people, and sacrifice of the medical professionals all working together to 
+achieve such a result. China has set examples of treatment and has helped dif-
+ferent men of the world to fight our true enemy, the 2019-nCoV. Let us join 
+hands doing just that. 
+There was no declaration of war, no gunfire or explosives. There was no 
+country boundary to fight over. The enemy could not be seen. Human beings 
+were fearful of the viral presence. It had taken away our freedom to travel, make 
+friends, and explore opportunities of all sorts on the Belt Road and around the 
+world. 2019-nCoV left husband and wife to become killing partners, and res-
+pectable elderly dead alone without attendance. So much time, efforts and re-
+sources spent on constructing the friendly world connection of Belt Road for 
+mankind were wasted and the project de-railed. 
+Could we ever go back to the peaceful time that we once had when we could 
+breathe the air of freedom, and enjoy the beauties around us? People of all races, 
+colors, religions, ages, sexes, sizes have suffered, and will continue to suffer until 
+we stop funding, designing, manufacturing, facilitating and using biological 
+warfare weapons such as 2019-nCoV, H1N1, SARS, H7N1, H7N9, MERS, HIV 
+and Ebola. These were pre-meditated, cold blood murders. 
+Long before the 2019 outbreak of COVD-19 in the USA, Coronavirus of 
+Clades  A,  B,  C,  D,  and  E  had  already  been  in  the  records  of  American 
+BSL3/BSL4 laboratories. The betacoronavirus of 2019-nCoV belongs to the C 
+Clade. Despite all the bat species in Hubei, only the C Clade has been identified 
+in China. There was no evidence of grand-parents (clade A), parents (clade B), 
+children (clade D) or grand-children (clade E) of the 2019-CoV in China. This 
+ 
+DOI: 10.4236/ojrm.2020.92006  53  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+P. K. Law 
+ 
+provided circumstantial evidence that COVID-19 in Wuhan might have derived 
+from viruses overseas and not from China. 
+It is extraordinary that Britain, as one of the key entry ports into Europe, was 
+relatively spared by COVID-19 as compared to Italy, the first country to sign-up 
+with the Belt Road. It is extraordinary that Britain left the EU at the fortnight of 
+COVD-19 outbreak in Europe, and its Prime Minister announced that British 
+should not fear and could go on living as usual because they were healthy as if 
+“immunized”. This was similar to President Trump’s announcement to the 
+American public at the onset of COVID-19 in the USA. In North America, citi-
+zens received free annual Flu shots. Last fall, all 60-year-olds and above were 
+given an extra “shot” against pneumonia. 
+4. Treatment of COVID-19 
+I had previously published the emergent serum therapy and antibody medicine 
+to counteract sudden attacks of COVID-19 and other pathogenic epidemics [44] 
+[45]. This is to provide background development leading to such. 
+Regulatory and Compassionate Drug Usage 
+Mono-antibodies  produced  against  the  primary  structures  of  the  viral 
+DNA/RNA/mRNA demonstrated efficacy in viraemia reduction [52] [53], but 
+clinical trials of CR3022 with CR3014 had never been tried due to the high cost 
+of manufacturing [54] [55]. There were antiviral drugs designed to block viral 
+replication.  Ribavirin,  lopinavir/ritonavir  and  corticosteroids  had  lowered 
+21-day ARDS and mortality than those who received ribavirin and corticostero-
+ids together [56] [57]. 
+Corticosteroids were not recommended by WHO [58] [59]. Corticosteroids 
+caused local and systemic immunosuppression. Their administration had been 
+associated with higher plasma viral load, slower viral clearance and higher mor-
+tality in both SARS and H1N1 [60]. Chloroquine was found to be a potent inhi-
+bitor of SARS coronavirus infection through interfering with ACE2, one of cell 
+surface binding sites for S protein of SARS-CoV [61]. It would be useful in our 
+combat against COVID-19, especially with early infection of mild cases. There 
+were no clinical data on the efficacy of fusion inhibitors to prevent viral entry in 
+SARS, MERS or COVID-19. 
+The diverse and potent neutralizing antibodies identified recently appeared to 
+be promising candidates for prophylactic and therapeutic interventions for the 
+2019-nCoV [62]. The safety and efficacy of Remdesivir usage is doubtful for lack 
+of statistics [63]. 
+Without a compassionate use approval from the FDA/EMA/CFDA, drug dis-
+coveries had never been timely enough to gain regulatory approval to save lives, 
+and may never will in a safe and efficacious manner. 
+Evolutionary Antidote 
+It is not only scientifically valid but also logical to deem convalescent serum 
+therapy be the treatment of choice because the antiserum contains the antiviral 
+ 
+DOI: 10.4236/ojrm.2020.92006  54  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+P. K. Law 
+ 
+antibodies IgG and IgG fragments that had won over the viral primary and mu-
+tated antigens to allow the patients to be rehabilitated [44] [45]. We do not have 
+any other immunotherapy or medicament with virus-specific antibodies that 
+works on the same mechanism and principle. Beating bacterial or viral infections 
+can give “acquired immunity” where the immune system recognizes the infec-
+tious agent the next time it is encountered. This is done by antibodies that label 
+or neutralize the infectious agent. 
+I could not have emphasized more that although the antiviral antibodies were 
+contained in the lymph, serum, plasma and whole blood of the rehabilitated 
+subject, transfusion of each component delivered different consequences for 
+what each contained. A formal evaluation [44] [45] and a systematic review and 
+exploratory meta-analysis [64] argued against the contention that the use of 
+convalescent plasma as a treatment could be without the occurrence of severe 
+adverse events [65]. Without properly-designed control studies, many patients 
+who died of acute respiratory distress syndrome (ARDS) and/or multiple organ 
+failure were counted as died of natural course of the diseases rather than serious 
+adverse reactions triggered by non-scientific use of convalescent plasmas [66]. 
+Historic Development 
+In Medieval times, death was often associated with blood loss, and blood 
+transfusion for revitalizing wounded soldiers became a norm to save lives in the 
+battle field. Without the knowledge of ABO-blood type matching, or how to 
+control infections, most of these blood recipients died with few exceptions. 
+With the discovery of microscopy in 1665, scientists could distinguish various 
+cell types including the non-nucleated platelets. However, there were still ques-
+tion as to whether a dying man should have the whole blood of the donor, or the 
+latter’s plasma, or serum alone. 
+Serum therapies have been around since the late 1800’s. In fact, the 1901 No-
+bel Prize was awarded to Emil von Behring for his pioneering work on them. Dr. 
+von Behring is responsible for beating a diphtheria epidemic in Germany with 
+the use of equine serum therapy. With the little equipment he had at the time, it 
+was a tremendous triumph on his part for using ice to get clotted serum for his 
+patients. Dr. von Behring opened up the field of immunology that has allowed 
+scientists and physicians alike to understand pathogenesis and treatment of nu-
+merous diseases. 
+Discovery of ABO-blood typing was a very significant period during which 
+mortality and morbidity were significantly reduced through blood transfusion. It 
+is during this period that serum therapies became convalescent plasma therapies. 
+It might be related to the rapid development of antibiotics and steroids. The lat-
+ter development produced very lucrative profits that neither serum therapy nor 
+convalescent plasma could match. Medical devices eventually were developed to 
+provide plasma, especially platelet-rich-plasma (PRP), for battlefield usage in 
+wound healing. 
+Convalescent Plasma against Epidemics 
+ 
+DOI: 10.4236/ojrm.2020.92006  55  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+P. K. Law 
+ 
+COVID-19 refers to the outbreak of pneumonia pandemic induced by the se-
+vere acute respiratory syndrome coronavirus 2 (SARS-CoV-2), also known as 
+2019-nCoV. Convalescent plasma or immunoglobulins had been used as a last 
+resort to improve the survival rate of patients with SARS whose condition con-
+tinued to deteriorate despite treatment with pulsed methylprednisolone. More-
+over, several studies showed a shorter hospital stay and lower mortality in pa-
+tients treated with convalescent plasma than those who were not treated with 
+convalescent plasma [66] [67] [68] [69]. In 2014, the use of convalescent plasma 
+collected from patients who had recovered from Ebola virus disease was recom-
+mended by WHO as an empirical treatment during outbreaks [70] [71]. A pro-
+tocol for the use of convalescent plasma in the treatment of Middle East respira-
+tory syndrome coronavirus was established in 2015 [72] [73]. In terms of pa-
+tients with pandemic 2009 influenza A H1N1 (H1N1pdm09) virus infection, a 
+prospective cohort study by Hung and colleagues showed a significant reduction 
+in the relative risk of mortality (odds ratio 0·20 [95% CI 0·06 - 0·69], p = 0.01) 
+for patients treated with convalescent plasma [74]. Additionally, in a subgroup 
+analysis, viral load after convalescent plasma treatment was significantly lower 
+on days 3, 5, and 7 after intensive care unit admission. No adverse events were 
+observed. A multi-center, prospective, double-blind, randomized controlled trial 
+by Hung and colleagues showed that using convalescent plasma from patients 
+who recovered from the influenza A H1N1pdm09 virus infection to treat pa-
+tients with severe influenza A H1N1 infection was associated with a lower viral 
+load and reduced mortality within 5 days of symptom onset [75]. 
+Most of the treatment options for MERS were extrapolated from the 2003 out-
+break of Severe Acute Respiratory Syndrome coronavirus (SARS-CoV) and the 
+2009 H1N1 influenza outbreak [76]. Like SARS-CoV, COVID-19 CoV binded to 
+ACE-2 receptors and could also infect and replicate in macrophages, potentially 
+leading to ARDS and death of the patients [66]. A meta-analysis by Mair-Jenkins 
+and colleagues showed that the mortality was reduced in early-diagnosed pa-
+tients with severe acute respiratory infections after receiving convalescent plas-
+ma, with no adverse events or complications after treatment [64]. 
+Convalescent plasma is a form of passive immunotherapy. It was usually cho-
+sen when there were no specific vaccines or drugs available for emerging infec-
+tion‐related diseases [77] Arabi et al had tested the feasibility of convalescent 
+plasma therapy as well as its safety and clinical efficacy in critically-ill MERS pa-
+tients. They found that convalescent plasma had an immunotherapeutic poten-
+tial for the treatment of MERS-CoV infection [72]. In addition, convalescent 
+plasma from recovered SARS patients had also been reported to be useful clini-
+cally for treating other SARS patients [68] [69]. The use of convalescent plasma 
+or serum was suggested by the WHO under Blood Regulators Network when 
+vaccines and antiviral drugs were unavailable for an emerging virus. Convales-
+cent plasma has been routinely used for the treatment of COVID-19 infected 
+critically-ill patients in China [78]. 
+ 
+DOI: 10.4236/ojrm.2020.92006  56  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+P. K. Law 
+ 
+Even as of today, biopharmaceutics and scientists continued making the same 
+mistakes by using convalescent plasma without applying the precision technol-
+ogy of antigen-antibody specificity of convalescent serum therapy [79]. Some are 
+repeating what they were taught; others refer to plasma and serum as if they are 
+the same [79]. Very few are aware of the difference that they have caused be-
+tween death or life for the critically-ill or dying patients. Although WHO rec-
+ommended convalescent plasma to be used as an empirical treatment for Ebola 
+in 2014 [71], it has not recommended the same for COVID-19 because of lack of 
+evidence of safety and efficacy as of April 13, 2020, 2020 [59]. 
+Convalescent Serum against Pandemics 
+Let us revisit the ingenuity of Emil Adolph von Behring, the Father of Immu-
+nology. During the poliomyelitis epidemic in 1917, Amoss and Chesney demon-
+strated that convalescent serum, when injected both intra-spinally and intrave-
+nously, significantly reduced paralysis, mortality rate, symptom severity, and 
+hospital stay of critically-ill patients [80]. The earlier in the course of the disease 
+the serum was employed in suitable doses, the more promise there was of bene-
+fit. The decision to employ the serum should rest upon a clinical examination 
+supported by the results of the microscopic and chemical study of the cerebros-
+pinal fluid. Reinjection 12 to 24 hours later may be advantageous; the tempera-
+ture curve served to indicate the time for reinjection. 
+Meta-analysis by Luke and colleagues identified eight studies involving 1703 
+patients with 1918 influenza pneumonia from 1918 to 1925 who received an in-
+fusion of influenza-convalescent human blood products, which showed a pooled 
+absolute reduction of 21% (95% CI 15 - 27; p < 0.001) in the overall crude case 
+fatality rate at low risk of bias [81]. 
+The use of convalescent human serum in treating 37 influenza pneumonia pa-
+tients in 1918 demonstrated that thirty were rehabilitated; six were continuing 
+treatment; one had died; all but one of these had a favorable outlook [82]. Blood 
+to the amount of about 800 cc. was taken from each donor, under sterile precau-
+tions; 400 cc. at a time on two successive days. Thus, each donor yielded about 
+300 cc. of serum. The blood was allowed to clot at room temperature for about 
+an hour, then plate cultures were made, and the containers placed on ice. over 
+night. The separated serum was cleared by centrifugalizing at high speed; then 
+bottled, and in most cases given the same day. 
+Attempt was made to test the potency of the serum of the donors in the old 
+days by complement fixation and by gross agglutination, using isolated influenza 
+bacillus as an antigen. However, without PCR technology to assess the antibody 
+content of the serum, efficacy can only be determined by its clinical action on 
+recipients [83]. 
+Serum therapies were successfully used to treat many  infectious diseases 
+(anthrax, plague, scarlet fever, measles, tularemia, diphtheria, dysentery, me-
+ningococcal meningitis, rabies, pneumococcal pneumonia) for half a century af-
+ter Dr. Emil von Behring first demonstrated their effective use as a therapeutic in 
+ 
+DOI: 10.4236/ojrm.2020.92006  57  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+P. K. Law 
+ 
+diphtheria. Their general use fell into disfavor after the advent of antibiotic 
+therapies and in consideration of the problems of adverse reactions to animal 
+derived sera and whole serum. However, human and animal derived immunog-
+lobulins remain important therapies for a variety of conditions (parvovirus, 
+CMV, hepatitis B, rabies, hepatitis A, botulism, envenoming, etc.) 
+The WHO deemed convalescent plasma as the most promising near-term 
+therapy for MERS in the WHO—International Severe Acute Respiratory and 
+Emerging Infection Consortium MERS-CoV Outbreak  Readiness  Workshop 
+2013 [83]. However, due to the lack of clinical trials, a WHO position paper 
+published in March 2014 stated that the clinical use of convalescent plasma 
+should be regarded as investigation WHO had issued a Position Paper on the 
+collection and use of convalescent plasma or serum in emergent experimental 
+therapies to treat MERS. This should be followed as guidelines to treating 
+COVID-19. 
+From Here to Recovery 
+What do we do to prevent life from here to eternality? 
+1) Stop depositing biological bombs. Over a hundred thousand people have 
+already been killed by 2019-nCoV. 
+2) Stop any scientific development toward biological warfare, especially fund-
+ing. Set up surveillance systems to destroy and ban biological warfare weapons. 
+3) Implement serum therapy and research for vaccine in the correct way [44] 
+[45] with haste and precision. Everyday counts; watch the death toll board. 
+4) Focus on and fund biomedical research and development. There will be no 
+quality of life if we acquire fatal and debilitating diseases, and nothing matters if 
+we are dead. Dead by 2019-nCoV is extremely painful. 
+5. Conclusion 
+These are COVID-19’s treatment, origin and implications; the good, the bad, 
+and the ugly. Gina Kolata or others may use this platform for me to discuss gene 
+therapies with William French Anderson and Francis Collins 30 years after we 
+created and established this very important field of biomedicine. 
+Acknowledgements 
+P. K. L. is a National Distinguished Expert of CHINA. This work was supported 
+by the Cell Therapy Institute, Wuhan. 
+Conflicts of Interest 
+The author declares no conflicts of interest regarding the publication of this pa-
+per. 
+ 
+References 
+[1]  Sherwood Romer, A. (1945) Vertebrate Paleontology. University of Chicago Press, 
+ 
+DOI: 10.4236/ojrm.2020.92006  58  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+P. K. Law 
+ 
+Chicago, IL, 687 p.  
+[2]  Hand, S.J., et al. (2009) Bats that Walk: A New Evolutionary Hypothesis for the 
+Terrestrial Behaviour of New Zealand’s Endemic Mystacinids. BMC Evolutionary 
+Biology, 9, 169. https://doi.org/10.1186/1471-2148-9-169 
+[3]  Boulikas, T. (1998) Status of Gene Therapy in 1997: Molecular Mechanisms, Disease 
+Targets, and Clinical Applications. Gene Therapy & Molecular Biology, 1, 1-172. 
+[4]  Coutarda, B., Valleb, C., de Lamballeriea, X., Canardb, B., Seidahc, N.G. and De-
+croly, E. (2020) The Spike Glycoprotein of the New Coronavirus 2019-nCoV Con-
+tains a Furinlike Cleavage Site Absent in CoV of the Same Clade. Antiviral Re-
+search, 176, Article ID: 104742. https://doi.org/10.1016/j.antiviral.2020.104742 
+[5]  Kessler, D.A., Siegel, J.P., Noguchi, P.D., Zoon, K.C., Feiden, K.L. and Woodcock, J. 
+(1993) Regulation of Somatic Cell-Therapy and Gene Therapy by the Food and 
+Drug Administration. The New England Journal of Medicine, 329, 1169-1173.  
+https://doi.org/10.1056/NEJM199310143291607 
+[6]  Law, P.K., Bertorini, T., Goodwin, T.G., Chen, M., Fang, Q.W., Li, H.J., et al. (1990) 
+Dystrophin Production Induced by Myoblast Transfer Therapy in Duchenne Mus-
+cular Dystrophy. The Lancet, 336, 114-115.  
+https://doi.org/10.1016/0140-6736(90)91628-N 
+[7]  Wikipedia (2013) William French Anderson.  
+https://en.wikipedia.org/wiki/William_French_Anderson   
+[8]  Kolata, G. (1990) Cell Transplant Found Effective in Muscle Disease: Muscular Dy-
+strophy Patient Showed Strength Increase in First Test. New York Times. 
+[9]  Law, P.K. (2016) Disease Prevention and Alleviation by Human Myoblast Trans-
+plantation. Open Journal of Regenerative Medicine, 5, 25-43.  
+https://doi.org/10.4236/ojrm.2016.52003 
+[10]  Anderson, W.F. (1990) Editorial. The Beginning. Human Gene Therapy, 1, 371-372.  
+https://doi.org/10.1089/hum.1990.1.4-371 
+[11]  Anderson, W.F. (1992) Human Gene Therapy. Science, 256, 808-813.  
+https://doi.org/10.1126/science.1589762 
+[12]  Anderson, W.F. (1995) Gene Therapy. Scientific American, 273, 96. 
+[13]  Crystal, R.G. (1997) Transfer of Genes to Humans: Early Lesions and Obstacles to 
+Success. Science, 270, 404-410. https://doi.org/10.1126/science.270.5235.404 
+[14]  Verma, I. and Somia, N. (1997) Gene Therapy—Promises, Problems and Prospects. 
+Nature, 389, 239-242. https://doi.org/10.1038/38410 
+[15]  Thomas, C.E., Ehrhardt, A. and Kay, M.A. (2003) Progress and Problems with the 
+Use of Viral Vectors for Gene Therapy. Nature Reviews Genetics, 4, 346-358.  
+https://doi.org/10.1038/nrg1066 
+[16]  Culver, K.W. (1996) The First Human Gene Therapy Experiment. In: Culver, K.W., 
+Ed., Gene Therapy: A Primer for Physicians, Mary Ann Liebert, Inc., New York, 
+47-53. 
+[17]  Brenner, M.K. (1995) Human Somatic Gene Therapy: Progress and Problems. 
+Journal of Internal Medicine, 237, 229-239.  
+https://doi.org/10.1111/j.1365-2796.1995.tb01171.x 
+[18]  DeLisi, C. (1988) The Human Genome Project. American Scientist, 76, 488-493. 
+[19]  Venter, J.C., Adams, M.D., Myers, E.W., Li, P.W., Mural, R.J., Sutton, G.G., et al. 
+(2001) The Sequence of the Human Genome. Science, 291, 1304-1351.  
+https://doi.org/10.1126/science.1058040 
+ 
+DOI: 10.4236/ojrm.2020.92006  59  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+P. K. Law 
+ 
+[20]  Venter, D. (2003) A Part of the Human Genome Sequence. Science, 299, 1183-1184. 
+https://doi.org/10.1126/science.299.5610.1183  
+[21]  White House Press Release. Retrieved on 22 July 2006. 
+[22]  DeLisi, C. (2008) Meetings that Changed the World: Santa Fe 1986: Human Ge-
+nome Baby-Steps. Nature, 455, 876- 877. https://doi.org/10.1038/455876a 
+[23]  Collins, F. (2006) The Language of God: A Scientist Presents Evidence for Belief. 
+Free Press, New York. 
+[24]  Beardsley, T. (1990) Profile: Gene Doctor. W. French Anderson Pioneers Gene 
+Therapy. Scientific American, 263, 33.  
+https://doi.org/10.1038/scientificamerican0890-33 
+[25]  Culver, K.W., Osborne, W.R., Miller, A.D., Fleisher, T.A., Berger, M., Anderson, 
+W.F., et al. (1991) Correction of ADA Deficiency in Human T Lymphocytes Using 
+Retroviral-Mediated Gene Transfer. Transplantation Proceedings, 23, 170-171. 
+[26]  Karlsson, S. (1991) Treatment of Genetic Defects in Hematopoietic Cell Function by 
+Gene Transfer. Blood, 78, 2481-2492.  
+https://doi.org/10.1182/blood.V78.10.2481.2481 
+[27]  Gonzaga-Jauregui, C., Lupski, J.R. and Gibbs, R.A. (2012) Human Genome Se-
+quencing in Health and Disease. Annual Review of Medicine, 63, 35-61.  
+https://doi.org/10.1146/annurev-med-051010-162644 
+[28]  Snyder, M., Du, J. and Gerstein, M. (2012) Personal Genome Sequencing: Current 
+Approaches and Challenges. Genes & Development, 24, 423-431.  
+https://doi.org/10.1101/gad.1864110 
+[29]  Collins, F. (2020) Genomic Study Points to Natural Origin of COVID-19. NIH Di-
+rector’s Blog. 
+[30]  Andersen, K.G., Rambaut, A., Lipkin, W.I., Holmes, E.C. and Garry, R.F. (2020) 
+The Proximal Origin of SARS-CoV-2. Nature Medicine, 17. 
+https://doi.org/10.1038/s41591-020-0820-9 
+[31]  Law, P.K. (1992) Myoblast Transplantation. Science, 257, 1329-1330.  
+https://doi.org/10.1126/science.1529326 
+[32]  Ren, W., Qu, X., Li, W., Han, Z., Yu, M., Zhou, P., Zhang, S.Y., Wang, L.F., Deng, 
+H. and Shi, Z (2008) Difference in Receptor Usage between Severe Acute Respira-
+tory Syndrome (SARS) Coronavirus and SARS-Like Coronavirus of Bat Origin. 
+Journal of Virology, 82, 1899-1907. https://doi.org/10.1128/JVI.01085-07 
+[33]  Kuo, L., Godeke, G.J., Raamsman, M.J., Masters, P.S. and Rottier, P.J. (2000) Retar-
+geting of Coronavirus by Substitution of the Spike Glycoprotein Ectodomain: 
+Crossing the Host Cell Species Barrier. Journal of Virology, 74, 1393-1406. 
+https://doi.org/10.1128/JVI.74.3.1393-1406.2000 
+[34]  Casais, R., Dove, B. Cavanagh, D. and Britton, P. (2003) Recombinant Avian Infec-
+tious Bronchitis Virus Expressing a Heterologous Spike Gene Demonstrates that the 
+Spike Protein Is a Determinant of Cell Tropism. Journal of Virology, 77, 9084-9089. 
+https://doi.org/10.1128/JVI.77.16.9084-9089.2003 
+[35]  Haijema, B.J., Volders, H. and Rottier, P.J. (2003) Switching Species Tropism: An 
+Effective Way to Manipulate the Feline Coronavirus Genome. Journal of Virology, 
+77, 4528-4538. https://doi.org/10.1128/JVI.77.8.4528-4538.2003 
+[36]  de Haan, C.A., Kuo, L., Masters, P.S., Vennema, H. and Rottier, P.J. (1998) Corona-
+virus Particle Assembly: Primary Structure Requirements of the Membrane Protein. 
+Journal of Virology, 72, 6838-6850. https://doi.org/10.1128/JVI.72.8.6838-6850.1998 
+ 
+DOI: 10.4236/ojrm.2020.92006  60  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+P. K. Law 
+ 
+[37]  Hou, Y., Peng, C., Yu, M., Li, Y., Han, Z., Li, F., Wang, L.-F. and Shi, Z. (2020) An-
+giotensin-Converting Enzyme 2 (ACE2) Proteins of Different Bat Species Confer 
+Variable Susceptibility to SARS-CoV Entry. Archives of Virology, 155, 1563-1569. 
+https://doi.org/10.1007/s00705-010-0729-6 
+[38]  Yu, M., Stevens, V., Berry, J.D., Crameri, G., McEachern, J., Tu, C., Shi, Z., Liang, 
+G., Weingart, H., Cardosa, J., Eaton, B.T., Wang, L.F. (2008) Determination and 
+Application of Immunodominant Regions of SARS Coronavirus Spike and Nucleo-
+capsid Proteins Recognized by Sera from Different Animal Species. Journal of Im-
+munological Methods, 331, 1-12. https://doi.org/10.1016/j.jim.2007.11.009 
+[39]  Tu, C., Crameri, G., Kong, X., Chen, J., Sun, Y., Yu, M., Xiang, H., Xia, X., Liu, S., 
+Ren, T., Yu, Y., Eaton, B.T., Xuan, H. and Wang, L.F. (2004) Antibodies to SARS 
+Coronavirus in Civets. Emerging Infectious Diseases Journal, 10, 2244-2248. 
+https://doi.org/10.3201/eid1012.040520 
+[40]  Yount, B., et al. (2003) Reverse Genetics with a Full-Length Infectious cDNA of Se-
+vere Acute Respiratory Syndrome Coronavirus. Proceedings of the National Acad-
+emy of Sciences of the United States of America, 100, 12995-13000. 
+https://doi.org/10.1073/pnas.1735582100 
+[41]  Menachery, V.D., Yount Jr., B.L., Debbink, K., Agnihothram, S., Gralinski, L.E., 
+Plante, J.A., Graham, R.L., Scobey, T., Ge, X.-Y., Donaldson, E.F., Randell, S.H., 
+Lanzavecchia, A., Marasco, W.A., Shi, Z.-L. and Baric, R.S. (2015) A SARS-Like 
+Cluster of Circulating Bat Coronaviruses Shows Potential for Human Emergence. 
+Nature Medicine, 21, 1508-1513. https://doi.org/10.1038/nm.3985 
+[42]  Kaiser, J. (2014) Moratorium on Risky Virology Studies Leaves Work at 14 Institu-
+tions in Limbo. ScienceInsider.  
+http://news.sciencemag.org/biology/2014/11/moratoriumrisky-virology-studies-leav
+es-work-14-institutions-limbo  
+[43]  Sheahan, T.P., Sims, A.C., Zho, S., Graham, R.L., Pruijssers, A.J., Agostini, M.L., et 
+al. (2020) An Orally Bioavailable Broad-Spectrum Antiviral Inhibits SARS-CoV-2 in 
+Human Airway Epithelial Cell Cultures and Multiple Coronaviruses in Mice. 
+Science Translational Medicine. https://doi.org/10.1126/scitranslmed.abb5883 
+[44]  Law, P.K. (2020) Emergent Serum Therapy and Antibody Medicine to Counteract 
+Sudden Attacks of COVID-19 and Other Pathogenic Epidemics. Open Journal of 
+Regenerative Medicine, 9, 1-7. https://www.scirp.org/journal/ojrm   
+https://doi.org/10.4236/ojrm.2020.91001 
+[45]  Law, P.K. (2020) System Engineering of Emergent Serum Therapy to Combat 
+COVID-19 and Other Pathogenic Pandemics Open Journal of Regenerative Medi-
+cine, 9, 8-14. https://doi.org/10.4236/ojrm.2020.91002 
+[46]  Millet, J.K. and Whittaker, G.R. (2014) Host Cell Entry of Middle East Respiratory 
+Syndrome Coronavirus after Two-Step, Furin-Mediated Activation of the Spike 
+Protein. Proceedings of the National Academy of Sciences of the United States of 
+America, 111, 15214-15219. https://doi.org/10.1073/pnas.1407087111 
+[47]  https://www.infowars.com/full-transcript-of-smoking-gun-bombshell-interview-pr
+of-francis-boyle-exposes-the-bioweapons-origin-of-the-covid-19-corona-virus  
+[48]  Law, P.K. (2017) Crime against Humanity. Open Journal of Regenerative Medicine, 
+6, 35-45. https://doi.org/10.4236/ojrm.2017.64004 
+[49]  Stennes, M.L. (1997) The Criminalization of Innovation: FDA Misdirection in the 
+Najarian and Burzynski Cases (1997 Third Year Paper). Harvard Law School.  
+http://nrs.harvard.edu/urn-3:HUL.InstRepos:9453691  
+[50]  Seife, C. (2016) FDA Documents Reveal Depths of Internal Rancor over Drug’s Ap-
+ 
+DOI: 10.4236/ojrm.2020.92006  61  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+P. K. Law 
+ 
+proval Process. Undark. https://undark.org/article/fda-eteplirsen-janet-woodcock/  
+[51]  Law, P.K., et al (2019) Myoblasts Provide Safe and Effective Treatments for Heredi-
+tary Muscular Dystrophies, Cardiomyopathies, Type 2 Diabetes, Solid Tumors and 
+Aging. In: Haider, K.H. and Aziz, S., Eds., Stem Cells—From Hype to Real Hope, 
+Walter de Gruyter GmbH, Berlin, 71-97.  
+https://doi.org/10.1515/9783110587043-004 
+[52]  Schoofs, T., Klein, F., Braunschweig, M., et al. (2016) HIV-1 Therapy with Monoc-
+lonal Antibody 3BNC117 Elicits Host Immune Responses against HIV-1. Science, 
+352, 997-1001. https://doi.org/10.1126/science.aaf0972 
+[53]  Lu, C.L., Murakowski, D.K., Bournazos, S., et al. (2016) Enhanced Clearance of 
+HIV-1-Infected Cells by Broadly Neutralizing Antibodies against HIV-1 in Vivo. 
+Science, 352, 1001-1004. https://doi.org/10.1126/science.aaf1279 
+[54]  ter Meulen, J., van den Brink, E.N., Poon, L.L.M., et al. (2006) Human Monoclonal 
+Antibody Combination against SARS Coronavirus: Synergy and Coverage of Escape 
+Mutants. PLoS Medicine, 3, e237. https://doi.org/10.1371/journal.pmed.0030237 
+[55]  ter Meulen, J., Bakker, A.B., van den Brink, E.N., et al. (2004) Human Monoclonal 
+Antibody as Prophylaxis for SARS Coronavirus Infection in Ferrets. The Lancet, 
+363, 2139-2141. https://doi.org/10.1016/S0140-6736(04)16506-9 
+[56]  Chu, C., Cheng, V., Hung, I., et al. (2004) Role of Lopinavir/Ritonavir in the Treat-
+ment of SARS: Initial Virological and Clinical Findings. Thorax, 59, 252-256. 
+https://doi.org/10.1136/thorax.2003.012658 
+[57]  Chan, K.S., Lai, S.T., Chu, C.M. et al. (2003) Treatment of Severe Acute Respiratory 
+Syndrome with Lopinavir/Ritonavir: A Multicentre Retrospective Matched Cohort 
+Study. Hong Kong Medical Journal, 9, 399-406. 
+[58]  Clark, D.R., Jonathan, E.M., et al. (2020) Clinical Evidence Does Not Support Cor-
+ticosteroid Treatment for 2019-nCoV Lung Injury. The Lancet. 
+[59]  WHO (2020) Clinical Management of Severe Acute Respiratory Infection When 
+Novel Coronavirus (nCoV) Infection Is Suspected.  
+https://www.who.int/docs/default-source/coronaviruse/clinical-management-of-no
+vel-cov.pdf  
+[60]  Lee, N., Chan, A., Hui, K.C., et al. (2004) Effects of Early Corticosteroid Treatment 
+on Plasma SARS-Associated Coronavirus RNA Concentrations in Adult Patients. 
+Journal of Clinical Virology, 31, 304-309. https://doi.org/10.1016/j.jcv.2004.07.006 
+[61]  Vincent, M.J., Bergeron, E., Benjannet, S., et al. (2005) Chloroquine Is a Potent In-
+hibitor of SARS Coronavirus Infection and Spread. Virology Journal, 2, 69.  
+https://doi.org/10.1186/1743-422X-2-69 
+[62]  Bin, J., Qi, Z., Ge, X., Wang, R., Yu, J., Shan, S., et al. (2020) Potent Human Neutra-
+lizing Antibodies Elicited by SARS-CoV-2 Infection. BioRxiv Preprint.  
+[63]  Holshue, M.L., DeBolt, C., Lindquist, S., et al. (2020) First Case of 2019 Novel Co-
+ronavirus in the United States. The New England Journal of Medicine, 382, 
+929-936. https://doi.org/10.1056/NEJMoa2001191 
+[64]  Mair-Jenkins, J., Saavedra-Campos, M., Baillie, J.K., et al. (2015) The Effectiveness 
+of Convalescent Plasma and Hyperimmune Immunoglobulin for the Treatment of 
+Severe Acute Respiratory Infections of Viral Etiology: A Systematic Review and Ex-
+ploratory Meta-Analysis. The Journal of Infectious Diseases, 211, 80-90. 
+https://doi.org/10.1093/infdis/jiu396 
+[65]  Chen, L., Xiong, J., Bao, L. and Shi, Y. (2020) Convalescent Plasma as a Potential 
+Therapy for COVID-19. The Lancet Infectious Diseases.  
+ 
+DOI: 10.4236/ojrm.2020.92006  62  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+P. K. Law 
+ 
+https://doi.org/10.1016/S1473-3099(20)30141-9 
+[66]  Zhou, J., Chu, H., Li, C., et al. (2014) Active Replication of Middle East Respiratory 
+Syndrome Coronavirus and Aberrant Induction of Inflammatory Cytokines and 
+Chemokines in Human Macrophages: Implications for Pathogenesis. The Journal of 
+Infectious Diseases, 209, 1331-1342. https://doi.org/10.1093/infdis/jit504 
+[67]  Lai, S.T. (2005) Treatment of Severe Acute Respiratory Syndrome. European Jour-
+nal of Clinical Microbiology & Infectious Diseases, 24, 583-591. 
+https://doi.org/10.1007/s10096-005-0004-z 
+[68]  Soo, Y.O., Cheng, Y., Wong, R., et al. (2004) Retrospective Comparison of Conva-
+lescent Plasma with Continuing High-Dose Methylprednisolone Treatment in SARS 
+Patients. Clinical Microbiology and Infection, 10, 676-678.  
+https://doi.org/10.1111/j.1469-0691.2004.00956.x 
+[69]  Cheng, Y., Wong, R., Soo, Y.O., et al. (2005) Use of Convalescent Plasma Therapy 
+in SARS Patients in Hong Kong. European Journal of Clinical Microbiology & In-
+fectious Diseases, 24, 44-46. https://doi.org/10.1007/s10096-004-1271-9 
+[70]  Chippaux, J.-P., Boyer, L.V. and Alagón, A. (2015) Post-Exposure Treatment of 
+Ebola Virus Using Passive Immunotherapy: Proposal for a New Strategy. Journal of 
+Venomous Animals and Toxins including Tropical Diseases, 21, 3.  
+https://doi.org/10.1186/s40409-015-0003-1 
+[71]  WHO (2020) Use of Convalescent Whole Blood or Plasma Collected from Patients 
+Recovered from Ebola Virus Disease for Transfusion, as an Empirical Treatment 
+during Outbreaks. http://apps.who.int/iris/rest/bitstreams/604045/retrieve   
+[72]  Arabi, Y., Balkhy, H. and Hajeer, A.H. (2015) Feasibility, Safety, Clinical, and La-
+boratory Effects of Convalescent Plasma Therapy for Patients with Middle East 
+Respiratory Syndrome Coronavirus Infection: A Study Protocol. Springerplus, 4, 
+709. https://doi.org/10.1186/s40064-015-1490-9 
+[73]  WHO  (2012)  Middle  East  Respiratory  Syndrome  Coronavirus  (MERS-CoV): 
+MERS-CoV in Republic Korea at a Glance.  
+http://www.wpro.who.int/outbreaks_emergencies/wpro_coronavirus/en  
+[74]  Hung, I.F., To, K.K., Lee, C.K., et al. (2011) Convalescent Plasma Treatment Re-
+duced Mortality in Patients with Severe Pandemic Influenza A (H1N1) 2009 Virus 
+Infection. Clinical Infectious Diseases, 52, 447-456.  
+https://doi.org/10.1093/cid/ciq106 
+[75]  Hung, I.F.N., To, K.K.W., Lee, C.K., et al. (2013) Hyperimmune IV Immunoglobu-
+lin Treatment: A Multicenter Double-Blind Randomized Controlled Trial for Pa-
+tients with Severe 2009 Influenza A(H1N1) Infection. Chest, 144, 464-473. 
+https://doi.org/10.1378/chest.12-2907 
+[76]  Mo, Y. and Fisher, D. (2016) A Review of Treatment Modalities for Middle East 
+Respiratory Syndrome. Journal of Antimicrobial Chemotherapy, 71, 3340-3350. 
+https://doi.org/10.1093/jac/dkw338 
+[77]  Marano, G. Vaglio, S., Pupella, S., et al. (2016) Convalescent Plasma: New Evidence 
+for an Old Therapeutic Tool? Blood Transfusion, 14, 152-157.  
+[78]  Yang, X.M. and Hou, J.F. (2020) The Current Status of Convalescent Plasma’s Ap-
+plication in Acute Viral Infectious Diseases and Its Prospects in the Treatment of 
+New Coronavirus Pneumonia. Chinese Journal of Biologicals, 1-5. 
+[79]  Cunningham, A.C., Goh, H.P. and Koh, D. (2020) Treatment of COVID-19: Old 
+Tricks for New Challenges. Critical Care, 24, 91. 
+https://doi.org/10.1186/s13054-020-2818-6 
+ 
+DOI: 10.4236/ojrm.2020.92006  63  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+P. K. Law 
+ 
+[80]  Amoss, H.L. and Chesney, A.M. (1917) A Report on the Serum Treatment of 
+Twenty-Six Cases of Epidemic Poliomyelitis. Journal of Experimental Medicine, 25, 
+581-608. https://doi.org/10.1084/jem.25.4.581 
+[81]  Luke, T.C., Kilbane, E.M., Jackson, J.L. and Hoffman, S.L. (2006) Meta-Analysis: 
+Convalescent Blood Products for Spanish Influenza Pneumonia: A Future H5N1 
+treatment? Annals of Internal Medicine, 145, 599-609. 
+https://doi.org/10.7326/0003-4819-145-8-200610170-00139 
+[82]  Mcguire, L.W. and Redden, W.R. (1918) The Use of Convalescent Human Serum in 
+Influenza Pneumonia: A Preliminary Report. American Journal of Public Health, 8, 
+741-744. http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1362336  
+https://doi.org/10.1001/jama.1918.26020420013013e 
+[83]  WHO (2013) WHO-International Severe Acute Respiratory and Emerging Infection 
+Consortium (ISARIC) MERS-CoV Outbreak Readiness Workshop.  
+http://www.who.int/csr/disease/coronavirus_infections/MERS_outbreak_readiness_
+workshop.pdf 
+ 
+ 
+ 
+DOI: 10.4236/ojrm.2020.92006  64  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE

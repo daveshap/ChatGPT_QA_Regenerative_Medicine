@@ -1,0 +1,973 @@
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.07.531559; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+Alterations of the TGFb-sequestration complex member ADAMTSL1 levels are 
+associated with muscular defects and rhabdomyosarcoma aggressiveness 
+ 
+Gaëtan  Juban*2,  Adrien  Bertrand-Chapel*1,  Swann  Meyer*1,  Anita  Kneppers#2,  Paul1 
+Huchedé#1, Cindy Gallerne#1,3, Ruth Benayoun1, Enzo Cohen4, Alejandro Lopez-Gonzales1, 
+Sabrina Ben Larbi2, Marion Creveaux1, Lucile Vaille1, Amélie Bouvier1, Marine Théodore4, Laura 
+Broutier1,  Aurélie  Dutour1,  Martine  Cordier-Bussat1,  Jean-Yves  Blay1,  Nathalie 
+Streichenberger5, Cécile Picard5, Nadège Corradini1,6, Valérie Allamand4, Perrine Castets$,3, 
+Rémi Mounier$,2, Marie Castets$1,6. 
+ 
+1Childhood Cancer & Cell Death (C3), LabEx DEVweCAN, Institut Convergence Plascan, Centre 
+Léon Bérard, Centre de Recherche en Cancérologie de Lyon (CRCL), Université Claude Bernard 
+Lyon 1, INSERM 1052, CNRS 5286, 69008 Lyon, France. 
+2Institut NeuroMyoGène, Université Claude Bernard Lyon 1, CNRS UMR 5261, INSERM U1315, 
+Université de Lyon, Lyon, France. 
+3Department of Cell Physiology and Metabolism, Faculty of Medicine, University of Geneva, 1 
+Rue Michel Servet, 1211, Geneva, Switzerland. 
+4Sorbonne Université, INSERM, Institut de Myologie, Centre de Recherche en Myologie, Paris, 
+France. 
+5Department of Pathology, Hôpital Femme-Mère-Enfant, Hospices Civils de Lyon, Claude 
+Bernard Lyon 1 University, 69002 Lyon, France. 
+6Department of Translational Research in Pediatric Oncology PROSPECT, Centre Léon Bérard, 
+69008 Lyon, France. 
+ 
+*co-first authors 
+$ co-last authors 
+Corresponding authors: marie.castets@lyon.unicancer.fr ; remi.mounier@univ-lyon1.fr 
+ 
+   
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.07.531559; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+ABSTRACT 
+ 
+Rhabdomyosarcoma (RMS) is the most frequent form of paediatric soft-tissue sarcoma and 
+remains a medical challenge, holding in failure current therapeutic strategies. RMS shares 
+histological features with cells of the muscle lineage and this cancer is thought to arise from 
+malignant  transformation  of  myogenic  precursors.  It  has  been  proposed  that  RMS  and 
+myogenesis could represent the “Jekyll and Hyde” of skeletal muscle. The underlying idea is 
+that some early steps of myogenic differentiation are blocked in RMS, and that understanding 
+how the normal process has gone awry could help to decipher the biological underpinnings of 
+tumorigenesis and tumor escape.  
+ 
+It is widely agreed that extracellular matrix (ECM) interferes in skeletal muscle regeneration 
+and that defects in ECM components are clinically significant. The challenge is now to decipher 
+actors and mechanisms responsible for the transmission of signals to muscle cells and the 
+subsequent alterations that could be associated with RMS.  
+ 
+Using an original transgenic mice model, we show here that ADAMTSL1 is involved in skeletal 
+muscle regeneration. As previously reported for other members of its family, ADAMTSL1 is 
+part of the TGF-b-ECM-sequestering complex and likely positively regulates TGF-b-pathway 
+activity. Last, we observed that ADAMTSL1 expression behaves as a strong prognostic factor 
+in the aggressive fusion-positive RMS and correlates with a neural-like phenotype of tumor 
+cells, resulting from gain of SMAD2/3/4 targets. 
+ 
+ 
+   
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.07.531559; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+INTRODUCTION 
+ 
+Rhabdomyosarcoma  (RMS)  is  the  most  frequent  form  of  pediatric  soft-tissue  sarcoma, 
+accounting  for  5%  of  solid  pediatric  tumors1.  Two  major  histological  subtypes  are 
+distinguished: alveolar RMS (ARMS) driven by PAX3-FOXO1 or PAX7-FOXO1 translocations in 
+80% of cases, and embryonal RMS (ERMS), which are genetically heterogeneous. RMS shares 
+histological features with cells of the skeletal muscle lineage and high expression levels of 
+myogenic proteins such as MyoD, Myogenin, and Desmin are also observed in tumors. RMS 
+are thought to arise, at least in part, from malignant transformation of skeletal muscle 
+precursors2. The notion that the molecular pathogenesis of myogenic cancers, and notably 
+RMS,  may  share  similarities  with  muscular  dystrophies  has  begun  to  emerge3.  Indeed, 
+increased  propensity  to  develop  RMS  has  been  reported  in  some  murine  models  of 
+dystrophies4. This is thought to result notably from the induction of inflammation, fibrosis and 
+oxidative stress that accompany both tumor development and muscular dystrophies. Some of 
+the molecules described as deregulated in dystrophies have also been connected to RMS 
+occurrence  and  reciprocally.  Intragenic  deletions  in  dystrophin,  mutated  in  Duchenne 
+Muscular Dystrophy, are one of the underlying causes of tumor escape in RMS5. Proteins 
+related to DUX4, whose gain of expression is now pointed to be largely responsible for Facio-
+Scapulo-Humeral  Dystrophy  (FSHD),  are  also  expressed  in  human  RMS  cell  lines6,7. 
+Reciprocally, significant enrichment of cancer-related genes has been observed among genes 
+altered in FSHD muscle cells, thereby suggesting that pathogenesis of dystrophies and cancers 
+may indeed be driven by modifications of a common set of genes and associated-signaling 
+pathways. 
+ 
+Among these signaling pathways, figures Transforming Growth Factor beta (TGF-β) one.  TGF-
+β is a polypeptide that regulates several aspects of cells physiology in different tissues and has 
+multiple  effects  in  pathological  conditions.  In  skeletal  muscle,  it  has  been  involved  in 
+regulation of muscle growth/size, myogenesis and possibly even stemness8. This cytokine 
+affects skeletal muscle function in diseases, as exemplified with fibrosis in dystrophic muscles9 
+and recently with muscle cachexia observed in some cancers8,10,11. TGF-β also plays a complex 
+role in tumor progression, since it is considered as a tumor suppressor in the early steps of 
+tumorigenesis, and as an oncogene in advanced tumors11. It has notably been shown to inhibit 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.07.531559; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+tumor cells differentiation and to promote proliferation in RMS12. TGF-β is secreted as a latent 
+cytokine that is further sequestered by extracellular matrix (ECM) components. Indeed, the 
+three TGF-β isoforms are synthetized as pro-proteins. After proteolytical cleavage, the pro-
+domain, called LAP (Latency-Associated Peptide (LAP)), remains non-covalently associated to 
+the mature TGF-β moieties, forming a complex called Small Latent Complex (SLC)13. In the 
+endoplasmic  reticulum,  this  SLC  complex  covalently  interacts  with  Latent-Transforming 
+Growth Factor-b binding proteins (LTBP) to form the Large Latent Complex (LLC). Since LTBP1, 
+2, 3 and 4 are microfibril-associated proteins that bind to fibrillin, the LLC is incorporated to 
+the ECM and TGF-β is stored in this latent form that is unable to bind to cell-surface 
+receptors13. Once released from the LAP pro-domain, TGF-β binds to TβRI and TβRII receptors, 
+which trigger the so-called non-canonical and canonical SMAD signaling pathway that leads to 
+changes in gene expression.  
+ 
+The regulation of TGF-β bioavailability within the ECM is therefore crucial for appropriate 
+mobilization and activation of this cytokine. Deciphering the mechanisms underlying the 
+mobilization of latent TGF-β from this local reservoir could shed new light on the role exerted 
+by ECM on skeletal muscle homeostasis on one hand, and on alterations associated to 
+tumorigenesis in RMS on the other hand. Very little is known about alterations of ECM in RMS, 
+but some ECM proteins have been characterized as biomarkers14.  
+ 
+Here, we decided to study the role of ADAMTSL1 [a disintegrin and metalloprotease domain 
+with thrombospondin motifs)-like 1] in these processes. ADAMTSL1 is the first identified 
+member of a family of ECM-associated proteins that are closely related to ADAMs and 
+ADAMTS metalloproteinases, but devoid of enzymatic activity15. The role of ADAMTSL1 in 
+mammals  remains  unknown.  Interestingly,  high  expression  levels  of  ADAMTSL1  were 
+detected/described in skeletal muscle15. Moreover, 3 of the 7 members of the ADAMTSL 
+family,  namely  ADAMTSL2,  3  and  6,  are  part  of  the  ECM  complex  regulating  TGF-β 
+bioavailability16–18. In line with these issues, we show here that ADAMTSL1 contributes to 
+skeletal muscle homeostasis by modulating TGF-b bioavailability, and that the subsequent 
+impairment of its function is involved in RMS phenotype, and notably behaves as a prognostic 
+factor in the most aggressive fusion-positive ones. 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.07.531559; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+RESULTS 
+ 
+Loss of ADAMTSL1 induces mild spontaneous muscular phenotype during ageing but is 
+involved in muscle regeneration as a FAP-secreted protein. 
+Since ADAMTSL1 was described as mostly expressed in skeletal muscles15, we analysed its 
+function in this tissue by characterizing an original Adamtsl1 KO mice, generated via MMRRC 
+repository, through constitutive excision of exon 1 (Figure 1A). We validated the deletion of 
+Adamtsl1 exon 1 in progeny using specific primers (Figure S1A). Adamtsl1+/- and Adamtsl1-/- 
+mice were born at expected mendelian frequencies, healthy and fertile.  
+We confirmed that the transcription of Adamtsl1 is significantly turned off in skeletal muscles 
+of homozygous KO animals as compared to their wild-type (WT) littermates (Figure 1A). Of 
+note, ADAMTSL1 KO mice are identifiable by a kink at the end of the tail (Figure S1B). Loss of 
+ADAMTSL1 is not associated with obvious changes in skeletal muscle organization in young 
+animals (data not shown). However, defects can be observed in KO animals from 6 months of 
+age, with a 20% decrease in mean muscle fiber diameter, especially in fast contraction type 
+IIb fibers (Figure 1B). This muscle fiber hypotrophy is associated with a slight atrophy of the 
+Gastrocnemius+Soleus assembly at 12 months only (Figure S1C). Consistent with progressive 
+muscle weakening during ageing, a typical hunchback is observable in one-year Adamtsl1-/- 
+animals (Figure S1D). These changes were not associated with any difference in the number 
+of Pax7+ cells nor in the percentage of centronucleated fibers, suggesting that the defects may 
+likely result in part from alterations of muscle cell differentiation (Figure S1E-F). We then 
+wondered what its contribution in muscle regeneration could be. To do so, we compared 
+skeletal muscle regeneration after cardiotoxin (CTX) injection in adult KO mice and their wild-
+type counterparts. As shown on Figure 1C, ADAMTSL1 loss is associated with defects in muscle 
+regeneration characterized by lipid droplets accumulation. These defects are not due to 
+intrinsic failure of Adamtsl1 KO satellite cells to differentiate and fuse, as shown by their ability 
+to do so when isolated in vitro (Figure 1D). Of note, the number of Pax7+, a readout of satellite 
+cell self-renewal, are similar in KO and WT animals 28 days post-CTX injection (Figure S1G). 
+Since satellite cells phenotype does not seem to be intrinsically affected by ADAMTSL1 loss, 
+we sought to identify whether this matrix protein was secreted by a specific skeletal muscle 
+cell population. Using single-cell analysis, we observed that ADAMTSL1 is mostly expressed by 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.07.531559; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+Fibro-Adipogenic Precursors (FAP, Figure 1E) and that its expression is increased during 
+regeneration in this population (Figure 1F). 
+ 
+Then, loss of FAP-produced ADAMTSL1 is associated with muscular defects during ageing and 
+regeneration. 
+ 
+ADAMTSL1 belongs to the FBN1 matrix complex regulating TGF availability. 
+To clarify the role of ADAMTSL1 in muscle homeostasis, we decided to study it in the context 
+of muscular dystrophy. Indeed, repeated lesions of muscle fibers in patients suffering from 
+Duchenne  dystrophy  trigger  permanent  regeneration  cycles,  finally  leading  to  muscle 
+fibrosis19. By integrating public transcriptomic data from the analysis of muscles’ biopsies of 
+Duchenne patients at different stages of the disease, we observed that ADAMTSL1 expression 
+increases sequentially at the three stages of the disease, i.e. mild, moderate and severe (Figure 
+2A). The same trend is observed for ADAMTSL3 and 4, although less significantly, but not for 
+ADAMTSL2 (Figure S2A). On the contrary, the expression of ADAMTSL5 decreases under the 
+same conditions. Interestingly, ADAMTSL2, 3 and 6 have been described as matrix proteins, 
+associated with the TGF-β-fibrillin sequestering complex16–18, and TGF-β is one of the main 
+contributors to the muscle fibrosis observed in the context of muscular dystrophy20. Thus, it 
+was tempting to speculate that ADAMTSL1 could play a role in muscle homeostasis by 
+regulating TGF-β bioavailability. As shown on Figure 2B, ADAMTSL1 colocalizes with LTBP1 and 
+FBN1 in the muscle ECM of patients with dystrophy. In addition, we used the PROGENy 
+method to infer downstream apoptotic-response footprint from perturbation-response genes 
+indicative of the TGF-β activity21. This score is significantly increased in moderate grade 
+dystrophic muscle samples as compared to mild grade, and even more significantly between 
+severe and mild grades (Figure S2B), consistent with the activation of this pathway in this 
+pathological context22. As shown in Figure 2C, TGF-β pathway activity is significantly correlated 
+with ADAMTSL1 expression notably in the group of patients with mild dystrophy (Figure 2C). 
+These data suggest that ADAMTSL1 may play a positive role in the regulation of TGF-β 
+bioavailability in muscles and are consistent with analyses performed in mice showing that 
+the expression of 18% of the major target genes of the TGF pathway is significantly altered in 
+muscles from KO mice as compared to wild-type mice (Figure 2D). 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.07.531559; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+Altogether, these data indicate that ADAMTSL1 likely replays a role in muscle regeneration via 
+regulation of TGF-β bioavailability. 
+ 
+ADAMTSL1  expression  positively  correlates  with  prognosis  in  fusion-positive 
+rhabdomyosarcoma and with expression of SMAD3/4 neural-like targets.  
+RMS are thought to result at least in part from defects in the process of myogenesis, with a 
+premature  arrest  of  muscle  cell  differentiation1,23,24.  Considering  the  role  of  TGF-β  in 
+tumorigenesis and its impact on muscle differentiation in RMS12,25,26, we then wondered 
+whether alterations in ADAMTSL1 expression might play a role in RMS. Integration of RNAseq 
+data indicates that ADAMTSL1 expression is significantly lower in RMS than in skeletal muscle 
+samples, in two independent cohorts (Figure 3A and Figure S3A). To go further, we analyzed 
+the clinical value of ADAMTSL1 expression. Interestingly, the integration of transcriptomic 
+data indicates that ADAMTSL1 expression is positively correlated with the prognosis in the so-
+called fusion-positive RMS (FP-RMS), expressing the Pax3/7-FOXO1 translocation, but not in 
+the fusion-negative RMS (FN-RMS), which lack it (Figure 3B-C). Similarly, a high level of 
+methylation of the ADAMTSL1 locus is associated with a poor prognosis in FP-RMS, but not in 
+FN-RMS  (Figure  S3B-C).  To  clarify  the  molecular  identity  and  origin  of  the  prognostic 
+differences observed between tumors with high and low levels of ADAMTSL1, we performed 
+a differential expression (DE) analysis between these two subgroups. Of the 270 DE genes 
+corresponding to the intersection of two independent cohorts (Figure S3D), we observed that 
+64.7%  are  more  expressed  in  the  ADAMTSL1-high  tumors  group  as  compared  to  the 
+ADAMTSL1-low group, as shown on heatmaps (Figures 3D and S3E). Functional gene set 
+enrichment indicate that the ADAMTSL1-high tumors group is robustly defined by neural-
+related pathways, especially some involved in regulation of cell migration/adhesion (Figure 
+3E).  Accordingly,  but  counterintuitively  to  the  positive  prognostic  value  of  ADAMTSL1, 
+ADAMTSL1 expression by 3T3 fibroblasts promotes migration of rhabdomyosarcoma cells of 
+the RH30 fusion-positive line in Boyden chamber experiments (Figure 3F). Last, RMS tumors 
+expressing high level of ADAMTSL, but not those with low levels of this gene, are significantly 
+enriched  in  target  genes  of  SMAD2/3/4,  which  are  the  transcription  factors  activated 
+downstream of TGF-β (Figure 3G). 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.07.531559; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+Then, ADAMTSL1 behaves as a prognostic factor in FP-RMS and likely interfere with tumor cell 
+properties through regulation of TGF-β pathway activity. 
+ 
+DISCUSSION 
+RMS account for 5% of all pediatric tumors. Intensive therapeutic management has improved 
+their 5-year survival from 25% in 1970 to 60-70% since 20002. However, outcome has reached 
+a plateau since that time, despite many randomized chemotherapy trials. Moreover, 2/3 of 
+cured children suffer from long-term side effects of both disease and treatments2,27. This 
+underscores the need to elucidate molecular mechanisms of these malignancies to develop 
+new  therapeutic  strategies,  both  beneficial  for  patients  in  therapeutic  failure  and  with 
+reduced toxicity. 
+ 
+It has been proposed that RMS and myogenesis could represent the “Jekyll and Hyde” of 
+skeletal muscle1. The underlying idea is that some early steps of myogenic differentiation are 
+blocked in RMS: understanding how the normal process has gone awry could help to decipher 
+the biological underpinnings of tumorigenesis and of tumor escape. 
+Here, we show that ADAMTSL1, whose function was yet undefined, likely plays a role in muscle 
+regeneration as a matrix protein, through regulation of the TGF-β pathway, and that alteration 
+of its expression has a direct impact on FP-RMS aggressiveness. 
+ 
+The role of ECM in skeletal muscle regeneration is not well understood, but it is widely agreed 
+that alterations in ECM components are clinically significant. Along this line, two other 
+members of the ADAMTSL family, namely ADAMTSL2 and 6, have been linked to genetic 
+diseases of the Marfanoid spectrum, with mutations identified respectively in geleophysic 
+dysplasia and thoracic aortic aneurysm16,28. Although not related to skeletal muscular defects, 
+both proteins were also shown to be part of the FBN1 complex regulating the bioavailability 
+of  TGF-β17.  Moreover,  ADAMTSL2  was  directly  identified  as  a  negative  regulator  of 
+myofibroblast differentiation through inhibition of TGF-β29. Similarly, KO of ADAMTSL3 is 
+associated with severe cardiac defects in mice, which result from an increase in TGF-β 
+signalling, subsequently impairing myofibroblasts differentiation upon heart failure18. While 
+these data suggest a conserved role of the 6 members of the ADAMTSL family in the regulation 
+of TGF-β release, our results indicate that ADAMTSL1 may play the opposite role, by acting as 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.07.531559; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+a positive regulator of the TGF-β signalling pathway: ADAMTSL1 could thus promote TGF-β 
+release rather than its sequestration in the matrix. Consistently, fatty deposits similar to those 
+observed  in  ADAMTSL1  KO  mice  after  injury  were  observed  in  transgenic  mice  that 
+overexpress the human TGF-β-sequestering LTBP4 protein30, suggesting that ADAMTSL1 and 
+LTBP4 may have antagonistic function on TGF-β pathway. Moreover, ADAMTSL1 expression 
+correlates with TGF-β activation level in patients with Duchenne dystrophy, and its expression 
+increases with disease severity: it remains however to be determined whether gain of 
+ADAMTSL1 is causally involved in muscle degeneration observed in this pathology, or if it is a 
+consequence of muscle fibrosis. 
+ 
+Presence of a regenerative microenvironment in skeletal muscle, coupled with oncogenic 
+alterations in cells, was shown to be sufficient to favor FN-RMS tumorigenesis in mice31. FBN2 
+was also shown to have a prognostic value in FN-RMS, although through a yet undefined 
+mechanism, but further highlighting the clinical relevance of ECM defects in RMS14. In contrast 
+to the gain of ADAMTSL1 observed in dystrophic muscle samples, we show that the loss of 
+ADAMTSL1 is highly significantly correlated with tumor aggressiveness but solely in FP-RMS, 
+which are the most resistant to treatments2. Of note, this prognostic value is not only visible 
+at the transcriptomic level, but also at the DNA methylation one, suggesting that the alteration 
+of ADAMTSL1 expression in tumors may result from epigenetic modifications. Bioinformatic 
+analyses  indicate  that  ADAMTSL1  expression  is  positively  correlated  with  a  neural-like 
+phenotype,  which  has  been  previously  described  by  others  in  FP-RMS24.  It  had  been 
+established  that  the  neuronal  guidance  activity  of  MADD-4,  the  C.  elegans  ortholog  of 
+ADAMTSL1, was dependent on the presence of the netrin-1 receptor, DCC32. Interestingly, DCC 
+is one of the neuronal genes significantly enriched in the ADAMTSL1-high tumor group, 
+suggesting that some mechanisms of action may be conserved across species. The oncogenic 
+valence of the FP-RMS neural state has not been described so far, but we have shown here 
+that it could be associated with a higher migratory ability. Further analyses are however 
+needed to understand how this observation may be compatible with the better prognosis of 
+FP-RMS with the highest ADAMTSL1 expression. Along this line, it was previously shown that 
+ADAMTSL1 may play an oncogenic role in chondrosarcoma through positive regulation of 
+proliferation33, suggesting a pleiotropic role of this protein on tumor cell phenotype, which is 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.07.531559; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+probably an indirect consequence of the complex role of TGF-β in tumor initiation and 
+escape11. 
+ 
+If the precise role of ADAMTSL1 in muscular dystrophies and RMS remains to be fully 
+established, our work makes it a protein worth studying to understand how deregulations of 
+the  skeletal  muscle  matrix  composition  can  create  a  deleterious  microenvironment, 
+particularly conducive to tumor escape. 
+ 
+   
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.07.531559; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+MATERIAL AND METHODS 
+ 
+Design of an ADAMTSL1 knock-out model 
+The B6;129S5-Adamtsl1tm1Lex/Mmucd mouse strain presenting a constitutive deletion of the 
+first exon of ADAMTSL1 was obtained from MMRRC. In brief, targeting vector was constructed 
+using a fragment of ADAMTSL1 gene around exon 1 (NCBI accession: AK045085). Embryonic 
+stem cell electroporation, selection, and culture, as well as generation of chimaeric mice and 
+Southern blot analysis were performed in the MMRRC according to classical procedures 
+(https://www.mmrrc.org/catalog/sds.php?mmrrc_id=32134). Heterozygous mice were then 
+backcrossed at least 10 times in a C57BL/6 background. Double heterozygous ADAMTSL1+/- 
+mice of the offspring were interbred to generate mice homozygous for the ADAMTSL1 exon 1 
+deletion. Routine genotype analysis of mice was performed by PCR assay on DNA purified from 
+tail biopsies (Extract N-Amp Tissue PCR kit, Sigma Aldrich). Wild-type and KO mutant alleles 
+were distinguished using primers available on request. CT-Scan was performed on the animal 
+imaging platform of CRCL. All experiments were performed in accordance with the relevant 
+guidelines and regulations of the animal ethics committee (Authorization no. CLB-2015-024; 
+accreditation of laboratory animal care by CECCAPP, ENS Lyon-PBES). 
+ 
+Quantitative RT–PCR 
+Total RNA was extracted with the RNeasy Fibrous Tissue Mini Kit (Qiagen) and 1 µg was 
+reverse transcribed using the iScript cDNA Synthesis kit (Bio-Rad). Real-time quantitative RT–
+PCR was performed on a LightCycler 2.0 apparatus (Roche) using the Light Cycler FastStart 
+DNA Master SYBERGreen I kit (Roche). Oligonucleotide sequences are available on request. 
+Profiling of TGF-β targets was performed using the RT² Profiler™ PCR Array Pig TGF-β Signaling 
+Targets kit from Qiagen following manufacturers’ instructions. 
+Skeletal muscle injury 
+Prior  injection  of  CTX  (12 mM  in  saline,  Latoxan#L8102),  mice  were  anesthetized  by 
+intraperitoneal injection of ketamine at 0.1 mg/g body weight and xylazine at 0.01 mg/g body 
+weight diluted in saline solution. 50 μl of CTX was then injected into Tibialis Anterior muscles 
+to induce injury, and mice were euthanized 0, or 28 days after the injury.  
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.07.531559; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+Satellite cell cultures – in vitro model of adult myogenesis 
+Skeletal muscle myoblasts derived from WT and KO ADAMTSL1 mice were isolated using the 
+Satellite Cell Isolation Kit MACS protocol (Miltenyi Biotec), as described previously34. 
+MACS isolated Satellite cells were seeded onto Gelatin (Sigma #G1393) coated supports at 
+3000 cells/cm2 and amplified ≤3 passages in proliferation medium. After amplification, MuSC 
+progeny (i.e., myoblasts) were trypsinized and plated at indicated densities onto Matrigel 
+coated supports. To induce differentiation, proliferation medium was removed and replaced 
+by differentiation medium (DMEM F12, 2% Horse serum (HS) (Gibco #16050130), and 1 % PS).  
+ 
+Histological and immunohistochemistry analyses on muscle cryosections and cell cultures 
+For  immunohistochemical  analyses,  muscles  of  interest  were  isolated,  embedded  in 
+tragacanth gum (VWR #ICNA0210479280), frozen in liquid nitrogen cooled isopentane, and 
+stored at -80°C until use. 10 µm-thick cryosections were prepared for hematoxylin-eosin (HE) 
+staining and immunolabeling. HE staining was used to assess the efficiency of CTX injections, 
+and muscles were only kept for further analyses if ≥75% of the muscle area consisted of 
+centrally nucleated fibers. 
+For lipid coloration, sections were fixed in 4% formaldehyde at 4°C during 30 min, and then 
+stained with Sudan Black (Sigma-Aldrich Corp, St. Louis, MO, USA) for 60 minutes. Light 
+microscopy was performed using an upright microscope (Leica and Olympus), and pictures 
+were captured using a monochrome camera (DS-Ri1, Nikon).  
+For immunohistochemistry, muscle cryosections were stained with ADAMTSL1 (Invitrogen 
+MA1-41249), LTBP1 (Abcam ab78294), FBN1 (Abcam ab53076), Laminin (Abcam ab11575) and 
+MHCIIA (DSHB SC-71) antibodies as described previously36. They were mounted in Vectashield 
+DAPI (Vectorlabs) and observed with an Axiophot microscope (Zeiss). Images were captured 
+using the MetaView software (Ropper Scientific). For identification of satellite cells, sections 
+were  fixed  for  20  min  in  4%  paraformaldehyde  (PFA)  at  Room  Temperature  (RT),  and 
+permeabilized for 6 min in 100% methanol at -20°C. After antigen retrieval for 2*5 min in 10 
+mM Citrate buffer at 90°C, sections were saturated in 4% BSA for 2 hr at RT. Sections were 
+then co-labelled overnight at 4°C with primary antibodies directed against Paired Box 7 (Pax7; 
+DSHB; 1:50) and Laminin α1 (Sigma-Aldrich #L9393; 1:100) in 2% BSA. Secondary antibodies 
+were coupled to FITC, Cy3 or Cy5 (Jackson ImmunoResearch Inc.; 1:200) and incubated for 45-
+60 min at 37°C. Nuclear counterstain was performed by 10 sec incubation with Hoechst 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.07.531559; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+(Sigma-Aldrich #14533; 2 µM), and coverslips were mounted with Fluoromount G (Interchim, 
+#FP-483331). 
+ 
+For fusion assay, cultured cells were fixed for 10 min in 4% PFA at RT, permeabilized for 10 
+min in 0.5% Triton X-100 in PBS, and saturated in 4% BSA for 1 hr at room temperature (RT). 
+Cells were then incubated overnight at 4°C with primary antibodies directed Desmin (Abcam 
+#Ab32362; 1:200) in 2% BSA. Secondary antibodies were coupled to FITC, Cy3 or Cy5 (Jackson 
+ImmunoResearch Inc.; 1:200) and incubated for 45-60 min at 37°C. Nuclear counterstain was 
+performed by 10 sec incubation with Hoechst (Sigma-Aldrich #14533; 2 µM), and cells were 
+covered with Fluoromount G (Interchim, #FP-483331).  
+Randomly chosen fields of view from sections or cells cultured on removable chamber slides 
+were acquired using a Zeiss Axio Imager Z1 connected to a Coolsnap Myo camera. For each 
+condition of each experiment, at least 5-10 randomly chosen fields of view were counted. The 
+fusion index was calculated as the percentage of nuclei within a cell containing ≥2 nuclei.  
+ 
+RT-qPCR analysis in various cell populations FACS-sorted from Tibialis Anterior muscle 
+Muscle cell populations were FACS-sorted as previously described37. Briefly, TA muscles were 
+dissociated and digested in DMEM/F12 medium (GIBCO) containing 10 mg/ml of collagenase 
+B and 2.4 U/ml Dispase II (Roche Diagnostics) for 30 min at 37°C under agitation and passed 
+through a 30 µm cell strainer (Myltenyi Biotec). CD45pos and CD45neg cells were separated after 
+incubation with mouse CD45 MicroBeads (Myltenyi Biotec) using a MS column (Myltenyi 
+Biotec) on a MiniMACS Separator (Myltenyi Biotec). CD45pos cells were incubated with mouse 
+FcR Blocking Reagent (Myltenyi Biotec) for 20 min at 4°C in PBS 2% FBS and stained with PE-
+Cy7-conjugated anti-CD45 (25-0451-82, eBioscience), Alexa Fluor 647-conjugated anti-CD64 
+(139322, Biolegend) and PE-conjugated anti-Ly6C (12-5932-82, eBioscience) antibodies for 30 
+min  at  4°C.  CD45neg  cells  were  stained  with  PE-Cy7-conjugated  anti-CD45,  PerCP-Cy5.5-
+conjugated anti-Sca-1 (45-5981-82, eBioscience), Alexa Fluor 647-conjugated anti-a7-integrin 
+(AB0000538, AB lab, University British Columbia), PE-conjugated anti-CD31 (12-0311-82, 
+eBioscience) and FITC-conjugated anti-CD34 (11-0341-82, eBioscience) antibodies for 30 min 
+at 4°C. After addition of DAPI (BD Biosciences) to exclude dead cells, live cells were sorted 
+using a FACS Aria II cell sorter (BD Biosciences). 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.07.531559; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+Total  RNA  was  isolated  using  NucleoSpin  RNA  Plus  XS  kit  (Macheray-Nagel)  and  retro-
+transcribed into cDNA with SuperScript II Reverse Transcriptase (Invitrogen). Quantitative PCR 
+was realized in triplicate on a CFX Connect Real-Time PCR Detection System (Bio-Rad) using 
+LightCycler 480 SYBR Green I Master kit (Roche Diagnostics). Calculation of relative expression 
+was determined by the Bio-Rad CFX ManagerTM software and fold change was normalised as 
+!∆!"#$!"!%&
+Normalised Relative Quantity (or ΔΔCq) for each series, as	𝑁𝑅𝑄 =  where T is the 
+!∆!"’$!"!%&
+target sample, Cal is the calibrator value (i.e. the mean of all sample Cqs of the series) and R 
+is the housekeeping gene Cyclophilin A. Sequence of primers used were as follows: 5’- 
+TGGCTCAGAATGAAGCAGGG-3’ (Adamtsl1 fwd), 5’- AGTAAACACCTGAGTCGCGG-3’ (Adamtsl1 
+rev),  5’-  GTGACTTTACACGCCATAATG  -3’  (Cyclophilin  A  fwd)  and  5’- 
+ACAAGATGCCAGGACCTGTAT -3’ (Cyclophilin A rev). 
+ 
+Cell culture and Migration Assays 
+3T3 and RH30 were cultured according to manufacturers’ instructions. 3T3 stably expressing 
+the short isoform of ADAMTSL1 tagged with GFP (available on request) were established using 
+JetPrime and selected on the basis of their resistance to puromycin. 
+Transwell migration assay was used to evaluate the migration capacity of the cells. 3× 104   3T3 
+fibroblasts, stably overexpressing, or not, ADAMTSL1, were seeded in 24 well plate. After 3 
+days,  Boyden  chambers  (8 µm  pore  size,  Corning  #353097)  were  added  in  3T3  wells. 
+5 × 104 FP-RMS RH30 were seeded in the insert chamber. After 24 hours, RH30 cells were 
+washed with PBS1x, then methanol-fixed for 15 min and stained with crystal violet (0.1%) for 
+20 min. The quantification of cell migration was determined using ImageJ software. 
+ 
+Public scRNA-seq data of muscle tissue 
+UMAP of cell types and ADAMTSL1 expression were made using harmony integrated data 
+collected by the Single-Cell Muscle Project (scMuscle)38, which is available for download at 
+https://datadryad.org/stash/dataset/doi:10.5061%2Fdryad.t4b8gtj34. 
+ 
+Public microarray (gene expression and methylation) datasets 
+GSE109178 (cohort 1, DMD samples) and GSE28511 (cohort 3, skeletal muscle and RMS 
+samples)  datasets  were  downloaded  on  GEO  (www.ncbi.nlm.nih.gov/geo/),  then  log2-
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.07.531559; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+transformed.  Raw  CEL  files  of  ETABM-1202  dataset39  (cohort  4)  were  downloaded  on 
+ArrayExpress  (https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-TABM-1202),  and 
+were normalized using the Robust Multiarray Average (RMA) algorithm (oligo R library v 
+1.58.0)40. The GSE167059 methylation dataset (cohort 5) used for survival analysis was 
+downloaded on R2 Cancer (https://hgserver1.amc.nl/cgi-bin/r2/main.cgi).  
+ 
+Generation and processing of RNA-seq datasets 
+St Jude RMS 
+HTseq count files of St Jude’s RMS tumors (cohort 6) were downloaded on the St Jude Cloud 
+platform (https://www.stjude.cloud) and generated as described41. 
+ 
+Inhouse RMS cohort (cohort 2) 
+Tissue banking and research were conducted according to national ethics guidelines, after 
+obtaining the written informed consent of patients. For RNA-seq library construction of cohort 
+3, total RNAs from tissues were isolated using the AllPrep® DNA/RNA FFPE kit (Qiagen, cat. no. 
+80224) following manufacturer’s instructions. Libraries were prepared with Illumina Stranded 
+mRNA Prep (Illumina, cat. no. 20040534) following recommendations. Quality was further 
+assessed using the TapeStation 4200 automated electrophoresis system (Agilent) with High 
+Sensitivity D1000 ScreenTape (Agilent). All libraries were sequenced (2×100 bp) using Agilent 
+SureSelect RNA XTHS2 All Exon V8 (Agilent, cat. no. G9991A) according to the standard Agilent 
+protocol. 
+Quality control of reads was performed using FastQC (v.0.11.9)42, followed by trimming of 
+Illumina adapter sequences with Cutadapt (v.3.4)43 using the -a CTGTCTCTTATACACATCT and 
+-A CTGTCTCTTATACACATCT parameters. Reads were mapped to the GRCh38 human genome 
+using “two-pass” mode STAR (v.2.7.9)44, with Ensembl v104 annotations. Gene counts were 
+then computed using HTseq-count (v.0.13.5)45 with the following parameters: “--order pos” 
+and “--stranded reverse”. 
+ 
+Data normalization of both datasets 
+HTseq count files were then loaded in R (v 4.2.0) and two filtration steps were applied using 
+the annotations of org.Hs.eg.db (v 3.15.0)46: genes with low counts (less than 10 reads across 
+samples) were removed; non-protein-coding genes were removed. Filtered gene counts were 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.07.531559; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+converted into a DESeq247 object with the design parameter set to account for the sample 
+type (RMS/embryonal muscle/fetal muscle) in the case of the Inhouse cohort, and for the 
+fusion status (FNRMS/FPRMS) in the cohort 6. Counts were then normalized with vst using 
+“blind = FALSE”. 
+To  remove  unwanted  variability  driven  by  technical  factors  in  the  cohort  6,  the 
+removeBatchEffect function (limma R library v 3.50.3)48 was used with the original dataset 
+specified as the variable to consider in the linear model. 
+The package ggplot2 (v 3.3.5)49 was used for graphical representation. 
+ 
+Comparison of ADAMTSL1-High and ADAMTSL1-Low samples 
+Definition of ADAMTSL1 expression groups 
+In both cohorts 4 and 6, patients were stratified according to ADAMTSL1 expression level: 
+samples with ADAMTSL1 levels > 3rd quartile (Q3) formed the high expression group, while 
+samples with ADAMTSL1 levels < 1st quartile (Q1) formed the low expression group. For cohort 
+5,  the  KaplanScan  method  implemented  by  R2  was  used  to  identify  the  cutoff  of  the 
+ADAMTSL1 probe cg14523394, separately for each histology (eRMS/aRMS). 
+ 
+Survival analysis 
+Kaplan-Meier survival analysis was run on cohorts 4 and 5 (ETABM-1202 and GSE167059) for 
+which clinical data were available, using the R packages survminer (v 0.4.9)50 and survival (v 
+3.3-1)51. Log-rank test was used to assess significance between the survival probability of 
+ADAMTSL1 High samples and ADAMTSL1 Low samples, in FNRMS and FPRMS separately, for 
+all survival analysis. 
+ 
+TGF-β pathway activity 
+The R package PROGENy (v 1.18.0)21 was used to assess the activity of the TGF-β pathway 
+using default parameters. Boxplots were made with ggplot2 (v 3.3.5)49. 
+ 
+Differential expression analysis and enrichment 
+Differential expression analysis on cohort 4 was run with the R package limma (v 3.50.3) based 
+on previously defined ADAMTSL1 expression groups, separately for FNRMS/FPRMS. Genes a 
+with a raw p-value cutoff of 0.05 were considered as differentially expressed (DE), yielding 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.07.531559; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+1095 DE genes. For RMS cohort 6, DESeq2 was used to identify differentially expressed genes 
+between ADAMTSL1-high and ADAMTSL1-low samples, separately in FNRMS and FPRMS. The 
+alpha parameter of the “results” function was set to 0.05, and DE genes were identified with 
+an adjusted p-value (FDR) cutoff of 0.05. 
+The EnrichR package (v 3.0)52 was used separately on DE genes upregulated in ADAMTSL1-
+high  samples  and  DE  genes  upregulated  in  ADAMTSL1-low  samples,  with  the  following 
+databases: Gene Ontology (GO) Biological Process 2021, GO Molecular Function 2021, GO 
+Cellular Compartment 2021, KEGG 2021 Human, MSigDB Hallmarks 2020, Reactome 2016 and 
+ChEA 2016. 
+ 
+Correlation analysis 
+Correlations between ADAMTSL1 and all other genes in each fusion subtype (FPRMS/FNRMS) 
+were assessed using Pearson’s coefficient. Genes were considered significantly correlated 
+when unadjusted p-value < 0.05. Venn diagram representation of the significantly correlated 
+genes identified was made with ggvenn (v 0.1.9)53. 
+ 
+Statistical analyses 
+For in vitro experiments, replicates signify independent experiments. For in vivo experiments, 
+replicates signify individual muscles. All results were analysed using unpaired parametric 
+analyses. Statistical significance was determined using two-sided Student’t t tests, or Welch t 
+test in case of unequal variance.  
+ 
+Data availability 
+GSE109178  (cohort  1)  and  GSE28511  (cohort  3)  datasets  were  downloaded  on  GEO 
+(www.ncbi.nlm.nih.gov/geo/).  Cohort  5  data  was  downloaded  on  R2  Cancer 
+(https://hgserver1.amc.nl/cgi-bin/r2/main.cgi). Raw CEL files of cohort 4 (accession code 
+ETABM-1202)  were  downloaded  on  ArrayExpress 
+(https://www.ebi.ac.uk/biostudies/arrayexpress). St Jude dataset (cohort 6) was downloaded 
+on the St Jude Cloud platform (https://www.stjude.cloud). Newly generated RNA-seq data of 
+the Inhouse cohort will be made available on GEO (cohort 2). 
+ 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.07.531559; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+Acknowledgements 
+We thank the patients and their families who consented to participate in this study, as well as 
+the Ligue Nationale contre le Cancer, and the Ligue Contre le Cancer du Rhône, which provided 
+the funding for this project. We also thank clinical teams from IHOPe (Institut d'Hématologie 
+et d'Oncologie Pédiatrique) and HFME (Hôpital Femme Mère Enfant – HCL) for their support 
+and contributions, as well as all the facilities from the CLB and CRCL. We are grateful to 
+Séverine Tabone-Eglinger, Loïc Sebileau and Anne-Sophie Bonne for their help with the 
+management of regulatory procedures.  
+ 
+ 
+   
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.07.531559; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+FIGURE LEGENDS 
+ 
+FIGURE 1: Loss of ADAMTSL1 induces mild skeletal muscle regeneration defects in mice. A. 
+Scheme of Adamtsl1 exon 1 KO strategy and impact on expression of its expression in KO 
+versus WT mice. RT-QPCR were performed on mice Quadriceps (QUAD) and Tibialis Anterior 
+(TA) muscles. Results are mean +/-std, n=3. **: p<0.01, ***: p<0.001, t-test. B. Mean fiber size 
+showing slight hypotrophy in ADAMTSL1 KO mice muscle at 6 and 12 months of age (left 
+panels). 6mo: 6months-old mice. 12 mo: 12 months-old mice. Results are mean+/-std, indexed 
+to mean of control animals; n=3, *: p<0.05, t-test. Representative images of Laminin/MYH4 
+stainings are shown (right panel). C. Impaired muscle regeneration in Tibialis Anterior muscle 
+of Adamtsl1 KO mice after an injury induced by cardiotoxin injection. Quantification of lipid 
+droplets infiltrates in KO mice (n=4) compared to controls (n=4) (left panel). Results are means 
++/-std; p=0.07, t-test. Representative images of muscle histology and lipid droplets infiltrates 
+(Sudan Black staining) in KO mice compared to controls are shown (right panel). D.p.i: Days 
+post injury, H&E: Hematoxylin & Eosin, CTX: cardiotoxin. D. Absence of significant changes in 
+the  fusion  index  of  satellite  cells  derived  from  ADAMTSL1  WT  and  KO  mice.  DM: 
+Differentiation medium. Results are means +/-std. E. UMAP visualization of unified scRNA-seq 
+data of skeletal muscle cell populations (left panel), showing that ADAMTSL1 is mostly 
+expressed  in  Fibro-Adipogenic  Precursors  (FAP)  (right  panel).  F.  RT-qPCR  analysis  of 
+ADAMTSL1 mRNA level in various cell populations FACS-sorted from Tibialis Anterior muscle. 
+Muscles were analysed 0, 1, 2, 4, 7 and 14 days after injury (d.p.i). 
+ 
+FIGURE 2: ADAMTSL1 is linked to the regulation of TGF-β pathway in skeletal muscles. A. 
+Expression of ADAMTSL1 in skeletal muscle samples from patients with Duchenne dystrophy. 
+Analysis was made from GSE109178 microarray cohort (cohort 1). Disease grade was reported 
+in clinical data. **: p<0.01, ***: p<0.001, t-test. B. Colocalization of ADAMTSL1 and LTBP1 in 
+skeletal muscles from patients with muscle dystrophy. ADAMTSL1 and LTBP1 are respectively 
+stained in red and green. Nuclei are counterstained in blue. Representative confocal images 
+of a muscle biopsy from a patient with Ullrich Congenital Muscular Dystrophy are shown. C. 
+Correlation between ADAMTSL1 expression and TGF-β pathway activity inferred from a 
+specific gene response signature using PROGENy algorithm in skeletal muscles from patients 
+with Duchenne dystrophy (cohort 1). The Pearson correlation coefficient is shown for each 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.07.531559; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+disease grade, with its associated p-value. D. Modifications of TGF-β target genes’ expression 
+in ADAMTSL1 KO versus WT animals. TGF-β targets were quantified by Q-RT-PCR in skeletal 
+Tibialis Anterior muscle from 3 months-old mice, using the dedicated kit from Qiagen. Results 
+are mean+/-std; n=3. *: p<0.05, one-sided t-test. 
+ 
+FIGURE 3: ADAMTSL1 expression is a good prognostic marker associated with neural-like 
+phenotype in FP-RMS. A. Expression levels of ADAMTSL1 between normal muscles and FP-
+RMS samples (cohort 2, RNAseq). Differences between groups were tested using wilcoxon 
+signed-rank test with associated statistical probability displayed on top. B-C. Survival analyses 
+of ADAMTSL1 expression value in FP-RMS samples (B) and FN-RMS samples (C) (cohort 4). 
+Kaplan-Meier curves were generated between ADAMTSL1-high and -low groups, generated as 
+defined in Material and Methods section. Differences of overall survival probability between 
+both groups were tested using log-rank tests and associated statistical probabilities are 
+displayed on the graph, for both FP- and FN-RMS cohorts. Number of patients at risk are 
+indicated  in  the  tables  below  the  curves.  D.  Heatmap  representing  the  transcriptomic 
+expression  levels  of  apoptotic  genes  significantly  differentially  expressed  between 
+ADAMTSL1-high and low groups of FP-RMS (cohort 4). Normalized and scaled gene expression 
+levels are color-coded with a blue (low expression) to red (high expression) gradient. Samples 
+in  columns  are  clustered  using  Ward's  method  on  the  inverse  Spearman’s  correlation 
+coefficient matrix. E. Functional enrichment between ADAMTSL1-high and -low groups of FP-
+RMS  (see  Material  and  Methods).  GO_Biological_Process_2021  Enrichment  reveals  a 
+significant enrichment in neural-related pathways in ADAMTSL1-high group. F. Images of a 
+transwell migration assay with RH3 FP-RMS cells cultured for 24 h with 3T3 fibroblasts cells 
+overexpressing, or not, ADAMTSL1 (left panel). Graphs represent mean values +/-std; n=3. *: 
+p<0.05, t-test.G. Functional enrichment between ADAMTSL1-high and -low groups of FP-RMS 
+(see Material and Methods). ChEA_2016 Enrichment reveals a significant enrichment notably 
+in SMAD2/3/4 targets in ADAMTSL1-high group. 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.07.531559; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+References 
+1.  Saab, R., Spunt, S. L. & Skapek, S. X. Myogenesis and rhabdomyosarcoma the Jekyll and 
+Hyde of skeletal muscle. Curr. Top. Dev. Biol. 94, 197–234 (2011). 
+2.  Skapek, S. X. et al. Rhabdomyosarcoma. Nat. Rev. Dis. Primer 5, 1 (2019). 
+3.  Fanzani, A., Monti, E., Donato, R. & Sorci, G. Muscular dystrophies share pathogenetic 
+mechanisms with muscle sarcomas. Trends Mol. Med. 19, 546–554 (2013). 
+4.  Chamberlain, J. S., Metzger, J., Reyes, M., Townsend, D. & Faulkner, J. A. Dystrophin-
+deficient  mdx  mice  display  a  reduced  life  span  and  are  susceptible  to  spontaneous 
+rhabdomyosarcoma. FASEB J. Off. Publ. Fed. Am. Soc. Exp. Biol. 21, 2195–2204 (2007). 
+5.  Chandler, E., Rawson, L., Debski, R., McGowan, K. & Lakhotia, A. Rhabdomyosarcoma 
+in a Patient With Duchenne Muscular Dystrophy: A Possible Association. Child Neurol. Open 8, 
+2329048X211041471 (2021). 
+6.  Sirvent, N., Trassard, M., Ebran, N., Attias, R. & Pedeutour, F. Fusion of EWSR1 with the 
+DUX4 facioscapulohumeral muscular dystrophy region resulting from t(4;22)(q35;q12) in a 
+case of embryonal rhabdomyosarcoma. Cancer Genet. Cytogenet. 195, 12–18 (2009). 
+7.  Sharma, V., Harafuji, N., Belayew, A. & Chen, Y.-W. DUX4 differentially regulates 
+transcriptomes of human rhabdomyosarcoma and mouse C2C12 cells. PloS One 8, e64691 
+(2013). 
+8.  Chen, J. L., Colgan, T. D., Walton, K. L., Gregorevic, P. & Harrison, C. A. The TGF-β 
+Signalling Network in Muscle Development, Adaptation and Disease. Adv. Exp. Med. Biol. 900, 
+97–131 (2016). 
+9.  Juban, G. et al. AMPK Activation Regulates LTBP4-Dependent TGF-β1 Secretion by Pro-
+inflammatory Macrophages and Controls Fibrosis in Duchenne Muscular Dystrophy. Cell Rep. 
+25, 2163-2176.e6 (2018). 
+10.  Waning, D. L. et al. Excess TGF-β mediates muscle weakness associated with bone 
+metastases in mice. Nat. Med. 21, 1262–1271 (2015). 
+11.  Principe,  D.  R.  et  al.  TGF-β:  duality  of  function  between  tumor  prevention  and 
+carcinogenesis. J. Natl. Cancer Inst. 106, djt369 (2014). 
+12.  Bouché,  M.  et  al.  TGF-beta  autocrine  loop  regulates  cell  growth  and  myogenic 
+differentiation in human rhabdomyosarcoma cells. FASEB J. Off. Publ. Fed. Am. Soc. Exp. Biol. 
+14, 1147–1158 (2000). 
+13.  Horiguchi, M., Ota, M. & Rifkin, D. B. Matrix control of transforming growth factor-β 
+function. J. Biochem. (Tokyo) 152, 321–329 (2012). 
+14.  Grass, B. et al. Immunohistochemical detection of EGFR, fibrillin-2, P-cadherin and 
+AP2beta as biomarkers for rhabdomyosarcoma diagnostics. Histopathology 54, 873–879 
+(2009). 
+15.  Hirohata, S. et al. Punctin, a novel ADAMTS-like molecule, ADAMTSL-1, in extracellular 
+matrix. J. Biol. Chem. 277, 12182–12189 (2002). 
+16.  Le Goff, C. et al. ADAMTSL2 mutations in geleophysic dysplasia demonstrate a role for 
+ADAMTS-like  proteins  in  TGF-beta  bioavailability  regulation.  Nat.  Genet.  40,  1119–1123 
+(2008). 
+17.  Tsutsui, K. et al. ADAMTSL-6 is a novel extracellular matrix protein that binds to fibrillin-
+1 and promotes fibrillin-1 fibril formation. J. Biol. Chem. 285, 4870–4882 (2010). 
+18.  Rypdal,  K.  B.  et  al.  ADAMTSL3  knock-out  mice  develop  cardiac  dysfunction  and 
+dilatation with increased TGFβ signalling after pressure overload. Commun. Biol. 5, 1–15 
+(2022). 
+19.  Morgan, J., Butler-Browne, G., Muntoni, F., Patel, K., & skeletal muscle stem cells 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.07.531559; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+involvement in pathology study group. 240th ENMC workshop: The involvement of skeletal 
+muscle stem cells in the pathology of muscular dystrophies 25-27 January 2019, Hoofddorp, 
+The Netherlands. Neuromuscul. Disord. NMD 29, 704–715 (2019). 
+20.  Mázala, D. A. et al. TGF-β-driven muscle degeneration and failed regeneration underlie 
+disease onset in a DMD mouse model. JCI Insight 5, e135703, 135703 (2020). 
+21.  Schubert, M. et al. Perturbation-response genes reveal signaling footprints in cancer 
+gene expression. Nat. Commun. 9, 20 (2018). 
+22.  Ceco, E. & McNally, E. M. Modifying muscular dystrophy through transforming growth 
+factor-β. FEBS J. 280, 4198–4209 (2013). 
+23.  Patel, A. G. et al. The myogenesis program drives clonal selection and drug resistance 
+in rhabdomyosarcoma. Dev. Cell 57, 1226-1240.e8 (2022). 
+24.  Wei, Y. et al. Single-cell analysis and functional characterization uncover the stem cell 
+hierarchies and developmental origins of rhabdomyosarcoma. Nat. Cancer 3, 961–975 (2022). 
+25.  Wang, H. et al. Systematic analysis of the TGF-β/Smad signalling pathway in the 
+rhabdomyosarcoma cell line RD. Int. J. Exp. Pathol. 84, 153–163 (2003). 
+26.  Wang, S. et al. TGF-beta1 signal pathway may contribute to rhabdomyosarcoma 
+development by inhibiting differentiation. Cancer Sci. 101, 1108–1116 (2010). 
+27.  Gatz, S. A. et al. A Perspective on Polo-Like Kinase-1 Inhibition for the Treatment of 
+Rhabdomyosarcomas. Front. Oncol. 9, 1271 (2019). 
+28.  Elbitar, S. et al. Pathogenic variants in THSD4, encoding the ADAMTS-like 6 protein, 
+predispose to inherited thoracic aortic aneurysm. Genet. Med. Off. J. Am. Coll. Med. Genet. 
+23, 111–122 (2021). 
+29.  Rypdal, K. B. et al. The extracellular matrix glycoprotein ADAMTSL2 is increased in heart 
+failure and inhibits TGFβ signalling in cardiac fibroblasts. Sci. Rep. 11, 19757 (2021). 
+30.  Ceco, E. et al. Targeting latent TGFβ release in muscular dystrophy. Sci. Transl. Med. 6, 
+259ra144 (2014). 
+31.  Camboni, M., Hammond, S., Martin, L. T. & Martin, P. T. Induction of a regenerative 
+microenvironment in skeletal muscle is sufficient to induce embryonal rhabdomyosarcoma in 
+p53-deficient mice. J. Pathol. 226, 40–49 (2012). 
+32.  Seetharaman,  A.  et  al.  MADD-4  is  a  secreted  cue  required  for  midline-oriented 
+guidance in Caenorhabditis elegans. Dev. Cell 21, 669–680 (2011). 
+33.  Campbell, V. T. et al. Hedgehog pathway inhibition in chondrosarcoma using the 
+smoothened inhibitor IPI-926 directly inhibits sarcoma cell growth. Mol. Cancer Ther. 13, 
+1259–1269 (2014). 
+34.  Kneppers,  A.  et  al.  AMPKα2  is  a  skeletal  muscle  stem  cell  intrinsic  regulator  of 
+myonuclear  accretion.  2022.11.02.514556  Preprint  at 
+https://doi.org/10.1101/2022.11.02.514556 (2022). 
+35.  Castets et al., P. Selenoprotein N is dynamically expressed during mouse development 
+and detected early in muscle precursors - PubMed. BMC Dev (2009). 
+36.  Castets, P. et al. Satellite cell loss and impaired muscle regeneration in selenoprotein 
+N deficiency. Hum. Mol. Genet. 20, 694–704 (2011). 
+37.  McArthur, S. et al. Annexin A1 drives macrophage skewing to accelerate muscle 
+regeneration through AMPK activation. J. Clin. Invest. 130, 1156–1167 (2020). 
+38.  McKellar, D. W. et al. Large-scale integration of single-cell transcriptomic data captures 
+transitional progenitor states in mouse skeletal muscle regeneration. Commun. Biol. 4, 1280 
+(2021). 
+39.  Missiaglia, E. et al. PAX3/FOXO1 fusion gene status is the key prognostic molecular 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.07.531559; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+marker in rhabdomyosarcoma and significantly improves current risk stratification. J. Clin. 
+Oncol. Off. J. Am. Soc. Clin. Oncol. 30, 1670–1677 (2012). 
+40.  Irizarry,  R.  A.  et  al.  Exploration,  normalization,  and  summaries  of  high  density 
+oligonucleotide array probe level data. Biostat. Oxf. Engl. 4, 249–264 (2003). 
+41.  McLeod, C. et al. St. Jude Cloud: A Pediatric Cancer Genomic Data-Sharing Ecosystem. 
+Cancer Discov. 11, 1082–1099 (2021). 
+42.  Andrews S. (2010) - FastQC A Quality Control tool for High Throughput Sequence Data. 
+https://www.bioinformatics.babraham.ac.uk/projects/fastqc/. 
+43.  Cutadapt  removes  adapter  sequences  from  high-throughput  sequencing  reads  | 
+Martin  |  EMBnet.journal. 
+https://journal.embnet.org/index.php/embnetjournal/article/view/200/479. 
+44.  Dobin, A. et al. STAR: ultrafast universal RNA-seq aligner. Bioinforma. Oxf. Engl. 29, 15–
+21 (2013). 
+45.  Anders, S., Pyl, P. T. & Huber, W. HTSeq--a Python framework to work with high-
+throughput sequencing data. Bioinforma. Oxf. Engl. 31, 166–169 (2015). 
+46.  org.Hs.eg.db. Bioconductor http://bioconductor.org/packages/org.Hs.eg.db/. 
+47.  Love, M. I., Huber, W. & Anders, S. Moderated estimation of fold change and dispersion 
+for RNA-seq data with DESeq2. Genome Biol. 15, 550 (2014). 
+48.  Ritchie, M. E. et al. limma powers differential expression analyses for RNA-sequencing 
+and microarray studies. Nucleic Acids Res. 43, e47 (2015). 
+49.  Wickham, H. Create Elegant Data Visualisations Using the Grammar of Graphics. 
+https://ggplot2.tidyverse.org/?fbclid=IwAR2fH4WF3pUlq9kvhpXelYTg_6fqnZXOrlj526PUXZ7c
+5rMoteUFY4782yg. 
+50.  Kassambara, A., Kosinski, M., Biecek, P. & Fabian, S. survminer: Drawing Survival Curves 
+using ‘ggplot2’. (2021). 
+51.  Therneau, T. M., until 2009), T. L. (original S.->R port and R. maintainer, Elizabeth, A. & 
+Cynthia, C. survival: Survival Analysis. (2023). 
+52.  Jawaid, W. enrichR: Provides an R Interface to ‘Enrichr’. (2022). 
+53.  Yan, L. ggvenn: Draw Venn Diagram by ‘ggplot2’. (2021). 
+ 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.07.531559; this version posted March 8, 2023. The copyright holder for this preprint
+Figure 1.  (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+A B
+Laminin / MHCIIa
+A
+N
+R
+m T
+W
+1 
+sl
+mt
+a
+d
+A
+ve  O
+WT ati K
+KO Rel
+C D
+28 d.p.i
+Sudan Black H&E
+30 000 ȼ/cm2
+T
+W
+DM 0h
+O
+K
+2288  dd..pp.i.i. 48h
+E F
+Adamtsl1
+umap_harmony_2umap_harmony_2−−−111505500Myo●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●n●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●u●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●c●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●l●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●e●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●M●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●i●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●● ●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●(●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●y●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●T●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●o●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●y●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●n●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●p●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●u●●●●●●●e●●●●●●●●●c●●●●● ●●●Il●eIx●N●iT ●)●●●(K BT●●●●CM●●●●●●●●●●●●●● ●●●●●●●●●●●●●y●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●● ●●●●●●●●●●●●●●●●●●●●●●●●●●●●●C●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●e●●●●●●●●●●●●●●●●C●●●●●●●●●●●●●●●●●●●●●●●●●p●●●●●●●●●●●●●●●●y●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●e●●●●●●●●l●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●o●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●e●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●e●●●●●●●●●●●●●●●●●●●●●●●●●●l●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●M●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●s●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●l●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●b●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●● ●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●l●●●●●●●●l●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●I●●●●●●●●●●●●●●●●●●●●●●●l●●●●●●s●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●l●●●●●●●●●●●●●●●●●●●●●2Is●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●a●●●●●●●●●●●●●b●●●●●●●●●●●●●M●●●●●●●●● ●●●●●●●●●●●●●●●s●●●●●●●●●M)●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●t●●●●●●●●●●●●●●●●●●●●2●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●M●●●●●●●●●s●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●a●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●● ●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●/●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●M●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●c●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●P●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●u●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●T●●●●●●●●●●●●●●●●●●●●●N●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●r●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●S●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●r●●●●●●ea●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●o●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●e●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●o●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●M●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●nc●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●C●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●.●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●u●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●g●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●● ●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●r●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●o●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●(●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●o●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●s●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●t●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●o●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●e●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●C●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●r●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●c●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●n●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●.●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●o●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●n●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●F●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●y●●●●●●●●●●●●●●●●●●●●● ●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●x●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●o●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●(●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●p●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●i●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●A●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●t●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●3●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●t●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●C●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●c●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●e●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●o●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●h●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●P●●●●●●●●●●●●●●●●●●●●●●●●c●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●y●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●s●●●●●●●●●●●●●x●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●r●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●i●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●S●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●r●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●l●●●●●●●●●●●●●●●●●●●●●●●t●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●ss●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●3●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●s●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●1●●●●●●●F●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●e●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●m●●●●●● ●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●c●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●A●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●_●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●● ●●●●●●●●●●●●●(●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●(●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●P●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●r●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●l●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●o●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●I●●●●●●●●●●●●●●●●●●●●P●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●1●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●o●●●●●●●●●●●●●●●●●●●●●D●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●n●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●r●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●o●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●_●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●s●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●)●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●o●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●f●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●e●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●t●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●l●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●● ●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●h●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●−●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●a●●●●●●●●●●●●●●●●●●●●●●●h●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●n●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●(●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●i●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●A●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●r●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●m●●●●●●●●●●●●● ●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●)●●●●d●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●M●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●e●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●d●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●r●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●m●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●m●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●i●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●M●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●u●●●●●●●●●●●●●●●●i●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●t●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●p●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●i●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●a●●●●●●●●●●●●●●●●●●●●●●●●●●●●s●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●o●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●c●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●o●●●o●●●●●●●●●●●●●●●●●●●●●●●N●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●c●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●t●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●d●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●F●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●g●●●n●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●M●●●o●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●e●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●l●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●e●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●e●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●A●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●e●●o●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●r●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●u●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●o●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●l●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●y●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●● ●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●n●●c●●●●●●●●●●●●●●●●●●●●P●●●●●i●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●&●●●●●●●●●●●●●●●●●●●●●●●●r●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●n●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●n●●●●●●●●●●●●●●●●●●●●●●●●●●)●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●ya●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●i●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●s●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●c●●●●●●●●●●●●●●●g●●●●●●●●●●●●●●●● ●●●●●●●●●●●●●●●●●●●●●●●●o●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●t●●●●●●●●●●●●●●●●●●●●●●●●●●●●l●●●●●●●●●●●●●●●●●P●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●● ●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●)e●●●●●●●●●●●●●●●●●●●●●●●●●E●●●●●●●●●●●●●●●●)●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●c●●●●●●●●●●●●●●●●●●●●●●●●●●●●(●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●e●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●S●●●●●●●●●●●●●●●●●●●●●●●● ●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●y●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●n●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●(●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●r●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●t●●●●●●●●●●●●●●P●●●●●●●●●●●●●●t●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●d●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●i●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●e●●●●●●●●●●●●●●●●e●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●c●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●a●●●●●●●●●●●●●●●●●●●●●●●o●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●● ●●●●●●●●●●●m●●●●●●●●●●●●●●●●●●●●y●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●(●●●●tt●●●●●●●t●●●C●r●●h●●●●●●●●e)●●●●●●o●●●●●●●●●●●●●●●●●●●●e●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●x●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●s●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●l●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●l●●●●●●●●●●●●●●l●●●●●●●●●●●●●●●●●●●●●●c●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●i●●●●●●●●●●●●●●●●●●●●i●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●n●●●●●●●●●●●●E●●●●●●●●●●●●●●●a●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●l●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●1●●●●●●●●●●●●●●●●●●●●●●●●●●●E●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●g●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●l●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●n●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●● ●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●0●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●n●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●(●●●●●●●●●●●●●●●●●●●●●●●●●)●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●d●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●C●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●+●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●d●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●o●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●)●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●a●●●●●●●●●●o●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●t●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●h●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●p●●●●t●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●h●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●e●●●●●●●●●●●●●●●●●●●●●●●●●●i●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●l●●●●●●●●●●●●●●●●●●●●●●●●●●e●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●l●●●●●●●●●●●●●l●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●a●●●●●●●●●i●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●l●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●a●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●i●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●r●●●●●●●●●●●●●●●a●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●l●●●●●●●●●●●●●●●●●y●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●● ●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●l●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●(●●●●●●●●●●●●●●●● ●●●●●●)●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●A●●●●●●●●●(●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●V●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●r●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●e●●●●●●●●●●●●●●●t●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●e●●●●●●●●●●●●i●●●nry)) 2_ynomrah_pamuumap_harmony_2−−−111505500 0123 ANRm 1LSTMADA evitaleRrebmunllec*321...5553215×××××××1111111000000007777776 0 1 2d.p.i4. 7 14 FSENMMAACPPPPT  apnroti
+−15 −10 −5 0 5 10 15 −15 −10 −5 0 5 10 15
+umumaapp__hahrmaornmy_o1ny_1 umuampap__hhaarmromnyo_1ny_1
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.07.531559; this version posted March 8, 2023. The copyright holder for this preprint
+Figure 2.  (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+A B
+***
+8 p=0.067
+n **
+o
+si
+s
+e
+pr6
+x
+e
+d 
+e
+s
+ali
+m
+or
+1 n4
+L
+S
+T
+M
+A
+D
+A
+2
+0
+Mild Moderate Severe
+C D
+Mild Moderate Severe
+R2=0.53, p=0.036 R2=0.62, p=0.074 R2=0.33, p=0.175
+2
+y 1
+vit
+cti
+a
+y 
+a
+w
+h
+pat 0
+b 
+F
+G
+T
+−1
+−2
+0 2 4 6 0 2 4 6 0 2 4 6
+ADAMTSL1 expression
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.07.531559; this version posted March 8, 2023. The copyright holder for this preprint
+Figure 3. 
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+A B C
+12 p = 7.6e−05 Strata+ ADAMTSL1=High + ADAMTSL1=Low Strata+ ADAMTSL1=High + ADAMTSL1=Low
+1.00 ++ + + 1.00 +
+ession obability0.75 + + obability0.75 ++++++++++++ + + + + + + ++
+1 normalised expr 180 Overall Survival pr00..2550 pL o=g −0.r0a0n0k3+3+ + + Overall Survival pr00..2550 pL o=g −0.r9a6nk
+SL 0.00 0.00
+MT 0 3 Time in6 years 9 12 0 2.5 Time in5 years 7.5 10
+A Number at risk Number at risk
+D
+A ADAMTSL1=High 11 8 2 1 0 ADAMTSL1=High 14 11 6 3 0
+6 ADAMTSL1=Low 11 4 0 0 0 ADAMTSL1=Low 14 8 2 2 0
+0 3 6 9 12 0 2.5 5 7.5 10
+Embryonal muscle RMS Time in years Time in years
+D E GO_Biological_Process_2021
+generation of neurons (GO:0048699)
+axonogenesis (GO:0007409)
+axon guidance (GO:0007411)
+neuron projection development (GO:003117...
+neuron migration (GO:0001764)
+Fusion status neuron projection morphogenesis (GO:0048...
+FPRMS chemical synaptic transmission (GO:00072...
+ADAMTSL1	 neuron differentiation (GO:0030182)
+p-value
+expression group ms synapse assembly (GO:0007416)
+LHoigwh d ter ganglion development (GO:0061548) 0.00005
+e
+Cexepnrteesresido nvst	 Enrich neuron acxeolln− cdeelvl ealdohpemseionnt  ((GGOO::00006017515684)) 00..0000001150
+4 sympathetic nervous system development (...
+2
+0 neuron development (GO:0048666)
+−2
+−4 cell junction assembly (GO:0034329)
+regulation of neuron projection developm...
+anterograde trans−synaptic signaling (GO...
+homophilic cell adhesion via plasma memb...
+SJRHB038_RSJRHB031244_D2SJRHB031244_D1SJRHB030264_D1SJRHB010_DSJRHB030858_D1SJRHB010468_D1SJRHB030787_D1SJRHB030495_D1SJRHB031117_D1SJRHB008_DSJRHB030476_D2SJRHB015_DSJRHB030476_D1SJRHB031848_D1SJST030705_D1SJRHB031225_D1SJRHB019_D negative reagxuolna teioxnte onfs nioenu (rGonO d:0if0fe4r8e6n7ti5..). 0.0 2.5 G5e.0ne cou7n.t5 10.0 12.5
+F G ChEA_2016
+SUZ12 20075857 ChIP−Seq MESCs Mouse
+REST 21632747 ChIP−Seq MESCs Mouse
+RH30 EZH2 27294783 Chip−Seq ESCs Mouse
+3T3-WT
+PAX3−FKHR 20663909 ChIP−Seq RHABDOMYOSAR...
+MTF2 20144788 ChIP−Seq MESCs Mouse
+TOP2B 26459242 ChIP−Seq MCF−7 Human
+SOX2 21211035 ChIP−Seq LN229 Gbm
+CTBP1 25329375 ChIP−Seq LNCAP Human
+RH30 p-value
+3T3-ATL1 ms SMAD4 21799915 ChIP−Seq A2780 Human
+ed ter SMAD2/3 21741376 ChIP−Seq EPCs Human 21ee−−0077
+Enrich JASRUIDZ21 22 01087659825477 4C hCIhPI−PS−eSqe qM MESECFss  MMoouussee 3e−07
+4e−07
+SUZ12 18692474 ChIP−Seq MESCs Mouse
+TCF4 23295773 ChIP−Seq U87 Human
+WT1 25993318 ChIP−Seq PODOCYTE Human
+OLIG2 23332759 ChIP−Seq OLIGODENDROCYTES...
+SUZ12 18974828 ChIP−Seq MESCs Mouse
+YAP1 20516196 ChIP−Seq MESCs Mouse
+RCOR3 21632747 ChIP−Seq MESCs Mouse
+TAL1 26923725 Chip−Seq HEMANGIOBLAST Mou...
+0 25 50 75
+Gene count
+
+NEW PAGE

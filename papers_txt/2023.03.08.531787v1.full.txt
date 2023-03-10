@@ -1,0 +1,931 @@
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531787; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+Loss of Gasdermin D is protective against influenza virus-induced 
+inflammation and mortality  
+ 
+Samuel Speaks1#, Ashley Zani1,2#, Abigail Solstad1, Adam Kenney1,2, Lizhi Zhang1,2, Adrian C. 
+Eddy1,2, Amal O. Amer1,2, Richard Robinson1,2, Chuanxi Cai3, Jianjie Ma3, Emily A. Hemann1,2, 
+Adriana Forero1,2,* and Jacob S. Yount1,2,* 
+ 
+1Department of Microbial Infection and Immunity, The Ohio State University, Columbus, OH 43210 
+2Infectious Diseases Institute, The Ohio State University, Columbus, OH 43210 
+3Department of Surgery, Division of Surgical Science, University of Virginia, Charlottesville, VA 22903 
+ 
+# Equal Contribution 
+* Address correspondence to Jacob.Yount@osumc.edu and Adriana.Forero@osumc.edu 
+ 
+Keywords: Gasdermin D, influenza virus, neutrophil, inflammasome 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531787; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+Abstract 
+Influenza A virus activates cellular inflammasome pathways, though it remains unknown 
+whether many of the effector proteins downstream of inflammasome activation promote virus 
+clearance or instead promote pathological inflammation. We investigated the role of gasdermin 
+D (GSDMD), a pore-forming inflammasome effector protein that allows cellular release of 
+inflammatory molecules and eventual pyroptotic lysis of cells. GSDMD knockout (KO) mice 
+infected with influenza virus exhibited reduced weight loss and mortality compared to infected 
+wild type (WT) mice. Lung viral titers were similar between genotypes, indicating that GSDMD 
+does not directly affect virus replication. Instead, we observed that GSDMD KO mice had less 
+severe lung inflammation, histopathology, and immune cell infiltration, suggesting that GSDMD 
+promotes tissue-damaging immune responses following infection. Global transcriptomic analysis 
+revealed significant decreases in specific inflammatory gene programs in GSDMD KO lungs, 
+including decreased neutrophil chemotaxis and activation gene signatures, which were 
+confirmed by decreased neutrophil elastase measurements and decreased neutrophil numbers 
+in the lung. Indeed, exogenous depletion of neutrophils starting at day 3 post infection in WT 
+mice recapitulated the protective phenotype observed in GSDMD KO mice, implicating 
+neutrophils as central players in the GSDMD-dependent pathological response to influenza 
+virus. Overall, these findings reveal an important role for GSDMD during influenza virus-induced 
+lung inflammation, pathogenesis, and neutrophil accumulation. Therapeutic interventions 
+targeting the GSDMD/neutrophil axis may provide an effective means to treat severe influenza 
+virus infection.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531787; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+Introduction 
+Influenza A virus (IAV) infection remains a threat to global public health with seasonal 
+epidemics affecting nearly 10% of the world’s population annually and emergent global 
+pandemics remaining an ever-present threat 1,2. Exuberant inflammatory immune responses 
+and excessive tissue damage often characterize severe IAV infections. Indeed, IAV is known to 
+trigger multiple inflammatory pathways, including the activation of cellular inflammasomes 
+through multiple mechanisms 3. However, whether inflammasome activation is beneficial or 
+detrimental to the outcome of infection is a topic of debate 4-9. Further, roles for many of the 
+specific effector proteins downstream of inflammasome activation remain unstudied during 
+influenza virus infection. Here, we exaine the role of Gasdermin D (GSDMD), which is cleaved 
+by inflammasome-activated caspases, allowing it to form cellular pores that release 
+inflammatory products and induce pyroptotic cell death 10-13. 
+Investigations of the NLRP3 inflammasome revealed that it can be a double-edged 
+sword during influenza virus infection, driving both beneficial antiviral effects and pathological 
+inflammation 3,6. Knockout of NLRP3 in mice results in accelerated death 5, but partial inhibition 
+of the NLRP3 inflammasome was shown to be beneficial during influenza virus infection 6-8. 
+Previous work from our lab has also shown that mice treated with an experimental therapeutic 
+protein, recombinant human Mitsugumin 53 (MG53, also known as TRIM72), exhibited 
+dramatically reduced morbidity following otherwise lethal influenza virus infection 14. MG53 
+nucleates membrane repair processes and also has anti-inflammatory effects 15. Indeed, the 
+decreased severity of disease in MG53-treated mice corresponded with significantly lower levels 
+of NLRP3  and IL-1 in the lungs of IAV-infected mice 14. Interestingly, these treated mice also 
+exhibited reduced levels of activated GSDMD, suggesting to us that excessive inflammasome 
+activation, including GSDMD activity, contributes to pathological inflammation during influenza 
+virus infection.  
+GSDMD is a member of the pore-forming family of gasdermin proteins, many of which 
+have characterized functions in cell death [8]. Processing of GSDMD involves cleavage of the 
+N-terminal domain from its inhibitory C-terminal domain, allowing the freed N-terminal fragment 
+to assemble into oligomers that stabilize as ring-shaped pores in the plasma membrane 13,16. 
+Formation of these GSDMD pores allows the release of pro-inflammatory cytokines, such as IL-
+1β and IL-18 17-19, which can promote leukocyte recruitment and viral clearance 20,21. Unresolved 
+pore formation can lead to uncontrolled release of additional inflammatory cytosolic 
+components, pyroptotic cell death, and tissue damage 12,21. 
+3 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531787; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+  GSDMD has also been associated with the regulation of neutrophil activity and 
+recruitment to inflamed tissues 9,22. Of the numerous immune cell types important for control of 
+influenza virus infection, neutrophils are among the first to infiltrate sites of infection 23. 
+Beneficial functions of neutrophils include phagocytic activity, cytokine and chemokine release, 
+and formation of neutrophil extracellular traps (NETs), which are traditionally associated with 
+antibacterial activities but also promote an antiviral state 24-28. Conversely, other studies have 
+highlighted the potentially detrimental effect of unchecked neutrophil recruitment characterized 
+by hyperinflammation and poor influenza virus-induced disease outcomes in mice, non-human 
+primates, and humans 4,29-32. Collectively, these observations suggest that neutrophil dynamics 
+may represent a critical determinant of influenza virus pathology. In the present study, we 
+explored the role of GSDMD in IAV infections using GSDMD KO mice and discovered that loss 
+of GSDMD decreases lung inflammation, lung neutrophil accumulation, and mortality during this 
+viral infection. The observed decreases in inflammatory pathology did not affect virus loads or 
+hinder recovery from infection, thus identifying GSDMD as an exciting potential target for 
+decreasing severity of influenza virus infections.   
+ 
+Materials and Methods 
+THP-1 Cell culture – Vector control and and GSDMD KD THP-1 cells were generated by 
+lentiviral shRNA-mediated targeting and were generously provided by Dr. Amal Amer at The 
+Ohio State University. Cells were maintained in RPMI 1640 medium (Fisher scientific) 
+supplemented with 10% EquaFETAL bovine serum (Atlas Biologicals). All cells were cultured in 
+a humidified incubator at 37 °C with 5% CO2. Cells were additionally treated with 25 nM phorbol 
+myristate acetate (PMA) for 3 days as previously described 33 to allow for differentiation into 
+macrophages. 
+ 
+Virus stocks and in vitro infection – Influenza virus A/Puerto Rico/8/34 (H1N1) (PR8, provided 
+by Dr. Thomas Moran of the Icahn School of Medicine at Mt. Sinai) was propagated in 
+embryonated chicken eggs (Charles River Laboratories) and titered as described previously 34. 
+Infection of THP-1 cells with PR8 was done at an MOI of 10 for 48hrs.  
+ 
+Mouse studies – WT and GSDMD KO mice were purchased from Jackson Laboratories. Mice 
+were infected intranasally under anesthesia with isoflurane according to protocols approved by 
+the Ohio State University Institutional Animal Care and Use Committee. Mouse infections were 
+performed with a dose of 50 TCID50 of PR8. For neutrophil depletion experiments, WT mice 
+4 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531787; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+were treated with 0.5 mg anti-mouse Ly6G antibody (InVivoMAb, BE0075-1) or 0.5 mg rat 
+IgG2a isotype control, anti-trinitrophenol antibody (InVivoMAb, BE0089) via intraperitoneal 
+injection on day 3 post infection. From days 4 through 8 post infection, mice were injected with 
+0.2 mg of the same antibodies. For determining lung titers and cytokine levels, tissues were 
+collected and homogenized in 1ml of PBS, flash-frozen, and stored at −80°C prior to titering on 
+MDCK cells or analysis via ELISA. TCID50 values were calculated using the Reed-Muench 
+method.  
+ 
+Western blotting – For detection of protein expression in lung tissue, samples were lysed in a 
+1% SDS buffer (1% SDS, 50mM triethanolamine pH 7.4, 150mM NaCl) containing a cocktail of 
+phosphatase protease inhibitors (Sigma, 4906845001) and protease inhibitors (Thermo 
+Scientific, A32965). The lysates were centrifuged at 15,000 rpm for 10 min and soluble protein 
+supernatents were used for Western blot analysis. Equal amounts of protein (30ug) were 
+separated by SDS-PAGE and transferred onto membranes. Membranes were blocked with 10% 
+non-fat milk in Phosphate-buffered saline with 0.1% Tween-20 (PBST) and probed with 
+antibodies against GSDMD (abcam, ab219800) and actin (abcam, ab3280). For Western 
+blotting of THP-1 cells, samples were lysed in 1% SDS containing protease inhibitors prior to 
+SDS-PAGE separation as described above. Membranes were probed with antibodies against 
+influenza virus nucleoprotein (abcam, ab20343), GSDMD (abcam, ab210070), and GAPDH 
+(Thermo Scientific, ZG003).  
+ 
+Single and multiplex ELISAs – human IL-1β, IL-6, CCL1, and TNF, and  mouse IFNβ and CCL1 
+ELISAs were performed on supernatent from lung homogenates or cell culture supernatants 
+using the respective R&D Systems Duoset ELISA kits (catalogue # DY201, DY206, DY8234, 
+DY272, and DY845) according to manufacturer’s instructions. Mouse TNF-α, IL-6, and IL-1β 
+levels were also assayed via multiplex ELISA (Mesoscale Diagnostics, mouse V-plex pro-
+inflammatory panel 1, K15048D) performed by the OSUMC Center for Clinical Research 
+Management core facility. 
+  
+Flow cytometry – On day 7 post influenza virus infection, mice were euthanized and lungs were 
+homogenized in GentleMACS C tubes (Miltenyi) containing Dnase I (Sigma Aldrich) and type IV 
+collagenase (Worthington Biochemical Corporation). Lungs were processed into single cell 
+suspensions using GentleMACS equipment. Single cell homogenates were blocked in CellBlox 
+(Invitrogen) and viability stain was performed using eFluor 780 Fixable Viability Dye (Invitrogen) 
+5 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531787; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+according to the manufacturer’s instructions. Cells were washed and stained with Invitrogen 
+antibodies for CD45, Ly6G and Ly6C (catalogue number M001T02R02, 46-9668-82, and 48-
+5932-82, respectively) for 30 minutes on ice. Cells were fixed with BD FACS lysis buffer for 10 
+minutes at 4°C, resuspended in PBS, and run on a Cytek Aurora instrument. Count beads 
+(Invitrogen) were added to each sample for quantification of total cell number. Samples were 
+analyzed using FlowJo Software (10.8.1).  
+ 
+Histology – For lung histology (H&E and anti-CD45 staining), lung tissue samples were fixed in 
+10% neutral-buffered formalin at 4°C for 24 hours and then transferred to 70% ethanol. Lungs 
+were embedded in paraffin, sectioned, stained, and imaged by Histowiz (Histowiz.com, 
+Brooklyn, NY, USA). Unbiased electronic quantification of resultant images was performed 
+using ImageJ software and the color deconvolution method as described previously 9,35-37.  
+ 
+RNA sequencing and Functional Enrichment Analysis – RNA was extracted from lung tissue 
+using TRIzol (Invitrogen). RNA library preparation and sequencing was performed by GENEWIZ 
+(GENEWIZ LLC./Azenta US, Inc South Plainfield, NJ, USA) with the following methods, as 
+provided by GENEWIZ:  “The RNA samples received were quantified using Qubit 2.0 
+Fluorometer (ThermoFisher Scientific, Waltham, MA, USA) and RNA integrity was checked 
+using TapeStation (Agilent Technologies, Palo Alto, CA, USA). The RNA sequencing libraries 
+were prepared using the NEBNext Ultra II RNA Library Prep Kit for Illumina using 
+manufacturer’s instructions (New England Biolabs, Ipswich, MA, USA). Briefly, mRNAs were 
+initially enriched with Oligod(T) beads. Enriched mRNAs were fragmented for 15 minutes at 94 
+°C. First strand and second strand cDNA were subsequently synthesized. cDNA fragments 
+were end repaired and adenylated at 3’ends, and universal adapters were ligated to cDNA 
+fragments, followed by index addition and library enrichment by PCR with limited cycles. The 
+sequencing libraries were validated on the Agilent TapeStation (Agilent Technologies, Palo Alto, 
+CA, USA), and quantified by using Qubit 2.0 Fluorometer (ThermoFisher Scientific, Waltham, 
+MA, USA) as well as by quantitative PCR (KAPA Biosystems, Wilmington, MA, USA). The 
+sequencing libraries were multiplexed and clustered onto a flowcell. After clustering, the flowcell 
+was loaded onto the Illumina HiSeq instrument according to manufacturer’s instructions. The 
+samples were sequenced using a 2x150bp Paired End (PE) configuration. Image analysis and 
+base calling were conducted by the HiSeq Control Software (HCS). Raw sequence data (.bcl 
+files) generated from Illumina HiSeq was converted into fastq files and de-multiplexed using 
+Illumina bcl2fastq 2.17 software. One mis-match was allowed for index sequence identification.”  
+6 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531787; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+Raw fastq files were processed, aligned and quantified with a HyperScale architecture 
+developed by ROSALIND (ROSALIND, Inc. San Diego, CA, https://rosalind.bio/). Read 
+Distribution percentages, violin plots, identity heatmaps, and sample MDS plots were generated 
+as part of the quality control step. Statistical analysis for differential gene expression was 
+performed using the “limma” R library 38. The principal component analysis and volcano plots 
+were formatted in PRISM software using numerical values provided by ROSALIND. Heatmaps 
+were generated from gene expression values provided by ROSALIND using Morpheus 
+software. The topGO R library was used to determine local similarities and dependencies 
+between GO terms in order to perform Elim pruning correction. Additional analysis was 
+performed using the REACTOME database 39, PanglaoDB 40, and Ingenuity Pathway Analysis 
+(Qiagen).  
+ 
+Results 
+GSDMD potentiates inflammatory responses and morbidity during severe influenza virus 
+infection in mice 
+To investigate the roles of GSDMD during influenza virus infection, we infected wild type 
+(WT) and GSDMD KO mice with influenza virus strain A/Puerto Rico/8/34 (H1N1) (referred to 
+hereafter as PR8). We first examined lungs for total GSDMD levels, as well as cleaved GSDMD 
+N-terminal fragment indicative of activation, at day 7 post infection via western blotting. Cleaved 
+GSDMD was detected in the lungs of infected WT mice as expected 14, whereas only full-length 
+GSDMD could be seen in lungs from mock-infected WT mice (Fig 1A). GSDMD could not be 
+detected in lungs from infected GSDMD KO mice, confirming the expected lack of GSDMD 
+protein in these animals (Fig 1A). GSDMD KO mice also lost significantly less weight than their 
+WT counterparts starting on day 5 post infection and continuing through day 7 (Fig 1B). The 
+observed weight loss difference may actually underestimate the protective effects of GSDMD 
+deficiency because WT mice had significantly higher mortality rates throughout infection; thus, 
+the sickest animals were removed from the study as they succumbed to infection, skewing the 
+subsequent weight averages. Indeed, over 60% of WT mice succumbed to infection, compared 
+to roughly 10% of GSDMD KO animals, demonstrating a profound protective effect of the loss of 
+GSDMD (Fig 1C).   
+Additional mice were sacrificed on day 7 post infection for analysis of viral titers and 
+inflammatory cytokine levels in the lungs. Virus titers in the lungs of WT and KO mice were 
+similar (Fig 1D), indicating that GSDMD increases the severity of influenza virus infection 
+without directly affecting virus replication. Indeed, GSDMD KO mice on average had decreased 
+7 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531787; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+levels of pro-inflammatory cytokines such as IL-6 and IFNβ, with levels of TNFα showing a 
+statistically significant decrease compared to WT mice (Fig 1E). Interestingly, levels of IL-1β 
+varied widely between animals and did not correlate with animal genotype despite the 
+established role of GSDMD in facilitating release of IL-1β 17-19 (Fig 1E). This is consistent with 
+our previous findings in which GSDMD was required for maximal levels of IL-1β in the lung early 
+in SARS-CoV-2 infection, but was dispensible later in infection 9. We also observed that the 
+chemokine CCL1 was significantly decreased in GSDMD KO lungs compared to WT, consistent 
+with the reported role for GSDMD in immune cell chemotaxis 41,42 (Fig 1E).   
+To determine whether human GSDMD functions similarly to its mouse counterpart in 
+promoting cytokine and chemokine secretion during influenza virus infection, we infected WT 
+and GSDMD knockdown (KD) human THP1 macrophages and measured viral protein and 
+cytokine levels after 48 hours. Consistent with known functions of GSDMD and our in vivo 
+results, we saw a large decrease in IL-1β, IL-6, IFNβ and CCL1 levels secreted by GSDMD KD 
+macrophages despite comparable levels of infection as indicated by detection of by viral 
+nucleoprotein expression by Western blotting (Supplemental Figure 1A-C). Collectively, our 
+results demonstrate that loss of GSDMD protects against severe influenza virus-induced illness 
+without affecting lung virus loads. Likewise, GSDMD broadly promotes release of inflammatory 
+mediators in both mouse and human cells during influenza virus infections. 
+ 
+GSDMD facilitates immune cell recruitment to the lungs during IAV infection 
+Given our results indicating decreased cytokine and chemokine secretion in GSDMD KO 
+lungs, we hypothesized that lack of GSDMD leads to decreased inflammatory pathology 
+following influenza virus infection. Thus, we examined gross lung pathology via hematoxylin and 
+eosin (H&E) staining of lung sections at day 7 post infection. Although all infected lung sections 
+showed areas of cell infiltration and consolidation, WT lungs had more severe pathology with 
+immensely thickened alveolar septa, extensive macrophage, neutrophil, and lymphocyte 
+accumulation, and less open airspace (Fig 2A). Areas of cellular consolidation versus open 
+airspace were quantified to determine relative lung cellularity as a measure of pathology in 
+individual mice 9,36. GSDMD KO mice showed decreased lung pathology via this unbiased 
+quantification method as compared to WT mice (Fig 2B).  
+  We next stained for the hematopoietic immune cell marker CD45 in lung sections to 
+assess whether the decreased cellularity/consolidation that we observed in GSDMD KO versus 
+WT lungs was due to dampened immune cell infiltration. We observed that infected GSDMD KO 
+mouse lungs contained fewer CD45+ immune cells throughout their lung sections when 
+8 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531787; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+compared to infected WT lungs (Fig 3A). Notably, immune cells were often clustered around the 
+peribronchole and perivascular spaces in WT mice compared to more diffuse immune cell 
+staining through the lung tissue of GSDMD KO mice. Quantification of CD45 staining of lung 
+sections from individual mice confirmed a significant decrease in CD45+ cells in GSDMD KO 
+relative to WT lungs (Fig 3B). These results indicate that loss of GSDMD decreases immune 
+cell recruitment to the lung and limits immune-mediated pathology during influenza virus 
+infection, consistent with our observed protection of GSDMD KO mice from influenza virus-
+induced morbidity and mortality. 
+ 
+GSDMD KO mice have altered transcriptional responses following influenza virus 
+infection 
+To further understand the underlying mechanisms contributing to differences in survival 
+and lung damage between WT and GSDMD KO animals, we compared global gene 
+transcriptional responses of WT and GSDMD KO mice following influenza virus infection. 
+Quantitative measurement of total mRNA expression from infected lungs at day 7 post infection 
+showed distinct gene expression programs elicited between WT and GSDMD KO animals as as 
+revealed by principal components analysis (Fig 4A). Statistical analysis of differential gene 
+expression (fold change |3|, p-adj < 0.01) captured 812 genes that were increased in infected 
+WT mice compared to infected GSDMD KO mice, while expression of 447 genes was increased 
+in KOs, for a total of 1259 differentially expressed genes (Fig 4B,C). Gene set enrichment 
+analysis reproducibly identified significant changes in antiviral immune responses between WT 
+and GSDMD KO mice (Fig 4D). Notably, pathways associated with inflammatory defense 
+responses to virus infection were decreased in GSDMD KO lungs. This gene set included 
+interferons (IFNs), IFN-stimulated chemokines, and classical antiviral IFN-stimulated genes 
+such as MX and OAS family genes (Fig 4E). These results are in accord with reports that the 
+canonical GSDMD-dependent cytokine IL-1β can amplify the IFN response via induction of IRF1 
+43,44, which was also decreased in GSDMD KO mice (Fig 4E). In agreement with our ELISA data 
+(Fig 1E), our RNAseq analyses revealed an attenuation of inflammatory cytokine and 
+chemokine gene programs in GSDMD KO lungs in general, with CCL1, a chemokine secreted 
+by activated monocytes, macrophages, and T cells, being the most significantly downregulated 
+gene identified (Fig 4D). Together with our viral titer and ELISA measurements, these gene 
+expression data collectively suggest that dampened inflammatory responses in the absence of 
+GSDMD underly the decreased lung pathology and increased survival of GSDMD KO mice 
+following influenza virus infection.  
+9 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531787; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+ 
+Loss of GSDMD results in decreased neutrophil recruitment to lungs during influenza 
+virus infection 
+In addition to changes in cytokines and chemokines, functional enrichment analysis of 
+differentially expressed genes that intersect with immune cell specific gene expression 
+(PanglaoDB) suggested significant decreases in myeloid cells in GSDMD KO lungs (Fig 5A). 
+This was consistent with observed enrichment of biological pathways involved in granulocytic 
+neutrophil function (Fig 4D). This included changes in genes associated with neutrophil 
+degranulation (Fig 5B) as well as decreases in genes for chemokines that recruit neutrophils, 
+chemokine receptors expressed on neutrophils, and other molecules associated with neutrophil 
+function (Fig 5C). Thus, we examined whether GSDMD was involved in neutrophil recruitment 
+to the lungs during influenza virus infection. We found that infected WT mice exhibited robust 
+neutrophil recruitment to the lungs at day 7 post infection (Fig 5D), while there was no 
+observable increase in neutrophil infiltration in GSDMD KO mice (Fig 5E). This was consistent 
+with a decrease in the levels of neutrophil elastase (ELA2), an indicator of activated neutrophils 
+and clinical marker of disease severity 45, in GSDMD KO as compared to WT lungs (Fig 5F). 
+These results suggest that GSDMD expression is required for the full recruitment of neutrophils 
+to the lung during influenza virus infection.   
+  To probe whether decreased neutrophil infiltration could explain the decrease in 
+influenza virus infection severity that we observed in the GSDMD KO animals, we depleted 
+neutrophils early in infection of WT mice and measured infection outcomes.  Briefly, we treated 
+mice antibodies targeting neutrophils (α-Ly6G) or isotype control antibody, starting at day 3 post 
+infection through day 8 post infection (Fig 6A). This treatment timeline was chosen to allow 
+acute neutrophil responses to proceed uninhibited prior to blockade of a presumptive excessive, 
+pathological response. We confirmed that antibody-mediated depletion led to a marked 
+decrease in total neutrophil numbers, as well as relative percentage of neutrophils compared to 
+the entire immune cell population, in the lungs of α-Ly6G treated mice at day 5 post infection 
+(Fig 6B). The specifity of neutrophil depletion was further confirmed by analyzing total counts 
+and percentages of eosinophils and alveolar macrophages compared to all CD45+ immune 
+cells, which were not significantly different between the two treatment groups. (Fig 6B). When 
+examining morbidity between the cohorts of mice, the α-Ly6G treated mice experienced 
+significantly less influenza virus-induced weight loss than the isotype control treated group (Fig 
+6C). Remarkably, neutrophil depletion was completely protective against lethal infection, 
+10 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531787; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+whereas we observed 60% lethality in isotype control-treated mice (Fig 6D), a result that 
+mirrored the protective effects seen in GSDMD KO mice. 
+  Also similar to results comparing GSDMD KO and WT mice mice, viral titers in the lungs 
+of neutrophil-depleted and control treated mice were not statistically different from one another 
+at either day 5 or day 7 post infection (Fig 6E). We further observed that levels of several 
+inflammatory cytokines, including IL-1β, IL-6, IFNβ and TNF-α, were significantly decreased in 
+the lungs of neutrophil-depleted mice at day 5 post infection (Fig 6F). Likewise, CCL1 levels 
+were commensurately decreased following α-Ly6G treatment, suggesting that neutrophils may 
+potentiate a postive-feedback loop of immune cell chemotaxis (Fig 6F). Finally, we quantified 
+neutrophil elastase in the lungs of -Ly6G treated and isotype control treated mice to further 
+confirm that neutrophil elastase serves as a marker of neutrophil presence and activity. Indeed, 
+we saw decreased neutrophil elastase in the lungs of -Ly6G treated mice, reinforcing our data 
+showing a similar change in GSDMD KO mice with less neutrophil presence (Fig 5F). In sum, 
+our results presented here demonstrate that neutrophil recruitment to the lungs during influenza 
+virus infection is largely dependent on GSDMD and that neutrophils contribute to a pathological 
+inflammatory response and influenza mortality. 
+ 
+Discussion 
+  Our results have identified a detrimental role for GSDMD during influenza virus infection. 
+We found that in the absence of GSDMD, mice experienced reduced morbidity and mortality 
+despite viral burden in the lungs being unaffected (Fig 1). Without contributing to the control of 
+virus titers, we found that GSDMD profoundly contributed to lung inflammation, immune cell 
+recruitment, and histopathology (Fig 1-3). The improved outcome of GSDMD KO mice following 
+influenza virus infection compared to WT mice corresponded to global transcriptional decreases 
+in a multitude of tissue-damaging inflammatory pathways (Fig 4). Additionally, impaired 
+neutrophil chemotaxis and activity gene expression programs in the absence of GSDMD 
+correlated with improved disease outcome, which we subsequently substantiated via exogenous 
+depletion of these immune cells (Fig 5,6). These results suggest that overabundant neutrophils 
+drive disease severity in the context of influenza virus infection. Indeed, our data add to a 
+growing number of studies suggesting  excessive neutrophil recruitment correlates with poor 
+disease outcomes 29-31.  
+Importantly, GSDMD was also required for maximal pro-inflammatory cytokine secretion 
+by human macrophages infected with influenza virus, suggesting that human GSDMD likely also 
+drives inflammation in human influenza virus infections (Supplemental Figure 1). This paralells 
+11 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531787; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+recent data showing GSDMD co-localization with pyroptotic macrophages in the lungs of 
+severely infected macaques, which also had widespread expression of pro-inflammatory 
+cytokines 4. In addition to providing an important paralles between murine, non-human primate, 
+and human GSDMD, these data suggest that GSDMD also regulates cytokine 
+production/secretion in macrophages, which are known targets of influenza virus infections 46,47. 
+Influenza virus infection is among the most common causes of acute respiratory distress 
+syndrome (ARDS) in adults 48. Development of ARDS is marked by bilateral edema and 
+worsened oxygen delivery 49, and a major contributor to these criteria is the unchecked 
+inflammation caused by cellular immune responses activated to control replicating virus. 
+Specifically, neutrophil infiltration and abundance is correlated with the severity of ARDS 50, and 
+neutrophil secretion of tissue damaging enzymes and inflammatory extracellular traps can 
+exacerbate progression of ARDS 48. Likewise, GSDMD-mediated NETosis was recently 
+identified as a driver of disease progression in an LPS-induced model of ARDS 51. Given that 
+GSDMD is a broad promoter of inflammation in response to infection and that there are 
+numerous infectious causes of ARDS, our results suggest that GSDMD may be a potential 
+therapeutic target for mitigating ARDS progression in the context of respiratory infections. 
+While GSDMD is the final effector protein in the pyroptosis pathway, the possibility 
+remains that other intermediate proteins are contributing to the outcome of influenza virus 
+infection. Multiple caspases have been implicated in both positively and negatively regulating 
+infection. Caspase-1 has been shown to exacerbate acute illness but also promote adaptive 
+immunity to influenza virus 52,53, whereas caspase-3 activation during the onset of apoptosis 
+may be crucial for immune antagonism and efficient influenza virus propagation 54,55. Interplay of 
+these proteins, and whether the overlapping pathways they affect are synergistic or 
+compensatory, remains to be determined. 
+Our unexpected results indicating that IL-1β levels are unaffected by the absence of 
+GSDMD, despite its canonical role in IL-1β release 17-19, suggest that there there are redundant 
+mechanisms for pyroptotic cytokine release during influenza virus infection, at least at late 
+timepoints following infection. Indeed, these results are in accord with our published findings 
+that IL-1β levels in the lung at day 2 post infection with SARS-CoV-2 are dependent on 
+GSDMD, but that IL-1β release occurs in a GSDMD-independent manner at later times post 
+infection [18]. Interestingly, we found that loss of GSDMD was not beneficial in SARS-CoV-2 
+infection 9, highlighting intriguing differences in the pathological mechanisms activated by 
+SARS-CoV-2 versus influenza virus that warrant further study. Excitingly, we observed a 
+previously unreported effect of GSDMD in promoting IFNβ expression and production (Fig 1, 4, 
+12 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531787; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+S1), further suggesting that GSDMD potentiates pro-inflammatory responses beyond release of 
+canonical inflammasome molecules. Interestingly, attenuation of a number of pro-inflammatory 
+cytokine responses, including IFNβ, in GSDMD KO mice had no appreciable effect on virus 
+replication. However, it is well established that the pathological, tissue-damaging effects of IFNs 
+continue to accumulate beyond the point at which their antiviral effects peak 56-58. These data 
+suggest that GSDMD KO mice mount a blunted, but sufficient, pro-inflammatory response to 
+combat virus replication without developing the severe morbidity associated with cytokine storm. 
+Overall, we discovered that GSDMD promotes inflammatory lung pathology during 
+influenza virus infection. Importantly, GSDMD is dispensible for virus control, but exacerbates 
+severe illness, thus identifying it as a promising candidate for host-directed therapeutic targeting 
+during influenza virus infection. 
+ 
+Author Contributions 
+Conceptualization: AOA, CC, JM, JSY; Data Curation: AF, JSY; Formal analysis: SS, AZ, AS, 
+ADK, RR, EAH, AF, JSY; Investigation: SS, AZ, AS, ADK, LZ, ACE, JK, EAH; Visualization: SS, 
+AZ, AS, ADK, AF, JSY; Writing – Original Draft: SS, AZ, ADK, JM, AF, JSY; Supervision: JSY; 
+Project Administration: JSY; Funding Acquisition: JSY; Resources: AOA, CC, JM. 
+ 
+Acknowledgments 
+Research in the Yount laboratory is supported by NIH Grants AI130110, AI151230, HL154001, 
+HL157215, and an American Lung Association COVID-19 and Emerging Respiratory Viruses 
+Research Award. AZ was supported by an NSF-GRFP fellowship grant. ADK is supported by an 
+institutional T32 postdoctoral fellowship (NIH grant AI165391). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+13 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531787; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+ 
+ 
+Figure 1: GSDMD promotes inflammation and morbidity following IAV infection. A-I WT and GSDMD KO mice 
+were intranasally infected with 50 TCID50 of PR8. A Western blot of lung lysates taken at day 7 post infection. B 
+Weight loss (*p < 0.05 Mann-Whitney test) from 3 independent experiments. C Survival curve (*p < 0.05 Log-rank 
+(Mantel-Cox) test) from 3 independent experiments. D Viral titers from lung homogenates taken at day 7 post 
+infection from 3 independent experiments. E ELISA quantification of TNFα, IL-6, IFNβ, IL-1β, or CCL1 levels in lung 
+homogenates of WT and GSDMD KO mice at day 7 post infection. (*p < 0.05, t-test). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+14 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531787; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+ 
+ 
+Figure 2: GSDMD exacerbates lung pathology following IAV infection. A Representative H&E images for WT 
+and GSDMD KO mice at day 7 post-infection. Insets show magnified areas of cell infiltration. Scale bars represent 
+2mm and 200um, respectively. B Quantification of H&E staining for entire lung sections of multiple animals in two 
+separate experiments (*p < 0.05, t-test). 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3: GSDMD deficiency attenuates immune cell infiltration to the lung following IAV infection. A 
+Representative CD45+ IHC images for WT and GSDMD KO mice at day 7 post-infection. Insets show magnified 
+areas of CD45+ immune cell infiltration. Scale bars represent 2mm and 200um, respectively. B Quantification of 
+CD45 staining for multiple animals in two separate experiments (** p < 0.01, t-test). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531787; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+ 
+Figure 4: GSDMD is associated with inflammatory gene expression programs. A Principal component analysis 
+comparing WT and GSDMD KO RNA samples. B Volcano plot of differential gene expression comparing WT vs 
+GSDMD KO. Purple, 812 genes upregulated in WT vs KO; Green, 447 genes downregulated in WT vs KO. C Heat 
+map for top genes that show differential expression between GSDMD KOs and WT D Genes decreased in KO versus 
+WT were subjected to pathway and ontology analysis. The top ten most significant GO Biological Processes are 
+shown (-Log10 p-Elim pruning value is graphed) and the significant REACTOME gene set enrichments are shown 
+(p<0.05). All differentially expressed genes were examined using Ingenuity Pathway Analysis and the top five most 
+significant Canonical Pathways are shown. E Heat map for genes from the top most significant GO Biological 
+Process as shown in D (Defense response to virus). 
+ 
+16 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531787; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+ 
+Figure 5: Neutrophil recruitment and chemotaxis is diminished in GSDMD KO mice. A,B RNAseq results as in 
+Figure 4 were further analyzed. A Upregulated genes  in WT versus GSDMD KO lungs were subjected to 
+PanglaoDB analysis and all significant associations with specific cell types are shown.B REACTOME analysis of 
+differentially expressed genes in WT versus GSDMD KO mice identified significant associations with neutrophil 
+degranulation. C Heat map for top differentially regulated genes involved with neutrophil chemotaxis as defined by 
+GO biological processes. D Gating strategy to isolate neutrophils from day 7 lung homogenate using flow cytometry. 
+E Fold increase in the frequency of neutrophils relative to naïve controls for each group (*p < 0.05, **p<0.01, one-way 
+ANOVA). F ELISA quantification of neutrophil elastase levels in lung homogenates of WT and GSDMD KO mice at 
+day 7 post infection. (*p < 0.05, t-test). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+17 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531787; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+ 
+ 
+Figure 6: Neutrophils potentiate severe influenza virus-associated illness. A WT mice were infected with 50 
+TCID50 of PR8. Mice were treated via intraperitoneal (IP) injection with 0.5mg of α-Ly6G antibody or isotype control 
+antibody on day three post infection, followed by 0.2mg of the corresponding antibody on days four through eight. B 
+Representative flow cytometry dot plots showing neutrophil, eosinophil, and alveolar macrophage gating of single-cell 
+suspensions from lungs on day 7 post infection. (**p < 0.005, ****p < 0.0001) C Neutrophil, eosinophil, and alveolar 
+macrophage total number and percentage of CD45+ cells in the lung on day 5 post infection D Weight loss of mice 
+infected as in A that were followed until recovery (*p < 0.005, Mann-Whitney test). E Survival analysis of mice as 
+infected in A. F Viral titers from lung homogenates at day 5 and day 7 post infection. G ELISAs of pro-inflammatory 
+cytokines performed on lung homogenates from day 7 post infection (*p < 0.05, ** p < 0.01, *** p < 0.001, t-test). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+18 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531787; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+ 
+ 
+Supplemental Figure 1: Human GSDMD promotes secretion of pro-inflammatory cytokines in vitro. A Western 
+blotting for PMA-differentiated WT and GSDMD knockdown human THP1 macrophages 48 hours post infection with 
+PR8 at an MOI of 10 (NP = influenza virus nucleoprotein). Three technical replicates from one experiment were 
+probed. B Densitometry quantifaction of NP levels relative to GAPDH in A. C ELISA quantification of IL-6, IFNβ, IL-
+1β, CCL1, or TNF- levels in supernatants from cells infected as in A (*p < 0.05, **p < 0.01, t-test). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+19 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531787; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+References 
+1.  Lee, S.S., Viboud, C., and Petersen, E. (2022). Understanding the rebound of influenza 
+in the post COVID-19 pandemic period holds important clues for epidemiology and 
+control. Int J Infect Dis 122, 1002-1004. 10.1016/j.ijid.2022.08.002. 
+2.  Javanian, M., Barary, M., Ghebrehewet, S., Koppolu, V., Vasigala, V., and Ebrahimpour, 
+S. (2021). A brief review of influenza virus infection. J Med Virol 93, 4638-4646. 
+10.1002/jmv.26990. 
+3.  Seveau, S., Turner, J., Gavrilin, M.A., Torrelles, J.B., Hall-Stoodley, L., Yount, J.S., and 
+Amer, A.O. (2018). Checks and Balances between Autophagy and Inflammasomes 
+during Infection. J Mol Biol 430, 174-192. 10.1016/j.jmb.2017.11.006. 
+4.  Corry, J., Kettenburg, G., Upadhyay, A.A., Wallace, M., Marti, M.M., Wonderlich, E.R., 
+Bissel, S.J., Goss, K., Sturgeon, T.J., Watkins, S.C., et al. (2022). Infiltration of 
+inflammatory macrophages and neutrophils and widespread pyroptosis in lung drive 
+influenza lethality in nonhuman primates. PLoS Pathog 18, e1010395. 
+10.1371/journal.ppat.1010395. 
+5.  Allen, I.C., Scull, M.A., Moore, C.B., Holl, E.K., McElvania-TeKippe, E., Taxman, D.J., 
+Guthrie, E.H., Pickles, R.J., and Ting, J.P. (2009). The NLRP3 inflammasome mediates 
+in vivo innate immunity to influenza A virus through recognition of viral RNA. Immunity 
+30, 556-565. 10.1016/j.immuni.2009.02.005. 
+6.  Tate, M.D., and Mansell, A. (2018). An update on the NLRP3 inflammasome and 
+influenza: the road to redemption or perdition? Curr Opin Immunol 54, 80-85. 
+10.1016/j.coi.2018.06.005. 
+7.  Chung, W.C., Kang, H.R., Yoon, H., Kang, S.J., Ting, J.P., and Song, M.J. (2015). 
+Influenza A Virus NS1 Protein Inhibits the NLRP3 Inflammasome. PLoS One 10, 
+e0126456. 10.1371/journal.pone.0126456. 
+8.  Kuriakose, T., Man, S.M., Malireddi, R.K., Karki, R., Kesavardhana, S., Place, D.E., 
+Neale, G., Vogel, P., and Kanneganti, T.D. (2016). ZBP1/DAI is an innate sensor of 
+influenza virus triggering the NLRP3 inflammasome and programmed cell death 
+pathways. Sci Immunol 1. 10.1126/sciimmunol.aag2045. 
+9.  Eltobgy, M.M., Zani, A., Kenney, A.D., Estfanous, S., Kim, E., Badr, A., Carafice, C., 
+Daily, K., Whitham, O., Pietrzak, M., et al. (2022). Caspase-4/11 exacerbates disease 
+severity in SARS-CoV-2 infection by promoting inflammation and immunothrombosis. 
+Proc Natl Acad Sci U S A 119, e2202012119. 10.1073/pnas.2202012119. 
+10.  Yu, P., Zhang, X., Liu, N., Tang, L., Peng, C., and Chen, X. (2021). Pyroptosis: 
+mechanisms and diseases. Signal Transduct Target Ther 6, 128. 10.1038/s41392-021-
+00507-5. 
+11.  Kayagaki, N., Stowe, I.B., Lee, B.L., O'Rourke, K., Anderson, K., Warming, S., Cuellar, 
+T., Haley, B., Roose-Girma, M., Phung, Q.T., et al. (2015). Caspase-11 cleaves 
+gasdermin D for non-canonical inflammasome signalling. Nature 526, 666-671. 
+10.1038/nature15541. 
+12.  Shi, J., Zhao, Y., Wang, K., Shi, X., Wang, Y., Huang, H., Zhuang, Y., Cai, T., Wang, F., 
+and Shao, F. (2015). Cleavage of GSDMD by inflammatory caspases determines 
+pyroptotic cell death. Nature 526, 660-665. 10.1038/nature15514. 
+13.  Ding, J., Wang, K., Liu, W., She, Y., Sun, Q., Shi, J., Sun, H., Wang, D.C., and Shao, F. 
+(2016). Pore-forming activity and structural autoinhibition of the gasdermin family. Nature 
+535, 111-116. 10.1038/nature18590. 
+14.  Kenney, A.D., Li, Z., Bian, Z., Zhou, X., Li, H., Whitson, B.A., Tan, T., Cai, C., Ma, J., 
+and Yount, J.S. (2021). Recombinant MG53 Protein Protects Mice from Lethal Influenza 
+Virus Infection. Am J Respir Crit Care Med 203, 254-257. 10.1164/rccm.202007-
+2908LE. 
+20 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531787; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+15.  Sermersheim, M., Kenney, A.D., Lin, P.H., McMichael, T.M., Cai, C., Gumpper, K., 
+Adesanya, T.M.A., Li, H., Zhou, X., Park, K.H., et al. (2020). MG53 suppresses 
+interferon-beta and inflammation via regulation of ryanodine receptor-mediated 
+intracellular calcium signaling. Nat Commun 11, 3624. 10.1038/s41467-020-17177-6. 
+16.  Mulvihill, E., Sborgi, L., Mari, S.A., Pfreundschuh, M., Hiller, S., and Muller, D.J. (2018). 
+Mechanism of membrane pore formation by human gasdermin-D. EMBO J 37. 
+10.15252/embj.201798321. 
+17.  Liu, X., Zhang, Z., Ruan, J., Pan, Y., Magupalli, V.G., Wu, H., and Lieberman, J. (2016). 
+Inflammasome-activated gasdermin D causes pyroptosis by forming membrane pores. 
+Nature 535, 153-158. 10.1038/nature18629. 
+18.  Gaidt, M.M., and Hornung, V. (2016). Pore formation by GSDMD is the effector 
+mechanism of pyroptosis. EMBO J 35, 2167-2169. 10.15252/embj.201695415. 
+19.  Aglietti, R.A., Estevez, A., Gupta, A., Ramirez, M.G., Liu, P.S., Kayagaki, N., Ciferri, C., 
+Dixit, V.M., and Dueber, E.C. (2016). GsdmD p30 elicited by caspase-11 during 
+pyroptosis forms pores in membranes. Proc Natl Acad Sci U S A 113, 7858-7863. 
+10.1073/pnas.1607769113. 
+20.  Bent, R., Moll, L., Grabbe, S., and Bros, M. (2018). Interleukin-1 Beta-A Friend or Foe in 
+Malignancies? Int J Mol Sci 19. 10.3390/ijms19082155. 
+21.  Vecchie, A., Bonaventura, A., Toldo, S., Dagna, L., Dinarello, C.A., and Abbate, A. 
+(2021). IL-18 and infections: Is there a role for targeted therapies? J Cell Physiol 236, 
+1638-1657. 10.1002/jcp.30008. 
+22.  Sollberger, G., Choidas, A., Burn, G.L., Habenberger, P., Di Lucrezia, R., Kordes, S., 
+Menninger, S., Eickhoff, J., Nussbaumer, P., Klebl, B., et al. (2018). Gasdermin D plays 
+a vital role in the generation of neutrophil extracellular traps. Sci Immunol 3. 
+10.1126/sciimmunol.aar6689. 
+23.  Chen, X., Liu, S., Goraya, M.U., Maarouf, M., Huang, S., and Chen, J.L. (2018). Host 
+Immune Response to Influenza A Virus Infection. Front Immunol 9, 320. 
+10.3389/fimmu.2018.00320. 
+24.  Ma, Y., Zhang, Y., and Zhu, L. (2021). Role of neutrophils in acute viral infection. Immun 
+Inflamm Dis 9, 1186-1196. 10.1002/iid3.500. 
+25.  Tate, M.D., Deng, Y.M., Jones, J.E., Anderson, G.P., Brooks, A.G., and Reading, P.C. 
+(2009). Neutrophils ameliorate lung injury and the development of severe disease during 
+influenza infection. J Immunol 183, 7441-7450. 10.4049/jimmunol.0902497. 
+26.  Tate, M.D., Brooks, A.G., and Reading, P.C. (2008). The role of neutrophils in the upper 
+and lower respiratory tract during influenza virus infection of mice. Respir Res 9, 57. 
+10.1186/1465-9921-9-57. 
+27.  Tate, M.D., Brooks, A.G., Reading, P.C., and Mintern, J.D. (2012). Neutrophils sustain 
+effective CD8(+) T-cell responses in the respiratory tract following influenza infection. 
+Immunol Cell Biol 90, 197-205. 10.1038/icb.2011.26. 
+28.  Tate, M.D., Ioannidis, L.J., Croker, B., Brown, L.E., Brooks, A.G., and Reading, P.C. 
+(2011). The role of neutrophils during mild and severe influenza virus infections of mice. 
+PLoS One 6, e17618. 10.1371/journal.pone.0017618. 
+29.  Narasaraju, T., Yang, E., Samy, R.P., Ng, H.H., Poh, W.P., Liew, A.A., Phoon, M.C., van 
+Rooijen, N., and Chow, V.T. (2011). Excessive neutrophils and neutrophil extracellular 
+traps contribute to acute lung injury of influenza pneumonitis. Am J Pathol 179, 199-210. 
+10.1016/j.ajpath.2011.03.013. 
+30.  Sugamata, R., Dobashi, H., Nagao, T., Yamamoto, K., Nakajima, N., Sato, Y., Aratani, 
+Y., Oshima, M., Sata, T., Kobayashi, K., et al. (2012). Contribution of neutrophil-derived 
+myeloperoxidase in the early phase of fulminant acute respiratory distress syndrome 
+induced by influenza virus infection. Microbiol Immunol 56, 171-182. 10.1111/j.1348-
+0421.2011.00424.x. 
+21 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531787; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+31.  Zhu, L., Liu, L., Zhang, Y., Pu, L., Liu, J., Li, X., Chen, Z., Hao, Y., Wang, B., Han, J., et 
+al. (2018). High Level of Neutrophil Extracellular Traps Correlates With Poor Prognosis 
+of Severe Influenza A Infection. J Infect Dis 217, 428-437. 10.1093/infdis/jix475. 
+32.  Xu, T., Qiao, J., Zhao, L., Wang, G., He, G., Li, K., Tian, Y., Gao, M., Wang, J., Wang, 
+H., and Dong, C. (2006). Acute respiratory distress syndrome induced by avian influenza 
+A (H5N1) virus in mice. Am J Respir Crit Care Med 174, 1011-1017. 
+10.1164/rccm.200511-1751OC. 
+33.  Lund, M.E., To, J., O'Brien, B.A., and Donnelly, S. (2016). The choice of phorbol 12-
+myristate 13-acetate differentiation protocol influences the response of THP-1 
+macrophages to a pro-inflammatory stimulus. J Immunol Methods 430, 64-70. 
+10.1016/j.jim.2016.01.012. 
+34.  Moltedo, B., Li, W., Yount, J.S., and Moran, T.M. (2011). Unique type I interferon 
+responses determine the functional fate of migratory lung dendritic cells during influenza 
+virus infection. PLoS Pathog 7, e1002345. 10.1371/journal.ppat.1002345. 
+35.  Ruifrok, A.C., and Johnston, D.A. (2001). Quantification of histochemical staining by 
+color deconvolution. Anal Quant Cytol Histol 23, 291-299. 
+36.  Kenney, A.D., Aron, S.L., Gilbert, C., Kumar, N., Chen, P., Eddy, A., Zhang, L., Zani, A., 
+Vargas-Maldonado, N., Speaks, S., et al. (2022). Influenza virus replication in 
+cardiomyocytes drives heart dysfunction and fibrosis. Sci Adv 8, eabm5371. 
+10.1126/sciadv.abm5371. 
+37.  Kenney, A.D., Zani, A., Kawahara, J., Eddy, A.C., Wang, X.L., Mahesh, K.C., Lu, M., 
+Thomas, J., Kohlmeier, J.E., Suthar, M.S., et al. (2023). Interferon-induced 
+transmembrane protein 3 (IFITM3) limits lethality of SARS-CoV-2 in mice. EMBO Rep, 
+e56660. 10.15252/embr.202256660. 
+38.  Ritchie, M.E., Phipson, B., Wu, D., Hu, Y., Law, C.W., Shi, W., and Smyth, G.K. (2015). 
+limma powers differential expression analyses for RNA-sequencing and microarray 
+studies. Nucleic Acids Res 43, e47. 10.1093/nar/gkv007. 
+39.  Gillespie, M., Jassal, B., Stephan, R., Milacic, M., Rothfels, K., Senff-Ribeiro, A., Griss, 
+J., Sevilla, C., Matthews, L., Gong, C., et al. (2022). The reactome pathway 
+knowledgebase 2022. Nucleic Acids Res 50, D687-D692. 10.1093/nar/gkab1028. 
+40.  Franzen, O., Gan, L.M., and Bjorkegren, J.L.M. (2019). PanglaoDB: a web server for 
+exploration of mouse and human single-cell RNA sequencing data. Database (Oxford) 
+2019. 10.1093/database/baz046. 
+41.  Miller, M.D., Wilson, S.D., Dorf, M.E., Seuanez, H.N., O'Brien, S.J., and Krangel, M.S. 
+(1990). Sequence and chromosomal location of the I-309 gene. Relationship to genes 
+encoding a family of inflammatory cytokines. J Immunol 145, 2737-2744. 
+42.  Haque, N.S., Zhang, X., French, D.L., Li, J., Poon, M., Fallon, J.T., Gabel, B.R., 
+Taubman, M.B., Koschinsky, M., and Harpel, P.C. (2000). CC chemokine I-309 is the 
+principal monocyte chemoattractant induced by apolipoprotein(a) in human vascular 
+endothelial cells. Circulation 102, 786-792. 10.1161/01.cir.102.7.786. 
+43.  Orzalli, M.H., Smith, A., Jurado, K.A., Iwasaki, A., Garlick, J.A., and Kagan, J.C. (2018). 
+An Antiviral Branch of the IL-1 Signaling Pathway Restricts Immune-Evasive Virus 
+Replication. Mol Cell 71, 825-840 e826. 10.1016/j.molcel.2018.07.009. 
+44.  Aarreberg, L.D., Esser-Nobis, K., Driscoll, C., Shuvarikov, A., Roby, J.A., and Gale, M., 
+Jr. (2019). Interleukin-1beta Induces mtDNA Release to Activate Innate Immune 
+Signaling via cGAS-STING. Mol Cell 74, 801-815 e806. 10.1016/j.molcel.2019.02.038. 
+45.  Gramegna, A., Amati, F., Terranova, L., Sotgiu, G., Tarsia, P., Miglietta, D., Calderazzo, 
+M.A., Aliberti, S., and Blasi, F. (2017). Neutrophil elastase in bronchiectasis. Respir Res 
+18, 211. 10.1186/s12931-017-0691-x. 
+22 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.03.08.531787; this version posted March 8, 2023. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+46.  Peschke, T., Bender, A., Nain, M., and Gemsa, D. (1993). Role of macrophage 
+cytokines in influenza A virus infections. Immunobiology 189, 340-355. 10.1016/s0171-
+2985(11)80365-7. 
+47.  Cline, T.D., Beck, D., and Bianchini, E. (2017). Influenza virus replication in 
+macrophages: balancing protection and pathogenesis. J Gen Virol 98, 2401-2412. 
+10.1099/jgv.0.000922. 
+48.  Kalil, A.C., and Thomas, P.G. (2019). Influenza virus-related critical illness: 
+pathophysiology and epidemiology. Crit Care 23, 258. 10.1186/s13054-019-2539-x. 
+49.  Force, A.D.T., Ranieri, V.M., Rubenfeld, G.D., Thompson, B.T., Ferguson, N.D., 
+Caldwell, E., Fan, E., Camporota, L., and Slutsky, A.S. (2012). Acute respiratory distress 
+syndrome: the Berlin Definition. JAMA 307, 2526-2533. 10.1001/jama.2012.5669. 
+50.  Grommes, J., and Soehnlein, O. (2011). Contribution of neutrophils to acute lung injury. 
+Mol Med 17, 293-307. 10.2119/molmed.2010.00138. 
+51.  Xie, J., Zhu, C.L., Wan, X.J., Zhao, Z.Z., Meng, Y., Li, P., Guo, Y., Liu, Q., Bian, J.J., 
+Deng, X.M., and Wang, J.F. (2023). GSDMD-mediated NETosis promotes the 
+development of acute respiratory distress syndrome. Eur J Immunol 53, e2250011. 
+10.1002/eji.202250011. 
+52.  Bauer, R.N., Brighton, L.E., Mueller, L., Xiang, Z., Rager, J.E., Fry, R.C., Peden, D.B., 
+and Jaspers, I. (2012). Influenza enhances caspase-1 in bronchial epithelial cells from 
+asthmatic volunteers and is associated with pathogenesis. J Allergy Clin Immunol 130, 
+958-967 e914. 10.1016/j.jaci.2012.07.013. 
+53.  Ichinohe, T., Lee, H.K., Ogura, Y., Flavell, R., and Iwasaki, A. (2009). Inflammasome 
+recognition of influenza virus is essential for adaptive immune responses. J Exp Med 
+206, 79-87. 10.1084/jem.20081667. 
+54.  Wurzer, W.J., Planz, O., Ehrhardt, C., Giner, M., Silberzahn, T., Pleschka, S., and 
+Ludwig, S. (2003). Caspase 3 activation is essential for efficient influenza virus 
+propagation. EMBO J 22, 2717-2728. 10.1093/emboj/cdg279. 
+55.  Galvin, H.D., and Husain, M. (2019). Influenza A virus-induced host caspase and viral 
+PA-X antagonize the antiviral host factor, histone deacetylase 4. J Biol Chem 294, 
+20207-20221. 10.1074/jbc.RA119.010650. 
+56.  Porritt, R.A., and Hertzog, P.J. (2015). Dynamic control of type I IFN signalling by an 
+integrated network of negative regulators. Trends Immunol 36, 150-160. 
+10.1016/j.it.2015.02.002. 
+57.  Guo, X.J., and Thomas, P.G. (2017). New fronts emerge in the influenza cytokine storm. 
+Semin Immunopathol 39, 541-550. 10.1007/s00281-017-0636-y. 
+58.  Teijaro, J.R. (2015). The role of cytokine responses during influenza virus pathogenesis 
+and potential therapeutic options. Curr Top Microbiol Immunol 386, 3-22. 
+10.1007/82_2014_411. 
+ 
+23 
+ 
+
+NEW PAGE

@@ -1,0 +1,704 @@
+www.nature.com/npjregenmed
+ARTICLE OPEN
+ﬁ
+A modi ed apical resection model with high accuracy and
+reproducibility in neonatal mouse and rat hearts
+✉
+YihuaBei1,2 , ChenChen1,2, Xuejiao Hua1, Mingming Yin1,2, XiangminMeng1, Zhenzhen Huang1,2,Weitong Qi1,2, Zhuhua Su1,2,
+✉
+ChangLiu1,2, H.ImmoLehmann3, Guoping Li3, Yu Huang4 and JunjieXiao 1,2
+Neonatalmouseheartcanregenerateafterleftventricle(LV)apicalresection(AR).SincecurrentARrodentmethodisaccomplished
+byresectingLVapexuntilexposureofLVchamber,itisrelativelydifﬁculttooperatereproducibly.Weaimedtodevelopamodiﬁed
+ARmethodwithhighaccuracyandreproducibilityandtoinvestigatewhethercardiacregenerativecapacitycouldbereplicatedin
+neonatalrats.For15%ARofwholeheartweightin1-day-old(P1)neonatalmice,amodiﬁed10μLpipette tipcutto0.48mmin
+internaldiameterwasconnectedtoavacuumpumpworkingat0.06±0.005MPaandgentlykeptintouchwithLVapexfornearly
+butnomorethan12s.LVapexwasresectedbyasingleincisionadjacenttothepipettetip.ThemodiﬁedARmethodinP1mice
+achievedcardiacstructuralandfunctionalrecoveryat21dayspostresection(dpr).Datafromdifferentoperatorsshowedsmaller
+variationofresected LVapexandhigherreproducibility using themodiﬁedAR method.Furthermore, weshowedthat 5% ARof
+wholeheart weightinP1neonatal rats using a modiﬁed200μL pipette tip cutto 0.63mm ininternal diameterledto complete
+regenerationofLVapexandfullpreservationofcardiacfunctionat42dpr.Inconclusion,themodiﬁedARrodentmodelleadsto
+1234567890():,; afnucpncjucRtreiaogtneeanrlee,rsaaentcidvtieomnMooeledfciLcuVilnaaerpm            (e2x0e2cwh3ia)t 8hn:9ihs m;ighshttohpfosc:m/a/odrdgoieia.oncrergiet/yg1e0an.n1ed0r3ar8etip/osrn4o1din5u3cb6iob-0tilh2it3yn-0ea0on2nd8ai4tta-i5lsmpriacectiacnadllyractosn.venientforthestudyofstructural,
+INTRODUCTION more uniﬁed and easy-to-control and easy-to-perform AR
+The adult mammalian heart has a very limited regenerative method is required.
+capacity,whichcausespermanentmyocardiallossandinsufﬁcient ComparedtotheARmodelinneonatalmice,rarestudieshave
+repairaftermyocardialinjury1.Identifyingmoleculesthatpromote systematically evaluated cardiac regenerative capacity in apically
+cardiomyocyte proliferation and cardiac regeneration is essential resectedneonatalrats.IthaspreviouslybeenreportedthatP1rats
+toprovidenovelstrategiesformyocardialprotection2.Thecardiac with 16–18% apically resected area had an early cardiac repair
+apicalresection(AR)modelofneonatalmicehasrevealedastrong response and long-term preserved cardiac function even under
+regenerative capacity of the heart within 7 days after birth3,4. hemodynamicstress.However,thelargerapicallyresectedareain
+Apical resection in 1-day-old (P1) neonatal mice induces robust neonatalrats(16–18%)ledtoanincompleteregenerativeprocess
+cardiomyocyte proliferation and leads to cardiac regeneration associated with myocardial hypoperfusion and collagen deposi-
+with preserved cardiac function4. However, this regenerative tions around the repaired area at 60 days post resection (dpr)13.
+capacityislostin7-day-old(P7)mice4.BasedontheARmodelof Actually,whetherandhowcardiacregenerativecapacitycouldbe
+neonatal mice, molecules involved in postnatal cardiac regenera- replicated inneonatal rats remain largelyunclear.
+tion have been increasingly identiﬁed which may also have the In the present study, we developed a modiﬁed AR method in
+neonatal mice with robust cardiac regenerative response and
+potential to promote cardiac regeneration and repair in adult
+hearts5–10. The regeneration model of neonatal mouse myocar- normal cardiac function. Compared to the conventional AR
+method, this modiﬁed AR method showed lower variation of
+dium provides strong support for the study of cardiac regenera-
+resectedapexandhigherreproducibilityofsurgery.Moreover,an
+tion inmammals.
+efﬁcient regenerative response and structural and functional
+Despite wide use of the AR model in neonatal mice, several
+recoveryoftheheartwereobservedinP1neonatalratsusingthe
+issues remain unsolved. Although exposure of the left ventricle
+modiﬁed AR method. An easy-to-control and easy-to-perform AR
+(LV)chamberhasbeenusedasananatomiclandmarkforAR,the
+method will be useful to promote investigation of novel
+actual weight or size of the resected apical myocardium is
+difﬁcult to control and be compared among different research mechanisms andfactors for cardiac regenerationand repair.
+groups. One reason is that either resected weight or resected
+area has been used to describe the resected part of apical
+myocardium4,5,7,9.Besides,sincethecurrentARrodentmethodis RESULTS
+accomplished by resecting LV apical myocardium even through ModiﬁedARmethodinducescardiacstructuralandfunctional
+several incisions3, it is relatively difﬁcult to operate uniformly. recovery in neonatal mice
+Surgical technicalities and assessment procedures can vary and The modiﬁed AR method was detailed in Methods section. A
+mayresultindifferentregenerationoutcomes4,11,12.Therefore,a schematic ﬂow chart was presented to illustrate the major
+1CardiacRegenerationandAgeingLab,InstituteofGeriatrics(ShanghaiUniversity),AfﬁliatedNantongHospitalofShanghaiUniversity(TheSixthPeople’sHospitalofNantong),
+SchoolofMedicine,ShanghaiUniversity,Nantong226011,China.2InstituteofCardiovascularSciences,ShanghaiEngineeringResearchCenterofOrganRepair,SchoolofLife
+Science,ShanghaiUniversity,Shanghai200444,China.3CardiovascularDivisionoftheMassachusettsGeneralHospitalandHarvardMedicalSchool,Boston,MA02114,USA.
+4DepartmentofBiomedicalSciences,CityUniversityofHongKong,HongKong999077,China.✉email:beiyh36@shu.edu.cn;junjiexiao@shu.edu.cn
+PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute
+
+NEW PAGE
+
+Y.Beietal.
+2
+Higherhomogeneity andreproducibility ofmodiﬁed AR
+methodcompared to conventional ARmethod
+To evaluate the AR operation homogeneity and reproducibility,
+we trained 5 operators to perform both the conventional and
+modiﬁed AR method. Conventional AR was accomplished by
+gently resecting the ventricular apex until the LV chamber was
+exposed3. The surgical AR procedure from anesthesia to chest
+closure should be limited within 10min for both methods. For
+achievingasurgicalprocedure within10min,we observedthat
+each operator needed to operate more mice (≈1.5 to 3 fold)
+when they learned and practiced conventional AR method
+comparedtomodiﬁedARmethod.Thentheyperformedformal
+experiments for comparison of conventional and modiﬁed AR
+methods. In the present study, each operator performed AR
+surgery in P1 neonatal mice using conventional (n=5) and
+modiﬁed (n=5) AR method, respectively. Based on the
+measuredresectedareasofLVapex,wecalculatedthestandard
+deviation (SD) and relative standard deviation (RSD) in the
+modiﬁed or conventional AR method for each operator.
+Representative images of the resected apical tissue by one
+operator are demonstrated in Fig. 3a, showing a smaller
+variationofresectedareasinthemodiﬁedARmodelcompared
+to the conventional AR model (Fig. 3b). Compared to conven-
+tionalARmethod,modiﬁedARmethodhadlowerSDandRSDof
+1234567890():,; rrfoueebssrsteeheccrettveereddcdaLaltcVhruealaataptmieonxofgduLtiVﬁshieendagmpAetehRxae,nmimnveatdohliducoeiadﬁteoiandfcgRhASibeRDvemetftrdeoertmahhso5iodgmon(piToﬁeagcrbaealnnteoteri1ltso)y,.wwBoeeyrf
+RSDthanconventionalARmethod(Fig.3c),suggestingahigher
+reproducibility of the modiﬁed AR method compared to the
+conventional AR method.
+Fig. 1 A schematic ﬂow chart illustrating the major operation
+processofmodiﬁedapicalresectionmodelin1-day-oldneonatal Cardiac regenerative responses after modiﬁed surgical AR
+rodents. A modiﬁed pipette tip cut to a giveninternal diameter is compared toconventional ARin neonatal mice
+prepared for the modiﬁed apical resection model. After hypother- We next compared cardiac regenerative responses between our
+miaanesthesiaandthoracotomy,themodiﬁedpipettetip,whichis modiﬁed surgicalAR methodand conventionalARmethod.Using
+connectedtoavacuumpumpworkingat0.06±0.005MPa,isgently
+conventional AR method, we also observed comparable heart
+keptintouchwiththeapexfor12s.Apicalresectionisperformed
+weight between AR and sham group at 7 dpr and 21 dpr
+byasingleincisionadjacenttothepipettetip.Finally,chestclosure
+isperformedandrodentsarereturnedtogether tomother’scage. (SupplementaryFig.2a,b).Meanwhile,ARmicehadnormalcardiac
+function and regenerated apex with no signiﬁcant evidence of
+ﬁbrosis(SupplementaryFig.2c,d).
+operation process of modiﬁed AR model in P1 neonatal rodents Conventional AR surgery in P1 mice induces a robust
+(Fig. 1). First, we tested the modiﬁed surgical AR method in P1 cardiomyocyte proliferative response in the whole heart4. In
+neonatal mice using a modiﬁed 10μL pipette tip which was our study, cardiomyocyte proliferation and cytokinesis markers
+connectedtoavacuumpumptoaccuratelycontroltheresection were assessed by colocalization of EdU, pHH3, or Aurora
+partofLVapex.ForARof15%weightofP1neonatalmouseheart, B-kinase with α-actinin positive cardiomyocytes. Consistent
+amodiﬁed10μLpipettetip,withitstipcutto0.48mmininternal with previous reports, increase of EDU, pHH3, and Aurora
+diameter, was connected to a vacuum pump working at B-kinase positive cardiomyocytes was observed in the apex,
+0.06±0.005MPa(Fig.2a).ThetipwaskeptintouchwithLVapex apical border zones, and remote zones of resected hearts after
+for 12s and the apex was carefully resected by a single incision conventional AR at 7 dpr (Supplementary Fig. 3). We then
+adjacent to the pipette tip. The weight of resected apex was examined whether modiﬁed AR method was able to stimulate
+cardiomyocyte proliferative response in neonatal mice. Simi-
+proven to be 15% of whole heart weight by 3 independent
+larly, we observed a signiﬁcant increase of EdU, pHH3, and
+experiments (Supplementary Table 1). Next, we evaluated heart
+Aurora B-kinase positive cardiomyocytes in the apex, apical
+weight, cardiac function, and histology of mice hearts after AR.
+border zones, and remote zones of resected hearts after
+The heart weight of AR group was already comparable to sham
+modiﬁed AR at 7 dpr (Fig. 4a–c).
+group at 7 dpr (Supplementary Fig. 1), and no difference was Previous studies demonstrated marked induction of inﬂam-
+found in heart weight between AR and sham mice until 21 dpr
+matory and immune responses during early cardiac regenera-
+(Fig. 2b). Echocardiography showed that AR mice had normal
+tion after AR surgery, which has been suggested to play an
+cardiac function that was similar to sham mice (Fig. 2c). HE
+important role in promoting cardiomyocyte proliferation and
+staining of cardiac longitudinal sections at 7 dpr and 21 dpr regenerative response4,14. Thus, we determined these reported
+revealedprogressive regeneration oftheapex(Fig. 2d). Masson’s factors inAR heart tissues at 1 dpr and 7 dpr after modiﬁed AR
+trichromestainingshowedthattherewasslightevidenceoftissue surgery. Our results demonstrated obvious upregulation of
+ﬁbrosisintheregeneratedapexat7dpr,howeverminimalﬁbrosis inﬂammatory and immunomodulatory factors (Il-6, Il-1β, Ccl3,
+could be observed in the apex at 21 dpr (Fig. 2d). These data andC5aR1)at1dpr;thesefactorswerestillupregulatedat7dpr
+indicatethatthismodiﬁedsurgicalARmethodinducesstructural inthe AR group compared to shamgroup (Fig. 4d).Meanwhile,
+andfunctional recovery of theheart inP1 neonatal mice. weobservedupregulationofmyocardialpro-proliferativefactors
+npjRegenerativeMedicine(2023)    9  PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute
+
+NEW PAGE
+
+Y.Beietal.
+3
+Fig.2 Cardiacstructuralandfunctionalrecoveryaftermodiﬁedapicalresectionsurgeryin1-day-oldneonatalmice.aAstereoscope,a
+desktopvacuumpump,andamodiﬁed10μLpipettetipwithitstipcutto0.48mmininternaldiameterusingasharpblade,wereprepared
+formodiﬁedapicalresection(AR)method.bHeartweight(HW),bodyweight(BW),andheartweight/bodyweightratio(HW/BW)at21days
+post resection (dpr) (n=7-8). c Echocardiography for left ventricle ejection fraction and fractional shortening at 21 dpr (n=7-8).
+dRepresentativeimagesforhematoxylin-eosin(HE)andMasson’strichromestainingforARheartsat7dprand21dpr.Scalebar=200μm.ns
+notsigniﬁcant.Alldataareexpressedasmeans±SD.
+PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute npjRegenerativeMedicine(2023)    9 
+
+NEW PAGE
+
+Y.Beietal.
+4
+a
+Modified AR method Conventional AR method
+b
+c
+✱✱
+Fig. 3 Homogeneity and reproducibility of modiﬁed and conventional apical resection methods in 1-day-old neonatal mice.
+aRepresentativeimagesofresectedleftventricle(LV)apexusingmodiﬁedapicalresection(AR)method(leftpanel,n=5)andconventional
+ARmethod(rightpanel,n=5)byoneoperator.bCorrespondingvariationofresectedLVapexareas(leftpanel)andmeanvalueofresected
+apexareasusingmodiﬁedversusconventionalARmethods(rightpanel)bythesameoperator.cRelativestandarddeviation(RSD)analysisfor
+resectedLVapexareasbymodiﬁedversusconventionalARmethods.**P<0.01;nsnotsigniﬁcant.Alldataareexpressedasmeans±SD.
+ModiﬁedARmethodinducescardiacstructuralandfunctional
+Table1. Standarddeviationandrelativestandarddeviationofthe
+recovery inneonatal rats
+resectedareasofleftventricleapexinthemodiﬁedandconventional
+Next,wesoughttoestablishandevaluatethemodiﬁedARmethod
+apicalresectionmethodsforeachoperator.
+in neonatal rats. We ﬁrst prepared a modiﬁed 200μL pipette tip
+Operator ModiﬁedARmethod Conventional withitstipcutto1.46mmininternaldiameter(SupplementaryFig.
+ARmethod 4a). The weight ofresectedapex was proven tobe12% ofwhole
+heartweightby3independentexperiments(SupplementaryTable
+SD(mm2) RSD(%) SD(mm2) RSD(%)
+2). At 56 dpr, we found that both heart weight and body weight
+1 0.0670 8.2967 0.4182 46.2493 werelowerinARgroupthanthoseinshamgroup(Supplementary
+Fig. 4b). Although 12% AR rats had normal cardiac function at 56
+2 0.0997 9.5579 0.3698 30.5337
+dpr (Supplementary Fig. 4c), HE staining and Masson’s trichrome
+3 0.1119 9.2737 0.4508 31.5350
+stainingshowedincompleteregenerationandsigniﬁcantﬁbrosisin
+4 0.0357 3.0897 0.1618 15.7793
+the apex (Supplementary Fig. 4d). We then tried to reduce the
+5 0.0911 7.8710 0.3467 34.3420 resectionweightusingamodiﬁed200μLpipettetipwithitstipcut
+to 0.72mm in internal diameter (Supplementary Fig. 5a), and
+Each operator performed AR surgery in P1 neonatal mice using
+conventional(n=5)andmodiﬁed(n=5)ARmethod,respectively. conﬁrmed a resection of 7% of the whole heart weight by 3
+ARapicalresection,SDstandarddeviation,RSDrelativestandarddeviation. independent experiments using this AR approach (Supplementary
+Table3).Althoughtheheartweightandcardiacfunctionofthe7%
+AR group didn’t show signiﬁcant difference compared to sham
+groupat42dpr(SupplementaryFig.5b,c),7%ARratsstillfailedto
+includingMydgfandPitx2atmRNAlevelinARhearttissueswith regenerate their myocardium and had ﬁbrotic tissues in the apex
+modiﬁed AR method at 1 dpr and 7 dpr (Fig. 4d). (Supplementary Fig. 5d). Thus, 12% and 7% AR did not lead to
+Taken together, these ﬁndings of our modiﬁed AR model are completeapicalrecoveryinneonatalrats.
+consistent with previous observations that cardiac regeneration Giventheincompleterecoveryafter12%and7%ARinneonatal
+after AR surgery involves an inﬂammatory response and wide- rats, we decided to further reduce the resection weight to 5% of
+spread proliferation of cardiomyocytes. The cardiac regenerative wholeheartweight.Wepreparedamodiﬁed200μLpipettetipwith
+responses in modiﬁed AR model are comparable to those in itstipcutto0.63mmininternaldiameter,whichwasconnectedtoa
+conventionalAR model. vacuum pump working at 0.06±0.005MPa (Fig. 5a). The tip was
+npjRegenerativeMedicine(2023)    9  PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute
+
+NEW PAGE
+
+Y.Beietal.
+5
+a
+Apex Border Remote
+✱✱✱
+Sham
+✱✱✱
+✱✱✱
+AR
+EdU/α-actinin/Hoechst
+b
+Apex Border Remote
+✱✱✱
+Sham ✱✱✱
+✱✱✱
+AR
+pHH3/α-actinin/Hoechst
+c
+Apex Border Remote ✱✱ ✱✱✱
+✱✱✱
+AR
+Aurora B/α-actinin/Hoechst
+d
+✱✱✱ ✱✱✱ ✱✱✱ ✱✱✱
+✱✱✱ ✱✱✱
+✱✱ ✱ ✱✱✱
+✱✱✱ ✱✱ ✱✱ ✱✱✱ ✱✱
+✱✱✱ ✱✱✱ ✱✱
+Fig. 4 Regenerative responses after modiﬁed apical resection surgery in 1-day-old neonatal mice. Co-immunoﬂuorescent staining for
+α-actininandEdU(a)orphospho-histoneH3(pHH3)(b)inshamandapicalresection(AR)heartsat7dayspostresection(7dpr)(n=6-7).
+Scale bar=20μm. A selected area with a higher magniﬁcation (Scale bar=5μm) for each representative image was presented.
+cCo-immunoﬂuorescentstainingforα-actininandAuroraBat7dprtoevaluateAuroraB-kinaseexpressionatthecleavagefurrowbetween
+twocardiomyocytes(n=4).Therepresentativeasymmetrical(intheapexandremoteregion)andsymmetrical(intheborderregion)AuroraB
+positive cardiomyocytes were indicated by white arrows. Scale bar=20μm. d Quantitative PCR for inﬂammatory and immunomodulatory
+factorsandmyocardialpro-proliferativefactorsinshamandARheartsat1dprand7dpr(n=4).**P<0.01;***P<0.001;nsnotsigniﬁcant.All
+dataareexpressedasmeans±SD.
+PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute npjRegenerativeMedicine(2023)    9 
+
+NEW PAGE
+
+Y.Beietal.
+6
+Fig.5 Cardiacstructuralandfunctionalrecoveryafter5%modiﬁedapicalresectionsurgeryin1-day-oldneonatalrats.aAstereoscope,a
+desktop vacuum pump, and a 200μL pipette tip with its tip cut to 0.63mm in internal diameter using a sharp blade, were prepared for
+modiﬁedapicalresection(AR)method.bHeartweight(HW),bodyweight(BW),andheartweight/bodyweightratio(HW/BW)at42dayspost
+resection(dpr)(n=7-8).cEchocardiographyforleftventricleejectionfractionandfractionalshorteningat42dpr(n=7-8).dRepresentative
+images for hematoxylin-eosin (HE) and Masson’s trichrome staining for AR hearts at 7, 14, 28, and 42 dpr. Scale bar=200μm. ns not
+signiﬁcant.Alldataareexpressedasmeans±SD.
+npjRegenerativeMedicine(2023)    9  PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute
+
+NEW PAGE
+
+Y.Beietal.
+7
+keptin touchwithLV apexfor12secondsand the apex wasthen between AR and sham rats (Fig. 7c). These results suggest that
+carefullyresectedbyasingleincisionadjacenttothepipettetip.The there is no alteration of cardiac function under hemodynamic
+weightoftheresectedapicalmyocardiumwasproventobe5%of stress in 5% AR rats compared to sham rats. Collectively, we
+wholeheartweightby3independentexperiments(Supplementary observed long-term functional recovery of neonatal rodent
+Table 4). An online video (Supplementary Video 1) is available for hearts after modiﬁed AR surgery.
+demonstrationofthemodiﬁedARmodelinP1neonatalrats.
+Restoration of neonatal rat heart weight was observed from Cardiac regenerative capacity in neonatal rats islostfrom
+7 dpr to 42 dpr, showing that there was no difference in heart 7dayspost birth
+weight between AR group and sham group (Supplementary Fig.
+To further compare cardiac regenerative capacity at different
+6a and Fig. 5b). Echocardiography showed that the regenerated
+postnatalperiod,weadditionallyperformedARsurgeryin3-day-
+rat hearts had normal cardiac function similar to sham hearts at
+old (P3) and 7-day-old (P7) rats, respectively. We observed that
+14 dpr, 28 dpr, and 42 dpr (Supplementary Fig. 6b and Fig. 5c).
+P3ratswithARsurgeryhadcomparableheartweight,preserved
+Histology analysis demonstrated progressive myocardial regen-
+cardiac function, and regenerated apex compared to sham rats
+eration and replacement of ﬁbrosis from 7 dpr to 42 dpr, and
+at 42 dpr (Supplementary Fig. 9). Meanwhile, P3 rats had
+restorationoftheLVapexandminimumﬁbrosiswereobservedat
+increased EDU, pHH3, and Aurora B-kinase positive cardiomyo-
+42 dpr (Fig. 5d). These data suggest structural and functional
+cytes in the apex, apical border zones, and remote zones of
+recovery ofapical heart tissue after 5%ARin P1neonatal rats.
+resectedheartsat7dprcomparedtoshamrats(Supplementary
+Next, we evaluated cardiomyocyte proliferation as well as
+Fig. 10). These data demonstrate that P3 rats can also achieve
+markersofinﬂammatoryandproliferativeresponsesafterAR.We
+structural and functional recovery of the heart after AR surgery
+found a signiﬁcant increase of EDU, pHH3, and Aurora B-kinase
+with cardiac regeneration.
+positive cardiomyocytes in the apex, apical border zones, and
+However, we found that P7 rats were no more resistant to AR
+remote zones of resected hearts at 7 dpr (Fig. 6a–c). Similar to surgery using the same modiﬁed 200μL pipette tip cut to
+results in apically resected neonatal mice, we observed acute
+0.63mm in internal diameter. Thus, a smaller proportion of the
+upregulation of Il-6, Il-1β, Ccl3, and C5aR1 at 1 dpr and 7 dpr, apex was resected in P7 rats using a modiﬁed 200μL pipette tip
+indicatinganinﬂammatoryresponseintheearlystageofneonatal
+with its tip cut to 0.57mm in internal diameter (Supplementary
+rat cardiac regeneration (Fig. 6d). Moreover, we observed
+Fig. 11a). Even in this way, we still found 50% mortality among
+upregulated Mydgf and Pitx2 and reduced YAP phosphorylation
+apicalresectedP7ratsonthesamedayoronthenextdayofAR
+at Ser127 in AR heart tissues at 1 dpr and 7 dpr (Fig. 6d and
+surgery.Forthosesurvivedratsat42dpr,althoughP7ARratshad
+Supplementary Fig. 7), suggesting a myocardial proliferative
+comparable heart weight in comparison to sham rats (Supple-
+response in P1 neonatal rat after modiﬁed AR surgery. Taken mentary Fig. 11b), they had slight but signiﬁcant reduction of
+together,theseﬁndingsindicatethattheregenerationofneonatal cardiac function and obvious ﬁbrotic tissues around the apex
+rat hearts involves an inﬂammatory response and widespread
+(Supplementary Fig. 11c, d). Moreover, hardly no evidence of
+proliferation ofcardiomyocytes.
+cardiomyocyte proliferative response was detected in the apex
+zone at 7 dpr (Supplementary Fig. 12). Thus, similar to previous
+Cardiac function under hemodynamic stressiscomparable evidence showing that the mouse heart loses regenerative
+between ARandsham rodents capacity within the ﬁrst week of postnatal life4, our results
+To determine whether cardiac function under hemodynamic indicatethatcardiacregenerativecapacityinneonatalratsisalso
+stress could be comparable or altered in AR group compared to lostfrom7 dayspost birth.
+sham group, we treated mice and rats with intraperitoneal
+injection of phenylephrine and measured cardiac function,
+respectively. In P1 AR-operated mice, basic cardiac function was DISCUSSION
+comparabletoshammiceat42dpr(SupplementaryFig.8a).After Rodent AR models are widely used to investigate regeneration
+a single injection of 300μg/kg phenylephrine in mice, tail cuff of the mammalian heart. In the present study, we developed a
+blood pressure was measured to verify that SBP was increased modiﬁed AR method by using a modiﬁed pipette tip to
+over40%,andtherewasnodifferenceintheincreaseofSBP,DBP, accurately control the amount of resected apical myocardium.
+andMBPbetweenARgroupandshamgroup(SupplementaryFig. BycomparingthemodiﬁedandconventionalARmethodsinP1
+8b). In mice with SBP increased over 40%, cardiac function was neonatalmice,similarcardiacstructuralandfunctionalrecovery
+found to be decreased but to a comparable degree in AR group and cardiac regenerative responses were observed in both
+andshamgroup(SupplementaryFig.8c).Thesedatasuggestthat methods. Higher reproducibility and smaller variation of
+bothshamandARmicehavecomparablecardiacfunctionunder resected LV apical myocardium was achieved by using the
+hemodynamicstress. modiﬁedARmethod.Moreover,weestablished5%ARofwhole
+Next, we also determined cardiac function of AR rats versus heart weight in P1 neonatal rats, and provided evidence that
+sham rats under hemodynamic stress through intraperitoneal cardiac regeneration and recovery can be replicated in rats
+injection of 25mg/kg phenylephrine when they grew to adults using 5% AR model.
+at 60 dpr. Baseline cardiac function before injection was Conventional AR method was accomplished by resecting LV
+measured at 60 dpr, showing no difference in LV systolic apexuntiltheexposureofLVchamberwhichhasbeenusedasan
+functionbetweenshamandARrats(Fig.7a).Thentailcuffblood anatomiclandmarkforlimitedresectiontoensurereproducibility
+pressure was measured at baseline and every 2minutes after ofAR3.Despitealargemajorityofstudiesreportedstructuraland
+injection, and cardiac function was measured once SBP functional recovery of hearts, some groups failed to observe
+increased over 40% from baseline. For rats whose SBP failed to completeLVapexregenerationandrepairafterARsurgery15.Itis
+increase over 40% after 5min of injection, another injection of difﬁcult to compare the resected weight or area of LV apical
+12.5mg/kg phenylephrine was given to them. Our results myocardium since some groups used the resected weight and
+showed that phenylephrine induced comparable increases of some others used the resected area as control of AR model in
+SBP, DBP, and MBP in AR and sham rats (Fig. 7b). Echocardio- neonatalmice4,5,7,9.Moreover,usingtheconventionalARmethod,
+graphyresultsshowedthatthereducedpercentageofheartrate gradually resecting the LV apex may require several incisions
+aswellasLVejectionfraction(EF)andfractionalshortening(FS) which increases the risk for variation of the size of resected LV
+frombaselineafterphenylephrineinjectionwasalsocomparable apex tissue. In the present study, we prepared a modiﬁed 10μL
+PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute npjRegenerativeMedicine(2023)    9 
+
+NEW PAGE
+
+Y.Beietal.
+8
+a
+Apex Border Remote
+✱✱✱
+Sham ✱✱
+✱
+5% AR
+EdU/α-actinin/Hoechst
+b
+Apex Border Remote
+✱✱✱
+Sham ✱✱✱
+✱✱✱
+5% AR
+pHH3/α-actinin/Hoechst
+c
+Apex Border Remote ✱✱
+✱✱
+✱✱
+5% AR
+Aurora B/α-actinin/Hoechst
+d
+✱✱✱ ✱✱✱ ✱✱✱ ✱✱
+✱✱✱ ✱✱✱
+✱✱✱
+✱✱✱
+✱✱✱
+✱✱✱
+✱✱✱ ✱✱✱ ✱ ✱✱✱
+✱✱✱
+Fig. 6 Regenerative responses after 5% modiﬁed apical resection surgery in 1-day-old neonatal rats. Co-immunoﬂuorescent staining
+forα-actininandEdU(a)orphospho-histoneH3(pHH3)(b)inshamandapicalresection(AR)heartsat7dayspostresection(7dpr)(n=6).
+Scale bar=20μm. A selected area with a higher magniﬁcation (Scale bar=5μm) for each representative image was presented.
+cCo-immunoﬂuorescentstainingforα-actininandAuroraBat7dprtoevaluateAuroraB-kinaseexpressionatthecleavagefurrowbetween
+two cardiomyocytes (n=4). The representative asymmetrical Aurora B positive cardiomyocytes were indicated by white arrows. Scale
+bar=20μm.dQuantitativePCRforinﬂammatoryandimmunomodulatoryfactorsandmyocardialpro-proliferativefactorsinshamandAR
+heartsat1dprand7dpr(n=4).*P<0.05;**P<0.01;***P<0.001;nsnotsigniﬁcant.Alldataareexpressedasmeans±SD.
+npjRegenerativeMedicine(2023)    9  PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute
+
+NEW PAGE
+
+Y.Beietal.
+9
+a
+Sham 5% AR 60 dpr
+b
+c
+Fig. 7 Long-term cardiac function under hemodynamic stress after 5% modiﬁed apical resection surgery in 1-day-old neonatal rats.
+aEchocardiographyforleftventricleejectionfractionandfractionalshorteningatbaselinebeforephenylephrineinjectioninratsat60days
+postresection(dpr)(n=9).bTailcuffbloodpressuremeasurementsincludingsystolicbloodpressure(SBP),diastolicbloodpressure(DBP),
+andmeanbloodpressure(MBP)(n=9).Datawerepresentedaschangefrombaseline(%)onceSBPincreasedover40%.cEchocardiography
+for heart rate, left ventricle ejection fraction, and fractional shortening when SBP increased over 40% from baseline after phenylephrine
+injection(n=9).Datawerepresentedaschangefrombaseline(%).nsnotsigniﬁcant.Alldataareexpressedasmeans±SD.
+pipettetipbycuttingitstipto0.48mmininternaldiameter,which easytoobtainandcost-effective,whichensureeasyapplicationof
+was then connected to a vacuum pump working at this modiﬁed ARmethod by any laboratories.
+0.06±0.005MPa for nearly but no more than 12s. We achieved Surgicalvariationofanimalmodelmayleadtodifferentdegrees
+15% AR of whole heart weight in neonatal P1 mice by a single ofinjurywhichinﬂuencestheoutcomesofpathologicalprocesses.
+incision adjacent to the pipette tip. A structural apical recovery After conﬁrming the success of cardiac structural and functional
+with minimal evidence of ﬁbrosis and normal cardiac function recoveryinourmodiﬁedARmodelinP1neonatalmice,wefurther
+were observed in AR mice at 21 dpr, which was consistent with tried to evaluate the homogeneity and reproducibility of this
+previous studies using a conventional AR method4. Thus, the modiﬁedmethodincomparisontoconventionalARmethod.After
+modiﬁed 15% AR method in P1 neonatal mice achieved cardiac training,all operators can performthe AR surgery inP1 neonatal
+structuralandfunctionalrecoverywithsomeadvantages.Withthe micewithin10minandachievedanexposureofLVchamberwith
+modiﬁed pipette tip connected to a vacuum pump, it is much asurvivalrateover80%,indicatingthatalloperatorsmasteredthe
+easier to accurately and uniformly resect part of the LV apex. conventional and modiﬁed AR methods to a same degree. In
+Meanwhile,asingleincisionofLVapexadjacenttothepipettetip comparisontothemodiﬁedmethod,weﬁrstobservedthatthe5
+in the present method is more practical to operate the surgery operatorsinvolvedinourstudypracticedmoremicetolearnand
+procedure. Moreover, the needed instruments and materials are achieve a surgical AR procedure time within 10min using the
+PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute npjRegenerativeMedicine(2023)    9 
+
+NEW PAGE
+
+Y.Beietal.
+10
+conventional method. We further observed smaller variation of apexat42dpr.Moreover,hardlynoevidenceofcardiomyocyte
+resected LV apex using the modiﬁed AR method for each proliferative response was observed around the resected apex
+operator, and demonstrated a signiﬁcant lower RSD of resected at 7 dpr. This may be closely related to a rapid transition of
+LVapexfor5operatorsusingthemodiﬁedARmethodcompared cardiac myocytes from hyperplasia to hypertrophy within one
+to the conventional AR method. Collectively, these data suggest week after birth4,19.
+that the modiﬁed AR method is easy to learn and has higher Inconclusion,wedevelopamodiﬁedeasy-to-controlandeasy-
+homogeneity and reproducibility thanconventional ARmethod. to-performARmethodbyusingamodiﬁedpipettetipconnected
+Cardiac regenerative responses in the early phase after AR to a working vacuum pump to accurately control the resection
+surgery play important roles in promoting cardiac regeneration part of LV apex in rodents. This modiﬁed AR method with high
+and recovery7,14. In a cross-species transcriptomic screen in homogeneity and reproducibility induces cardiac structural and
+axolotl, neonatal mice, and zebraﬁsh AR models, a conserved functional recovery in neonatal rodents which can be practically
+upregulationofgenesat12to48hourspostresectionwerefound appliedbyresearchersafterquicklearning.A5%ARneonatalrat
+to be enriched for gene ontology analysis such as inﬂammatory modelisproventobepracticaltoinducestructuralandfunctional
+response, immune system process and regulation, immune and cardiac regeneration with minimal ﬁbrosis of LV apex. We think
+defenseresponse,andcellproliferation14.Basedonthisscreening, thatthemodiﬁedARmethodinrodentswillprovetobeusefulfor
+complement 5a receptor 1 (C5aR1) was revealed to be signiﬁ- structural, functional, and molecular investigations of cardiac
+cantly inducedafter AR,which further contributed tocardiomyo- regenerationand repair inmammals.
+cyte proliferative response and played an essential role for early
+cardiacregenerationafterAR14.Inthepresentstudy,weobserved
+a signiﬁcant increase of EdU, pHH3, and Aurora B-kinase positive METHODS
+cardiomyocytes in the apex, apical border zones, and remote Animalsandethic statements
+zonesofresectedheartsat7dprinthemodiﬁedARmodel,which Eight-week-old C57BL/6J mice and Sprague-Dawley rats were
+wasconsistenttotherobustcardiomyocyteproliferativeresponse purchased from Cavens Lab Animal (Changzhou, China) and
+intheconventionalARmodelaspreviouslyreported4.Meanwhile, maintained in the speciﬁc-pathogen-free (SPF) laboratory animal
+we observed obvious upregulation of inﬂammatory and immu- facility of Shanghai University (Shanghai, China). Their offspring
+nomodulatoryfactors(Il-6,Il-1β,Ccl3,andC5aR1)inthemodiﬁed
+was used to establish AR models in neonatal rodents. All animal
+AR mouse model at 1 dpr and 7 dpr, which was consistent to
+experimentswereconductedinconcordancewiththeGuidelines
+previous reports showing acute inﬂammatory responses after
+for the Care and Use of Laboratory Animals for biomedical
+AR4,14.By determining some previously reported myocardial pro-
+researchpublishedbytheNationalInstitutesofHealth(No.85-23,
+proliferative factors5,16, we observed upregulation of Mydgf and
+revised 1996) and approved by the Committee for the Ethics of
+Pitx2inresectedhearttissueswithmodiﬁedARmethodat1dpr
+AnimalExperiments ofShanghaiUniversity.
+and7dpr,furthervalidatingmolecularchangesofmyocardialpro-
+proliferative factorsin thismodiﬁed ARmouse model.
+Modiﬁedand conventional AR models ofneonatal mouse
+DespiteavalidationofcardiacregenerationafterARinneonatal
+heart
+mice, whether and how cardiac regenerative capacity could be
+replicatedinneonatalratshaspreviouslybeenunclear.Aprevious The modiﬁed AR method was conducted and evaluated in P1
+study performing AR with 16–18% resected apical area in P1 neonatal C57BL/6J mice. For an AR of 15% weight of the whole
+neonatalratsasestimatedbymagneticresonanceimaging(MRI), heart,amodiﬁed10μLpipettetipwaspreparedbycuttingitstip
+reported an incomplete cardiac recovery accompanied with to 0.48mm in internal diameter using a sharp blade. A formula
+myocardial hypoperfusion and cardiac ﬁbrosis at 60 dpr13. Here, was given to calculate the distance cutting from the pipette tip
+we hypothesized that the resected part of the heart may be too (Supplementary Fig. 13). The operators could calculate the
+largetoaccomplishcardiacstructuralandfunctionalrecoverypost distance cutting from the pipette tip after measuring the
+resection in rats. By gradually reducing the internal diameter of parameters of their commonly used pipette tip or according to
+themodiﬁed200μLpipettetipto0.63mm,weﬁnallysucceeded the standard size of the pipette tip provided by manufacturers.
+in establishing 5% AR of whole heart weight in P1 neonatal rats Before the beginning of the surgical procedure, all P1 neonatal
+which led to complete regeneration of LV apex and full micewereremovedfromtheirmotherintoanewcleancagewith
+preservation of cardiac function at 42 dpr. Similar to the AR beddingmaterials.Theneonatalmousewaswrappedwithgauze
+mouse model and previously reported cardiac regeneration to avoid frostbite and then put on ice for 3–5min. Under
+studies4,5,14,16–18,anobviouscardiomyocyteproliferativeresponse hypothermia anesthesia, temporary apnea and asystole were
+inthewholeheartandmarkedupregulationofinﬂammatoryand achieved. No analgesic drug was used during the surgery. The
+immunomodulatory factors (Il-6, Il-1β, Ccl3, and C5aR1) and neonatal mouse was then transferred to a surgical area under a
+regulation of myocardial pro-proliferative factors (upregulation stereoscope and placed in the supine position immobilized with
+of Mydgf and Pitx2 and reduced phosphorylation of YAP at medical adhesive tape. A transverse skin incision was performed
+Ser127) were observed in resected hearts at 1 dpr and 7 dpr. below the bilateral fossa axillaris using blunt scissors. After blunt
+Moreover,wedemonstratedthatsimilartoAR-operatedneonatal dissection at the fourth intercostal space, a 0.4 to 0.6-cm-long
+mice, AR-operated neonatal rats displayed comparable reduced incision was gently performed to enter the chest cavity and
+heart rate and LV systolic function upon phenylephrine-induced visualizetheheart.Themodiﬁed10μLpipettetip,withitstipcut
+hemodynamicstresswhencomparedtoshamratsevenat60dpr, to 0.48mm in internal diameter, was connected to a vacuum
+suggestingalong-termfunctionalrecoveryofneonatalrathearts pumpworkingat0.06±0.005MPaandgentlykeptintouchwith
+after 5% AR surgery. Thus, using this modiﬁed AR method, we LV apex for 12s. The LV apex was carefully resected by a single
+established 5% AR neonatal rat model which will provide a incision adjacent to the pipette tip using iridectomy scissors. Of
+necessarybasisforsubsequentresearchonheartregenerationin note, a pipetting time over 12s was avoided as it may cause a
+geneticallymodiﬁed neonatal rats. larger resection area and subsequently incomplete and ﬁbrotic
+Here we further observed that both P1 and P3 neonatal rats repair of the heart. After AR surgery was completed, the ribs,
+have cardiac regenerative capacity and achieve functional and musclesandthentheskinweresuturedusing7-0surgicalsutures.
+structural recovery of the heart after AR. However, this cardiac The blood was gently cleaned from the pups and the chest was
+regenerativepotentialislostinP7rats,sinceARcausedreduced disinfectedwithiodine.Animalswerequicklyplacedonaheating
+cardiacfunctionandﬁbrotictissuegrowtharoundtheresected pad for recovery. The complete procedure time, from anesthesia
+npjRegenerativeMedicine(2023)    9  PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute
+
+NEW PAGE
+
+Y.Beietal.
+11
+to chest closure was aimed to be below 10min. Sham mice harvested for histological analysis (7, 14, 28, and 42 dpr),
+underwent the same surgical procedures without pipette tip immunoﬂuorescent stainings for cardiomyocyte proliferative
+suction and AR. After all animals were recovered with sponta- markers (7 dpr), and molecular analysis for markers of inﬂamma-
+neous breathing, they were returned to their mother’s cage. toryand myocardial proliferative responses (1dpr and 7dpr).
+Animalsweregentlywipedwiththebeddingmaterialsandfeces To explore when neonatal rats lose cardiac regenerative
+oftheir mother’scage toreducethe chanceof cannibalization. capacity after birth, we further performed AR surgery in 3-day-
+ToevaluatetheARoperationhomogeneityandreproducibility, old(P3)and7-day-old(P7)rats,respectively.P3ratsunderwentAR
+we trained 5 operators to perform both conventional and procedure using the same modiﬁed 200μL pipette tip cut to
+modiﬁed AR methods. Conventional AR was accomplished by 0.63mm in internal diameter. While P7 rats underwent AR
+gently resecting the LV apex until exposure of the LV chamber; procedure using a modiﬁed 200μL pipette tip cut to 0.57mm in
+this is commonly used as an anatomic landmark and achieves internaldiameterforasmallerproportionofresectedLVapexdue
+about 15% reduction of the whole heart weight in P1 neonatal to a higher mortality induced by AR surgery at day 7 after birth.
+mice3,4. To compare the AR methods, the operators resected LV Echocardiography was performed at 42 dpr, followed by heart
+apex with a single incision for both the conventional and the tissue harvest and histological examinations. Cardiomyocyte cell
+modiﬁedARapproachinthepresentstudy.Apartfromtheuseof cycle activity was determined by EdU, pHH3, or Aurora B and α-
+a modiﬁed pipette tip in the modiﬁed AR procedure, other actininco-stainings in heart tissuesat 7dpr.
+techniqueswerethesamebetweenthetwomethodsasdescribed
+above. A surgical time from anesthesia to chest closure within Echocardiography
+10min and a survival rate after AR over 80% were required and
+Rodents were anesthetized with inhaled isoﬂurane, and echocar-
+indicative ofmastering theAR method.
+diography was performed using the Vevo 2100 Imaging System
+QuicklyafterARsurgery,resectedandintactheartswererinsed
+(FUJIFILMVisualSonics,Toronto,Ontario,Canada).M-modelong-
+brieﬂywithphosphatebufferedsaline(PBS)andweighed,inorder
+axisechocardiogramswereobtainedatthepapillarymusclelevel
+tovalidatethe15%ARofwholeheartweight.At7dprand21dpr,
+tomeasuretheLVejectionfraction(EF)andfractionalshortening
+theheartweight(HW),bodyweight(BW),andheartweight/body
+(FS)based on 3 consecutivecardiac cycles.
+weight ratio (HW/BW) were measured. Echocardiography was
+performedat21dpr.Hearttissueswereharvestedforhistological
+analysis (7 dpr and 21 dpr), immunoﬂuorescent stainings for Hematoxylin-Eosin stainingandMasson’strichrome staining
+cardiomyocyte proliferative markers (7 dpr), and molecular Wholehearttissueswereﬁxedin4%paraformaldehyde(PFA)and
+analysisfor markers of inﬂammatory and myocardial proliferative then embedded in parafﬁn. The 5-μm-thick cardiac longitudinal
+responses(1dpr and7 dpr). sections were stained with Hematoxylin-Eosin (Solarbio, G1120)
+and Masson’s trichrome staining (Solarbio, G1340) according to
+Modiﬁed ARmodelofneonatal ratheart manufacturer’s instructions. Tissue stainings were observed and
+photographedunderabiologicalmicroscope(Leica,DM3000).HE
+The modiﬁed AR method was conducted and evaluated in P1
+staining and Masson’s trichrome staining were analyzed to
+neonatalSprague-Dawley rats. Amodiﬁed200μL pipette tip was
+evaluate the recovery of LV apex and whether ﬁbrotic tissue
+preparedbycuttingitstipto0.63mmininternaldiameterusinga
+waspresent ornot after AR.
+sharpblade,whichachieveda5%ARofwholeheartweightinP1
+neonatal rats. Except for a slightly larger incision (0.6 to 0.8 cm-
+long)forenteringthechestcavityandvisualizingtheheartanda Immunoﬂuorescent staining formyocardial proliferative
+modiﬁed200μLpipettetipwithitstipcutto0.63mmininternal markers
+diameter,theotherprocedureswerethesameasthosedescribed For EdU staining in heart tissues, rodents were intraperitoneally
+forthemodiﬁedARmethodofneonatalmouseheart.Theprecise injected with 50mg/kg EdU (Invitrogen, E10187) at 1 day and
+position where a pipette tip attaches to the apex is shown in 3 days before sacriﬁce. Whole heart tissues were harvested and
+Supplementary Fig. 14a, b. A pipetting time nearly but no more embedded into optimal cutting temperature compound (OCT),
+than12sdidnotcausedamagetotheapex(SupplementaryFig. and longitudinally cut into 7-μm-thick frozen heart sections.
+14c), whileapipetting time over12srisked to squeeze theapex Sectionswereﬁxedwith4%PFA,permeabilizedwith0.5%Triton
+andmaycausedamagetotheapex(SupplementaryFig.14d).To X-100,andthenblockedwith5%bovineserumalbumin(BSA)for
+furtherconﬁrmthattheuseofpipettingwithin12secondsperse 1h at room temperature. Sections were incubated with the
+did not cause damage to the heart, we also set up a group of primary antibody for α-actinin (1:200 dilution, Sigma, A7811) at
+pipette suction after thoracotomy without AR and evaluated 4°C overnight. After wash three times in PBS, sections were
+cardiac function and histology of cardiac tissues at 7 days post incubatedwithcorrespondingsecondaryantibodyfor2hatroom
+operation. Compared to those P1 neonatal rats without pipette temperature.EdUstainingwasperformedusingCell-LightApollo
+suction, a pipetting time about 12s did not inﬂuence cardiac 567StainKit(RiboBio,C10371-1)accordingtothemanufacturer’s
+functionorcausepathologicalchangesofcardiactissuesat7days instructions. For pHH3 (or Aurora B) and α-actinin co-
+postoperation(SupplementaryFig.15).Theseresultsindicatethat immunoﬂuorescent staining, sections were ﬁxed, permeabilized,
+theuse of pipette suction within 12s does not cause damage to andblockedasdescribedabove,andthenincubatedwithprimary
+the heart. The surgical time from anesthesia to chest closure antibodiesforpHH3(1:100dilution,Abclonal,AP0840)orAuroraB
+shouldbelimitedwithin10min,andthismodiﬁedARmethodin (1:100dilution,Sigma,A5102)andα-actinin(1:200dilution,Sigma,
+P1neonatalratcanachieveasurvivalrateover80%.Asindicated A7811) at 4°C overnight. After washing three times with PBS,
+in Results section, a schematic ﬂow chart (Fig. 1) and an online sectionswereincubatedwithcorrespondingsecondaryantibodies
+video(SupplementaryVideo1)areavailablefordemonstrationof for 2h at room temperature. Nuclei were counterstained with
+themodiﬁedAR modelinP1 neonatal rodents. Hoechst. Immunoﬂuorescent staining images were viewed and
+QuicklyafterARsurgery,resectedandintactheartswererinsed taken under a confocal microscope (Zeiss, LSM710). The number
+with PBS and weighed. The weight of resected LV apex was of EdU, pHH3, or Aurora B positive α-actinin-labeled cardiomyo-
+proven to be 5% of whole heart weight in P1 neonatal rats by 3 cytes per ﬁeld was determined in the apex, apical border zones,
+independent experiments. At 7, 14, 28, and 42 dpr, the HW, BW, andremotezonesofresectedheartsandintactshamhearts.The
+and HW/BW ratio were measured. Echocardiography was symmetrical and asymmetrical Aurora B positive cardiomyocytes
+performed every 2 weeks from 14 to 42 dpr. Heart tissues were weredeterminedaspreviously reported20.
+PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute npjRegenerativeMedicine(2023)    9 
+
+NEW PAGE
+
+Y.Beietal.
+12
+RNAextraction andreversetranscriptional-quantitative DATAAVAILABILITY
+polymerase chain reaction Alldatageneratedoranalyzedduringthisstudyareincludedinthisarticleandits
+TotalRNAwasisolatedfromresectedandintactheartsusingTrizol supplementary information ﬁles. All relevant data are also available from the
+RNAisoPluskit(TaKaRa,9109).RNAconcentrationwasdetermined correspondingauthorsonreasonablerequest.
+by Nanodrop 8000 (Thermo ﬁsher), and reverse transcription of
+RNA was performed using RevertAid First Strand cDNA Synthesis Received:1 May2022; Accepted: 2February 2023;
+Kit (ThermoFisher, K1622). Quantitative polymerase chain reac-
+tionswereperformedusingSYBRGreenreagent(TaKaRa,RR420A)
+onRocheLightCycler480PCRSystem(RocheDiagnostics).Primer
+sequencesusedinthisstudyarelistedinSupplementaryTable5.
+REFERENCES
+18Swasused as aninternal control forgene expression.
+1. Broughton,K.M.etal.Mechanismsofcardiacrepairandregeneration.Circ.Res.
+122,1151–1163(2018).
+Western blot
+2. de Wit, L. et al. Cellular and molecular mechanism of cardiac regeneration: a
+Totalproteinwasextractedfromresectedandintactheartsusing comparisonofnewts,zebraﬁsh,andmammals.Biomolecules10,1204(2020).
+RIPA lysis buffer supplemented with Pierce protease and 3. Mahmoud,A.I.,Porrello,E.R.,Kimura,W.,Olson,E.N.&Sadek,H.A.Surgical
+phosphatase inhibitor (ThermoFisher, 88668). Equal quantities of modelsforcardiacregenerationinneonatalmice.Nat.Protoc.9,305–311(2014).
+totalproteinwereseparatedbySDS-PAGEgelsandtransferredto 4. Porrello,E.R.etal.Transientregenerativepotentialoftheneonatalmouseheart.
+Science331,1078–1080(2011).
+PVDFmembranes.Membraneswereblockedwith5%non-fatmilk
+5. Wang,Y.etal.MydgfpromotesCardiomyocyteproliferationandNeonatalHeart
+and then incubated with primary antibody for p-YAP1-S127
+regeneration.Theranostics10,9100–9112(2020).
+(1:1000 dilution, Abclonal, AP0489), followed by incubation with
+6. Fu,W.etal.LossofNPPA-AS1promotesheartregenerationbystabilizingSFPQ-
+correspondingHRP-conjugatedsecondaryantibody.Proteinblots NONOheteromer-inducedDNArepair.BasicRes.Cardiol.117,10(2022).
+were developed using enhanced chemiluminescence kit. After, 7. Li,Y.etal.gp130controlscardiomyocyteproliferationandheartregeneration.
+membranes were stripped and incubated with total-YAP1 anti- Circulation142,967–982(2020).
+body (1:1000 dilution, Proteintech, 13584-1-AP). GAPDH (1:1000 8. Fan,Y.etal.Phosphoproteomicanalysisofneonatalregenerativemyocardium
+dilution, Bioworld, AP0063) was used as an internal control for revealedimportantrolesofcheckpointkinase1viaactivatingmammaliantarget
+of rapamycin C1/ribosomal protein S6 kinase b-1 pathway. Circulation 141,
+proteinloading.ProteinbandintensitywasanalyzedusingImageJ
+1554–1569(2020).
+software.ThephosphorylationlevelofYAPwasdeterminedbythe
+9. Huang,W.etal.LossofmicroRNA-128promotescardiomyocyteproliferationand
+ratioof p-YAP(S127)tototal-YAP. heartregeneration.Nat.Commun.9,700(2018).
+10. MalekMohammadi,M.etal.ThetranscriptionfactorGATA4promotesmyocardial
+Long-term cardiac function under hemodynamic stress regenerationinneonatalmice.EMBOMol.Med9,265–279(2017).
+11. Kotlikoff,M.I.,Hesse,M.&Fleischmann,B.K.Commenton“Doneonatalmouse
+For comparison of long-term cardiac function under hemody- heartsregeneratefollowingheartapexresection”?StemCellRep.3,2(2014).
+namic stress, rats were treated with selective α1-adrenoceptor 12. Andersen,D.C.,Jensen,C.H.&Sheikh,S.P.ResponsetoSadeketal.andKotlikoff
+agonistphenylephrinetoinduceastateofhemodynamicstress etal.StemCellRep.3,3–4(2014).
+at 60 dpr followed by cardiac function measurement. Before 13. Zogbi,C.etal.Earlypostnatalratventricleresectionleadstolong-termpreserved
+phenylephrine treatment, sham and AR rats were anesthetized cardiacfunctiondespitetissuehypoperfusion.Physiol.Rep.2,e12115(2014).
+with inhaled isoﬂurane, and cardiac function was evaluated at 14. Natarajan,N.etal.ComplementreceptorC5aR1playsanevolutionarilycon-
+baseline using echocardiography (Vevo 2100 Imaging System). served role in successful cardiac regeneration. Circulation 137, 2152–2165
+(2018).
+Tail cuff blood pressure was measured using non-invasive Tail-
+15. Andersen,D.C.,Ganesalingam,S.,Jensen,C.H.&Sheikh,S.P.Doneonatalmouse
+Cuff blood pressure device (Softron BP-2010A, Beijing, China) hearts regenerate following heart apex resection? Stem Cell Rep. 2, 406–413
+including systolic blood pressure (SBP), dilated blood pressure (2014).
+(DBP), and mean blood pressure (MBP). Then rats were 16. Tao,G.etal.Pitx2promotesheartrepairbyactivatingtheantioxidantresponse
+intraperitoneallyinjectedwith25mg/kgphenylephrine(Selleck, aftercardiacinjury.Nature534,119–123(2016).
+S2569), followed by measurement of tail cuff blood pressure 17. Xin,M.etal.HippopathwayeffectorYappromotescardiacregeneration.Proc.
+every 2min. For rats whose SBP failed to increase over 40% NatlAcad.Sci.USA110,13839–13844(2013).
+18. Heallen,T.etal.Hipposignalingimpedesadultheartregeneration.Development
+after 5min of phenylephrine injection, another injection of
+140,4683–4690(2013).
+12.5mg/kg phenylephrine was given to them. Cardiac function
+19. Li,F.,Wang,X.,Capasso,J.M.&Gerdes,A.M.Rapidtransitionofcardiacmyocytes
+was measured once SBP increased over 40% from baseline. from hyperplasia to hypertrophy during postnatal development. J. Mol. Cell
+Cardiacfunctionunderhemodynamicstresswasalsomeasured Cardiol.28,1737–1746(1996).
+in sham- and AR-operated mice at 42 dpr after a single 20. Hesse, M. et al. Midbody positioning and distance between daughter nuclei
+intraperitoneal injection of 300μg/kg phenylephrine once SBP enableunequivocalidentiﬁcationofcardiomyocytecelldivisioninmice.Circ.Res.
+increased over 40% from baseline. 123,1039–1052(2018).
+Statistical analysis ACKNOWLEDGEMENTS
+All data were analyzed using SPSS20.0 or GraphPad Prism8 and ThisworkwassupportedbythegrantsfromNationalKeyResearchandDevelopment
+presented as means±SD. An independent-sample two-tailed ProgramofChina(2022YFA1104500toJ.J.X.),NationalNaturalScienceFoundationof
+Student’s t test was used for comparisons between two groups. China(82020108002and82225005toJ.J.X.,81970335and82170285toY.H.B.),the
+Two-way ANOVA test followed by Tukey post hoc test was grant from Science and Technology Commission of Shanghai Municipality
+performed to compare multiple groups. Relative standard devia- (21XD1421300and20DZ2255400toJ.J.X.,23010500300and21SQBS00100toY.H.B.),
+tion(RSD)analysiswasperformedforevaluationofreproducibility the “Dawn” Program of Shanghai Education Commission (19SG34 to J.J.X.), and
+of modiﬁed and conventional AR methods. Differences were ShanghaiRising-StarProgram(19QA1403900toY.H.B.).
+consideredstatistically signiﬁcant with P<0.05.
+AUTHORCONTRIBUTIONS
+Reporting summary
+J.J.X.designedthestudy,instructedtheexperimentsanddraftedthemanuscript.
+Further information on research design is available in the Nature Y.H.B.,C.C.,X.J.H.,M.M.Y.,X.M.M.,Z.Z.H.,W.T.Q.,Z.H.S.andC.L.performedanimal
+ResearchReportingSummary linkedto thisarticle. experiments and conducted functional, histological, and molecular analysis
+npjRegenerativeMedicine(2023)    9  PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute
+
+NEW PAGE
+
+Y.Beietal.
+13
+experiments and analyzed the data. H.I.L., G.P.L. and Y.H. provided technical Publisher’snoteSpringerNatureremainsneutralwithregardtojurisdictionalclaims
+assistance and revised the manuscript. All authors have read and approved inpublishedmapsandinstitutionalafﬁliations.
+themanuscript.
+COMPETINGINTERESTS Open Access This article is licensed under a Creative Commons
+Attribution 4.0 International License, which permits use, sharing,
+Theauthorsdeclarenocompetinginterests.
+adaptation,distributionandreproductioninanymediumorformat,aslongasyougive
+appropriatecredittotheoriginalauthor(s)andthesource,providealinktotheCreative
+ADDITIONAL INFORMATION Commonslicense,andindicateifchangesweremade.Theimagesorotherthirdparty
+materialinthisarticleareincludedinthearticle’sCreativeCommonslicense,unless
+Supplementary information The online version contains supplementary material
+indicatedotherwiseinacreditlinetothematerial.Ifmaterialisnotincludedinthe
+availableathttps://doi.org/10.1038/s41536-023-00284-5. article’sCreativeCommonslicenseandyourintendeduseisnotpermittedbystatutory
+regulationorexceedsthepermitteduse,youwillneedtoobtainpermissiondirectly
+CorrespondenceandrequestsformaterialsshouldbeaddressedtoYihuaBeior
+from the copyright holder. To view a copy of this license, visit http://
+JunjieXiao. creativecommons.org/licenses/by/4.0/.
+Reprints and permission information is available at http://www.nature.com/
+reprints ©TheAuthor(s)2023
+PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute npjRegenerativeMedicine(2023)    9 
+
+NEW PAGE

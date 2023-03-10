@@ -1,0 +1,765 @@
+Open Journal of Regenerative Medicine, 2020, 9, 20-35 
+https://www.scirp.org/journal/ojrm 
+ISSN Online: 2169-2521 
+ISSN Print: 2169-2513 
+ 
+ 
+ 
+Mesenchymal Stem Cells (MSCs) as a Novel 
+Therapeutic Option for nCOVID-19—A Review 
+Madhan Jeyaraman1,2 , Rajeswari Somasundaram3 , Talagavadi Channaiah Anudeep4 ,   
+Satish Shringeri Ajay5 , Kumar V. Vinodh6 , Rashmi Jain7 , Manish Khanna8,9  
+1Indian Stem Cell Study Group (ISCSSG), Lucknow, India  
+2Department of Orthopedics, School of Medical Sciences and Research, Sharda University, Greater Noida, India 
+3Postdoctoral Research Associate (BIRAC-BIG), Department of Microbiology, PSG BioNEST, PSG TECH, Coimbatore, India 
+4Department of Plastic Surgery, Topiwala National Medical College and BYL Nair Ch. Hospital, Mumbai, India 
+5Department of Orthopedics, JJM Medical College, Davangere, India 
+6AARI Research Institute, Chennai, India 
+7School of Medical Sciences and Research, Sharda University, Greater Noida, India 
+8Indian Stem Cell Study Group (ISCSSG), Lucknow, India 
+9Department of Orthopaedics, Hind Institute of Medical Sciences, Safedabad, India 
+ 
+ 
+ 
+How to cite this paper: Jeyaraman, M.,  Abstract 
+Somasundaram, R., Anudeep, T.C., Ajay, 
+S.S., Vinodh, K.V., Jain, R. and Khanna, M.  The novel Coronavirus Disease (nCOVID-19) is a highly contagious viral in-
+(2020) Mesenchymal Stem Cells (MSCs) as a  fection which emerged as “Pneumonia of Unknown Etiology” at Hubei prov-
+Novel Therapeutic Option for nCOVID-19— 
+ince of Wuhan city in China. The health authorities provided a considerable 
+A Review. Open Journal of Regenerative 
+empirical evidence after this outbreak and it was notified that the causative 
+Medicine, 9, 20-35. 
+https://doi.org/10.4236/ojrm.2020.92004  virus, named Novel Coronavirus (subsequently SARS-CoV-2) is the culprit 
+  for progressively exerting grim effects not only on individual patients but also 
+Received: April 2, 2020 
+on the International public health, with high mutational tendencies. WHO 
+Accepted: April 17, 2020 
+Published: April 20, 2020  declared nCOVID-19 as a Pandemic on 11th March 2020. The spike glyco-
+  protein of SARS-CoV-2 plays a pivotal role in the entry of virus into the cell 
+Copyright © 2020 by author(s) and  
+and it further interacts with ACE-II receptors which are widely distributed on 
+Scientific Research Publishing Inc. 
+the human cell surface especially on alveolar type II cells (AT-2) and endothe-
+This work is licensed under the Creative 
+Commons Attribution International   lium. The mortality in nCOVID-19 patients is usually preceded by acute res-
+License (CC BY 4.0).  piratory distress syndrome (ARDS) because of the cytokine storm. Advanced 
+http://creativecommons.org/licenses/by/4.0/  
+molecular biology and regenerative sciences renders a breakthrough in the 
+Open Access
+    treatment of severely ill nCOVID-19 patients with Mesenchymal Stem Cells 
+(MSCs). Autologous or allogenic MSCs attenuate cytokine storm, improvise 
+lung compliance, regulate inflammatory response, maintain functional alveoli 
+microenvironment, promote endogenous regeneration and repair with no or 
+minimal side effects. MSCs are naturally resistant to this novel Coronavirus. 
+Even though it is corroborated with evidences from current clinical trials and 
+ 
+DOI: 10.4236/ojrm.2020.92004  Apr. 20, 2020  20  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+M. Jeyaraman et al. 
+ 
+pilot study, we emphasize the need for conducting more clinical trials with 
+ethical consideration to prove the efficacy and safety of MSCs in combating 
+nCOVID-19 infection and its complications. 
+ 
+Keywords 
+Coronavirus, nCOVID-19, Mesenchymal Stem Cells, WHO, Pandemic,  
+Level of Evidence - Level I 
+ 
+1. Introduction 
+Hui et al., 2020 reported in late December 2019 that China had announced 27 
+residents had fallen ill with an unknown viral infection in Wuhan of Hubei 
+Province, China and most of the infected individuals were found to be the stall 
+holders at the city’s Huanan Sea Food Market. After a week, 44 more individuals 
+presented with similar symptoms. Later, the investigators isolated the virus from 
+the patient samples and they genetically sequenced the viral samples and re-
+ported to WHO; in the interim the virus was given the name Novel Coronavirus 
+discovered in 2019 (2019-nCoV/nCOVID-19) and subsequently named as Severe 
+Acute Respiratory Syndrome Corona Virus 2 (SARS-CoV-2) [1]. Further, many 
+investigations were conducted to identify the cause and it was reported that peo-
+ple from Hubei province might have shown the symptoms in early November, 
+2019. This novel coronavirus strain (SARS-CoV-2) has neither been identified 
+nor detected in human hosts until this nCOVID-19 outbreak in China. The 
+nCOVID-19 virus showed 79% genotypic similarity to the SARS coronavirus 
+and was closely related to β-coronavirus from the origin of bats which suggests 
+that bats are the most likely animal reservoir hosts for the transmission of this 
+emerging viral pathogen, however, this transmission of infection to humans be-
+lieved to have occurred due to an intermediate host transmission like pangolin 
+[2] [3]. 
+A substantial increase in the infection rates happened because of human-to- 
+human transmission of this nCOVID-19 virus and by the end of February, 2020 
+the infection rates and new cases were found to be significantly reduced in China 
+but on the other hand, subsequent transmission and infection rates were found 
+to be increasing outside China including Italy, Iran, South Korea, Spain, USA, 
+France and UK. The World Health Organization declared nCOVID-19 as a 
+Pandemic on 11th March, 2020 and more than 174,000 confirmed positive cases 
+and approximately 7500 deaths occurred globally [1].  
+Many species of animal and human hosts have been affected by coronaviruses 
+and the family of coronaviruses remains relatively obscure probably because of 
+no severe human diseases attributing to this virus. However, in the year 2003, it 
+became clear that these coronaviruses were responsible for severe acute respira-
+tory syndrome (SARS) epidemic. Since then, two new human respiratory coro-
+ 
+DOI: 10.4236/ojrm.2020.92004  21  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+M. Jeyaraman et al. 
+ 
+naviruses  namely  Middle  East  respiratory  syndrome  related  coronavirus 
+(MERS-CoV) and nCOVID-19 have been described. In the year 1968, scientists 
+named this virus as “coronavirus” because of its crown like morphological ap-
+pearance  and  it  belongs  to  the  family  coronaviridae  with  two  subfamilies 
+namely, the coronaviruses and the toroviruses. Later, it was found that these vi-
+ruses were also responsible in causing enteric diseases in cattle and possibly in 
+humans. 
+2. Etiology of nCOVID-19 
+There are 2 speculations regarding the origin of SARS-CoV-2 - 1) natural selec-
+tion of animal host before zoonotic transfer and 2) natural selection in humans 
+following zoonotic transfer [4]. The zoonotic source is not confirmed however 
+genomic analysis suggested bats as the main reservoir. The isolated β-CoV 
+shows 88% similarity to the sequence of two bat-derived SARS-like coronavi-
+ruses, bat-SL-CoVZC45 and bat-SL-CoVZXC21 [5]. People with history of visit 
+to Wuhan’s seafood market contracted this infection but in due course, it was 
+revealed that in some individuals no record of seafood market visit had also 
+contracted infection suggesting its capability of human to human transmission 
+capability [6]. This can occur via direct contact with an infected person, exposed 
+to coughing, sneezing, respiratory droplets or an aerosol which enter human 
+lungs via inhalation through nose or mouth and via indirect contact i.e. as 
+fomite transmission. Recent case series has put forward possibility of vertical 
+transmission of SARS-CoV-2 from infected mother to her new born; however it 
+is not conclusive [7] [8] [9]. 
+3. Coronavirus Classification/Taxonomy 
+Based on the serological cross-reactivity characteristics, these coronaviruses are 
+divided into three genera, i.e., group I to III [10] [11]. This was also confirmed 
+by genome sequencing analysis [12]. The Group-I coronavirus includes animal 
+pathogens such as transmissible gastroenteritis virus (TGEV), Porcine epidemic 
+diarrhoea virus (PEDV), feline infectious peritonitis virus (FIPV) as well as hu-
+man coronaviruses HCoV-229E, HKU1; Group-II coronavirus includes patho-
+gens of veterinary relevance such as Bovine coronavirus (BCoV), equine corona-
+viruses, porcine hemagglutinating encephalomyelitis virus as well as human co-
+ronavirus OC43, NL63 and Group-III includes only avian coronavirus such as 
+IBV, pheasant coronavirus and turkey coronaviruses [13]. But, the Group-II vi-
+ruses which infects mice and rats were also found to be as coronavirus prototype 
+that were found responsible in causing infections like enteric diseases, hepatitis, 
+encephalitis, respiratory diseases and chronic demyelination [14]. Many contro-
+versies exist about the SARS-CoV that whether it belongs to a new group of co-
+ronaviruses or a distant member of group [15]. The sequences of coronaviruses 
+detected in Columbia livia (feral pigeon), Anser anser (Greylag goose) and Anas 
+ 
+DOI: 10.4236/ojrm.2020.92004  22  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+M. Jeyaraman et al. 
+ 
+platyrhynchos (mallard) and their phylogenetic analysis also confirms that these 
+viruses belong to group-III [16]. There were two prototypes of human corona-
+viruses found to cause common cold in humans namely OC43 and 229E pre-
+vious to the emergence of SARS-CoV [17] and determined to have long specula-
+tions about human coronaviruses with serious health issues such as multiple 
+sclerosis [18], hepatitis [19] and enteric diseases in new borns [20]. 
+4. Virion Structure and Function 
+Coronaviruses (nCOVID-19/SARS-CoV-2) are enveloped viruses with round or 
+pleomorphic structure of approximately 80 to 120 nm in diameter containing 
+positive single-stranded RNA genome of 30 kb size [21] [22] (as shown in Fig-
+ure 1). The RNA genome is complexed with basic nucleocapsid protein (N) to 
+form a helical viral protein and these are spike proteins (S) which are the Type-I 
+glycoprotein  that  forms  the  peplomers  on  the  virion  surface  giving  it  a 
+crown-like structure (as shown in Figure 1). The membrane protein (M) which 
+spans three times the viral membrane has a short N-terminal ectodomain and a 
+cytoplasmic tail. The small membrane protein (E) is found to be highly hydro-
+phobic in nature [23] and this spans twice the N and C terminals on the interior 
+part of the virion [24]. There are still many other minor proteins present in the 
+viral structure yet undetected and the genomes of all the coronaviruses were 
+found to have similar structural characteristics [25]. For all coronaviruses, the 
+structural proteins are encoded in order of S-E-M-N within the one third of the 
+genome and each group of coronaviruses encodes a group of unique small pro-
+teins while these are non-essential proteins and have been found to serve as ac-
+cessory proteins to interact or interfere with the host innate immune responses 
+which has not been demonstrated for any of these proteins [26] [27]. Untrans-
+lated regions of coronaviruses (UTRs) on both 5’ and 3’ ends of the genome were 
+believed to interact with the host and control the RNA replication process and 
+the viral transcription has been reviewed in recent studies [28]. 
+ 
+ 
+Courtesy: First Electron microscopic image of COVID-19 virus (NIV, Pune, India) 
+Figure 1. Structural representation of SARS-CoV-2. 
+ 
+DOI: 10.4236/ojrm.2020.92004  23  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+M. Jeyaraman et al. 
+ 
+5. Replication of nCOVID-19 
+Coronaviruses (nCOVID-19/SARS-CoV-2) attach to specific cellular receptors 
+like ACE-2 with its spike protein (S) and this triggers a conformational change 
+in the viral spike protein which mediates a fusion reaction between the virus and 
+the cell membrane resulting in injecting the viral genetic material into the host 
+cell. Upon entry, the 5’ end of the RNA genome, ORFs 1a and 1b are translated 
+into polyproteins (pp 1a and pp 1b) and here, the polyproteins pp 1ab are trans-
+lated through a frameshift mechanism occurring at a high frequency of 25% to 
+30% [20] [28]. ORF 1a encodes one or two papain like protease enzymes and a 
+picornavirus 3C-like protease which functions in processing the polyproteins 
+into mature replicase proteins [29] and encoded in X domain of ORF 1a and 
+processed by an RNA-dependent RNA polymerase (RdRP) along with helicase 
+enzyme [30] as well as with other enzymatic activities [31]. An additional puta-
+tive enzymatic activity of cyclic phosphodiesterase encodes the downstream 
+process in ORF 2a and these multiple enzymatic activities play a vital role in 
+metabolism of coronavirus RNA interaction with the host cell process [32]. The 
+interaction between the viral spike protein (S) and the ACE-2 receptor on the 
+host cell surface significantly initiates the infection process and the cryo-EM 
+structure  analysis  has  revealed  the  binding  affinity  efficacy  of  nCOVID-19 
+(SARS-CoV-2) S protein to ACE-2 receptor of about 10 to 20 times higher than 
+that of SARS-CoV S protein [33] [34] and has higher transmissibility and conta-
+giosity of nCOVID-19 as compared to SARS-CoV [35]. 
+On the basis of genome sequence alignment and homology, SARS-CoV and 
+SARS-CoV-2 (nCOVID-19) are found to have shared a highly conserved recep-
+tor-binding domain (RBD) and there is 76% similarity of the domain of S pro-
+tein sequence [22] [36] and 83% of similarity in their active sites [4]. Due to their 
+much higher binding affinity to the cellular receptors the human to human 
+transmission  of  the  virus  is  also  visibly  higher  when  compared  to  that  of 
+SARS-CoV coronavirus outbreak and additional studies are required in this 
+pandemic situation for better investigation of this possibility of higher transmis-
+sion among individuals [37]. Based on these evidences, the natural evolution of 
+nCOVID-19 or the SARS-CoV-2 was supported based on its overall molecular 
+mechanisms and also scientists have found that SARS-CoV-2 backbone differed 
+substantially from those known coronaviruses. Additionally, their viral resem-
+blances were found in bats and pangolins. Hence, the scientists concluded that 
+the nCOVID-19 coronavirus is the product of natural evolution ending any de-
+liberate genetic engineering [38]. 
+6. Pathogenesis of nCOVID-19 with Human Host 
+nCOVID-19 patients show clinical manifestations such as fever, non-productive 
+cough, dyspnoea, fatigue, myalgia, normal or decreased leukocyte counts with 
+radiographic evidence of pneumonia. Recent evidences shows anosmia, hypos-
+mia and dysgeusia to be considered in the list of symptoms associated with 
+ 
+DOI: 10.4236/ojrm.2020.92004  24  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+M. Jeyaraman et al. 
+ 
+nCOVID-19 infection [39]. As per several reports, the envelope spike glycopro-
+tein play pivotal role in the entry. It recognizes and binds to its cellular receptor 
+angiotensin  I  converting  enzyme  2  receptor  (ACE2R)  for  SARS-CoV  and 
+SARS-CoV-2, CD209L (a C-type lectin, also called L-SIGN) for SARS-CoV, 
+DPP4 for MERS-CoV [40]. Moreover the entry mechanism is also dependent on 
+cellular protease like human airway trypsin like protease (HAT), cathepsins and 
+transmembrane protease serine 2 (TMPRSS2) which facilitates splitting of spike 
+protein and further penetration changes are established [41] [42]. Molecular 
+studies explicatively stated that ACE2 receptors are widely distributed on the 
+human cell surface, especially the alveolar type II cells (AT2) and capillary en-
+dothelium with AT2 highly expressing TMPRSS2. Viral proteins and genome 
+RNA are subsequently assembled into virions in endoplasmic reticulum or 
+Golgi.  Lastly  from  endoplasmic-reticulum-Golgi  intermediate  compartment 
+(ERGIC), the viral particles in the vesicles fuse with plasma membrane to release 
+the virus [5] [6]. The Structural proteins are encoded by the four structural 
+genes, including spike (S), envelope (E), membrane (M) and nucleocapsid (N) 
+genes (as shown in Figure 1). The ORF1ab is the largest gene in SARS-CoV-2 
+which encodes the pp1ab protein and 15 nsps. The genomic variation between 
+SARS-CoV and SARS-CoV-2 such as the absence of 8a protein and fluctuation 
+in the number of amino acids in 8b and 3c protein in SARSCoV-2 [6]. 
+The mortality in nCOVID-19 patients is associated with onset of acute respiratory 
+distress syndrome (ARDS) due to the cytokine storm mechanism resulting in un-
+controlled systemic inflammatory response from the release of pro-inflammatory 
+cytokines (IFN-α, IFN-γ, IL-1β, IL-6, IL-12, IL-8, IL-33, TNF-α, TGF-β) and 
+chemokines (CCL2, CCL3, CCL5, CXCL8, CXCL9, CXCL-10 etc) [5] [40]. It 
+culminates into edema, dysfunction of the air exchange, acute respiratory dis-
+tress syndrome, acute cardiac injury and the secondary infection which may lead 
+to death [42]. The key to treatment aims at avoiding or attenuating cytokine 
+storm, and to restrict the entry of mononuclear cells via CD4 and CD8T cells (as 
+shown in Figure 2). Case studies and analysis throw light on application of 
+mesenchymal stem cells in such a situation. MSCs, with their powerful immu-
+nomodulatory ability, may benefit by preventing or attenuating the cytokine 
+storm [40]. 
+7. Emerging Stem Cell Based Therapy   
+for nCOVID-19 
+Recent advances in molecular biology and regenerative medicine has promised 
+induction of the activity of micro-molecules such as stem cells, bioactive materi-
+als and growth factors promoting improved quality, structure, function and 
+bio-mechanical strength of tissue regeneration and healing process. The cellular 
+therapy induces cellular proliferation, chondrogenesis, angiogenesis and rejuve-
+nation of degenerated tissue to attain micromolecular homeostasis. 
+ 
+DOI: 10.4236/ojrm.2020.92004  25  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+M. Jeyaraman et al. 
+ 
+The art of cellular therapy has revolutionized the field of regenerative medicine 
+towards natural healing cascade. Among cellular therapy, mesenchymal stem cells 
+(MSCs) has homing ability, immunoregulatory nature, anti-inflammatory effects, 
+and multilineage differentiation potential as reported by Ullah et al. [43] and 
+Ramesh R et al. [44] (as shown in Figure 3). 
+MSCs could act upon two ways in the nCOVID19 treatment, namely immu-
+nomodulatory effects and differentiation ability. In nCOVID19 cases, acute res-
+piratory distress is the result of SARS-CoV-2 infecting alveolar type II cells 
+(AT2) and the capillary endothelium as mentioned by Hamming et al. [45]. The  
+ 
+ 
+Figure 2. Mechanism of action of MSCs in nCOVID-19 treatment. 
+ 
+ 
+Figure 3. Role of MSCs in nCOVID-19 treatment. 
+ 
+DOI: 10.4236/ojrm.2020.92004  26  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+M. Jeyaraman et al. 
+ 
+pulmonary cells generally express ACE2 (Angiotensin-converting enzyme 2) re-
+ceptor and TMPRSS2 (transmembrane serine protease 2) on their membrane. 
+SARS-CoV-2 uses this ACE2 for the entry and the TMPRSS2 serine protease 
+aids in S protein priming. These two membrane proteins (ACE2 and TMPRSS2) 
+mediate viral entry into cells and also the spread of virus within the host [46]. 
+According to F. Qi et al., the expression of ACE2 and TMPRSS2 are not only 
+limited to pulmonary cells [47], they are widely expressed in the Cardiac, renal 
+and hepatic tissues. Hence, patients with severe infection possibly along with 
+dyspnoea also suffer from multiple organ failure, shock, heart failure, arrhyth-
+mias, and renal failure. 
+MSCs are bestowed with the property of not exhibiting ACE2. In addition, Z. 
+Leng et al. have shown the absence of TMPRSS2 in MSC through single-cell 
+transcriptome analysis [38]. By naturally lacking the key entry points, MSCs are 
+immune to SARS-CoV-2 infection. 
+8. Clinical Trials on MSCs and nCOVID-19 
+A multicentric trial by Beijing 302 hospital (Trial no: NCT04252118) is expected 
+to recruit 20 patients to evaluate the safety and functional outcome of umbilical 
+cord mesenchymal stem cell therapy (UC-MSCs) for patients with nCOVID-19 
+pneumonia.  A  group  of  10  patients  will  receive  3  intravenous  infusion  of 
+UC-MSCs along with the conventional treatment and remaining 10 patients will 
+receive only conventional treatment. The clinical, immunological, pulmonary 
+functional and radiological outcomes will be evaluated during 180 days follow 
+up period. The phase I trial researchers expected the potential beneficial effect of 
+MSC based treatment could be principally due to the immunomodulation and 
+regenerative potential of pulmonary parenchymal cells [48]. 
+A  clinical  trial  was  started  by  Wuhan  Union  Hospital  (Trial  no: 
+NCT04273646) to investigate effectiveness and safety of UC-MSCs in treating 
+nCOVID-19 severe pneumonia patients. They recruited 48 patients, with 24 pa-
+tients receiving 4 IV transfusion of 5.0 × 106 cells/kg of UC-MSCs along with 
+conventional treatment. Another 24 patients receiving conventional treatment 
+(in the form of supportive treatment) will serve as a control group. Based on 
+their study protocol the patients will be followed up from 90 days to 96 weeks. 
+These researchers proclaimed that UC-MSCs migrate to damaged tissues and 
+exert strong anti-inflammatory & immunomodulatory functions to promote the 
+repair, regeneration and rejuvenation and to resist necro-apoptosis and fibrosis 
+of damaged pulmonary parenchymal tissues [49]. 
+A clinical trial was started by the Puren Hospital (Trial no: NCT04293692) af-
+filiated to Wuhan University of Science and Technology to explore the safety 
+and efficacy of UC-MSCs therapy for coronavirus pneumonia patients. The re-
+searchers recruited 48 patients with 24 patients (study group) receiving 0.5 × 106 
+UC-MSCs /kg body weight IV treatment 4 times every alternate day along with 
+conventional treatment and the other 24 patients (control group) receiving the 
+ 
+DOI: 10.4236/ojrm.2020.92004  27  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+M. Jeyaraman et al. 
+ 
+conventional treatment plus 4 times of placebo intravenously. In this ongoing 
+trial, the efficacy of UC-MSCs will be evaluated within 24 hours and at 1, 2, 4, 8 
+weeks after treatment in terms of haematological and radiological improvement 
+along with 28-days mortality of the patient [50]. The end results of this trial are 
+yet to be published. 
+9. Discussion 
+Mesenchymal stem cells (MSCs) have self-renewal and multi-differential abili-
+ties. They are readily accessible and expandable in-vitro with exceptional ge-
+nomic stability and few ethical issues, marking its importance in cellular therapy, 
+regenerative medicine and tissue rejuvenation and repairment [51]. Tsai MS et 
+al. reported immunomodulatory effects and differentiation abilities of mesen-
+chymal stem cells [52]. The immunomodulatory effects of MSCs are triggered by 
+the activation of toll like receptor in MSCs [53] [54]. Few pilot studies by Leng Z 
+et al. [38] and Liang B et al. [55], using MSCs have produced promising outcome 
+for patients reported positive for SARS-CoV-2 nucleic acid. By utilizing its re-
+parative and immunomodulatory characteristics rightly, it can be a reliable 
+therapeutic strategy, notably in the nCOVID-19 pandemic. 
+MSCs exert antimicrobial effect indirectly through coordination of the pro- 
+and anti-inflammatory elements of the immune system or by increasing the 
+phagocytotic activity in the microenvironment; and directly by the secretion of 
+antimicrobial peptides & proteins (AMPs), and by the expression of molecules 
+such  as  indoleamine  2,3-dioxygenase  (IDO)  and  interleukin  (IL)-17  [56]. 
+AMPs-mediated cell killing occur by disrupting membrane integrity, by inhibit-
+ing protein, DNA or RNA synthesis, and by interacting with certain intracellular 
+targets. Thus, MSC helps in curbing the microbial agent [57] [58]. 
+Mesenchymal Stem Cell (MSC) therapy inhibit the exaggerated response of 
+the immune system and promotes, regenerates and rejuvenates the microenvi-
+ronment. After entering the systemic circulation, MSCs invade the lung paren-
+chyma and exerts its action by improving the pulmonary micro alveolar struc-
+ture and pulmonary compliance which further prevents pulmonary fibrosis [59]. 
+After administration of IV MSCs, due to its immunosuppressive potential, there 
+is a downregulation of proinflammatory cytokines and chemokines and induc-
+tion of regulatory dendritic cells to the repaired tissue. The increased levels of 
+IL-10 and VEGF promoted the pulmonary parenchymal repair and rejuvenation, 
+which  lead  to  the  clinical  and  functional  recovery  of  patients  with  severe 
+nCOVID-19 pneumonia [60] [61]. 
+Leng et al. (2020) conducted a pilot clinical study on MSC transplantation for 
+7 SARS-CoV-2 positive patients, among them one critically severe, four severe, 
+and two non-severe. 1 × 106 clinical-grade MSCs per kilogram of weight was 
+given as an intravenous dose to all the 7 patients. Extensive follow up on various 
+parameters including pulmonary function, peripheral lymphocytes, and C-reactive 
+proteins along with screening for SARS-CoV-2 nucleic acid, continued until 14 
+ 
+DOI: 10.4236/ojrm.2020.92004  28  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+M. Jeyaraman et al. 
+ 
+days after transplantation. The treatment significantly improved the health con-
+dition of the patients. Also the study showed that SARS-CoV-2 was not infecting 
+MSCs. In nCOVID-19 affected individuals, MSCs downregulates the inflamma-
+tory response and promote tissue repair and regeneration [38]. 
+Liang et al. (2020) treated a critically ill 65-year-old patient with allogeneic 
+human  umbilical  cord  MSC  (hUCMSC).  Three  intravenous  infusions  of 
+hUCMSC significantly improved the patient’s condition. It was evident even af-
+ter the first infusion of 5 × 107 hUCMSC, with no side effects reported [55]. 
+Mesenchymal Stem Cells (MSCs), as a therapeutic option for nCOVID-19 af-
+fected individuals, can help in improving the lung compliance, curb off pneu-
+monia and the agent factor causing the disease per se. The choice of mesenchy-
+mal stem cells has to be validated. Umbilical Cord Mesenchymal Stem Cells 
+(UC-MSCs) being allogenic and with limited availability, the option of autolo-
+gous Bone Marrow Mesenchymal Stem Cells (BM-MSCs) and Adipose derived 
+Mesenchymal stem cells (AD-MSCs), which are easily accessible in larger quan-
+tities as well as autologous in nature eliminating immunological concerns, can 
+serve the purpose of regenerating pulmonary micro alveolar epithelium and 
+meshwork, thus decreasing morbidity & mortality and improving the functional 
+quality of life of nCOVID-19 affected individuals. 
+The  evidence  on  Mesenchymal  stem  cell  as  a  therapeutic  option  for 
+nCOVID-19 patients is limited; more clinical trials have to be taken up with 
+ethical consideration to prove the efficacy and safety of MSCs in combating 
+nCOVID-19. Also, long term follow-up is required to validate the results and to 
+prove the long term risk-benefits of MSCs on nCOVID-19 affected individuals. 
+10. Conclusion 
+To summarise, this review focuses on the MSCs as a novel therapeutic option in 
+managing nCOVID-19 infected patients with severe pneumonia considering its 
+safety and efficacy. The novel cellular therapy against severe novel coronavirus 
+infection (nCOVID-19) renders autologous or allogenic MSCs as a therapeutic 
+option to regulate inflammatory response, maintain functional alveoli microen-
+vironment, promote endogenous regeneration and repair, and natural resistance 
+against it with no or minimal side-effects (as shown in Figure 2). To emphasize, 
+MSCs through its anti-inflammatory and immunomodulatory potential inhibit 
+the overactivation of immune system and play a vital role in regeneration of the 
+affected tissues, thus enhancing recovery. To add on, this therapeutic option of 
+treating critically ill nCOVID-19 patients with MSCs is relatively non-invasive 
+and inexpensive. Further studies are required in larger cohort to validate this 
+modality of treatment. 
+Acknowledgements 
+We thank Dr.Naveen Jeyaraman, Junior Resident of  Orthopedics, Kasturba 
+Medical College, Manipal, Karnataka, India and Dr. Prajwal GS, Junior Resident 
+ 
+DOI: 10.4236/ojrm.2020.92004  29  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+M. Jeyaraman et al. 
+ 
+of Orthopedics, JJM Medical College, Davangere, Karnataka, India for literature 
+search regarding nCOVID-19. All the authors have equally contributed in fram-
+ing and reviewing the manuscript. 
+Conflicts of Interest 
+The authors declare no conflicts of interest regarding the publication of this pa-
+per. 
+References 
+[1]  World Health Organisation (WHO) (2020) Novel Coronavirus (2019-nCoV). 
+[2]  Hui, D.S., Azhar, E.I., Madani, T.A., Ntoumi, F., Kock, R., Dar, O., et al. (2020) The 
+Continuing 2019-nCoV Epidemic Threat of Novel Coronaviruses to Global Health: 
+The Latest 2019 Novel Coronavirus Outbreak in Wuhan, China. International 
+Journal of Infectious Diseases, 91, 264-266.  
+https://doi.org/10.1016/j.ijid.2020.01.009 
+[3]  Lu, R.J., Zhao, X., Li, J., Niu, P.H., Yang, B., Wu, H.L., et al. (2020) Genomic Char-
+acterisation and Epidemiology of 2019 Novel Coronavirus: Implications for Virus 
+Origins and Receptor Binding. The Lancet, S0140-6736(20)30251-8. 
+[4]  Anderson, K.G., Rambaut, A., Lipkin, W.I., Holmes, E.C. and Garry, R.F. (2020) 
+The Proximal Origin of SARS-CoV-2. Nature Medicine.  
+https://doi.org/10.1038/s41591-020-0820-9 
+[5]  Li, X.W., Geng, M.M., Peng, Y.Z., Meng, L.S. and Lu, S.M. (2020) Molecular Im-
+mune Pathogenesis and Diagnosis of COVID-19. Journal of Pharmaceutical Analy-
+sis. (In Press) 
+[6]  Shereen, M.A., Khan, S., Kazmi, A., Bashir, N. and Siddique, R. (2020) COVID-19 
+Infection: Origin, Transmission, and Characteristics of Human Coronaviruses. 
+Journal of Advanced Research, 24, 91-98. https://doi.org/10.1016/j.jare.2020.03.005 
+[7]  Dong, L., Tian, J., He, S., Zhu, C., Wang, J., Liu, C. and Yang, J. (2020) Possible 
+Vertical Transmission of SARS-CoV-2 from an Infected Mother to Her Newborn. 
+JAMA. (In Press) https://doi.org/10.1001/jama.2020.4621 
+[8]  Yu, N., Li, W., Kang, Q.L., Xiong, Z., Wang, S.S., Lin, X.G., et al. (2020). 
+Clinical Features and Obstetric and Neonatal Outcomes of Pregnant Patients 
+with COVID-19 in Wuhan, China: A Retrospective, Single-Centre, Descrip-
+tive Study. The Lancet Infectious Diseases.  
+[9]  Chen, H.J., Guo, J.J., Wang, C., Luo, F., Yu, X.C., Zhang, W., et al. (2020) Clinical 
+Characteristics and Intrauterine Vertical Transmission Potential of COVID-19 In-
+fection in Nine Pregnant Women: A Retrospective Review of Medical Records. The 
+Lancet, 395, 809-815. https://doi.org/10.1016/S0140-6736(20)30360-3 
+[10]  Tyrrel, D.A.J., Almedia, J.D., Berry, D.M., Cunningham, C.H., Hamre, D., Hofstad, 
+M.S., Malluci, L. and McIntosh, K. (1968) Coronavirus. Nature, 220, 650.  
+https://doi.org/10.1038/220650b0 
+[11]  McIntosh, K. (1974) Coronaviruses: A Comparative Review. Current Topics in Mi-
+crobiology and Immunology, 63, 85-129.  
+https://doi.org/10.1007/978-3-642-65775-7_3 
+[12]  Gonzalez, J.M., Gomez-Puertas, P., Cavanagh, D., Gorbalenya, A.E. and Enjuanes, 
+L. (2003) A Comparative Sequence Analysis to Revise the Current Taxonomy of the 
+Family Coronaviridae. Archives of Virology, 148, 2207-2235.  
+ 
+DOI: 10.4236/ojrm.2020.92004  30  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+M. Jeyaraman et al. 
+ 
+https://doi.org/10.1007/s00705-003-0162-1 
+[13]  Cavanagh, D., Mawditt, K., Welchman Dde, B., Britton, P. and Gough, R.E. (2002) 
+Coronaviruses from Pheasants (Phasianus colchicus) Are Genetically Closely Re-
+lated to Coronaviruses of Domestic Fowl (Infectious Bronchitis Virus) and Turkeys. 
+Avian Pathology, 31, 81-93. https://doi.org/10.1080/03079450120106651 
+[14]  Goebel, S.J., Taylor, J. and Masters, P.S. (2004) The 3 Cis-Acting Genomic Replica-
+tion Element of the Severe Acute Respiratory Syndrome Coronavirus Can Function 
+in the Murine Coronavirus Genome. Journal of Virology, 78, 7846-7851.  
+https://doi.org/10.1128/JVI.78.14.7846-7851.2004 
+[15]  Gorbalenya, A.E., Snijder, E.J. and Spaan, W.J. (2004) Severe Acute Respiratory 
+Syndrome Coronavirus Phylogeny: Toward Consensus. Journal of Virology, 78, 
+7863-7866. https://doi.org/10.1128/JVI.78.15.7863-7866.2004 
+[16]  Jonassen, C.M., Kofstad, T., Larsen, I.L., Lovland, A., Handeland, K., Follestad, A. 
+and Lillehaug, A. (2005) Molecular Identification and Characterization of Novel 
+Coronaviruses Infecting Graylag Geese (Anser anser), Feral Pigeons (Columbia 
+livia)  and  Mallards  (Anas platyrhynchos). Journal of General Virology,  86, 
+1597-1607. https://doi.org/10.1099/vir.0.80927-0 
+[17]  Burks, J.S., DeVald, B.L., Jankovsky, L.D. and Gerdes, J. (1980) Two Coronaviruses 
+Isolated from Central Nervous System Tissue of Two Multiple Sclerosis Patients. 
+Science, 209, 933-934. https://doi.org/10.1126/science.7403860 
+[18]  Zuckerman, A.J., Taylor, P.E. and Almeida, D. (1970) Presence of Particles Other 
+than the Australia-SH Antigen in a Case of Active Hepatitis with Cirrhosis. British 
+Medical Journal, 1, 262-264. https://doi.org/10.1136/bmj.1.5691.262 
+[19]  Resta, S., Luby, J.P., Rosenfiled, C.R. and Siegel, J.D. (1985) Isolation and Propaga-
+tion of a Human Enteric Coronavirus. Science, 229, 978-981.  
+https://doi.org/10.1126/science.2992091 
+[20]  Lee, H.J., Shieh, C.K., Gorbalenya, A.E., Koonin, E.V., Monica, N., Tuler, J., et al. 
+(1991) The Complete Sequence (22 Kilobases) of Murine Coronavirus Gene 1 En-
+coding the Putative Proteases and RNA Polymerase. Virology, 180, 567-582.  
+https://doi.org/10.1016/0042-6822(91)90071-I 
+[21]  Lomniczi, B.J. (1977) Biological Properties of Avian Coronavirus RNA. Journal of 
+General Virology, 36, 531-533. https://doi.org/10.1099/0022-1317-36-3-531 
+[22]  Bond, C.W., Leibowitz, J.L. and Robb, J.A. (1979) Pathogenic Murine Coronavi-
+ruses. II. Characterization of Virus-Specific Proteins of Murine Coronaviruses 
+JHMV and A59V. Virology, 94, 371-384.  
+https://doi.org/10.1016/0042-6822(79)90468-9 
+[23]  Maeda, J., Repass, J.F., Maeda, A. and Makino, S. (2001) Membrane Topology of 
+Coronavirus E Protein. Virology, 281, 163-169.  
+https://doi.org/10.1006/viro.2001.0818 
+[24]  Brian, D.A., Hogue, B.G. and Kienzle, T.E. (1995) The Coronavirus Hemagglutinin 
+Esterase Glycoprotein. In: Siddell, S.G., Ed., The Coronaviridae, Plenum Press, New 
+York, 165-179. https://doi.org/10.1007/978-1-4899-1531-3_8 
+[25]  An, S., Chen, C.J., Yu, X., Leibowitz, J.L. and Makino, S. (1999) Induction of Apop-
+tosis in Murine Coronavirus-Infected Cultured Cells and Demonstration of E Pro-
+tein as an Apoptosis Inducer. Journal of Virology, 73, 7853-7859.  
+https://doi.org/10.1128/JVI.73.9.7853-7859.1999 
+[26]  Arden, K.E., Nissen, M.D., Sloots, T.P. and Mackay, I.M. (2005) New Human 
+Coronavirus, HCoV-NL63, Associated with Severe Lower Respiratory Tract Disease 
+ 
+DOI: 10.4236/ojrm.2020.92004  31  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+M. Jeyaraman et al. 
+ 
+in Australia. Journal of Medical Virology, 75, 455-462.  
+https://doi.org/10.1002/jmv.20288 
+[27]  Brian, D.A. and Baric, R.S. (2005) Coronavirus Genome Structure and Replication. 
+Current Topics in Microbiology and Immunology, 287, 1-30.  
+https://doi.org/10.1007/3-540-26765-4_1 
+[28]  Bredenbeek, P.J., Pachuk, C.J., Noten, A.F., Charite, J., Luytjes, W., Weiss, A.R., et 
+al. (1990) The Primary Structure and Expression of the Second Open Reading 
+Frame of the Polymerase Gene of the Coronavirus MHV-A59; a Highly Conserved 
+Polymerase Is Expressed by an Efficient Ribosomal Frameshifting Mechanism. Nu-
+cleic Acids Research, 18, 1825-1832. https://doi.org/10.1093/nar/18.7.1825 
+[29]  Gorbalenya, A.E. (2001) Big Nidovirus Genome. When Count and Order of Do-
+mains Matter. Advances in Experimental Medicine and Biology, 494, 1-17.  
+https://doi.org/10.1007/978-1-4615-1325-4_1 
+[30]  Ivanov, K.A., Hertzig, T., Rozanov, M., Bayer, S., Thiel, V., Gorbalenya, A.E. and 
+Ziebuhr, J. (2004) Major Genetic Marker of Nidoviruses Encodes a Replicative En-
+doribonuclease. Proceedings of the National Academy of Sciences of the United 
+States of America, 101, 12694-12699. https://doi.org/10.1073/pnas.0403127101 
+[31]  Ziebuhr, J. (2005) The Coronavirus Replicase. Current Topics in Microbiology and 
+Immunology, 287, 57-94. https://doi.org/10.1007/3-540-26765-4_3 
+[32]  Barthold, S.W., Beck, D.S. and Smith, A.L. (1993) Enterotropic Coronavirus (Mouse 
+Hepatitis Virus) in Mice: Influence of Host Age and Strain on Infection and Dis-
+ease. Laboratory Animal Science, 43, 276-284. 
+[33]  Bergmann, C., McMillan, M. and Stohlman, S. (1993) Characterization of the 
+Ld-Restricted Cytotoxic T-Lymphocyte Epitope in the Mouse Hepatitis Virus Nu-
+cleocapsid Protein. Journal of Virology, 67, 7041-7049.  
+https://doi.org/10.1128/JVI.67.12.7041-7049.1993 
+[34]  Baric, R.S., Sullivan, E., Hensley, L., Yount, B. and Chen, W. (1999) Persistent Infec-
+tion Promotes Cross-Species Transmissibility of Mouse Hepatitis Virus. Journal of 
+Virology, 73, 638-649. https://doi.org/10.1128/JVI.73.1.638-649.1999 
+[35]  Bisht, H., Roberts, A., Vogel, L., Bukreyev, A., Collins, P.L., Murphy, B.R., et al. 
+(2004) Severe Acute Respiratory Syndrome Coronavirus Spike Protein Expressed by 
+Attenuated Vaccinia Virus Protectively Immunizes Mice. Proceedings of the Na-
+tional Academy of Sciences of the United States of America, 101, 6641-6646.  
+https://doi.org/10.1073/pnas.0401939101 
+[36]  Prasad, R., Perappadan, B.S., Shelar, J. and Koshy, J. (2020) The Pandemic Note-
+book. A Handy Guide from the Hindu on Understanding the Coronavirus Pan-
+demic and Staying Protected against COVID-19. The Hindu. 
+[37]  American Academy of Otolaryngology Head and Neck Surgery (2020) COVID-19 
+Anosmia Reporting Tool for Clinicians. 
+[38]  Leng, Z.K., Zhu, R.J., Hou, W., Feng, Y.M., Yang, Y.L., Han, Q., et al. (2020) Trans-
+plantation of ACE2-Mesenchymal Stem Cells Improves the Outcome of Patients 
+with COVID-19 Pneumonia. Aging and Disease, 11, 216-228.  
+https://doi.org/10.14336/AD.2020.0228 
+[39]  Iwata-Yoshikawa, N., Okamura, T., Shimizu, Y., Hasegawa, H., Takeda, M. and 
+Nagata, N. (2019) TMPRSS2 Contributes to Virus Spread and Immunopathology in 
+the Airways of Murine Models after Coronavirus Infection. Journal of Virology, 93, 
+e01815-18. https://doi.org/10.1128/JVI.01815-18 
+[40]  Huang, C.L., Wang, Y.M., Li, X.W., Ren, L.L., Zhao, J.P., Hu, Y., et al. (2020) Clini-
+cal Features of Patients Infected with 2019 Novel Coronavirus in Wuhan, China. 
+ 
+DOI: 10.4236/ojrm.2020.92004  32  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+M. Jeyaraman et al. 
+ 
+The Lancet, 395, 497-506. https://doi.org/10.1016/S0140-6736(20)30183-5 
+[41]  Chen, Y., Liu, Q. and Guo, D. (2020) Emerging Coronaviruses: Genome Structure, 
+Replication and Pathogenesis. Journal of Medical Virology, 92, 418-423. 
+https://doi.org/10.1002/jmv.25681 
+[42]  Liang, T.B. (2020) Handbook of COVID-19 Prevention and Treatment. The First 
+Affiliated Hospital, Zhejiang University School of Medicine (FAHZU). 1st Ed., p. 
+68. https://www.zju.edu.cn/english/2020/0323/c19573a1987520/page.htm 
+[43]  Ullah, I., Subbarao, R.B. and Rho, G.J. (2015) Human Mesenchymal Stem Cells: 
+Current Trends and Future Prospective. Bioscience Reports, 35, e00191. 
+https://doi.org/10.1042/BSR20150025 
+[44]  Ramesh, R., Jeyaraman, M., Chaudhari, K., Dhamsania, H.J. and Prajwal, G.S. 
+(2018) Mesenchymal Stem Cells: A Boon to Orthopedics. Open Journal of Regen-
+erative Medicine, 7, 19-27. https://doi.org/10.4236/ojrm.2018.72002 
+[45]  Hamming, I., Timens, W., Bulthuis, M.L.C., Lely, A.T., Navis, G.J. and van Goor, H. 
+(2004) Tissue Distribution of ACE2 Protein, the Functional Receptor for SARS 
+Coronavirus. A First Step in Understanding SARS Pathogenesis. Journal of Pathol-
+ogy, 203, 631-637. https://doi.org/10.1002/path.1570 
+[46]  Hoffmann, M., Weber, H.K., Schroeder, S., Kruger, N., Herrler, T., Erichsen, S., et 
+al. (2020) SARS-CoV-2 Cell Entry Depends on ACE2 and TMPRSS2 and Is Blocked 
+by a Clinically Proven Protease Inhibitor. Cell, 181, 1-10.  
+https://doi.org/10.1016/j.cell.2020.02.052 
+[47]  Qi, F.R., Qian, S., Zhang, S.Y. and Zhang, Z. (2020) Single Cell RNA Sequencing of 
+13 Human Tissues Identify Cell Types and Receptors of Human Coronaviruses, 
+Biochemical and Biophysical Research Communications. (In Press) 
+[48]  ClinicalTrials.gov. Mesenchymal Stem Cell Treatment for Pneumonia Patients In-
+fected with 2019 Novel Coronavirus. ClinicalTrials.gov. Identifier: NCT04252118.  
+https://clinicaltrials.gov/ct2/show/NCT04252118  
+[49]  ClinicalTrials.gov. Study of Human Umbilical Cord Mesenchymal Stem Cells in the 
+Treatment of Novel Coronavirus Severe Pneumonia. ClinicalTrials.gov. Identifier: 
+NCT04273646.  
+https://clinicaltrials.gov/ct2/show/NCT04273646?term=stem+cells&cond=Corona+
+Virus+Infection&draw=2  
+[50]  ClinicalTrials.gov. Therapy for Pneumonia Patients Infected by 2019 Novel Coro-
+navirus. ClinicalTrials.gov. Identifier: NCT04293692.  
+https://clinicaltrials.gov/ct2/show/NCT04293692?term=stem+cells&cond=Corona+
+Virus+Infection&draw=2&rank=7  
+[51]  Horwitz, E.M., Le Blanc, K., Dominici, M., Mueller, I., Slaper-Cortenbach, I., 
+Marini, F.C., Deans, R.J., Krause, D.S. and Keating, A. (2005) Clarification of the 
+Nomenclature for MSC: The International Society for Cellular Therapy Position 
+Statement. Cytotherapy, 7, 393-395. https://doi.org/10.1080/14653240500319234 
+[52]  Tsai, M.S., Lee, J.L., Chang, Y.J. and Hwang, S.M. (2004) Isolation of Human Mul-
+tipotent Mesenchymal Stem Cells from Second-Trimester Amniotic Fluid Using a 
+Novel Two-Stage Culture Protocol. Human Reproduction, 19, 1450-1456.  
+https://doi.org/10.1093/humrep/deh279 
+[53]  Huang, G.T., Gronthos, S. and Shi, S. (2009) Mesenchymal Stem Cells Derived from 
+Dental Tissues vs. Those from Other Sources: Their Biology and Role in Regenera-
+tive Medicine. Journal of Dental Research, 88, 792-806.  
+https://doi.org/10.1177/0022034509340867 
+ 
+DOI: 10.4236/ojrm.2020.92004  33  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+M. Jeyaraman et al. 
+ 
+[54]  Seifrtova, M., Havelek, R., Cmielova, J., Jiroutova, A., Soukup, T., Bruckova, L., 
+Mokry, J., English, D. and Rezacova, M. (2012) The Response of Human Ectomes-
+enchymal Dental Pulp Stem Cells to Cisplatin Treatment. International Endodontic 
+Journal, 45, 401-412. https://doi.org/10.1111/j.1365-2591.2011.01990.x 
+[55]  Liang, B., et al. (2020) Clinical Remission of a Critically Ill COVID-19 Patient 
+Treated by Human Umbilical Cord Mesenchymal Stem Cells. 
+[56]  Alcayaga-Miranda, F., Cuenca, J. and Khoury, M. (2017) Antimicrobial Activity of 
+Mesenchymal Stem Cells: Current Status and New Perspectives of Antimicrobial 
+Peptide-Based Therapies. Frontiers in Immunology, 8, 339.  
+https://doi.org/10.3389/fimmu.2017.00339 
+[57]  Krasnodembskaya, A., Song, Y., Fang, X., et al. (2010) Antibacterial Effect of Hu-
+man Mesenchymal Stem Cells Is Mediated in Part from Secretion of the Antimicro-
+bial Peptide LL-37. Stem Cells, 28, 2229-2238. https://doi.org/10.1002/stem.544 
+[58]  Sutton, M.T., Fletcher, D., Ghosh, S.K., et al. (2016) Antimicrobial Properties of 
+Mesenchymal Stem Cells: Therapeutic Potential for Cystic Fibrosis Infection and 
+Treatment. Stem Cells International, 2016, Article ID: 5303048.  
+https://doi.org/10.1155/2016/5303048 
+[59]  Zhang, B., Liu, R., Shi, D., Liu, X., Chen, Y., Dou, X., et al. (2009) Mesenchymal 
+Stem Cells Induce Mature Dendritic Cells into a Novel Jagged-2-Dependent Regu-
+latory Dendritic Cell Population. Blood, 113, 46-57.  
+https://doi.org/10.1182/blood-2008-04-154138 
+[60]  Atluri, S., Manchikanti, L. and Hirsch, J.A. (2020) Expanded Umbilical Cord Mes-
+enchymal Stem Cells (UC-MSCs) as a Therapeutic Strategy in Managing Critically 
+Ill COVID-19 Patients: The Case for Compassionate Use. Pain Physician, 23, 
+E71-E83. 
+[61]  Liu,  X.,  Ren,  S.,  Ge,  C.,  Cheng,  K.,  Zenke,  M.,  Keating,  A., et al.  (2015) 
+Sca-1(+)Lin(-)CD117(-) Mesenchymal Stem/Stromal Cells Induce the Generation 
+of Novel IRF8-Controlled Regulatory Dendritic Cells through Notch-RBP-J Signal-
+ing. Journal of Immunology, 194, 4298-4308.  
+https://doi.org/10.4049/jimmunol.1402641 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+DOI: 10.4236/ojrm.2020.92004  34  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
+
+M. Jeyaraman et al. 
+ 
+Abbreviation 
+ACE—Angiotensin Converting Enzyme 
+AD-MSCs—Adipose Derived Mesenchymal Stem Cells 
+ARDS—Acute Respiratory Distress Syndrome 
+BM-MSCs—Bone Marrow Mesenchymal Stem Cells 
+MERS—Middle East Respiratory Syndrome-related coronavirus 
+MSC—Mesenchymal Stem Cells 
+SARS—Severe Acute Respiratory Syndrome 
+TMPRSS—Transmembrane Protease Serine 
+UC-MSCs— Umbilical Cord Mesenchymal Stem Cells 
+VEGF—Vascular Endothelial Growth Factor 
+WHO—World Health Organisation 
+ 
+ 
+ 
+ 
+DOI: 10.4236/ojrm.2020.92004  35  Open Journal of Regenerative Medicine 
+ 
+
+NEW PAGE
