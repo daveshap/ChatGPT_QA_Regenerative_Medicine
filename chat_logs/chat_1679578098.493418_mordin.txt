@@ -1,0 +1,7 @@
+Article: Upper extremity exomuscle for shoulder abduction support (continued)
+
+Design: The exomuscle is a novel inflatable actuator for shoulder abduction support, designed to push the arm from beneath rather than pull from above. It is based on pneumatic reel actuators and comprises a plastic bladder reinforced by a fabric tube sewn out of thermoplastic polyurethane (TPU)-coated polyester cloth. The fabric reinforced tube is wrapped around an axle mounted to the base assembly. The base assembly is held in place on the wearer's side by a waist strap and a contralateral shoulder strap.
+
+Comparison: The exomuscle is compared to a ceiling-mounted arm support as a positive control. Both devices are tested in healthy participants and stroke survivors to evaluate their effects on range of motion and reachable workspace area.
+
+Findings: The exomuscle does not impede range of motion and supports the anterior and medial components of the deltoid muscles in abducting the shoulder. In stroke survivors, exomuscle assistance increases reachable workspace area in the transverse plane in 4 out of 6 participants. Exomuscle support correlated with increased elbow range of motion, which is not supported by the exomuscle. The ceiling-mounted support and exomuscle produced different outcomes in stroke survivors, highlighting the need to validate assistive devices in the target population.

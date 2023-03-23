@@ -1,0 +1,7 @@
+Article: Upper extremity exomuscle for shoulder abduction support (continued)
+
+Testing in Unimpaired Population: Four participants with no indicated musculoskeletal deficits or injuries were recruited to test the exomuscle's effects. Muscle activity was measured in the shoulder muscles related to post-stroke workspace impairments while participants performed isometric and dynamic tasks.
+
+Results: Exomuscle use reduced muscle activity by 79.5% (p = 1.7×10−9) and 58.6% (p = 9.6×10−6) on average in the isometric and dynamic tasks, respectively. The ideal support (ceiling-mounted arm support) reduced muscle activity by 83.5% (p=6.1×10−11) and 52.9% (p = 4.6 × 10−7) on average in the isometric and dynamic tasks, respectively. The average muscle activity during exomuscle use was not significantly different from that measured while using the ideal support in either isometric or dynamic tasks with an α=0.05 confidence level.
+
+Conclusion: Both assistive devices, the exomuscle and the ceiling-mounted arm support, effectively support shoulder abduction as intended in unimpaired participants.

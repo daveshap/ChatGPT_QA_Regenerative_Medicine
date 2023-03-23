@@ -1,0 +1,15 @@
+Title: Upper extremity exomuscle for shoulder abduction support
+
+Authors: Cole Simpson, Bryce Huerta, Sean Sketch, Maarten Lansberg, Elliot Hawkes, Allison Okamura
+
+Context: Assistive devices can aid motor recovery after stroke, but access is limited. Exosuits may be more accessible alternatives, but little is known about their assistance in post-stroke upper extremity movement.
+
+Objective: Design an exosuit actuator (exomuscle) to support shoulder abduction in stroke survivors and compare its performance to a ceiling-mounted support (positive control).
+
+Methods: Exomuscle based on pneumatic-reel actuator. Tested on healthy participants (n=4) to verify reduced shoulder abductor muscle activity and unimpeded range of motion. Measured reachable workspace area in stroke survivors (n=6) with both supports and without support.
+
+Results: Exomuscle increased workspace area in four participants (180±90 cm2), while ceiling support increased workspace area in five participants (792±540 cm2). Performance differences between supports likely due to design decisions and high variability in stroke survivors' abilities.
+
+Conclusion: Both supports performed similarly for healthy participants, but differences in stroke survivors highlight the need to validate assistive devices in the target population.
+
+Exomuscle Design: Based on pneumatic-reel actuator, the exomuscle is a single actuator designed to push the arm from beneath rather than pull from above. The updated design consists of a plastic bladder reinforced by a fabric tube sewn out of thermoplastic polyurethane (TPU)-coated polyester cloth. The fabric reinforced tube is then wrapped around an axle mounted to the base assembly. The base assembly is held in place on the wearer's side by a waist strap and a contralateral shoulder strap, which supports the vertical forces required.

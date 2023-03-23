@@ -46,7 +46,7 @@ def chatgpt_completion(messages, temp=0, model="gpt-4"):
             if retry >= max_retry:
                 print(f"Exiting due to an error in ChatGPT: {oops}")
                 exit(1)
-            print(f'Error communicating with OpenAI: {oops}. Retrying in {2 ** (retry - 1) * 5} seconds...')
+            print(f'Error communicating with OpenAI: "{oops}" - Retrying in {2 ** (retry - 1) * 5} seconds...')
             sleep(2 ** (retry - 1) * 5)
 
 

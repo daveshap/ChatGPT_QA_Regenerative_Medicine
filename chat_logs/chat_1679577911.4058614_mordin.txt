@@ -1,0 +1,15 @@
+Title: Upper extremity exomuscle for shoulder abduction support
+
+Authors: Cole Simpson, Bryce Huerta, Sean Sketch, Maarten Lansberg, Elliot Hawkes, Allison Okamura
+
+Context: Assistive devices can aid motor recovery after stroke, but access is limited. Exosuits may be more accessible alternatives, but little is known about their assistance in post-stroke upper extremity movement.
+
+Objective: Design an exosuit actuator (exomuscle) to support shoulder abduction in stroke survivors and compare its performance to a ceiling-mounted support (positive control).
+
+Methods: Exomuscle based on pneumatic-reel actuator. Tested on healthy participants (n=4) to verify reduced shoulder abductor muscle activity and unimpeded range of motion. Measured reachable workspace area in stroke survivors (n=6) with both supports and without support.
+
+Results: Exomuscle increased workspace area in four participants (180±90 cm2), while ceiling support increased workspace area in five participants (792±540 cm2). Performance differences between supports likely due to design decisions and high variability in stroke survivors' abilities.
+
+Conclusion: Both supports performed similarly for healthy participants, but differences in stroke survivors highlight the need to validate assistive devices in the target population.
+
+Device Effects in Unimpaired Population: Tested on four healthy participants (3 males, 1 female). Exomuscle use reduced muscle activity by 79.5% (p = 1.7×10−9) and 58.6% (p = 9.6×10−6) on average in the isometric and dynamic tasks, respectively. The ideal support reduced muscle activity by 83.5% (p=6.1×10−11) and 52.9% (p = 4.6 × 10−7) on average in the isometric and dynamic tasks, respectively. The average muscle activity during exomuscle use was not significantly different from that measured while using the ideal support in either isometric or dynamic tasks with an α=0.05 confidence level. Both assistive devices support shoulder abduction as intended.
