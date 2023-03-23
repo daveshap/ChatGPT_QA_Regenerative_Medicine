@@ -1,0 +1,743 @@
+bioRxiv preprint doi: https://doi.org/10.1101/2020.04.25.061846; this version posted July 13, 2020. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC 4.0 International license.
+IEEETRANSACTIONSONMEDICALROBOTICSANDBIONICS 1
+Upper extremity exomuscle for
+shoulder abduction support
+Cole Simpson, Student Member, IEEE, Bryce Huerta, Sean Sketch, Maarten Lansberg,
+Elliot Hawkes, Member, IEEE, and Allison Okamura, Fellow, IEEE
+Abstract—Assistive devices may aid motor recovery after a mccabe2015comparison, lang2015dose but rigorously test-
+stroke, but access to such devices is limited. Exosuits can aid inglargedosagesinhumansisdifﬁcultduetothecommitment
+human movement and may be more accessible alternatives to
+required of both therapist and patient and the likelihood of
+current devices, but we know little about how they might assist
+interfering with standard care. Assistive devices may help pa-
+post-stroke upper extremity movement. Here, we designed an
+exosuit actuator to support shoulder abduction, which we call tientstoperformmoreandlongertherapieswithlesstherapist
+an “exomuscle” and is based on a form of growing robot involvement.
+called a pneumatic-reel actuator. We also assembled a ceiling- Assistive devices can be designed to aid patients in a
+mounted support for a positive control. We veriﬁed that both
+number of ways; one promising approach is to compensate
+supports reduce the activity of shoulder abductor muscles and
+for the effects of gravity. Compensating for gravity has
+do not impede range of motion in healthy participants (n=4).
+Then,wemeasuredreachableworkspaceareainstrokesurvivors been shown to increase stroke survivors’ reachable workspace
+(n=6) with both supports and without support. Our exomuscle sukal2007shoulder theoretically increasing the number of
+increased workspace area in four participants (180±90 cm2) tasks that can be performed. The relationship between gravity
+while the ceiling support increased workspace area in ﬁve par-
+compensation and increased reachable workspace is attributed
+ticipants(792±540cm2).Designdecisionsthatreduceexomuscle
+to abnormal ﬂexor synergy activation, in which stroke sur-
+complexity,suchas leavingtheforearmfree, likelycontributeto
+performancedifferencesbetweenthetwosupports.Heterogeneity vivors lose the ability to independently control the shoul-
+amongst stroke survivors’ abilities likely contribute to high der abductor and elbow ﬂexor muscles cheung2012muscle,
+variability in our results. Though both supports performed dewald2001abnormal Unloadingtheshoulderabductormus-
+similarly for healthy participants, performance differences in
+cles by providing gravity compensation reduces activity in
+stroke survivors highlight the need to validate assistive devices
+the elbow ﬂexor muscles, increasing elbow range of mo-
+in the target population.
+tion beer2007impact This gravity compensation strategy
+Index Terms—Exosuit, stroke, assistance, workspace, ﬂexor
+has been used in an eight-week therapy in which support
+synergy.
+was gradually removed, and motor improvements were found
+ellis2009progressive, ellis2007act Because of the simplicity
+I. INTRODUCTION and effectiveness of this approach, gravity compensation or
+shoulder abduction support is the goal of many assistive
+Stroke, the death of brain tissue due to interrupted
+devices.
+blood supply, is the leading cause of adult disability
+Exoskeletal robots, which use motors and rigid linkages
+Mozaffarian2015 While the typical stroke survivor regains
+to transmit forces to the user, have been used extensively in
+about 70% of lost motor function prabhakaran2008inter,
+research applications ellis2007act, sukal2007shoulder How-
+zarahn2011prediction, winters2015generalizability stroke
+ever, widespread adoption of rehabilitation exoskeletal robots
+remains the most common cause of adult disability in the
+by practicing healthcare providers has not yet taken place.
+United States ovbiagele2011stroke Due to aging popu-
+Some commercially produced passive exoskeletal devices,
+lations and changing lifestyles, the incidence and impact
+which use stored potential energy to compensate for gravity,
+of stroke is expected to increase. Post-stroke permanent
+are used in the clinic. Examples of such devices include the
+disability might be reduced by increasing therapy dosage
+HocomaArmeoSpringandtheSaeboMAS.Thesecommercial
+devices are rarely used outside the clinic. One key factor
+ThisworkwassupportedinpartbyStanford’sStrokeCollaborativeAction
+limiting adoption may be that existing devices are too ex-
+Network, the Wu Tsai Neurosciences Institute at Stanford University, the
+National Science Foundation Graduate Research Fellowship Program, and pensive and complex to operate. Much cost and complexity
+NationalScienceFoundationgrants1637446and1830163. stems from safety considerations such as aligning robot and
+C. Simpson, B. Huerta, and A. Okamura are with the Department of
+operator joints schiele2009inﬂuence compensating for the
+MechanicalEngineering,StanfordUniversity,Stanford,CA94035USA.(e-
+mail:cssimps@stanford.edu;bhuerta@stanford.edu;aokamura@stanford.edu) additional mass of the robot, and ensuring stable interactions
+S. Sketch is with Intuitive Surgical Inc., Sunnyvale, CA 94086, USA (e- with users duchaine2008investigation, kazerooni1995case
+mail:sean.sketch@intusurg.com
+These devices are limited by the workspace of the device,
+M. Lansberg is with the Department of Neurology and Neurological
+Sciences at Stanford University Medical Center, Palo Alto, CA 94304 USA whichisusuallygroundedtoatable,theﬂoor,orawheelchair.
+(e-mail:lansberg@stanford.edu) Wearable devices, grounded to the body instead of the envi-
+E. Hawkes is with the Department of Mechanical Engineering, Univer-
+ronment,maydiversifythecontextsinwhichassistivedevices
+sity of California, Santa Barbara, Santa Barbara, CA 93106 USA (e-mail:
+ewhawkes@engineering.ucsb.edu) can used.
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2020.04.25.061846; this version posted July 13, 2020. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC 4.0 International license.
+IEEETRANSACTIONSONMEDICALROBOTICSANDBIONICS 2
+Soft exosuits can address many challenges associated A. exomuscle B. ceiling support
+with traditional exoskeletal robots. While exoskeletal
+robots use rigid linkages to generate reaction forces,
+exosuits forgo rigid linkages, relying instead on the user’s
+skeleton for that purpose asbeck2014stronger Doing so
+removes components and therefore mass from the system,
+allowing exosuits to be constructed of primarily compliant
+materials that are lightweight, inexpensive, and require
+less precise manufacturing. While early exosuit designs
+focused on assisting with locomotion asbeck2014stronger,
+lee2017reducing, awad2017soft several recent examples
+actuate the upper extremity polygerinos2013towards, Fig. 1. User with (A) an exomuscle and (B) a ceiling support. A. The
+exomuscle is the experimental device in this study. Its design is based on
+realmuto2019robotic Speciﬁcally, exosuits have been
+a type of growing robot hawkes2017soft called a pneumatic-reel actuator
+created to assist with arm movements in stroke survivors hammond2017pneumatic B.Theceilingsupportisusedasapositivecontrol
+simpson2017exomuscle, oguntosin2015development, inthisstudy.
+natividad2016development,oneill2017soft,lessard2018soft,
+natividad2018exosleeve, tiseni2019edge In particular,
+tion. We also constructed a ceiling-mounted support for use
+severalofthesestudieshaveexaminedhowexosuituseaffects
+as a positive control. These two devices are shown in Fig. 1.
+muscular activity in healthy users and whether the exosuit
+limitstheuser’srangeofmotionnatividad2016development,
+A. Exomuscle design – experimental device
+simpson2017exomuscle, oneill2017soft, tiseni2019edge
+Only one recent study has examined the effects of an Exosuits are frequently made using multiple
+upper extremity exosuit on stroke survivors. In that study, actuators that apply compressive loads on the
+exosuit use increased shoulder abduction and ﬂexion range of user’s joints wehner2013lightweight, mao2011cable,
+motion, the degrees of freedom supported by their exosuit, brackbill2009dynamics However, in early pilot testing,
+in ﬁve stroke survivors oneill2020inﬂatable O’Neill et al. we determined that the forces required to fully support the
+oneill2020inﬂatable do not investigate whether unsupported weightofthearmwithoutstandoffsresultedinuncomfortably
+degrees of freedom, such as the elbow, beneﬁt from exosuit high compressive loads on the shoulder. Rather than adding
+assistance of shoulder abduction support as suggested by standoffs that might catch on objects in the environment
+previous studies of gravity compensation after stroke. No to reduce these loads, we designed our device to push the
+validations in healthy users were reported in that study. arm from beneath rather than pull from above. Additionally,
+Here, we design and build a novel inﬂatable actuator for because our device comprises a single actuator rather than a
+shoulder abduction support, analogous to gravity compensa- suit of actuators, we refer to it as an “exomuscle” rather than
+tion(Fig.1A).Weshowinhealthyparticipantsthatthedevice an “exosuit.”
+does not impede range of motion and supports the anterior In Simpson et al. simpson2017exomuscle we described
+and medial components of the deltoid muscles in abducting a compliant inexpensive wearable exomuscle with a single
+the shoulder, previously shown to be related to post-stroke controlleddegreeoffreedomthatassistsshoulderabductionin
+reachableworkspace.Wethentestinstrokesurvivorswhether healthy users without restricting motion in other joints. That
+exomuscle assistance increases reachable workspace area in devicecontrolsshoulderabductionanglebymodulatingtheair
+the transverse plane (orthogonal to exomuscle support), and pressure in a bladder sewn with a hinge-like seam to a chest
+whether a ten-minute assisted therapy session changes reach- harness and resting under the arm. That device is effective at
+able workspace area. We perform the same set of evaluations lifting the arm and supporting movement while pressurized,
+using a ceiling-mounted arm support for a positive control. but can buckle at small shoulder abduction angles/low air
+We show an increase in reachable workspace area in the pressures. Here we describe a new actuator that uncouples
+transverse plane in 4 out of 6 stroke survivors. Exomuscle air pressure and shoulder abduction angle.
+support correlated with increased elbow range of motion, Our updated design, based on the pneumatic reel actua-
+which is not supported by our exomuscle. Although the tors developed by Hammond et al. hammond2017pneumatic
+ceiling-mounted support and exomuscle produced the same consists of a plastic bladder reinforced by a fabric tube sewn
+resultsinhealthyparticipants,weshowthattheyproducevery out of thermoplastic polyurethane (TPU)-coated polyester
+different outcomes in stroke survivors, highlighting the need cloth. The fabric reinforced tube is then wrapped around an
+to validate assistive devices in the target population. axle mounted to the base assembly shown in Fig. 2. In this
+study, we use a locking disk and pin to ﬁx the shoulder
+abduction angle so that the elbow rests at shoulder height.
+II. SHOULDERABDUCTIONSUPPORTDEVICEDESIGN
+For active length control, the lock disk can be replaced with
+Complexity,weight,cost,andsafetyconsiderationsalllimit a transmission to a motor as described in Hammond et al.
+accesstorobot-aidedtherapies.Ourgoalisthereforetocreate hammond2017pneumatic Thebaseassemblyisheldinplace
+asimple,lightweight,inexpensive,wearabledevicecapableof on the wearer’s side by a waist strap and a contralateral
+aiding in stroke rehabilitation by supporting shoulder abduc- shoulder strap, which supports the vertical forces required
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2020.04.25.061846; this version posted July 13, 2020. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC 4.0 International license.
+IEEETRANSACTIONSONMEDICALROBOTICSANDBIONICS 3
+to support the arm. Our prototype base is made out of A. Deltoid muscular effort
+polyoxymethylene plastic. The supported arm is held in place
+on top of the inﬂated bladder by a hook-and-loop fastener
+strap. A ﬂow chart of the construction process is shown in
+To determine if our exomuscle assists the user’s muscles
+Fig. 2.
+with shoulder abduction, we measured muscle activity in the
+When completed, this exomuscle has convenient properties
+shoulder muscles related to post-stroke workspace impair-
+forinterfacingwithhumanoperators.Theheightofthesupport
+ments while participants performed isometric and dynamic
+can be adjusted without changing the air pressure by spooling
+tasks. We measured muscle activity from the anterior and
+and unspooling the bladder on the axle. The arm rests on
+medial components of the deltoid muscle using a Delsys
+the inﬂated tube, which is compliant enough at operational
+Bagnoli 2 EMG system (Natick, MA, USA) read with a
+air pressures of 25-50 kPa to provide a comfortable support.
+National Instruments USB-600X DAQ (Austin, TX, USA) at
+Additionally, extra material at the top and bottom of the
+1000 Hz. In the isometric tasks, participants were asked to
+inﬂated tube where it transitions from a rectangular cross
+holdtheirrightarmattheheightoftheshoulder(90◦ shoulder
+section (at the ends where the tube is rolled about the axle
+abduction)withelbowfullyextendedforthreesecondsineach
+or sewn with a straight seam) to a circular cross section
+of three postures: (1) hand directly in front of the shoulder
+createspivotpointsthatactasballjoints.Thesenaturalpivots
+(90◦ shoulder ﬂexion), (2) hand directly out to the side (0◦
+combinewithsofttissuecompliancefromthewearerresulting
+shoulder ﬂexion), and (3) halfway in between those postures
+in a ﬂexible support. Because the exosuit should not interfere
+(45◦ shoulderﬂexion).Inthedynamictasks,participantswere
+with other joints, we attach the exomuscle under the upper
+asked to start in an initial posture in which the arm is raised
+arm to avoid crossing the elbow joint, which would require
+to the height of the shoulder (90◦ shoulder abduction), the
+additional compliance about the long axis of the bladder to
+elbow fully ﬂexed, and shoulder rotated such that the hand is
+preserve full elbow range of motion.
+directly in front of the shoulder. Participants were then asked
+to reach to each of the three target postures described in the
+B. Ceiling support – positive control isometric tasks (shoulder abducted 90◦, elbow fully extended,
+To examine the effectiveness of the wearable exomuscle shoulder ﬂexed to 90◦, 0◦, and 45◦) before returning to the
+design, we need a good-as-possible support to serve as a initial posture. Each task was demonstrated ﬁrst by the exper-
+positive control for comparison. Previous studies examining imenter, participants were asked to conﬁrm they understood
+the effects of gravity compensation in stroke use robotic the instructions, and the experimenter monitored performance
+exoskeletons ellis2009progressive or low-friction air sleds to ofeachtasktoensurethecorrectpostureswereattained.Each
+supportthearmbeer2007impact Inbothcases,theworkspace participant completed both isometric and dynamic tasks in
+oftheexoskeletonortablesupportingtheairsledrequiresthat three conditions: (1) unassisted, (2) exomuscle support, and
+the workspace task be broken into segments with the robot or (3)supportfromtheceilingsupportdescribedinSectionII-B.
+table repositioned in the middle to complete the workspace
+Electromyograms (EMG) from each muscle were high-pass
+measurement. These devices also add inertia to the arm, a
+ﬁltered with a cutoff frequency of 30Hz, rectiﬁed, and then
+potential confound.
+low-pass ﬁltered with a cutfoff frequency of 6Hz to create
+Instead, we constructed a low-inertia, large workspace
+linear envelopes. All ﬁlters were 8th order, zero-phase shift
+sling support stienen2009freebal, essers2013inverse We
+Butterworth ﬁlters (butter and ﬁltﬁlt functions in MATLAB,
+suspended an arm rest from the ceiling using 165 cm of high-
+Natick, MA, USA). We then computed the average muscle
+strengthnylonrope.Thearmrestwasplacedundertheforearm
+activation in each trial and muscle and compiled all average
+as close as possible to the center of mass of the arm for
+muscle activations resulting from a given support condition
+eachparticipant.Wepositionedeachparticipantsuchthattheir
+(unsupported,exomuscle,orideal)andtaskcondition(isomet-
+elbow was directly beneath the attachment to the ceiling.
+ricordynamic)intoaset.Becauseaone-sampleKolmogorov-
+Smirnov test showed that the data in some sets were not nor-
+III. DEVICEEFFECTSINUNIMPAIREDPOPULATION
+mally distributed, we used the non-parametric Kruskal-Wallis
+Beforetestinginavulnerablepopulationsuchasstrokesur-
+test followed by Tukey’s test to compare muscle activation
+vivors, we wanted to ensure that the exomuscle produces the
+across support conditions.
+intendedeffectsandtestforconfoundingeffectsinunimpaired
+participants. To that end, we recruited four participants with Exomuscle use reduced muscle activity by 79.5% (p =
+no indicated musculoskeletal deﬁcits or injuries (3 males, 1 1.7×10−9) and 58.6% (p = 9.6×10−6) on average in the
+female;age:26±4yrs;height:180±6cm;mass:72±10kg;all isometric and dynamic tasks, respectively (Fig. 3). The ideal
+right-handdominant).Participantsgavetheirinformedconsent support reduced muscle activity by 83.5% (p=6.1×10−11)
+inaccordancewiththepoliciesoftheStanfordInternalReview and 52.9% (p = 4.6 × 10−7) on average in the isometric
+Board.Wetestediftheexomusclewasabletoofﬂoadtheeffort and dynamic tasks, respectively (Fig. 3). The average muscle
+of the shoulder abductor muscles most commonly afﬁliated activity during exomuscle use was not signiﬁcantly different
+with abnormal ﬂexor synergy activation. We also conducted fromthatmeasuredwhileusingtheidealsupportuseineither
+a test to examine whether the exomuscle limits the range of isometricordynamictaskswithanα=0.05conﬁdencelevel.
+motion of healthy users. Bothassistivedevicessupportshoulderabductionasintended.
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2020.04.25.061846; this version posted July 13, 2020. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC 4.0 International license.
+IEEETRANSACTIONSONMEDICALROBOTICSANDBIONICS 4
+A. 12. press-fit 13. add straps and
+hook and loop fastener  8. insert push-
+polyurethane  front and  foam padding
+(hook side) to-connect port 
+bladder back plates
+adhesive
+6. sew backed
+11. rotate 
+foam
+90˚about 
+1. sew 2. sew  padding
+long axis
+w
+old se 5. rotate 
+3. f 4.  90˚about 
+long axis
+9. spool 
+onto D-shaft
+thread waist belt
+10. thread side through slots in back plate
+fabric 
+braces and lock
+(TPU coated polyester) 7. insert bladder disc onto shaft
+C.
+into fabric sleeve hook and loop 
+fastener 
+contralateral (loop side)
+B. custom parts machined from polyoxymethylene  shoulder strap
+foam padding
+locking pin
+back plate lock disk side brace (x2) front plate
+waist belt
+Fig. 2. Exomuscle design. A. The pneumatic reel exomuscle consists of two main parts, a long bladder and a base that contains the reel. The bladder is
+constructedofasinglepieceofTPUcoatedpolyesterwithhookandloopfastenerssewnnearthetiptoholdthestrapthatwilllaterholdthearminplace.
+The fabric is then sewn into a tube and then twisted one quarter turn around the long axis such that the hook and loop patches are on the sides. The end
+of the tube is then sewn shut and a polyurethane bladder inserted. A push-to-connect port is then inserted through the ﬁrst layer of fabric and one side of
+thebladdertoallowforinﬂation.B.Thebasestationisconstructedoutoffourcustompartsmachinedfrompolyoxymethylene,abackplatewithslotsfor
+awaistbelt,twosidebracesthatincludeholesforashoulderstraptoattach,afrontplate,andadiskbrake.ThebladderisspooledontoaD-shaft,andthe
+sidebracesanddiskbrakeareinsertedontotheendsoftheD-shaft.Shaftcollarscanbeaddedforextrastability.Thebackandfrontplatesarethenpress
+ﬁt onto the notches on the side braces. Then foam padding and straps can be added as desired. C. When completed, the exomuscle base rests against the
+wearer’sside,supportedbythecontralateralshoulderstrapandwaistbelt,andunderneaththeupperarm,supportedbyanotherstrap.
+B. Range of motion
+isometric task dynamic task
+Tobeusefulinawiderangeoftasks,theexomuscleshould
+p=8.2x10-9 p=3.5x10-5 notimpedethemotionoftheupperextremitywhilesupporting
+p=7.2x10-7 p=8.4x10-6 shoulder abduction. To measure upper extremity range of
+1 1
+V) medial deltoid motion, we used motion capture (Impulse X2E, Phasespace,
+m anterior deltoid San Leandro, CA, USA) to measure body kinematics at 135
+y ( Hz while participants were instructed to move to the extrema
+ctivit of elbow ﬂexion and shoulder ﬂexion with no assistance,
+a0.5 0.5 with exomuscle support, and with the ceiling support. We
+e 
+cl also assessed shoulder rotation with no assistance and with
+s
+u exomuscle support. We did not test shoulder rotation with the
+m
+g.  ceilingsupportbecauseitattachesattheforearmandthusdoes
+v
+a not allow shoulder rotation.
+0 0
+u n a s sisteedx o m u s cle c eilin g u n a s sisteedx o m u s cle c eilin g anM8othtioonrdcear,ptzuerreo-dpahtaasweasshilfotwB-puattsesrwﬁoltretrhedﬁlatter20(buHtzterusainndg
+ﬁltﬁlt functions in MATLAB, Natick, MA, USA). Any gaps
+Fig.3. Healthyparticipantmusculareffortindifferentsupportconditions in the marker trajectories caused by temporary occlusions of
+(n=4). The average anterior and medial deltoid muscle activations were
+the marker were ﬁlled using cubic interpolation (interp1 func-
+computed for each trial of the isometric and dynamic tasks. These were
+combinedintosetsaccordingtosupporttype:unassisted,exomuscle,orceiling tion in MATLAB). We computed the elbow angle using the
+support.Inbothisometricanddynamictasks,muscleactivitydecreasedwith angle between the forearm vector (vector connecting the LED
+bothexomuscleandceilingsupportuse.Therewasnodifferencebetweenthe
+markers placed on the lateral humeral epicondyle to the ulnar
+muscle activations recorded in the two support conditions at an α = 0.05
+conﬁdencelevelineithertask. epicondyle) and upper arm vector (vector from the acromion
+to the lateral humeral epicondyle). We computed the shoulder
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2020.04.25.061846; this version posted July 13, 2020. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC 4.0 International license.
+IEEETRANSACTIONSONMEDICALROBOTICSANDBIONICS 5
+abduction assistance from our device increases post-stroke
+elbow  shoulder flexion
+160 reachable workspace as expected, we recruited 6 stroke sur-
+s) vivors with upper extremity motor impairments. We screened
+s
+e participants during the recruitment process to include those
+egr 120 witharmweaknesswhosestrokeoccuredmorethan6months
+d
+n ( before the study date and exclude those with conﬂating health
+o
+oti problems, sensory deﬁcits, or that experience pain during
+m 80
+of  passive movements of the arm. All participants gave their
+e  informed consent in accordance with the policies of the
+g
+n
+a 40 Stanford Internal Review Board. We administered the upper
+nt r extremityportionoftheFugl-Meyerexamandtestedforvisual
+oi
+j and tactile neglect in all participants. We also administered
+0
+u n a s sisteedx o m u s cle c eilin g u n a s siste de x o m u s cle c eilin g t(hMeAmSa)nounalthmeubsiccleeptse,sttri(cMepMs,Ta)nadnddemltooiddisﬁoefdeAacshhwpoarrtthiciSpcaanlte.
+Becauseofsafetyconcernsinliftingthearm,wealsochecked
+Fig. 4. Healthy participant range of motion in different support all participants for scapulo-humeral rhythm. The results of
+conditions(n=4).Inadditiontosupportingshoulderabduction,theexomuscle these assessments as well as demographic information are
+is designed to minimize its impact on other upper extremity degrees of
+shown in Table I. We measured the reachable workspace of
+freedom. Here, we measured range of motion in the shoulder and elbow in
+theunassistedcase(red),whileusinganexomuscle(blue),andwithsupport all participants in 3 support conditions: unassisted, exomuscle
+fromtheceiling-mounteddevice(gray).Therangeofmotiondidnotchange support, and ceiling support. We also tested an indicator of
+acrosstheconditions(p=0.97,Kruskal-Wallistest).
+ﬂexor synergy activation in each condition and tested for
+session effects.
+ﬂexion angle as the angle between the trunk vector (vector
+A. Methods
+connecting the acromion with the C7 vertebrate) and the
+upper arm vector. We computed the shoulder internal/external We designed our exomuscle to aid shoulder abduction and
+rotation angle as the angle between the forearm vector and thus increase the reachable workspace of post-stroke users
+the vertical axis of the motion capture coordinate frame. For while wearing the device. In pilot studies, however, one par-
+comparisonacrossconditions,wecomputetherangeofmotion ticipant’sunassistedreachableworkspaceappearedtoincrease
+as the difference between each extrema. For example, the el- immediately after a short period of exercise with exomuscle
+bowrangeofmotionisthedifferencebetweenthepeakelbow support when compared to unassisted reachable workspace
+ﬂexion angle and the peak elbow extension angle. We then before the exercise. Such session effects are rarely reported
+grouped the ranges of motion for elbow ﬂexion/extension and mignardot2017multidirectional,huang2012augmented and
+shoulder ﬂexion/extension into a single set for each support the neurophysiological mechanisms for such spontaneous re-
+condition. Because a one-sample Kolmogorov-Smirnov test covery, if they exist, could be useful to investigate. We thus
+showed that the data in some of these sets were not normally designedaprotocoltonotonlyassess(1)reachableworkspace
+distributed, we used the non-parametric Kruskal-Wallis test and (2) ﬂexor synergy activation in each support condition,
+to compare range of motion across support conditions. We but also (3) whether a short period of assisted exercise could
+used the non-parametric Wilcoxon signed-rank test to com- produce short-term motor improvements.
+Our protocol consists of a set of assessments performed
+pare shoulder internal/external rotation in the unassisted and
+with each of the 3 support conditions. In each assessment,
+exomusclesupportconditionsbecausetheceilingsupportdoes
+the reachable workspace was measured using the protocol
+not allow for this motion.
+described below in Section IV-A1 and a proxy for ﬂexor
+The results of the range of motion analysis are shown in
+synergy activation was measured using the protocol described
+Fig. 4. Neither the exomuscle nor ceiling support changed
+below in Section IV-A2. Each participant completed the ﬁrst
+the range of motion for shoulder ﬂexion/extension or elbow
+set of assessments unassisted to get baseline measurements.
+ﬂexion/extension (p = 0.97, Kruskal-Wallis). The exomuscle
+Participants were then randomly assigned a support condition
+did not reduce the shoulder internal/external rotation range
+(exomuscle or ceiling support) and completed a trial with that
+of motion (p = 0.89, Wilcoxon signed-rank test). Thus the
+support condition followed by a trial with the other support
+exomuscle and ceiling support do not impede the motion of
+conditionasshowninFig.5.Eachtrialconsistsofaworkspace
+the unsupported joints.
+and ﬂexor synergy evaluation with the assigned support fol-
+lowed by a ten-minute intervention trial designed to replicate
+IV. DEVICEEFFECTSONPOST-STROKEMOTOR
+the exercise that appeared to produce a session effect in a
+PERFORMANCE
+pilot study. In this intervention trial, participants performed
+Our device was designed to support shoulder abduction, the same clockwise and counterclockwise circular movements
+previously shown to increase the reachable workspace area in with the hand used to measure the reachable workspace (see
+stroke survivors beer2007impact, sukal2007shoulder by of- Section IV-A1). The direction of the circular movements was
+ﬂoading abnormal ﬂexor synergy effects cheung2012muscle, randomlydeterminedandrepeatedfor1minute.Uptothree1-
+dewald2001abnormal To determine whether the shoulder minute rest periods were allowed as needed. The support was
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2020.04.25.061846; this version posted July 13, 2020. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC 4.0 International license.
+IEEETRANSACTIONSONMEDICALROBOTICSANDBIONICS 6
+TABLEI
+STROKESURVIVORDEMOGRAPHICSANDCLINICALASSESSMENTSCORES.
+ID Age Sex Dominantarm Affectedarm Yearssincestroke FMAUE MAS MMT Neglect Rhythm
+1 48 M R R 3.5 36 [1+,1+,2] [2,4,4] N/N Y
+2 53 M R L 3 25 [0,0,0] [5,4,4] N/N Y
+3 70 M R L 11 14 [0,1,0] [2-,2-,2+] N/N Y
+4 44 F R L 2 21 [0,0,2] [2-,4,2] N/N Y
+5 50 F R L 1 17 [4,1+,2] [4,2+,3+] N/N Y
+6 41 M R L 20 47 [0,2,0] [4,4,5] N/N Y
+Abbreviations:M=male,F=female,R=right,L=left,N=no,Y=yes
+FMAUE=upperextremityportionoftheFugl-Meyerassessment,MAS=modiﬁedAshworthscale,MMT=manualmuscletest
+Neglect=visualandtactileneglect,Rhythm=scapulohumeralrhythm.
+ScoresontheMASandMMTarepresentedintheorder:[deltoid,biceps,triceps].
+Visualandtactileneglectresultsarepresentedarepresentedintheorder:visual/tactile.
+then removed and participants performed another workspace for the C7 marker in all trials. Because the 20 cm threshold
+and ﬂexor synergy assessment with no support to test for selected has the potential to impact the results, we performed
+any effects of the exercise. Participants then rested for ten- a sensitivity analysis of this value presented in the Appendix.
+minutes before performing another workspace and synergy We also computed the range of elbow and shoulder ﬂex-
+assessmenttodeterminewhetheranyexerciseeffectshadworn ion/extension achieved during the workspace recordings using
+off. Participants were given one more ten-minute rest before the same method described in Section III-B.
+a ﬁnal assessment. Participants then completed the same set 2) Flexor synergy assessment: The increase in workspace
+oftestswiththeothersupportcondition,exomuscleorceiling that normally occurs with gravity compensation is thought
+support. to be due to unloading of the ﬂexor synergy. To estimate
+the relative magnitude of the ﬂexor synergy effect, Ellis et
+1) Workspace assessment: We followed the protocol used
+al. ellis2017ﬂexion developed an experiment to approximate
+to measure the reachable workspace in stroke survivors from
+ﬂexor synergy activation in which the affected arm is placed
+Sukal et al. sukal2007shoulder with small modiﬁcations
+in a posture that activates the deltoid muscles – and thus the
+to accommodate our devices and equipment. In every case,
+ﬂexor synergy in those that express abnormal ﬂexor synergy
+participants were instructed to individually ﬂex and extend
+– while measuring the activity of the biceps muscles. We
+the elbow and shoulder to trace the largest possible circle that
+copied this experiment with each of our support conditions
+they could reach while keeping the hand and elbow raised
+by asking each participant to hold a posture for three seconds
+to the height of the shoulder. In order to record the largest
+in which the hand and elbow were raised to shoulder height
+workspace, participants performed 6 circles per measurement,
+with the hand resting in front of the shoulder and the elbow
+3 in each direction with the order randomly determined, and
+ﬂexed approximately 70◦ while the activity of the biceps was
+werecoachedbytheexperimenterwhodemonstratedtheideal
+measuredusingaDelsysBagnoli2system(Natick,MA,USA)
+form throughout. In each trial, arm kinematics were recorded
+read with a National Instruments USB-600X DAQ (Austin,
+usingmotioncapture(ImpulseX2E,Phasespace,SanLeandro,
+TX, USA) at 1000 Hz.
+CA, USA) at 135 Hz with LED markers placed on the
+EMG from each participant were high-pass ﬁltered with a
+C7 vertebrate, acromion, clavicle, olecranon, lateral humeral
+cutoff frequency of 30Hz, rectiﬁed, and then low-pass ﬁltered
+epicondyle, radial styloid, ulnar styloid, and ﬁrst knuckle.
+with a cutfoff frequency of 6Hz to create linear envelopes.
+Motion capture data was low-pass ﬁltered at 20 Hz using All ﬁlters were 8th order, zero-phase shift Butterworth ﬁlters
+an 8th order, zero-phase shift Butterworth ﬁlter (butter.m and (butter and ﬁltﬁlt functions in MATLAB). We then computed
+ﬁltﬁlt.m in MATLAB, Natick, MA, USA). Any gaps in the the average muscle activation in each trial.
+marker trajectories caused by temporary occlusions (less than
+0.2seconds)ofthemarkerwereﬁlledusingcubicinterpolation B. Results
+(interp1functioninMATLAB).Anyocclusionslastinglonger 1) Workspace: Workspace area increased with exomuscle
+than 0.2 seconds were ignored in our analyses rather than support in 4 out of 6 participants compared with 5 out of 6
+interpolated to avoid generating incorrect data. We computed withceilingsupport(Fig.6).Thetwoparticipantswhodidnot
+the reachable workspace of the hand using the boundary increase in workspace with exomuscle support were the two
+function in Matlab, which computes a concave boundary participants with the largest baseline workspace area (S2 and
+around the input data and computes the area of that boundary. S6, Fig. 6). Only participant 4 did not increase in workspace
+However, because the original task described by Sukal et al. area with ceiling support. This participant also exhibited the
+sukal2007shoulder requiredthatthearmremainattheheight most fatigue and spasticity effects. Note that we present the
+of the shoulder throughout the experiment, we disregarded workspace area change relative both to the baseline measure-
+datapoints in which the hand (deﬁned as the marker on the ment and relative to the previous unassisted trial in Fig. 6B.
+ulnar epicondyle) or elbow (deﬁned as the marker on the Wediscussthecomparisonagainstthepreviousunassistedtrial
+lateralhumeralepicondyle)fellbelow20cmbelowtheheight here because it is likely the more accurate measurement due
+of the shoulder (deﬁned as the marker on the acromion). Due to the effects of fatigue and spasticity discussed in Section
+toocclusionsinsomeparticipants,wesubstitutedtheacromion IV-B3.
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2020.04.25.061846; this version posted July 13, 2020. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC 4.0 International license.
+IEEETRANSACTIONSONMEDICALROBOTICSANDBIONICS 7
+UNA = unassisted assessment EXO = exomuscle assessment CEIL = ceiling assessment
+exomuscle ceiling
+3 participants EXO assisted exercise UNA rest UNA  rest UNA CEIL assisted exercise UNA rest UNA  rest UNA
+UNA
+3 participants CEIL assistceedi lienxgercise UNA rest UNA  rest UNA EXO asseisxtoemd uesxcelrecise UNA rest UNA  rest UNA
+Fig.5. Experimentalprotocolfollowedbystrokesurvivors.Participantsperformedabaselineassessmentwithoutsupportfromeithertestdevice.Participants
+werethenrandomlyassignedtousetheexomuscleorceilingsupportﬁrst.Theyperformedanassessmentwiththatsupportfollowedbya10-minutesupported
+exercise.Follow-upassessmentspunctuatedby10-minuterestswereperformedaftereachexercisetogaugeresidualeffectsofdeviceuse.Participantsthen
+repeated this set of tests with the other support. Each assessment consists of a workspace measurement and the recording of a proxy for ﬂexor synergy
+activation.
+Changes in workspace area were strongly correlated with in healthy subjects that our exomuscle reduces the activity of
+changes in elbow range-of-motion (r=0.84), while shoulder shoulderabductormusclesrequiredforsupportagainstgravity
+range-of-motion was weakly correlated with workspace area and implicated in reduced workspace area. We also veriﬁed
+(r=0.34, Fig. 6C.), consistent with Sukal et al.’s ﬁndings that the exomuscle does not impede joint range of motion of
+sukal2007shoulder the shoulder or elbow. We then measured workspace area in
+2) Flexor synergy: Biceps activation during a shoulder six stroke survivors, ﬁnding an increase in workspace area
+abductiontask,aproxyforﬂexorsynergyactivation,decreased in four with exomuscle support. We compared the exomuscle
+in4/6and5/6participantsusingtheexomuscleandtheceiling with a ceiling support serving as a positive control, which
+support, respectively. Biceps activations were weakly corre- increased workspace area in ﬁve participants. Though the
+latedwithelbowrangeofmotion(r=0.31)andworkspacearea two performed similarly in healthy participants, the ceiling
+(r=0.41) (Fig. 7). Though the correlations shown in Fig. 7 are support outperformed the exomuscle in every measure in
+weak, they show the expected trend: that reductions in ﬂexor strokesurvivors.Thisresulthighlightstheneedtostudydevice
+synergyactivationwillleadtoincreasedelbowrangeofmotion effects in the target population.
+and increased reachable workspace. This correlation might
+Several design factors may contribute to the difference in
+be weak due to our limited ability to screen for participants
+performancebetweenthetwodevicesinstrokesurvivors.Cer-
+with abnormal ﬂexor synergy activation, adding noise to this
+taindesignconcessionsthatweremadetomaketheexomuscle
+measurement.
+wearable are not necessary for the ceiling support. The most
+3) Session effects: We did not see single-session increases
+noticeable of these is that the ceiling support lifts the user’s
+inworkspaceareaafterourintervention.Rather,wesawshort-
+forearm while the exomuscle supports the wearer’s upper
+term decreases in workspace related to use of the arm, likely
+arm, leaving forearm support to the user. This concession
+due either to fatigue or use-dependent effects of spasticity
+enables exomuscle users to internally rotate the shoulder and
+(Fig. 8). Workspace area decreased more after exomuscle
+allows for a simpler design than would be required to support
+exercise than after exercise with the ceiling support (p= 0.03,
+the forearm throughout the full range of shoulder-plus-elbow
+Wilcoxon rank sum), suggesting exomuscle use was more
+motion.Thisconcessionmadelittledifferencetohealthyusers,
+fatiguing than use of the ceiling support. Because participants
+who were able to support their own forearms while exploiting
+did not recover these losses in workspace area between the
+theexomuscleforsupport.Strokesurvivors,ontheotherhand,
+ﬁrst and third unassisted assessments (p=0.79, Wilcoxon sum
+frequently needed the additional forearm support provided by
+rnk), this time-dependent effect is likely to have impacted
+the ceiling support to maintain the experiment posture.
+our results. If we compare workspace area while using the
+Stroke survivors have different levels of motor abil-
+exomuscle to the previous trial in which assistance was not
+ity depending on the size and location of the le-
+used rather than the baseline measurement, 4/6 participants
+increase in workspace by an average 180±90 cm2. sion and on treatment. Stroke survivors frequently expe-
+rience a combination of sensorimotor deﬁcits including
+abnormally coupled joints Dewald1995, beer2007impact,
+V. DISCUSSION
+dewald2001abnormal increased noise in sensing and esti-
+We designed a single degree-of-freedom exosuit actuator mationCusmano2014 muscularweaknessBourbonnais1989
+that we call an exomuscle to support shoulder abduction, and spasticity Watkins2002 Our exomuscle was designed
+veriﬁedthatitperformsasintendedinhealthyparticipants,and to assist individuals with abnormally coupled joints in the
+testeditsefﬁcacyinincreasingamotorperformancemetricin form of the ﬂexor synergy duysens2013ﬂexion Our screen-
+stroke survivors. Several recent devices incorporate multiple ing procedure, however, likely failed to distinguish be-
+controlled degrees of freedom to command a larger range tween individuals with an abnormal ﬂexor synergy and those
+of actions in the wearer. We take the opposite approach in with muscular weakness for example. These sensorimotor
+attempting to assist only a single degree of freedom shown in deﬁcits can have very different effects on motor performance
+other works to be effective in improving a measure of post- sketch2017simulating whichmightexplaininpartwhysome
+strokemotorcapability,reachableworkspacearea.Weveriﬁed ofourparticipantsincreasedinreachableworkspaceby130%
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2020.04.25.061846; this version posted July 13, 2020. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC 4.0 International license.
+IEEETRANSACTIONSONMEDICALROBOTICSANDBIONICS 8
+B. Bicep activation correlations
+A. MeasurPed1 workspace for eacPh2 participant P3 bow range of motionhange from unassisted)1-5050000 r=0.31 workspace areaange from unassisted)1345050000 exomcr=eu0isli.cn4lge1
+el(% c-100 -50 0 50 100 % ch -50 0 50 100
+(
+bicep activation  bicep activation 
+(% change from unassisted) (% change from unassisted)
+Fig.7. Correlationsbetweenbicepsactivationandelbowrangeofmotion
+unassisted P6 and workspace area. We measured biceps muscle activation as a proxy
+exomuscle for ﬂexor synergy activation ellis2017ﬂexion Changes in bicep activation
+ceiling wereweaklynegativelycorrelatedwithbothelbowrangeofmotion(left)and
+workspacearea(right).
+P4 P5
+p=0.03 p=0.79
+400 400
+m 2m)
+c c 0 0
+10  ge (
+10 cm han -400 -400
+c
+e 
+B. Measured workspace area vs. baseline measurement c
+pa -800 -800
+2m) 2000 ccoommppaarreedd  ttoo  pbraesveiolinues works
+c exomuscle -1200 -1200
+e ( ceiling
+ng 1000 exomuscle ceiling first trial last trial
+a
+h residual residual
+c
+e 
+ac 0 Fig. 8. Session effect on unassisted workspace area. Workspace area
+sp decreasedmoreafterexercisewiththeexomusclethanwiththeceilingsupport
+k
+or (left, p=0.03, Wilcoxon rank sum test), suggesting that exomuscle use was
+w more fatiguing than the ceiling support. Workspace area did not return to
+-1000 baselineafterthetwoten-minuterestperiods(right,p=0.79,Wilcoxonrank
+1000 2000 3000
+sum test), suggesting that fatigue or spasticity may have played a role in
+baseline workspace area (cm2) decreasingworkspacemeasurementsinthesecondhalfoftheexperiment.To
+control for this, we compared workspace measurements to the most recent
+C. Correlations between workspace and joint range of motion unassistedtrialinadditiontothebaselinetrialinFig.6.B.
+d)
+ste450 r = 0.84 r = 0.34 exomuscle
+kspace areae from unassi135000 ceiling wuloshaeEidrlx’sesoosgmutehinutesesr,rcsautwdleoedhscikrcbeehyalestehtahdalevbesydyesnuvtoepimctero.igm7Iind0u%smtf.raasnumypep,coarrtseeqstuh,iertehaedsthedaittliooatnhdaesl
+worhang 0 are compressive wehner2013lightweight, mao2011cable,
+c brackbill2009dynamics, lessard2018soft, mao2011cable
+% 
+( -50 0 50 0 100 200 300 However, our device can produce tensile loads on the
+elbow range of motion  shoulder range of motion  shoulder complex, which must be supported by soft tissue.
+(% change from unassisted) (% change from unassisted) Some stroke survivors have difﬁculty supporting tensile
+loads in the shoulder, even in unloaded scenarios, resulting
+Fig.6. Strokesurvivorworkspacemeasurementswithdifferentsupport
+in subluxation. Though commercial braces exist to support
+conditions (n=6). A. Workspace area measured in each participant in three
+supportconditions:unassisted,exomuscle,andceilingsupport.B.Workspace against subluxation in stroke survivors that could be used in
+area increased for only three participants using the exomuscle (blue hollow parallel with our device, a better approach might be to design
+circles) while the ceiling support increased workspace in ﬁve participants
+assistive devices that either generate compressive loads on
+(grayhollowcircles).Pariticpantswithsmallunassistedworkspacesreceived
+more beneﬁt from both devices. Four participants increased in workspace the shoulder in a comfortable range or those that add no net
+whencompensatingforfatiguebycomparingagainstthepreviousunassisted resultant force to the shoulder as in traditional exoskeletons
+trial,ratherthantheﬁrst.C.Elbowrangeofmotionwasstronglycorrelated
+whose frames support their own reaction forces.
+withworkspacearea(r=0.84).Thiscorrelationsupportstheargumentthatthe
+support devices ofﬂoad the ﬂexor synergy, which constrains elbow range of Open challenges for this device include active control
+motion.Shoulderrangeofmotionwasweaklycorrelatedwithworkspacearea necessitating transparent intent recognition and onboarding
+(r=0.34).
+of all actuators and power sources. Simple, inﬂatable
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2020.04.25.061846; this version posted July 13, 2020. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC 4.0 International license.
+IEEETRANSACTIONSONMEDICALROBOTICSANDBIONICS 9
+devices such as ours still require an actuator, compressor,
+power supply, controller, and sensing for transparent
+untethered operation. Given that our device is meant to
+compensate for gravity, a predictable force whose effects
+vary only with body state, purely mechanical devices can
+be designed to accomplish the same thing with 0 controlled
+DOFs herder2005development, cardoso2002conceptual,
+van2019design, babik2019play Such mechanisms, can
+provide shoulder abduction support that varies with posture
+to negate the effects of gravity on a wearer’s arm without
+actuators, compressors, power supplies, controllers, or
+sensing. These mechanisms’ rigid frames react applied loads,
+meaning that no net force is applied to the shoulder complex
+that may cause discomfort in stroke survivors.
+While our exomuscle is designed for the needs of stroke
+survivors,otherpopulationsmightalsobeneﬁtfromsimilarde-
+vices.Gravitysupportedtherapyhasshowntoimproveclinical
+measures of motor ability in participants with cerebral palsy
+elshamy2018efﬁcacy Gravity-compensating devices can also
+provide movement beneﬁts to individuals with muscular dys-
+trophy kooren2015design though most extant examples are
+mounted to wheelchairs and are not wearable.
+APPENDIX
+A. Sensitivity to selected threshold value
+Toestimatetheworkspaceareaattheheightoftheshoulder
+in our experiment, we disregarded datapoints in which the
+handorelbowmarkersdroppedbelowtheshouldermarkerby
+threshold of 20 cm (Fig. 6). However, because this threshold
+has the potential to inﬂuence our results, we perform a
+parameter sweep on the value of the threshold. Our parameter
+sweep shows that workspace measurements using the ceiling
+support are insensitive to the selected margin, likely due to
+the forearm support provided.
+ACKNOWLEDGMENTS
+We thank Mark Cutkosky for the use of the EMG system
+and Cara Welker, Cara Nunez, Michael Raitor, Zonghe Chua,
+andtherestoftheStanfordCHARMlabfortheirconstructive
+comments and prototype design testing. We thank Marion
+Buckwalter, Julie Muccini, Kara Flavin, Elizabeth Osborn,
+Esther Rah, Emily Huang, Michael Sharp, and the rest of
+the Stroke Collaborative Action Network (SCAN) at Stanford
+University for their assistance in reﬁning the study protocol
+and in recruiting participants.
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2020.04.25.061846; this version posted July 13, 2020. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC 4.0 International license.
+IEEETRANSACTIONSONMEDICALROBOTICSANDBIONICS 10
+4000 unassisted
+exomuscle
+ceiling
+2m)3000
+c
+a ( threshold value (cm)
+e 5 10 15 20 25 30 >30
+ar
+e 2000
+c
+a
+p
+s
+k
+or1000
+w
+0
+P1 P2 P3 P4 P5 P6
+participant
+Fig.9. Sensitivityofworkspaceareameasurementtothethresholdvalue.Wecomputedthereachableworkspaceareausingdatainwhichthehandand
+elbowwerewithinathresholdedheightoftheshoulderof20cm.Herewecomputethereachableworkspaceareafordifferentthresholdvaluesrangingfrom
+5cmtoconsideringallpoints(>30cm)foreachparticipantineachsupportcondition.
+
+NEW PAGE

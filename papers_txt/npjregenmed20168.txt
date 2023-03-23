@@ -1,0 +1,624 @@
+www.nature.com/npjregenmed
+ARTICLE OPEN
+An acellular biologic scaffold treatment for volumetric muscle
+loss: results of a 13-patient cohort study
+JennaDziki1,2,9,StephenBadylak1,2,3,9,MohammadYabroudi4,5,BrianSicari1,3,FabrisiaAmbrosio1,2,4,6,KristenStearns1,6,NeillTurner1,
+AaronWyse1,7, Michael LBoninger1,2,6, ElkeHP Brown6 andJPeterRubin1,2,8
+Volumetricmuscle loss (VML) isa severeand debilitating clinicalproblem. Currentstandard of careincludes physical therapy or
+orthotics,whichdonotcorrectunderlyingstrengthdeﬁcits,andsurgicaltendontransfersormuscletransfers,whichinvolvedonor
+sitemorbidity and fallshortof restoring function. Theresults of a13-patientcohort study aredescribed herein andinvolve a
+regenerativemedicineapproachforVMLtreatment.Acellularbioscaffoldscomposedofmammalianextracellularmatrix(ECM)were
+implanted andcombined withaggressive andearly physical therapy following treatment. Immunolabelingof ultrasound-guided
+biopsies,andmagneticresonanceimagingandcomputedtomographyimagingwereperformedtoanalysethepresenceofstem/
+progenitor cellsand formation of newskeletal muscle. Force production, range-of-motion andfunctional task performance were
+analysedbyphysicaltherapists.Electrodiagnosticevaluationwasusedtoanalysepresenceofinnervatedskeletalmuscle.Thisstudy
+isregistered with ClinicalTrials.gov, numbers NCT01292876. Invivoremodelling ofECM bioscaffolds was associated with
+mobilisationofperivascularstemcells;formationofnew,vascularised,innervatedislandsofskeletalmusclewithintheimplantation
+site;increased forceproduction; and improved functional taskperformance when compared withpre-operative performance.
+Comparedwith pre-operative performance,by 6 monthsafter ECMimplantation, patientsshowed an averageimprovement of
+37.3%(Po0.05)in strengthand 27.1%improvement inrange-of-motion tasks (Po0.05). Implantation ofacellular bioscaffolds
+derivedfromECMcanimprovestrengthandfunction,andpromotessite-appropriateremodellingofVMLdefects.Theseﬁndings
+provideearly evidenceofbioscaffolding asaviable treatment of VML.
+npjRegenerative Medicine (2016) 1,16008; doi:10.1038/npjregenmed.2016.8; published online21July 2016
+INTRODUCTION long-term proliferation and myogenic potential, has been some-
+Volumetric muscle loss (VML) as a result of tumour ablation, whatsuccessfulandhasbeenshowntoincreasetheregenerative
+trauma or disease remains a challenging clinical problem for index when injected into sites of skeletal muscle injury.5–7 Such
+which therapeutic options are limited. Current noninvasive approaches are limited, however, by issues of low cell viability,8
+treatment for VML includes maximising strength of remaining poor cell migration and engraftment, and the need for
+muscleandbracing.Unfortunately,thisapproachcannotmakeup immunosuppressive therapy, among others.9,10 In fact, immuno-
+fortheloststrengthassociatedwithVML.Muscletranspositionor suppressive therapy can further contribute to myoblast
+tendon transfer can replace muscle function, but have less than apoptosis.11 Even if an ideal cell source and an effective delivery
+satisfactory success rates.1–4 Such procedures typically involve method are utilised, transplanted cells are often associated with
+signiﬁcant donor site morbidity and fail to provide efﬁcient lessthanoptimalproliferativeanddifferentiationpotentialwithin
+reconstruction or functional re-innervation of the lost muscle the host injury site.12 Cell-centric strategies are also associated
+tissue. These approaches often result in persistent strength and with high cost due to the need for ex vivo cell expansion and
+functional deﬁcits, which contribute to disability, weakness and manipulation. While some cell-based approaches have shown
+compromised quality oflifefor patients withVML. promiseinpreclinicalstudies,regulatorychallengesandalackof
+Skeletal muscle retains a limited capacity to regenerate notable efﬁcacy have prevented their widespread adoption of
+following a severe acute injury. The regenerative process is treatment forVML.13
+dependent on resident progenitor cell populations, including We recently described an acellular bioscaffold approach for
+satellite cells and myoblasts, which have the potential to treatment of VML in ﬁve patients that showed encouraging
+proliferate and differentiate into functional myoﬁbers. Cell-based results.14 This approach involved the use of extracellular matrix
+regenerativemedicinestrategieshaveattemptedtoaugmentthis (ECM) derived from decellularized porcine urinary bladder to
+regenerativeprocessthroughthedeliveryofexogenous(typically promotescaffold-associated skeletalmuscle tissueformation and
+autologous) stem/progenitor cells to the VML defect site. partial restoration of function. ECM bioscaffold implantation was
+Utilisation of enriched muscle-derived stem cells, capable of also associated with the recruitment of endogenous perivascular
+1McGowanInstituteforRegenerativeMedicine,UniversityofPittsburgh,Pittsburgh,PA,USA;2DepartmentofBioengineering,UniversityofPittsburgh,Pittsburgh,PA,USA;
+3Department of Surgery, University of Pittsburgh, Pittsburgh, PA, USA; 4Department of Physical Therapy, University of Pittsburgh, Pittsburgh, PA, USA; 5Department of
+RehabilitationSciences,JordanUniversityofScienceandTechnology,AlRamtha,Irbid,Jordan;6DepartmentofPhysicalMedicine&Rehabilitation,UniversityofPittsburgh,
+Pittsburgh,PA,USA;7DepartmentofRadiology,UniversityofPittsburgh,Pittsburgh,PA,USAand8DepartmentofPlasticSurgery,UniversityofPittsburgh,Pittsburgh,PA,USA.
+Correspondence:JPRubin(rubinjp@upmc.edu)
+9Theseauthorscontributedequallytothiswork.
+Received2November2015;revised8February2016;accepted22March2016
+PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute
+
+NEW PAGE
+
+ECMbioscaffoldsforvolumetricmusclelossrepairin13patients
+JDzikietal
+2
+Table1. Patientinformation
+Subject Age Sex Injurysite(side) Causeofinjury Monthsbetween Numberof Tissuedeﬁcit(estimate) Deviceused
+injuryandsurgery previoussurgeries
+1 34 M Anteriortibial Exerciseinduced 13 5 58% Acell,Matristem
+compartment(left)
+2 37 M Anteriortibial Skiingaccident 32 4 67% Acell,Matristem
+compartment(left)
+3 28 M Quadriceps(left) IEDblast 18 14 68% Acell,Matristem
+4 27 M Quadriceps(right) IEDblast 89 50 83% Acell,Matristem
+5 32 M Anterior/lateraltibial Skiingaccident 85 8 90% Acell,Matristem
+compartment(left)
+6 31 M Brachialis(left) Wakeboardingaccident 25 0 90% Acell,Matristem
+7 31 M Biceps(right) IEDblast 86 8 33% Cook,BioDesign
+8 66 F Quadriceps(left) MVA 85 1 50.2% CookBioDesign
+9 35 M Quadriceps(right) MVA 120 6 80% CookBiodesign
+10 44 F Rectusfemoris(right) Tendonrupture 7 2 48–56% Bard,XenMatrix
+11 31 M Biceps/deltoid(left) MVA 72 4 50% CookBioDesign
+12 39 M Sartorius(left) Electrocution 12 11 25% CookBioDesign
+13 30 M Hamstring(left) Sportsinjury 72 0 27%a Bard,XenMatrix
+Average 35.8 55.07 10.0 66.2%
+SEM 10.2 10.5 4.0 6.3
+Relevantinformationfromeachpatient(n=13)includedinthepresentstudy.TissuedeﬁcitwasestimatedfromMRIorCTscan.Datafrompatients1to5have
+beenpreviouslyreported.14
+Abbreviations:CT,computedtomography;IED,improvisedexplosivedevice;MRI,magneticresonanceimaging;MVA,motorvehicleaccident
+aHamstringruptureresultedinproximalorigindetatchment.
+stem cells (PVSCs). While ECM bioscaffolds have been used in strength as early as 6–8 weeks after surgery, by an average of
+reconstructive surgery, they are typically employed only as a 15.2%±12.6 with a maximum of 127.9% and a minimum of
+barrierorreinforcinglayerofsoft tissue.Inourpriorreport,14 we −33.3% (Table 2). By 10–12 weeks, patients showed an average
+providedevidenceforfunctionalremodellingoftheECMscaffold change of 21.1%±12.2 with a maximum of 149.2% and a
+with formation of new muscle tissue. An aggressive early post- minimum of −33.0%. At 24–28 weeks, patients showed an
+operativerehabilitationprotocolwasacomponentofthisstrategy averageforceproductionchangeof37.3%±12.4withasigniﬁcant
+to place dynamic strain on the ECM and contribute to site-
+improvement when compared with pre-operative measurements
+appropriate differentiation of the recruited stem/progenitor cells. (Po0.05),withamaximumof136.1%andaminimumof−17.88%
+The mechanism(s) of action responsible for ECM bioscaffold-
+mediated VML repair are partially understood and include host
+cell-mediated scaffold degradation and recruitment of endogen-
+ousprogenitorcells.14–17Therecruitmentofneurogeniccellsand BiologicscaffoldsforVMLtreatmentareassociatedwithimproved
+modulationoftheinnateimmuneresponsearealsoconsideredas range-of-motion andfunctional outcomes
+common features associated with ECM-mediated constructive Tasks to assess range-of-motion were performed and data is
+remodelling in preclinical studies.18–20 Overall, ECM bioscaffolds reportedforallpatientswhoshowedrange-of-motiondeﬁcitspre-
+havebeenshown to stimulate endogenousrepair.21 operatively.At6–8weekspostsurgery,alltestedsubjectsshowed
+Thepresentmanuscriptdescribestheresultsfromtheﬁrst13 improvementinatleastonerange-of-motiontaskwithanaverage
+patients treated using the acellular bioscaffold approach, change of 16.7%±4.9. At 10–12 weeks, average range-of-motion
+including results from the ﬁrst 5 patients previously reported.14 change compared with pre-operative measures was signiﬁcantly
+The results reported herein advance the previously reported increased (Po0.05) at 24.0%±6.8. By 24–28 weeks after
+ﬁndings in several respects: ﬁrst, it expands the number of surgery, this improvement increased to 27.1%+10.5 (Po0.05)
+patients and the anatomic sites of VML subjected to treatment;
+(SupplementaryTableS3).
+second, it includes the use of three different source tissues of At 6–8 weeks post surgery, 10 out of 13 patients showed a
+ECM bioscaffolds; third, it includes the investigation of neuro- ⩾20% improvement in performance of at least one functional
+genic cells as a component of the functional remodelling
+task when compared with pre-surgical performance (range,
+process; and ﬁnally, it includes electrodiagnostic evaluation of
+20–1980%). By 10–12 weeks, 12 of 13 patients showed a ⩾20%
+the remodelled muscle tissue.
+improvement (range, 20–2460%), and by 24–28 weeks 9 of 13
+patients showed a ⩾20% improvement (range 25–1,820%).
+RESULTS Patient 3 showed particularly notable improvement in the
+Biologicscaffold implantation for thetreatment ofVMLis single-leg hop test, improving by 1,980%, 2,460% and 1,820% at
+associated withincreased skeletal muscle forceproduction 6–8, 10–12 and 24–28 weeks after surgery, respectively
+ThirteensubjectswithVMLwereenroledinthiscohortstudyand (Supplementary Table S2). Patient 5 showed a dramatic increase
+the average tissue deﬁcit for all patients was 66.2%, when in single-leg jump landing distance, improving by 400%, 783.3%
+compared with the contralateral limb (Table 1). All subjects met and 1,050% at 6–8, 10–12 and 24–28 weeks after surgery,
+established inclusion criteria (Supplementary Table S1) and had respectively(SupplementaryTableS2).Likewise,patient8showed
+receivedstandard of careoptions,including surgicalintervention improvements in the single-leg step down task of 200, 900 and
+and/or physical therapy. Strength testing showed that 7 of 1,600%(Figure1).Twelveof13patientsshowedimprovementin
+13 patients had improvement from their pre-surgical maximum atleast 1functional taskby 24–28weeks after surgery.
+npjRegenerativeMedicine(2016)16008 PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute
+
+NEW PAGE
+
+ECMbioscaffoldsforvolumetricmusclelossrepairin13patients
+JDzikietal
+3
+Table2. Forceproduction
+Subject Injurysite(side) Activity Baselineforce 6–8weekspost 10–12weekspost 24–28weekspost
+measurement(lb) surgery(%) surgery(%) surgery(%)
+1 Anteriortibial Dorsiﬂexion 0.0 0.0 0.0
+compartment(left)
+2 Anteriortibial Dorsiﬂexion 0.0 0.0 0.0 0.0
+compartment(left)
+3 Quadriceps(left) Kneeextension 6.0 −10.0 18.3 20.0
+4 Quadriceps(right) Kneeextension 6.1 127.9 149.2 136.1
+5 Anterior/lateraltibial Dorsiﬂexion 3.6 −33.3 16.7 33.3
+compartment(left)
+6 Brachialis(left) Bicepsﬂexion 35.8 NT −19.5 −17.9
+7 Biceps(right) Wristsupination 42.0 66.7 102.4 126.2
+strength 38.1 12.3 7.6 16.8
+Bicepsﬂexion
+8 Quadriceps(left) Kneeextension 10.3 15.0 12.0 64.1
+9 Quadriceps(right) Kneeextension 33.3 19.0 27.0 61.9
+10 Rectusfemoris(right) Kneeextension 6.6 11.0 30.0 86.4
+11 Biceps/deltoid(left) Shoulderabduction 69.2 −4.6 −4.1 20.1
+Shoulderﬂexion 46.6 41.9 42.5 104.1
+Shoulderextension 51.3 13.3 22.6 46.8
+Elbowﬂexion 66.9 0.0 −0.3 −4.0
+Elbowextension 49.0 −8.2 31.0 1.6
+12 Sartorius(left) Hipﬂexion 68.1 NT −15.6 −3.5
+Kneeextension 92 −28.0 −1.1
+13 Hamstring(left) Kneeﬂexion 53.5 11.8 11.0 −3.4
+Kneeextension 99.2 −33.0 −33.0 0.5
+Average 15.2 21.1 37.3#
+s.e.m. 12.6 12.2 12.4
+Strengthmeasuresasassessedwithdynamometerfromeachpatientpresentedaspercentchangefrompre-operationmaximumafterphysicaltherapy.Bold
+anditalicisedtextrepresentspositiveandnegativechanges,respectively.Datafromsubjects1–5obtainedfrompreviousreport.14
+Abbreviations:CT,computedtomography;MRI,magneticresonanceimaging;NT,nottested.
+#indicatesPo0.01whencomparedwithpre-operativevalues.
+ECMbioscaffold implantation is associated withPVSC muscle (Figure 3a). By 7 months BioDesign (SIS-ECM) and
+mobilisation,electromyographic evidenceofinnervation, the Matristem (UBM-ECM) ECM scaffold materials were no longer
+presenceof neurogenic cells attheremodelling siteand new identiﬁable (Figure 3b), whereas the Xenatrix (dermis-ECM) ECM
+muscleformation scaffold was still identiﬁable (Figure 3f). In addition, increased
+Tissue biopsies of the remodelling implantation site were muscle tissue, identiﬁed by an imaging signal consistent with
+obtained at 6–8 weeks, 10–12 weeks and 24–28 weeks post muscle, was present at the site of ECM scaffold placement
+surgery, and showed a robust mononuclear cellular inﬁltration (Figure 3d).
+intothebioscaffoldsitealongwithevidenceofmuscleformation
+as early as 6–8 weeks post surgery (Figure 2a), which was ECMtreatment increases bulk muscle content
+increasedateachsubsequentbiopsytimepoint.Immunolabeling Before surgery, the average per cent of muscle loss ranged from
+studies showed CD146+NG2+ PVSCs localised around vWF+ 25–90% of contralateral limb tissue (Table 1). By 8 months,
+vessels at all time points (Figure 2g–i). PVSCs were also found computedtomography(CT)ormagneticresonanceimaging(MRI)
+removed from their normal anatomic location, suggesting their imaging showed an increase in dense tissue consistent with that
+potential contribution to skeletal muscle formation (Figure 3j–l). of skeletal muscle within the implantation site. Post-operative
+Desmin+ cells with central nuclei were present as early as musclebulkwascalculatedbyselectingaregion-of-interestinCT
+6–8 weeks post surgery (Figure 2d–f) with striated desmin+ or MRI images. Bulk muscle increased in all patients post-
+muscle ﬁbres present in all biopsy samples at both 10–12 and operatively, with an average increase of 27.2% (Figure 4).
+24–28 weeks after surgery (Figure 2e,f). These desmin+ muscle Interestingly, Patient 13 showed complete atrophy and absence
+ﬁbreswerepresentatlocationsbothneartheinterfacewithnative of hamstrings due to rupture pre-operatively. Following ECM
+uninjuredmuscleandwithinthecentreofthescaffoldsitewithno treatment,theimplantsitewasreplacedwithtissuecharacterised
+evidence for continuity with adjacent native healthy muscle. byanimagingsignalconsistentwithmuscleatmeasurementsof
+Biopsiesalsoshowedanincreaseinthepresenceofβ-IIITubulin+ 5.45cm2,6.90cm2and7.39cm2attheproximal,middleanddistal
+nerve bundles by 6 months after implantation throughout the aspect of the defect in the posterior compartment, respectively
+scaffold implant site (Figure 2o). CellProﬁler (Broad Institute, (SupplementaryFigure S1).
+Cambridge, MA, USA) quantiﬁcation showed no signiﬁcant
+differencesinthenumberofmigratingPVSCsorvesselsbetween
+ECMbioscaffold implantation improves electrophysiological
+timepoints (Figure 2m,n). function
+Electrodiagnosticstudieswereconductedon8ofthe13patients.
+ECMscaffolds degrade followingimplantation At baseline, seven of the eight tested subjects presented with
+Representative ultrasound imaging at 1 month after surgery patterns of mononeuropathies, with three subjects with anterior
+showed a sheet-like hyperechoic structure consistent with the compartment injuries in the lower leg presenting with deep
+ECM scaffold overlying and adjacent to the native uninjured peroneal mononeuropathy and three of the four subjects with
+PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute npjRegenerativeMedicine(2016)16008
+
+NEW PAGE
+
+ECMbioscaffoldsforvolumetricmusclelossrepairin13patients
+JDzikietal
+4
+Figure1. Functionaltaskperformance.Functionalmeasuresasassessedbytask/exercisecompletionfromeachpatient.Datarepresentper
+centchangefrompre-surgicalmaximum.NT,nottested.
+quadriceps injury presenting with femoral mononeuropathy and showed disappearance in abnormal spontaneous activity and
+oneindividualpresentednoabnormalﬁnding.Theabnormalities improved recruitment patterning following ECM bioscaffold
+were limited to the injury site and did not extend distally along implantation (Table4).
+the nerve. Two tested subjects showed severe atrophy with
+undetectable compound motor action potentials (CMAPs). Post-
+operatively, four subjects increased CMAP amplitude: one in the DISCUSSION
+tibialis anterior, twointhe vastus medialisand onein thebiceps The present study provides a comprehensive analysis of the
+brachii (Table 3). The remaining subjects showed no appreciable structural remodelling, strength and functional outcomes after
+change in nerve conduction. Electromyography (EMG) analysis VML defects were treated with ECM bioscaffolds in 13 human
+npjRegenerativeMedicine(2016)16008 PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute
+
+NEW PAGE
+
+ECMbioscaffoldsforvolumetricmusclelossrepairin13patients
+JDzikietal
+5
+Figure2. Site-appropriatetissueremodellingbyECMbioscaffolds.(a–c)Massonstrichromestainingofhumanmusclebiopsiesshowsislands
+of skeletal muscle present at 6–8 weeks, 10–12 weeks and 24–28 weeks post surgery, respectively. (d–f) Human muscle biopsies are
+characterisedbydesminexpressionatalltimepoints,indicatingnewmuscleformationwithinthesiteofimplantation.(g–i)ECMbioscaffold
+implantation is associated with the presence of CD146+NG2+ perivascular stem cells. (j–l) PVSCs were shown to migrate away from their
+normalvessel-associatedanatomiclocationatalltimepoints.ArrowsindicateCD146+PVSCsmigratingawayfromvessels.(m,n)Migrating
+PVSCsandvascularitywasquantiﬁedusingCellProﬁlerimageanalysissoftware.(o)At24–28weekspostsurgery,ECMbioscaffoldimplantation
+wasassociatedwiththepresenceofβ-IIItubulin+cells,implicatinginnervatedskeletalmuscle.(Scalebars=50μm).
+PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute npjRegenerativeMedicine(2016)16008
+
+NEW PAGE
+
+ECMbioscaffoldsforvolumetricmusclelossrepairin13patients
+JDzikietal
+6
+subjects. The study corroborates and extends the ﬁndings of electrophysiologicevidenceofinnervationanditsassociationwith
+previousworkbynotonlyincreasingthenumberofpatients,but functionalremodelling outcomes.
+alsoutilisingthreedifferentformsofECMbioscaffolds,identifying Acellular bioscaffolds for VML treatment represent an ‘off-the-
+neurogenic cell types in the remodelling site, and documenting shelf’ approach to muscle repair. As opposed to cell-based
+npjRegenerativeMedicine(2016)16008 PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute
+
+NEW PAGE
+
+ECMbioscaffoldsforvolumetricmusclelossrepairin13patients
+JDzikietal
+7
+strategies,abioscaffoldapproachobviatestherequirementsofcell association with these new islands of skeletal muscle, combined
+isolation, manipulation, expansion, storage and delivery strategies. withpositiveEMGrecordings,furthersupportstheconclusionthat
+Inthepresentstudy,ECMbioscaffoldsderivedfromthreedifferent functionalislands ofnew skeletal musclehave beenformed.
+xenogeneic (porcine) source tissues—small intestinal submucosa CTorMRIimagingcorroboratedthehistologicﬁndingsshowing
+(SIS),urinarybladdermatrix(UBM)anddermalECM—wereutilised. anincreaseinpost-operativesofttissueformationconsistentwith
+Althoughourstudywasnotpoweredtodetectvariationbasedon bulk skeletal muscle tissue in all 13 patients (Figure 4,
+ECM, no differences in outcomes were seen based on bioscaffold Supplementary Figure 3). Whether or not this increase was due
+used. These ﬁndings suggest the presence of similar signalling toanincreaseinthesizeorthenumberofmuscleﬁbresrequires
+mechanismswithintheECMderivedfromthreedifferenttissues.A further investigation. However, the needle EMG ﬁndings of
+comparativeanalysisofthedifferencesbetweenECMsourcetissues decreasedASAandimprovedrecruitmentwouldseemtoindicate
+and their effects on skeletal muscle reconstruction could only be new muscle ﬁbre formation and gross changes in muscle
+reliably performed in a very large sample due to the variety of appearancewereevident(Supplementary Figure 2).
+anatomic sites at which they need to be placed. Each of the The histomorphologic and imaging studies were accompanied
+bioscaffolds used differ in their preparation methods including byclearandclinicallyrelevantfunctionalimprovement.Twoofthe
+method of decellularization and terminal sterilisation. Such 13patientsshowedanunappreciablechangeinforceproduction
+differenceswilllogicallyconferdifferencesintheirmechanicaland compared with pre-operative outcomes, but 11 of 13 patients
+biochemical properties.Further investigationcould provideinsight increased their pre-operative force production measured via
+into the preparation parameters that are associated with positive dynamometer by 20–140% at 6 months after surgery. Twelve
+tissue remodelling outcomes and could implicate the speciﬁc out of 13 patients showed improvement in functional task
+bioscaffold constituents and/or properties that contribute to ECM- performance. It is important to note that all patients had
+mediatedskeletalmuscleremodelling. previously undergone standard of care treatments, and custom
+While the exact mechanism(s) by which ECM bioscaffolds designed, aggressive physical therapy regimens prior to ECM
+promoteconstructivetissue remodellingareonlypartially under- implantation and showed a plateau in force production or
+stood, previous work has shown that their degradation on functional task performance. The improvements in performance
+implantation generates low molecular weight matricryptic oligo- followingECMbioscaffoldimplantationarethuslikelyduetoECM
+peptides with the ability to recruit and inﬂuence endogenous intervention. The importance of a rigorous physical therapy
+progenitor cells.22,23 It has been shown that PVSCs play a role in program following ECM implantation and its association with
+ECM-mediated skeletal muscle repair.14 The present study shows successful outcomes should not be underestimated. The applica-
+CD146+NG2+ PVSCs are not only localised around their typical tion of a physiologic mechanical load (i.e., concomitant physical
+microvascular niche, but, following ECM implantation, mobilise rehabilitation) during the entirety of the remodelling period
+away from this traditional anatomic site. All muscle biopsies following ECM implantation has been shown to promote
+showedthisphenomenon,aswellasevidenceforneovasculariza- favourable outcomes.24–27 It has been suggested that ECM
+tionandthepresenceofsite-appropriatedesmin+striatedmuscle bioscaffolds contribute to force improvement by simple force
+as early as 6 weeks after bioscaffold implantation. The ability of transduction based on results of a rodent model in which post-
+ECM bioscaffolds to inﬂuence the local skeletal muscle injury operative physical therapy could not be controlled.28 While the
+microenvironment mayallow for synergyand cross-talk between scar release of the procedure and the mechanical transduction
+PVSCs,myoblasts,neuronalprogenitorsandotherrespondingcell effect of the ECM layer may both be contributing factors to the
+types, which contribute to skeletal muscle formation at the improvedfunction,thehistologicimagingandelectrophysiologic
+implantsite.ThepresenceofPVSCsandmyoblastswithinthissite evidence of vascularised, innervated skeletal muscle within the
+strongly suggests their participation in the remodelling process. defect site in the present cohort of human patients suggests a
+WhetherornotthebehaviourofPVSCsandmyoblastsismediated positive and contributing role for new skeletal muscle in the
+directlybysignallingfromtheECMorviaparacrinemechanismsis functional outcomes. Taken together, the data from this study
+unknown;however,itisplausibleandlogicalthatotherstemand showthatECMimplantsforsofttissuereconstruction,whilelong
+progenitorcellpopulationsalsoplayaroleinthisconstructiveand regarded as a passive reinforcing layer, can undergo important
+functionalremodelling process. functionalremodelling duringthehealingprocess.
+Desmin+ skeletal muscle ﬁbres were found not only at the Electrodiagnostic studies conducted on 8 of the 13 patients
+interface of the bioscaffold with native, adjacent, uninjured showedconcomitantnerveandmuscleremodellingfollowingECM
+muscle, but also within the centre of the scaffold implantation treatment. Speciﬁcally, seven subjects presented with a pre-
+site. The spatial distribution of skeletal muscle ﬁbres clearly operative electrodiagnosis of incomplete mononeuropathy in the
+separated from the interface with adjacent uninjured native areaoftheVMLdefect.AftertreatmentwithECM,ﬁveoftheeight
+muscle suggests de novo skeletal muscle generation rather than patients showed improvements in nerve conduction or needle
+simpleintegrationofnativemusclewiththescaffold-ﬁlleddefect electromyography parameters including CMAP. These results
+site. In vitro studies have shown the ability of ECM signalling indicate electrically active, functionally innervated muscle.
+molecules to promote mitogenesis and myogenesis of skeletal Electrical activity presentwithinthe ECMimplant site isconsistent
+muscle progenitor cells.23 The presence of β-III tubulin+ cells in with a concomitant strength improvement. Histologic outcomes
+Figure3. UltrasoundimagingshowsthatECMbioscaffoldsdegradeonimplantation.(a)Grayscaleultrasoundimage1monthaftersurgeryin
+the posterior shoulder demonstrates a thin, sheet-like hyperechoic structure representing SIS-ECM (yellow arrows) overlying the posterior
+deltoidmuscle.Theposteriordeltoidmuscleisincreasedinechogenicityduetounderlyingfattyinﬁltration.(b)Ultrasoundimaging7months
+aftersurgeryshowsthatsurgically-placedSIS-ECMisnotlongeridentiﬁablesuperﬁcialtotheposteriordeltoid.(c).Ultrasoundimage1month
+aftersurgeryinthemedialmidthighdemonstratesanill-deﬁnedhypoechoicstructurerepresentingSIS-ECM(yellowarrows)adjacenttothe
+sartoriusmuscle.(d)Ultrasoundimage7monthsaftersurgeryshowsthatsurgically-placedSIS-ECMisnolongeridentiﬁableandthesartorius
+muscle appears to have enlarged. (e) Ultrasound imaging 1 month after surgery in the posterior mid thigh demonstrates a sheet-like
+echogenic structure representing dermal ECM (yellow arrows) with surrounding complex anechoic material (dashed-blue line) likely
+representingpost-operativeﬂuidcollection.(f)Ultrasoundimaging7monthsaftersurgeryshowsdermalECM(yellowarrows)hasdecreased
+in echogenicity and now has a tubular or ‘rolled-up’ appearance as opposed to a sheet-like appearance. The previously identiﬁed post-
+operativeﬂuidcollectionhasessentiallyresolved.
+PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute npjRegenerativeMedicine(2016)16008
+
+NEW PAGE
+
+ECMbioscaffoldsforvolumetricmusclelossrepairin13patients
+JDzikietal
+8
+Figure4. RepresentativeCTimagingshowsECMbioscaffoldimplantationincreasespost-operativebulkmusclecontent.Overallareaofthe
+treatedmusclewasmeasuredatthreerepresentativesites(proximal,middleanddistal)bothpriortosurgeryand7monthsaftersurgeryin
+multipleanatomiclocations.
+npjRegenerativeMedicine(2016)16008 PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute
+
+NEW PAGE
+
+ECMbioscaffoldsforvolumetricmusclelossrepairin13patients
+JDzikietal
+9
+Table3. Nerveconductionstudyof8outof13patients Table4. Needleelectromyographyshowsimprovedrecruitment
+patternsanddisappearanceofabnormalspontaneousactivity
+Subject Evaluationsite Latency/amplitude(ms/mV)
+Subject Evaluationsite Pre-op Post-op
+Contralateral Pre-op Post-op
+1 Tibialisanterior ASA − −
+Recruitment Nounit Nounit
+1 Peronealmotor 2.5/3.7 2.6/3.7 2.5/2.5
+2 Peronealmotor 2.7/6.8 2.8/2.5 2.5/2.5 2 Tibialisanterior ASA − −
+3 Femoralmotor 3.0/9.7 2.7/3.9 3.6/4.8 Recruitment Nounit Nounit
+4 Femoralmotor NT/NT 3.1/10.9 3.6/4.8
+5 Peronealmotor 3.7/10.0 2.3/1.7 2.1/1.5 3 Vastusmedialis ASA ++++ +++
+7 Musculocutaneousmotor 2.1/8.4 2.6/5.6 3.4/6.9 Recruitment Nounit Nounit
+8 Femoralmotor 2.5/7.2 1.2/3.8 2.9/5.0
+Vastusintermedius ASA ++++ +++
+9 Femoralmotor NT/NT 2.6/9.7 4.6/5.4
+Recruitment MD GD
+Four subjects showed an increase in compound motor action potential
+Vastuslateralis ASA +++ +++
+amplitude recorded in the targeted muscles: one in the tibialis anterior
+Recruitment GD Nounit
+(Subject2),twointhevastusmedialis(Subjects3and8)andoneinthe
+bicepsbrachii(Subject7)indicatedinbold.Subjects3and8showedan 4 Vastusmedialis ASA +++ +++
+increase of CMAP amplitude of the femoral motor of 420% between Recruitment Nounit Nounit
+pre-operative and post-operative time points. Subject 7 showed an
+increase in amplitude that is considered ‘normal’ when compared with Vastusintermedius ASA ++ −
+thecontralateralside. Recruitment Nounit Nounit
+Abbreviations:CMAP,compoundmotoractionpotential;NT,nottested.
+Vastuslateralis ASA − +
+Recruitment Normal Normal
+further corroborate these results showing presence of β-III 5 Tibialisanterior ASA ++ −
+tubulin+cellswithintheremodellingsiteby6monthsaftersurgery. Recruitment GD SD
+Thepresentstudyhasseverallimitations.Itwasnotpossibleto
+Extensordigitorum ASA ++ −
+includeanuntreatedcontroltodeterminetheeffectsofscartissue
+longus Recruitment Singleunit SD
+debridementandtenolysisalone.However,12of13patientshad
+beensubjectedtoextensivestandardofcaretherapy(i.e.,average 7 Biceps(proximal) ASA − −
+of10previoussurgeriesacrossallpatients)andfailedtoimprove. Recruitment Normal Normal
+Placebo effects (i.e., patients having more conﬁdence after
+Biceps(distal) ASA NT ++
+treatment, which could translate to improved functional Recruitment NT poly
+outcomes) were uncontrolled. Although histologic outcomes
+show the presence of PVSCs and desmin+ muscle ﬁbres within 8 Vastusmedialis ASA + −
+the ECM implantation site, and these ﬁndings were associated Recruitment Normal Normal
+with improved functional and strength outcomes, the present Vastusintermedius ASA − −
+studydoesnotprovideconclusiveevidencethatthereisacausal Recruitment Normal Normal
+relationship between the presence of these cells and the Vastuslateralis ASA − −
+downstream functional improvements. The diverse nature of Recruitment Normal Normal
+anatomic implant sites and physical therapy activities performed
+by the subjects made determination of an ‘average’ functional 9 Vastusmedialis ASA − −
+Recruitment Normal Normal
+improvement following bioscaffold implantation impossible. No
+two patients had the same injury or comorbidities, and thus Vastuslateralis ASA − −
+each had a personalised physical therapy regimen composed of Recruitment Normal Normal
+speciﬁc exercises depending on the site of injury and other Rectusfemoris ASA − −
+comorbidities.
+Recruitment Normal Normal
+Theresultsofthis13-patientcohortstudyshowthatanacellular
+biologic scaffold approach can facilitate constructive and func- Four out of eight tested patients show disappearance of abnormal
+tional tissue remodelling following VML. The mechanisms by spontaneous activity in at least one tested muscle group (indicated in
+bold). Subject 5 showed a much improved recruitment pattern after
+whichsuchmaterialsmediatetheirremodellingeffectsappearto
+surgery, compared with the baseline ﬁndings of generalised decreased
+include recruitment of myogenic progenitor cells, improved recruitment pattern with a single motor unit ﬁring in the EDL muscle.
+innervationandfunctionalskeletalmuscleformation.Theﬁndings Overall, ﬁve of eight subjects improved electrophysiological function
+reported herein support the use of ECM bioscaffolds as a viable eitherintermsofincreasedCMAP(Table3)orEMGproﬁle.Dataadapted
+treatment optionfor VMLtreatment. frompreviousreport.33
+Abbreviations:ASA,abnormalspontaneousactivity;CMAP,compoundmotor
+actionpotential;GD,greatlydecreased;NT,nottested;SD,slightlydecreased;
+MATERIALSANDMETHODS −,notobserved;++,moderatenumbersinthreeormoremuscleareas.
+Overviewof study design
+A cohort study examining functional and histomorphologic outcomes
+ofporcineECM(Table1).Patientswereenroledinpre-operativephysical
+followingVMLrepairwithacellularbiologicscaffoldswasconductedwith
+therapy and required to reach a functional plateau before the surgical
+informed subject consent and approvals from the Institutional Review
+Board of the University of Pittsburgh and the US Department of proceduresothatpost-operativeimprovementsinfunctioncouldnotbe
+Defense Human Research Protection Ofﬁce (ClinicalTrails.gov, identiﬁer attributed to therapy alone. Force production, functional task improve-
+NCT01292876).Subjectswerescreenedforestablishedexclusioncriteria.14 ment, EMG analysis, CT or MRI imaging, and histology were used to
+Atotalof13subjectswereenroledandsubjectedtoacustomdesigned evaluate return of strength, function and bioscaffold remodelling
+physicaltherapyregimenbothbeforeandfollowingimplantationofoneof characteristics at 6–8 weeks, 10–12 weeks and 24–28 weeks post
+threedifferentxenogenicscaffoldmaterials,allofwhichwerecomposed implantation.
+PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute npjRegenerativeMedicine(2016)16008
+
+NEW PAGE
+
+ECMbioscaffoldsforvolumetricmusclelossrepairin13patients
+JDzikietal
+10
+Subjectselection and screening functionalmovementswithinthelimitsoftolerablepain.Asearlyasthe
+Participants ranging from 18 to 70 years of age with a minimum 20% ﬁrst post-operative day, targeted exercises were performed with the
+structural volume deﬁcit as determined by MRI or CT, and/or 25% goal of stimulating muscle contraction and load bearing across the
+functional deﬁcit of the muscle group mass when compared with the scaffold implantation site. Pain level, range-of-motion, strength and
+contralaterallimbwereeligibleforinclusioninthestudy.Allstudysubjects functional capacity were evaluated at each visit, and exercises were
+acquiredVMLatleast6monthspriortostudyinclusion.Exclusioncriteria continuedastolerated.Thepost-operativephysicaltherapyphaselasted
+included poor nutrition, chronic disease, active infection, neoplasia, 24weeks.
+denervation or other medical comorbidities with the potential to impair
+woundhealing. Isometric strengthmeasurement
+Prior to inclusion in the trial, all subjects were screenedby a licensed
+physical therapist to establish strength and functional deﬁcits related to Isometric strength testing of the affected limb was measured 1–2 days
+priortoECMimplantation,andagainat6–8weeks,10–12weeksand24–
+theanatomiclocationofinterest,withrespecttothecontralaterallimb.A
+detailedsubjecthistorywastakenandthesubject’sgoalsforparticipation 28 weekspost-operatively. Measurements were takenusing a hand-held
+dynamometer and standard manual muscle testing positions.32 Each
+in the study were recorded. Active and passive range-of-motion
+measurement was repeated three times, and the average value of the
+measurements were obtained at the joints both proximal and distal to
+three trials was calculated to represent as an indication of the isometric
+the affected area using a goniometer. Isometric strength of the affected
+muscles was quantiﬁed using a hand-held dynamometer. Speciﬁc strengthoftheaffectedmuscle.
+functional outcome variables were selected and evaluated for each
+subjectbasedontheirfunctionaldeﬁcitsandtheobjectivemeasurements Range-of-motion andfunctional task analysis
+of strength and joint range-of-motion. Patient-reported outcomes, Range-of-motionandfunctionaltaskanalysiswasconductedpre-operatively
+including the Disabilities of the Arm Shoulder and Hand (DASH)29 scale andat6–8weeks,10–12weeksand24–28weekspost-operatively.Alltasks
+and Lower Extremity Functional Scale (LEFS)30 were administered, wereperformedonboththeaffectedandcontralaterallimb.Eachtaskwas
+as appropriate. Subjects were also asked to provide a self-report of repeatedthreetimes,andtheaverageofthethreetrialswascalculatedas
+functional status at each of the tested time points. Outcome variables representativeofperformanceonthetask.
+wereestablishedaprioriforeachsubjectthroughastudyteamconsensus
+based on ﬁndings from the clinical examination speciﬁc to each
+subject and their observed strength and functional deﬁcits. When Pre-and post-surgical imaging
+possible, outcome variables were selected that were previously Initialpre-operativeCTimagingwasperformedon a64-sliceCTscanner
+establishedas valid,reliableand alignedwiththesubject’s goalsforthe (LightSpeed VCT, GE Healthcare, Chicago, IL, USA) at a slice thickness of
+trial. Video recordings were performed during the evaluations when 1.25 and 2.5mm and a pitch of 1.375 in both bone and soft tissue
+possible so as toensure consistency in thetesting positionsacross time algorithms. MRI protocols included a variety of sequences in sagittal,
+points. coronal and axial planes using T1-weighted spin echo, T2-weighted fast
+spin echo with or without fat suppression and STIR sequences. The kVp
+and mA were optimised with respect to the subject habitus and site
+Surgical procedure
+imaged. Coronal and sagittal reformations were obtained. Three-
+All procedures were performed in a tertiary care medical centre under dimensional volumetric reformatted imaging was also performed using
+general anaesthesia, and tourniquet control of the extremity used. The Vitrea(VitalImages,Minnetonka,MN,USA)withsurfacerendering,aswell
+injuredmusclecompartmentwasaccessed,scartissuewasdebridedand as emphasis on the underlying musculature and osseous structures.
+selectivetenolysisperformed.OneofthefollowingthreeECMbioscaffolds Pre-operative imaging was reviewed by a musculoskeletal-trained
+wasimplantedatthesiteofmissingmuscle:MatriStem(ACell,Columbia, radiologist(4years’experience).InitialCTimagingwasassessedprimarily
+MD, USA);BioDesign (Cook Medical,Bloomington, IN,USA) or XenMatrix forthepresenceofvolumetriclossofbulkand/orfattyinﬁltrationinthe
+(C.R. Bard, Warwick, RI, USA) which were derived from porcine urinary affectedmusculature.Theoverallpercentagelossofmusclevolumeand
+bladder(UBM),SISordermis,respectively.Allthreescaffoldmaterialswere severity of fatty inﬁltration was graded, where appropriate. Imaging
+decellularized to meet established minimum criteria for DNA removal.31 was also evaluated for concomitant soft tissue (e.g., tendinous) and
+MatriStem was used in the ﬁrst six subjects, and the remaining seven osseous injury. Post-operative imaging was performed at an ~7-month
+subjectsreceivedeitherBioDesignorXenMatrix,randomlyassigned.The interval with similar imaging parameters. Post-operative imaging
+ECM bioscaffold was cut to defect size-matched appropriate length and included characterisation of the location and appearance of the ECM
+width,andimplantedwithintheinjurysitewithcontacttoadjacentnative scaffold,aswellasachangeinvolumeorappearanceofthesurrounding
+healthytissue,andsecuredundertensionwithmonoﬁlamentabsorbable musculature. Overall percentage change in affected muscle volume was
+sutures. Care was taken to prevent folding or wrinkling and to ensure measured.
+adequatesofttissuecoverage.Allemptyspacewasclosedbeforeclosure
+ofthesurgicalsitetoensuremaximumscaffold-hosttissueinteraction,and
+aclosedsuctiondrainwasplaced. Ultrasound-guided corebiopsy of ECM
+Ultrasound-guided biopsy of the surgically-placed ECM was performed
+~6 weeks and 26 weeks post-operatively. Pre-procedural grayscale and
+Physicaltherapy
+colour/PowerDopplerultrasoundoftheoperativesitewasperformedto
+Pre-surgical. Subjects were required to participate in rigorous pre- identifyand characterisethe surgically-placed ECM. After an appropriate
+operative physical therapy for 4–16 weeks prior to surgery. The goal of
+needletrajectorywasselected,theareawaspreppedanddrapedinsterile
+the pre-operative physical therapy programme was to maximize perfor- fashion.Localanaesthesiawithskininﬁltrationanddeeperinjectionwas
+mance with respect to the strength and functional outcome deﬁcits
+achievedwith1%lidocaine.Underultrasoundguidance,biopsysamplesof
+identiﬁed during the screening examination. Due to the unique clinical
+theECMbioscaffoldandsurroundingsofttissuewereobtainedusingan
+presentationofeachsubject,physicaltherapyprogramswerecustomised
+18-gaugespring-loadedbiopsyneedle(Temno,CareFusion,McGawPark,
+for each subject to address the speciﬁc strength and functional
+IL, USA). A total of eight core samples were obtained at two separate
+deﬁcits identiﬁed during the screening visit. Subjects were evaluated
+biopsysites.Biopsiesspannedtheproximaltodistallengthandmedialto
+weeklyontheirprogressbythetreatingphysicaltherapist.Subjectswere
+lateralwidthoftheimplantationsite.Specimensweresnap-frozeninliquid
+clearedtoproceedtosurgeryaftertheyreachedaplateauinperformance nitrogenandstoredat−80°C.
+on their involved side, deﬁned as functional gains of o2–3% over the
+course of any 2-week period, as determined by the treating physical
+therapist. The treating physical therapist was not a member of the Electrodiagnosticstudies
+investigativeteam.Outcomevariablesweretestedbythesameevaluating As previously reported, nerve conduction and electromyography studies
+physical therapist who was a member of the investigative team at each were performed for 8 of the 13 subjects using a Synergy EMG machine
+timepoint. (CardinalHealth,Dublin,OH,USA).33Thespeciﬁcnerveconductionstudies
+completedandthespeciﬁcmusclestestedwithneedleexaminationwere
+Post-surgical. Post-surgicalphysicaltherapywasinitiatedbetween24and determinedbylocationoftheVML.NeedleEMGanalysisusedconcentric
+48h following surgery. No limitations were placed on the exercises or needleelectrodesplacedinthestandardmusclebellyandwasperformed
+npjRegenerativeMedicine(2016)16008 PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute
+
+NEW PAGE
+
+ECMbioscaffoldsforvolumetricmusclelossrepairin13patients
+JDzikietal
+11
+attheproximalanddistalsiteoftheinjuredmuscleifthestandardmuscle 3. Grogan,B.F.&Hsu,J.R.SkeletalTraumaResearchC.Volumetricmuscleloss.
+belly showed no evidence of electrical activity. Improvement in nerve J.Am.Acad.Orthop.Surg.19Suppl1,S35–S37(2011).
+conductionwasdeﬁned as a⩾20% increasein motor nerveconduction 4. Tu,Y.K.etal.Soft-tissueinjurymanagementandﬂapreconstructionformangled
+amplitude.ForEMGstudies,improvementwasdeﬁnedaseitherevidence lowerextremities.Injury39Suppl4,75–95(2008).
+of increased ﬁring in volitional recruitment of muscles or a decrease in 5. Urish, K. L. et al. Antioxidant levels represent a major determinant
+abnormal spontaneous activity compared with pre-operative results. in the regenerative capacity of muscle stem cells. Mol. Biol. Cell 20, 509–520
+Differences in amplitudes of CMAP were compared between pre- and (2009).
+post-ECMbioscaffoldimplant. 6. Qu-Petersen, Z. et al. Identiﬁcation of a novel population of muscle
+stemcellsinmice:potentialformuscleregeneration.J.CellBiol.157,851–864
+(2002).
+Histologyand immunolabelling
+7. Lavasani, M., Lu, A., Peng, H., Cummins, J. & Huard, J. Nerve growth factor
+Frozentissuesectionswereﬁxedinanicecold50:50solutionofmethanol/ improves the muscle regeneration capacity of muscle stem cells in
+acetonefor5minandwashedinphosphate-bufferedsaline(PBS).Tissue dystrophicmuscle.Hum.GeneTher.17,180–192(2006).
+sections were incubated in blocking buffer to prevent non-speciﬁc 8. Huard,J.etal.Humanmyoblasttransplantation:preliminaryresultsof4cases.
+antibody binding composed of 1% (w/v) bovine serum albumin (BSA), MuscleNerve15,550–560(1992).
+2% (v/v) normal horse serum, 0·05% (v/v) Tween-20, 0·05% (v/v) Triton 9. Skuk,D.Myoblasttransplantationforinheritedmyopathies:aclinicalapproach.
+X-100 in PBS for 1h at room temperature. Tissue sections were then Exp.Opin.Biol.Ther.4,1871–1885(2004).
+incubated with primary antibodies diluted in blocking buffer as follows: 10. Skuk,D.etal.DystrophinexpressioninmyoﬁbersofDuchennemusculardys-
+mouse monoclonal CD146 (Abcam, Cambridge, MA, USA) at 1:350 and trophypatientsfollowingintramuscularinjectionsofnormalmyogeniccells.Mol.
+rabbit polycloncal Neurogenin-2 (NG2, Millipore, Billerica, MA, USA) at Ther.9,475–482(2004).
+1:200 as a perivascular stem cell markers, monocloncal anti-desmin 11. Hardiman,O.,Sklar,R.M.&Brown,R.H.JrDirecteffectsofcyclosporinAand
+(Abcam)at1:200foramusclecellmarkerand(4)β-IIItubulinat1:200,fora cyclophosphamide on differentiation of normal human myoblasts in culture.
+neurogenicmarker.After16hofincubationat4°C,tissuesectionswere Neurology43,1432–1434(1993).
+washedwith PBS and incubated with ﬂuorophore-conjugated secondary 12. Riederer,I.etal.Slowingdowndifferentiationofengraftedhumanmyoblastsinto
+antibodies (Alexa Fluor donkey anti-mouse 488 or 594 or donkey anti- immunodeﬁcientmicecorrelateswithincreasedproliferationandmigration.Mol.
+rabbit 488, Invitrogen, Carlsbad, CA, USA) for 1h at room temperature. Ther.20,146–154(2012).
+After secondary incubation, nuclei were counterstained with 4′,6- 13. Sicari,B.M.,Dearth,C.L.&Badylak,S.F.Tissueengineeringandregenerative
+diamidino-2-phenylindole (DAPI) and slides were coated with anti-fade medicine approaches to enhance the functional response to skeletal
+mountingmedia(Dako,Carpinteria,CA,USA).Tissuesectionswereimaged muscleinjury.Anat.Rec.297,51–64(2014).
+using a Zeiss Axio-observer Z1 microscope using a ×20, 0.4 numerical 14. Sicari, B. M. et al. An acellular biologic scaffold promotes skeletal muscle for-
+apertureobjectivewitha×1.6optovarmagniﬁcationchanger(CarlZeiss, mation in mice and humans with volumetric muscle loss. Sci. Transl. Med. 6,
+Oberkochen,Germany).Threeﬁeldsofviewweretakenfromeachbiopsy 234ra58(2014).
+sample. 15. Sicari, B. M. et al. A murine model of volumetric muscle loss and a
+regenerative medicine approach for tissue replacement. Tissue Eng. A 18,
+1941–1948(2012).
+ACKNOWLEDGEMENTS 16. Turner,N.J.etal.Xenogeneicextracellularmatrixasaninductivescaffoldfor
+TheUSDepartmentofDefense’sLimbSalvageandRegenerativeMedicineInitiative regeneration of a functioning musculotendinous junction. Tissue Eng. A 16,
+andtheMuscleTendonTissueUnitRepairandReinforcementReconstructiveSurgery 3309–3317(2010).
+researchstudyiscollaborativelymanagedbytheOfﬁceoftheSecretaryofDefense. 17. Valentin,J.E.,Stewart-Akers,A.M.,Gilbert,T.W.&Badylak,S.F.Macrophage
+The Initiative is focused on rapidly and safely transitioning advanced medical participationinthedegradationandremodellingofextracellularmatrixscaffolds.
+technologyincommerciallyviablecapabilitiestoprovideourwoundedwarriorsthe TissueEng.A15,1687–1694(2009).
+safest and most advanced care possible today. We would like to gratefully 18. Agrawal, V. et al. Epimorphic regeneration approach to tissue replacement in
+acknowledge the work of Ally Lacovey, Debra Smith, Douglas Weber, Tyler adultmammals.Proc.NatlAcad.Sci.USA107,3351–3355(2010).
+Simpson,LeeFisherandSpencerBrown,aswellasthesurgicalexpertiseofErnest 19. Agrawal,V.etal.Recruitmentofprogenitorcellsbyanextracellularmatrixcryptic
+Manders, Jeffrey Gusenoff and Oguz Acarturk. This study is supported by peptide in a mouse model of digit amputation. Tissue Eng. A 17,
+researchgrantstoS.B.andJ.P.R.bytheUSDepartmentoftheInterior,theNational 2435–2443(2011).
+Business Center, Acquisition Services Directorate, Sierra Vista Branch (award no. 20. Agrawal,V.,Brown,B.N.,Beattie,A.J.,Gilbert,T.W.&Badylak,S.F.Evidenceof
+D11AC00006). A. Russell was instrumental in the acquisition of this funding. innervation following extracellular matrix scaffold-mediated remodelling of
+J.D.wassupportedbytheNationalScienceFoundationGraduateStudentResearch musculartissues.J.TissueEng.Regen.Med.3,590–600(2009).
+Fellowship. 21. Rana, D., Zreiqat, H., Benkirane-Jessel, N., Ramakrishna, S. & Ramalingam, M.
+Developmentofdecellularizedscaffoldsforstemcell-driventissueengineering.J.
+TissueEng.Regen.Med.(2015).
+CONTRIBUTIONS 22. Reing,J.E.etal.Degradationproductsofextracellularmatrixaffectcellmigration
+andproliferation.TissueEng.A15,605–614(2009).
+S.B., J.P.R., F.A. and M.L.B. designed the human patient treatment protocol; S.B.
+23. Sicari,B.M.etal.Thepromotionofaconstructivemacrophagephenotypeby
+obtainedfundingandcontributedtohistopathologicexamination;J.P.R.performed
+solubilizedextracellularmatrix.Biomaterials35,8605–8612(2014).
+surgical procedures and oversaw the conduct of the clinical trial; F.A. and M.L.B.
+oversaw the conduct of the EMG testing. M.Y., K.S., E.H.P.B. and F.A. identiﬁed 24. Gentile, N. E. et al. Targeted rehabilitation after extracellular matrix scaffold
+transplantation for thetreatment ofvolumetricmuscleloss. Am.J.Phys.Med.
+impairment and functional outcome variables and performed evaluations. A.W.
+Rehabil.93,S79–S87(2014).
+performedtheimagingandbiopsies.N.T.,B.S.andJ.D.collectedthemusclebiopsies.
+25. Gilbert, T. W. et al. Gene expression by ﬁbroblasts seeded on small intestinal
+J.D.andN.T.performedandanalysedimmunolabelingexperiments.J.D.conducted
+literaturesearches,createdﬁguresandinterpretedthedata.J.D.andS.B.wrotethe submucosa and subjected to cyclic stretching. Tissue Eng. 13, 1313–1323
+(2007).
+manuscript.J.D.,S.B.,F.A.,M.L.B.,M.Y.,K.S.,B.S.andJ.P.R.revisedthemanuscript.
+26. Ballotta, V., Driessen-Mol, A., Bouten, C. V. & Baaijens, F. P. Strain-dependent
+modulation of macrophage polarization within scaffolds. Biomaterials 35,
+COMPETINGINTERESTS 4919–4928(2014).
+27. Turner,N.J.,Badylak,J.S.,Weber,D.J.&Badylak,S.F.Biologicscaffoldremo-
+Theauthorsdeclarenoconﬂictofinterest. delling in a dog model of complex musculoskeletal injury. J. Surg. Res. 176,
+490–502(2012).
+28. Aurora,A.,Roe,J.L.,Corona,B.T.&Walters,T.J.Anacellularbiologicscaffold
+REFERENCES
+doesnotregenerateappreciabledenovomuscletissueinratmodelsofvolu-
+1. Lin,C.H.,Lin,Y.T.,Yeh,J.T.&Chen,C.T.Freefunctioningmuscletransferfor metricmusclelossinjury.Biomaterials67,393–407(2015).
+lowerextremityposttraumaticcompositestructureandfunctionaldefect.Plast. 29. Hudak,P.L.,Amadio,P.C.&Bombardier,C.Developmentofanupperextremity
+Reconstr.Surg.119,2118–2126(2007). outcome measure: the DASH (disabilities of the arm, shoulder and hand)
+2. Moneim,M.S.&Omer,G.E.Latissimusdorsimuscletransferforrestorationof [corrected].TheUpperExtremityCollaborativeGroup(UECG).Am.J.Ind.Med.29,
+elbowﬂexionafterbrachialplexusdisruption.J.HandSurg.11,135–139(1986). 602–608(1996).
+PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute npjRegenerativeMedicine(2016)16008
+
+NEW PAGE
+
+ECMbioscaffoldsforvolumetricmusclelossrepairin13patients
+JDzikietal
+12
+30. Binkley, J. M., Stratford, P. W., Lott, S. A. & Riddle, D. L. The Lower Extremity This work is licensed under a Creative Commons Attribution 4.0
+FunctionalScale(LEFS):scaledevelopment,measurementproperties,andclinical InternationalLicense.Theimagesorotherthirdpartymaterialinthis
+application.NorthAmericanOrthopaedicRehabilitationResearchNetwork.Phys. article are included in the article’s Creative Commons license, unless indicated
+Ther.79,371–383(1999). otherwiseinthecreditline;ifthematerialisnotincludedundertheCreativeCommons
+31. Crapo,P.M.,Gilbert,T.W.&Badylak,S.F.Anoverviewoftissueandwholeorgan license,userswillneedtoobtainpermissionfromthelicenseholdertoreproducethe
+decellularizationprocesses.Biomaterials32,3233–3243(2011). material. Toviewa copyofthislicense,visithttp://creativecommons.org/licenses/
+32. Cuthbert, S. C. & Goodheart, G. J. Jr On the reliability and validity of manual by/4.0/
+muscletesting:aliteraturereview.Chiropr.Osteopat.15,4(2007).
+33. Han,N.etal.Electrodiagnosticevaluationofindividualsimplantedwithextra-
+cellularmatrixforthetreatmentofvolumetricmuscleinjury:caseseries.Phys ©TheAuthor(s)2016
+Therp.96,540–549(2016).
+SupplementaryInformationaccompaniesthepaperonthenpjRegenerativeMedicinewebsite(http://www.nature.com/npjregenmed)
+npjRegenerativeMedicine(2016)16008 PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute
+
+NEW PAGE

@@ -1,0 +1,311 @@
+www.nature.com/npjregenmed
+MEETING REPORT OPEN
+ﬁ
+Progressing the eld of Regenerative Rehabilitation through
+novel interdisciplinary interaction
+VictorCheuy 1,2✉, Silvia Picciolini 3 and MarziaBedoni 3
+Thesynergybetweenbiologicalandbioengineeringadvancesiscriticaltodevelopingnovelandimpactfultranslationaltherapies.
+However, therecurrently arefew opportunities forregenerative scientists to beexposed tothemethodologies commonly
+employedintheclinicbyrehabilitationprofessionals,andmostrehabilitationscientistsandcliniciansarenotexposedtothemany
+advancesofregenerativemedicine.Thisdisconnecthasimpededthepaceofprogressintheﬁeld.TheEighthAnnualInternational
+Symposiumon RegenerativeRehabilitation brought togetherbasic scientists, engineers, andrehabilitation clinicians to present
+scientiﬁcally rigorous and cutting-edge researchand clinical management,focusingon newand innovative approachesthat
+combinediscoveries intissue engineering,medical devices,and cellular therapieswith rehabilitative protocols.
+npjRegenerative Medicine           (2020) 5:16 ;https://doi.org/10.1038/s41536-020-00102-2
+1234567890():,; IRtNherTgoReunOgeDhraUatCnivTeiInORtNeeghraabtiiolitnatoiofntwsoeeﬁkesldtos:orepgtiemniezreatpivaetiemnetdoicuitnceomaneds wirnehtlaeictriahncgt,stcoeixetcnhhteiasnﬁtsge,eldrieodhfeaaRbse,igliateanntdeioranidtievnceltiinRfyiechinaanobvsi,leitlaatrnieodsne;a(tr3rca)hinMdeeiernsetcotrmisohnaipys
+rehabilitation science. The former focuses on tissue repair or andtraining:tointroducetheconceptofRegenerativeRehabilita-
+replacement due to loss from injury, disease, or age. This is tion to promising graduate students, medical residents, clinical
+achieved primarily through the enhancement of endogenous fellows, post-doctoral research fellows, and other junior investi-
+stemcellfunctionorthetransplantationofexogenousstemcells. gators and clinicians, inspiring and supporting them to embrace
+The latter focuses on the use of mechanical and other stimuli to and incorporate innovative technologies in their nascent clinical
+promotefunctionalrecovery.Thissynergybetweenbiologicaland practices andresearch programs.
+bioengineering advances is critical to developing novel and
+impactful translational therapies1. However, there currently are
+fewopportunitiesforregenerativescientiststobeexposedtothe SCIENTIFICSESSIONS
+methodologiescommonlyemployedintheclinicbyrehabilitation The scientiﬁc sessions brought together world-renowned
+professionals. Conversely, most rehabilitation scientists and researchers and clinicians to present on scientiﬁcally rigorous
+clinicians are not exposed to the many advances of regenerative and cutting-edge research and clinical management. Topics
+medicine. This disconnect has impeded the pace of progress in focused on new and innovative approaches that combine
+the ﬁeld. To this end, the International Consortium for Regen- discoveries in tissue engineering, medical devices, and cellular
+erative Rehabilitation—comprised of 16 institutions—aims to therapieswith rehabilitative protocols.
+increase interdisciplinary interaction. Thus, as technologies are Drs.A.BobbyChhabraandFredEpsteinfromtheUniversityof
+developed and our understanding of regenerative biology Virginia opened the meeting by emphasizing the importance of
+progresses, advancesmay beefﬁcientlytranslated tothe clinic2. interdisciplinarycollaborationsinresearch.Opportunities likethis
+To address this need, the annual international symposium is symposium do not just highlight existing teamwork but foster
+designed to propel the translation of regenerative technologies newengagementandrelationshipsthatarecriticaltotranslational
+into functionally relevant treatment interventions that have the success.Pickinguponthistheme,Dr.AnthonyAtala(WakeForest
+potentialtotransformrehabilitativehealthcare.TheEighthAnnual InstituteforRegenerativeMedicine)sharedhisjourneythrougha
+International Symposium on Regenerative Rehabilitation brought three-decade long research career in tissue and organ engineer-
+togetherbasicscientists,engineers,andrehabilitationcliniciansin ing, including the successful implantations of tissue engineered
+order to create a fertile ground for discussion, interaction, and kidneys, bladders, and sexual organs3–5. His work has pioneered
+networking across disciplines. The symposium took place on the use of material-alone, cell-alone, and material+cell
+24–26October2019,inCharlottesville,Virginia,andwasco-hosted approaches to address tissue defects of varying size as well as
+bytheUniversityofVirginiaandtheUniformedServicesUniversity acrossallfourlevelsoftissuecomplexity(e.g.,ﬂat,tubular,hollow
+oftheHealth Sciences. non-tubular, solid organs)6. Dr. Atala highlighted two important
+The symposium held sessions to address three principle lessons learned through his research. First, is the value of a
+objectives: (1) Scientiﬁc: to promote the clinical translation of methodicalapproach. The genesisof eachline ofinvestigation is
+scientiﬁc discoveries in the ﬁeld of regenerative medicine by thorough cell biology and materials sciences studies, then
+communicatinganddisseminatingresearchﬁndingsthatdemon- transitioning to small, medium, and large animal studies. Only
+stratethesynergisticrelationshipbetweenregenerativemedicine after which does it reach human patients for testing and long-
+andrehabilitation;(2)Programmatic:toprovidemultipleforumsin termfollow-up.Second,isthenecessityofamultidisciplinaryteam
+1DepartmentofPhysicalTherapyandRehabilitationScience,UniversityofCaliforniaSanFrancisco,SanFrancisco,CA,USA.2DepartmentofRadiologyandBiomedicalImaging,
+UniversityofCaliforniaSanFrancisco,SanFrancisco,CA,USA.3IRCCSFondazioneDonCarloGnocchi,Milan,Italy.✉email:victor.cheuy@ucsf.edu
+PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute
+
+NEW PAGE
+
+V.Cheuyetal.
+2
+—including cell and molecular biologists, material scientists, adapting to training and achieving signiﬁcant gains. Conse-
+biochemists, and physicians—where team science has helped quently,thisRegenerativeRehabilitationtherapeuticapproachhas
+propel this technology from the bench to the bedside. Dr. Atala great clinical potential for development of effective drug and
+also discussed work in the cell therapy area, such as the use of physicaltherapy treatments ofDMD.
+skeletal muscle for shoulder cuff injuries, and concluded by
+sharing his future directions in stem cell therapy, speciﬁcally the Celebrating5years ofAR3T: launchingnew linesinRegenerative
+use of amniotic ﬂuid and placental stem cells7. He emphasized
+Rehabilitationresearch
+their clinical utility with respect to ease of collection, shared
+Co-director Dr. Thomas Rando (Stanford University) shared an
+properties with embryonic and adult stem cells, lack of tumor
+overviewoftheAllianceforRegenerativeRehabilitationResearch
+potential andrejection concerns, and storage capabilities.
+&Training(AR3T),anNIH-fundedresourcenetworkestablishedin
+Plenary speaker Dr. Robert Guldberg (University of Oregon)
+2015.ThemissionofAR3Tistosupporttheexpansionofscientiﬁc
+provided an insightful talk on the preclinical and in vivo models
+knowledge, expertise, and methodologies across the ﬁelds of
+his lab uses to assess vascular and bone growth under different
+regenerative medicine, biophysics and rehabilitation. To fully
+load conditions, with both acute and delayed treatment models.
+realize this goal, AR3T promotes education, training, research
+His group has pioneered the integration of implantable wireless
+support,andfundingopportunities(www.ar3t.pitt.edu).Dr.Rando
+sensors to monitor the mechanical environment within the reiterated AR3T’s support of the Symposium and described the
+regenerative niche8. Indeed, the new vascular network formation broad range of opportunities that are available through AR3T to
+is very sensitive to biomechanical conditions, but the regulatory
+help researchers develop and succeed with innovative lines of
+role of matrix deformations and remodeling during tissue
+Regenerative Rehabilitation research. The opportunities include
+regeneration in vivo needs to be evaluated. He showed how
+short-term sabbaticals to AR3T sites, consultations with subject
+functional loading has a potent time-dependent effect on both
+matter experts, pilot funding, technology development grants,
+mineralization and vascular growth in vivo, with early loading
+paired mentoring experiences, and access to diverse educational
+beingdetrimentalwhereasdelayedloadingenhancedoutcomes9.
+courses.
+Additionally, in acontrolled, invitro model, Dr. Guldberg and his
+To further highlight the effectiveness of this P2C grant-funded
+group have demonstrated that allowing the vascular network to
+1234567890():,; adoppepvtiermoloaizpcehdfotoorutl5acrogmdeaeybss.oDnbere.fdGoeurefledcbatedrrdgeip’nsagiRrecngoiecmneelpyrraedtsievsiemonoRneshptalruabstielitdsahttieohaner cSapentraendtsteeeDnrU,rtn.poiavGnseutrtnsghietreysai)rn,UtDAzaRre.w3rSTau-(rfBnduoienliedsGseeadDnSrdtrsaeh.tsiSee(paUeUrncnnihcviveeﬁerrnsrSsidtizyticnyzo)gefssw.CneIaynrlie(flPoinersneenilnaews,cyitItrelhvvdiantnhetioea),
+clinical relevance of timing and method of stimulation in Symposium’s objective of promoting Regenerative Rehabilitation
+designing rehabilitationprotocols.
+by junior investigators, Dr. Szczesny shared his research on the
+interplay between tendon multiscale mechanics and mechan-
+Cellularrehabilitation: maximizingstem cellfunction obiology in the context of tissue remodeling. Dr. Szczesny’s
+This session focused on the role of mechanical stimulation for multidisciplinary research involves the use of multiscale mechan-
+enhancingstemcellfunction.In2006,Dr.AdamEngler(University icaltesting,cellandtissueculture,andbiomaterialfabrication.The
+of California, San Diego) and colleagues ﬁrst demonstrated that goalofthisworkistobuildacomputationalmodelofgrowthand
+stem cells are highly mechanosensitive and that biophysical remodelingthatwillallowforpredictionofloadingprotocolsthat
+characteristicsoftheextrinsicmicroenvironmentisapotentdriver leadto degenerationversus regenerativerepair.
+of stem cell lineage speciﬁcation10. As an extension of this Dr. Gandhi discussed his progress in the development of a
+pioneering work, Dr. Engler kicked off the session with an methodforliveimagingofsomatosensoryﬁbersincervicalspinal
+engaging presentation on leveraging biomaterials to better cordthat canhelpto determinewhethereffective humanneural
+approximateextracellularmatrix properties toinducecardiomyo- stem cell engraftment enhances robotic-assisted therapy after
+cyte phenotypes. This disease-in-a-dish approach allows for spinalcordinjury,thusimprovingrecovery.Dr.Uzershoweda3D
+induction of pathological cardiomyocytes responses to study, printable, repeatable, adaptable and easy-to-use model of bone
+identify, and subsequently interrogate signaling pathways, which marrow that will be useful for studying cell responses in speciﬁc
+may ultimately inform clinical interventions. These interesting mechanicalenvironments.
+results suggest that any culture system should require speciﬁc
+dynamic materials that change as the niche does in vivo. Dr. Atten-hut!: ImpactofRegenerative Rehabilitationon warﬁghter
+FabrisiaAmbrosio(UniversityofPittsburgh)thensharedherwork care
+on extracellular vesicles and the protein Klotho. Understanding The Department of Defense (DoD) has increasingly relied on the
+howcirculatingfactorsaffectthemitochondrialfunctionofmuscle role of Regenerative Rehabilitation to advance the translation of
+stemcellsprovidesinsightintohowmusclelosesitsabilitytoheal cutting-edge regenerative technologies for the functional recov-
+withincreasingage,whichcouldpresentaninterventionaltarget ery of severely wounded soldiers and civilians. This is evidenced
+torestore one’smolecular proﬁletoa more“youthful”stage. by recent funding opportunities such as the RESTORE effort that
+Dr. Robert Grange (Virginia Tech) talked about the pathogenic callsforRegenerativeRehabilitationresearchandtheAFIRMeffort
+mechanisms and treatments for Duchenne muscular dystrophy to advance regenerative medicine. Along these lines, Colonel
+(DMD),withafocusonrescuingdystrophicmusclesopatientscan Sarah Goldman (U.S. Army Medical Research and Development
+betterperformandenjoyactivitiesofdailyliving.HisRegenerative Command) illustrated how war has motivated medical advances
+Rehabilitationapproach was tousegene therapy incombination and she discussed applicable DoD medical research funding
+withenduranceexerciseinarodentmodel—themdxmouse—to opportunities, including opportunities within the Congressionally
+signiﬁcantlyimprovethetime-to-fatigueduringtheﬁnaltreadmill Directed Medical Research Programs and other DoD Medical
+run at the end of the training period. Dr. Grange has previously Researchefforts.
+shown that mdx muscles can functionally adapt to chronic The plenary speaker of this session was Dr. Robert Mauck
+exercise, but exercise alone is not enough to completely (University of Pennsylvania), sharing his translational mechan-
+overcome the maladaptive response of dystrophic muscle11. The obiology work. He focused on how to motivate cell migration
+results demonstrated that, although gene therapy alone can towardsawoundsiteandhowtousemechano-activationtoour
+improve endurance, muscles in the mdx mouse model treated advantageforimprovedfactordeliverytopromoteformationand
+with gene therapy and combined with exercise are capable of repairof musculoskeletal tissue12.
+npjRegenerativeMedicine(2020)   16  PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute
+
+NEW PAGE
+
+V.Cheuyetal.
+3
+Dr. John Houle (Drexel University College of Medicine) shared overcoming the current clinical limitations in nerve repair. One
+hisresearchonthedualityofexerciseafterspinalcordinjury(SCI), future direction is to add electrical stimulation and exercise to
+which can promote neural plasticity but also block aberrant maximizeoutcomes.
+neuroplasticity13.Morespeciﬁcally,demonstratingtheimportance Dr. Silvia Blemker (University of Virginia) shared her collabora-
+of a Regenerative Rehabilitation approach, he showed that tiveresearchon3Dmusclemodeling,whichprovidesinsightinto
+regenerationofneuronsinthecordfollowingSCIwassigniﬁcantly the form, function, and biology of muscle. This work has wide-
+increasedwith acombination ofexercise and cellgraft. reachingapplicationsforstudyingatrophy,injury,anddystrophy,
+Dr. David Weiss (University of Virginia) brought a valuable aswell as to inform the design and testing of tissue engineering
+orthopedicsurgeon’sperspectivetothesession.Hediscussedthe technologies formuscle repair.
+challenges in trauma surgery when dealing with volumetric Dr.ShawnRussell(UniversityofVirginia)spokeonthefunctional
+muscle loss(VML), howtoevaluatethe injury, and thelongpath assessmentofbiomechanics,wherethekinematicsandkineticsof
+ahead to regenerating muscle for massive loss injuries. He animallocomotioncanbepowerfultoolsforquantifyingfunctional
+described UVA’s collaborative approach for studying VML, which change after volumetric muscle loss17. Understanding these
+includesworkingwiththeBiomedicalEngineeringDepartmentto altered movement strategies will better inform the design of
+quantify the location and magnitude of VML and with the regenerative and rehabilitation approaches to prevent the devel-
+KinesiologyDepartment toperform functional testing. opmentofchronicmovementcompensations.
+Intheclinic: stemcelltherapies forMSK rehabilitation
+PROGRAMMATIC SESSIONS
+This session began with plenary speaker Dr. George Christ
+(University of Virginia), who focused on volumetric muscle loss Overthepast8years,thesymposiumserieshasevolvedtomeet
+and the profound functional deﬁcit that can be disproportionate the needs of such a disparate audience. While a strength of the
+tothevolumelost14.Healsosharedthemultiscalebiomechanical symposiumisinbringingsomanydifferentstudents,researchers,
+approaches currently being used to understand and ideally and clinicians together in one place, there was also a need to
+develop new rehabilitative approaches and therapeutics to programintargetedlearningopportunitiestomeetspeciﬁcneeds.
+reverse it (i.e., computational modeling, muscle function testing, AClinicalSpecialInterestGroup(SIG),formedinresponsetothe
+imaging,kinematics,andkinetics).Drs.JoanneBorg-Stein(Harvard growingnumberofrehabilitationclinicians,providesanopportu-
+Medical School) and Kenneth Mautner (Emory University) both nity to meet and share experiences related to the treatment of
+shared their esteemed insights into bone marrow aspirate and regenerative medicine therapies in the clinic. The Clinical SIG
+adipose-derivedstemcells.Thereareclinicallogisticstoconsider breakfast discussion, led by Drs. Carmen Terzic (Mayo Clinic
+withrespecttothepatientandprovider,andcertainrehabilitation Rochester)andQuanjunCui,allowedattendeestoshareideasand
+protocols can be used to optimize the precision of regenerative strategiesforclinicalapproachesfollowingregenerativemedicine
+medicine. Gaps in clinical practice using regenerative medicine therapiesto optimizeoutcomes.
+approachesinclude identifying thebestcellsource, correct dose, Heldfortheﬁrsttimeatthesymposium,abreakfastdiscussion
+bestroute of delivery, andoptimal timingand type of rehabilita- ledbytheUniversityofPittsburgh’sDr.FabrisiaAmbrosioandMrs.
+tion.ThisledtoanexcellentpaneldiscussionledbyDr.Borg-Stein, PaulaDaviscenteredondiversityandinclusion.Attendeesshared
+Dr. Mautner, Dr. Nelson Hager (Uniformed Services University of multipleperspectivesandthoughtsonsupportingdiversityinthe
+theHealthSciences),andDr.QuanjunCui(UniversityofVirginia). student body and at the faculty level. Recommendations that
+Topics included the clinical rationale behind using bone marrow resulted from the breakfast included that we should all obtain
+versus adipose, the role of age in deciding treatment approach, trainingondiversityandimplicitbias,aseachoneofuscanbean
+whatfactorsmayplayaroleinrespondingtotreatment,andthe ally,and tosupport diversity across theSTEM pipeline.
+need to establish standards for stem cell therapeutics. This Post-symposium workshops were “Clinical Study Design for
+session’sclinicalfocusbroughthometheimportanceofcollabor- Regenerative Rehabilitation” led by Dr. Marcas Bamman (Uni-
+ating in the translational process so that research data can be versity of Alabama), and “Rehabilitation Strategies in Preclinical
+usedtoinformrehabilitationprotocolstobeusedincombination Models” led by Dr. Linda Noble-Haeusslein (University of Texas,
+withregenerative medicinetherapies. Austin). The goal of Dr. Bamman’s workshop was to address
+challenges and current opportunities speciﬁc to clinical trials in
+Newhorizons: RegenerativeRehabilitation takesan eyetothe medical rehabilitation. These included trial design, issues in
+clinic recruitment and retention, funding opportunities, and mobile
+This session provided examples of translational research in the technologyintegrationintorehabilitationtrials.Anintroductionto
+ﬁeld.Dr.MichaelBoninger(UniversityofPittsburgh)discussedthe clinical trial resources for investigators was given, speciﬁcally the
+application of assistive technologies to increase function and REACT Center and the Medical Rehabilitation Research Resource
+participation in individuals with neurological disabilities. This is a (MR3) Network Coordinating Center. The goals of Dr. Noble-
+very crucial topic that is reported to be of relevant impact in Haeusslein’s workshop were to overview preclinical research
+different aspects of neurological patient lives, such as in health, design using a rodent model and to cover methods of
+psychologicalandsocialstatus,education,andmotororcognitive rehabilitation and outcome measurements. Together, these will
+learning15.Importantly,hechallengedattendeestoconsiderhow help optimize basic regenerative rehabilitation research for more
+neural technologies could be combined with regenerative successfultranslations ofbasic research totheclinic.
+medicine approaches in the brain and spinal cord to enhance
+stem cell differentiation and the formation of new connections
+MENTORSHIPANDTRAINING SESSIONS
+that willresult inimproved healing.
+Dr.KaceyMarra(UniversityofPittsburgh)sharedherauthentic, Apre-symposiumworkshopwasledbyDr.RosemarieHunziker—
+humorous, and valuable perspective on what the translational aformerprogramdirector oftheNationalInstitute ofBiomedical
+researchtimelinelookedlikeforherAxoMaxtechnology,detailing ImagingandBioengineering—onhowtomaximizesuccessinNIH
+the20-yearbuildupfromideatohumanclinicaltrialstoforminga grant writing. Geared towards trainees, early investigators, and
+company16. The idea of the AxoMax technology is to use a those who may not be familiar with NIH funding, Dr. Hunziker
+biodegradablepolymertubecontainingadrugdeliverysystemto provided an in-depth and entertaining crash course on the tips,
+promotethegrowthofperipheralnervesoverlargegaps(>3cm), tricks, andcommon challengesof theNIH.
+PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute npjRegenerativeMedicine(2020)   16 
+
+NEW PAGE
+
+V.Cheuyetal.
+4
+A poster session provided an excellent networking opportunity 11. Capogrosso,R.F.etal.Contractileefﬁciencyofdystrophicmdxmousemuscle:
+betweenseniorresearchers,clinicianscientists,andstudents.Avast invivoandexvivoassessmentofadaptationtoexerciseoffunctionalendpoints.
+spectrum of topics was presented, including implantable sensors, J.Appl.Physiol.https://doi.org/10.1152/japplphysiol.00776.2015(2017).
+biomaterials,molecularandcellularresponsestobiophysicalsignals, 12. Qu, F., Guilak, F. & Mauck, R. L. Cell migration: implications for repair and
+and mechanical stimulation in cellular therapeutics and tissue regeneration in joint disease. Nat. Rev. Rheumatol. https://doi.org/10.1038/
+s41584-018-0151-0(2019).
+engineering.
+13. Farrell,K.etal.Plasticchangesafterspinalcordinjury.inOxfordResearchEncy-
+clopediaofNeuroscience(OxfordUniversityPress,2019).
+14. Mintz, E. L. et al. Long-term evaluation of functional outcomes following rat
+CONCLUSION
+volumetricmusclelossinjuryandrepair.TissueEng.Ahttps://doi.org/10.1089/ten.
+This symposium featured world-renowned researchers and tea.2019.0126(2020).
+clinicians, focusing on the emerging ﬁeld of Regenerative 15. Collinger, J. L. et al. Functional priorities, assistive technology, and brain-
+Rehabilitation; it succeeded in creating a platform for bridging computer interfaces after spinal cord injury. J. Rehabil. Res. Dev. 50, 145–160
+several areas of expertise in a setting that fosters discussion, (2013).
+interaction, cross-discipline pollination and networking. Drs. Paul 16. Fadia,N.B.etal.Long-gapperipheralnerverepairthroughsustainedreleaseofa
+neurotrophic factor in nonhuman primates. Sci. Transl. Med. https://doi.org/
+George (Stanford University) and Shailly Jariwala (Uniformed
+10.1126/scitranslmed.aav7753(2020).
+ServicesUniversityoftheHealthSciences)sharedasuccessstory
+17. Dienes,J.A.etal.Analysisandmodelingofratgaitbiomechanicaldeﬁcitsin
+of how networking at last year’s Symposium led to their
+responsetovolumetricmusclelossinjury.Front.Bioeng.Biotechnol.https://doi.
+collaborative project, submitted to the Department of Defense, org/10.3389/fbioe.2019.00146(2019).
+using nerve conduits combined with electrical and chemical
+stimulation for the treatment of peripheral nerve injury. This
+session invited attendees to think of innovative approaches and ACKNOWLEDGEMENTS
+collaborations to continue moving the ﬁeld of Regenerative Fundingforthissymposium wasprovidedinpartbytheEuniceKennedyShriver
+Rehabilitation forward. Looking ahead, the P2C grant supporting National Institute of Child Health & Human Development (NICHD), the National
+AR3T was selected for renewal and received its notice of award Institute of Neurological Disorders and Stroke (NINDS), the National Institute of
+July 2020. Due to COVID-19, the AR3T Executive Leadership ArthritisandMusculoskeletalandSkinDiseases(NIAMS),andtheNationalInstituteof
+recentlymadethedifﬁcultdecisiontopostponethe2020sympo- BiomedicalImagingandBioengineering(NIBIB)oftheNationalInstitutesofHealth
+sium to 4–6 November 2021 at the University of Texas, Austin. under Award Number R13HD085724; the Alliance for Regenerative Rehabilitation
+Research&Training(AR3T),alsosupportedbyNICHD,NINDS,andNIBIB,underAward
+However, a number of virtual options are being planned in the
+Number P2CHD086843; and by the members of the International Consortium for
+interim that will tap into the pioneering aptitude of our
+Regenerative Rehabilitation (ICRR). The content is solely the responsibility of the
+community to deliver world-class education and spotlight authorsanddoesnotnecessarilyrepresenttheofﬁcialviewsoftheNationalInstitutes
+RegenerativeRehabilitation innovation. ofHealth.
+DATAAVAILABILITY AUTHORCONTRIBUTIONS
+Datasharingnotapplicabletothisarticletypeasnodatasetsweregeneratedor All authors contributed equally to the design, drafting, and revising of the
+analyzed. manuscript. All authors gave ﬁnal approval of the completed version, and share
+accountabilityforallaspectsofthework.
+Received:25May2020; Accepted: 31August2020;
+COMPETINGINTERESTS
+Theauthorsdeclarenocompetinginterests.
+REFERENCES
+ADDITIONAL INFORMATION
+1. Rando,T.A.&Ambrosio,F.RegenerativeRehabilitation:appliedbiophysicsmeets
+CorrespondenceandrequestsformaterialsshouldbeaddressedtoV.C.
+stemcelltherapeutics.CellStemCellhttps://doi.org/10.1016/j.stem.2018.02.003(2018).
+2. Willett, N. J. et al. Taking the next steps in regenerative rehabilitation: estab-
+lishmentofanewinterdisciplinaryﬁeld.Arch.Phys.Med.Rehabil.https://doi.org/ Reprints and permission information is available at http://www.nature.com/
+10.1016/j.apmr.2020.01.007(2020). reprints
+3. Orlando, G. et al. Production and implantation of renal extracellular matrix
+Publisher’snoteSpringerNatureremainsneutralwithregardtojurisdictionalclaims
+scaffolds from porcine kidneys asa platform for renalbioengineering investi-
+inpublishedmapsandinstitutionalafﬁliations.
+gations.Ann.Surg.https://doi.org/10.1097/SLA.0b013e31825a02ab(2012).
+4. Chen, K. L., Eberli, D., Yoo, J. J. & Atala, A. Bioengineered corporal tissue for
+structuralandfunctionalrestorationofthepenis.Proc.NatlAcad.Sci.USAhttps://
+doi.org/10.1073/pnas.0909367106(2010).
+Open Access This article is licensed under a Creative Commons
+5. Atala,A.,Bauer,S.B.,Soker,S.,Yoo,J.J.&Retik,A.B.Tissue-engineeredauto-
+Attribution 4.0 International License, which permits use, sharing,
+logousbladdersforpatientsneedingcystoplasty.Lancethttps://doi.org/10.1016/
+adaptation,distributionandreproductioninanymediumorformat,aslongasyougive
+S0140-6736(06)68438-9(2006).
+appropriatecredittotheoriginalauthor(s)andthesource,providealinktotheCreative
+6. Atala,A.,KurtisKasper,F.&Mikos,A.G.Engineeringcomplextissues.Sci.Transl.
+Commonslicense,andindicateifchangesweremade.Theimagesorotherthirdparty
+Med.https://doi.org/10.1126/scitranslmed.3004890(2012).
+materialinthisarticleareincludedinthearticle’sCreativeCommonslicense,unless
+7. DeCoppi,P.etal.Isolationofamnioticstemcelllineswithpotentialfortherapy.
+Nat.Biotechnol.https://doi.org/10.1038/nbt1274(2007). indicatedotherwiseinacreditlinetothematerial.Ifmaterialisnotincludedinthe
+article’sCreativeCommonslicenseandyourintendeduseisnotpermittedbystatutory
+8. Klosterhoff, B. S. et al. Wireless sensor enables longitudinal monitoring of
+regulationorexceedsthepermitteduse,youwillneedtoobtainpermissiondirectly
+regenerative niche mechanics during rehabilitation that enhance bone repair.
+fromthecopyrightholder.Toviewacopyofthislicense,visithttp://creativecommons.
+Bonehttps://doi.org/10.1016/j.bone.2020.115311(2020).
+org/licenses/by/4.0/.
+9. Ruehle, M. A. et al. Extracellular matrix compression temporally regulates
+microvascularangiogenesis.Sci.Adv.6,eabb6351(2020).
+10. Engler,A.J.,Sen,S.,Sweeney,H.L.&Discher,D.E.Matrixelasticitydirectsstem
+celllineagespeciﬁcation.Cell126,677–689(2006). ©TheAuthor(s)2020
+npjRegenerativeMedicine(2020)   16  PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute
+
+NEW PAGE

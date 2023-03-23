@@ -1,0 +1,438 @@
+Original Research
+Leukocyte-Rich Platelet-Rich Plasma Has
+Better Stimulating Effects on Tenocyte
+Proliferation Compared With Leukocyte-Poor
+Platelet-Rich Plasma
+Keng-Yi Lin,* MD, Poyu Chen,† PhD, Alvin Chao-Yu Chen,‡§ MD, Yi-Sheng Chan,‡§ MD,
+Kin Fong Lei,|| PhD, and Chih-Hao Chiu,§{#** MD, PhD
+Investigation performed at Chang Gung University, Taoyuan
+Background:Rotatorcuff(RC)tendinopathyisoneofthemostcommoncausesofshoulderpain.Platelet-richplasma(PRP)has
+beenfrequentlyusedinclinicalscenarios,butitsefficacyremainsinconsistent.
+Purpose:ToinvestigatethedifferentresponsesofhumantenocytesfromtornRCstoleukocyte-richPRP(LR-PRP)andleukocyte-
+poorPRP(LP-PRP)ina2-chambercoculturedevice.
+StudyDesign:Controlledlaboratorystudy.
+Methods: PRP was prepared using different platelet and leukocyte concentrations according to 5 groups: (1) LR-PRP with
+5000platelets/mL,(2)LR-PRPwith10,000platelets/mL,(3)LP-PRPwith5000platelets/mL,(4)LP-PRPwith10,000platelets/mL,and
+(5)controlwithonlyculturemediumsupplementationandwithoutPRPstimulation.Platelet-derivedgrowthfactor–AB(PDGF-AB)
+and transforming growth factor–b1 (TGF-b1) were measured in LR-PRP and LP-PRP via enzyme-linked immunosorbent assay.
+Microscopy,water-solubletetrazoliumsaltassay,andquantitativereal-timepolymerasechainreactionwereusedtoinvestigate
+themorphology,proliferation,andgeneexpressionofRCtenocytesexposedtodifferentPRPformulations.Datawerecollected
+fromatleast3independentmeasurements.Theresultswereanalyzedvia1-wayanalysisofvariance,followedbytheposthoc
+Bonferronitest.
+Results: The ratio of leukocytes to 5000 platelets/mL was 29.5 times higher in LR-PRP than in LP-PRP (P < .05). In the
+5000platelets/mLgroups,thelevelsofTGF-b1andPDGF-ABwerebothsignificantlyhigherinLR-PRPversusLP-PRP(TGF-b1:
+367.0±16.5vs308.6±30.3pg/mL,respectively[P¼.043];PDGF-AB:172.1±1.8vs94.1±4.2pg/mL,respectively[P<.001]).
+Comparedwiththecontrolgroup,RCtenocyteproliferationwas1.42±0.01and1.41±0.03timeshigherintheLR-PRPgroups
+with 5000 platelets/mL and 10,000 platelets/mL, respectively (P < .05). The expression of tenocyte-related genes was higher in
+tenocytesculturedinLR-PRP.
+Conclusion: Both the LR-PRP groups with 5000 platelets/mL and 10,000 platelets/mL induced more growth factor release and
+increasedRCtenocyteproliferationthandidtheLP-PRPgroups.
+ClinicalRelevance:InRCrepair,LR-PRPmaybebetterthanLP-PRPforincreasingtheproliferationoftenocytes.
+Keywords:rotatorcuff;tenocytes;platelet-richplasma;leukocyte
+A rotator cuff (RC) tear is a common cause of persistent repair process.26 Alow celldensity in tendon tissueand a
+shoulderpain.24Evenwithsurgicalinterventions, studies minimal blood supply lead to limited extracellular matrix
+have revealed the high incidence of recurrent tendon restorationfortendonhealing.3
+defects after RC repair.32 One important reason for poor Platelet-rich plasma (PRP) has been an attractive
+healingandhigh retearratesistheminimalbloodsupply approach for stimulating and accelerating the soft tissue
+to the repair construct.31 Tenocytes are the basic cellular healing process.11 PRP with a3to 5times higher platelet
+components of tendon tissue and contribute to synthesize concentration compared with whole blood is frequently
+allcomponentsoftheextracellularmatrixfortheintrinsic usedinaclinicalscenario,whichreleasesmoregrowthfac-
+tors and cytokines than whole blood.5 Platelet-derived
+growth factors (PDGFs), including PDGF-AB and trans-
+TheOrthopaedicJournalofSportsMedicine,10(3),23259671221084706
+forming growth factor–b1 (TGF-b1), have recently shown
+DOI:10.1177/23259671221084706
+ªTheAuthor(s)2022 promiseinpromotingtendonrepairandregeneration.2,36
+Thisopen-accessarticleispublishedanddistributedundertheCreativeCommonsAttribution-NonCommercial-NoDerivativesLicense(https://creativecommons.org/
+licenses/by-nc-nd/4.0/),whichpermitsthenoncommercialuse,distribution,andreproductionofthearticleinanymedium,providedtheoriginalauthorandsourceare
+credited.Youmaynotalter,transform,orbuilduponthisarticlewithoutthepermissionoftheAuthor(s).Forarticlereuseguidelines,pleasevisitSAGE’swebsiteat
+http://www.sagepub.com/journals-permissions.
+1
+
+NEW PAGE
+
+2 Linetal TheOrthopaedicJournalofSportsMedicine
+In the past decade, a number of in vitro studies have TABLE1
+reportedthatPRPenhancestheproliferationofhumanmus- DescriptiveDataofPatients
+cle, bone, and tendon cells.2,16,22 In contrast, other studies
+have revealed no statistically significant benefit from PRP Value
+treatment.30,35Currently,theefficacyofPRPtherapyisstill
+Age,mean±SD,y 57.3±8.0
+unclear and remains controversial among medical experts, Bodymassindex,mean±SD 26.4±2.0
+especiallywhenPRPisusedinconjunctionwithRCrepair. Sex,female/male,n 0/3
+Thismightbeattributedtothelargevariationsintheprep-
+arationprocedureandcompositionoftheappliedPRP.Some
+authors have suggested that red blood cells (RBCs) and human supraspinatus tendons during arthroscopic RC
+whitebloodcells(WBCs)maybedetrimental,asthesecells repairof3patientswithmoderatedegenerativeRCtears.
+participateininflammatoryreactionsthatcanleadtodam- Allpatientshadinformedconsent.Allpatientsweremale,
+ageinthetreatedtissue.10,23However,nonplateletcellular withagesrangingfrom49to65years(Table1).Noneofthe
+components in platelet concentrates are important for patients had diabetes, smoking, systemic illness, recent
+properplateletfunction.27ThelackofRBCsandleukocytes histoyofcancer,andundergoneanyformofanticoagulant,
+resultsinadeficiencyinplateletfunctionconcerninggrowth antibacterial, or immunosuppressive therapy within the
+factor release and the ability of the releasate to stimulate previous6months.
+tenocyteproliferation.27Arecentstudyshowedbettereffects Weusedapreviouslypublishedprotocoltoisolateteno-
+withaleukocyte-richPRP(LR-PRP)injectionoveracortico- cytes.28 After the first passage, adherent cells were tryp-
+steroid injection for chronic gluteal tendinopathy,12 while sinized, and cells were seeded at 2 (cid:2) 104 cells/cm2 in the
+another animal study revealed that leukocyte-poor PRP coculture device. Normal tenocyte morphological charac-
+(LP-PRP)promotedtendonhealinginchronicAchillesten- teristicswere confirmed viamicroscopy.Thecell number
+dinopathy thanLR-PRPdid.38 PRP injections for RC tears was determinedusing anautomated cellcounter (Count-
+arereportedinlesshigh-qualitystudies,butarandomized ess II FL; Thermo Fisher Scientific). Tenocytes above 3
+controlledtrialfoundthattherewasanimprovementinpain passages were discarded because a phenotypic drift was
+with2injectionsofLR-PRP,separatedby4weeks,compared reported.21 The tenocyte genotype was confirmed using
+withaplaceboinjection.29Morestudiesareneededtoiden- quantitative real-time polymerase chain reaction (qRT-
+tifythebestpreparationandcompositionofPRPfordiffer- PCR) for the tenocyte markers, including type I collagen
+entclinicalconditions,13especiallyforRCtears. (COL1),typeIIIcollagen(COL3),decorin(DCN),tenascin-
+In this study, we used a 2-chamber coculture device to C(TNC),andscleraxis(SCX).
+investigatetheresponsesofhumantenocytesfromtornRC
+tissuetoLR-PRPandLP-PRPformulations.Thepurposeof
+LR-PRP and LP-PRPPreparation
+this study was to evaluate tenocyte proliferation and
+growthfactorreleaseviaLR-PRPandLP-PRPtreatment.
+PRP was prepared with different platelet and leukocyte
+We hypothesized that different clinical scenarios might
+concentrations according to 4 PRP groups plus a control
+have their own best PRP compositions for treatment and
+group:(1)LR-PRPwith5000platelets/mL,(2)LR-PRPwith
+thatLR-PRPwouldbemoreeffectiveinRCtenocyteprolif-
+10,000 platelets/mL, (3) LP-PRP with 5000 platelets/mL,
+erationandgrowthfactorrelease.
+(4) LP-PRP with 10,000 platelets/mL, and (5) control with
+only culture medium supplementation and without PRP
+stimulation.Wewithdrew20mLofautologousbloodfrom
+METHODS
+each patient during RC repair. For the LR-PRP prepara-
+Isolationof Tenocytes tion,5mLofwholebloodwasinitiallysubjectedtocentri-
+fugation at200gfor10minutestopellettheRBCs,which
+Afterobtaininginstitutionalreviewboardapprovalforthis were discarded. The supernatant was then subjected to a
+study, we isolated tendon tissue from the edge of torn secondcentrifugationat600gfor8minutes.Upperplasma
+**AddresscorrespondencetoChih-HaoChiu,MD,PhD,DepartmentofOrthopedicSurgery,ChangGungMemorialHospital,Taoyuan,No.123,Dinghu
+Rd.,GuishanDistrict,TaoyuanCity333,Taiwan(email:joechiu0115@gmail.com);andKinFongLei,PhD,GraduateInstituteofBiomedicalEngineering,
+ChangGungUniversity,No.259,Wen-Hwa1stRoad,GuishanDistrict,TaoyuanCity333,Taoyuan(email:kflei@mail.cgu.edu.tw).
+*DepartmentofMedicine,ChangGungUniversity,Taoyuan.
+†DepartmentofOccupationalTherapyandGraduateInstituteofBehavioralSciences,CollegeofMedicine,ChangGungUniversity,Taoyuan.
+‡DepartmentofOrthopedicSurgery,ChangGungMemorialHospital,Linkou.
+§BoneandJointResearchCenter,ChangGungMemorialHospital,Linkou.
+||GraduateInstituteofBiomedicalEngineering,ChangGungUniversity,Taoyuan.
+{DepartmentofOrthopedicSurgery,ChangGungMemorialHospital,Taoyuan.
+#ComprehensiveSportsMedicineCenter,ChangGungMemorialHospital,Taoyuan.
+FinalrevisionsubmittedNovember8,2021;acceptedDecember31,2021.
+Oneormoreoftheauthorshasdeclaredthefollowingpotentialconflictofinterestorsourceoffunding:Financialsupportforthisstudywasreceivedfrom
+theMinistryofScienceandTechnologyandChangGungMemorialHospital(grants107-2314-B-182A-150-MY3,CMRPG5K0091,andCMRPG5K0211).
+AOSSMchecksauthordisclosuresagainsttheOpenPaymentsDatabase(OPD).AOSSMhasnotconductedanindependentinvestigationontheOPDand
+disclaimsanyliabilityorresponsibilityrelatingthereto.
+EthicalapprovalforthisstudywasobtainedfromtheChangGungMedicalFoundation(No.201702198B0).
+
+NEW PAGE
+
+TheOrthopaedicJournalofSportsMedicine TenocyteProliferationWithDifferentPRPFormulations 3
+wasaspirated,and0.3mLofplasmawasusedtoresuspend became a gel-like form in the PRP chamber. Another
+the resultant cell pellet to generate LR-PRP.38 For the 500-mL culture medium was applied to the PRP chamber
+preparation of LP-PRP, after the first centrifugation at to overcome the polydimethylsiloxane barrier, causing an
+200g, the second centrifugation at 100g was applied to exchangeofculturemediumbetweenthecellchamberand
+discard the WBCs and residual RBCs. Subsequently, a PRP chamber as previously described.4 Hence, tenocytes
+third centrifugation at 600g was applied to enrich the cultured in the cell chamber were able to receive platelet-
+platelets, and 0.3 mL of LP-PRP was obtained via resus- derivedgrowthfactorsviadiffusion.Finally,cellswerecul-
+pensionoftheplateletsinplasma.38Theprocedureissum- turedintheincubatorfor3days.Aftertheculturecourse,
+marized in Figure 1. The platelet and WBC counts in cellproliferationwasinvestigatedusingbioassay.Thepro-
+wholebloodandPRPofthe3patientsarelistedinTable cedureissummarizedinFigure3.
+2. The platelet count was determined via a cell counter
+firstanddilutedtoconcentrationsof5000and10,000pla- Quantification of Cells
+telets/mLaccordingly.
+Briefly,thecellnumberwasquantifiedusingwater-soluble
+tetrazolium salt (WST-1) assay (Roche) as previously
+Stimulation of Tenocytes viaPRP described.6
+PRP and tenocytes were obtained from each patient
+Gene Analysis byqRT-PCR
+duringsurgeryandwerethencombined.Cellsatadensity
+of1.5(cid:2)104cells/cm2suspendedin120-mLculturemedium
+RNA was isolated from cultured dishes as previously
+were respectively applied to 1 of the 2 subchambers (cell
+described.21 RNA quantity and purity (A260/280) were
+chamber)ofthecoculturedevice(Figure2).Then,PRPthat
+measured using mQuant software (BioTek Instruments).
+contained5000platelets/mLand10,000platelets/mLinliq-
+RNA was reverse-transcribed into complementary DNA
+uid form was applied to the remaining subchamber (PRP
+(cDNA) using 1 mg of mRNA and a High-Capacity cDNA
+chamber).Itisnotedthatthelevelofthesolutionwasnot
+Reverse Transcription Kit (Thermo Fisher Scientific).
+added over the height of the barrier. Then, the coculture
+qRT-PCR was performed using 10 to 100 ng of cDNA as
+devicewasplacedinanincubatorforanhour.After1hour,
+a template and the StepOne Real-Time PCR System
+cellsattached tothe surfaceofthe cellchamber,and PRP
+(Thermo Fisher Scientific). The resultant cycle thres-
+hold values were normalized and analyzed using the
+standardcurvemethod.TaqManGeneExpressionAssays
+(Thermo Fisher Scientific) were used for the following
+genes: COL1, COL3, TNC, DCN, SCX, and transcription
+factor SRY-box transcription factor–9 (SOX9), relative to
+glyceraldehyde3-phosphatedehydrogenaseastheendog-
+enouscontrol.
+Evaluation of Growth Factorsin Coculture Device
+TGF-b1andPDGF-ABwereanalyzedbyusingacommer-
+cialimmunoassaykit(HumanTGF-b1andHumanPDGF-
+AB QuantikineELISAKit;R&DSystems).Theanalytical
+protocol followed the manufacturer’s instructions. The
+supernatantwaspipettedinakit-suppliedmicroplatethat
+Figure 1. Schematic diagram of the preparation of wasprecoatedwiththeprimaryantibodyandincubatedfor
+(A) leukocyte-rich platelet-rich plasma (LR-PRP) and 3 hours at room temperature. Then, the microplate was
+(B)leukocyte-poorplatelet-richplasma(LP-PRP). washed using the provided buffer. Next, the
+TABLE2
+No.ofPlateletsandWBCsinWholeBloodandPRPofPatientsa
+WholeBlood LR-PRP LP-PRP
+WBCs/5000/mL WBCs/5000/mL WBCs/5000/mL
+Plateletsb WBCsb Platelets Plateletsb WBCsb Platelets Plateletsb WBCsb Platelets
+Patient1 264 8.94 169.3 2046 8.68 21.2 993 0.21 1.1
+Patient2 183 9.07 247.8 986 4.36 22.1 406 0.02 0.2
+Patient3 104 6.28 301.9 540 1.06 9.8 247 0.03 0.6
+aLP-PRP,leukocyte-poorplatelet-richplasma;LR-PRP,leukocyte-richplatelet-richplasma;PRP,plate-richplasma;WBC,whitebloodcell.
+bPer103cells/mL.
+
+NEW PAGE
+
+4 Linetal TheOrthopaedicJournalofSportsMedicine
+detectionantibody wasaddedand incubated for1.5 hours calibrationcurve.Thus,theactualconcentrationsofTGF-
+atroomtemperature.Afterthemicroplatewaswashed,the b1andPDGF-ABcouldbecalculatedbasedonthecalibra-
+substratesolutionwasaddedandincubatedfor20minutes. tioncurve.
+Theopticaldensityofthereactivesolutionwasquantified
+using a microplate reader (ELx800; BioTek Instruments). Statistical Analysis
+Inaddition,aserialdilutionoftheprovidedstandardTGF-
+b1 and PDGF-AB solution was utilized to set up the Data(presentedasmean±SD)forthe4PRPgroupswere
+collectedfromatleast3independentmeasurements.The
+LR-PRP and LP-PRP groups were compared within the
+different platelet concentrations (5000 and 10,000 plate-
+lets/mL) as well as with the control group using 1-way
+analysis of variance, followed by the post hoc Bonferroni
+test. Statistical significance was indicatedat P<.05.All
+statistical analyses were performed using SPSS 21.0 for
+Windows(IBMCorp).
+RESULTS
+Different PRP Analyses
+The concentrations of platelets and leukocytes were ana-
+lyzed to confirm the successful preparation of LR-PRP
+(plateletcount,1190.7±773.6(cid:2)103platelets/mL)andLP-
+PRP (platelet count, 548.7 ± 392.9 (cid:2) 103 platelets/mL)
+compared to whole blood (platelet count, 183.7 ± 80.0 (cid:2)
+Figure2.Photographofthecoculturedevice.
+103 platelets/mL) (Figure 4A and Table 2). Although the
+Figure 3. Design and experimental setup to investigate the proliferation of tenocytes under the stimulation of leukocyte-rich
+platelet-richplasma(LR-PRP)andleukocyte-poorplatelet-richplasma(LP-PRP).WST-1,water-solubletetrazoliumsalt.
+Figure4.Compositionsofleukocyte-richplatelet-richplasma(LR-PRP)andleukocyte-poorplatelet-richplasma(LP-PRP)prepared
+fromhumanwholeblood.(A)TheplateletconcentrationinLR-PRPwasabout2timeshigherthanthatinLP-PRP(P¼.51).(B)The
+leukocyte concentration in LR-PRP was about 5 times higher than that in LP-PRP (P ¼ .17). (C) The ratio of leukocytes to
+5000platelets/mLwas29.5timeshigherinLR-PRPcomparedwithLP-PRP(P<.05).PLT,platelet;WBC,whitebloodcell.*P<0.05.
+
+NEW PAGE
+
+TheOrthopaedicJournalofSportsMedicine TenocyteProliferationWithDifferentPRPFormulations 5
+concentrationsofleukocytesandplateletsbetweenLR-PRP
+(leukocyte count, 4.7 ± 3.8 (cid:2) 103 leukocytes/mL) and LP-
+PRP(leukocytecount,0.9±3.8(cid:2)103leukocytes/mL)were
+not significantly different (P ¼ .17 and .51, respectively),
+theratioofleukocytesto5000platelets/mLwas29.5times
+higherinLR-PRPversusLP-PRP(P<.05)(Figure4,Band
+C).
+Growth Factor LevelsinLR-PRP andLP-PRP
+Inthe5000platelets/mLgroups,theconcentrationofTGF-
+b1inLR-PRPwas1.2timeshigherthaninLP-PRP(367.0±
+16.5vs308.6±30.3pg/mL;P¼.043),whilePDGF-ABwas
+1.8timeshigherinLR-PRPthaninLP-PRP(172.1±1.8vs
+Figure 5. Growth factor levels in leukocyte-rich platelet-rich 94.1±4.2pg/mL;P<.001)(Figure5).
+plasma(LR-PRP)with5000platelets/mLandleukocyte-poor
+platelet-rich plasma (LP-PRP) with 5000 platelets/mL pre-
+pared from human whole blood. (A) The concentration Effects ofLR-PRP andLP-PRP onTenocyte
+of transforming growth factor–b1 (TGF-b1) in LR-PRP was Proliferation
+1.2 times higher than that in LP-PRP. (B) The concentration
+of platelet-derived growth factor–AB (PDGF-AB) in LR-PRP On morphological analysis of our 5 experimental groups
+was1.8timeshigherthanthatinLP-PRP.*P<.05. (Figure6,A-E),bothLR-PRPgroupsshowedincreasedcell
+numbers,indicatingbettertenocyteproliferation,whilein
+Figure6.Effectsofleukocyte-richplatelet-richplasma(LR-PRP)andleukocyte-poorplatelet-richplasma(LP-PRP)ontenocyte
+morphologyandproliferationonday3.(A)Controltenocyteswerewellspreadandelongatedwithanirregularshape.(B)Tenocytes
+culturedinLR-PRPwith5000platelets/mLhadincreasedcellnumbers.(C)TenocytesculturedinLR-PRPwith10,000platelets/mL
+had increased cell sizes (arrows) and numbers. (D) Tenocytes cultured in LP-PRP with 5000 platelets/mL were spread and
+elongated(arrowheads)withdecreasedcellsizes.(E)TenocytesculturedinLP-PRPwith10,000platelets/mLhadincreasedcell
+sizes.(F)WST-1assayindicatedthattenocyteproliferationintheLR-PRPgroupwith5000platelets/mLwas1.42timeshigherthan
+thatinthecontrolgroupand1.34timeshigherthanthatintheLP-PRPgroupwith5000platelets/mL.*P<.05.FBS,fetalbovine
+serum;O.D.,Opticaldensity;WST-1,water-solubletetrazoliumsalt.
+
+NEW PAGE
+
+6 Linetal TheOrthopaedicJournalofSportsMedicine
+Figure7.Effectsofleukocyte-richplatelet-richplasma(LR-PRP)andleukocyte-poorplatelet-richplasma(LP-PRP)onthegene
+expressionoftendon-andnon–tendon relatedcellmarkers.Theexpression levelsoftenascin-C(TNC),typeIcollagen (COL1),
+typeIIIcollagen(COL3),scleraxis(SCX),anddecorin(DCN)werehigherintenocytesinthePRPgroupsthaninthecontrolgroup,
+with LR-PRP higher than LP-PRP. The expression of non–tenocyte related gene, SRY-box transcription factor–9 (SOX9), was
+increasedintenocytestreatedwithLP-PRPbutnotwithLR-PRP.
+the LP-PRP group with 5000 platelets/mL, tenocytes were concentrations in these 2 types of PRP. In addition,
+spreadandelongatedwithdecreasedcellsizes. tenocyte-relatedgeneshadhigherexpressionlevelsinteno-
+As for WST-1 assay, the LR-PRP groups with cytes stimulated via LR-PRP than those stimulated via
+5000 platelets/mL and 10,000 platelets/mL showed 1.42 ± LP-PRP, while non–tenocyte related genes had higher
+0.01 and 1.41 ± 0.03 times higher tenocyte proliferation expression levels in the LP-PRP groups. Our results sug-
+rates, respectively, compared with the control group gest that LR-PRP has a beneficial effect in enhancing the
+(P<.05).Nosignificantdifferencewasfoundbetweenthe proliferationoftenocytesfromthetornRC.
+LR-PRP group with 10,000 platelets/mL and the control InourPRPpreparationprotocol,althoughtheconcentra-
+group (Figure 6F). In addition, the LR-PRP group with tionsofleukocytesinLR-PRPandLP-PRPwerenotsignif-
+5000 platelets/mL had a significantly higher proliferation icantlydifferent,theratioofWBCstoplateletsinLR-PRP
+rate than the LP-PRP group with 5000 platelets/mL had wassignificantlyhigher,whichmeantthattheconcentra-
+(1.42±0.01and1.06±0.02timeshigherproliferationrate, tionofleukocytesinLR-PRPwouldbehigherthanthatin
+respectively, compared with the control group; P < .05) LP-PRP when the concentration of platelets was a fixed
+(Figure6F). value. Therefore, LR-PRP used in our experiments had a
+higherleukocyteconcentrationthanLP-PRPhad.
+qRT-PCR forGeneAnalysis PRP has been widely used to promote wound and soft
+tissue healing because of its high concentrations of plate-
+Tenocyte-related genes, such as TNC, COL1, COL3, and letsandgrowthfactors.34Chungetal7foundthatthelocal
+SCX,wereupregulatedintheLR-PRPandLP-PRPgroups, administrationofPRPonarepairedsupraspinatustendon
+with LR-PRP showing a higher expression of these genes. facilitatedbiologicaltendon-to-bonehealingandincreased
+The expression of DCN, an extracellular matrix–related the load to failure of the repaired rabbit RC. To the con-
+gene, was increased in the LR-PRP and LP-PRP groups. trary, a single dose of platelet-poor plasma or 2 doses of
+However,theexpressionofnon–tendonrelatedgeneSOX9 PRP applied at the time of a rabbit medial collateral liga-
+was increased in LP-PRP and decreased in LR-PRP mentinjurydidnotimproveligamenthealing.19Therefore,
+(Figure7). therolesofdifferentcytokineswithinPRParestillcontro-
+versial.18OurstudyindicatedthatLR-PRPreleasedmore
+TGF-b1andPDGF-ABthanLP-PRPdid.Apreviousclini-
+DISCUSSION cal study revealed that a TGF-b1 level >61.79 mg/mL in
+PRPhadbetterclinicaloutcomesforRCtendinopathythan
+Wefoundinthecurrentstudythatthetenocytesharvested the control group.17 TGF-b1 inhibits matrixmetalloprotei-
+from the torn edge of the RC and stimulated via LR-PRP nase–9and-13expressionandincreasescollagenaccumula-
+with5000platelets/mLhada1.42±0.01timeshigherpro- tion, improving tendon strength and tendon healing.1,39
+liferationratethanthatofthecontrolgroupand1.34times Basedonthesedata,itispossiblethathigherlevelsofleu-
+higherratethanthatintheLP-PRPgroupwith5000plate- kocytesandTGF-b1inLR-PRPmighthavebetterefficacyin
+lets/mL.Thisresultwascompatiblewiththegrowthfactor RCrepaircomparedwithLP-PRP.
+
+NEW PAGE
+
+TheOrthopaedicJournalofSportsMedicine TenocyteProliferationWithDifferentPRPFormulations 7
+OurresearchalsoindicatedthatLR-PRPstimulatedRC inducingacatabolicresponseandinfightingoffinfections.25
+tenocyte proliferation better compared with LP-PRP. In However,theprolongeddurationoftheinfiltrationofexces-
+addition, tenocytes stimulated via LR-PRP demonstrated siveneutrophilsmayimpairthehealingprocessaschronic
+higher levels of tenocyte-related genes, while LP-PRP inflammationreplacesacuteinflammation.9Therefore,itis
+expressed a higher level of the chondrogenic gene SOX9. suggested that the application of LR-PRP and LP-PRP be
+However, anin vitro study using rabbit tendon stem cells dependentonthedifferenttypesoftendoninjuriesandheal-
+(TSCs) by Zhang et al40 achieved the opposite result. In ing stages.33 A recent study found that the intratendon
+theirstudy,LR-PRPhadanegativeeffectonTSCsbyinhi- delivery of LR-PRP at an early stage showed a beneficial
+biting the proliferation of TSCs, accelerating nontenocyte effectfortherepairoftendinopathybutnotatalatestage.20
+differentiation,andinducingtheapoptosisofTSCs.Anani- Future studies should focus on the application of different
+mal study using a rabbit Achilles tendinopathy model to PRP compositions todifferent stagesofthe tendon healing
+comparetheefficacyofLR-PRPandLP-PRPconcludedthat process.
+LP-PRPimprovestendonhealingandisapreferableoption A third limitation was that only 3 male patients were
+fortheclinical treatment oftendinopathy.38Withaprevi- includedinthisstudy,asPRPfrommalepatientscontains
+ousclinicalstudysuggestingthathighinterleukin–1band a higher level of cytokines and growth factors compared
+TGF-b1levelsarebeneficialtotheclinicaloutcomesofRC withthatfromfemalepatients.37Also,theratioofgrowth
+tendinopathy, weassumethatthe different conclusions of factors to proinflammatory cytokines is higher in younger
+these studies may result from the different injury sites, groups compared with older groups.37 We enrolled 3
+suchastheRCandAchillestendon,anddifferentcellori- middle-aged male patients to control the study cohort as
+gins,suchasrabbitsandhumans. much as possible. Further studies should focus on sex-
+Regarding human RCtearsand different PRPformula- specific analysis in the relationship between RC injuries
+tions, Cross et al8 demonstrated that LP-PRP promotes andthedifferentpreparationsofPRP.
+normalcollagenmatrixsynthesisanddecreasescytokines
+associatedwithmatrixdegradationandinflammationtoa
+greater extent than LR-PRP does. To the contrary, Jiang CONCLUSION
+et al15 found a higher gene expression and more protein
+synthesisofCOL1withLR-PRPthanwithLP-PRP,which The findings of this study indicate that LR-PRP induced
+ledtomorematurecollagenfibers,alargerfiberdiameter, moregrowthfactorreleaseandincreasedRCtenocytepro-
+ahigherfailureload,andhighertensilestress.Anetwork liferationcomparedwithLP-PRP.
+meta-analysisincluding13randomizedcontrolledtrialsby
+Hurley et al14 demonstrated that LP-PRP was found to
+REFERENCES
+significantly reduce the rate of retears and/or incomplete
+tendon healing after arthroscopic RC repair. It also
+1. Arimura H, Shukunami C, Tokunaga T, et al. TGF-beta1 improves
+improved visual analogscale forpain, Constant, and Uni- biomechanicalstrengthbyextracellularmatrixaccumulationwithout
+versity of California, Los Angeles, scores. LR-PRP did not increasingthenumberoftenogeniclineagecellsinaratrotatorcuff
+result in any significant improvements over the control repairmodel.AmJSportsMed.2017;45(10):2394-2404.
+group, except for the visual analog scale score for pain. 2. BoswellSG,SchnabelLV,MohammedHO,etal.Increasingplatelet
+concentrations in leukocyte-reduced platelet-rich plasma decrease
+However, post hoc analysis did not reveal significant
+collagen gene synthesis intendons. AmJSports Med. 2014;42(1):
+improvements of LP-PRP over LR-PRP in any category.14
+42-49.
+Therefore, the evidence to support an optimal leukocyte 3. BulloughR,FinniganT,KayA,MaffulliN,ForsythNR.Tendonrepair
+concentration of PRP remains controversial, as the meta- through stem cell intervention: cellular and molecular approaches.
+analysis failed to record the platelet count, leukocyte to DisabilRehabil.2008;30(20-22):1746-1751.
+platelet ratio, growth factor concentrations, and whether 4. ChiuC,ChenP,YehW,etal.Thegellingeffectofplatelet-richfibrin
+matrix when exposed to human tenocytes from the rotator cuff in
+PRP was activated. All these variables may be influenced
+small-diameter culture wells and the design of a co-culturedevice
+bypatientcharacteristicsandpreparationmethods.
+toovercomethisphenomenon.BoneJointRes.2019;8(5):216-223.
+5. ChiuCH,LeiKF,YehWL.Developmentofaco-culturedeviceforthe
+Limitations studyofhumantenocytesinresponsetothecombinedstimulationof
+electric fieldand platelet richplasma (PRP). Biomed Microdevices.
+There are limitations to our study. First, better tenocyte 2017;19(3):69.
+proliferationandgeneexpressioninvitrocannotrepresent 6. ChiuCH,LeiKF,YehWL,etal.ComparisonbetweenxCELLigence
+biosensortechnologyandconventionalcellculturesystemforreal-
+betterclinicaloutcomesinpatientswithRCtears.Although
+timemonitoringhumantenocytesproliferationanddrugscytotoxicity
+a randomized controlled trial29 found an improvement in
+screening.JOrthopSurgRes.2017;12(1):149.
+pain with 2 injections of LR-PRP compared with a placebo 7. ChungSW,SongBW,KimYH,ParkKU,OhJH.Effectofplatelet-rich
+injection,therearefewstudiesthathavedirectlycompared plasmaandporcinedermalcollagen graftaugmentation forrotator
+LR-PRP and LP-PRP in RC tears. Further clinical studies cuff healing in a rabbit model. Am J Sports Med. 2013;41(12):
+should focus on the efficacy of LR-PRP and LP-PRP in RC 2909-2918.
+8. CrossJA,ColeBJ,SpatnyKP,etal.Leukocyte-reducedplatelet-rich
+tears.Second,theapplicationtimingofLR-PRPandLP-PRP
+plasmanormalizesmatrixmetabolismintornhumanrotatorcufften-
+isanotherkeyfactorthatmayinfluenceoutcomes.Forthe
+dons.AmJSportsMed.2015;43(12):2898-2906.
+treatment of acute tendon injuries, leukocytes in LR-PRP 9. Diegelmann RF, Evans MC. Wound healing: an overview of acute,
+maybe helpful when inflammationisatacriticalstageby fibroticanddelayedhealing.FrontBiosci.2004;9:283-289.
+
+NEW PAGE
+
+8 Linetal TheOrthopaedicJournalofSportsMedicine
+10. Dragoo JL, Braun HJ, Durham JL, et al. Comparison of the acute 25. Moojen DJ, Everts PA, Schure RM, et al. Antimicrobial activity of
+inflammatoryresponseoftwocommercialplatelet-richplasmasys- platelet-leukocytegelagainstStaphylococcusaureus.JOrthopRes.
+tems in healthy rabbit tendons. Am J Sports Med. 2012;40(6): 2008;26(3):404-410.
+1274-1281. 26. O’BrienM.Structureandmetabolismoftendons.ScandJMedSci
+11. EvertsPA,OverdevestEP,JakimowiczJJ,etal.Theuseofautolo- Sports.1997;7(2):55-61.
+gousplatelet-leukocytegelstoenhancethehealingprocessinsur- 27. Parrish WR, Roides B, Hwang J, et al. Normal platelet function in
+gery:areview.SurgEndosc.2007;21(11):2063-2068. platelet concentrates requires non-platelet cells: a comparative in
+12. Fitzpatrick J, Bulsara MK, O’Donnell J, Zheng MH. Leucocyte-rich vitroevaluationofleucocyte-rich(type1a)andleucocyte-poor(type
+platelet-richplasmatreatmentofgluteusmediusandminimustendi- 3b) platelet concentrates. BMJ Open Sport Exerc Med. 2016;2(1):
+nopathy: a double-blind randomized controlled trial with 2-year e000071.
+follow-up.AmJSportsMed.2019;47(5):1130-1137. 28. PaulyS,StahnkeK,Klatte-SchulzF,etal.Dopatientageandsex
+13. Foster TE, Puskas BL,Mandelbaum BR, Gerhardt MB, Rodeo SA. influencetendoncellbiologyandclinical/radiographicoutcomesafter
+Platelet-rich plasma: from basic science to clinical applications. rotatorcuffrepair?AmJSportsMed.2015;43(3):549-556.
+AmJSportsMed.2009;37(11):2259-2272. 29. Rha DW, Park GY, Kim YK, Kim MT, Lee SC. Comparison of the
+14. Hurley ET, Colasanti CA, Anil U, et al. The effect of platelet-rich therapeutic effects of ultrasound-guided platelet-rich plasma injec-
+plasmaleukocyteconcentrationonarthroscopicrotatorcuffrepair: tionanddryneedlinginrotatorcuffdisease:arandomizedcontrolled
+anetworkmeta-analysisofrandomizedcontrolledtrials.AmJSports trial.ClinRehabil.2013;27(2):113-122.
+Med.2021;49(9):2528-2535. 30. RodeoSA,DelosD,WilliamsRJ,etal.Theeffectofplatelet-richfibrin
+15. JiangG,WuY,MengJ,etal.Comparisonofleukocyte-richplatelet- matrixonrotatorcufftendonhealing:aprospective,randomizedclin-
+richplasmaandleukocyte-poorplatelet-richplasmaonAchillesten- icalstudy.AmJSportsMed.2012;40(6):1234-1241.
+dinopathyatanearlystageinarabbitmodel.AmJSportsMed.2020; 31. Sanchez M, Anitua E, Azofra J, et al. Comparison of surgically
+48(5):1189-1199. repairedAchillestendontearsusingplatelet-richfibrinmatrices.Am
+16. JoCH,KimJE,YoonKS,ShinS.Platelet-richplasmastimulatescell JSportsMed.2007;35(2):245-251.
+proliferationandenhancesmatrixgeneexpressionandsynthesisin 32. TashjianRZ,HollinsAM,KimHM,etal.Factorsaffectinghealingrates
+tenocytesfromhumanrotatorcufftendonswithdegenerativetears. afterarthroscopicdouble-rowrotatorcuffrepair.AmJSportsMed.
+AmJSportsMed.2012;40(5):1035-1045. 2010;38(12):2435-2442.
+17. KimSJ,YeoSM,NohSJ,etal.Effectofplatelet-richplasmaonthe 33. Thomopoulos S, Parks WC, Rifkin DB, Derwin KA. Mechanismsof
+degenerative rotator cuff tendinopathy according to the composi- tendoninjuryandrepair.JOrthopRes.2015;33(6):832-839.
+tions.JOrthopSurgRes.2019;14(1):408. 34. TsaiWC,YuTY,ChangGJ,etal.Platelet-richplasmareleasatepro-
+18. Kruger JP, Freymannx U, Vetterlein S, et al. Bioactive factors in motes regeneration and decreases inflammation and apoptosis of
+platelet-richplasmaobtainedbyapheresis.TransfusMedHemother. injuredskeletalmuscle.AmJSportsMed.2018;46(8):1980-1986.
+2013;40(6):432-440. 35. WeberSC,KauffmanJI,PariseC,WeberSJ,KatzSD.Platelet-rich
+19. LaPradeRF,GoodrichLR,PhillipsJ,etal.Useofplatelet-richplasma fibrinmatrixinthemanagementofarthroscopicrepairoftherotator
+immediately after an injury did not improve ligament healing, and cuff:aprospective,randomized,double-blindedstudy.AmJSports
+increasingplateletconcentrationswasdetrimentalinaninvivoanimal Med.2013;41(2):263-270.
+model.AmJSportsMed.2018;46(3):702-712. 36. WesnerM,DefreitasT,BredyH,etal.Apilotstudyevaluatingthe
+20. Li S, Wu Y, Jiang G, et al. Intratendon delivery of leukocyte-rich effectivenessofplatelet-richplasmatherapyfortreatingdegenerative
+platelet-richplasmaatearlystagepromotestendonrepairinarabbit tendinopathies:arandomizedcontroltrialwithsynchronousobserva-
+Achillestendinopathymodel.JTissueEngRegenMed.2020;14(3): tionalcohort.PLoSOne.2016;11(2):e0147842.
+452-463. 37. XiongG,LingampalliN,KoltsovJCB,etal.Menandwomendifferin
+21. MazzoccaAD,ChowaniecD,McCarthyMB,etal.Invitrochangesin the biochemical composition of platelet-rich plasma. Am J Sports
+humantenocyteculturesobtainedfromproximalbicepstendon:mul- Med.2018;46(2):409-419.
+tiplepassagesresultinchangesinroutinecellmarkers.KneeSurg 38. Yan R, Gu Y, Ran J, et al. Intratendon delivery of leukocyte-poor
+SportsTraumatolArthrosc.2012;20(9):1666-1672. platelet-richplasmaimproveshealingcomparedwithleukocyte-rich
+22. Mazzocca AD, McCarthy MB, Chowaniec DM, et al. The positive platelet-rich plasma in a rabbit Achilles tendinopathy model. Am J
+effectsofdifferentplatelet-richplasmamethodsonhumanmuscle, SportsMed.2017;45(8):1909-1920.
+bone,andtendoncells.AmJSportsMed.2012;40(8):1742-1749. 39. ZhangC,LiuYJ.Biomechanicandhistologicanalysisoffibroblastic
+23. McCarrelTM,MinasT,FortierLA.Optimizationofleukocyteconcen- effects of tendon-to-bone healing by transforming growth factor
+tration in platelet-rich plasma for the treatment of tendinopathy. beta1 (TGF-beta1) inrotator cuff tears. Acta CirBras. 2017;32(12):
+JBoneJointSurgAm.2012;94(19):e143(1-8). 1045-1055.
+24. MeislinRJ,SperlingJW,StitikTP.Persistentshoulderpain:epidemi- 40. ZhangL,ChenS,ChangP,etal.Harmfuleffectsofleukocyte-rich
+ology,pathophysiology,anddiagnosis.AmJOrthop(BelleMeadNJ). platelet-richplasmaonrabbittendonstemcellsinvitro.AmJSports
+2005;34(12suppl):5-9. Med.2016;44(8):1941-1951.
+
+NEW PAGE

@@ -1,0 +1,636 @@
+Original Research
+Radial Extracorporeal Shock Wave Therapy
+Enhances Graft Maturation at 2-Year
+Follow-up After ACL Reconstruction
+A Randomized Controlled Trial
+Shurong Zhang,* MD, PhD, Aizhen Wen,*† MS, PT, Shengkun Li,* MD, PhD, Wei Yao,* BS, PT,
+Chang Liu,* BS, PT, Zifan Lin,* BS, PT, Zhengbiao Jin,* MS, PT, MS, Jiwu Chen,* MD, PhD,
+Yinghui Hua,* MD, PhD, Shiyi Chen,* MD, PhD, and Yunxia Li,*‡ MD
+Investigation performed at the Department of Sports Medicine, Huashan Hospital, Fudan
+University Shanghai, China
+Background:Graftmaturationisanimportantprognosticfactorforhamstringautograftanteriorcruciateligamentreconstruction
+(ACLR).Itremainsunclearwhetherextracorporealshockwavetherapy(ESWT)canpromotegrafthealingafterACLR.
+Purpose:ToevaluatethetherapeuticandgraftmaturationeffectsofESWTinhamstringautograftACLR.
+StudyDesign:Randomizedcontrolledtrial;Levelofevidence,1.
+Methods:BetweenMay18,2019,andSeptember20,2019,werandomlyassigned30patientswhometstudyinclusioncriteriato
+2groups.Patientsinthecontrolgroupfolloweda5-weekadvancedrehabilitationtrainingprogram(30minutes/session,5times/
+week)startingat3monthspostoperatively.IntheESWTgroup,togetherwiththe5-weekadvancedrehabilitationtraining,radial
+ESWT was applied once a week for 5 weeks. Functional scores (Lysholm, International Knee Documentation Committee, and
+Tegner scores), KT-1000 arthrometer knee laxity measurement, and magnetic resonance imaging scans were assessed at 3
+months(baseline),6months,and24monthspostoperatively.Toevaluategraftmaturation,weassessedthegraftsignal-to-noise
+quotients (SNQs) of the tibial, intra-articular, and femoral sides on magnetic resonance imaging scans. Data were compared
+betweentheESWTandcontrolgroups.
+Results:Intotal,26patients(13withESWT,13controls)wereassessed.Therewerenosignificantbetween-groupdifferenceson
+anyassessmentatbaseline,andnosignificantwithin-grouporbetween-groupdifferenceswerefoundinkneelaxityatanypoint.At
+24-monthfollow-up,theESWTgrouphadsignificantlyhigherLysholmandTegnerscorescomparedwiththecontrols(P¼.012
+and.017,respectively).Regardinggraftmaturation,at6-monthfollow-up,theSNQofthetibialintraosseousgraftwassignificantly
+lowerintheESWTgroupversuscontrols(P¼.006),butnodifferencesweredetectedatthefemoralintraosseousgraft(P¼.321)or
+theintra-articulargraft(P¼.314).At24-monthfollow-up,theSNQsofthefemoralintraosseousgraftandintra-articulargraftwere
+significantlylowerintheESWTgroupversuscontrols(P¼.020and.044,respectively)butnodifferencewasfoundatthetibial
+intraosseousgraft(P¼.579).
+Conclusion:Bothenhancedgraftmaturationandimprovedfunctionalscoresat24-monthfollow-upwereseeninpatientswho
+receivedradialESWTduringrehabilitationafterhamstringautograftACLR.
+Registration:ChiCTR1900022853(ChineseClinicalTrialRegistry).
+Keywords:anteriorcruciateligamentreconstruction;autograft;graftmaturation;radialextracorporealshockwavetherapy
+Anterior cruciate ligament (ACL) tears are a common anterior-posterior knee stability and treat rotatory knee
+injury, occurring in >50% of knee injuries.14 ACL recon- laxity to prevent resultant damage to cartilage or menisci
+struction (ACLR) has been recommended to restore inyoung,healthy,andactivepatients.21
+The maturation of the intra-articular and intraosseous
+graftsareimportantforkneefunctionafterACLR,12affect-
+TheOrthopaedicJournalofSportsMedicine,10(9),23259671221116340
+ing the progress of postoperative rehabilitation as well as
+DOI:10.1177/23259671221116340
+ªTheAuthor(s)2022 the timing of safe return to full sports activity.3 Firm
+Thisopen-accessarticleispublishedanddistributedundertheCreativeCommonsAttribution-NonCommercial-NoDerivativesLicense(https://creativecommons.org/
+licenses/by-nc-nd/4.0/),whichpermitsthenoncommercialuse,distribution,andreproductionofthearticleinanymedium,providedtheoriginalauthorandsourceare
+credited.Youmaynotalter,transform,orbuilduponthisarticlewithoutthepermissionoftheAuthor(s).Forarticlereuseguidelines,pleasevisitSAGE’swebsiteat
+http://www.sagepub.com/journals-permissions.
+1
+
+NEW PAGE
+
+2 Zhangetal TheOrthopaedicJournalofSportsMedicine
+incorporation of the graft within the tunnel enables the Inthisrandomizedcontrolledtrial,theaimwastoassess
+grafttomatureintoastructuresimilartothenativeACL.22 clinical outcomes and graft maturation on MRI scans in
+Nevertheless,afailurerateofupto14%forACLRhasbeen patients who received radial ESWT during rehabilitation
+reported,29 stimulating scientific efforts to find solutions after anatomic single-bundle ACLR with hamstring auto-
+that could promote better graft maturation and healing. graft.OurhypothesiswasthatpostoperativeradialESWT
+Many biologic agents have been introduced to promote wouldyieldsimilarclinicaloutcomescomparedwithreha-
+graft healing in ACLR, including stem cells and platelet- bilitationtreatmentalone.
+rich plasma.4 However, no conclusive indication can be
+addressed regarding the efficacy of these treatment
+approaches,andtheirapplicationsinclinicalworkarestill METHODS
+controversial.
+Extracorporealshockwavetherapy(ESWT),regardedas Thestudyprotocolwasapprovedbyaninstitutionalreview
+a noninvasive alternative to conservative treatment, was board, and informed consent was obtained from all study
+initially introduced for the treatment of nephrolithiasis. patients.ThisstudywasregisteredontheChineseClinical
+Basedonthedeliverypathwayforthepropagationofacous- Trial Registry (ChiCTR1900022853). Patients were
+tic energy, ESWT can be divided into 2 types: radial and recruitedbetweenMay18,2019,andSeptember20,2019,
+focused.23 Radial ESWT involves pneumatic waves that andthelastfollow-upwasconductedonJune28,2021.
+aregeneratedbyanaircompressorthroughatubeonthe
+end of an applicator. The projectile hits the applicator, by Determination of SampleSize
+which the generated pressure wave is transmitted into
+thebody.ForfocusedESWT,shockwavescanbegenerated Using G*Power 3.1 (HHU, Version 3.1.9.6), we calculated
+via 3 methods: electromagnetic, electrohydraulic, and the sample size needed for adequate power to test our
+piezoelectric.2 Both radial and focused ESWTs are used hypothesis. According to a previous study,37 the Lysholm
+widely to treat various soft tissue disorders, including scores at1yearfollow-up (94±4.9in theESWT group vs
+chronic Achilles tendinopathy, lateral epicondylitis, plan- 87.3±6.4 inthe control group) wereused to calculate the
+tar fasciitis, tendinopathy of the shoulder, and bone and effect size. To attain a power of 80% using a 2-sided test
+skindisorders.9,11,19,27,44 witha¼.05,theestimatednumberofparticipantsneeded
+Although the underlying mechanism by which ESWT tobeatleast20(10ineachgroup).Withthepredictionof
+produces a therapeutic effect has not been elucidated 20%notcompletingfollow-up,theminimalnumberofpar-
+fully,34 it has been postulated that repeated microtrauma ticipantsneededtobe24.
+couldstimulatetheingrowthofneovascularizationassoci-
+ated with the upregulation of angiogenic and osteogenic
+Study Population
+growth factors.35 Some previous evidence from animal
+studies showed that ESWT could enhance tendon-bone The inclusion criteria were as follows: (1) age between 18
+healing in ACLR and rotator cuff repair,6,38 and biome- and 45 years, (2) unilateral ACL injury, (3) isolated ACL
+chanical assessments suggested that either a single dose injury, (4) anatomic single-bundle ACLR with hamstring
+of ESWT intraoperatively or repetitive applications after autograft,(4)aTightrope(Arthrex)atthefemoralsideand
+the operation could result in better outcomes compared Bio-Intrafixinterferencescrew(DePuySynthesInc.)atthe
+with traditional treatment.6 These findings have raised tibial side, and (5) receiving surgery in our hospital and
+interestintheapplicationofESWTtorehabilitationafter agreeing to participate in the postoperative rehabilitation
+ACLR; however, there is a lack of evidence for the proper protocol. The exclusion criteria were (1) previous knee
+treatment regimen, patient responses, or the correlation injury or revision ACLR; (2) graft failure during follow-
+betweenclinicaloutcomesandgraftmaturation. up; (3) concurrent multiligament injuries; (4) receiving
+Magneticresonanceimaging(MRI)signalintensitymea- other conservative treatment modalities during the
+surementshavebeenusedinclinicalstudiestoassessthe follow-upperiod;(5)postoperativejointdisordersincluding
+maturity of the ACL graft in humans.8,12,16,40 The graft synovitis, stiffness, or infection; (6) history of systemic
+signal-to-noisequotient(SNQ)hasbeenadoptedasamea- diseases including rheumatic arthritis, osteoarthritis, or
+surement for analyzing graft quality10,41; a smaller SNQ osteoporosis; (7) claustrophobia, unwillingness to be ran-
+reflectsbettergraftmaturity.45 domlyassignedtoagrouporcompletethefullseriesofMRI
+‡AddresscorrespondencetoYunxiaLi,MD,DepartmentofSportsMedicine,HuashanHospital,FudanUniversity,Shanghai,China(email:liyunxia912@
+aliyun.com).
+*DepartmentofSportsMedicine,HuashanHospital,FudanUniversity,Shanghai,China.
+†DepartmentofSportRehabilitation,ShanghaiUniversityofSport,Shanghai,China.
+S.Z.andA.W.contributedequallytothisstudy.
+FinalrevisionsubmittedMarch31,2022;acceptedMay16,2022.
+Oneormoreoftheauthorshasdeclaredthefollowingpotentialconflictofinterestorsourceoffunding:Thisstudywassupportedbythegrants18Z004
+and18Z002fundedbyShanghaiSportsScienceandTechnology,“ComprehensivePlan”ProjectfundedbyHuashanHospital,FudanUniversity,aswellas
+bygrant82002367fundedbytheNationalNaturalScienceFoundationofChina.AOSSMchecksauthordisclosuresagainsttheOpenPaymentsDatabase
+(OPD).AOSSMhasnotconductedanindependentinvestigationontheOPDanddisclaimsanyliabilityorresponsibilityrelatingthereto.
+EthicalapprovalforthisstudywasobtainedfromHuashanHospitalofFudanUniversity.
+
+NEW PAGE
+
+TheOrthopaedicJournalofSportsMedicine ESWTandACLGraftHealingat2-YearFollow-up 3
+Figure 1. CONSORT (Consolidated Standards of Reporting Trials) flow diagram. ESWT, extracorporeal shock wave therapy;
+KT-1000,KT-1000arthrometerkneelaxitymeasurement;MRI,magneticresonanceimaging.
+scans,andanyelectricaldevicepotentiallyinterferingwith bundleACLR.45Associatedmeniscalandcartilageinjuries
+MRIscans;and(8)othercontradictionstotheESWT.After were treated. Briefly, the ipsilateral semitendinosus and
+inclusion and exclusion criteria were applied, 30 patients gracilis tendons were obtained to prepare 4-strand
+fromourinstitutionwereenrolledinthisstudy. double-looped grafts. The average graft size was 8 to 9
+mm in diameter and 110 to 120 mm in length. Via the
+StudyDesign standardanterior-medialportal,themedialwallofthelat-
+eralfemoralcondylewasviewedandpreparedtoexposethe
+Werandomlyassignedthe30patientsprospectivelytoan residentridgeandtheposteriorcartilagemargin.Thefem-
+ESWTgroupandacontrolgroupata1:1ratio(Figure1). oraltunnellocationwas1to2mminferiortotheresident
+The group assignment was determined using computer- ridgewitha4-mmdistancetotheposteriorcartilagemar-
+based block randomization. Treatment assignments were gin.25TheACLtibialstumpwasusedasareferencedland-
+placed in sequentially numbered opaque envelopes before mark for guiding tibial tunnel placement,6 and the ACL
+the trial commenced, and they were assigned to the tibial guide was set to an angle of 55(cid:2) and placed medial
+patientsbythetrailmanagers,whoalsoarrangedthefacil- to the center of the remaining tibial stump of the native
+ities needed for the procedure. In the control group, ACL. The graft was fixed using a Tightrope (Arthrex) at
+patientswereasked tofollow a5-weekadvanced rehabili- the femoral side and a Bio-Intrafix interference screw
+tationprotocolstartingat3monthspostoperatively.Inthe
+(DePuySynthesInc)atthetibialside.
+ESWT group, together with the advanced rehabilitation
+training,radialESWTwasaddedafterrehabilitationona
+weeklybasisfor5weeks. Rehabilitation Protocol
+Baselinedescriptiveinformationwasobtainedviaaself-
+reported preparation history, and the baseline MRI scan AfterACLR,allpatientsfollowedthesamestagedrehabil-
+was performed 1 or 2 days before the trial started. The itation protocol starting in the first week after the opera-
+investigators (A.W. and S.Z.) who assessed the outcomes tion. During 0 to 6 weeks postoperatively, the aim of
+wereblindedtothetreatmentthatthepatientreceived. rehabilitationwastoestablishfullrangeofmotion,prevent
+musclehypotrophy,anddiminishpainandswelling.Imme-
+SurgicalTechnique diatepartialorfullweightbearingwasrecommendedifthe
+patientwasabletotolerateitorifthepatientwasreferred
+All ACLR procedures were performed by 2 surgeons (J.C. for meniscal treatment. From 6 to 12 weeks postopera-
+and Y.H.) from our department with >10 years of experi- tively, patients were encouraged to perform more cardio-
+enceinarthroscopicACLR.Allpatientsreceivedthesame vascular exercise, gait training, progressive strength
+procedure of arthroscopically assisted anatomic single- exercises,andperturbationtraining.
+
+NEW PAGE
+
+4 Zhangetal TheOrthopaedicJournalofSportsMedicine
+Figure2.Progressivestrengthmuscletraining.
+From3monthsafterACLR,a5-weekadvancedrehabil- program,dividedinto3stages,wasupgraded3timesdur-
+itation protocol was assigned for the patients of both the ingeachweekbasedonthepatient’sperformance.Table1
+ESWT and control groups. This rehabilitation protocol summarizestheprogramateachstage.
+included stretching exercises, progressive core muscle A single physical therapist (W.Y.) who was blinded to
+training (Figure 2), and balance perturbation exercises. this study instructed patients during the rehabilitation
+Core muscle training was designed to progressively training. All trainings were performed on site to ensure
+enhance hip joint function. Each training session lasted that the patients could perform the exercises properly.
+approximately30minutesandwasperformed5timesper Afterward, the therapist followed upwith patients during
+week throughout the whole program. The training the entire training program to ensure every patient could
+
+NEW PAGE
+
+TheOrthopaedicJournalofSportsMedicine ESWTandACLGraftHealingat2-YearFollow-up 5
+TABLE1
+AdvancedRehabilitationProtocolbyStage
+Stage1 Stage2 Stage3
+Exercisea Repetitions Exercisea Repetitions Exercisea Repetitions
+StrengthComponent
+Squat(A) 10(cid:3)2 Squatwithdumbbell(B) 10(cid:3)2 Singlelegsquat(C) 10(cid:3)2
+Sidebridge(D) 30s(cid:3)2 Sidebridgewithhip 30s(cid:3)2 Sidebridgeandhipabductionwith 30s(cid:3)2
+abduction(E) moderate/strongflexiblebandtension(F)
+Hiplift(bothlegs)(G) 10(cid:3)2 Hiplift(singleleg)(H) 10(cid:3)2 Hiplift(bothlegs)withyogaball(I) 10(cid:3)2
+Hamstringexercise(J) 10(cid:3)2 Hamstringexercise(J) 10(cid:3)2 Hamstringexercise(J) 10(cid:3)2
+Standinghipextension(K) 20(cid:3)2 Standing 20(cid:3)2 Standinghipextensionwithmoderate/ 20(cid:3)2
+hipextension(K) strongflexiblebandtension(L)
+BalanceComponent
+BalancingonBosuball 30s(cid:3)2 BalancingonBosuball 30s(cid:3)2 BalancingonBosuball 30s(cid:3)2
+SquatonBosuball 10(cid:3)2 SquatonBosuball 10(cid:3)2 SquatonBosuball 10(cid:3)2
+aLettersinparenthesescorrespondtoimagesinFigure2.BosuballfromATProCompany.
+completeeachvisit.Allpatientswererequiredtovisitthe
+rehabilitationcenteratleastonceaweek.
+Extracorporeal Shock Wave Therapy
+In addition to the rehabilitation protocol, patients in the
+ESWTgroupreceivedradialESWTfrom3monthspostop-
+eratively.ESWTwasappliedonceaweekfor5weeksbythe
+same practitioner (C.L.). The radial shock wave device
+(EMSSwissDolor-Clast)wasused.Beforetheshockwave
+was applied, knee radiographs were taken on anterior-
+posterior view, and the distances from the tibial fixation
+Figure 3. ESWT applied to patients with ACLR. (A) Knee
+and the femoral suspension plate to the knee joint space
+radiographs were taken on the anterior-posterior view, and
+were measured. These distances were used as references
+thedistancesfromthetibialfixationandthefemoralsuspen-
+for where the device probe should be placed on the knee
+sionplatetothekneejointspaceweremeasuredandusedas
+skinsurface(Figure3A).Afterapplyingultrasoundgel,the
+knee skin surface projection references on which the ESWT
+practitioner placed the probe on the skin surface projec-
+probeshouldbeplaced.(B)Shockwaveprobewasplacedon
+tions of the tibial tunnel and the femoral tunnel (Figure
+thesurfaceprojectionofthefemoraltunnel.(C)Shockwave
+3, B and C). A total of 2000 impulses applied at 6 to 8 Hz
+probe was placed on the surface projection of the tibial
+withanenergydensityof0.05to0.11mJ/mm2wereadmin-
+tunnel. ACLR, anterior cruciate ligament reconstruction
+istered during each ESWT treatment. After treatment,
+ESWT,Extracorporealshockwavetherapy;L,leftside.
+patients were advised to cool down, rest, and stretch to
+avoidESWTsideeffects.Patientsinthecontrolgroupdid
+notreceiveESWTafteradvancedrehabilitationprotocol. The signal intensity of the ACL graft was calculated at
+5 sites: (1) the graft within the femoral tunnel (FG), (2) the
+intra-articulargraft(IG),(3)thegraftinorclosetothetibial
+Magnetic Resonance Imaging
+tunnel(TG),(4)theposteriorcruciateligament(PCL),and(5)
+MRIexaminationsusinga3.0-TMR(MAGNETOMVerio) backgroundtakenapproximately2cmawayfromthepatellar
+were performed on all patients at 3-, 6-, and 24-month tendon(Figure4).Here,sincethesignalintensityofthegraft
+follow-up.Aseniorradiologistwhowasblindedtothestudy withinthetibialtunnelwasdifficulttomeasurebecauseofthe
+performed the MRI examinations. A 15-channel multiele- fixing screw on a certain slicing image, the signal intensity
+ment phased-array knee coil was applied with the patient wastakenattheintra-articulargraftclosetothetibialtunnel,
+lyingontheexaminationtable.Sagittalimagesweretaken which was within 2.0 cm of the tibial plateau.16 A circular
+usinganobliqueprotondensityfatsaturationsequence:rep- regionofinterest(ROI)withanareaof0.25cm2wasusedfor
+etition time, 3000 ms; echo time, 28 ms; flip angle, 160(cid:2); each site. Within the intraosseous and intra-articular graft
+matrix,320(cid:3)272;slicethickness,3mm.EachMRIexam- sites, the signal intensity was measured at 3 randomly
+inationtookapproximately5minutes. selectedROIs,andthemeanvaluewascalculated.
+
+NEW PAGE
+
+6 Zhangetal TheOrthopaedicJournalofSportsMedicine
+Inaddition,kneelaxitywasmeasuredastheside-to-side
+difference (SSD) in anterior tibial translation (ATT)
+between the reconstructed and healthy knee of each
+patient. Knee laxity wasevaluated using aKT-1000 arth-
+rometer(MEDmetricCorp)atan89-Nload.
+All of the subjective functional scores (Lysholm, IKDC,
+Tegner) were assessed at 3-, 6-, and 24-month follow-up
+aftertheoperation.Patientswereaskedtofinishtheirsub-
+jective functional scores online, and the results were then
+calculatedautomaticallyandreportedtotheinvestigators.
+Thekneelaxitymeasurementwasalsotakenatthe3-,6-,
+and24-monthfollow-up.
+Statistical Analysis
+Data analyses were performed using SPSS 21.0 software
+(SPSS Inc), and the data were reported as the means ±
+standard deviations. Since the sample in this cohort was
+Figure4.Illustrationofsignal-to-noisequotientmeasurements
+on MRI scans. A circular ROI with an area of 0.25 cm2 was fewer than50patients, theShapiro-Wilk testwasusedto
+testfornormality.Thenormalitytestshowedthatthecon-
+taken on the MRI scan. 1, graft within the femoral tunnel; 2,
+tinuousvariableswerenotnormallydistributed,andthus
+intra-articular graft; 3, graft in or close to the tibial tunnel; 4,
+theMann-WhitneyUtestwasusedforcomparisonofcon-
+posteriorcruciateligament;5,backgroundROItakenapprox-
+tinuous variables between the ESWT and control groups.
+imately 2 cm away from the patellar tendon. MRI, magnetic
+TheFisherexacttestwasusedtocomparecategoricalvari-
+resonanceimaging;ROI,regionofinterest.
+ables.TheFriedmantestwasusedtocomparetheresults
+fromdifferenttimepointswithinthesamegroup.Thecor-
+To quantify the normalized signal intensity of the ACL
+relation between functionalscores andSNQsat24-month
+graft,wecalculatedtheSNQsoftheFG,IG,andTGsepa-
+follow-upwasassessedinbothgroupsusingPearsoncorre-
+ratelyusingthefollowingequation:SNQ¼(ACLgraftsig-
+lationcoefficient(r).Forallanalyses,resultswereconsid-
+nal - PCL signal)/background signal.18 The SNQ was
+eredstatisticallysignificantatP<.05.
+calculated 3-, 6-, and 24-months postoperatively. Two
+authors (A.W. and S.L.) performed all the measurements
+afterreceivingtrainingfromaseniorradiologist.Theinter-
+RESULTS
+valbetweeneachmeasurementwasatleast1weektomin-
+imizethememoryeffect.Thesame2authorsindependently
+At the 6-month follow-up, 2 patients from the control
+measured20samplecasestoassessinterobserverreliabil-
+groupleftthecohortastheyweremovingtoanothercoun-
+ity.After4weeks,1oftheauthors(A.W.)wasaskedtorate
+try.Therewere2patientswho droppedoutofthe ESWT
+thesamesetofimagesagaintomeasuretheintraobserver
+group,as1patientreceivedlaparoscopiccholecystectomy
+reliability.
+and 1 patient had a meniscal repair on the contralateral
+knee. Furthermore, 1 patient in each group did not
+StudyOutcomes undergo MRI examination or knee laxity assessments.
+Thus,atthe24-monthfollow-up,12patientsineachgroup
+The study baseline was set at 3 months after ACLR. The completed MRI scan and knee laxity assessment, and
+baselineassessmentwastaken1or2daysbeforethestudy 13patientsineachgroupcompletedallfunctionalassess-
+beganbyinvestigators(A.W.andS.Z.)whowereblindedto mentscores(Figure1).Nosystemicorlocalcomplications
+the study. Patients should not have required other thera- or ESWT device-related problems were reported during
+pies or medication beyond the protocol-defined allowable follow-up.
+period.Ifapatientwaslosttofollow-up,thelastavailable There were no significant differences in characteristics
+measurementwasusedtodeterminetreatmentsuccess. betweentheESWTandcontrolgroups(Table2).Norerup-
+The primary outcome was the Lysholm score at ture or other surgery-related complications were found
+24-month follow-up. The Lysholm score is a patient-rated amonganyoftheparticipants.
+measurement for examining knee-specific functions,
+including mechanical locking, instability, pain, swelling, Primary Outcome Measurement
+stairclimbing,andsquatting.TheInternationalKneeDoc-
+umentation Committee (IKDC) score and Tegner activity The Lysholm score was acquired from 13 patients in both
+scoreat24-monthfollow-upwereconsideredthesecondary groups. In both groups, the scores increased during the
+outcomes. The minimal clinically important difference 24 months of follow-up, and at 24-month follow-up, they
+(MCID) thresholds for the Lysholm, IKDC, and Tegner were significantly higher than those of the 3-month base-
+scoresare8.9,16.7,and1point,respectively.42 lineassessmentor6-monthfollow-up(ESWTgroup,P¼.003;
+
+NEW PAGE
+
+TheOrthopaedicJournalofSportsMedicine ESWTandACLGraftHealingat2-YearFollow-up 7
+TABLE2
+Baseline(12-wkPostoperative)PatientCharacteristicsfortheESWTandControlGroupsa
+ESWTGroupb ControlGroupb
+(n¼13) (n¼13) P
+Sex,male/female 13/0 13/0
+Age,y 30.5±5.4(range,25-42) 29.2±4.1(range,26-39) .270
+Bodymassindex 25.6±1.9 24.7±1.8 .229
+Injuredknee,left/right 4/9 5/8 >.999
+Sports-relatedinjury 12 13 >.999
+Meniscaltreatment 4(31%) 8/13(62%) .238
+Repairc 1/1 1/3
+Meniscectomyc 1/1 1/3
+Cartilagelesion 2(grade1) 2(grade1)
+Lysholmscore 70.38±5.17 74.31±13.17 .687
+IKDCscore 62.33±14.62 59.50±13.42 .724
+Tegnerscore 3.15±0.69 2.92±0.86 .579
+SSDofATT,mm 1.61±0.77 0.78±1.62 .108
+aDataarereportedasNo.ofpatientsormean±SDunlessotherwiseindicated.ATT,anteriortibialtranslation;ESWT,extracorporeal
+shockwavetherapy;IKDC,InternationalKneeDocumentationCommitteequestionnaire;SSD;side-to-sidedifference.
+bAtfinalfollow-up,13participantsfromeachgroupcompletedfunctionalscoreanalysis,and12patientscompletedmagneticresonance
+imagingexaminationandSSDofATT.
+cMedialmeniscus/lateralmeniscus.
+controlgroup,P<.001).At6-monthfollow-up,nosignificant respectively, whereas in the control group, the results
+difference was detected between the ESWT and control were23.1%(3/13)and38.5%(5/13),respectively.
+groups (P ¼ .087),but at24-month follow-up,the Lysholm FortheSSDofATT,therewerenosignificantdifferences
+scoreoftheESWTgroupwassignificantlyhighercompared between the ESWT and control groups at the 6-month
+withthatofthecontrolgroup(P¼.012)(Figure5A). (P ¼ .157) or 24-month (P ¼ .415) follow-up. Further, no
+significant differences in SSD of ATT were found within
+eachgroupatdifferentfollow-ups(ESWT,P¼.097;control,
+Secondary OutcomeMeasurements
+P¼.555)(Figure5D).
+Inbothgroups,theIKDCandTegnerscoresincreaseddur-
+ingthe24monthsoffollow-up.Atthe24-monthfollow-up, MRIMeasurements
+they were significantly higher than those of the 3-month
+baselineassessment orthe6-monthfollow-up(P<.01for Inbothgroups,15patientsreceivedtheMRIexamination
+all).Atthe6-monthfollow-up,nosignificantdifferencewas at3-monthfollow-up,and12completedtheMRIexamina-
+detected between the ESWT group and the control group tions at the 6- and 24-month follow-ups (Figure 6). The
+(IKDC,P¼.495;Tegner,P¼.314).At24-monthfollow-up, oblique sagittal view was used for evaluation. All the
+theTegnerscoreofthepatientswhoreceivedESWTswas patientshadintactACLgraftsbeforetheyparticipatedin
+significantly higher than that of the patients who did not thestudy,andnograftfailurewasdiagnosedonMRIscan
+(P ¼ .017), while no significant difference was found in atthe6-or24-monthfollow-upineithergroup.
+IKDCscores(P¼.415)(Figure5,BandC). The intra- and interobserver reliability values for SNQ
+Regarding clinically relevant values of the MCID, 3 measurement were 0.876 and 0.935, respectively, which
+of 13 patients (23.1%) who received ESWT showed was considered good-to-excellent agreement. Overall, the
+improvement inLysholm score exceeding 8.9 points at 6- SNQs ofTG, IG,and FG decreased over time, which indi-
+month follow-up; all patients (100%), exceeding MCID at cated graft maturation during the 24 months of follow-up
+24-monthfollow-up.Inthecontrolgroup,2of13patients (P < .01 for all) (Figure 7). At the 3-month assessment,
+(15.4%)showedimprovementinLysholmscoreexceeding therewerenosignificantdifferencesbetweenthe2groups
+8.9 at 6-month follow-up; all patients (100%), exceeding for each parameter (TG, P ¼ .157; IG, P ¼ .314; and FG,
+16.7 at 24-month follow-up. For the results of MCID of P ¼ .415). At 6-month follow-up, the SNQ of TG in the
+IKDC score, the percentages of patients exceeding 16.7 ESWTgroupwassignificantlysmallerthanthatofthecon-
+in the ESWT group were 30.8% (4/13) and 84.6% (11/13) trolgroup(P¼.006),butnodifferenceswerefoundforthe
+at6-and24-monthfollow-up,respectively,whereasinthe SNQofIG(P¼.314)orFG(P¼.321).At24-monthfollow-
+control group, the results were 23.1% (3/13) and 53.8% up,theSNQsofFGandIGweresignificantlysmallerinthe
+(7/13). Regarding the Tegner score, the percentages of ESWT group than in the control group (FG, P ¼ .020; IG,
+patients exceeding 1 in the ESWT group were 30.8% P¼.044),whereastheSNQofTGwassimilarbetweenthe
+(4/13) and 100% (13/13) at 6- and 24-month follow-up, 2groups(P¼.579).
+
+NEW PAGE
+
+8 Zhangetal TheOrthopaedicJournalofSportsMedicine
+Figure5.(A-D)ComparisonofclinicaloutcomesbetweenESWTandcontrolgroups.In(A)to(C),thelinewithintheboxrepresents
+themean,the“x”representsthemedian,thetopandbottomboundariesoftheboxrepresenttheinterquartilerange,andtheerror
+bars represent the range. In (D), the box represents the mean and the error bars represent the standard deviation. Significant
+difference:*betweenESWTgroupandcontrolgroupand#withinthegroupcomparedwiththeothertimepoints(P<.05).ATT,
+anteriortibialtranslation;ESWT,extracorporealshockwavetherapy;IKDC,InternationalKneeDocumentationCommitteeques-
+tionnaire;SSD,side-to-sidedifference.Thedotsintheboxplotrepresentthosewhoatealotmorethannormaloralotlessthan
+normal(outliers).
+CorrelationAnalysisofFunctionalScoresandGraft afterACLR.WefoundthattheLysholmscoreat24-month
+SNQs follow-up (the primary outcome) was significantly
+improved after ESWT treatment in patients who received
+The results from the control group showed that the ACLR. Therefore, the hypothesis of similar clinical out-
+Lysholm,IKDC,andTegner scoreswerenegatively corre- comestothoseofcontrolswasrejected.Further,compared
+lated with graft SNQs at the 24-month follow-up (P < .05 with controls, the ESWT group saw enhanced maturation
+for all), which proved the natural healing process of graft ofintraosseousgraftatthetibialsideat6-monthfollow-up
+maturationafterACLR.ThefunctionalscoresintheESWT and enhanced maturation of grafts at the intra-articular
+group were also significantly negatively correlated with andfemoralsidesat24-monthfollow-up.
+graft SNQs in most cases (P < .05), except there was no Thebiologicaleffectofshockwaveiscloselyrelatedtothe
+significantcorrelationbetweentheLysholmscoreandfem- energy density, timing of treatment, and treatment dura-
+oral intraosseous graft SNQ or the IKDC score and tibial tion.7InapreviousstudybyWangetal,37asingledoseof
+intraosseousgraftSNQ(Table3). focusedESWTwasappliedtopatientsduringtheoperation
+for ACLR. Intheir research, ahigh energy flux density of
+0.298mJ/mm2wasadministeredtothemiddlethirdofthe
+DISCUSSION tibial tunnel, and the results showed that ESWT could
+improveLysholm scoresanddecrease tibialtunnelsizeat
+ESWThasbeenusedwidelyinclinicalpracticeformanag- 2-year follow-up. Compared with their study, our study
+ingmusculoskeletaldisorders,17butevidenceoftheappli- appliedaradialESWTweeklywiththelowerenergyden-
+cationofESWTsinpatientsafterACLRislacking.Toour sityof0.05to0.11mJ/mm2at3monthspostoperativelyfor
+knowledge, this is the first randomized controlled trial to 5 weeks. Therefore, the major findings in our study were
+investigatetheeffectofESWTontheautograftmaturation theeffectsofESWTongraftmaturationafterACLR.
+
+NEW PAGE
+
+TheOrthopaedicJournalofSportsMedicine ESWTandACLGraftHealingat2-YearFollow-up 9
+Figure6.Sagittalviewmagneticresonanceimagingscansofkneesintheextracorporealshockwavetherapy(ESWT)andcontrol
+groupsat3-,6-,and24-monthfollow-up.Yellowarrowsindicatethegraft.
+Figure 7. Postoperative mean signal-to-noise quotients (SNQs) of the anterior cruciate ligament grafts at the (A) tibial-side,
+(B)intra-articular,and(C)femoral-sidesitesat3-,6-,and24-monthfollow-up.ErrorbarsrepresentSDs.Significantdifference:
+*betweenextracorporealshockwavetherapy(ESWT)groupandcontrolgroupand#withinthegroupcomparedwiththeothertime
+points(P<.05).
+Graft healing after ACLR undergoes 3 staged biological boneinterfaceimmediately,whichmightbebeneficialtothe
+changes:inflammation,revascularization,andremodeling.3 proliferation stage of tendon-bone healing. However, in
+Some previous animal studies reported that applying a human biopsy study, Rougraff et al28 reported that the
+focused ESWT with high energy density ((cid:4)0.19 mJ/mm2) highest remodeling activity occurred from 3 to 10 months
+during surgery could enhance tendon-bone healing afterACLR.
+in ACLR,36,38 chronic rotator cuff repair,6 and delayed Itispostulated28thatthegraftsmightexperienceashift
+patellar–patellar tendon rupture.39 The possible biological from revascularization to remodeling between 3 and
+mechanism behind these findings was that the focused 6 months, indicating that more turnover occurred in the
+high-energyESWTcouldpromoteosteogenesisandneovas- extracellular matrix during this period. It has been
+cularizationsoastopromotenewbonegrowthatthetendon- reported that a single application of ESWT could improve
+
+NEW PAGE
+
+10 Zhangetal TheOrthopaedicJournalofSportsMedicine
+TABLE3
+CorrelationAnalysisofFunctionalScoresandGraftSNQsa
+FemoralIntraosseousGraftSNQ Intra-articularGraftSNQ TibialIntraosseousGraftSNQ
+r P r P r P
+Controlgroup
+< < <
+Lysholm (cid:5)0.711 .001 (cid:5)0.675 .001 (cid:5)0.688 .001
+< <
+IKDC (cid:5)0.540 .001 (cid:5)0.427 .004 (cid:5)0.534 .001
+< < <
+Tegner (cid:5)0.628 .001 (cid:5)0.593 .001 (cid:5)0.552 .001
+ESWTgroup
+<
+Lysholm (cid:5)0.324 .058 (cid:5)0.764 .001 (cid:5)0.466 .005
+<
+IKDC (cid:5)0.385 .023 (cid:5)0.675 .001 (cid:5)0.032 .885
+<
+Tegner (cid:5)0.336 .049 (cid:5)0.570 .001 (cid:5)0.457 .006
+aBoldface P values indicate statistical significance (P < .05). ESWT, extracorporeal shock wave therapy; IKDC, International Knee
+DocumentationCommitteequestionnaire;SNQ,signal-to-noisequotient.
+bloodflow,andrepetitiveESWTapplicationcouldprolong affect the intra-articular graft directly, or the intra-
+thisphase.15OtherinvitrostudieshavefoundthatESWT articulargraftmightexhibitlaterresponsetotreatment.
+could stimulate the proliferation and osteogenesis of
+human osteoblasts, as well as chondrogenesis of human
+stem cells,26,32 which are the major cells for extracellular Limitations
+matrixformation.Theseaforementionedstudiesmightlay
+There were several limitations to this study. First, all the
+thetheoreticalfoundationforradialESWTpromotingACL
+participantsweremalepatients.Theremayhavebeentoo
+healing,suggestingthatthelowenergydensityand5-week
+fewfemalepatientsreceivingACLRduringtheenrollment
+treatmentcourseofradialESWTat3monthsafterACLR
+period, and even fewer women were willing to participate
+mightaffectgraftremodeling.
+in this clinical study. Therefore, caution should be taken
+Inthisstudy,weanalyzedthegraftmaturationof3seg-
+wheninterpretingtheresultsofthepresentstudy.Second,
+ments, which gave more insight into the therapeutic
+although different stages of the ligamentization process
+responses of intraosseous and intra-articular grafts sepa-
+havebeendescribedbymanyauthors,noagreementexists
+rately.Consistentwithpreviousstudies,18,45wefoundthat ontheirtimeframeorendpoint.1,5,28,30ThetimingofESWT
+theSNQsofthefemoralintraosseousgraft,intra-articular
+applicationat3monthspostoperativelywasselectedbased
+graft, and tibial intraosseous graft remained stable
+on clinical experience. At that time, patients felt safer
+between 3 and 6 months and decreased at 24-month
+receivingadditionaltreatmentcomparedwithearlierinter-
+follow-up,suggestingthatthegraftunderwentrevascular-
+ventions, and they had a strong wish to recover faster.
+izationduringtheearlyphaseafterACLRanddevascular-
+Third, although it was proved that the graft maturation
+ization around 2 years after ACLR. Functional outcomes was related to the postoperative outcomes within 2 years
+alsoimprovedwithgraftmaturation,andcorrelationswere of follow-up, we did not establish causality between graft
+foundbetweengraftSNQsandfunctionalscoresinboththe maturation and clinical outcomes because of the study
+ESWTand thecontrolgroups,which supportthe findings design. Furthermore, we noticed that patients in the con-
+ofpreviousstudies.18,20 trol group underwent meniscal repair or meniscectomy
+Interestingly,intheESWTgroup,graftmaturationatthe with double frequency compared with those in the experi-
+tibialsidewasseenearlierthanatthefemoralsideorintra- mentalgroup.Whilenostatisticaldifferencewasobserved
+articular side. This difference could be caused by fixation becauseofthesmallnumberofparticipants,possiblebiases
+methodsandtunnellocations.IntheautograftACLRinour mayhavecomefromthehigherincidenceofmeniscalinju-
+study,acorticalsuspensiondevicewasusedonthefemoral riesinpatientsfollowingamorerestrictedimmobilization
+side, and interference fixation was used on the tibial side. rehabilitationprotocolresultinginlowersignalintensityof
+Therefore,the“bungeeeffect”and“windshield-wipereffect” graftonMRIscans.Inaddition,theachievementsofMCID
+causedbysuspensionfixationcanintroduceexcessivemicro- of all clinical measurements at 6-month follow-up were
+motionofthegraftinthetunnel,13,24,40,43whichcouldcom- verylowinbotharms,buttheyweresignificantlyimproved
+promise graft maturation within the femoral tunnel.31 In at24-monthfollow-up.Wewerecurioustoknowtheresults
+addition, compared with the intra-articular graft and the at12months;however,wewereunabletocollectthesedata
+femoralintraosseousgraft,thetibialintraosseousgraftwas because of the COVID-19 outbreak preventing patients
+more superficial to the skin. Since the radial ESWT was fromcomingtothehospital.Further,ourcohortsweretoo
+appliedonlyonthesurfaceprojectionsofthetibialtunnels, smalltocalculateMCID.TheMCIDsfrompreviouslitera-
+the intraosseous grafts from tibial sites were then more ture to which this study referred may introduce deviation
+responsive to treatment. As the intra-articular graft is a on the external validation. For example, when assessing
+deep structure in the knee joint, radial ESWT might not the Tegner score, we cited the study of Weng et al,42 who
+
+NEW PAGE
+
+TheOrthopaedicJournalofSportsMedicine ESWTandACLGraftHealingat2-YearFollow-up 11
+reported that a 1-point improvement in Tegner score 9. FuriaJP.High-energyextracorporealshockwavetherapyasatreat-
+reachedMCID.However,intheirstudy,thepatientswere mentforchronicnoninsertionalAchillestendinopathy.AmJSports
+older than 50 years, which is significantly older than our Med.2008;36(3):502-508.
+10. GeY,LiH,TaoH,HuaY,ChenJ,ChenS.Comparisonoftendon-
+cohort. In addition, meaningful improvement may vary
+bonehealingbetweenautograftsandallograftsafteranteriorcruciate
+among individuals. Since younger patients have a higher
+ligament reconstruction using magnetic resonance imaging. Knee
+activity level, the actual percentage of patients who SurgSportsTraumatolArthrosc.2015;23(4):954-960.
+reachedtheMCIDforimprovementinTegnerscoreinour 11. GerdesmeyerL,MittermayrR,FuerstM,etal.Currentevidenceof
+cohortmayhavebeenlessthanreported.Fourth,SNQhas extracorporealshockwavetherapyinchronicAchillestendinopathy.
+been used in various studies to predict the biomechanical IntJSurg.2015;24(ptB):154-159.
+12. HexterAT,ThangarajahT,BlunnG,HaddadFS.Biologicalaugmen-
+andhistologicpropertiesofanACLgraftafterACLR,and
+tationofgrafthealinginanteriorcruciateligamentreconstruction:a
+the SNQ assessed on MRI scans was used as an indirect
+systematicreview.BoneJointJ.2018;100-B(3):271-284.
+parameter to evaluate graft maturation in the present
+13. JacksonDW,WindlerGE,SimonTM.Intraarticularreactionassoci-
+study.Nevertheless,theMRIscanacquisitionandevalua- ated with the use of freeze-dried, ethylene oxide-sterilized bone-
+tionmethodswereveryheterogeneous,33andquantitative patella tendon-bone allografts in the reconstruction of the anterior
+MRI-based biomarkers of ACL graft healing are greatly cruciateligament.AmJSportsMed.1990;18(1):1-11.
+needed to guide the appropriate time to return to sports 14. Kaeding CC, Leger-St-Jean B, Magnussen RA. Epidemiology and
+diagnosis of anterior cruciate ligament injuries. Clin Sports Med.
+afterACLR.
+2017;36(1):1-8.
+15. KischT,WuerfelW,ForstmeierV,etal.Repetitiveshockwavether-
+apy improves muscular microcirculation. J Surg Res. 2016;201(2):
+CONCLUSION
+440-445.
+16. Li HY, Li H, Wu ZY, Chen JW, Chen SY. MRI-basedtendon bone
+In patients who underwent hamstring autograft ACLR, healingisrelatedtotheclinicalfunctionalscoresatthefirstyearafter
+5weeksofradialESWTnotonlyimprovedclinicalfunction anteriorcruciateligamentreconstructionwithhamstringtendonauto-
+butalsoenhancedgraftmaturationat24-monthfollow-up. graft.KneeSurgSportsTraumatolArthrosc.2018;26(2):615-621.
+ESWTmaybeapromisingnonoperativetreatmentmodal- 17. LiaoCD,XieGM,TsauoJY,ChenHC,LiouTH.Efficacyofextracor-
+poreal shock wave therapy for kneetendinopathies and other soft
+ityforthesepatients.
+tissue disorders: a meta-analysis of randomized controlled trials.
+BMCMusculoskeletDisord.2018;19(1):278.
+18. LiuS,LiH,TaoH,SunY,ChenS,ChenJ.Arandomizedclinicaltrialto
+ACKNOWLEDGMENT
+evaluateattachedhamstringanteriorcruciateligamentgraftmaturity
+with magnetic resonance imaging. Am J Sports Med. 2018;46(5):
+TheauthorsacknowledgeQuanxuZhaoandZhouyueYan,
+1143-1149.
+who contributed their expertise on the workout and pre- 19. Mansur NS, Faloppa F, Belloti JC, et al. Shock wave therapy
+pared tutorial videos and images for the rehabilitation associated with eccentric strengthening versus isolated eccentric
+protocol. strengthening for Achilles insertional tendinopathy treatment: a
+double-blindedrandomisedclinicaltrialprotocol.BMJOpen.2017;
+7(1):e013332.
+REFERENCES 20. MullerB,BowmanKFJr,BediA.ACLgrafthealingandbiologics.Clin
+SportsMed.2013;32(1):93-109.
+1. AbeS,KurosakaM,IguchiT,YoshiyaS,HirohataK.Lightandelec- 21. MusahlV,KarlssonJ.Anteriorcruciateligamenttear.NEnglJMed.
+tron microscopic study of remodeling and maturation process in 2019;380(24):2341-2348.
+autogenous graft for anterior cruciate ligament reconstruction. 22. NakaseJ,KitaokaK,TorataniT,KosakaM,OhashiY,TsuchiyaH.
+Arthroscopy.1993;9(4):394-405. Grafted tendon healing in femoral and tibial tunnels after anterior
+2. ChowIHW,CheingGLY.Comparisonofdifferentenergydensitiesof cruciateligamentreconstruction.JOrthopSurg(HongKong).2014;
+extracorporealshockwavetherapy(ESWT)forthemanagementof 22(1):65-69.
+chronicheelpain.ClinRehabil.2007;21(2):131-141. 23. OgdenJA,To´th-KischkatA,SchultheissR.Principlesofshockwave
+3. ClaesS,Verdonk P,ForsythR,BellemansJ.The“ligamentization” therapy.ClinOrthopRelatRes.2001;387:8-17.
+process in anterior cruciate ligament reconstruction. Am J Sports 24. PeyracheMD,DjianP,ChristelP,WitvoetJ.Tibialtunnelenlargement
+Med.2011;39(11):2476-2483. afteranteriorcruciateligamentreconstructionbyautogenousbone-
+4. DiMatteoB,LoiblM,AndrioloL,etal.Biologicagentsforanterior patellar tendon-bone graft. Knee Surg Sports Traumatol Arthrosc.
+cruciateligamenthealing:asystematicreview.WorldJOrthop.2016; 1996;4(1):2-8.
+7(9):592-603. 25. PurnellML,LarsonAI,ClancyW.Anteriorcruciateligamentinsertions
+5. FalconieroRP,DiStefanoVJ,CookTM.Revascularizationandliga- onthetibiaandfemurandtheirrelationshipstocriticalbonyland-
+mentization of autogenous anterior cruciate ligament grafts in marks using high-resolution volume-rendering computed tomogra-
+humans.Arthroscopy.1998;14(2):197-205. phy.AmJSportsMed.2008;36(11):2083-2090.
+6. FeichtingerX,MonforteX,KeiblC,etal.Substantialbiomechanical 26. RomeoP, Lavanga V,Pagani D, SansoneV. Extracorporeal shock
+improvement by extracorporeal shockwave therapy after surgical wave therapy in musculoskeletal disorders: a review. Med Princ
+repairofrodentchronicrotatorcufftears.AmJSportsMed.2019; Pract.2014;23(1):7-13.
+47(9):2158-2166. 27. Rompe JD, Furia J, Maffulli N. Eccentric loading versus eccentric
+7. FoldagerCB,KearneyC,SpectorM.Clinicalapplicationofextracor- loadingplusshock-wavetreatmentformidportionAchillestendino-
+porealshockwavetherapyinorthopedics:focusedversusunfocused pathy:arandomizedcontrolledtrial.AmJSportsMed.2009;37(3):
+shockwaves.UltrasoundMedBiol.2012;38(10):1673-1680. 463-470.
+8. FulesPJ,MadhavRT,GoddardRK,Newman-SandersA,Mowbray 28. RougraffB,ShelbourneKD,GerthPK,WarnerJ.Arthroscopicand
+MA. Evaluation of tibial bone tunnel enlargement using MRI scan histologicanalysisofhumanpatellartendonautograftsusedforante-
+cross-sectionalareameasurementafterautologoushamstringtendon riorcruciateligamentreconstruction.AmJSportsMed.1993;21(2):
+ACLreplacement.Knee.2003;10(1):87-91. 277-284.
+
+NEW PAGE
+
+12 Zhangetal TheOrthopaedicJournalofSportsMedicine
+29. SalmonL,RussellV,MusgroveT,PinczewskiL,RefshaugeK.Inci- 38. WangC-J,WangF-S,YangKD,WengL-H,SunY-C,YangY-J.The
+denceandriskfactorsforgraftruptureandcontralateralruptureafter effect of shock wave treatment at the tendon-bone interface - an
+anterior cruciate ligament reconstruction. Arthroscopy. 2005;21(8): histomorphologicalandbiomechanicalstudyinrabbits.JOrthopRes.
+948-957. 2005;23(2):274-280.
+30. Sa´nchezM,AnituaE,AzofraJ,PradoR,MuruzabalF,AndiaI.Liga- 39. WangL,QinL,LuHB,etal.Extracorporealshockwavetherapyin
+mentizationoftendongraftstreatedwithanendogenouspreparation treatmentofdelayedbone-tendonhealing.AmJSportsMed.2008;
+richingrowthfactors:grossmorphologyandhistology.Arthroscopy. 36(2):340-347.
+2010;26(4):470-480. 40. Weber AE, Delos D, Oltean HN, et al. Tibial and femoral tunnel
+31. SieboldR.Observationsonbonetunnelenlargementafter double- changesafterACLreconstruction:aprospective2-yearlongitudinal
+bundleanteriorcruciateligamentreconstruction.Arthroscopy.2007; MRIstudy.AmJSportsMed.2015;43(5):1147-1156.
+23(3):291-298. 41. WeilerA,PetersG,MaurerJ,UnterhauserFN,SudkampNP.Biome-
+32. SuhrF,DelhasseY,BungartzG,SchmidtA,PfannkucheK,BlochW. chanicalproperties andvascularityofananteriorcruciateligament
+Cell biological effects of mechanical stimulations generated by graft can be predicted by contrast-enhanced magnetic resonance
+focusedextracorporealshockwaveapplicationsonculturedhuman
+imaging:atwo-yearstudyinsheep.AmJSportsMed.2001;29(6):
+bonemarrowstromalcells.StemCellRes.2013;11(2):951-964.
+751-761.
+33. Van Dyck P, Zazulia K, Smekens C, Heusdens CHW, Janssens T,
+42. WengCJ,YehWL,HsuKY,etal.Clinicalandfunctionaloutcomesof
+SijbersJ.Assessmentofanteriorcruciateligamentgraftmaturitywith
+anteriorcruciateligamentreconstructionwithautologoushamstring
+conventional magnetic resonance imaging: a systematic literature
+tendoninpatientsaged50yearsorolder.Arthroscopy.2020;36(2):
+review.OrthopJSportsMed.2019;7(6):2325967119849012.
+558-562.
+34. Visco V, Vulpiani MC, Torrisi MR, Ferretti A, Pavan A, Vetrano M.
+43. WilsonTC,KantarasA,AtayA,JohnsonDL.Tunnelenlargementafter
+Experimentalstudiesonthebiologicaleffectsofextracorporealshock
+anterior cruciate ligament surgery. Am J Sports Med. 2004;32(2):
+wavetherapyontendonmodels:areviewoftheliterature.Muscles
+543-549.
+LigamentsTendonsJ.2014;4(3):357-361.
+44. ZhangS,LiH,YaoW,HuaY,LiY.Therapeuticresponseofextracor-
+35. Wang C-J, Cheng JH, Chou W-Y, Hsu SL, Chen JH, Huang CY.
+poreal shock wave therapy for insertional Achilles tendinopathy
+Changesofarticularcartilageandsubchondralboneafterextracor-
+between sports-active and nonsports-active patients with 5-year
+porealshockwavetherapyinosteoarthritisoftheknee.IntJMedSci.
+follow-up.OrthopJSportsMed.2020;8(1):2325967119898118.
+2017;14(3):213-223.
+45. Zhang S, Liu S, Yang L, Chen S, Chen S, Chen J. Morphological
+36. WangC-J,KoJ-Y,ChouW-Y,etal.Shockwavetherapyimprovesante-
+riorcruciateligamentreconstruction.JSurgRes.2014;188(1):110-118. changes of the femoral tunnel and their correlation with hamstring
+37. WangC-J,WangF-S,YangKD,etal.Shockwavetherapyinduces tendonautograftmaturationupto2yearsafteranteriorcruciatelig-
+neovascularizationat thetendon-bone junction: astudy in rabbits. amentreconstructionusingfemoralcorticalsuspension.AmJSports
+JOrthopRes.2003;21(6):984-989. Med.2020;48(3):554-564.
+
+NEW PAGE

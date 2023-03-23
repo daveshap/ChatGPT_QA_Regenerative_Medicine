@@ -1,0 +1,696 @@
+www.nature.com/npjregenmed
+ARTICLE
+OPEN
+Transplantation of PSC-derived myogenic progenitors
+counteracts disease phenotypes in FSHD mice
+✉
+Karim Azzag1, DarkoBosnakovski2, SudheerTungtur1, PeterSalama1, MichaelKyba2,3 and Rita C.R.Perlingeiro 1,3
+Facioscapulohumeralmusculardystrophy(FSHD)isageneticallydominantprogressivemyopathycausedbyimpropersilencingof
+theDUX4gene,leadingtoﬁbrosis,muscleatrophy,andfattyreplacement.Approachesfocusedonmuscleregenerationthrough
+thedeliveryofstemcellsrepresentanattractivetherapeuticoptionformusculardystrophies.Toinvestigatethepotentialforcell
+transplantationin FSHD, wehaveused thedoxycycline-regulated iDUX4pA-HSA mousemodelin whichlow-levelDUX4 canbe
+inducedinskeletalmuscle.Weﬁndthatmousepluripotentstemcell(PSC)-derivedmyogenicprogenitorsengraftinmuscleactively
+undergoingDUX4-mediated degeneration. Donor-derived muscle tissuedisplayed reducedﬁbrosisand importantly, engrafted
+musclesshowedimprovedcontractilespeciﬁcforcecomparedtonon-transplantedcontrols.Thesedatademonstratethefeasibility
+ofreplacementofdiseasedmusclewithPSC-derivedmyogenicprogenitorsinamousemodelforFSHD,andhighlightthepotential
+fortheclinical beneﬁt of such acelltherapy approach.
+npjRegenerative Medicine           (2022) 7:43 ;https://doi.org/10.1038/s41536-022-00249-0
+1234567890():,; INTRODUCTION in which the human skeletal actin (HSA) promoter drives
+Facioscapulohumeral muscular dystrophy (FSHD) is anautosomal expressionofrtTA,thusenablingdox-regulatedDUX4expression
+dominant muscle disorder with a conservative incidence of 1 in in skeletal muscle ﬁbers22. This iDUX4pA-HSA mouse model
+15,000 births worldwide1,2, representing the third most common recapitulates several disease phenotypes observed in FSHD
+inherited muscular dystrophy, following Duchenne muscular patients, including inﬂammation, ﬁbrosis, and muscle atrophy,
+dystrophy (DMD) and myotonic dystrophy (DM). The most amongothers,andtherefore,ithasbeenusedwithsuccesstotest
+affected muscles are typically the facial, shoulder, and forearm therapeutics22,25.
+muscles; however, the disease shows high variability between Although at present, only palliative treatments, aiming to slow
+patients, as well as asymmetric presentation within individual downdiseaseprogressionandimprovequalityoflife,areapproved
+patients, with most skeletal muscles being affected to some for FSHD26, there have been several recent clinical trials targeting
+degree. The diaphragm is usually largely spared and cardiac diseaseprocesses.Thep38inhibitorLosmapimod,recentlytestedin
+muscle does not show evidence of degeneration, thus although aPhase2clinicaltrialforFSHDpatients(ClinicalTrials.govIdentiﬁer:
+FSHD can be tremendously debilitating, patients experience NCT04003974)hasbeenshowntodecreasetheexpressionofDUX4
+normallifespans andthe medicalburden ofFSHD is large. and its target genes in a mouse xenograft model27. Other clinical
+FSHD is caused by the defective epigenetic repression of the trials are currently evaluating the beneﬁts of drugs approved for
+D4Z4 macrosatellite repeat array at chr4qter3–6. Each unit of this other diseases in the context of FSHD, such as the beta-2 receptor
+arraycontainsanORFencodingDUX47,atranscriptionfactorwith agonist albuterol (ClinicalTrials.gov Identiﬁer: NCT00027391), the
+two homeodomains that bind DNA in a head-to-head fashion8. myostatin inhibitor ACE-083 (ClinicalTrials.gov Identiﬁer:
+Incomplete repression, commonly observed as decreased DNA NCT02927080), and the creatine monohydrate ATYR1940 (Clinical-
+methylation9–12 leads to transcriptional leakage in muscles of Trials.govIdentiﬁer:NCT02603562).Todate,noneofthesehavemet
+patients9. The levels of leakage are very low, and direct their primary endpoints. Other approaches targeting DUX4 have
+immunodetection of DUX4 in muscles of patients is lacking, shown some promise in preclinical studies. For instance, successful
+althoughweaklydetectableincreasedexpressionofknownDUX4 reduction of DUX4 mRNA levels has been reported using siRNA,
+target genes in FSHD muscle biopsies10 implies that DUX4 is or miRNA, and antisense oligonucleotide direct against DUX428–35.
+wasexpressed there. Another potential target is a G-quadruplex, present within D4Z436.
+DUX4 may normally play some role in embryonic develop- Berberine, a natural G-quadruplex ligand, has the ability to reduce
+ment11–16, but its expression at later times is thought to be DUX4 mRNA levels37. DUX4 cofactor inhibitors have also been
+deleterious. In vitro, DUX4 expression leads to cell death17,18. considered targets for FSHD. DUX4 interacts with the histone
+DUX4-expressing mouse models have been generated to study acetyltransferases p300 and CBP38 and a p300 inhibitor has been
+FSHD pathology and for testing therapeutics19–24. Two inducible testediniDUX4pA-HSAmice,whichresultedinareductionofDUX4
+strategieshavebeenreportedtocontrolDUX4toxicityinsomatic targetgeneexpression22,25.
+tissues:cre-23,24 anddoxycycline(dox)-inducible models21,22.One Another potential therapeutic approach is cell replacement, in
+usefulfeatureofthelaterapproachisthedualabilitytoturnDUX4 whichthediseasedmuscleisreplacedwithhealthymyoﬁbers,and
+expression both on and off. Successful modulation of DUX4 ideally, new healthy muscle stem cells. This strategy has been
+expressionhasbeenreportedintheiDUX4pA-HSAmouse,theﬁrst extensivelyinvestigatedinthecontextofothertypesofmuscular
+publishedmodeltoshowlossofmuscleduetoDUX4expression, dystrophy39,40.Amongthedifferentcelltypesunderinvestigation,
+1Lillehei Heart Institute, Department of Medicine, University of Minnesota, Minneapolis, MN, USA. 2Lillehei Heart Institute, Department of Pediatrics, University of
+Minnesota,Minneapolis,MN,USA.3StemCellInstitute,UniversityofMinnesota,Minneapolis,MN,USA.✉email:perli032@umn.edu
+PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute
+
+NEW PAGE
+
+K.Azzagetal.
+2
+pluripotent stem cells (PSCs) are an attractive source since they understand the behavior of engrafted donor-derived myoﬁbers
+can continually produce large amounts of differentiated tissue. inthepresenceofDUX4,wedesignedaseriesoftransplantations
+TransplantationofPSC-derivedmyogenicprogenitorshasproven in which iDUX4pA-HSA mice were exposed to dox continually
+effective in several models of recessive muscular dystrophy, (Supplementary Fig. 1a) or over different time windows (Fig. 2a).
+includingDMD,forwhichmdxandmdx/Utrn−/−doubleknockout For continual DUX4 induction, recipient mice were fed with dox
+mice have been tested41–45, LGMD2D46, LGMD2A47, and chowduringthewholecourseoftheexperiment(Supplementary
+LGMD2I48,49. Fig. 1a). Our data showed that continual dox induction was not
+To determine the therapeutic potential of PSC-derived myo- compatible with the in vivo differentiation of transplanted Pax3-
+genic progenitors in FSHD, we took advantage of the iDUX4pA- induced myogenic progenitors into myoﬁbers. Continued dox
+HSA mouse model referred to above, in which dox treatment leadstoconstantPax3expression,whichpreventsthedifferentia-
+allows for the conditional expression of human DUX4 speciﬁcally tion of injected myogenic progenitors into donor-derived
+inskeletal muscle22. myoﬁbers, as cells in this arm remained Pax3+ throughout the
+Here we show that mouse PSC-derived myogenic progenitors study (Supplementary Fig. 1b, c). For the time window studies,
+havethe abilityto promote muscle regeneration in thepresence iDUX4pA-HSA mice were exposed to dox for 7 days prior to
+of an FSHD-like environment, namely muscle undergoing DUX4- transplantation,whichissufﬁcienttoinducetheDUX4-dystrophic
+mediated degeneration, as shown by the presence of donor- phenotype (Supplementary Fig. 2). They were then allowed to
+derived myoﬁbers and satellite cells. Importantly, engrafted regenerate for 3 weeks in the absence of DUX4 induction, and
+muscles showed improved muscle strength and reduced DUX4- thengivenasecondpulseofDUX4fordifferentlengthsoftime,as
+induced ﬁbrosis. These observations establish the proof of outlined in Fig. 2a (7+0, 7+7, and 7+14). As above, donor-
+conceptfortheuseofcelltransplantationasasuitabletherapeutic derived myoﬁber engraftment was identiﬁed by immunoﬂuores-
+interventionfor FSHD. cence staining at the point of muscle collection (Fig. 2b, c). Both
+ﬁber quantiﬁcations, RFP+/Dys+(Fig. 2d) and RFP+/Dys+/
+PCM1+(Supplementary Fig. 3a–c), showed the highest levels of
+RESULTS
+engraftmentiniDUX4pA-HSAmicethatwerere-exposedtoDUX4,
+Establishingcell transplantation in the iDUX4pA-HSA mouse withanaverageof400donor-derivedmyoﬁbersperTAmusclein
+1234567890():,; mTmoyooddgeeetlenricmipnreogtehneitmorussicnlethreegceonnetreaxtitveofpDotUeXn4ti-amleodfiaPtSeCd-dmeurisvcelde ttAhostesael7ss+mmue1sn4ctlceoofhcoRrryFtoP,s+wechdtiicoohnnoarrle-dpaerrereisvaeendt(SsmuapyppoplﬁerobmxeeirmndtaaitsretylryibFu1igt5i%o. n4oaaf,lotnhbge).
+degeneration, as occurs in FSHD, we transplanted Pax3-induced engrafted TA muscles showed that transplanted cells were
+murine embryonic stem cell (ESC)-derived myogenic progenitors robustly distributed along the TA muscle (Fig. 2b, e). We also
+intoiDUX4pA-HSAmice.DUX4expressionwasinducedbyfeeding detectedthepresenceofdonor-derivedsatellitecells,asindicated
+mice dox chow50, which began 7 days prior to transplantation, bytheidentiﬁcationofPax7+/RFP+cellsunderthebasallamina
+and was maintained for 6 days thereafter (Fig. 1a). Dox-induced (SupplementaryFig.5a).Quantiﬁcationshowedthatthefrequency
+iDUX4pA-HSAmiceweresubdividedinto2groups,onecohortin ofPax7+/RFP+cellswasproportionaltothedegreeofmyoﬁber
+which tibialis anterior (TA) muscles were pre-injured with engraftment, with up to 9% of donor-derived satellite cell
+cardiotoxin (CTX) and another cohort that remained uninjured engraftment detected in the groups 7+7 and 7+14 (Supple-
+(Fig. 1a). CTX injury is widely used for muscle engraftment mentaryFig. 5b).
+assessment since it destroys existing muscle ﬁbers, initiating a To determine whether Pax3 re-expression due to the second
+generalizedregenerativeprogram,allowingtheefﬁcientcontribu- pulse of dox treatment may have contributed to improved
+tion of transplanted cells to newly regenerated muscle41,51–53.Of engraftment, we transplanted Pax3-induced myogenic progeni-
+note, it has been reported previously that new ﬁber formation torsintonon-DUX4mice,bothimmunosuppressedwild-type(WT)
+afterCTXinjuryisnegligibleinthepresenceofmaintainedDUX4 C57BL/6 (BL6) and NSG mice, following the same dox treatment
+induction in the iDUX4pA-HSA model22, suggesting that this shown in Fig. 2. Donor-derived myoﬁbers were detected in all
+experimental setting may provide an environment that is free of groups, but there was no increase in engraftment in mice that
+hostcompetitionafterinductionofinjury.Todetectthepresence weretreatedwithdoxaftertransplantation(7+14)comparedto
+of donor-derived myoﬁbers, transplanted cells carried an inte- control (7+0) recipients (BL6 shown in Fig. 3a, b; NSG shown in
+gratedH2B-RFPfusionproteindrivenbythePGKpromoter,which Supplementary Fig. 6a, b). This suggests that enhanced engraft-
+we have previously demonstrated to give robust expression in ment in the iDUX4pA-HSA mouse model was entirely due to the
+myoﬁbers48,54, while avoiding the dilution observed with cyto- additional DUX4-mediated muscle degeneration in the host and
+plasmicGFP,whichcancreatedifﬁcultiesgivenmuscleautoﬂuor- not to the re-expression of Pax3 in the donor cells. When we
+escence55. One month post-transplantation, we observed donor- performedtheconverseexperiment,bytransplantinganon-Pax3
+derived myoﬁbers in both cohorts of iDUX4pA-HSA mice. We myogenic cell population, freshly isolated WT satellite cells, into
+conﬁrmeddonoridentityby thepresenceofRFP positive(RFP+) iDUX4pA-HSA mice, we observed donor-derived contribution to
+nuclei and employed dystrophin staining to ensure that RFP+ muscleregenerationtrendedhigher(p=0.061bytheStudent’st
+nuclei were in fact within a muscle ﬁber (Fig. 1b). We validated test) in the mice that received the second round of DUX4-
+the position of the RFP+nuclei inside the myoﬁber and the mediated degeneration (Fig. 3c, d). Taken together, these data
+subsequentquantiﬁcationsusingaspeciﬁcmarkerformyonuclei, suggestthattheincreasedengraftmentobservedwheniDUX4pA-
+PCM156,57 (Fig. 1c, d). Both readouts revealed higher levels of HSAmicereceiveaseconddoseofdoxisduetoDUX4-mediated
+donor engraftment in iDUX4pA-HSA mice that had been pre- injury.
+injured with CTX (Fig. 1e). Therefore, all subsequent studies
+employedCTX pre-injury. Celltransplantation amelioratesDUX4-mediated ﬁbrosis
+To determine the therapeutic beneﬁt of cell transplantation in
+Optimizing DUX4-mediated injury forassessing regenerative iDUX4pA-HSAmice,weinvestigatedthelevels ofﬁbrosis,which
+potential is a hallmark of this mouse model22. The greatest ﬁbrosis was
+The distinguishing feature of the iDUX4pA-HSA mouse model is seen in the 7+7 and 7+14 groups, in accordance with the
+the ability to turn off DUX4 expression with dox withdrawal, originalpublication,whichreported about15%ofﬁbrotictissue
+allowing pulses or bursts of DUX4 expression22. To better in iDUX4pA-HSA mice following two weeks of dox treatment22.
+npjRegenerativeMedicine(2022)   43  PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute
+
+NEW PAGE
+
+K.Azzagetal.
+3
+a
+b c
+RFP Dys DAPI Merge PBS Cells
+PBS
+RFP
+(-CTX)
+Cells PCM1
+(-CTX)
+Dys
+Cells
+(+CTX)
+d DAPI
+RFP PCM1 Dys DAPI
+RFP PCM1
+Dys
+RFP PCM1 Merge
+Merge
+Dys
+e p = 0.067
+400 *
+s
+re300
+b
+ foif200
+ º
+N
+100
+0
+Dys+ Dys+ Dys+ Dys+ Dys+ Dys+
+FP+/ M1+/ FP+/ M1+/ FP+/ M1+/
+R C R C R C
+P P P
++/ +/ +/
+P P P
+F F F
+R R R
+PBS -CTX +CTX
+Cell transplantation reduced the extent of ﬁbrosis to a same muscle. Immunoﬂuorescence staining for collagen VI (Col
+statistically signiﬁcant degree in both the 7+7 and 7+14 VI) revealed reduced ﬁbrosis in the engrafted area compared to
+groups, as shown by collagen deposition using Masson’s the surrounding non-engrafted tissue (Fig. 4c, d and Supple-
+trichrome staining (Fig. 4a, b). We also evaluated ﬁbrosis within mentary Fig.7).Inaddition,laminin stainingshowed that newly
+engrafted domains vis-à-vis non-engrafted domains within the engrafted muscle is composed of densely packed ﬁbers, while
+PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute npjRegenerativeMedicine(2022)   43 
+
+NEW PAGE
+
+K.Azzagetal.
+4
+Fig. 1 In vivo regenerative potential of Pax3-induced myogenic progenitors in iDUX4pA-HSA mice. a Outline of experimental design.
+bRepresentativeimagesshowimmunostainingforRFP(inred)andDys(ingray)innon-injured(−CTX)andCTX-injured(+CTX)TAmuscles
+fromiDUX4pA-HSAmicethathadbeentransplantedwithPax3-inducedmouseESC-derivedmyogenicprogenitors.ImagesfromPBS-injected
+TA muscle are shown in the upper panel (-CTX). DAPI stains nuclei (in blue). Scale bar is 50µm. c Representative images showing
+immunostainingforRFP(inred),PCM1(ingreen)andDys(ingray)inTAmusclesofiDUX4pA-HSAmicethathadbeeninjectedwithPBS(left
+panel)orcells(rightpanel)fromthe+CTXgroup.DAPIstainednucleiinblue.ArrowheadsshowRFP+/PCM1+nuclei.Scalebaris50µm.
+d Representative confocal images from +CTX group show a nucleus positive for RFP and PCM1. Scale bar is 10µm. e Engraftment
+quantiﬁcation based on the number of RFP+/Dys+ and RFP+/Dys+/PCM1+myoﬁbers. Data are shown as mean±SEM (n=6 for PBS,
+n=6for-CTXandn=4for+CTX).*p<0.05bytheStudent’sttest.
+non-engrafted muscle ﬁbers are more rounded and pushed oftoxicRNAcomparedtohumanDM1,butitisinterestingthatit
+apart, a consequence of endomysial expansion due to matrix presents a case in which a dominant genetic factor impairs the
+deposition.Furthermore,engrafteddomainsshowedmuchlower donor-derived WTtissue.
+levels of inﬁltrating cells (observable by 4,6-diamidino-2-pheny- Inthismanuscript,wehaveshownthattransplantationofPSC-
+lindole (DAPI) staining in Fig. 4d). Together, these results show derived myogenic progenitors into TA muscles of iDUX4pA-HSA
+that newly engrafted muscle is less ﬁbrotic and histologically mice resulted in engraftment in all tested cohorts, with and
+healthier than retained host muscle. without CTX pre-injury (Fig. 1), and most importantly, in the
+contextofdifferentpulsesandburstsofDUX4expression(Fig.2).
+In the 7+14 group, which experienced the most severe DUX4-
+Functional improvement upon transplantation ofmyogenic
+induced disease phenotype, our results show that donor-derived
+progenitors in iDUX4pA-HSA mice
+myoﬁbers ameliorate ﬁbrosis (Fig. 4) and enhance muscle force
+To determine whether engraftment of myogenic progenitors is
+(Fig.5).Becausetransplantedcellsalsogaverisetodonor-derived
+accompaniedbyfunctionalimprovementofphysiologicalmuscle
+satellite cells, it is plausible to hypothesize that engraftment will
+weakness, we performed in situ force measurements. Based on
+be persistent, as observed in mouse models of DMD and
+the more severe phenotype, we utilized the 7+14 experimental LGMD2I41,48. The experiments in which DUX4 expression post-
+protocol for these studies. When transplanted and control TA
+transplantation leads to greater engraftment have obvious
+musclesweredissectedandsubjectedtoelectricalstimulation,we
+relevance to FSHD, in which deterioration is sporadic and
+found that transplanted muscles displayed signiﬁcant functional
+continual. One would expect that if an FSHD muscle were
+improvements, as demonstrated by both superior isometric
+transplantedwithWTcells,thenwitheachcycleofdegeneration,
+tetanicforceandspeciﬁcforcewhencomparedtotheirrespective agreaterandgreaterextentofthemusclewouldberegenerated
+contralateral PBS-injected TA muscles(Fig. 5). withWTcells.Thisisinagreementwithourdataasweobserved
+thegreatestextentofengraftmentinthegroupwiththelongest
+period of DUX4-mediated degeneration. It is also possible that
+DISCUSSION
+transplanted Pax3-induced myogenic progenitors become re-
+This study investigates the use of cell therapy to treat an FSHD induced by the dox provided in the chow at 3 weeks post-
+animalmodel.Itprovidestheproofofconceptforthepotentialof injection (Fig. 2a), resulting in their re-activation/expansion, and
+PSC-basedtherapytoimprovethedystrophicphenotypeinduced ultimately superior engraftment. Our data from the experimental
+byDUX4expression.Pax3-inducedmouseESC-derived myogenic cohortinwhichmiceweretreateduninterruptedlywithdoxshow
+progenitorsareabletoengraftintheTAofiDUX4pA-HSAmicefed that constant dox treatment in the chow maintains Pax3
+with a dox diet. In the best cases, we obtained more than 600 expression in transplanted cells, preventing their in vivo differ-
+donor-derived ﬁbers, corresponding to 25% of the muscle area. entiationintomyoﬁbers.Itisplausiblethatdoxre-inductionmay
+More importantly, these donor-derived myoﬁbers induce two trigger both DUX4-induced degeneration and Pax3-induced
+major functional improvements: the reduction of the extent of reactivation, but it seems that engraftment size differences
+ﬁbrosis, and an improvementinmuscle force. observed among different experimental groups are due to DUX4
+Asmentionedearlier,theuseofPSC-basedtherapyhasshown only. Indeed, the engraftment expansion did not occur in the
+success in improving the phenotype of mouse models for DMD, contextoftransplantationofPax3-inducedmyogenicprogenitors
+LGMD2A, LGMD2D, and LGMD2I41,44,46,48. However, the engraft- intonon-DUX4muscle(Fig.3a,bandSupplementaryFig.6a,b).To
+ment of WT cells into a dominant MD model has an important conﬁrm that enhanced muscle engraftment after the second
+distinction to engraftment in recessive models. In a dominant roundofdoxtreatmentwasduetoeffectsonthehostratherthan
+context,itisnotaprioriclearwhetherthedetrimentalfactorcould re-expression of Pax3 in the donor cells, we transplanted WT
+be transferred to the newly engrafted donor-derived myoﬁbers. freshlyisolatedsatellitecellsintoacohortofiDUX4pA-HSAmice.
+Twostudieshavepreviouslyinvestigatedthisissuewithcontrast- This also resulted in donor-derived muscle regeneration that
+ing results in different disease models. The ﬁrst employed FGR1 trended toward increased donor contribution with more severe
+overexpressing mice, which present a dominant muscle pheno- DUX4-mediateddegeneration (Fig. 3c, d).
+type58. The transplantation of mouse ESC-derived myogenic Insummary,theseﬁndingsrepresentanexampleofcelltherapy
+progenitors showed improvement in TA muscle force in males, in an FSHD model, and demonstrate the beneﬁts of PSC-based
+whicharemoreaffectedthanfemales59.Thesecondstudyutilized myogenic regenerative therapy for FSHD, providing proof of
+HSALR mice, a model for the dominant DM60. This mouse model concept for the potential therapeutic application of cell trans-
+carries250CUGrepeatsinthecontextofthehumanskeletalactin plantation forautonomous dominantMD.
+gene, which leads to the formation of toxic RNA foci in the
+myonuclei. Mondragon-Gonzalez and colleagues showed that
+METHODS
+these RNA foci could be transferred to the newly formed donor-
+derived myoﬁbers, derived from both human and mouse PSC- Cellculture anddifferentiation
+derived myogenic progenitor transplantation61. This transfer Inducible Pax3-GFP mouse ESCs were cultured in 1:1 ES medium
+resulted in disrupted alternative splicing within donor-derived and 2 inhibitors (2i) medium. ES medium is composed of
+myoﬁbers61. The clinical relevance of this study is difﬁcult to KnockOutTM DMEM (Invitrogen) with 15% FBS (Sigma), 1%
+extrapolate,astheHSALRmousemodelshowsmuchhigherlevels penicillin-streptomycin (Invitrogen), 2mM Glutamax (Gibco),
+npjRegenerativeMedicine(2022)   43  PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute
+
+NEW PAGE
+
+K.Azzagetal.
+5
+a
+b RFP Dys DAPI Merge
+7+7
+c d800 ***
+RFP Dys DAPI Merge s **
+er
+b600
++ fi
+s
+PBS y
+D400
++/
+P
+F
+R
+of 200
+º 
+N
+7+0
+0
+e PBS 7+0 7+7 7+14
+450
+s400 7+0
+7+7 ber350 7+7
++ fi300 7+14
+s
+Dy250
++/200
+P
+7+14 RF150
+of 100
+º 
+N 50
+0
+0 1000 2000 3000 4000 5000µm
+Fig. 2 Engraftment is persistent even in the context of bursts of DUX4 expression. a Outline of experimental design. b Representative
+images,capturingthecompleteengraftedarea,showimmunostainingforRFP(inred),Dys(ingray),andDAPI(inblue)ofthe7+7cohort.
+Scalebaris200µm.cRepresentativeimagesshowthesamestainingasbforthe3experimentalgroupsdepictedina:7+0,7+7,and7+14.
+UpperpanelshowsPBS-injectedcontrol.Scalebaris50µm.dGraphshowsquantiﬁcationofengraftment(fromc)asshownbythenumberof
+donor-derivedRFP+/Dys+myoﬁbers.Dataareshownasmean±SEM(n=7forPBS,n=13for7+0,n=18for7+7andn=6for7+14).
+**p<0.01,***p<0.001bytheStudent’sttest.eDistributionofthenumberofRFP+/Dys+myoﬁbersalongtheTAmuscle.Dataareshownas
+mean±SEM(n=13for7+0,n=18for7+7,andn=6for7+14).
+PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute npjRegenerativeMedicine(2022)   43 
+
+NEW PAGE
+
+K.Azzagetal.
+6
+a b
+BL6
+7+0 7+14
+PBS Cells PBS Cells
+RFP rs
+e
+b
++ fi
+s
+y
+D
+Dys +/
+P
+F
+R
+of 
+º 
+N
+DAPI
+BL6
+Merge
+c d
+iDUX4pA-HSA
+7+0 7+14
+PBS Cells PBS Cells
+tdTomato ers200 p = 0.061
+b
++ fi150
+s
+y
+D
++/
+Dys ato100
+m
+o
+T
+d 50
+of t
+º 
+DAPI N
+0
+7+0 7+14
+Merge
+Fig.3 Testingenvironmentvs.cellautonomouseffectofdoxpost-transplant.aRepresentativeimagesshowimmunostainingforRFP(in
+red)andDys(ingray)inTAmusclesofBL6micethathadbeeninjectedwithPBSorPax3-inducedmyogenicprogenitors,andlaterfedwith
+doxinasimilar fashionasiDUX4pA-HSA7+0and7+14cohorts(Fig.2a).DAPIstainednucleiinblue.Scalebaris50µm.bGraphshows
+engraftment quantiﬁcation from a. Data are shown as mean±SEM (n=7 for 7+0 and n=7 for 7+14). c Representative images show
+immunostainingfortdTomato(inred),andDys(ingray)inTAmusclesofiDUX4pA-HSAmicethathadbeeninjectedwithPBSor5000satellite
+cellsisolatedfromamTmGmouseandfedwithdoxfollowingthe7+0and7+14doxregimen.DAPIstainednucleiinblue.Scalebaris
+50µm.dGraphshowsengraftmentquantiﬁcationfromcbasedonthenumbertdTomato+/Dys+myoﬁbers.Dataareshownasmean±SEM
+(n=6for7+0andn=5for7+14).p=0.061bytheStudent’sttest.
+0.1mM non-essential amino acids (Gibco), and 0.1mM (CHIR990217;Tocris),1µMPD0325901(Cayman)and1000U/ml
+β-mercaptoethanol (Gibco). 2i medium consists of neurobasal LIF (Millipore). To facilitate tracking of donor engraftment, ESCs
+medium (Invitrogen) and DMEM F12 medium (Invitrogen) were labeled with a lentiviral vector encoding the fusion protein
+supplemented with 0.5% N2 (Life Technologies), 0.5% B27 (Life histone 2B-red ﬂuorescent protein (H2B-RFP; LV-RFP plasmid,
+Technologies), 0.05% BSA (Sigma), 1% penicillin–streptomycin, Addgene #26001). H2B-RFP plasmid was co-transfected with
+150µMmonothioglycerol(MPBiomedicals),3µMGSK3βinhibitor packaging plasmids Δ8.91 and pVSVG into 293T cells using the
+npjRegenerativeMedicine(2022)   43  PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute
+
+NEW PAGE
+
+K.Azzagetal.
+7
+a  b 
+PBS  Cells  25
+* 
+20
+7+0  a)  * 
+e
+r
+a
+% 15
+(
+n 
+e
+g10
+7+7  olla
+C
+5
+0
+7+14  PBS Cells PBS Cells PBS Cells
+7+0  7+7  7+14 
+c 
+RFP  Lam  Col VI 
+RFP-  RFP- 
+RFP+  RFP+  RFP- 
+RFP+ 
+d 
+RFP  Lam  DAPI  Merge  Col VI 
+RFP- 
+RFP+ 
+Fig. 4 Transplantation of myogenic progenitors counteracts the ﬁbrosis induced by DUX4 expression in iDUX4pA-HSA mice.
+a Representativeimages show Masson’s trichrome staining for the3 experimental cohorts of iDUX4pA-HSA mice: 7+0, 7+7, and 7+14.
+Right panels show transplanted TA muscles, while left panels display respective contralateral PBS controls. Scale bar is 100µm.
+bQuantiﬁcationofthepercentageofcollagenstaininginthetotalmusclesection.Dataareshownasmean±SEM(n=13for7+0,n=18for
+7+7andn=6for7+14).*p<0.05bytheStudent’sttest.cRepresentativeimagesofawholemusclesectionshowimmunostainingforRFP
+(inred),Lam(ingreen),andColVI(inpurple;stainingperformedontheconsecutiveslide)intransplantedTAmusclefromiDUX4pA-HSAmice
+(7+14). Engrafted area has been highlighted in red to denote the engraftment location on the Col VI staining. DAPI in blue. Scale bar is
+500µm.dImagesshow highermagniﬁcationof negativeandpositiveRFPareasfromc(fromwhite dashedlinesusedtodepictRFP-and
+RFP+areas).Scalebaris50µm.
+LTX transfection reagent (Thermo Fisher Scientiﬁc). Lentiviral- cells/ml in embryoid bodies (EB) differentiation medium, which
+containingsupernatantwascollected48hlater,ﬁltered,andused consists of IMDM (Invitrogen) supplemented with 15% FBS
+to transduce ESCs using the spin infection method (90min at (Sigma), 1% penicillin/streptomycin (Invitrogen), 2mM GlutaMAX
+2500rpmat30°C).RFP+ESCswereFACSsortedandmaintained (Invitrogen), 50μg/ml ascorbic acid (Sigma-Aldrich), and 4.5mM
+in ES+2i medium. ESCs were then plated at a density of 40,000 monothioglycerol (MP biomedicals). These dishes were cultured
+PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute npjRegenerativeMedicine(2022)   43 
+
+NEW PAGE
+
+K.Azzagetal.
+8
+a b F
+0
+500
+800 **
+****
+Cells
+400
+600
+N300 PBS N
+m m
+400
+200
+100 200
+0
+0
+0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 BL6 PBS Cells
+Time (s)
+c sF d CSA
+0
+200 *** *
+5
+150
+4
+2
+m 2
+N/ 100 m3
+m
+K
+2
+50
+1
+0 0
+BL6 PBS Cells BL6 PBS Cells
+Fig.5 EffectofcelltransplantationonthemusclecontractilepropertiesofiDUX4pA-HSAmice.aRepresentativeexampleofforcetracing
+upontetanicstimulationinTAmusclesfromiDUX4pA-HSAmice.Redandwhitelinesshowforcetracingfrommusclesthathadreceivedcell
+transplantationorPBS,respectively.b,cEffectofcelltransplantationonbabsolute(F )andcspeciﬁc(sF :F normalizedtoCSA)force.Control
+0 0 0
+BL6micewereusedasreference.Dataareshownasmean±SEM(n=20forBL6,n=6forPBSandcells).*p<0.05,**p<0.01,***p<0.001,
+****p<0.0001 by the Student’s t test. d Average CSA of analyzed muscles (from b, c). Data are shown as mean±SEM. **p<0.01 by the
+Student’sttest.
+on a slowly swirling table rotator (80rpm) in a cell culture (Sigma) and 1% penicillin/streptomycin (Invitrogen) in PBS
+incubatorat37°C,5%CO .Pax3-GFPwasinducedbyaddingdox (Gibco) containing the primary antibodies CD31 and CD45
+2
+(Sigma-Aldrich)onday3ofEBdifferentiation(ﬁnalconcentration (both PeCy7-conjugated, eBiosciences), APC-conjugated integ-
+1μg/ml). On day 5, EBs were disaggregated, and stained for rin alpha 7 (itga7) and biotin-Vcam1 (eBiosciences) kept for
+20minutes with PDGFRα-PE, FLK1-APC, (e-Bioscience). 20mininicethencentrifugedat1000×gfor5min,andstained
+PDGFRα+FLK1−RFP+myogenicprogenitorsweresortedusing with the secondary antibody APC-cy7-conjugated streptavidin
+FACSAriaII(BDbiosciences),platedongelatin-coateddisheswith for 10min in ice and centrifuged again at 1000×g for 5min.
+EB differentiation media supplemented with 1μg/ml dox and StainedcellswereresuspendedinFACSbufferforsortingusing
+10ng/ml mouse basic FGF (bFGF; Peprotech) and maintained 3 a FACSAria II.
+passagesinculture before transplantation41,48,62.
+Mice
+Satellite cell isolation All animal studies were performed according to protocols
+Skeletal muscles from mTmG mice63 were dissected, chopped approved by the University of Minnesota Institutional Animal
+with a blade, and digested for 60min in a 37°C shaker with Care and Use Committee. Four-week-old female mice carrying
+2mg/ml Collagenase II (Gibco) in DMEM high glucose (Gibco) both theiDUX4pA and HSA-rtTA transgenes22 were fed with dox
+and 1% penicillin/streptomycin (Invitrogen). Then one volume chow containing 62.5mg/kg dox (ENVIGO)50. Four-week-old
+of PBS was added to the suspension and centrifuged at 500g female BL6 and NSG mice were purchased from Jackson
+for 10min. The pellet was resuspended twice in a rinsing Laboratories.mTmGmice63,kindlyprovidedbyDr.BryceBinstadt
+solution containing 10% horse serum (Hyclone), 1% penicillin/ (Universityof Minnesota), wereused for satellite cellisolation.
+streptomycin(Invitrogen)and0.1μMHEPES(Gibco)inHam’s/F-
+10 media (Hyclone) and spun down twice at 500×g for 7min. Celltransplantation andmuscle collection
+Then digested tissue was shred with the help of a Pasteur TAmusclesfromiDUX4pA-HSAmice,anesthetizedwithketamine/
+pipette and digested a second time with a solution containing xylazine at 80mg/kg by intraperitoneal (IP) injection, were
+0.1mg/ml collagenase II and 0.5mg/ml Dispase (Gibco) in a injectedwith106myogenicprogenitorswhereasthecontralateral
+rinsing solution incubated for 30min at 37°C. The digested legreceivedPBS.Forsatellitecelltransplantation,5000cellswere
+solution was homogenized with 16 and 18G needles, ﬁltered transplanted. One day prior to transplantation, TA muscles were
+with a 40µm cell strainer, and centrifuge at 700g for 7min. pre-injured or not with 15µl of CTX 10µM (Latoxan). For
+Cells were resuspended in FACS buffer containing 10% FBS immunosuppression, recipients received daily IP injections of the
+npjRegenerativeMedicine(2022)   43  PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute
+
+NEW PAGE
+
+K.Azzagetal.
+9
+immunosuppressant agent tacrolimus (MedChemExpress) at a recorded at 150Hz using the same rectangular unipolar pulses
+dose of 5mg/kg. Treatment started two days before transplanta- of 0.2ms for 300ms. The cross-sectional area (CSA) and the
+tion and ended by the day of euthanasia41. TA muscles were speciﬁc force (sF ) were calculated after the measurement of
+0
+collectedfor engraftmentassessment 4–5 weeks later. muscle optimal length and weight for each muscle65.
+Immunoﬂuorescence staining Statistical analysis
+Dissected TA muscles were embedded in Tissue-Tek O.C.T. Differences between the two groups were assessed by using the
+compound(Sakura),andsnapfrozenonisopentanepre-cooled Student’s t test for independent samples. p values <0.05 were
+with liquid nitrogen. In all, 14µm cryosections were collected considered signiﬁcant. Statistical analyses were performed using
+onglassslidesandconservedat−80°C.Beforestaining,muscle PrismSoftware (GraphPad).
+cryosections were rehydrated with PBS for 5min at room
+temperature (RT). Then ﬁxed with 4% PFA for 30min at RT,
+Reporting summary
+washed with PBS, permeabilized 15min at RT with 0.3% Triton
+X100(Sigma)inPBS,washedagainwithPBS,blockedfor30min Further information on research design is available in the Nature
+with 3% BSA (Sigma), and incubated overnight at 4°C with ResearchReportingSummary linkedto this article.
+primary antibodies. Primary antibodies included RFP (rabbit
+1:500, ab62341 Abcam), dystrophin (Dys, mouse 1:20, DYS1-CE
+DATAAVAILABILITY
+Leica),PCM1(rabbit1:500,HPA023370MilliporeSigma),laminin
+α-2 (Lam, rat 1:200, Sc-59854 Santa Cruz), Pax7 (mouse 1:10, Thedatasupportingtheﬁndingsinthisstudyareavailablewithinthearticleandits
+DSHB), and Col VI (rabbit 1:100, 17023-1-AP Thermo Fisher SupplementaryInformationﬁle.Anyrawdatageneratedandanalyzedduringthis
+Scientiﬁc).Thenextday,cryosectionswererinsedwithPBSand studyareavailablefromthecorrespondingauthoratrequest.Reasonablerequestsof
+unprocessed images and raw data ﬁles used for quantiﬁcations presented in the
+incubatedwithAlexaFluor(ThermoFisherScientiﬁc)secondary
+article or supplementary information may be submitted via email to
+antibodiesand4,6-Diamidino-2-phenylindole(DAPI,SantaCruz) perli032@umn.edu.
+for 1hr at RT. After three PBS washes, sections were dried and
+mountedwithProlongGoldwithDAPI(Invitrogen).Slideswere
+Received:31August2021; Accepted: 8 August2022;
+analyzedbyconfocalmicroscopy(NikonNiEC2uprightconfocal
+microscope). Image processing and quantiﬁcation were per-
+formed with Fiji software. Merge images of RFP, Dys, and DAPI
+were used to quantify donor-derived engraftment. For donor-
+derived satellite cell engraftment, merge images of RFP, Pax7, REFERENCES
+laminin α-2, and DAPI were used to quantify the frequency of
+1. Mostacciuolo,M.etal.Facioscapulohumeralmusculardystrophy:epidemiological
+Pax7+/RFP+cells.Atotalof11-12cryosectionswereanalyzed. andmolecularstudyinanorth-eastItalianpopulationsample.Clin.Genet.75,
+For Pax3 staining, we used an antigen retrieval method, slides 550–555(2009).
+were ﬁxed with 4% PFA for 30min at RT, followed by antigen 2. Deenen,J.C.W.etal.Population-basedincidenceandprevalenceoffaciosca-
+retrievalincitrateBuffer(1.8mMCitricAcidand8.2mMSodium pulohumeraldystrophy.Neurology83,1056–1059(2014).
+Citrate in water). Slides were boiled in a Coplin jar for 30min, 3. Upadhyaya, M. et al. DNA markerapplicable to presymptomatic and prenatal
+diagnosisoffacioscapulohumeraldisease.Lancet336,1320–1327(1990).
+then rinsed with cold tap water for 10min, washed twice with
+4. Wijmenga, C. et al. Chromosome 4q DNA rearrangements associated with
+PBS, 5min each. After antigen retrieval, sections were incu-
+facioscapulohumeralmusculardystrophy.Nat.Genet.2,26–30(1992).
+bated with 3% H2O2 in PBS for 5min, and washed twice with
+5. Lemmers,R.J.L.F.etal.Facioscapulohumeralmusculardystrophyisuniquely
+PBS, 5min each. Sections were blocked with 3% BSA (Sigma), associatedwithoneofthetwovariantsofthe4qsubtelomere.Nat.Genet.32,
+then incubated overnight at 4°C with primary antibodies: RFP 235–236(2002).
+(rabbit 1:500, ab62341 Abcam) and Pax3 (mouse 1:100, 6. Lemmers, R. J. L. F. et al. A unifying genetic model for facioscapulohumeral
+MAB2457R&Dsystems).Thenextday,cryosectionswererinsed musculardystrophy.Science329,1650–1653(2010).
+with PBS and incubated with Alexa Fluor (Thermo Fisher 7. Gabriëls,J.etal.NucleotidesequenceofthepartiallydeletedD4Z4locusina
+Scientiﬁc) secondary antibodies and DAPI (Santa Cruz) for 1h patientwithFSHDidentiﬁesaputativegenewithineach3.3kbelement.Gene
+236,25–32(1999).
+atRT.AfterthreePBSwashes,sectionsweredriedandmounted
+8. Lee,J.K.etal.CrystalstructureofthedoublehomeodomainofDUX4incomplex
+with Prolong Gold with DAPI (Invitrogen)64. withDNA.CellRep.25,2955.e3–2962.e3(2018).
+9. Snider, L. et al. Facioscapulohumeral dystrophy: incomplete suppression of a
+H&EandMasson’strichrome staining retrotransposedgene.PLoSGenet.6,e1001181(2010).
+10. Yao,Z.etal.DUX4-inducedgeneexpressionisthemajormolecularsignaturein
+H&E staining was performed using the SelecTech kit (Leica
+FSHDskeletalmuscle.Hum.Mol.Genet.23,5342–5352(2014).
+Biosystems). Masson’s trichrome staining was utilized to detect
+11. DeIaco,A.etal.DUX-familytranscriptionfactorsregulatezygoticgenomeacti-
+collagen content (Masson’s Trichrome Stain Kit, 25088 Poly- vationinplacentalmammals.Nat.Genet.49,941–945(2017).
+sciences, Inc.). Image processing and quantiﬁcation were per- 12. Hendrickson,P.G.etal.ConservedrolesofmouseDUXandhumanDUX4in
+formedwithFijisoftwareusingthecompletemusclesection.The activatingcleavage-stagegenesandMERVL/HERVLretrotransposons.Nat.Genet.
+areaofcollagendepositionwasreportedasthetotalsectionarea. 49,925–934(2017).
+13. Whiddon,J.L.,Langford,A.T.,Wong,C.-J.,Zhong,J.W.&Tapscott,S.J.Con-
+servation and innovation in the DUX4-family gene network. Nat. Genet. 49,
+Insituforce measurementassay 935–940(2017).
+MeasurementsofTAmuscleforcewereperformedusinga3-in- 14. Chen, Z. & Zhang, Y. Loss of DUX causes minor defects in zygotic genome
+1 animal system (Aurora Scientiﬁc). Mice were maintained activationandiscompatiblewithmousedevelopment.Nat.Genet.51,947–951
+anesthetized with isoﬂurane TA muscle was exposed, the knee (2019).
+stabilizedwithakneepinandclamp,andtheTAdistaltendon 15. Guo, M. et al. Precise temporal regulation of Dux is important for embryo
+development.CellRes.29,956–959(2019).
+wascutandconnectedtotheforcetransducerwithasilkloop.
+16. Bosnakovski, D., Gearhart, M. D., Ho Choi, S. & Kyba, M. Dux facilitates post-
+Electrodes were positioned under the TA. The optimal length
+implantationdevelopment,butisnotessentialforzygoticgenomeactivation.
+(L0) was determined using a series of rectangular unipolar Biol.Reprod.104,83–93(2021).
+pulses of 0.2ms at different muscle base tensions to stimulate 17. Kowaljow,V.etal.TheDUX4geneattheFSHD1Alocusencodesapro-apoptotic
+the TA muscles. Then, the maximal tetanic force (F ) was protein.Neuromuscul.Disord.17,611–623(2007).
+0
+PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute npjRegenerativeMedicine(2022)   43 
+
+NEW PAGE
+
+K.Azzagetal.
+10
+18. Bosnakovski,D.etal.AnisogeneticmyoblastexpressionscreenidentiﬁesDUX4- 48. Azzag,K.etal.Efﬁcientengraftmentofpluripotentstemcell-derivedmyogenic
+mediatedFSHD-associatedmolecularpathologies.EMBOJ.27,2766–2779(2008). progenitorsinanovelimmunodeﬁcientmousemodeloflimbgirdlemuscular
+19. Wallace,L.M.etal.DUX4,acandidategeneforfacioscapulohumeralmuscular dystrophy2I.Skelet.Muscle10,10(2020).
+dystrophy,causesp53-dependentmyopathyinvivo.Ann.Neurol.69,540–552 49. Dhoke, N. R. et al. A universal gene correction approach for FKRP-associated
+(2011). dystroglycanopathies to enable autologous cell therapy. Cell Rep. 36, 109360
+20. Krom,Y.D.etal.IntrinsicepigeneticregulationoftheD4Z4macrosatelliterepeat (2021).
+inatransgenicmousemodelforFSHD.PLoSGenet.9,e1003415(2013). 50. Bosnakovski,D.etal.TranscriptionalandcytopathologicalhallmarksofFSHDin
+21. Dandapat, A. et al. Dominant lethal pathologies in male mice engineered to chronicDUX4-expressingmice.J.Clin.Investig.130,2465–2477(2020).
+containanX-linkedDUX4transgene.CellRep.8,1484–1496(2014). 51. Sacco, A., Doyonnas, R., Kraft, P., Vitorovic, S. & Blau, H. M. Self-renewal and
+22. Bosnakovski,D.etal.MusclepathologyfromstochasticlowlevelDUX4expres- expansionofsingletransplantedmusclestemcells.Nature456,502–506(2008).
+sioninanFSHDmousemodel.Nat.Commun.8,550(2017). 52. Messina,G.etal.Skeletalmuscledifferentiationofembryonicmesoangioblasts
+23. Jones, T. & Jones, P. L. A cre-inducible DUX4 transgenic mouse model for requiresPax3activity.StemCells27,157–164(2009).
+investigatingfacioscapulohumeralmusculardystrophy.PLoSONE13,e0192657 53. Meng,J.,Bencze,M.,Asfahani,R.,Muntoni,F.&Morgan,J.E.Theeffectofthe
+(2018). muscleenvironmentontheregenerativecapacityofhumanskeletalmusclestem
+24. Giesige,C.R.etal.AAV-mediatedfollistatingenetherapyimprovesfunctional cells.Skelet.Muscle5,11(2015).
+outcomesintheTIC-DUX4mousemodelofFSHD.JCIInsight3,e123538(2018). 54. Incitti,T.etal.Pluripotentstemcell-derivedmyogenicprogenitorsremodeltheir
+25. Bosnakovski, D. et al. A novel P300 inhibitor reverses DUX4-mediated global molecular signature upon in vivo engraftment. Proc. Natl Acad. Sci. USA 116,
+histoneH3hyperacetylation,targetgeneexpression,andcelldeath.Sci.Adv.5, 4346–4351(2019).
+eaaw7781(2019). 55. Jackson,K.A.,Snyder,D.S.&Goodell,M.A.Skeletalmuscleﬁber‐speciﬁcgreen
+26. Le Gall,L., Sidlauskaite, E.,Mariot, V.&Dumonceaux,J.Therapeuticstrategies autoﬂuorescence: potential for stem cell engraftment artifacts. Stem Cells 22,
+targetingDUX4inFSHD.J.Clin.Med.9,2886(2020). 180–187(2004).
+27. Oliva,J. etal.Clinicallyadvancedp38inhibitorssuppressDUX4expression in 56. Bengtsen,M.etal.Comparingtheepigeneticlandscapeinmyonucleipuriﬁed
+cellular and animal models of facioscapulohumeral muscular dystrophy. J. withaPCM1antibodyfromafast/glycolyticandaslow/oxidativemuscle.PLoS
+Pharmacol.Exp.Ther.370,219–230(2019). Genet.17,e1009907(2021).
+28. Vanderplanck,C.etal.TheFSHDatrophicmyotubephenotypeiscausedbyDUX4 57. Winje, I. M. et al. Speciﬁc labelling of myonuclei by an antibody against
+expression.PLoSONE6,e26820(2011). pericentriolarmaterial1onskeletalmuscletissuesections.ActaPhysiol.223,
+29. Wallace, L. M. et al. RNA interference inhibits DUX4-induced muscle toxicity e13034(2018).
+in vivo: implications for a targeted FSHD therapy. Mol. Ther. 20, 1417–1423 58. Gabellini, D. et al. Facioscapulohumeral muscular dystrophy in mice over-
+(2012). expressingFRG1.Nature439,973–977(2006).
+30. Marsollier,A.-C.etal.Antisensetargetingof3′endelementsinvolvedinDUX4 59. Darabi, R. et al. Engraftment of embryonic stem cell-derived myogenic pro-
+mRNA processing is an efﬁcient therapeutic strategy for facioscapulohumeral genitorsinadominantmodelofmusculardystrophy.Exp.Neurol.220,212–216
+dystrophy: a new gene-silencing approach. Hum. Mol. Genet. 25, 1468–1478 (2009).
+(2016). 60. Mankodi,A.MyotonicdystrophyintransgenicmiceexpressinganexpandedCUG
+31. Chen,J.C.etal.Morpholino-mediatedknockdownofDUX4towardfaciosca- repeat.Science289,1769–1772(2000).
+pulohumeral muscular dystrophy therapeutics. Mol. Ther. 24, 1405–1411 61. Mondragon-Gonzalez,R.,Azzag,K.,Selvaraj,S.,Yamamoto,A.&Perlingeiro,R.C.
+(2016). R.TransplantationstudiesrevealinternucleartransferoftoxicRNAinengrafted
+32. Ansseau,E.etal.AntisenseoligonucleotidesusedtotargettheDUX4mRNAas musclesofmyotonicdystrophy1mice.EBioMedicine47,553–562(2019).
+therapeutic approaches in faciosscapulohumeral muscular dystrophy (FSHD). 62. Magli, A. et al. Time-dependent Pax3-mediated chromatin remodeling and
+Genes8,93(2017). cooperation with Six4 and Tead2 specify the skeletal myogenic lineage in
+33. Wallace,L.M.etal.Pre-clinicalsafetyandoff-targetstudiestosupporttranslation developingmesoderm.PLoSBiol.17,e3000153(2019).
+ofAAV-mediatedRNAitherapyforFSHD.Mol.Ther.MethodsClin.Dev.8,121–130 63. Muzumdar, M. D., Tasic, B., Miyamichi, K., Li, L. & Luo, L. A global double-
+(2018). ﬂuorescentCrereportermouse.Genesis45,593–605(2007).
+34. Lim,K.R.Q.etal.InhibitionofDUX4expressionwithantisenseLNAgapmersasa 64. Arpke,R.W.etal.Preservationofsatellitecellnumberandregenerativepotential
+therapyforfacioscapulohumeralmusculardystrophy.Proc.Natl Acad.Sci. USA withagerevealslocomotorymusclebias.Skelet.Muscle11,22(2021).
+117,16509–16515(2020). 65. Wu,J.,Matthias,N.,Bhalla,S.&Darabi,R.Evaluationofthetherapeuticpotential
+35. Derenne,A.etal.Inductionofalocalmusculardystrophyusingelectroporation ofhumaniPSCsinamurinemodelofVML.Mol.Ther.29,121–131(2021).
+invivo:aneasytoolforscreeningtherapeutics.Sci.Rep.10,11301(2020).
+36. Tsumagari, K. et al. Epigenetics of a tandem DNA repeat: chromatin DNaseI
+sensitivityandoppositemethylationchangesincancers.NucleicAcidsRes.36,
+ACKNOWLEDGEMENTS
+2196–2207(2008).
+37. Ciszewski, L. et al. G-quadruplex ligands mediate downregulation of DUX4 ThisprojectwassupportedbyfundsfromtheFSHDSociety(FSHS-22018-01),theDr.
+expression.NucleicAcidsRes.48,4179–4194(2020). Bob and Jean Smith Foundation, and NIH-NIAMS, grants R01 AR071439 and
+38. Choi, S. H. etal. DUX4 recruits p300/CBP through its C-terminus and induces AR078571(R.C.R.P.)andAR055685(M.K.).D.B.waspartlysupportedbytheFriendsof
+globalH3K27acetylationchanges.NucleicAcidsRes.44,5161–5173(2016). FSHResearch.WethankRobertGrange(VirginiaTech)andRadbodDarabi(UTHealth
+39. Huard,J.etal.Humanmyoblasttransplantation:preliminaryresultsof4cases. ScienceCenter)forguidancewiththeinsituforcemeasurements,MarkSandersand
+MuscleNerve15,550–560(1992). YungKim(UniversityofMinnesota)forassistancewiththeconfocalimaging,Bryce
+40. Mendell,J.R.etal.MyoblasttransferinthetreatmentofDuchenne’smuscular Binstadt (University of Minnesota) for the mTmG mice, and Cynthia Faraday for
+dystrophy.N.Engl.J.Med.333,832–838(1995). graphical design. The monoclonal antibody to MHC was obtained from the
+41. Darabi, R. et al. Functional skeletal muscle regeneration from differentiating
+Developmental Studies Hybridoma Bank developed under the auspices of the
+embryonicstemcells.Nat.Med.14,134–143(2008).
+NICHDandmaintainedbytheUniversityofIowa.
+42. Filareto,A.EngraftmentofES-derivedmyogenicprogenitorsinaseveremouse
+modelofmusculardystrophy.J.StemCellRes.Ther.01,S10-001(2012).
+43. Darabi,R.etal.HumanES-andiPS-derivedmyogenicprogenitorsrestoreDYS-
+TROPHINandimprovecontractilityupontransplantationindystrophicmice.Cell AUTHORCONTRIBUTIONS
+StemCell10,610–619(2012). K.A. designed and performed experiments, analyzed the data, and wrote the
+44. Filareto,A.etal.Anexvivogenetherapyapproachtotreatmusculardystrophy
+manuscript; D.B. designed and performed experiments and contributed to data
+usinginduciblepluripotentstemcells.Nat.Commun.4,1549(2013).
+analysis.S.T.andP.S.performedexperimentsandanalyzedthedata.M.K.contributed
+45. Hicks,M.R.etal.ERBB3andNGFRmarkadistinctskeletalmuscleprogenitorcell
+withexperimentaldesign,interpretationofthedata,andwritingofthemanuscript.
+inhumandevelopmentandhPSCs.Nat.CellBiol.20,46–57(2018).
+R.C.R.P.contributedtotheexperimentaldesignandinterpretationofthedataand
+46. Tedesco,F.S.etal.TransplantationofgeneticallycorrectedhumaniPSC-derived
+wrotethemanuscript.
+progenitors in mice with limb-girdle muscular dystrophy. Sci. Transl. Med. 4,
+140ra89(2012).
+47. Selvaraj, S. et al. Gene correction of LGMD2A patient-speciﬁc iPSCs for the
+development of targeted autologous cell therapy. Mol. Ther. 27, 2147–2157 COMPETINGINTERESTS
+(2019).
+Theauthorsdeclarenocompetinginterests.
+npjRegenerativeMedicine(2022)   43  PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute
+
+NEW PAGE
+
+K.Azzagetal.
+11
+ADDITIONAL INFORMATION Open Access This article is licensed under a Creative Commons
+Supplementary information The online version contains supplementary material Attribution 4.0 International License, which permits use, sharing,
+availableathttps://doi.org/10.1038/s41536-022-00249-0. adaptation,distributionandreproductioninanymediumorformat,aslongasyougive
+appropriatecredittotheoriginalauthor(s)andthesource,providealinktotheCreative
+Correspondence and requests for materials should be addressed to Rita C. R. Commonslicense,andindicateifchangesweremade.Theimagesorotherthirdparty
+Perlingeiro. materialinthisarticleareincludedinthearticle’sCreativeCommonslicense,unless
+indicatedotherwiseinacreditlinetothematerial.Ifmaterialisnotincludedinthe
+Reprints and permission information is available at http://www.nature.com/ article’sCreativeCommonslicenseandyourintendeduseisnotpermittedbystatutory
+reprints regulationorexceedsthepermitteduse,youwillneedtoobtainpermissiondirectly
+from the copyright holder. To view a copy of this license, visit http://
+Publisher’snoteSpringerNatureremainsneutralwithregardtojurisdictionalclaims creativecommons.org/licenses/by/4.0/.
+inpublishedmapsandinstitutionalafﬁliations.
+©TheAuthor(s)2022
+PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute npjRegenerativeMedicine(2022)   43 
+
+NEW PAGE

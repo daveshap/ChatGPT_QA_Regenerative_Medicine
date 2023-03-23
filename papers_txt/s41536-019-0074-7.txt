@@ -1,0 +1,774 @@
+www.nature.com/npjregenmed
+REVIEW ARTICLE OPEN
+Emerging therapies for cartilage regeneration in currently
+‘ ’
+excluded red knee populations
+AnthonyR.Martín1,2,JayM. Patel1,2, Hannah M.Zlotnick1,2,3, JamesL. Carey1and Robert L.Mauck1,2,3
+Theﬁeldof articular cartilage repair hasmade signiﬁcantadvances inrecent decades; yet currenttherapies are generally not
+evaluatedortested,atthetimeofpivotaltrial,inpatientswithavarietyofcommoncomorbidities.Tothatend,wesystematically
+reviewedcartilage repair clinicaltrials toidentify common exclusioncriteria and reviewedtheliterature to identify emerging
+regenerativeapproachesthatarepoisedtoovercomethesecurrentexclusioncriteria.Theterm“kneecartilagerepair”wassearched
+onclinicaltrials.gov. Ofthe60 trialsidentiﬁed on initial search,33were further examinedtoextract exclusion criteria. Criteria
+excludedbymorethanhalfofthetrialswereidentiﬁedinordertofocusdiscussiononemergingregenerativestrategiesthatmight
+addresstheseconcerns.Thesecriteriaincludedage(<18or>55yearsold),smalldefects(<1cm2),largedefects(>8cm2),multiple
+defect(>2lesions),BMI>35,meniscectomy(>50%),bilateralkneepathology,ligamentousinstability,arthritis,malalignment,prior
+repair, kissing lesions,neurologic disease of lower extremities,inﬂammation,infection, endocrine or metabolic disease,drug or
+alcoholabuse, pregnancy, andhistory of cancer.Finally, wedescribe emergingtissue engineeringand regenerativeapproaches
+thatmight foster cartilage repair inthese challenging environments. Theidentiﬁed criteria exclude a majority oftheaffected
+populationfromtreatment,andthusgreaterfocusmustbeplacedontheseemergingcartilageregenerationtechniquestotreat
+patientswith thechallenging “red knee”.
+npjRegenerative Medicine            (2019) 4:12 ;https://doi.org/10.1038/s41536-019-0074-7
+INTRODUCTION where healthy cartilage cells are harvested from the patient,
+Articular cartilage injuries pose a signiﬁcant clinical challenge in expanded, seeded in a collagen matrix, and then re-implanted
+orthopaedics. The high prevalence of injury and lack of intrinsic intothecartilagedefect.AMIC,ontheotherhand,isasingle-stage
+tissue healing capacity leave a relatively young and healthy procedure where a cell-free collagen matrix is implanted into a
+cartilage defect in combination with microfracture. These treat-
+population on the path to degenerative osteoarthritis (OA)
+without intervention.1 Arthroscopic procedures reveal the pre- ments have demonstrated improved outcomes compared to
+sence of chondral lesions in greater than 60% of patients,2,3 and traditional techniques (chondroplasty/microfracture); however,
+they are mostly restricted in their application and evaluation to
+yearly incidence rates of chondral lesions nearly tripled between
+1996and2011.4Themostcommonarthroscopicinterventionfor asmallfractionofthepatientpopulationwithnear-idealsurgical
+conditions.1 This sub-population of patients (with “green knees”)
+chondralinjuriesischondroplasty,orremovaloftheloosepieces
+presents the highest probability of successful resolution of
+ofcartilage.Whilethisprovidesshort-termsymptomaticrelief,the
+symptomsfollowingintervention,andsoaremostoftenincluded
+remaining cartilage is more susceptible to wear and accelerated
+ininitialclinicaltrials.Thesepatientsaredifferentiatedfromthose
+degeneration. Another common intervention is microfracture, having “red knees”, whose cartilage pathologies are more severe
+which involves penetrating the subchondral bone to allow bone
+orwhoseco-morbiditiesprecludethemfromthesecartilagerepair
+marrowtoﬁllthedefect.Thisapproachresultsintheformationof procedures.8This“redknee”cohortistypicallyonlyleftwithshort-
+mechanically-inferiorﬁbrocartilagetissue.5,6Mosaicplasty,typically
+termpalliative treatmentoptions, such asoralnon-steroidal anti-
+osteochondral autologous transplantation (OATs), is an open inﬂammatory drugs (NSAIDs) or intra-articular injections of
+procedure where osteochondral plugs are harvested from non- corticosteroids or hyaluronic acid. While these treatments do
+weight bearing areas and transferred into the defect. However, providetemporaryinﬂammationandpainrelief,bioactivefactors
+this transplanted cartilage can cause donor site morbidity, does reside in the joint for <2 months, necessitating frequent
+notintegratewellwiththeexistingcartilage,andhasbeenshown injections.9 Lacking available options for long-term repair and/or
+todegenerateover thelongterm.7 regeneration, these “red knee” patients are often neglected and
+More modern cartilage regeneration approaches include auto- almostcertainly destined fortotal joint replacement.
+logouschondrocyteimplantation(ACI)andnowmatrix-associated To address this topic in a systematic fashion, this review ﬁrst
+autologous chondrocyte implantation (MACI), as well as auto- analyzesthediseaseburdenofarticularcartilageinjuries,focusing
+logous matrix-induced chondrogenesis (AMIC). MACI is a two- on those currently deemed treatable by repair and restoration
+stageprocedure(andanadvanceontheoriginalACIprocedure), procedures. Next, we examine clinical trial exclusion criteria for
+1McKay Orthopaedic Research Laboratory, Department of Orthopaedic Surgery, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA 19104, USA;
+2TranslationalMusculoskeletalResearchCenter,CorporalMichaelJ.CrescenzVeteransAffairsMedicalCenter,Philadelphia,PA19104,USAand3DepartmentofBioengineering,
+SchoolofEngineeringandAppliedScience,UniversityofPennsylvania,Philadelphia,PA19104,USA
+Correspondence:RobertL.Mauck(lemauck@pennmedicine.upenn.edu)
+Received:3September2018Accepted:29April2019
+PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute
+
+NEW PAGE
+
+A.R.Martínetal.
+2
+cartilage lesion characteristics and patient co-morbidities that the same cartilage lesion and the need for a total joint
+identifya“redknee”whichiscontra-indicatedfortreatmentusing replacement early in life and a subsequent revision TKA. This
+currenttechnologies.Patientattributesthatresultinexclusionby couldcircumventthework-timelostfromOAdebilitationorpost-
+>50%oftrialsareusedtoinformthetopics/conditionsthatshould surgery rehabilitation. The improvement of cartilage restoration
+be addressed in regenerative strategies addressing a broader technologies and techniques may result in shorter operative
+patient population. We then highlight recent advances in pre- times, quicker patient recoveries, and perhaps diminished
+clinical and translational regenerative technologies that may requirement for a preliminary cartilage harvest procedure, all
+address these challenges in cartilage restoration, and identify leading to lower overall costs. Broadening the applicability of
+areas withthemost pressing needforcontinued development. these restorative procedures and scaling up the industry of
+cartilage therapies would only serve to further reduce manufac-
+turingcosts,andultimately,theﬁnancialburdenonbothpatients
+DISEASE BURDENANDTREATMENT TRENDS andproviders.
+Cartilage injuries are extremely common, and lesions are often
+present in asymptomatic patients. For instance, Curl et al.2
+reported that 63% (19,827/31,516) of knee arthroscopies for any DEFININGTHE“REDKNEE”
+indicationidentiﬁedchondrallesions,32%ofwhichhadexposed Severalstudieshaveshownimprovedoutcomeswhencomparing
+bone, categorizing them as grade IV on the Outerbridge scale. ACI, MACI, and AMIC to microfracture.14–18 However, these
+Widuchowski et al.3 supported this high prevalence, reporting advanced restorative techniques still present increased failure
+chondrallesionsin15,074of25,124arthroscopies(60%).Ofthese, rates in knees with common comorbidities (larger lesion size,
+9%ofpatientshadGradeIIIorIVchondrallesionsandwereunder “kissing lesions” on opposing articular surfaces, and pre-existing
+50yearsold,meetingconservativeindicationsforcartilagerepair arthritic changes).19 One study evaluating MACI with long-term
+surgery. In both studies, the authors found that concomitant follow-up (5–12 years) found failure rates of 18.2 and 87.5% in
+ligamentousormeniscalpathologywaspresentin~70%ofcases, complex and salvage cases, respectively, compared to a failure
+corresponding to the high prevalence of traumatic etiology in rate of only 4.3% in less complex cases.20 Similarly, Filardo and
+1234567890():,; tgfgrhrroeoomswuepin2spg2aa/,n1twid0ei0ntsh,te0sx0t.he0Tseh.ianTenhn1ed9uips9aee6laricsnteeocnidbt6euo1nr/fdc1cee0an0ort,f0iol0cafa0grectiainlirantgji2luea0rgi1iene1sj,uitnrariecjeuarsortieisendsscrraieasllansagailnegsdgoe cacdoouflrrlaraeeitalluiagortuneee,dsrlaafrtwogeueitnorhdfle2tdshi7eoa.g3nte%MsniezAaerCta,Ito9itvl-rdeyeeearatlmerasgefiooennl,tloaiwnnod-rouigspptiren.2ioo,1raTlrkotrnhneeragiettemicrseuknsrngytemeefraspyi.tlh2ou2amrde
+These case reports and series suggest optimal conditions for
+from13.8to 22.1% duringthis time period, yet only 1%of these
+repair(i.e.,‘greenknees’),andconditionsinwhichrepairislikelyto
+repair procedures involved advanced techniques such as chon-
+drocyte transplantation.4 be unsuccessful (i.e., ‘red knees’). This is often due to circum-
+stances other than the cartilage defect or procedure itself. These
+Anotherstudybasedon25millionprivatelyinsuredpatientsin
+conceptshaveinﬂuencedthemannerinwhichnewtechnologies
+theUnitedStatesfoundthattheyearlyincidencerateofcartilage
+areevaluatedinclinicaltrials,whereconditionsmostconduciveto
+repairsurgeryincreasedfrom63/100,000in2006to93/100,000in
+asuccessfultherapy(i.e.,‘greenknees’)areselectedforinitialtrials
+2011. In 2011, 70% of the procedures involved chondroplasty in humans. To better understand these factors deﬁning the ‘red
+(smoothing the defect by removing loose strands of cartilage), knee’, we conducted a systematic review of exclusion and
+28% involved microfracture or subchondral drilling (techniques
+inclusion criteria for cartilage restoration clinical trials on
+usedtoreleasemarrowelements),andonly2%involvedtheuse “clinicaltrials.gov” using the search term “knee cartilage repair”
+of advanced cartilage restoration techniques (osteochondral
+on1January2019.Studiesthathadbeensuspended,terminated,
+autograft transfer, ACI).10 In contrast, primary total knee arthro-
+orwithdrawn,aswellasstudiesofunknownstatus,wereexcluded
+plasty (TKA) had an incidence rate of 429/100,000,11 and recent
+from the search, leaving 60 studies for review. Follow-up studies
+projectionsestimatean85%increaseinTKAsby2030.12Thelarge
+and studies using only intra-articular injections were excluded to
+disparitybetweentheincidenceofTKAandthatofcartilagerepair focus on new cartilage restoration procedures. This yielded 33
+surgeries (Fig. 1) suggests a pressing need for more advanced clinical trials (Supplemental Table) that were used to extract
+cartilagerepairtechnologiesthatmightobviatetheneedforTKA inclusion and exclusion criteria for tabulation (Supplemental
+and control the high socio-economic burden of end-stage knee Methods).Commonexclusioncriteriaareillustratedschematically
+arthritis. inFig.2.
+Cartilage restoration procedures may also provide ﬁnancial Patient age was the most common exclusion criteria used in
+beneﬁts for both patients and healthcare systems. A recent cost- trials,withoverhalfthetrialsexcludingpatientsovertheageof55
+beneﬁtanalysiswithatleast5-yearfollow-upestimatedthedirect orundertheageof18(Fig.3a).Thenumberofchondrocytesand
+plusindirectcostsofACItobe$16,781,nearly20%lessthanthat bone marrow-derived MSCs, as well as their proliferative and
+of TKA ($20,568).13 Future savings provided by ACI could include matrix forming potential, may decline in adulthood.23–25 This
+avoiding multiple debridement and microfracture procedures on mightlimitthehealingcapacityofcartilageinolderpatients,and
+thus is a common exclusion criterion. The lower limit of patient
+ageexclusionrelatestothelegalageofadultscapableofsigning
+informed consent to participate in the trial in the United States.
+TrialsinEuropeweremorelikelytoincludepatientsinthe14–17
+agerange.
+Lesionsizewasanothercommonexclusioncriterion,with58%
+ofclinicaltrialsexcludinglesionsthatwere>8cm2insize(Fig.3b).
+Similarly, patients with more than two lesions were excluded by
+64% of trials, and patients with signs of joint-wide OA were
+excludedby 79%of trials.Joints requiringalargesurfaceareaof
+Fig.1 Yearlyincidencerateofprimarytotalkneereplacement11and cartilage restoration are challenging for a number of reasons,
+cartilage surgeries including chondroplasty, microfracture, and including mechanical demands, graft ﬁxation, and the large
+restoration (ACI, MACI, AMIC).10 Data presented as incidence per number of cells required for transplantation (in cell based
+100,000persons therapies). Interestingly, lesions <1cm2 were also excluded by
+npjRegenerativeMedicine(2019)   12  PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute
+
+NEW PAGE
+
+A.R.Martínetal.
+3
+capacity,increasedinﬂammation,andmaynotadheretothestrict
+post-operative recovery protocol common to these trials.43–46
+Other notable conditions frequently excluded were a history of
+cancer within 5 years (52%), immunocompromised state (45%),
+andvascular disease ofthelower extremity (42%).
+Thesystematicanalysisfoundthatcartilagelesionscomplicated
+bylimitedprogenitorcellactivityandhealingcapacity,largesize,
+high mechanical demands, local and systemic inﬂammation, or
+othersystemicdiseasesareoftenexcludedfromtreatment,likely
+due to complications and poor outcomes after cartilage restora-
+tion procedures in this context. Whilethese exclusion criteria are
+reasonable when ﬁrst evaluating a new technology, their
+prevalence in the general population who might beneﬁt from
+regenerativecartilageproceduresisevidentbythelargenumber
+of patients who progress to total joint replacement. If these
+contraindicationscouldbemediatedbyimprovementsincartilage
+therapeutics, then the number of persons beneﬁting from these
+technologies would be dramatically increased. We identiﬁed
+several exclusion criteria that were used in over 50% of the
+surveyed clinical trials (Fig. 3—black bars). The following section
+focusesonemergingpre-clinicalandtranslationalresearchtrends
+early in development in the ﬁeld of cartilage tissue engineering
+and regenerative medicine, with a focus on developing technol-
+ogies that may address these exclusion criteria and broaden the
+Fig.2 Illustrationofcommonexclusioncriteriathatdeﬁnethe“red
+patient population indicated for treatment with advanced
+knee”
+cartilage repairtherapies.
+over 50% of trials, likely due to satisfactory outcomes in small
+lesions treated by microfracture.26 Of note, 64% of trials also ADVANCESINCARTILAGE TISSUE ENGINEERINGAND
+excluded lesions that had been previously treated with either REGENERATIVETHERAPEUTICS—TREATINGTHE “RED KNEE”
+microfracture or cartilage graft, and 55% of trials excluded bone Agingisasigniﬁcantconcernintheﬁeldofcartilageregeneration
+lesions>7mmindepth.Theselesionsmightbeexpectedtohave duetoitsdeleteriouseffectsonstemcelldensityandactivity,and
+progressive cartilage wearing and/or subchondral bone damage the increase in cellular senescence with age.47,48 Cellular
+that could limit the repair and integration capacity of revision senescence can affect the differentiation potential, immunomo-
+tissue engineering therapies applied to the same location, a dulatoryabilities,andmigratorycapabilitiesofbothstemcellsand
+controversial topicintheﬁeldatpresent.22,27,28 chondrocytes. Thus, older patients with cartilage lesions may
+Another subset of exclusion criteria relates to scenarios that require additional treatment measures to enhance stem cell or
+place excessive mechanical demands on the repair tissue. Over chondrocyte availability and activity at the lesion site. The MACI
+one half of the clinical trials excluded patients with body mass technique seeks to address these concerns by expanding
+index (BMI) greater than 35, pathology on bilateral knees, autologous chondrocytes and seeding them in media designed
+neurologic disease of the lower extremities, the presence of to favor differentiation towards mature chondrocytes.49 Cell-free
+kissing lesions, ligamentous instability, joint malalignment (>5° scaffolds (AMIC) rely on the patient’s native cells to inﬁltrate the
+offset),andpriormeniscectomywith<50%ofthenativemeniscus graft during implantation, and are thus at an even higher risk of
+remaining (Fig. 3c). These comorbidities increase the risk of failure in older patients. Thus, researchers have investigated the
+excessive focal or abnormal loading and the likelihood for use of growth factors to increase cell recruitment, improve cell
+degeneration, and are unfortunately very common in the United chondrogenesis, and optimize chondrocyte populations for
+States. For example, 15.5% of adults in the US currently have a cartilage regeneration therapies. For example, stromal cell-
+BMI>35.29 Ligamentous instability and tears (incidence: 46/ derived factor 1 alpha (SDF-1α) doubled the recruitment of
+100,000 person-years30), and meniscectomies (incidence: 224/ chondrogenic progenitor cells in a hyaluronate-ﬁbrin hydrogel,
+100,00031)furthercompoundthehighriskofprogressiontoOA32 which formed hyaline cartilage when cultured in a bovine
+andincrease thelikelihoodof patient exclusion. cartilage explant model.50 Local SDF-1α release increased the
+Lastly, we identiﬁed a group of systemic comorbidities related recruitmentofsystemicallyinfusedbonemarrow-derivedMSCsby
+to overall health that were commonly used as exclusion criteria 700% in a mouse model of myocardial infarction (MI),51
+(Fig. 3d). Patients with systemic or local inﬂammatory conditions suggesting that cartilage repair scaffolds releasing SDF-1α may
+were excluded by 88% of trials. Active inﬂammatory conditions perform synergistically with MSCs from marrow recruitment or
+wouldbeexpectedtointerferewithanyrepairprocess,andcould intra-articularinjections.Similarly,transforminggrowthfactor-beta
+thus limit the efﬁcacy of tissue engineering strategies.33–36 3 (TGF-β3) released from cartilage repair scaffolds improved
+Similarly, 73% of trials excluded patients with systemic or local chondrogenesis in vitro and in large animal models.52,53
+infection.Infectioncouldbringaboutaninﬂammatoryresponseor Additional examples of bioactive factors used in pre-clinical and
+directly infect the repair tissue, compromising viability and clinical trials are included in Table 1, all of which suggest that
+functional maturation of implanted constructs.37,38 Patients with tailored growth factor delivery may improve cartilage repair in
+metabolic or endocrine conditions such as diabetes mellitus, agedpatients.
+parathyroiddisease,andchronickidneydiseasewereexcludedby Anothertechniquetoenhancetheregenerativecapacityofcells
+70% of trials. These common conditions are known to interfere istoremoveneighboringsenescentcells.ArecentstudybyJeon
+with the healing process, and would likely decrease the and colleagues showed that senescent chondrocytes accumulate
+integration and survival of implanted constructs.39–42 Similarly, around traumatic cartilage lesions and are associated with the
+patientswithahistoryofdrugoralcoholabusewereexcludedby development of arthritis; clearance of these senescent cells, via
+61% of trials. These patients would also have limited healing intra-articular injection of a senolytic molecule, attenuated the
+PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute npjRegenerativeMedicine(2019)   12 
+
+NEW PAGE
+
+A.R.Martínetal.
+4
+Fig. 3 Graphical display of the percentage of clinical trials excluding patients with regards to a age group b lesion size, c mechanical
+comorbidities,anddcommonsystemiccomorbidities.Datapresentedasapercentage,n=33studiesanalyzed.Dashedlinerepresents50%
+exclusion cutoff for deﬁning the “red knee” population. Exclusion criteria above this threshold are presented with black bars, and criteria
+belowthisthresholdarepresentedwithwhitebars.LElowerextremity;BMIbodymassindex
+development of arthritis in a mouse ACL transection model.54 TGF-β3 to recruit endogenous cells, and inclusion of this growth
+Another recent study found that rejuvenating aged MSCs with factorincreasedcellinﬁltrationintothescaffoldby130%.Another
+SRT1720, an activator of SIRT1, signiﬁcantly improved heart anatomictissueengineeringapproachbyMoutosandcolleagues
+functionandangiogenesisinaratMImodelcomparedtocontrol developed a woven PCL hemispherical scaffold 22mm in
+MSCs.55Thesepotentialtherapeuticstargetedtowardsrejuvenat- diameter,similarly shapedtothecartilage ofthefemoral head.61
+ing, optimizing, and recruiting endogenous stem cells will likely WhileMaoandcolleaguesreliedonnativecellstopopulatetheir
+increasetheefﬁcacyofcartilagetissueengineeringtechniquesin scaffold for the rabbit shoulder, Moutos and colleagues seeded
+theolderpatient population. their hemispherical scaffold with adipose-derived stem cells
+For patients with a single cartilage lesion greater than 8cm2, (ASCs). ASCs in these woven scaffolds released anti-cytokine
+multiple lesions, or joint wide cartilage degeneration, whole or factors in a sustained manner to reduce joint inﬂammation, and
+hemi-jointtissueengineeringisanattractivealternativetometal/ showed remarkable mechanical features, with tensile, compres-
+plasticjointreplacement.These‘living’implantscouldpotentially sive, and shear properties in the native tissue range.62 This
+last a lifetime, remodeling in response to applied load and approachcouldbeparticularlyusefulincasesthatalargecartilage
+continuously generating new matrix. Recent advances in three surface needs to be replaced, and there are signs of joint
+dimensional (3D) printing56 and rapid prototyping now allow inﬂammation. In a third study, Saxena and colleagues used
+researchers to produce anatomic 3D tissue engineered con- porcineµCTscanstocreatenegativeanatomicmolds.63Stemcells
+structs.57,58 Size matching between native and engineered encapsulated in a hyaluronic acid hydrogel ﬁlled the negative
+cartilage is critical to maintain joint mobility and function. mold, and the resulting tissue was cultured for up to 12 weeks
+Computer assisted design (CAD) programs can translate patient invitro,exhibitingexcellentviabilityandshaperetention.Overall,
+scans, via micro-computed tomography (μCT) or magnetic thesestudiesexemplifyhowrapidprototypingtechniquesmaybe
+resonance imaging (MRI), into personalized 3D in silico molds.59 used to generate patient-speciﬁc tissue constructs capable of
+Using layer-by-layer bioprinting, Mao and colleagues’ generated replacingexpansive cartilage surfaces.
+an entire rabbit humeral head using a poly(ɛ-caprolactone) (PCL) Other approaches to treat large-scale cartilage defects involve
+and hydroxyapatite scaffold.60 These scaffolds were infused with shape-ﬁlling chondro-inductive biomaterials. For example,
+npjRegenerativeMedicine(2019)   12  PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute
+
+NEW PAGE
+
+A.R.Martínetal.
+5
+Table1. Growthfactorsusedtoenhancecartilagerestorationproceduresinrecentpre-clinicalandclinicaltrials
+Biologic Deliverymethod Deliverymodel Results Study
+BMP-2 Oligo(poly(ethyleneglycol) Rabbitosteochondraldefect DualdeliveryofIGF-1andBMP-2hadahigher ref.132
+fumarate)(OPF)hydrogelwith proportionofsubchondralbonerepair,greater
+IGF-1inchondrallayerandBMP- bonegrowthatthedefectmargins,andlower
+2inbonylayer bonespeciﬁcsurfacethanthesingledeliveryof
+IGF-1
+BMP-7 Grapheneoxidenanoparticlesin Ratcartilagedefect Hydrogel/GO-npprotectedcartilagebythe ref.133
+collagen/chitosanhydrogel Rank/Rankl/OPGsignalpathway
+PLGAscaffoldwithBMP-7/TGF-B3 invitrohumanMSCs ControlledsupplementationofBMP-7can ref.134
+nanocomplexes improvethechondrogeniceffectofTGF-β3,and
+scaffoldsloadedwiththiscombinationof
+growthfactorscaninducecartilageformationin
+hMSCcultures
+FGF-18(Sprifermin) Intraarticularinjection Humanknee qMRIshowedincreasedcartilagethicknessina ref.135
+dose-dependentmannerinkneeOApatients
+withacceptablesafetyproﬁleat3years
+Collagenmembrane Sheepcartilagedefect Potentiatedthehealingofamicrofracture ref.136
+(Chondrogide) treatedcartilagedefectwithimprovedweight
+bearing,O’Driscollsore,andTypeIIcollagen
+staining
+IGF-1 Porouspoly(lactic-co-glycolic Rabbitproximaltibial Regenerationofcartilage,albeitwith ref.137
+acid)(PLGA)scaffold growthplate disorganizedstructure,atthesiteof
+implantationofIGF-I-releasingscaffolds;in
+contrast,onlybonewasformedinempty
+defectsandthosetreatedwithIGF-freescaffolds
+Peptidehydrogel,heparin-bound invitrobovinechondrocytes Increasedsulfatedglycosaminoglycanand ref.138
+hydroxyprolinecontentofchondrocyte-seeded
+hydrogels,Cartilageexplantsculturedadjacent
+tofunctionalizedhydrogelshadincreased
+proteoglycansynthesis
+SDF-1 Hyaluronate-ﬁbrinhydrogel Bovinecartilageexplants Improvedchondrogenicprogenitorcell ref.50
+recruitmentandintegrationstrength,
+mechanicalpropertiessimilartonative,hyaline
+histologicalmorphology
+Transducedallogenichyaline Mousesubcutaneous Activationandrecruitmentofendogenousstem ref.139
+cartilagegraft cellsinbothperipheralbloodandwithinthe
+graft,enhancedchondrogenesis
+TGF-B1 Transducedallogenic Humanknee Hyalinecartilageregenerationwithimproved ref.140
+chondrocytes(Invossa), IKDCandVASscores
+intraarticularinjection
+TGF-B3 HyaluronateorPCLnanoﬁbers Pigcartilagedefect IncreasedICRS-IIhistologyscoresandTypeII ref.52
+collagenstaining
+CollagenhydrogelinPCL/ Rabbitosteochondraldefect Recruitedroughly130%morecells,uniformly ref.60
+hydroxyapatitematrix distributedchondrocytesinamatrixwith
+collagentypeIIandaggrecan,signiﬁcantly
+greaterthickness,compressionandshear
+propertiessimilartonativecartilage
+particulated and desiccated allograft tissue, referred to as Furthermore, treating partial thickness cartilage defects with
+‘BioCartilage’,64 has been used to repair cartilage in vivo in an microfracture may compromise the healthy intact basal layer of
+equine cartilage large-defect model. A combination of BioCarti- cartilage under the defect. Recent biomaterial technologies have
+lage, microfracture, and platelet-rich plasma showed no signs of beendevelopedtoaddresssmallfullandpartial-thicknesslesions,
+synovial inﬂammation, and had superior histological scoring with an emphasis on injectable therapeutics for defect-speciﬁc
+compared to microfracture controls. Others have also utilized ﬁlling and ease of application.69,70 These injectable scaffolds
+devitalized tissue for cartilage repair, including Detamore and typically revolve around a material solution that is either photo-
+colleagues, who showed that stem cells, in the presence of polymerized71,72 or chemically cross-linked,73–75 allowing it to
+devitalizedcartilagemicroparticles,producedmechanicallyrobust completely ﬁll a defect before solidifying. Combining these
+cartilage tissue.65 Taken together, there has been continued scaffold-based injectable formulations with stem cells can also
+progress in the ﬁeld of large-scale cartilage repair, with multiple improve the treatment of small focal cartilage injuries. Since cell
+approaches now being tested in clinically relevant large animal migration from neighboring cartilage into these small partial-
+models. Table 2 provides examples of the various fabrication thickness defects is limited,76 encapsulating cells within the
+methods discussed. These approaches have the potential to injected matrix77,78 may initiate remodeling and extracellular
+address patients with large lesions that are often excluded from matrix (ECM) formation immediately, facilitating and improving
+cartilage repair trials. cartilage regeneration.
+Cartilage restoration procedures have typically avoided small- An array of exclusion criteria (BMI>35, partial meniscectomy,
+size defects (<1cm2), likely due to relatively positive outcomes ligamentous instability, malalignment) are related to mechanical
+with microfracture in defects of this size.66,67 However, the comorbidities that current treatments do not address. Due to
+ﬁbrocartilage that forms in these defects is still susceptible to these mechanical circumstances, the cartilage in these knees is
+long-term degeneration due to its mechanical insufﬁciency.6,68 subject to complex stresses that are signiﬁcantly greater in
+PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute npjRegenerativeMedicine(2019)   12 
+
+NEW PAGE
+
+A.R.Martínetal.
+6
+Table2. Fabricationmethodsforlargecartilagetissueengineeringandregenerationtherapiesinpre-clinicalandtranslationalstages
+FabricationMethod Example Strengths Weaknesses Study
+Molds MicroCTandMRIscansusedtocreatecustom (cid:129)Retainednativeshapethrough8weeksofculture (cid:129)Equilibriummodulushalfof ref.57
+injectionmoldsforanatomicalovinemeniscal (cid:129)GAG,Collagen,andModulusincreasedwithtime nativeat8weeks
+cell-seededalginatemeniscus inculture (cid:129)Heterogeneousmatrix
+accumulationincenterof
+constructs
+MicroCTscansusedtocreatecustommoldsfor (cid:129)Retainednativeshapethrough12weeksofculture (cid:129)Decreasedmodulusandcell ref.63
+anatomicalporcineMSC-seededhyaluronate (cid:129)GAGanddynamic/equilibriummodulus viabilityatcenterofconstructs
+hydrogelfemoralheadcartilage increasedwithculturetime (cid:129)Integrationtosubchondral
+bonenotaddressed
+3DBio-Printing Extrusionbioprintingofbiphasicalginate (cid:129)Distinctivecartilage-likeandbone-liketissue (cid:129)Maxcompressivemodulus ref.141
+hydrogelswithhumanchondrocytesandMSCs formationseeninrespectivecompartments ~15kPa
+forosteochondralrepair after3weeksinvitroand6weekssubcutaneous (cid:129)Limitedprintingheight
+inimmunodeﬁcientmice achieved
+Melt-electrospinningwritingofPCLscaffolds (cid:129)Maxcompressivemodulusof400kPawith7%PCL (cid:129)Cellviability<80%after7days ref.80
+infusedwithgelatin-methacryloylhydrogel ﬁbersbyvolume,stressstraincurvesimilartocartilage inculture
+encapsulatinghumanchondrocytes (cid:129)IncreasedaggrecanandCOL1A1mRNAin (cid:129)Nodifferencesinproteinwith
+compressedconstructs compression
+Woven WovenPCLhemisphericalscaffoldsembedded (cid:129)Uniformtissuegrowth,cartilagebiomimetic (cid:129)Slowscaffoldresorptiontime ref.61
+withIL-1Ralentiviralvectorandseededwith properties,maintainedanatomyafter28dculture (cid:129)Highpolymervolume
+humanadipose-derivedstemcells (cid:129)RobustexpressionofIL-1RapreventedMMPactivity occupancy
+(cid:129)Aggregatecompressivemodulus~1000kPa
+Wovenalignedcollagenthreadsforming (cid:129)Maxcompressivemodulusof1330kPaafter28d (cid:129)Poorintegrationofpelletwith ref.142
+interdigitatedarcadestructurewithmacropores culture,similartohumancartilage collagenthreads
+ﬁlledwithMSCpellets,sandwichedbetween2 (cid:129)Excellentfatigueresistanceandelasticrecoil (cid:129)Weavepatternblockslateral
+collagensheets,crosslinked (cid:129)IncreasedGAGsandCOLIIcontentwithculturetime fusionofpellets
+Modular BioCartilage(Arthrex)dessiccatedparticulated (cid:129)Improvedcartilagerepairhistologyscorescompared (cid:129)Distallesionsshowedno ref.64
+cartilageallografthydratedwithPRPand tomicrofracturecontrolsinanequinecartilagedefect improvement
+loadedintodefectfollowingmicrofracture (cid:129)Arthroscopicadministration,13monthinvivoresults (cid:129)Sclerosisinalldefects
+Modularengineeredtissuesurfaceswithself- (cid:129)Robustbondbetweenmodulesby21daysinculture, (cid:129)Fibroustissueatmodulebonds ref.143
+adhesionof4mmagarosegelcylinderswith 3Dtopographymaintained (cid:129)Equilibriummodulus
+juvenilebovinechondrocytesframedina (cid:129)CompressivemodulusandGAGcontentincreasewith ~40–60kPa
+customtibialplateaubasket culturetime
+(cid:129)Nonegativeimpactswithincreasedtotalsize
+magnitudethanthosethehealthy“green”kneewouldexperience. implantation, as long as adequate ﬁxation of the grafts can be
+Cartilagerepairstrategiesmustaccountforthesestressesearlyin achieved.
+recovery to avoid failure following implantation and patient Another important mechanical exclusion criterion in cartilage
+remobilization. Therapies that rely on scaffold-free cellular repair procedures is the presence of kissing lesions. Due to the
+approaches, such as ACI, are not designed to handle these continuouscontactandarticulationbetweentwokissingimplants,
+mechanical burdens early post-surgery, and thus, utilizing scaf- surface frictional and shear properties are of vital importance.
+folds with improved bulk mechanical properties could increase Likewise, ligamentous instability and malalignment can exacer-
+efﬁcacyoftreatmentandpromoteearlierreturntonormalactivity bate stresses parallel to the articular surface, increasing shear
+in these knees. To review the mechanical properties of cartilage forces experienced by the implant and repair tissue.91–93 There-
+scaffolds over the years, a systematic review was performed fore, along with bulk compressive mechanical properties, any
+(Supplemental Methods). Initial scaffold attempts used simple cartilage replacement should minimize friction and maximize
+sponges and hydrogels with moduli (both instantaneous and shear resistance to prevent wear or implant dislodgement. One
+equilibrium)inthetensofkilopascals(kPa),whilethemodulusof studysuccessfully increasedlubricin (lubricatingprotein) concen-
+nativecartilageis20–50timeshigher.Morerecently,groupshave tration in superﬁcial zone chondrocytes;94 this advance could be
+utilized a variety of fabrication (weaving,62,79 3D printing,56,80,81 appliedtocartilagescaffoldsinordertoreducethecoefﬁcientof
+casting57,63) and cross-linking (UV photoinitiator,82,83 EDC cross- friction at the articulating surface. Another modality to decrease
+linking,83–85 dehydrothermal treatment83) techniques to improve friction,thatalsoprovidesshearresistance,isfabricatingscaffolds
+the mechanical properties of the time-zero scaffold (Fig. 4—red with an aligned superﬁcial zone.95,96 For example, Accardi and
+squares and triangles). For example, Valonen and colleagues colleagues97 found that varying the alignment of electrospun
+developeda3D-wovenpoly(ε-caprolactone)(PCL)scaffoldwithan nanoﬁbershad a positiveeffect on implant shear properties.The
+aggregate modulus of 550 kPa, well within the range of native groupadditionallyvariedelectrospinningspeedduringfabrication
+articular cartilage.86 Other groups have created ﬁber-reinforced totuneﬁberorganizationthroughthescaffolddepthtoprovidea
+hydrogels,andachievedstiffnessvaluesgreaterthan400kPa,80,87 shear-resistant superﬁcial layer. These adaptations could be
+resultinginreplacementscaffoldsfordefectsthatrequiregreater consideredinknees requiring supplementalmechanical stability.
+mechanical support. An important consideration is balancing the A previous attempt at cartilage repair is often an exclusion
+mechanics of these scaffolds with their resorption and ability to criterionforasubsequentcartilageregenerativeprocedure.Thisis
+form new cartilage tissue.88,89 A scaffold should provide archi- driven by the likelihood of subchondral bone changes as a
+tecture and support for initial load-bearing, but exhibit a consequence of failed repair, particularly if the ﬁrst attempt
+degradation proﬁle that allows inﬁltrated cells to respond and involved disruption of the tidemark for marrow recruitment.
+form neo-cartilage tissue. Alternatively, in vitro culture of Withoutsufﬁcientsubchondralloadsupport,subsequentcartilage
+constructs52,90 can promote increased deposition and organiza- treatment approaches may be predisposed to failure, and thus,
+tion of ECM, further elevating mechanical properties of these theentireosteochondralunitmustbeconsideredinthiscohortof
+scaffolds (Fig. 4—green squares and triangles). While more patients. One potential intervention, currently used clinically, is
+expensive, these lab-grown in vitro engineered replacements osteochondral allograft transplantation (OATS).98,99 These grafts
+have the potential to withstand loadbearing immediately upon can provide symptom relief and success as a salvage procedure
+npjRegenerativeMedicine(2019)   12  PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute
+
+NEW PAGE
+
+A.R.Martínetal.
+7
+chondrogenicdifferentiationofmesenchymalstemcells.115These
+cytokines can be systemically upregulated, or produced by
+synoviocytes,chondrocytes, ormeniscalcells.116Also, co-morbid-
+ities, such as obesity, can elevate levels of pro-inﬂammatory
+cytokines, exacerbatingtheeffects ofa joint injury.117
+To control the inﬂammatory environment and reduce proteo-
+lysis, intra-articular injection is clinically appealing. Such a
+treatment could be administered following a traumatic joint
+injurytopreventcartilageECMproteolysisinthepresenceofpro-
+inﬂammatory cytokines (IL-1, IL-6, IL-8, and TNF-ɑ) and MMPs. To
+address this possibility, in a number of animal118,119 and human
+studies,120 high doses of anti-catabolic glucocorticoids, which
+inhibittheactivationofMMPs121andtheexpressioninﬂammatory
+cytokines,122 have been administered. Dexamethasone (DEX)
+Fig.4 Modulusvalues(kPa)asafunctionof time(Jan2001toJan inhibits inﬂammation and cartilage damage by inﬂuencing both
+2018). Squares and triangles represent instantaneous and equili- synoviocytes and chondrocytes.119,123 However, given the
+brium moduli, respectively. Red, green, and blue points represent
+dynamic environment of the knee and the low residence time
+time-zeroscaffold,culturedconstruct,andmechanicalassessments
+ofsmallmoleculesinthesynovialspace,deliveryandretentionof
+from in vivo studies, respectively. Survey of PubMed literature
+utilizing search terms “Cartilage”, “Scaffold”, and “Modulus”. Studies moleculestopositivelyimpactcartilageregenerationbeforebeing
+withinadequatedescriptionoftestingmethodswereexcluded cleared remains a challenge. Targeted intra-articular delivery of
+DEX can be achieved by using small positively charged
+nanoparticles bound to DEX to form electrostatic interactions
+following failed cartilage repair. However, issues with graft between the cationic particle and the anionic cartilage matrix.124
+survivability,diseasetransmission,andintegrationhavemotivated Dendrimer-based nanocarriers were also recently shown to
+tissueengineerstodevelopnewercompositescaffoldsthatguide penetrate full-thickness cartilage explants, and be retained in a
+localized regeneration of the cartilage and bone layers of an nativejointenvironment.125Thesenanoparticlesmaybepowerful
+osteochondral unit.100,101 Clinically, the TruFit Plug (Smith & carriers for aglucocorticosteroid treatment.
+Nephew, San Antonio TX) is one of the only synthetic In addition to localized glucocorticosteroid delivery, IL-1
+osteochondralscaffoldsthathasbeenevaluatedinpatients,102,103 receptor antagonist (IL-1Ra), a naturally occurring inhibitor of IL-
+with a subchondral phase containing calcium sulfate for bone 1 activity, is another potential avenue for intra-articular anti-
+regeneration and an articulating phase that relied on marrow inﬂammatory therapeutics. There are currently multiple IL-1
+stimulation for cartilage regeneration. While short-term results targeting drugs on the market including Anakinra, a modiﬁed
+showedclinicalimprovementinpatientMRIscores,improvement version of the human IL-Ra protein, and Canakinumab, a
+over conventional microfracture/OATS procedures has not been monoclonalantibodytargetedatIL-1β.However,neitherofthese
+proven. In order to improve outcomes, biphasic scaffolds can be drugshasimprovedOAsymptomsinhumanclinicaltrialstodate,
+createdwithasofterupperlayercontainingchondrogenicfactors likelybecauseofthedynamic jointenvironment.126,127 Foreither
+(e.g., TGF-β, chondroitin sulfate) and a stiffer lower layer, often glucocorticosteroidorIL-1Radeliverytobesuccessful,thedelivery
+loaded with calcium phosphate, hydroxyapatite, or bone mor- mechanism (nanoparticles, scaffolds, etc.) is an extremely impor-
+phogenetic protein (BMP), to provide structural support of the tant design consideration. To improve the efﬁcacy of IL-1Ra,
+abovecartilagelayerandtopromoteosteogenictissueformation researchers have tethered the protein to nanoscale block
+and boney integration.53,104–106 Bi-layered scaffolds derived from polymers to target cartilage.128,129 The IL-1Ra tethered polymeric
+articular cartilage ECM and growth plate ECM can be used to nanoparticleswerestable,non-toxic,andeffectiveatblockingthe
+regenerate osteochondral tissue with better recapitulation of the IL-1 signaling pathway. In another study, IL-1Ra transgenes were
+native architecture.107 incorporatedintoawovenscaffold.61Asaresult,thestemcellsin
+To avoid the interfacial shear stress that are experienced thescaffoldreleasedIL-1Rainasustainedfashionoverthecourse
+between two such distinct layers, recent studies have developed of 28 days in culture. Gene delivery of IL-1Ra through a
+gradient scaffolds, using the same growth factors and scaffold regenerative scaffold or direct delivery of IL-1Ra via nanoparticle
+materials as a biphasic scaffold, but with a smooth transition carriersarebothpromisingoptionsforcartilagerepairinpatients
+betweenlayers.108,109Forexample,DiLuca etal.109used abrush with post-surgical inﬂammation and other chronic inﬂammatory
+functionalization technique to create a gradient of TGF-β3, conditions.
+decreasing in concentration from the articulating surface to the
+subchondral region, and likewise created a reverse gradient of
+BMP-2. Other studies have utilized growth factor gradients, for CONCLUSIONS ANDFUTUREOUTLOOK
+example via microsphere incorporation.108,110 Furthermore, a Articular cartilage injuries are prevalent in a large portion of the
+transitional zone between cartilage and bone layers has been population, and their incidence is only increasing. Cartilage
+achieved via dispersion mixing with syringe pump systems, regenerationtechnology hasthepotential torepairthese lesions
+selective laser sintering, and pore shape gradients.111–114 The and prevent their progression to debilitating OA requiring total
+ﬁeld of osteochondral tissue engineering has matured substan- joint arthroplasty. Yet, the number of knee cartilage repair and
+tiallyandprogresstowardsclinicallyapplicablereplacementswill regeneration procedures performed annually is dwarfed by the
+bevitalforthelargeportionofthepopulationcurrentlyexcluded volumeoftotalkneereplacements.Currentcartilageregeneration
+fromclinicaltrials. treatments approved for clinical use (MACI, AMIC) have shown
+Patientswithinﬂammationofthejointareoftenexcludedfrom satisfactory results in an optimal subset of patients with “green
+cartilage repair attempts given that catabolic cytokines and knees”. However, clinical trials assessing the efﬁcacy of these
+proteinases (MMPs) present in the synovial ﬂuid degrade the techniques exclude the majority of the patient population with
+native ECM, and would similarly degrade any implanted tissue, “red knees”, patients with large lesion size, high mechanical
+predisposing treatment failure. Interleukin-1β (IL-1β) and tumor demands, older age, inﬂammation, infection, and other systemic
+necrosisfactor-α(TNFα)aretwoimportantinﬂammatorycytokines diseases. Broadening the eligibility criteria of new trials would
+thatnotonlyleadtocartilagematrixdestruction,butalsoprevent make the results more representative of the entire patient
+PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute npjRegenerativeMedicine(2019)   12 
+
+NEW PAGE
+
+A.R.Martínetal.
+8
+ACKNOWLEDGEMENTS
+Research reported in this publication was supported by the University of
+PennsylvaniaandtheNationalCenterforAdvancingTranslationalSciencesofthe
+NationalInstitutesofHealthunderawardnumberTL1TR001880.Additionalsupport
+wasprovidedbygrantsfromtheAmericanOrthopaedicSocietyforSportsMedicine
+and the National Institutes of Health (R01 EB008722). The content is solely the
+responsibilityoftheauthorsanddoesnotrepresenttheofﬁcialviewsoftheNational
+InstitutesofHealthorotherfundingagencies.
+AUTHORCONTRIBUTIONS
+Alllistedauthorshadsubstantialcontributiontotheconceptualization,writing,and
+editing of this article. A.R.M. performed the systematic review, and wrote the
+Abstract, Introduction, Disease Burden and Treatment Trends, Deﬁning the “Red
+Knee”,Aging,andConclusionssections.J.M.P.performedthesystematicmechanical
+propertyreview,andwrotetheSmallLesions,IncreasedMechanicalDemands,and
+SubchondralBoneDamagesections.H.M.Z.wrotetheLargeLesionsandSystemic
+Disease/Inﬂammation sections. J.L.C. provided clinical insight into disease burden,
+exclusioncriteria,andclinicaltrialreview.R.L.M.supervisedthedevelopmentofall
+stagesofthiswork,andidentiﬁedmanyoftheregenerativeapproachesaddressed,
+andrevisedandapprovedthesubmission.
+Fig.5 Summaryﬁgureshowingemergingtranslationaltherapiesfor
+potential application in the ‘Red Knee’, including therapies that ADDITIONAL INFORMATION
+address large lesions, mechanical demands, subchondral damage, Supplementary information accompanies the paper on the npj Regenerative
+smalllesions,aging,disease,andinﬂammation Medicinewebsite(https://doi.org/10.1038/s41536-019-0074-7).
+Competing interests: J.L.C. receives research support from AlloSource, Anika
+population. Following the footsteps of modern oncology Therapeutics, and Vericel Corporation. J.L.C. is also a paid consultant for Vericel
+research,130 cartilage regeneration trials should strive for inclu- Corporation.Theserelationshipsdidnotinﬂuencethesubjectmatterofthisreview.
+siveness. Exclusion criteria should have clear rational focusingon Theremainingauthorsdeclarenocompetinginterests.
+potential toxicities rather than efﬁcacy concerns. Easier patient
+recruitment will allow analysis of larger and more representative Publisher’snote:SpringerNatureremainsneutralwithregardtojurisdictionalclaims
+populations, while subgroup analysis may help elucidate efﬁcacy inpublishedmapsandinstitutionalafﬁliations.
+in a more selective “green knee” population. For example,
+including patients with common comorbidities would better REFERENCES
+highlight which conditions compromise cartilage restorative 1. Smith,G.D.,Knutsen,G.&Richardson,J.B.&ofOrthopaedicsRobertJones,P.A
+techniques and which do not. An alternative is to conduct clinicalreviewofcartilagerepairtechniques.J.BoneJt.Surg.87,445–449(2005).
+secondary clinical trials in speciﬁc excluded populations, as is 2. Curl, W. W. et al. Cartilage injuries: a review of 31,516 knee arthroscopies.
+currently beingdone withMACI in pediatricpatients.131 Arthroscopy13,456–460(1997).
+Translationalresearchintheﬁeldofcartilagetissueengineering 3. Widuchowski,W.,Widuchowski,J.&Trzaska,T.Articularcartilagedefects:study
+of25,124kneearthroscopies.Knee14,177–182(2007).
+is working to improve treatment options (Fig. 5) to address
+4. Mor,A.etal.Trendsinarthroscopy-documentedcartilageinjuriesoftheknee
+comorbidities and reduce the number of excluded patients with
+andrepairproceduresamong15-60-year-oldpatients.Scand.J.Med.Sci.Sport.
+cartilage lesions. Growth factors and other drugs released from 25,e400–e407(2015).
+scaffoldmaterialscanbeusedtorecruitandrejuvenatecartilage 5. Gomoll,A.Microfractureandaugments.J.KneeSurg.25,009–016(2012).
+progenitor cells in elderly patients. Scaffold material and fabrica- 6. Carey, J. L. Fibrocartilage following microfracture is not as robust as native
+tion technique can be tuned to provide greater surface area articularcartilage.J.BoneJt.Surg.-Am.94,e80–e81(2012).
+coverage and mechanical support. Targeted delivery of anti- 7. Devitt,B.M.,Bell,S.W.,Webster,K.E.,Feller,J.A.&Whitehead,T.S.Surgical
+inﬂammatory drugs may also improve scaffold integration and treatmentsofcartilagedefectsoftheknee:systematicreviewofrandomised
+maturation inpatients withinﬂammatory comorbidities. controlledtrials.Knee(2017).https://doi.org/10.1016/j.knee.2016.12.002
+8. van der Linden, M. H., Saris, D. B. F., Bulstra, S. K. & Buma, P. Treatment of
+Even more important than research in this ﬁeld is the
+cartilaginous defects in the knee: recommendations from the Dutch Ortho-
+advancement from pre-clinical to clinical trials. The high cost, paedicAssociation.Ned.Tijdschr.Geneeskd.157,A5719(2013).
+stringent regulatory oversight, and decades involved in the 9. Patel,J.M.,Saleh,K.S.,Burdick,J.A.&Mauck,R.L.Bioactivefactorsforcartilage
+executionofrigorousclinicaltrialscreatebarriersforadvancement repairandregeneration: improvingdelivery,retention,andactivity.ActaBio-
+of this technology. Collaboration between large research groups mater.(2019).https://doi.org/10.1016/j.actbio.2019.01.061
+and clinicians is key to the safe and successful progression of 10. McCormick,F.etal.Trendsinthesurgicaltreatmentofarticularcartilagelesions
+intheUnitedStates:ananalysisofalargeprivate-payerdatabaseoveraperiod
+cartilageregenerationtherapy,withtheultimategoalofproviding
+of8years.Arthrosc.-J.Arthrosc.Relat.Surg.30,222–226(2014).
+all patients who have a cartilage injury with the opportunity for
+11. Inacio,M.C.S.,Paxton,E.W.,Graves,S.E.,Namba,R.S.&Nemes,S.Projected
+repairto conserve theirjoint rather thanreplace it.
+increaseintotalkneearthroplastyintheUnitedStates-analternativeprojec-
+tionmodel.Osteoarthr.Cartil.25,1797–1803(2017).
+Reportingsummary 12. Sloan,M.,Premkumar,A.&Sheth,N.P.Projectedvolumeofprimarytotaljoint
+arthroplastyintheU.S.,2014to2030.J.BoneJt.Surg.-Am.100,1455–1460
+Further information on experimental design is available in the
+(2018).
+Nature ResearchReportingSummary linkedto this paper. 13. Aae,T.F.,Randsborg,P.-H.,Lurås,H.,Årøen,A.&Lian,Ø.B.Microfractureismore
+cost-effectivethanautologouschondrocyte implantation: areviewoflevel1
+andlevel2studieswith5yearfollow-up.KneeSurg.,Sports.Traumatol.Arthrosc.
+DATAAVAILABILITY 26,1044–1052(2018).
+Theinclusionandexclusioncriteriadatathatsupporttheﬁndingsofthisstudyare 14. Kon,E.etal.Arthroscopicsecond-generationautologouschondrocyteimplan-
+availablefromClinicalTrials.gov“https://clinicaltrials.gov/”.Thesynthesizedrawdata tation compared with microfracture for chondral lesions of the knee. Am. J.
+isalsoavailableuponrequest. SportsMed.37,33–41(2009).
+npjRegenerativeMedicine(2019)   12  PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute
+
+NEW PAGE
+
+A.R.Martínetal.
+9
+15. Crawford, D. C., DeBerardino, T. M. & Williams, R. J. NeoCart, an autologous 41. Kudo, S., Mizuta, H., Otsuka, Y., Takagi, K. & Hiraki, Y. Inhibition of chon-
+cartilage tissue implant, comparedwith microfracture for treatment of distal drogenesis by parathyroid hormone in vivo during repair of full-thickness
+femoralcartilagelesions.J.BoneJt.Surg.-Am.94,979–989(2012). defectsofarticularcartilage.J.BoneMiner.Res.15,253–260(2010).
+16. Wylie,J.D.,Hartley,M.K.,Kapron,A.L.,Aoki,S.K.&Maak,T.G.Whatistheeffect 42. Ketteler,M.,Rothe,H.,Krüger,T.,Biggar,P.H.&Schlieper,G.Mechanismsand
+ofmatricesoncartilagerepair?Asystematicreview.Clin.Orthop.Relat.Res.473, treatment of extraosseous calciﬁcation in chronic kidney disease. Nat. Rev.
+1673–1682(2015). Nephrol.7,509–516(2011).
+17. Basad, E. et al. Matrix-induced autologous chondrocyte implantation versus 43. Oladeji,L.O.etal.Effectsofautogenousbonemarrowaspirateconcentrateon
+microfractureinthetreatmentofcartilagedefectsoftheknee:a2-yearran- radiographic integration of femoral condylar osteochondral allografts. Am. J.
+domisedstudy.KneeSurg.,Sport.Traumatol.Arthrosc.18,519–527(2010). SportsMed.45,2797–2803(2017).
+18. Volz, M., Schaumburger, J., Frick, H., Grifka, J. & Anders, S. A randomized 44. Roy, S. et al. Opioid drug abuse and modulation of immune function: con-
+controlledtrialdemonstratingsustainedbeneﬁtofAutologousMatrix-Induced sequences in the susceptibility to opportunistic infections. J. Neuroimmune
+Chondrogenesis over microfracture at ﬁve years. Int. Orthop. 41, 797–804 Pharmacol.6,442–465(2011).
+(2017). 45. Fukushima,W.etal.Nationwideepidemiologicsurveyofidiopathicosteone-
+19. Wylie,J.D.,Hartley,M.K.,Kapron,A.L.,Aoki,S.K.&Maak,T.G.Failuresand crosisofthefemoralhead.Clin.Orthop.Relat.Res.468,2715–2724(2010).
+reoperations after matrix-assisted cartilage repair of the knee: a systematic 46. Azar,M.M.,Springer,S.A.,Meyer,J.P.&Altice,F.L.Asystematicreviewofthe
+review.Arthroscopy.32,386–392(2016). impact of alcohol use disorders on HIV treatment outcomes, adherence to
+20. Brix,M.O.etal.Treatmentoffull-thicknesschondraldefectswithHyalograftCin antiretroviral therapy and health care utilization. Drug Alcohol Depend. 112,
+theknee.Am.J.SportsMed.42,1426–1432(2014). 178–193(2010).
+21. Filardo, G. et al. Matrix-assisted autologous chondrocyte transplantation for 47. Turinetto,V.,Vitale,E.&Giachino,C.Senescenceinhumanmesenchymalstem
+cartilage regeneration in osteoarthritic knees. Am. J. Sports Med. 41, 95–100 cells:functionalchangesandimplicationsinstemcell-basedtherapy.Int.J.Mol.
+(2013). Sci.17,E1164(2016).
+22. Filardo,G.etal.Clinicalproﬁlingincartilageregeneration.Am.J.SportsMed.42, 48. Fehrer,C.&Lepperdinger,G.Mesenchymalstemcellaging.Exp.Gerontol.40,
+898–905(2014). 926–930(2005).
+23. Lotz,M.&Loeser,R.F.Effectsofagingonarticularcartilagehomeostasis.Bone 49. Gigante, A., Bevilacqua, C., Ricevuto, A., Mattioli-Belmonte, M. & Greco, F.
+51,241–248(2012). Membrane-seededautologouschondrocytes:Cellviabilityandcharacterization
+24. Stolzing,A.,Jones,E.,McGonagle,D.&Scutt,A.Age-relatedchangesinhuman atsurgery.KneeSurg.,Sport.Traumatol.Arthrosc.15,88–92(2007).
+bonemarrow-derivedmesenchymalstemcells:consequencesforcelltherapies. 50. Yu,Y.etal.Useofrecombinanthumanstromalcell-derivedfactor1α-loaded
+Mech.AgeingDev.129,163–173(2008). ﬁbrin/hyaluronic acid hydrogel networks to achieve functional repair of full-
+25. Brady,K.,Dickinson,S.C.&Hollander,A.P.Changesinchondrogenicprogenitor thicknessbovinearticularcartilageviahomingofchondrogenicprogenitorcells.
+populations associated with aging and osteoarthritis. Cartilage 6, 30S–35SS ArthritisRheumatol.67,1274–1285(2015).
+(2015). 51. Purcell,B.P.,Elser,J.A.,Mu,A.,Margulies,K.B.&Burdick,J.A.Synergisticeffects
+26. Mithoefer, K., Mcadams, T., Williams, R. J., Kreuz, P. C. & Mandelbaum, B. R. ofSDF-1αchemokineandhyaluronicacidreleasefromdegradablehydrogels
+Clinicalefﬁcacyofthemicrofracturetechniqueforarticularcartilagerepairin ondirectingbonemarrowderivedcellhomingtothemyocardium.Biomaterials
+the knee: an evidence-based systematic analysis. Am. J. Sports Med. 37, 33,7849–7857(2012).
+2053–2063(2009). 52. Kim,I.L.etal.Fibrousscaffoldswithvariedﬁberchemistryandgrowthfactor
+27. Grumet,R.C.,Bajaj,S.&Cole,B.J.Chapter27-FailedCartilageRepair.Insa.Scott deliverypromoterepairinaporcinecartilagedefectmodel.TissueEng.PartA
+Surg. Knee 221–228.e1 (2011). https://doi.org/10.1016/B978-1-4377-1503- 21,2680–2690(2015).
+3.00027-5 53. Re’em,T.,Witte,F.,Willbold,E.,Ruvinov,E.&Cohen,S.Simultaneousregen-
+28. Pestka,J.M.etal.Revisionsurgeryaftercartilagerepair:dataFromtheGerman erationofarticularcartilageandsubchondralboneinducedbyspatiallypre-
+Cartilage Registry (KnorpelRegister DGOU). Orthop. J. Sport. Med. 6, sentedTGF-betaandBMP-4inabilayerafﬁnitybindingsystem.ActaBiomater.
+2325967117752623(2018). 8,3283–3293(2012).
+29. Flegal,K.M.,Carroll,M.D.,Kit,B.K.&Ogden,C.L.Prevalenceofobesityand 54. Jeon,O.H.etal.Localclearanceofsenescentcellsattenuatesthedevelopment
+trends in the distribution of body mass index among US adults, 1999-2010. of post-traumatic osteoarthritis and creates a pro-regenerative environment.
+JAMA307,491(2012). Nat.Med.23,775–781(2017).
+30. Gianotti, S. M., Marshall, S. W., Hume, P. A. & Bunt, L. Incidence of anterior 55. Liu,X.etal.SRT1720promotessurvivalofagedhumanmesenchymalstemcells
+cruciateligamentinjuryandotherkneeligamentinjuries:anationalpopulation- viaFAIM:apharmacologicalstrategytoimprovestemcell-basedtherapyforrat
+basedstudy.J.Sci.Med.Sport12,622–627(2009). myocardialinfarction.CellDeathDis.8,e2731(2017).
+31. Abrams,G.D.etal.TrendsinmeniscusrepairandmeniscectomyintheUnited 56. Mouser,V.H.M.etal.Three-dimensionalbioprintinganditspotentialinthe
+States,2005-2011.Am.J.SportsMed.41,2333–2339(2013). ﬁeldofarticularcartilageregeneration.Cartilage8,327–340(2017).
+32. Roos, H. et al. Knee osteoarthritis after meniscectomy prevalence of radio- 57. Ballyns, J. J. et al. Image-guided tissue engineering of anatomically shaped
+graphic changes after twenty-one years, compared with matched controls. implantsviaMRIandmicro-CTusinginjectionmolding.TissueEng.PartA14,
+ARTHRITISRheum.41,687–693(1098). 1195–1202(2008).
+33. Lotz, M. Cytokines in cartilage injury and repair. Clin. Orthop. Relat. Res.391 58. Rowland, C. R., Colucci, L. A. & Guilak, F. Fabrication of anatomically-shaped
+(Suppl),S108–S115(2001). cartilageconstructsusingdecellularizedcartilage-derivedmatrixscaffolds.Bio-
+34. Guilak,F.etal.Theroleofbiomechanicsandinﬂammationincartilageinjury materials91,57–72(2016).
+andrepair.Clin.Orthop.Relat.Res.423,17–26(2004). 59. Rengier,F.etal.3Dprintingbasedonimagingdata:reviewofmedicalappli-
+35. Goldring,M.B.etal.Rolesofinﬂammatoryandanaboliccytokinesincartilage cations.Int.J.Comput.Assist.Radiol.Surg.5,335–341(2010).
+metabolism:signalsandmultipleeffectorsconvergeuponMMP-13regulation 60. Lee,C.H.etal.Regenerationofthearticularsurfaceoftherabbitsynovialjoint
+inosteoarthritis.Eur.Cell.Mater.21,202–220(2011). bycellhoming:aproofofconceptstudy.Lancet376,440–448(2010).
+36. Mohanraj,B.etal.Chondrocyteandmesenchymalstemcellderivedengineered 61. Moutos,F.T.etal.Anatomicallyshapedtissue-engineeredcartilagewithtunable
+cartilageexhibitsdifferentialsensitivitytopro-inﬂammatorycytokines.J.Orthop. and inducible anticytokine delivery for biological joint resurfacing. Proc. Natl
+Res.36,2901–2910(2018). Acad.Sci.USA113,E4513–E4522(2016).
+37. San-Mi,Y.,Hyung-Ki,P.,Sung-Jin,C.,Jae-Chil,C.&Ra-Sun,K.Thecurrentanalysis 62. Moutos,F.T.,Freed,L.E.&Guilak,F.Abiomimeticthree-dimensionalwoven
+oftheriskfactorsforbonegraftinfectionaftercranioplasty.KoreanJ.Neuro- compositescaffoldforfunctionaltissueengineeringofcartilage.Nat.Mater.6,
+trauma9,57–63(2013). 162–167(2007).
+38. Pashneh-Tala, S., MacNeil, S. & Claeyssens, F. The tissue-engineered vascular 63. Saxena,V.etal.Anatomicmesenchymalstemcell-basedengineeredcartilage
+graft—past,present,andfuture.TissueEng.PartBRev.22,68–100(2016). constructsforbiologictotaljointreplacement.TissueEng.PartA22,386–395
+39. Humphers,J.M.,Shibuya,N.,Fluhman,B.L.&Jupiter,D.Theimpactofglyco- (2016).
+sylatedhemoglobinanddiabetesmellitusonwound-healingcomplicationsand 64. Fortier, L. A. et al. BioCartilage improves cartilage repair compared with
+infectionafterfootandanklesurgery.J.Am.Podiatr.Med.Assoc.104,320–329 microfracturealoneinanequinemodeloffull-thicknesscartilageloss.Am.J.
+(2014). SportsMed.44,2366–2374(2016).
+40. Noordin, S. & Glowacki, J. Parathyroid hormone and its receptor gene poly- 65. Beck, E.C.etal.Chondroinduction fromnaturallyderived cartilagematrix:a
+morphisms:implicationsinosteoporosisandinfracturehealing.Rheumatol.Int. comparisonbetweendevitalizedanddecellularizedcartilageencapsulatedin
+36,1–6(2016). hydrogelpastes.TissueEng.PartA22,665–679(2016).
+PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute npjRegenerativeMedicine(2019)   12 
+
+NEW PAGE
+
+A.R.Martínetal.
+10
+66. Asik,M.,Ciftci,F.,Sen,C.,Erdil,M.&Atalar,A.Themicrofracturetechniquefor 93. Sell,T.C.etal.Predictorsofproximaltibiaanteriorshearforceduringavertical
+thetreatmentoffull-thicknessarticularcartilagelesionsoftheknee:midterm stop-jump.J.Orthop.Res25,1589–1597(2007).
+results.Arthrosc.J.Arthrosc.Relat.Surg.24,1214–1220(2008). 94. Iwasa,K.&Reddi,A.H.Optimizationofmethodsforarticularcartilagesurface
+67. Behery, O., Siston, R.A., Harris, J. D. &Flanigan,D. C.Treatment ofcartilage tissueengineering:celldensityandtransforminggrowthfactorbetaarecritical
+defectsoftheknee.Clin.J.SportMed.24,21–30(2014). forself-assemblyandlubricinsecretion.TissueEng.PartC.Methods23,389–395
+68. Kreuz,P.C.etal.Resultsaftermicrofractureoffull-thicknesschondraldefectsin (2017).
+differentcompartmentsintheknee.Osteoarthr.Cartil.14,1119–1125(2006). 95. Lin,H.-Y.,Tsai,W.-C.&Chang,S.-H.Collagen-PVAalignednanoﬁberoncollagen
+69. Ren,K.,He,C.,Xiao,C.,Li,G.&Chen,X.Injectableglycopolypeptidehydrogelsas spongeasbi-layeredscaffoldforsurfacecartilagerepair.J.Biomater.Sci.Polym.
+biomimeticscaffoldsforcartilagetissueengineering.Biomaterials51,238–249 Ed.28,664–678(2017).
+(2015). 96. Camarero-Espinosa,S.,Rothen-Rutishauser,B.,Weder,C.&Foster,E.J.Directed
+70. Yu, F. et al. An injectable hyaluronic acid/PEG hydrogel for cartilage tissue cellgrowthinmulti-zonalscaffoldsforcartilagetissueengineering.Biomaterials
+engineeringformedbyintegratingenzymaticcrosslinkingandDiels–Alder“click 74,42–52(2016).
+chemistry”.Polym.Chem.5,1082–1090(2014). 97. Accardi,M.A.etal.Effectsofﬁberorientationonthefrictionalpropertiesand
+71. Uttayarat,P.etal.Photopolymerizationofhydrogelsforcartilagetissueengi- damage of regenerative articular cartilage surfaces. Tissue Eng. Part A 19,
+neering.in20158thBiomedicalEngineeringInternationalConference(BMEiCON) 2300–2310(2013).
+1–3(IEEE,2015).https://doi.org/10.1109/BMEiCON.2015.7399526 98. Gracitelli,G.C.,Meric,G.,Pulido,P.A.,McCauley,J.C.&Bugbee,W.D.Osteo-
+72. Papadopoulos, A. et al. Injectable and photopolymerizable tissue-engineered chondralallografttransplantationforkneelesionsafterfailureofcartilagerepair
+auricular cartilage using poly(ethylene glycol) dimethacrylate copolymer surgery.Cartilage6,98–105(2015).
+hydrogels.TissueEng.PartA17,161–169(2011). 99. Bugbee,W.D.,Pallante-Kichura,A.L.,Görtz,S.,Amiel,D.&Sah,R.Osteochondral
+73. Chen,F.etal.Self-crosslinking andinjectablehyaluronicacid/RGD-functiona- allografttransplantationincartilagerepair:graftstorageparadigm,translational
+lizedpectinhydrogelforcartilagetissueengineering.Carbohydr.Polym.166, models,andclinicalapplications.J.Orthop.Res.34,31–38(2016).
+31–44(2017). 100. Chen,G.,Sato,T.,Tanaka,J.&Tateishi,T.Preparationofabiphasicscaffoldfor
+74. Chen,F.etal.Aninjectableenzymaticallycrosslinkedcarboxymethylatedpull- osteochondraltissueengineering.Mater.Sci.Eng.C.26,118–123(2006).
+ulan/chondroitinsulfatehydrogelforcartilagetissueengineering.Sci.Rep.6, 101. Bi, L. et al. Fabrication and characterization of a biphasic scaffold for osteo-
+20014(2016). chondraltissueengineering.Mater.Lett.65,2079–2082(2011).
+75. Jin,R.etal.Injectablechitosan-basedhydrogelsforcartilagetissueengineering. 102. Verhaegen,J.etal.TruFitplugforrepairofosteochondraldefects-whereisthe
+Biomaterials30,2544–2551(2009). evidence?Systematicreviewofliterature.Cartilage6,12–19(2015).
+76. Chang,C.,Lauffenburger,D.A.&Morales,T.I.Motilechondrocytesfromnew- 103. D’Ambrosi, R., Giacco, F., Ragone, V. & Ursino, N. Arthroscopic treatment of
+borncalf:migrationpropertiesandsynthesisofcollagenII.Osteoarthr.Cartil.11, osteochondralkneedefectswithresorbablebiphasicsyntheticscaffold:clinical
+603–612(2003). and radiological results and long-term survival analysis. Int. Orthop. (2018).
+77. Lü, S. et al. Injectable and self-healing carbohydrate-based hydrogel for cell https://doi.org/10.1007/s00264-018-4270-7
+encapsulation.ACSAppl.Mater.Interfaces7,13029–13037(2015). 104. Levingstone,T.J.etal.Multi-layeredcollagen-basedscaffoldsforosteochondral
+78. Loebel,C.,Rodell,C.B.,Chen,M.H.&Burdick, J.A.Shear-thinningandself- defectrepairinrabbits.ActaBiomater.32,149–160(2016).
+healinghydrogelsasinjectabletherapeuticsandfor3D-printing.Nat.Protoc.12, 105. Mohan, N. et al. Continuous gradients of material composition and growth
+1521–1541(2017). factorsforeffectiveregenerationoftheosteochondralinterface.TissueEng.Part
+79. Friedman,J.M.etal.Comparisonofﬁxationtechniquesof3d-wovenpoly(ε- A17,2845–2855(2011).
+caprolactone) scaffolds for cartilage repair in a weightbearing porcine large 106. Mohan, N., Gupta, V., Sridharan, B., Sutherland, A. & Detamore, M. S. The
+animal model. Cartilage 194760351770095 (2017). https://doi.org/10.1177/ potentialofencapsulating‘rawmaterials’in3Dosteochondralgradientscaf-
+1947603517700953 folds.Biotechnol.Bioeng.111,829–841(2014).
+80. Visser,J.etal.Reinforcementofhydrogelsusingthree-dimensionallyprinted 107. Kelly, D. J. et al. Tissue-speciﬁc extracellular matrix scaffolds for the
+microﬁbres.Nat.Commun.6,6933(2015). regeneration of spatially complex musculoskeletal tissues. Biomaterials 188,
+81. Hung,K.C.,Tseng,C.S.,Dai,L.G.&Hsu,ShuiWater-basedpolyurethane3D 63–73(2018).
+printedscaffoldswithcontrolledreleasefunctionforcustomizedcartilagetissue 108. Mohan, N. et al. Microsphere-based gradient implants for osteochondral
+engineering.Biomaterials83,156–168(2016). regeneration:along-termstudyinsheep.Regen.Med.10,709–728(2015).
+82. Bian,L.etal.Theinﬂuenceofhyaluronicacidhydrogelcrosslinkingdensityand 109. DiLuca,A.,VanBlitterswijk,C.&Moroni,L.Theosteochondralinterfaceasa
+macromoleculardiffusivity onhumanMSCchondrogenesisand hypertrophy. gradienttissue:fromdevelopmenttothefabricationofgradientscaffoldsfor
+Biomaterials34,413–421(2013). regenerativemedicine.BirthDefectsRes.PartC.EmbryoTodayRev.105,34–52
+83. Rowland,C.R.,Lennon,D.P.,Caplan,A.I.&Guilak,F.Theeffectsofcrosslinking (2015).
+ofscaffoldsengineeredfromcartilageECMonthechondrogenicdifferentiation 110. Gupta, V., Mohan, N., Berkland, C. J. & Detamore, M. S. Microsphere-based
+ofMSCs.Biomaterials34,5802–5812(2013). scaffolds carrying opposing gradients of chondroitin sulfate and tricalcium
+84. Ko, C.-S., Huang, J.-P., Huang, C.-W. & Chu, I.-M. Type II collagen-chondroitin phosphate.Front.Bioeng.Biotechnol.3,96(2015).
+sulfate-hyaluronan scaffold cross-linked by genipin for cartilage tissue engi- 111. Dormer,N.H.etal.Osteochondralinterface regeneration oftherabbitknee
+neering.J.Biosci.Bioeng.107,177–182(2009). withmacroscopicgradientsofbioactivesignals.J.Biomed.Mater.Res.A100,
+85. Davidenko,N.etal.Controlofcrosslinkingfortailoringcollagen-basedscaffolds 162–170(2012).
+stabilityandmechanics.ActaBiomater.25,131–142(2015). 112. DiLuca,A.etal.Osteochondralregeneration:tuningcelldifferentiationintoa
+86. Valonen,P.K.etal.Invitrogenerationofmechanicallyfunctionalcartilagegrafts 3Dscaffoldpresentingaporeshapegradientforosteochondralregeneration.
+basedonadulthumanstemcellsand3D-wovenpoly(ɛ-caprolactone)scaffolds. Adv.Healthc.Mater.5,1832(2016).
+Biomaterials31,2193–2200(2010). 113. Du,Y.etal.Selectivelasersinteringscaffoldwithhierarchicalarchitectureand
+87. Kundanati, L. et al. Fabrication and mechanical characterization of hydrogel gradient composition for osteochondral repair in rabbits. Biomaterials 137,
+infusednetworksilkscaffolds.Int.J.Mol.Sci.17,E1631(2016). 37–48(2017).
+88. Akalp, U., Bryant, S. J. & Vernerey, F. J. Tuning tissue growth with scaffold 114. Tang, G. et al. Preparation of PLGA scaffolds with graded pores by using a
+degradationinenzyme-sensitivehydrogels:amathematicalmodel.SoftMatter gelatin-microsphere template as porogen. J. Biomater. Sci. Polym. Ed. 23,
+12,7505–7520(2016). 2241–2257(2012).
+89. Ng, K. W., Kugler, L. E., Doty, S. B., Ateshian, G. A. & Hung, C. T. Scaffold 115. Wehling, N. et al. Interleukin-1beta and tumor necrosis factor alpha inhibit
+degradationelevatesthecollagencontentanddynamiccompressivemodulus chondrogenesis by human mesenchymal stem cells through NF-kappaB-
+inengineeredarticularcartilage.Osteoarthr.Cartil.17,220–227(2009). dependentpathways.ArthritisRheum.60,801–812(2009).
+90. Bian,L.etal.EnhancedMSCchondrogenesisfollowingdeliveryofTGF-β3from 116. Favero,M.etal.Inﬂammatorymoleculesproducedbymeniscusandsynovium
+alginate microspheres within hyaluronic acid hydrogels in vitro and in vivo. in early and end-stage osteoarthritis: a coculture study. J. Cell. Physiol. 234,
+Biomaterials32,6425–6434(2011). 11176–11187(2018).
+91. Almekinders, L. C., Pandarinath, R. & Rahusen, F. T. Knee stability following 117. Wang, T. &He, C. Pro-inﬂammatorycytokines:the link between obesity and
+anteriorcruciateligamentruptureandsurgery.Thecontributionofirreducible osteoarthritis.CytokineGrowthFactorRev.44,38–50(2018).
+tibialsubluxation.J.BoneJt.Surg.Am.86–A,983–987(2004). 118. Ishida,Y.&Heersche,J.N.M.Glucocorticoid-inducedosteoporosis:bothinvivo
+92. Shelburne,K.B.,Pandy,M.G.&Torry,M.R.Comparisonofshearforcesand and in vitro concentrations of glucocorticoids higher than physiological
+ligamentloadinginthehealthyandACL-deﬁcientkneeduringgait.J.Biomech. levels attenuate osteoblast differentiation. J. Bone Miner. Res. 13, 1822–1826
+37,313–319(2004). (1998).
+npjRegenerativeMedicine(2019)   12  PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute
+
+NEW PAGE
+
+A.R.Martínetal.
+11
+119. Huebner,K.D.,Shrive,N.G.&Frank,C.B.Dexamethasoneinhibitsinﬂammation 134. Crecente-Campo, J., Borrajo, E., Vidal, A. & Garcia-Fuentes, M. New scaffolds
+andcartilagedamageinanewmodelofpost-traumaticosteoarthritis.J.Orthop. encapsulating TGF-β3/BMP-7 combinations driving strong chondrogenic dif-
+Res.32,566–572(2014). ferentiation.Eur.J.Pharm.Biopharm.114,69–78(2017).
+120. Moghadam-Kia,S.&Werth,V.P.Preventionandtreatmentofsystemicgluco- 135. Lohmander,L.S.etal.Intraarticularsprifermin(recombinanthumanﬁbroblast
+corticoidsideeffects.Int.J.Dermatol.49,239–248(2010). growthfactor18)inkneeosteoarthritis:Arandomized,double-blind,placebo-
+121. Richardson,D.W.&Dodge,G.R.Dose-dependenteffectsofcorticosteroidson controlledtrial.ArthritisRheumatol66,1820–1831(2014).
+theexpressionofmatrix-relatedgenesinnormalandcytokine-treatedarticular 136. Howard,D.,Wardale,J.,Guehring, H.&Henson, F.DeliveringrhFGF-18viaa
+chondrocytes.Inﬂamm.Res.52,39–49(2003). bilayer collagen membrane to enhance microfracture treatment of chondral
+122. Uddin,M.N.,Siddiq,A.,Oettinger,C.W.&D’Souza,M.J.Potentiationofpro- defectsinalargeanimalmodel.J.Orthop.Res.33,1120–1127(2015).
+inﬂammatory cytokine suppression and survival by microencapsulated dex- 137. Sundararaj, S. K. C., Cieply, R. D., Gupta, G., Milbrandt, T. A. & Puleo, D. A.
+amethasoneinthetreatmentofexperimentalsepsis.J.DrugTarget.19,752–760 TreatmentofgrowthplateinjuryusingIGF-I-loadedPLGAscaffolds.J.TissueEng.
+(2011). Regen.Med.9,E202–E209(2015).
+123. Roach,B.L.etal.Dexamethasonereleasefromwithinengineeredcartilageasa 138. Florine,E.M.etal.DeliveringHeparin-BindingInsulin-LikeGrowthFactor1with
+chondroprotective strategy against interleukin-1α. Tissue Eng. Part A 22, Self-AssemblingPeptideHydrogels.TissueEng.PartA21,637–646(2015).
+621–632(2016). 139. Zhang,F.,Leong,W.,Su,K.,Fang,Y.&Wang,D.-A.Atransducedlivinghyaline
+124. Bajpayee,A.G.,Quadir,M.A.,Hammond,P.T.&Grodzinsky,A.J.Chargebased cartilage graft releasing transgenic stromal cell-derived factor-1 inducing
+intra-cartilagedeliveryofsingledosedexamethasoneusingAvidinnano-carriers endogenousstemcellhominginvivo.TissueEng.PartA19,1091–1099(2013).
+suppressescytokine-inducedcatabolismlongterm.Osteoarthr.Cartil.24,71–81 140. Lee, B. INVOSSA, a ﬁrst-in-class of cell and gene therapy for osteoarthritis
+(2016). treatment:thephaseIIItrial.Osteoarthr.Cartil.26,S43–S44(2018).
+125. Geiger,B.C.,Wang,S.,Padera,R.F.,Grodzinsky,A.J.&Hammond,P.T.Cartilage- 141. Fedorovich,N.E.etal.BiofabricationofOsteochondralTissueEquivalentsby
+penetratingnanocarriersimprovedeliveryandefﬁcacyofgrowthfactortreat- PrintingTopologicallyDeﬁned,Cell-LadenHydrogelScaffolds.TissueEng.PartC
+mentofosteoarthritis.Sci.Transl.Med.10,eaat8800(2018). Methods18,33–44(2011).
+126. Mb, C. Canakinumab in the treatment of erosive hand osteoarthritis: a case 142. Younesi, M., Goldberg, V. M. & Akkus, O. A micro-architecturally biomimetic
+series.J.CaseRep.Stud.3,503(2015). collagentemplateformesenchymalcondensationbasedcartilageregeneration.
+127. Chevalier, X. et al. Intraarticular injection of anakinra in osteoarthritis of the ActaBiomater.(2016).https://doi.org/10.1016/j.actbio.2015.11.024.
+knee: A multicenter, randomized, double-blind, placebo-controlled study. 143. Ford, A. C.etal. Amodular approach tocreating largeengineered cartilage
+ArthritisRheum.61,344–352(2009). surfaces.J.Biomech.67,177–183(2018).
+128. Whitmire,R.E.etal.Self-assemblingnanoparticlesforintra-articulardeliveryof
+anti-inﬂammatoryproteins.Biomaterials33,7665–7675(2012).
+129. Agarwal,R.etal.Synthesisofself-assembledIL-1Ra-presentingnanoparticlesfor Open Access This article is licensed under a Creative Commons
+thetreatmentofosteoarthritis.J.Biomed.Mater.Res.PartA104,595–599(2016). Attribution 4.0 International License, which permits use, sharing,
+130. Kim, E. S. et al. Broadening eligibility criteria to make clinical trials more adaptation,distributionandreproductioninanymediumorformat,aslongasyougive
+representative: American Society of Clinical Oncology and Friends of Cancer appropriatecredittotheoriginalauthor(s)andthesource,providealinktotheCreative
+ResearchJointResearchStatement.J.Clin.Oncol.35,3737–3744(2017). Commonslicense,andindicateifchangesweremade.Theimagesorotherthirdparty
+131. VericelCorporation. A study of MACI in patients aged 10 to <17 years with materialinthisarticleareincludedinthearticle’sCreativeCommonslicense,unless
+symptomatic chondral or osteochondral defects of the knee (PEAK). Clin- indicatedotherwiseinacreditlinetothematerial.Ifmaterialisnotincludedinthe
+icalTrials.gov (2018). https://clinicaltrials.gov/ct2/show/NCT03588975? article’sCreativeCommonslicenseandyourintendeduseisnotpermittedbystatutory
+term=maci+child&recrs=abdef&rank=1.Accessed27Dec2018. regulationorexceedsthepermitteduse,youwillneedtoobtainpermissiondirectly
+132. Lu,S.etal.Dualgrowthfactordeliveryfrombilayered,biodegradablehydrogel fromthecopyrightholder.Toviewacopyofthislicense,visithttp://creativecommons.
+composites for spatially-guided osteochondral tissue repair. Biomaterials 35, org/licenses/by/4.0/.
+8829–8839(2014).
+133. Cheng, Z. et al. 3D printing hydrogel with graphene oxide is functional in
+cartilage protection by inﬂuencing the signal pathway of Rank/Rankl/OPG. ©TheAuthor(s)2019
+Mater.Sci.Eng.C82,244–252(2018).
+PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute npjRegenerativeMedicine(2019)   12 
+
+NEW PAGE

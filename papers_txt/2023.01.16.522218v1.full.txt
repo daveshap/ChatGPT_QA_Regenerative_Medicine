@@ -1,0 +1,1648 @@
+bioRxiv preprint doi: https://doi.org/10.1101/2023.01.16.522218; this version posted January 16, 2023. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+Primed to resolve: A single cell atlas of the shoulder 
+capsule reveals a cellular basis for resolving 
+inflammatory fibrosis 
+ 
+Michael TH Ng1C, *Rowie Borst1, *Hamez Gacaferi1, Sarah Davidson1, Caio C Machado2, Ian Reekie1, 
+Moustafa Attar1, Dylan Windell1, Mariola Kurowska-Stolarska3, Lucy MacDonald3, Stefano Alivernini4, Micon 
+Garvilles1, Kathrin Jansen1, Ananya Bhalla1, Angela Lee1, James Charlesworth1, Rajat Chowdhury1, Paul 
+Klenerman1, Kate Powell1, Carl-Philip Hackstein1, ICECAP study group†, Dominic Furniss1, Jonathan 
+Rees1, Derek Gilroy6, Mark Coles1, Andrew J Carr1, *Stephen N Sansom1, *Christopher D Buckley1 and 
+Stephanie G Dakin1C. 
+*Contributed equally 
+C Corresponding authors 
+ 
+† ICECAP study group author list: 
+Amar Rangan1,5, Stephen Gwilym1, Christopher Little1, Andrew Titchener1, Salma Chaudhury1, Philip 
+Holland5, Kim Wheway1, Bridget Watkins1, Debra Beazley1, Lois Vesty-Edwards1, Louise Appleton1, Marc 
+Atkinson5, Lucksy Kottam5, Juliet James5, Natalie Clark5 
+ 
+Affiliations: 
+1 University of Oxford, UK 
+2 University of Sao Paulo, Brazil 
+3 Research into Inflammatory Arthritis Centre Versus Arthritis (RACE), University of Glasgow, UK 
+4 Fondazione Policlinico Universitario Agostino Gemelli – IRCCS, Italy 
+5 South Tees NHS Trust, Middlesbrough, UK 
+6 University College London, UK 
+ 
+ 
+  1 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.01.16.522218; this version posted January 16, 2023. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+ABSTRACT 
+Fibrotic conditions are a significant global disease burden. While some therapies delay disease progression, 
+none reverse fibrosis. To gain insights into how fibrosis might resolve, we developed a comparative single 
+cell atlas of frozen shoulder capsule tissue; a chronic inflammatory fibrotic human disease that resolves 
+spontaneously. We identified both a population of pro-inflammatory MERTKlowCD48+ macrophages (Mφ) and 
+a population of MERTK+LYVE1+MRC1+Mφ enriched for negative regulators of inflammation. Micro-cultures 
+of patient-derived cells identified cell-matrix interactions between MERTK+Mφ and DKK3+ and POSTN+ 
+fibroblasts, suggesting that matrix remodelling plays a role in the resolution of frozen shoulder. Cross-tissue 
+analysis revealed a shared gene expression cassette between MERTK+Mφ in the shoulder capsule and a 
+similar cell population enriched in synovial tissues from rheumatoid arthritis patients in disease remission, 
+supporting the concept that MERTK+Mφ provide a cellular basis for the resolution of inflammation and 
+fibrosis. Single-cell transcriptomic profiling and spatial analysis of human foetal shoulder tissues identified 
+MERTK+LYVE1+MRC1+Mφ and DKK3+ and POSTN+ fibroblast populations analogous to those identified 
+in adult shoulder capsule, suggesting that the template to resolve fibrosis is established during development. 
+Therapeutic  enhancement  of  crosstalk  between  MerTK+Mφ  and  pro-resolving  DKK3+  and  POSTN+ 
+fibroblasts could accelerate resolution of frozen shoulder and resolve persistent inflammatory fibrotic disease 
+in other tissues.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  2 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.01.16.522218; this version posted January 16, 2023. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+INTRODUCTION 
+Intractable inflammatory fibrotic diseases affecting soft tissues including lung, liver, kidney and skin contribute 
+to 45% of all-cause mortality(1). Clinically effective therapies that promote fibrosis resolution are currently 
+lacking. Recent single-cell transcriptome sequencing (scRNA-seq) analyses identify multiple scar-associated 
+cell lineages that populate fibrotic visceral tissues. For example, cirrhotic human livers show enrichment for 
+pro-fibrotic pathways including TNFRSF12A, PDGFR and NOTCH signalling with the cirrhotic niche being 
+comprised of TREM2+CD9+Mφ and ACKR1+PLAVP+ endothelial cells (2). Alveolar macrophages from 
+fibrotic lungs express high levels of mediators such as IL1RN, MMP9 and SPP1 that are known drivers of 
+inflammatory fibrosis(3). Tissue resident fibroblasts are major constituents of the inflammatory fibrotic niche. 
+Single cell atlases of fibrotic human and murine lungs identify proliferating pathogenic myofibroblast subsets 
+that are enriched for POSTN, CTHRC1, MFAP5 and ACTA2(3-5). Interactions between tissue resident 
+fibroblasts and pro-inflammatory macrophages induce fibroblast activation and irreversible deposition of 
+fibrotic extracellular matrix(1, 6, 7). These studies advance understanding of the biological processes 
+culminating in solid organ fibrosis; however, the cellular basis by which fibrosis could resolve is not known.  
+ 
+To understand how intransigent human fibrotic diseases might be therapeutically encouraged to resolve, we 
+investigated frozen shoulder as an example of a localised chronic inflammatory fibrotic disease affecting the 
+shoulder joint capsule that is normally self-limiting over time(8). Frozen shoulder affects 10% of the working 
+population, causing pain and disability through severely restricted shoulder joint motion(9-11). Although 
+characterised by localised fibrosis, a role for systemic factors in the pathogenesis of frozen shoulder cannot 
+be excluded as it has been associated with both diabetes(12) and Dupuytren’s disease(13).  Tissue biopsies 
+from frozen shoulder patients with advanced-stage disease express inflammation-resolving proteins and 
+show reduced expression of NFB target genes compared to patients with persistent shoulder tendon 
+tears(14). These findings suggest that in frozen shoulder, the target tissues exhibit a resolving trajectory 
+during advanced disease, which mirrors the typical clinical picture of reduced pain, stiffness and ultimate 
+resolution over time. The unique biology of this under-investigated condition has the potential to unlock the 
+cellular and molecular basis by which soft tissue inflammation resolves, persists or leads to fibrosis. Given 
+that frozen shoulder is normally self-limiting, we hypothesised that the shoulder capsule is ‘primed to resolve’, 
+and  that  the  cellular  interactions  between  major  tissue  resident  cell  types  including  fibroblasts  and 
+macrophages  might  provide  a  resolving  fibrotic  niche  conducive  to  restoring  tissue  homeostasis. 
+  3 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.01.16.522218; this version posted January 16, 2023. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+Understanding this cellular basis for successful resolution could help provide the precise biological cues 
+required to push persistent fibrotic diseases towards a resolving trajectory.  
+ 
+In this study we used scRNA-seq and multiparameter immunofluorescent histology to discover the cell types 
+and microanatomical features that comprise the resolving fibrotic niche in frozen shoulder. We identify a 
+population of MERTK+Mφ residing in the capsule lining that are enriched for biological processes associated 
+with the modulation of inflammation. Using micro-cultures of patient-derived cells, we demonstrate that 
+MERTK+Mφ can restrain the inflammatory phenotype of capsular fibroblasts and reveal a cellular basis for 
+resolution of  frozen  shoulder  via  extracellular matrix  remodelling.  Cross-tissue  analysis revealed  that 
+MERTK+Mφ in the shoulder capsule and in the knee synovium of rheumatoid arthritis (RA) patients share a 
+common gene expression cassette. Finally, we demonstrate a possible embryonic origin for the cell types 
+implicated in the resolution of frozen shoulder, suggesting that the cellular template for resolution of fibrotic 
+adult capsular disease is established during foetal development.  
+ 
+RESULTS 
+Single cell analysis of the resolving inflammatory fibrotic niche of the shoulder capsule 
+The shoulder capsule is comprised of a series of ligaments and a thin synovial layer encapsulating the 
+glenohumeral joint. During frozen shoulder, the shoulder joint capsule becomes chronically inflamed and 
+fibrotic, leading to significantly restricted range of motion. To understand the cellular basis by which 
+inflammatory fibrosis associated with this condition ultimately resolves, we utilised well-phenotyped tissue 
+biopsies from non-inflamed comparator and frozen shoulder patients to generate an atlas describing all the 
+cell types comprising the adult shoulder capsule. Tissue biopsy samples were collected from the rotator 
+interval of the shoulder capsule from patients with a diagnosis of advanced stage frozen shoulder (mean 
+duration of symptoms 20 +/- 5 months). Site and age-matched non-inflamed comparator tissue biopsies were 
+collected from patients undergoing shoulder arthroplasty. Histological examination of comparator capsule 
+identified  a  clearly  demarcated  thin  capsule  lining  and  sparsely  cellular  underlying  sub-lining  region 
+comprised of parallel orientated collagen fibres (Figure 1A). Conversely, tissue biopsies from frozen shoulder 
+patients exhibited increased cellularity of both lining and sub-lining regions and increased vascularity (Figure 
+1A). After integration with Harmony(15), Leiden clustering of 6818 cells isolated from 10 donor tissue biopsies 
+(6 comparator, 4 frozen shoulder donors) revealed 5 major populations, each represented in cells from both 
+  4 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.01.16.522218; this version posted January 16, 2023. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+comparator and diseased shoulder capsule donors (Figure 1B). Annotation of the stromal cells profiled from 
+the adult shoulder capsule revealed that COL1A1+COL3A1+PDGFRB+ fibroblasts were the most abundant 
+cell types followed by CD14+CD68+ myeloid cells, CD3+ T cells, PECAM1+ vascular endothelial cells and 
+ACTA2+ mural cells (Figure 1C). Frozen shoulder patient tissues showed a trend towards increased 
+proportions of lymphoid cells and PECAM+ vascular endothelial cells and a smaller increase in myeloid cells 
+relative to comparator tissues. The proportion of fibroblasts was significantly reduced in frozen shoulder 
+relative to comparator patient tissues (10% FDR; Figure 1C).  
+ 
+Immune cell atlas of frozen and comparator human shoulder capsule 
+A separate analysis of the lymphoid cells revealed two distinct CD3+ T cell clusters, NK cell and B cell clusters 
+(Figure 1D).  The CD4+ cluster expressed IL7R, CCR6, TIMP1, CD40LG and LTB; the CD8A/B+ cluster 
+expressed GZMK and KLRB1 (Figure 1E). Within the lymphoid cell subset, the relative proportions of the T 
+cell and NK cell clusters was similar between comparator and frozen shoulder patient tissues while the B 
+cells showed a slight but non-credible decrease in frequency in the frozen shoulder samples (Figure 1F). 
+Geneset over-representation analysis using gene ontology (GO) Biological Processes (BP) in CD4+ cells 
+revealed enrichment for ‘T helper cell differentiation’ and ‘regulation of leukocyte proliferation’; CD8+ cells 
+were enriched for leukocyte and natural killer cell mediated cytotoxic processes. Small clusters of NKG7+ 
+NK cells expressing cytotoxic molecules including PFR1, GNLY, GZMB and CD79A+ B cells were also 
+identified (Figure 1E).  
+ 
+A separate analysis of the myeloid cells identified four clusters in adult shoulder capsule tissues (Figure 1G). 
+They included two MERTK+Mφ clusters; a LYVE1high cluster expressing MRC1, MAF, COLEC12 and a 
+second  LYVE1low  cluster  expressing  FCGR3A,  ICAM,  TNF,  MMP9  (Figure  1H).  A  MERTKlowCD48high 
+macrophage cluster expressing PTGS2, IL1RN and S100A8 and a small cluster of CD48+ monocyte-derived 
+dendritic cells (CD1C, AREG, FCER1A) were also identified (Figure 1H). The relative proportions of these 
+myeloid clusters did not significantly differ between comparator and frozen shoulder patient tissues (Figure 
+1I). To investigate possible changes in macrophage phenotype between frozen shoulder and comparator 
+tissues, we performed pseudo-bulk based differential gene expression analyses. Grouping of all myeloid cells 
+revealed significantly elevated SPP1 expression in comparator relative to frozen shoulder tissues (BH 
+adjusted p=2.32x10-9; DESeq2 analysis). Within the macrophage clusters, we detected n=59 genes in the 
+  5 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.01.16.522218; this version posted January 16, 2023. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+MERTK+LYVE1lowMφ, n=92 genes in the MERTKlowCD48highMφ and n= 8 genes in the MERTK+LYVE1highMφ 
+as  differentially  expressed  between  the  frozen  shoulder  and  comparator  patient  tissues.  Of  note, 
+MERTK+LYVE1lowMφ isolated from frozen shoulder patient tissues had significantly higher expression of 
+CSF2RA, NFKB1, ITGAX and TNFRSF1B (BH adjusted p<0.001; DESeq2 analysis). MERTK+LYVE1high Mφ 
+isolated from frozen shoulder patient tissues showed little difference to those from comparators but had 
+significantly lower expression of SPP1 (BH adjusted p<0.001; DESeq2 analysis).  MERTKlowCD48high Mφ 
+isolated from frozen shoulder patient tissues had significantly higher expression of CSF2RA, IL1A and IL1B 
+(BH adjusted p<0.05; DESeq2 analysis). Collectively, these findings demonstrate that comparator and frozen 
+shoulder patient tissues are comprised of heterogeneous myeloid cell populations that have a modified 
+transcriptional phenotype in frozen shoulder patients. 
+ 
+Stromal cell atlas of frozen and normal human shoulder capsule 
+Fibroblasts exist as distinct subsets with diverse roles in tissue homeostasis, inflammation and fibrosis(16-
+19). They constitute the major cell type of the shoulder joint capsule, yet their precise phenotypes have not 
+been  described  in  this  tissue.  We  therefore  performed  a  targeted  analysis  of  the 
+COL1A1+COL3A1+PDGFRB+ fibroblasts. After integration, six clusters were identified (Figure 1J). These 
+included five THY1+PDGFRL+ clusters: (i) “DKK3+FMOD+” cells, (ii) “APOE+” cells expressing CXCL12, (iii) 
+“POSTN+ACAN+” cells, (iv) “CXCL2+” cells expressing ARC, (v) “PI16+” sub-population that expressed 
+MFAP5. In addition, we found a THY1lowPDGFRLlow “CLIC5+” cluster that also expressed HBEGF+ (Figure 
+1K). The relative proportions of fibroblast clusters did not significantly differ between comparator and frozen 
+shoulder  patient  tissues  (Figure  1L).  Geneset  over-representation  analysis  revealed  significant  over-
+representations for the  gene ontology (GO) biological processes related to collagen fibril and extracellular 
+matrix organisation and ‘response to mechanical stimulus’ (DKK3+FMOD+ and POSTN+ACAN+ clusters), 
+chemotaxis  (APOE+  cluster),  apoptotic  processes  (CXCL2+  cluster),  complement  activation,  humoral 
+immune response and angiogenesis (PI16+ cluster) and complement activation, TNF production and ion 
+channel  binding  (CLIC5+  cluster).  We  performed  pseudobulk-level  differential  expression  analysis  of 
+fibroblasts in frozen shoulder relative to comparator patient tissues. Of note, CLIC5, CSF1, ITGA8, SYNOP2 
+and CXCL1 showed significantly higher expression in the fibroblasts from frozen shoulder patient tissues (BH 
+adjusted p<0.01; DESeq2 analysis). Taken together, these findings suggest that comparator and frozen 
+  6 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.01.16.522218; this version posted January 16, 2023. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+shoulder patient tissues are comprised of distinct fibroblast sub-populations which are involved in shaping 
+the extracellular environment and the regulation of local tissue inflammation. 
+ 
+Spatial topography of the resolving inflammatory fibrotic niche 
+We next used immunofluorescence confocal microscopy to confirm the presence and to characterise the 
+microanatomical niches of cell populations identified by single cell analysis. Multiplex immunostaining using 
+an extended panel of myeloid markers localised MerTK+Mφ subsets including LYVE1high & LYVE1lowMφ to 
+the capsule lining (Figure 2A). A cassette of protein markers further validated these distinct clusters including 
+LYVE1, CD163, MRC1 (LYVE1high cluster) and FOLR2, ICAM1, CD83, FCGR3A (LYVE1low cluster), located 
+in the capsule lining region, this lining region was expanded in frozen shoulder patient tissues (Figure 2A). 
+MerTKlowCD48+Mφ expressing PTGS2, IL1RA and S100A8 were identified in both lining and sub-lining 
+regions and were abundant in frozen shoulder patient tissues (Figure 2A).  
+ 
+Quantitative analysis of immunopositive staining revealed an increased number of CD3+ cells in frozen 
+shoulder relative to comparator patient tissues (Figure 2B, P=0.0006). CD3+ T cells resided adjacent to 
+CD31+ vascular endothelium within the capsule sub-lining (Figure 2B). Immunostaining confirmed the 
+presence of CD4+, CD8+ and NK cells in frozen shoulder patient tissues, validating CD127 (CD4+ cluster), 
+GZMB, GZMK, CD161 (CD8+ cluster) and CD56+CD57+ (NK cell) populations (Figure 2B).  
+ 
+Capsular fibroblasts also occupied distinct microanatomical niches. PDPN+PDGFRL+ fibroblasts populated 
+lining and sub-lining regions, THY1+ (CD90+) fibroblasts predominated in the sub-lining adjacent to vascular 
+endothelium (Figure 2C). CXCL12+, POSTN+ and MFAP5+ (PI16+ cluster) fibroblasts localised to sub-lining 
+regions adjacent to blood vessels, DKK3+FMOD+ and ARC+ (CXCL2+ cluster) fibroblast subsets were 
+identified in both lining and sub-lining regions, CLIC5+HBEGF+ fibroblasts mapped exclusively to the capsule 
+lining (Figure 2C). Mural cells (THY1+ACTA2+NOTCH3+) resided adjacent to vascular endothelium (Figure 
+2C).  
+ 
+Quantitative analysis of histological tissue sections identified increased cellularity across lining, sub-lining 
+and combined regions of frozen shoulder patient tissues (P=0.001, P=0.0003 and P=0.0002 respectively, 
+Figure 2D). Immunopositive staining for markers of tissue resident macrophages (CD68, P=0.002), pro-
+  7 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.01.16.522218; this version posted January 16, 2023. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+inflammatory macrophages (CD48, P=0.008), fibroblast activation markers (PDPN and CD90, P=0.002 
+respectively) and matrix associated proteins (POSTN, CTHRC1, P=0.008 respectively) were all increased in 
+frozen shoulder relative to comparator patient tissues (Figure 2D). 
+ 
+Capsular MERTKhigh macrophages have a modulatory phenotype 
+To identify candidate myeloid populations implicated in restoring homeostasis during advanced-stage frozen 
+shoulder,  we  further  investigated  the  phenotype  and  biological  processes  active  in  these  cells. 
+MERTK+LYVE1high macrophages expressed MAF, RNASE1, COLEC12 and SELENOP (Figure 3A). The 
+marker genes for this cluster were significantly over-represented for biological processes concerned with 
+regulation of humoral immune responses, regulation of complement activation, acute inflammatory response 
+and receptor-mediated endocytosis (Figure 3B). Both MERTK+ LYVE1high and LYVE1low macrophage clusters 
+expressed  CD163, FOLR2 and MRC1  (Figure 3C). The MERTK+LYVE1low cluster  exhibited a mixed 
+phenotype  also  expressing  THBD,  ICAM1,  MMP9  and  TNF.  Biological  processes  significantly  over-
+represented in the marker genes for this cluster included regulation of wound healing, cellular response to 
+glucocorticoids and leucocyte chemotaxis (Figure 3B). Significant over-representations in MERTKlowCD48+ 
+macrophage cluster included those for biological processes associated with alarmins and pro-inflammatory 
+mediators including leukocyte chemotaxis and migration, humoral immune response and  response to 
+lipopolysaccharide (Figure 3B). These findings support our hypothesis that MERTK+LYVE1high macrophages 
+could restrain inflammatory fibrosis in frozen shoulder, providing a resolving fibrotic niche conducive to 
+restoring homeostasis. Immunostaining of shoulder capsule tissue sections revealed that MerTK+ cells were 
+predominately found in the capsule lining region and were more prevalent in frozen shoulder patient tissues 
+(Figure  3D&E,  P=0.005).  We  therefore  investigated  the  cell  types  predicted  to  interact  with 
+MERTK+LYVE1high and MERTK+LYVE1low macrophage subsets that could restrain inflammatory fibrosis. 
+MerTK, a member of the Tyro-Axl-MERTK (TAM) family of receptor tyrosine kinases is a macrophage 
+receptor that mediates efferocytosis(20, 21). Engagement of MerTK by apoptotic cells, GAS6 or protein S 
+(PROS1) triggers biochemically distinct responses mediating anti-inflammation and resolution(22). PROS1 
+and GAS6 are ubiquitously expressed by fibroblast populations in the shoulder capsule, particularly APOE+ 
+and CXCL2+ subsets respectively (Figure 3F). Network Analysis Toolkit for Multicellular Interactions (NATMI) 
+analysis(23)  generated  from  comparator  and  frozen  shoulder  sub-populations  (identified  in  Figure  1) 
+predicted  specific  interactions  between  MERTK+  macrophages  and  capsular  fibroblasts,  including 
+  8 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.01.16.522218; this version posted January 16, 2023. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+PROS1>MERTK (Sender cells>Target cells; APOE+>LYVE1high and APOE+>LYVE1low) and GAS6>MERTK 
+(APOE+>LYVE1high, APOE+>LYVE1low, CXCL2+>LYVE1high) (Figure 3G). Immunostaining confirmed the 
+proximity of MerTK+ macrophages and GAS6+ and PROS1+ fibroblasts in frozen shoulder patient tissues 
+(Figure 3H). These findings further support the hypothesis that cellular interactions between MERTK+ 
+macrophages and secreted ligands PROS1 and GAS6 from APOE+ & CXCL2+ fibroblasts could provide a 
+resolving fibrotic niche conducive to restoring homeostasis in frozen shoulder.  
+ 
+MerTKhigh and MerTKlow macrophages induce divergent responses in capsular fibroblasts 
+from frozen shoulder patients in co-culture 
+To investigate how capsular macrophages and stromal cells might function to restore homeostasis during 
+frozen shoulder, we explored how the major macrophage subtypes present in the shoulder capsule could 
+influence the phenotype of capsular fibroblasts. To model MerTKhigh and MerTKlow macrophage populations 
+identified  in  the  shoulder  capsule,  we  treated  monocyte-derived  macrophages  (MDMs)  with  LPS 
+(10ng/ml)(24) or Dexamethasone (1uM) to induce MerTKlow or MerTKhigh phenotypes respectively. We directly 
+co-incubated ex-vivo capsular fibroblasts from frozen shoulder patient tissues in the presence of either 
+MerTKlow or MerTKhigh MDMs for 48 hours and performed bulk RNAseq on FACS sorted fibroblasts. We 
+compared the phenotypes of frozen shoulder capsular fibroblasts co-cultured with MerTKlow or MerTKhigh 
+MDMs relative to untreated fibroblasts. In total, we identified n=832 genes that showed significant variation 
+in expression between untreated,  MerTKlow-MDM co-cultured and MerTKhigh-MDM co-cultured capsular 
+fibroblasts (DESeq2, LRT, BH adjusted p<0.01). These genes clustered into four groups with distinct patterns 
+of expression across the three conditions, comprising of (i) a set of 345 genes that showed reduced 
+expression in the MerTKhigh-MDM co-cultured fibroblasts relative to untreated and MerTKlow-MDM co-cultured 
+fibroblasts (group 1), (ii) a set of 311 genes which showed higher expression in MerTKhigh-MDM co-cultured 
+fibroblasts (group 2), (iii) a set of 98 genes which showed higher expression in the MerTKlow-MDM co-cultured 
+fibroblasts (group 3) and (iv) a set of 78 genes which showed higher expression in the untreated fibroblasts 
+(selected examples are shown in Figure 4A). The set of genes downregulated by MerTKhigh MDMs in capsular 
+fibroblasts  relative  to  MerTKlow  MDM  co-cultured  and  untreated  fibroblasts  (group  1)  included  pro-
+inflammatory  genes  (TNFAIP6,  PTGES,  PTGS2,  IL6),  chemotactic  factors  (CXCL3)  and  matrix 
+metalloproteinases (MMP1). We noted that several of these genes, including IL6, MMP1 and CXCL3 showed 
+higher expression in the fibroblasts co-cultured with MerTKlow-MDMs relative to the untreated fibroblasts 
+  9 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.01.16.522218; this version posted January 16, 2023. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+(Figure 4A). Conversely, MerTKhigh MDMs induced a higher expression of genes (group 2) associated with 
+maintenance and organization of the extracellular matrix (NEXN, GSN, DPT, TIMP4, SPP1), cell adhesion & 
+migration (VIT, EPHB6), cell-matrix interactions (THBS1), immunoregulation (FKBP5) and cell proliferation 
+(TRNP1) relative to MerTKlow-MDM co-cultured and untreated capsular fibroblasts (Figure 4A), suggestive of 
+a more homeostatic response. Co-incubation with MerTKhigh MDMs also down-regulated TGF responsive 
+genes including BMP2, BMP4, TGFBR1 and TGFB2 (group 1, Figure 4A). In support of these findings, the 
+set of genes downregulated by co-incubating fibroblasts with MerTKhigh MDMs was over-represented for 
+biological processes including positive regulation of type 2 immune response, prostaglandin biosynthesis and 
+transport, positive regulation of macrophage activation and epithelial to mesenchymal transition and negative 
+regulation of tissue remodelling and apoptotic signalling (group 1, Figure 4B). Conversely, genes up-
+regulated by MerTKhigh MDMs in capsular fibroblasts were over-represented for the biological processes 
+‘negative  regulation  of  leucocyte  degranulation’,  ‘negative  regulation  of  IL-1  production’  and  those 
+associated  with  cell  matrix  adhesion,  phagocytosis  recognition,  extracellular  matrix  assembly  and 
+disassembly, tissue remodelling and collagen metabolic processes (group 2, Figure 4B).  
+We next assessed if co-culturing MerTKlow or MerTKhigh MDMs with capsular fibroblasts influenced the 
+composition of fibroblast sub-populations in vitro. Deconvolution of bulk RNAseq data relative to fibroblast 
+populations in Figure 1J predicted that fibroblasts in the resting state (in the absence of MDMs) were 
+comprised of DKK3+FMOD+ (median 61%) and POSTN+ACAN+ (median 35%) sub-populations (Figure 4C). 
+Co-culture with MerTKhigh MDMs did not induce a significant shift in the predicted composition. In contrast, 
+co-culture with MerTKlow MDMs increased the predicted percentage of POSTN+ACAN+ (med 58%) cells and 
+decreased the predicted percentage of DKK3+FMOD+ (med 33%) cells.  These findings suggest that under 
+homeostatic  and  resolving  inflammatory  milieu,  DKK3+FMOD+  and  POSTN+ACAN+  subsets  are  the 
+predominant capsular fibroblasts sub-populations in vitro and that MerTKlow MDMs can promote development 
+of a POSTN+ACAN+ fibroblast phenotype at the expense of a DKK3+FMOD+ phenotype.  
+ 
+We  applied  NATMI  cell-cell  communication  analysis  to  identify  candidate  signaling  factors  in 
+MERTK+LYVE1high macrophages for the induction of cellular and molecular pathways regulating extracellular 
+matrix organization and structure in the DKK3+ FMOD+ or POSTN+ACAN+ fibroblast populations.  Predicted 
+interactions between these cell types were generated from comparator and frozen shoulder sub-populations 
+(as per Figure 1), identifying ligand-receptor pairs including F13A1>ITGB1, CD14>ITGB1, C1QB>LRP1, 
+  10 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.01.16.522218; this version posted January 16, 2023. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+DCS2>DGS2, EFNB1>EPHB3, APOE>VLDLR, CCL8>ACKR4, CCL13>ACKR4 and LPL>SDC1 (Figure 
+4D). Frozen shoulder patient tissues showed higher expression of predicted ligand-receptor pairs between 
+the MERTK+LYVE1high macrophages and DKK3+ FMOD+ or POSTN+ACAN+ fibroblast populations that 
+included CXCL12>ITGB3, FGF18>FGFR1, EFEMP1>EGFR and CXCL12>ITGB1 (Figure 4E). In contrast, 
+we noted that comparator tissues showed a higher expression of predicted interactions involving SPP1 
+expression by the MERTK+LYVE1high macrophages (Figure 4E). Protein-protein association analysis with 
+IntAct(25) identified a possible link between the receptors highly expressed in frozen shoulder patient tissues 
+and the transcription factor RUNX2 (Figure 4F). Separately, single-cell gene-regulatory network analysis of 
+POSTN+ACAN+ fibroblasts revealed a correlation between the expression of RUNX2 and genes implicated 
+in remodelling and organisation of the extracellular matrix including CDH11, MMP14, MMP13 and SPP1 
+(Figure 4G). Collectively these findings suggest that cellular interactions between MERTK+ macrophages 
+and DKK3+FMOD+ and POSTN+ACAN+ fibroblasts may play a role in the resolution of frozen shoulder by 
+inducing remodelling of the fibrotic extracellular matrix and restraining the inflammatory phenotype of 
+capsular fibroblasts. 
+ 
+Cross-tissue comparison of MERTK+ macrophages in musculoskeletal tissues 
+Having identified a potential modulatory phenotype for MERTK+ macrophages in patient shoulder capsule 
+tissues, we next compared capsular MERTK+ macrophages with a published dataset of MERTK+ synovial 
+tissue macrophages (STM) isolated from rheumatoid arthritis patient cohorts(24). MERTK+ STM sub-
+populations were associated with RA disease remission, showed enrichment for negative regulators of 
+inflammation and induced repair responses in synovial fibroblasts in vitro(24). The transcriptome correlation 
+distance  between  shoulder  capsule  and  knee  synovial  MERTK+  and  MERTK–CD48+  myeloid  sub-
+populations is shown in Figure 5A.  MERTK+LYVE1high clusters were common to both tissue types, the 
+equivalent MERTK+ cluster in knee RA synovial tissues is annotated FOLR2highLYVE1+ (24) (Figure 5A). We 
+applied a transfer-learning approach(26) to annotate the STM populations (Figure 5B) with the cluster labels 
+from our shoulder capsule dataset (Figure 1G). The MERTK+LYVE1high cluster in the shoulder capsule 
+mapped to TREM2low, TREM2high, FOLR2highLYVE1+ and FOLR2+ID2+ STM sub-populations (Figure 5C).  
+Using transferred labels, we investigated the relative expression of myeloid target genes of interest including 
+MAF, LYVE1, MERTK, SELENOP, CD48 and MRC1 in the shoulder capsule clusters and their corresponding 
+(′) STMs subsets. Within the MERTK+LYVE1high subsets, expression of genes implicated in restoring tissue 
+  11 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.01.16.522218; this version posted January 16, 2023. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+homeostasis  including  LYVE1,  MRC1  and  MAF  was  higher  in  shoulder  capsule  cells  relative  to the 
+corresponding STMs subset (Figure 5D). To investigate whether these differences were representative of the 
+broader MERTK+LYVE1high phenotype we used a gene-cassette comprised of n=224 shoulder capsule 
+cluster marker genes for this population (BH adjusted p=1.31x10-199). A lower expression of this gene cassette 
+was observed in the predicted knee synovium MERTK+LYVE1high′ and MERTK+LYVE1low′ populations than 
+was seen in the corresponding shoulder capsule clusters (Figure 5E). Inspection of the expression of the top 
+25 marker of MERTK+LYVE1high shoulder capsule macrophages (Figure 1) confirmed that while this capsule 
+population and its predicted MERTK+LYVE1high synovial counterpart had similar levels of expression of 
+several marker genes including C1QA, SELENOP, FOLR2 and CD14, the expression of others, including 
+LYVE1, MAF and MRC1 was less pronounced in the MERTK+LYVE1high′ STM (Figure 5F). Collectively, these 
+findings show that while MERTK+ macrophages in the shoulder capsule and RA synovial patient tissues 
+share a common gene expression cassette, MERTK+ macrophages in shoulder capsule patient tissues had 
+a higher expression of genes implicated in restoring tissue homeostasis. This data supports the concept that 
+this MERTK+ shoulder macrophages may be important for the resolution of frozen shoulder.  
+ 
+The developing shoulder joint provides a cellular template for resolution 
+Ontological processes can be recapitulated as part of inflammatory disease pathology(27). To explore if the 
+cell types implicated in the resolution of inflammatory fibrosis in frozen shoulder are present during the 
+development of the human foetal shoulder joint, we generated an atlas of human developmental shoulder 
+tissues at 12, 15 and 17 post conception weeks (pcw). Following integration, clustering of 12,661 cells 
+revealed 9 major populations, each represented in cells from 12, 15 and 17 pcw developmental stages 
+(Figure 6A). The major cell types identified in our dataset include stromal fibroblasts, myeloid, progenitor and 
+differentiated T cells and B cells, vascular endothelial cells, mural and cycling cells (Figure 6A). Lymphoid 
+populations were identified in foetal shoulder tissues from 15 and 17pcw developmental stages. These 
+included CD3+CD8+ T cells (GZMB+NKG7+), CD3+CD4+ T cells (IL7R+), differentiated MS4A1+ B cells and 
+three CD34+ B-cell progenitor clusters (Figure 6A). Clustering of foetal CD68+CD14+ cells revealed 7 distinct 
+populations  including  MERTK+LYVE1highM,  MERTK+LYVE1highTIMD4highM,  MERTKlowS100A12+M, 
+cycling MKI67+TOP2A+M, MYL4+ myeloid progenitors, CD1C+ monocyte-derived dendritic cells and 
+CAECAM8+ neutrophils (Figure 6B).  
+ 
+  12 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.01.16.522218; this version posted January 16, 2023. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+Having  identified  interactions  between  MERTK+LYVE1high  macrophages  and  matrix  associated 
+DKK3+FMOD+ and POSTN+ACAN+ fibroblasts induce matrix remodelling in cells from adult tissues, we 
+investigated if correlates of these adult cell populations are present during foetal development. We transferred 
+the cluster labels from the adult shoulder capsule myeloid clusters (as in Figure 1G) onto foetal myeloid cells, 
+revealing  a  mapping  of  MERTK+LYVE1high  adult  macrophages  to  TOP2A+MKI67+,  MERTK+TIMD4+, 
+MYL4+, MERTK+LYVE1+ and CD1C+ foetal myeloid sub-populations. This analysis supports that the 
+MERTK+LYVE1high macrophage phenotype was common to both adult and foetal shoulder tissues (Figure 
+6C).   
+ 
+Analysis  of  foetal  stromal  cells  identified  fibroblast  clusters  including  PI16+MFAP5+,  SCN7A+CCK+, 
+WIF1+NR4A2+  SCN7A+IRF1+,  MFAP5+IGFBP4+,  TNMD+ITGA2,  BGN+GEM+,  APOE+FGF7+, 
+MKI67+TOP2A+ and  HBEGF+CLU+  (lining  layer)  sub-populations,  COL2A1+ACAN+  chondrocyte and 
+TNMD+SCX+ tendon cell clusters (Figure 6D). Transfer of labels from adult fibroblast clusters (Figure 1J) 
+onto respective foetal fibroblasts suggested that similar DKK3+FMOD+ and POSTN+ACAN+ fibroblast 
+populations may be present in foetal shoulder tissues (Figure 6E). The adult DKK3+FMOD+ cluster maps to 
+all foetal fibroblast sub-populations, the adult POSTN+ACAN+ cluster maps to all foetal fibroblast sub-
+populations except for SCN7A+CCK+ and HBEGF+CLU clusters (Figure 6F).  
+ 
+Finally, we spatially mapped myeloid and fibroblast populations implicated in the resolution of frozen shoulder 
+onto foetal shoulder joint tissues to compare the respective topographical niches of these cells with adult 
+tissues. Immunostaining confirmed the presence of DKK3+FMOD+ and POSTN+ fibroblasts within the 
+developing shoulder capsule (Figure 6G & H). MERTK+LYVE1+MRC1+ macrophages localised to the lining 
+region of the developing shoulder capsule  adjacent to CLU+ and GAS6+ fibroblasts (Figure  6I & J). 
+Collectively these scRNAseq and spatial findings support an embryonic origin for MERTK+ macrophages 
+and DKK3+FMOD+ and POSTN+ fibroblasts in the shoulder capsule. This data supports the conclusion that 
+the cell types implicated in the resolution of adult shoulder fibrosis are present during foetal development.  
+ 
+ 
+ 
+ 
+  13 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.01.16.522218; this version posted January 16, 2023. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+DISCUSSION 
+Frozen shoulder is a naturally occurring chronic inflammatory fibrotic human disease that is uniquely self-
+limiting over time. Analysis of well-phenotyped patient tissues during the advanced resolving disease stage 
+provides an opportunity to identify the cell types and molecules implicated in  fibrosis resolution. Using 
+integrated scRNA-seq, spatial validation, cross-tissue comparison, and in vitro mechanistic experiments we 
+provide new insight into the functional biology of this resolving inflammatory fibrotic niche. Systematic 
+analysis of the cell types comprising the adult shoulder capsule during resting and diseased states identified 
+distinct subsets of fibroblasts, T cells and macrophages occupying discrete microanatomical niches. Capsular 
+fibroblasts share common features with those previously described in synovial tissues(16, 18, 19, 24). We 
+identified two matrix-associated capsular fibroblast populations (DKK3+FMOD+ and POSTN+ACAN+), two 
+chemoattractant clusters (CXCL12+APOE+ and CXCL2+ARC+), vascular interacting (PI16+MFAP5+) and a 
+lining layer cluster (CLIC5+HBEGF+). Frozen shoulder patient tissues showed increased cellularity of lining 
+and sub-lining regions relative to comparator patient tissues and highly expressed POSTN and CTHRC1 in 
+the capsule sub-lining.  Frozen shoulder patient tissues were enriched for T cells which also resided in the 
+capsule sub-lining. CD4+CD127+ T cells expressed Th17 associated genes including CCR6, RORA and 
+AHR as well as genes associated with a tissue repair phenotype(28-30). This CD4+ subset was distinct from 
+CD4+ clusters identified in patient RA synovial tissues(31). CD8+ T cell and NK subsets  expressed 
+granzyme, granulysin and perforin molecules akin to the SCT5 subset identified in knee synovial tissues from 
+RA patients(31). Future studies are required to determine if these CD8+ cells contribute to resolution of frozen 
+shoulder by facilitating the clearance of senescent cells.   
+ 
+MERTKlowCD48+ macrophages from frozen shoulder patients highly expressed IL1A and IL1B although this 
+inflammatory macrophage cluster showed reduced SPP1 expression relative to tissues from C-19 and RA 
+patients(32).  While  it  is plausible  that  this  population  of  cells may play  a  targetable  role in disease 
+pathogenesis, future studies of patient tissues collected during earlier-stage frozen shoulder are essential to 
+confirm  if  these  inflammatory  mediators  are  also  active  during  early-stage  disease.  A  population  of 
+MERTK+LYVE1+MRC1+ macrophages resident in the capsule lining was enriched for biological processes 
+concerned with modulating inflammation including regulation of humoral immune response, complement 
+activation, inflammatory response and receptor-mediated endocytosis. These findings support the hypothesis 
+that  MERTK+  macrophages  might  restrain  inflammatory  fibrosis,  providing  a  resolving  fibrotic  niche 
+  14 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.01.16.522218; this version posted January 16, 2023. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+conducive to restoring homeostasis in frozen shoulder, as observed at other sites of tissue repair (2, 33-35). 
+Postulating that capsular MERTK+ macrophages aid resolution of frozen shoulder, we investigated how 
+cellular crosstalk between MERTK+ macrophages and capsular fibroblasts from frozen shoulder patients 
+could underpin fibrosis resolution. Co-incubation of capsular fibroblasts from frozen shoulder patients with 
+MerTKlow MDMs further induced an inflammatory fibroblast phenotype and biological pathways converging 
+on chemotaxis and prostanoid biosynthesis. Conversely, co-incubation with MerTKhigh MDMs negatively 
+regulated leucocyte degranulation and IL-1 production pathways and upregulated genes and pathways 
+associated  with  maintenance  and  organisation  of  the  extracellular  matrix  and  down-regulated  TGF 
+responsive genes including BMP2, TGFBR1 and TGFB2 relative to frozen shoulder capsular fibroblasts in 
+isolation.  Given  that  TGFβ  induces  the  myCAF  phenotype  in  cancer  associated  fibroblasts(36), 
+downregulation of TGFβ signalling could modulate the desmoplastic phenotype of capsular fibroblasts during 
+frozen shoulder.  
+A recent study reported expansion of the DKK3+ synovial fibroblasts in treatment refractory RA patients(37), 
+however the precise function of this fibroblast population remains to be established(38). Interestingly,  
+DKK3+FMOD+  fibroblasts  in  the  shoulder  capsule  highly  expressed  inflammation-resolving  receptor 
+CMKLR1,  which  we  previously  identified  in  advanced-stage  frozen  shoulder  patient  tissues(14). 
+DKK3+FMOD+ and POSTN+ACAN+ fibroblasts were the predominant populations isolated from patient 
+shoulder  capsule  tissues utilised in micro-culture  experiments  with  MERTK+ macrophages.  Predicted 
+interactions  between  these  cell  populations  revealed  enrichment  for  ligand-receptor  pairs  including 
+F13A1>ITGB1,  CD14>ITGB1,  C1QB>LRP1,  DCS2>DGS2,  EFNB1>EPHB3,  APOE>VLDLR, 
+CCL8>ACKR4,  CCL13>ACKR4  and  LPL>SDC1.  Notably,  frozen  shoulder  patient  tissues  showed 
+enrichment  for  ligand-receptor  pairs  including  CXCL12>ITGB3,  FGF18>FGFR1,  EFEMP1>EGFR  and 
+CXCL12>ITGB1. ITGB1, EPHB3 and SDC1 are matrix-associated molecules. Fibroblast expression of 
+integrins including ITGB1 is required to support tissue repair and remodelling(39).  Eph receptors and their 
+ligands are essential to the development and function of neuromuscular junctions and regulate actin 
+cytoskeletal  dynamics(40,  41).  Syndecans  including  SDC1  mediate  cytoskeletal  organisation  and 
+remodelling of the extracellular matrix in cancer(42). LRP1 promotes phagocytic activity, facilitating clearance 
+of apoptotic cells(43) required for return towards tissue homeostasis. Interestingly, frozen shoulder patient 
+tissues showed depletion for ligand-receptor pairs driving inflammatory processes including LTB>CD40, 
+LTB>LTBR and LTB>TNFRSF1A. Protein-protein network association analysis of receptors highly expressed 
+  15 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.01.16.522218; this version posted January 16, 2023. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+in frozen shoulder patient fibroblasts identified a possible role for the RUNX2 transcription factor in regulating 
+the expression of matrix-associated genes including CDH11, MMP14, MMP13 in these cells. Collectively, 
+these experiments using patient-derived cells inform interactions between MERTK+ macrophages and 
+matrix-associated DKK3+FMOD+ and POSTN+ACAN+ fibroblasts play a role in the resolution of frozen 
+shoulder  by  inducing  remodelling  of  the  fibrotic  extracellular  matrix  and  restraining  the  inflammatory 
+phenotype of capsular fibroblasts, suggesting a pro-resolving role for these cell populations in fibrosis 
+resolution.  
+ 
+Synovial tissue macrophages (STM) from RA patients are comprised of distinct subsets, with patients in 
+disease remission showing enrichment for MERTK+ clusters including TREM2high and FOLR2highLYVE1+ 
+macrophage sub-populations(24). We compared MERTK+ macrophages in the adult shoulder capsule with 
+knee RA STMs, identifying a common gene expression cassette between these tissue types. Of note, 
+expression of inflammation-regulating genes including LYVE1, MRC1 and MAF was higher in macrophages 
+from shoulder capsule relative to STMs, supporting a possible role for this myeloid population in restoring 
+homeostasis in frozen shoulder patient tissues. Murine studies highlight perivascular MERTK+LYVE1high 
+macrophages maintain tissue homeostasis and prevent arterial stiffness and collagen deposition via MMP9 
+dependent proteolysis(44). Depletion of Lyve1highMHCIIlow monocyte derived resident tissue macrophages in 
+a  murine  lung  fibrosis  model  exacerbated  vessel  permeability,  immune  cell  infiltration,  and  collagen 
+deposition, demonstrating their critical role in restraining inflammation and fibrosis(45). In synovial tissues, 
+MERTK+ STM from remission RA patients were potent producers of inflammation-resolving lipids and 
+induced repair responses in cultured synovial fibroblasts(24). Collectively, these findings further support the 
+ability of MERTK+ macrophages to restrain inflammation and support homeostasis across multiple sub-
+tissular niches. Using microcultures of patient-derived cells, Alivernini et al. identified that MERTK+ STM 
+induced synovial repair responses in RA patients in remission(24). Our functional experiments revealed that 
+MerTKhigh  MDMs  restrained  the  inflammatory  phenotype  of  frozen  shoulder  capsular  fibroblasts  and 
+upregulated genes and pathways implicated in extracellular matrix organisation and remodelling which could 
+affect fibrosis resolution. Therefore, tissue specific contexts could dictate the nature of this homeostatic 
+response. 
+ 
+  16 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.01.16.522218; this version posted January 16, 2023. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+Having identified that crosstalk between MERTK+ macrophages and matrix associated fibroblasts underpin 
+matrix remodelling in frozen shoulder, we investigated if the cell types implicated in the resolution of adult 
+fibrotic capsular disease are present during foetal development. Single-cell analysis of human foetal shoulder 
+tissues from 12-17 pcw developmental stages identified MERTK+ macrophage and DKK3+ and POSTN+ 
+fibroblast cell populations that were predicted to correspond to equivalent populations identified in the adult 
+tissues. In developmental tissues, MERTK+LYVE1+MRC1+ macrophages localised to the shoulder capsule 
+lining adjacent to GAS6+ fibroblasts as observed in adult tissues. The identification of MKI67+TOP2A+ 
+cycling myeloid cells supports the concept that myeloid cells divide and populate the soft tissues of the 
+shoulder joint during foetal development. The developmental origin of macrophages is well documented in 
+visceral tissues including brain, heart, lung and liver(46, 47) and the pool of LYVE1+FOLR2+ macrophages 
+are maintained through self-renewal with minimal monocyte input(48). However, knowledge of the distinct 
+immune populations occupying the soft tissues of the joint during human embryonic development is limited. 
+Our findings demonstrate a possible embryonic origin for the cell types implicated in matrix remodelling of 
+the fibrotic niche, suggesting that a template to resolve adult fibrotic disease might be laid down during foetal 
+development.  As  ontological  processes  are  frequently  recapitulated  in  inflammatory  diseases,  we 
+hypothesize that frozen shoulder could exemplify a recapitulation of ontogeny and during disease the re-
+activation of developmental cellular programmes could drive fibrosis resolution. 
+ 
+Our study builds upon previous work highlighting the importance of distinct phases of inflammation, resolution 
+and remodelling in diseases of musculoskeletal soft tissues(49), generating new therapeutic targets that have 
+the potential to exploit the cell-cell interactions we have observed in this uniquely self-limiting musculoskeletal 
+condition. We discovered a population of pro-inflammatory MERTKlowCD48+ macrophages that may be 
+involved  in  disease  pathogenesis  and  provide  functional  evidence  in  support  of  a  role  for  MERTK+ 
+macrophages in disease resolution. We identify MERTK, LYVE1, MRC1 and DKK3+ and POSTN+ fibroblasts 
+as specific targets for functional studies of fibrosis in murine models. Therapeutic enhancement of crosstalk 
+between populations of resolving MERTK+ macrophages with DKK3+ and POSTN+ fibroblasts to regulate 
+inflammation and induce matrix remodelling could accelerate resolution of frozen shoulder and importantly 
+resolve persistent inflammatory fibrotic pathologies affecting other tissues.  
+ 
+ 
+  17 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.01.16.522218; this version posted January 16, 2023. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+MATERIALS & METHODS 
+Study approval 
+Ethical approval for the use of adult tissues for this study was granted by the local research ethics committee 
+(ICECAP study REC reference 18/SC0649, IRAS project ID 257757) and the Oxford Musculoskeletal Biobank 
+(19/SC/0134). Full informed consent according to the Declaration of Helsinki was obtained from all patients.  
+Foetal  tissue  samples  were  provided  voluntarily  with  appropriate  informed  consent,  the  Human 
+Developmental Biology resource (HDBR) tissue bank operates under Research Ethics Committee approvals 
+18/NE/0290 (Newcastle upon Tyne) and 18/LO/0822 (London). 
+ 
+Collection of adult shoulder capsule tissues 
+Comparator and frozen shoulder adult tissue biopsies were collected from the rotator interval of the shoulder 
+(glenohumeral) joint capsule. Comparator tissues were collected from patients undergoing elective shoulder 
+stabilisation (n=8) or shoulder arthroplasty surgical procedures (n=12). Frozen shoulder tissues were 
+collected from patients with advanced-stage disease (≥12 months symptom duration) undergoing surgical 
+arthroscopic capsular release (n=15).  
+ 
+Processing of adult shoulder capsule tissues for scRNAseq  
+To identify the cell types comprising the resolving fibrotic niche, patient shoulder capsule tissue biopsies (n=6 
+comparator, n=4 frozen shoulder donors) were disaggregated and digested in DMEM F12 media containing 
+4mg/mL Worthington Collagenase II (Lorne) and 1mg/mL DNase (Lorne) at 37C for 90 mins with gentle 
+agitation. The cell suspension was filtered and transferred to DMEM containing 10% foetal bovine serum 
+(Gibco). 
+ 
+Processing of foetal shoulder joint tissues for scRNAseq 
+Foetal upper limbs (n=6) were collected by the Human Developmental Biology Resource (HDBR) team 
+following  medical  or  surgical  termination  of  pregnancy.  Developmental  stage  was  determined 
+by anthropometric parameters and number of somites present. Samples were stored in L-15 medium at 4ºC 
+during shipment, time between collection and subsequent processing was <5h.  Soft tissues of the shoulder 
+joint were isolated, disaggregated and digested using Liberase TL (Roche) 0.1mg/ml diluted in DMEM (Gibco) 
+over 2h at 37ºC. Liberated cells were collected every 20 minutes during digestion, followed by replacement 
+  18 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.01.16.522218; this version posted January 16, 2023. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+of digestion media. The isolated cell suspension was filtered and transferred to DMEM containing 10% foetal 
+bovine serum (Gibco). 
+ 
+scRNAseq of adult and developmental shoulder tissues  
+Single cell suspension samples were stained with 7-AAD dye (Bio-Legend 420404) for live/dead sorting on 
+a SONY SH800 cell sorter. The density of cell suspensions was determined with the Bio-Rad TC20 
+Automated Cell Counter before loading 20,000 – 30,000 cells per sample onto a Next GEM Chip G and 
+running on the 10x Chromium Controller. Single cell gene expression libraries were prepared using the 10x 
+Chromium Next GEM Single Cell 3' Reagent Kits v3.1 following manufacturer user guide (CG000204). The 
+final gene expression libraries were sequenced on the Illumina NovaSeq6000 platform (v1.5 chemistry, 28bp 
+Read1 and >91bp Read2) to a minimum depth of 50,000 reads per cell. 
+ 
+Processing and immunostaining of adult shoulder capsule tissues  
+Shoulder capsule tissue biopsies collected from the rotator interval of comparator and frozen shoulder 
+patients were immersed in 10% buffered formalin for a minimum of 48hrs. After fixation, samples were 
+processed using a Leica ASP300S tissue processor and embedded in paraffin wax. Tissues were sectioned 
+at 6m using a rotary RM2135 microtome (Leica Microsystems Ltd) onto adhesive glass slides and baked at 
+60°C for 30 min and 37°C for 60 min. We used immunohistochemistry to validate key sub-population markers 
+for macrophages and fibroblasts identified in Figure 1. Comparator and frozen shoulder capsular tissue 
+sections were obtained through deparaffinization and target retrieval steps (high pH, heat-mediated antigen 
+retrieval) using an automated PT Link (Dako). Antibody staining was performed using the EnVision FLEX 
+visualization system with an Autostainer Link 48 (Dako). Antibody binding was visualized using FLEX 3,3′-
+diaminobenzidine (DAB) substrate working solution and hematoxylin counterstain (Dako). For negative 
+controls, the primary antibody was substituted for universal isotype control antibodies: cocktail of mouse 
+immunoglobulin G (IgG1), IgG2a, IgG2b, IgG3, and IgM (Dako) and rabbit immunoglobulin fraction of serum 
+from nonimmunized rabbits, solid-phase absorbed (Dako). After staining, slides were taken through graded 
+industrial methylated spirit and xylene, mounted in DPX mounting medium (Fischer Scientific) and imaged 
+on a Brightfield microscope (Olympus). Images were acquired on a MOTIC slide scanner (Leica Biosystems) 
+by a single blinded investigator. Image analysis was conducted using ImageJ (National Institutes of Health) 
+as previously described(50). For each sample, immunopositive staining was normalized to the number of 
+  19 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.01.16.522218; this version posted January 16, 2023. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+hematoxylin-counterstained nuclei within the field of view. Data are presented as % area immunostaining. 
+Statistical analyses were performed with GraphPad Prism, version 9.2.0 (GraphPad Software). Statistically 
+significant differences in immunopositive staining were calculated using the Pairwise Mann Whitney U test. 
+P <0.05 was considered statistically significant.  
+ 
+Validation & spatial mapping of macrophage & fibroblast subsets in adult capsular tissues 
+We performed multiplex immunostaining to validate the phenotype of identified macrophage and fibroblast 
+clusters and to identify the topographical niches these cells occupy in comparator and frozen shoulder adult 
+capsular tissues using a previously validated protocol(49). After antigen retrieval steps, tissues were blocked 
+in 5% normal goat serum (Sigma) in phosphate-buffered saline (PBS) for 30 min in a humid chamber at room 
+temperature. Sections were incubated with the primary antibody cocktail diluted in 5% normal goat serum in 
+PBS for 2.5 hrs at room temperature. Sections were washed with PBS–Tween 20 (PBST) and incubated in 
+the secondary antibody cocktail, each diluted 1:200 in 5% normal equine serum (Sigma) in PBS for 2.5 hours. 
+The secondary antibodies were Alexa Fluor goat anti-mouse IgG2a or IgG2b or goat anti-rabbit IgG (Life 
+Technologies) and goat anti-mouse IgG1 (Southern Biotech). After washing, sections were incubated in 2 
+mM POPO-1 nuclear counterstain (Life Technologies) diluted in PBS containing 0.05% saponin (Sigma) for 
+20 min. Tissue autofluorescence was quenched with a solution of 0.1% Sudan Black B (Applichem) in 70% 
+ethanol for 3 mins. Slides were mounted using fluorescent mounting medium (VectaShield), sealed, and 
+stored at 4°C until image acquisition. For negative controls, the primary antibody was substituted for universal 
+isotype  control antibodies:  cocktail  of  mouse  IgG1,  IgG2a,  IgG2b,  IgG3,  and  IgM  (Dako)  and rabbit 
+immunoglobulin fraction of serum from non-immunized rabbits, solid-phase absorbed (Dako). Images were 
+acquired on a Zeiss LSM 710 confocal microscope using a 40x oil immersion objective (numerical aperture, 
+0.95). The fluorophores POPO-1, Alexa Fluor 488, Alexa Fluor 568, and Alexa Fluor 633 were excited using 
+the 405, 488, 561, and 633nm laser lines, respectively. To minimize bleed-through, all channels were 
+acquired sequentially. Averaging was set to 2 and the pinhole was set to about 1 airy unit. Two-dimensional 
+image reconstructions were created using ZEN software (Zeiss). 
+ 
+Validation T cell subsets in frozen shoulder patient tissues  
+Multiplex ChipCytometry staining was used for immunophenotyping of T cells populations in frozen shoulder 
+patient tissues using a previously validated protocol(51). Cryosections were cut directly onto APES-coated 
+  20 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.01.16.522218; this version posted January 16, 2023. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+coverslips (Sigma-Aldrich) and fixed immediately using freshly prepared 0.1 M phosphate-buffered 4% 
+paraformaldehyde (Sigma-Aldrich)  or  Zellkraftwerk  fixation  buffer  (Zellkraftwerk)  for  10  min  at  room 
+temperature. After washing in PBS, sections on coverslips were assembled into tissue chips (ZellSafe Tissue 
+– Chips; Zellkraftwerk). Tissue sections were blocked by incubating in 5% normal goat serum (Thermo 
+Fischer Scientific) in PBS for 1h at room temperature. Immunostaining was performed at room temperature 
+for 30 min using 0.5 ml of Ab solution per chip. Antibody cocktails were diluted in PBS alone or PBS containing 
+2% normal goat serum. Markers were acquired in iterative rounds of photobleaching, staining, and imaging 
+including CD45, CD3, CD4, CD8, GZMB, GZMK, CD127, CD40LG, CD18, CD161, CD2, CD5, FAP, CD31. 
+Images were downloaded from the proprietary software (Zellscanner App, Zellkraftwerk Gmbh) as single 
+marker 16-bit greyscale tif files. An outlier filter was applied to reduce signal noise (median, radius 0.5) and 
+images were cropped, merged and colourised in FIJI as previously described(52).  
+ 
+Processing and immunostaining of developmental shoulder joint tissues  
+Foetal shoulders were fixed in 10% formalin for a minimum of 48hrs. Samples >10 post conceptional weeks 
+were  decalcified  with  0.5M  EDTA  solution  for  15-30  days  (depending  upon  developmental  stage). 
+Subsequently, samples were processed into paraffin using a tissue processor (Tissue TeK VIP 6 Processor, 
+Sakura) and embedded in paraffin blocks in anteroposterior orientation. Tissues were sectioned at 6m as 
+per adult tissues. Multiplex immunostaining was performed to validate the phenotype and topographical 
+niches of the major cell types comprising the shoulder joint capsule during development. Sections of foetal 
+shoulder tissues were baked overnight at 60°C. Slides were transferred to xylene for de-waxing followed by 
+a series of rehydration steps in ethanol solutions (100%, 95%, 70%, 50%). Each step was repeated twice for 
+5 minutes each, followed by 2 washing steps in 1x PBS. The slides were then permeabilised for 10 minutes 
+in 0.3% Triton X-100 and washed further in 1x PBS for 5 minutes. Heat Induced Epitope Retrieval (HIER) 
+was conducted with the NxGen decloaking chamber (Biocare Medical) with both Citrate (pH 6.0) and Tris 
+(pH 9.0) antigen retrieval solutions. The decloaking chamber is programmed to incubate slides in Citrate 
+solution (Vector Labs, H3300) for 20 minutes reaching 110ºC and 6.1 PSI, which was maintained for 4 
+minutes before cooldown was initiated. Slides were transferred to a Tris solution for 20 minutes followed by 
+an additional 10 minutes at room temperature (RT). Tissue slides were blocked with a 3% BSA (Merck, 
+A7906) and 10% Donkey serum (Bio-Rad, C06SB) solution overnight at 4°C. Slides were washed in 1xPBS 
+for 10 minutes and then stained with DAPI (Thermo, D3571) for 15 minutes. Slides were washed in 1xPBS 
+  21 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.01.16.522218; this version posted January 16, 2023. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+for 5 minutes and coverslipped with 75µl of mounting media (50% glycerol – Sigma, G5516 and 4% propyl 
+gallate – Sigma, 2370).  
+ 
+Cell DIVE Imaging of developmental shoulder joint tissues 
+The GE Cell DIVE system was used to image all developmental FFPE slides using the ImageApp imaging 
+software(53, 54). An initial image using a 10x objective of the entire tissue allows for ROI selection. The 
+background and innate autofluorescence of the tissue are captured during the initial 20x imaging round. This 
+uses the FITC, Cy3, Cy5 channels as well as the DAPI signal to also create a virtual H&E image. Background 
+imaging is used to subtract autofluorescence from all subsequent rounds of staining. Slides were de-
+coverslipped in 1xPBS prior to staining. Each staining round consisted of a master mix of 3 antibodies 
+prepared in antibody diluent (3% BSA, 1xPBS). The initial round used primary antibodies which were 
+incubated in the dark for 1 hr at room temperature followed by 3x washes in 1xPBS. Secondary antibodies 
+raised in Donkey were then incubated for an additional  hour at room temperature which were either 
+conjugated to Alexa Fluor 488, 555 or 647. Each subsequent staining round used directly conjugated 
+antibodies to either of these dyes. Fluorophores were bleached between each staining round using NaHCO  
+3
+(0.1M, pH 11.2. Sigma - S6297) and 3% H O  (Merck – 216763). Fresh bleaching solutions were prepared, 
+2 2
+and slides were bleached 3 times (15 minutes each) with a 1 minute 1xPBS wash in between bleaching 
+rounds. Slides were re-stained for DAPI for 2 minutes and washed in 1xPBS for 5 minutes before imaging 
+the dye-inactivated round as the new background round (for subsequent background subtraction). DAPI 
+staining between imaging rounds assists in image registration and alignment. Slides were multiplexed with 
+the next panel of three markers with iterative staining, bleaching and imaging. A negative control slide stained 
+with  isotype-matched  antibodies  was  used  at  the  same  concentration  as  the  corresponding  primary 
+antibodies and using the same exposure settings. QuPath software 0.3 was used for image visualisation and 
+the isotype controls were contrast-matched to samples stained with primary antibodies for comparison(55). 
+ 
+Isolation of monocyte-derived macrophages from blood  
+Non-clinical blood cones were provided by the NHSBT and approved under REC number 11/H0771/7. PBMC 
+were isolated using a density gradient (Histopaque, Sigma) and depleted from red blood cells using ACK 
+lysis buffer (ThermoFisher Scientific). CD14+CD16+ cells were isolated from peripheral blood mononuclear 
+cells using EasySep™ Human Monocyte Enrichment Kit without CD16 Depletion (Stemcell) according to the 
+  22 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.01.16.522218; this version posted January 16, 2023. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+manufacturer’s protocol. Cells were differentiated into macrophages in complete media (RPMI, Gibco + FCS, 
+Gibco  +1%Penstrep,  Sigma)  containing  5%  FCS  and  additional  100ng/mL  M-CSF  (PeproTech)  with 
+incubator conditions 37°C/5% CO2. On day 6, macrophages were harvested using cell lifters and plated in 
+the appropriate plate at a density of 500,000 cells/well in a 6-well plate or 100,000 cells/well in a 96-well plate, 
+in 3ml and 200uL complete media, containing 3% FCS respectively and rested for 2 days. On day 8, cells 
+were washed and stimulated with 10ng/ml LPS (Invivogen) or 1uM Dexamethasone (Sigma) for 72 hrs. Doses 
+of reagents used were adapted from a previously published protocol(24).  
+ 
+Characterisation of Dexamethasone and LPS treated MDMs by flow cytometry 
+To characterize the blood cone derived macrophages after stimulating with Dexamethasone or LPS, protein 
+expression was measured by flow cytometric analysis. For this experiment 4 different donors were used in 
+independent experiments.  Monocytes were isolated from blood cones and treated with M-CSF for 5 days as 
+described  above.  After  plating  to  1x106,  cells  were  rested  for  2  days  and  stimulated  with  LPS  or 
+Dexamethasone to induce respective MerTKlow or MerTKhigh phenotypes as above. Macrophages were 
+dissociated from the plate with Accutase for 10 minutes and dissociated using a cell lifter to harvest for flow 
+cytometry. The cells were stained with antibodies against the surface markers MerTK, CD163, CD206, 
+TREM2, CD14, LYVE-1 and CD48 (1:100 dilution). In addition, a Live/dead stain (1:500) and FC block (1:100) 
+was added to the mixture. After 20 minutes of staining at 4 degrees, cells were spun down, and supernatant 
+was discarded before cells were fixed using 4% PFA in PBS at RT for 20 minutes. After spinning and 
+discarding of the supernatant, cells were permeabilized for 15 minutes with 1x BD Perm/Wash™ buffer and 
+stained with antibody against CD68 for 20 minutes at RT. Cells were washed in permeabilization buffer and 
+resuspended in FACS buffer (10% FBS in PBS) before running on an LSRII Flow Cytometer. Data was 
+analysed using FlowJo V10. Data were expressed as geometric mean of staining intensity and were 
+normalised within donors relative to control (minus dexamethasone or LPS stimulation). Data were analysed 
+in Graphpad Prism 9.2.0. and are expressed as SEM p<0.05 with n=4 donors, statistical test used was an 
+unpaired t-test.  
+ 
+Coculture of MerTKhigh and MerTKlow MDMs with primary capsular fibroblasts  
+Monocyte derived macrophages (MDMs, n=3 donors) in 6-well plates were stimulated for 72 hours with the 
+previously described conditions to induce MerTKhigh or MerTKlow populations. After washing with PBS, 
+  23 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.01.16.522218; this version posted January 16, 2023. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+capsule-derived fibroblasts isolated from frozen shoulder patients (n=3 donors) were added to MerTKhigh or 
+MerTKlow incubations at a density of 200,000 cells/well. Fibroblasts and MDMs were co-cultured for 48 hrs in 
+complete media containing 3% FCS prior to harvest and sorting. After 48 hours, cells were incubated with 
+accutase for 10 minutes and vigorously resuspended. Media was added and remaining adherent cells 
+detached by scraping. A single cell suspension was obtained after putting cells through a 70m cell strainer 
+and resuspended in Facs buffer containing 1% BSA 0.1mg/ml DNase in PBS. Cells were stained with 
+antibodies PDPN, CD90, CD45, CD14 (1:200 dilution) to distinguish between fibroblasts and MDMs. Directly 
+co-cultured MDMs and fibroblasts were sorted on a BD Aria III with Diva 8.01 software. Fibroblasts 
+(PDPN+CD90+CD31-) and MDMs (CD45+CD14+) were sorted into RLT Lysis buffer (Qiagen). RNA from 
+sorted capsular fibroblasts was extracted using the RNEasy microprep kit (Qiagen) according to the 
+manufacturers protocol.  
+ 
+Bulk RNA-seq of capsular fibroblasts co-cultured with MDMs 
+Total RNA was quantified using Quant-it RiboGreen RNA Assay Kit (Invitrogen), and the integrity assessed 
+by the 4200 Tapestation system (Agilent). PolyA+ mRNA was enriched and purified from 100ng high-quality 
+total RNA (RIN >9) using NEBNext Poly(A) mRNA Magnetic Isolation Module (E7490L). Generation of double 
+stranded cDNA and library construction were performed using the NEBNext Ultra II Directional RNA Library 
+Prep  Kit  for  Illumina  (E7760L),  with  custom  adapters  and  barcode  tags  (dual  indexing,  based  on 
+DOI: https://doi.org/10.1186/1472-6750-13-104). Indexed libraries were multiplexed based on fluorescent-
+based quantification. The final size distribution of the multiplexed pool was determined using Tapestation and 
+quantified by Qubit assay (Thermo Fisher), before sequencing on an Illumina NovaSeq6000 v1.5 in 150bp 
+paired-end mode. Data from the NovaSeq6000 were demultiplexed using bcl2fastq (Illumina) version 2.20.0. 
+Cassette scores were calculated using addModuleScore function and the log normalised count of all 
+MERTKhigh markers. 
+ 
+Computational Analysis of single-cell RNA-sequencing data 
+Analysis of single-cell RNA-seq data from frozen shoulder and comparator adult tissues 
+Single cell RNA sequencing data was aligned to human genome using 10x Genomics Cell Ranger version 
+6.1. and 2020-A Reference annotations (GRCh38, GENCODE v32/Ensembl 98). Ambient background RNA 
+was removed using CellBender (version 0.2.0; droplets included=10,000, fpr=0.01, epochs=150). A total of 
+  24 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.01.16.522218; this version posted January 16, 2023. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+n=13194 cells were identified for downstream analysis. Doublets were determined using Scrublet (version 
+0.2.3) at an expected doublet rate of 0.05(56). The count matrix was transformed into a Seurat object for 
+downstream analysis(57). Additionally, we removed cells that had abnormally low or high gene counts (<300 
+or >6500 n_Feature) and high mitochondrial gene expression (> 10% mitochondrial genes, n=5818 cells 
+removed). Cell cycle scores were computed using curated gene sets(58) and the addModuleScore function 
+provided in Seurat. Cell counts were log normalised, scaled, and n=3000 highly variable genes (HVG) were 
+selected using the VST method and used for principal component analysis (PCA, n=50 PCs retained). We 
+corrected the latent space using Harmony by the condition (i.e., comparator and frozen shoulder) of the 
+samples (n=15 components retained)(15). Downstream analyses were performed using the Cellhub workflow 
+(https://github.com/sansomlab/cellhub). Nearest neighbour graphs were computed with the HNSW algorithm 
+(Euclidean distance, k=20) and clustering performed with the Leiden algorithm. We applied additional filters 
+to remove clusters of cells with low UMI (n_Count < 10000) and gene count (n_Features < 1000), and highly 
+expressed hemoglobin markers (HBA, HBB, HBG) (n=558 cells). The remaining clusters of high-quality cells 
+(n=6818 in total) were assigned to stromal, myeloid or lymphoid cell type “regions” based on singleR cell type 
+predictions(59) (version 1.06) and expression of known cell-type specific marker genes (CD34 PECAM–, 
+stromal; CD14, myeloid cells; CD3, lymphoid cells). The count matrices for each of the cell-type regions were 
+extracted and separately re-analysed using the workflow described above. For the stromal cells we used 
+n=1500 HVG, n=50 PCA components, n=14 harmony components and a clustering resolution of 0.3. For the 
+myeloid cells we used n=400 HVG, n=50 PCA components, n=11 harmony components and a clustering 
+resolution of 0.2. We removed a cluster of cells that consisted mainly doublets (score ≥ 0.4; n=9 cells 
+removed). For the lymphoid cells n=1000 HVG, n=50 PCA components, n=11 harmony components and a 
+clustering resolution of 0.2 was used. The markers of each cluster were identified using a Wilcox test (BH 
+adjusted p≤0.05).  
+ 
+Pseudobulk-level differential expression analysis  
+Within cell type differential expression analyses of the adult single cell dataset (comparator vs frozen 
+shoulder) were performed at pseudo-bulk level. Pseudo-bulks were created by summing gene counts within 
+cluster for each sample using Muscat. Differential expression analysis was performed using DESeq2(60) 
+(version 1.26.0; ashr shrinkage, Wald test). Genes expressed (≥10 counts) in n ≥x samples where x was 
+  25 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.01.16.522218; this version posted January 16, 2023. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+equal to the number of biological replicates in any of the condition groups were retained for differential 
+expression analysis. 
+ 
+Pathway analysis  
+To further dissect the functionality of genes and gene sets that had been identified from the sequencing data, 
+we performed pathway over-representation analysis using Gene Ontology database(61, 62) and Canonical 
+pathway  databases  (BioCarta,  http://cgap.nci.nih.gov/Pathways/BioCarta_Pathways;  KEGG, 
+http://www.pathway.jp;  Pathway  Interaction  Database,  PID, http://pid.nci.nih.gov;  Reactome, 
+http://www.reactome.org  and  WikiPathways, https://www.wikipathways.org/)  with  gsFisher 
+(https://github.com/sansomlab/gsfisher) and ClusterProfiler(63).For the analysis of the single cell sequencing 
+data, we used marker genes (Wilcox, BH adjusted p≤0.1) representative of each cluster and restricted the 
+gene universe to genes that were detected in a minimum of 10 percent of cells. For the bulk sequencing data, 
+we used the differentially expressed genes (DESeq2, BH adjusted p≤0.05) and restricted the gene universe 
+to include genes that were in the DEG analysis. Significant pathways were ranked and selected by their 
+magnitude of the odds ratio, which was evaluated using Fisher Exact test and corrected for multiple testing 
+using Benjamini Hochberg. 
+ 
+Cell-cell interaction analysis 
+We  identified  receptor-ligand  interactions  between  cell  clusters  using  Network  Analysis  Toolkit  for 
+Multicellular Interactions (NATMI)(23), we retained only fully validated interactions from literature and the 
+constituent ligand and receptor genes that are expressed at a detectable level (>5% within cluster).  
+ 
+Protein-protein and gene regulatory network analyses 
+Protein association network analysis was performed using Intact(25) (release 242) and the resulting network 
+graph was filtered to retain nodes with a maximum of two degrees of separation. Single-cell gene regulatory 
+network analysis of the fibroblasts was performed using pySCENIC(64) (version 0.11.2) and the elicited 
+biomolecular interaction networks and regulons were visualized using  iRegulon(65) and Cytoscape(66) 
+(version 3.9.1) We used logistic regression to model the cassette score distribution in macrophage clusters 
+between adult shoulder capsule and RA synovial tissues, which was statistically evaluated using Wald test. 
+ 
+  26 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.01.16.522218; this version posted January 16, 2023. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+Comparison of macrophages from frozen shoulder and knee synovium 
+Data (Seurat Object) for macrophages from the knee synovium was a gift from the corresponding authors of 
+#PMID:32601335(24) and can be retrieved from ArrayExpress under the accession E-MTAB-8322. We 
+retained 19078 genes that had matching Ensembl ID in both datasets. We projected the annotations of the 
+reference data, i.e., the adult capsule on to the cells from the knee synovium through semi-supervised 
+machine learning using scANVI of scArches(26) with condition as the batch variable. The reference data and 
+query data were both trained for 400 epochs. We accepted the predicted label of each query cell based on 
+the highest score for the cluster (we observed minimal differences when a threshold of 0.6 or 0.8 was applied, 
+data not shown).  
+ 
+Analysis of single-cell RNA-seq data from foetal tissues 
+Single cell RNA sequencing data from foetal tissues were analysed using the same workflow as described in 
+the adult atlas analysis section except that use of an integration algorithm was found not to be necessary. 
+The foetal data comprised of n=17718 cells, of which 4538 cells were removed for abnormal gene count and 
+high mitochondria gene expression (threshold as before). We selected n=6000 HVG and utilised the top n=16 
+PCs for computation of the UMAP and nearest neighbour graph. After removing a further n=519 cells that 
+had a low gene count), low UMI count (threshold as before), HBB+ cells, we retained 12,661 high quality 
+cells. The count matrices for each of the cell-type regions were extracted and separately re-analysed. For 
+the stromal cells we used n=2000 HVG, n=14 PCs and a clustering resolution of 0.7. For the myeloid cells 
+we used n=500 HVG, n=11 PCs and a clustering resolution of 0.6. For T cells n=1000 HVG, n=7 PCs and a 
+clustering resolution of 0.2 was used. For B cells n=500 HVG, n=7 PCs and a clustering resolution of 0.3 was 
+used. The markers of each cluster were identified using a Wilcox test (BH adjusted p-value≤0.05).  
+ 
+Computational Analysis of Bulk RNA-sequencing data 
+ 
+Data processing and differential expression analysis 
+We assessed the quality of the paired-end bulk RNA sequencing data using fastQC and generated count 
+matrix using release 32 of the Gencode transcripts reference panel (Grch38.p13) with Salmon(67)(version 
+1.5.2). We performed dimension reduction (plotPCA; DESeq2) to determine the validity of the sample labels, 
+and the sources of variation, and to visualize the structure of the data after the batch effect (stimulation) was 
+  27 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.01.16.522218; this version posted January 16, 2023. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+adjusted using Limma(68) (removeBatchEffect). Only genes that were expressed (counts≥10) in all the 
+samples in any of the condition groups were kept for analysis (n=17544 genes retained). Differential 
+expression analysis was performed using DESeq2(60) (version 1.34.0 apeglm shrinkage), and the statistical 
+significance between the full model (~ sample + stimulation) and the reduced model (~ sample) was evaluated 
+using LRT.  
+ 
+Cell type deconvolution analysis 
+Deconvolution of the bulk RNA sequencing data to the adult single cell sequencing data was performed using 
+MuSiC(69) (version 0.2.0). We used expression dataset objects from the raw count matrix of the single cell 
+data  using  BisqueRNA(70)  (version  1.0.5)  and  from  the  Bulk  RNA  sequencing  data  using 
+Biobase(71)(version 2.54.0). Differences in proportion of subtypes of cultured fibroblasts were evaluated for 
+statistical significance using Kruskal-Wallis, followed by pairwise post-hoc test with Dunn’s.    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  28 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.01.16.522218; this version posted January 16, 2023. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+FIGURES 
+Figure 1. 
+ 
+  29 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.01.16.522218; this version posted January 16, 2023. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+Figure 1. Cell types comprising the resolving inflammatory fibrotic niche.  
+(A) Representative images showing Haematoxylin & Eosin staining of sections of comparator and frozen 
+shoulder patient tissues. Distinct lining and sub-lining regions of the capsule are identified, frozen shoulder 
+tissue sections show increased cellularity and vascularity relative to comparator tissues. Nuclear counterstain 
+is violet, scale bar=50m. (B-L) scRNA-seq analysis of adult shoulder capsule from tissue biopsy samples 
+collected from comparator (n=6) and frozen shoulder (n=4) patients. (B) UMAP shows the major cell types 
+identified (C) The boxplots show the relative frequencies of the cell types in comparator and frozen shoulder 
+patient tissues highlighting credible differences in the proportion of fibroblasts between these sample types 
+(indicated by *). (D) The 4 identified lymphoid clusters. (E) Violin plots of selected lymphoid cluster marker 
+genes. (F) Relative frequencies of lymphoid clusters in comparator and frozen shoulder patient tissues. (G) 
+The 4 myeloid clusters identified (resolution=0.2). (H) Selected myeloid cluster marker genes. (I) Relative 
+frequencies of myeloid clusters in comparator and frozen shoulder patient tissues. (J) The 6 identified 
+fibroblast clusters (resolution=0.3). (K) Selected fibroblast cluster marker genes. (L) The relative frequencies 
+of the fibroblast clusters in comparator and frozen shoulder patient tissues. The credibility of differences in 
+composition between the frozen shoulder and comparator samples was determined for each cluster (C), (F), 
+(I) and (L) with scCODA(72) (10% FDR). Violin plots in (E), (H), (K) show log-normalized expression values 
+of selected cluster marker genes. Only significant cluster marker genes are shown (Wilcoxon tests, BH 
+adjusted P-values<0.05). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  30 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.01.16.522218; this version posted January 16, 2023. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+Figure 2. 
+ 
+  31 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.01.16.522218; this version posted January 16, 2023. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+Figure 2. Spatial topography of the resolving fibrotic niche. (A) Panel shows representative confocal 
+images of immunostaining for CD68 and a wider panel of macrophage markers confirming the topographical 
+niches of MerTK+LYVE1high, MerTK+LYVE1low and MerTKlowCD48+ macrophage subsets in sections of 
+comparator  and  frozen  shoulder  patient  tissues.  MerTK+LYVE1highMRC1+CD163+  and 
+MerTK+LYVE1lowFOLR2+ICAM1+CD83+FCGR3A+  subsets  predominate  in  the  capsule  lining, 
+MerTKlowCD48+PTGS2+S100A8+IL1RA+  macrophages  occupy  lining  and  sub-lining  regions.  Cyan 
+represents  POPO-1  nuclear  counterstain,  scale bar=20m.  (B)  Graph  shows  quantitative  analysis  of 
+immunostaining for CD3 in comparator (C) and frozen shoulder (FS) patient tissue sections. Panel shows 
+representative ChipCytometry images of T cells in sections of frozen shoulder patient tissues, T cells reside 
+adjacent to vascular endothelium (CD31+). Panels show staining combinations for CD4+ T cells (CD127+), 
+CD8+ T cells (CD161+ GZMK+) and NK cells (CD56+ GZMB+), nuclei counterstained cyan/blue. (C) 
+Representative confocal images showing labelling for a cassette of fibroblast markers confirming the 
+topographical niches of identified fibroblast sub-populations from Figure 1J in sections of comparator and 
+frozen  shoulder  patient  tissues.  Sub-population  markers  include  DKK3+FMOD+,  CXCL12+PTGDS+, 
+POSTN+CTHRC1+,  ARC+CHI3L1+,  MFAP5+  and  CLIC5+HBEGF+PRG4+.  Cyan  represents  POPO-1 
+nuclear counterstain, scale bar=20m. (D) Graphs show quantitative analysis of cellularity (total cellularity 
+and cellularity localised to lining and sub-lining regions) and immunostaining for markers of macrophages 
+(CD68, CD48) fibroblast activation (PDPN, CD90) and matrix associated markers (POSTN, CTHRC1) in 
+sections of tissue biopsies collected from comparator (C) and frozen shoulder (FS) patients. Statistically 
+significant differences were calculated using pairwise Mann-Whitney U tests. Bars represent median values. 
+*** P<0.001, ** P<0.01. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  32 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.01.16.522218; this version posted January 16, 2023. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+Figure 3. 
+ 
+  33 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.01.16.522218; this version posted January 16, 2023. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+Figure 3. Capsular MERTKhigh macrophages have a modulatory phenotype. 
+(A) The heatmap shows the top 20 marker genes for the capsular myeloid cell clusters (Wilcoxon test, BH 
+adjusted P<1x10-9. (B) Geneset over-representation analysis of gene ontology (GO) Biological Processes 
+(BP) in the capsular myeloid clusters (one-sided Fisher tests, BH adjusted P<0.05. (C) UMAPs show the 
+expression of modulatory macrophage genes including MERTK, LYVE1, CD163, TREM2, FOLR2 and MRC1 
+in capsular macrophages, localising these markers to MERTK+LYVE1high and MERTK+LYVE1low clusters. 
+(D) Representative images of 3,3′-diaminobenzidine immunostaining (brown) for MERTK in sections from 
+comparator and frozen shoulder patient tissues, staining is localised to the capsule lining region. Nuclear 
+counterstain is haematoxylin, scale bar=50m. (E) Graph shows quantitative analysis of MERTK+ cells in 
+comparator (C) and frozen shoulder (FS) patient tissues, bars show median values. Statistically significant 
+differences were calculated using Kruskal-Wallis tests with pairwise post hoc Mann-Whitney U tests, **P< 
+0.01. (F) Violin plots show expression of MERTK ligands GAS6 and PROS1 in capsular fibroblast sub-
+populations. (G) Selected predicted ligand-receptor interactions between sender population (PROS1+ or 
+GAS6+ fibroblasts) and receiver population (MERTK+LYVE1high or MERTK+LYVE1low macrophages) are 
+show. Predictions were generated from comparator (n=6 capsule biopsies) and frozen shoulder (n=4 capsule 
+biopsies), sub-populations as in Figure 1G (NATMI analysis; BH adjusted P<0.05). (H) Representative 
+immunofluorescence images of the lining region of frozen shoulder patient tissues, showing the topographical 
+proximity of MERTK with associated ligands GAS6 and PROS1. Fibroblast markers include CLIC5, PDPN, 
+AXL. Scale bar=20m. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  34 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.01.16.522218; this version posted January 16, 2023. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+Figure 4. 
+ 
+  35 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.01.16.522218; this version posted January 16, 2023. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+Figure 4. MerTKlow and MerTKhigh macrophages induce divergent responses in capsular fibroblasts 
+from frozen shoulder patients.  
+(A) Heatmap showing selected genes that showed significant variance in expression between capsular 
+fibroblasts from frozen shoulder patients co-incubated with MerTKhigh, MerTKlow MDMs or fibroblasts in 
+isolation (DESeq2, LRT test, BH adjusted P<0.05). (B) Dot plot shows GO biological processes over-
+represented in the sets of genes down-regulated in capsular fibroblasts by incubation with MerTKhigh MDMs 
+(group 1) or up-regulated by incubation with MerTKhigh MDMs (group 2). (C) The boxplots show the predicted 
+proportions of fibroblast subsets identified in the single-cell analysis (Figure 1J) present in the untreated, 
+MerTKhigh-MDM  co-cultured  and  MerTKlow-MDM  co-cultured  fibroblasts  (n=3  donors  in  independent 
+experiments, bars show median value; deconvolution performed with MuSiC). (D) Selected predicted ligand-
+receptor interactions between MerTK+LYVE1+ myeloid and DKK3+FMOD+ or POSTN+ACAN+ fibroblast 
+sub-populations generated from differentially expressed genes from comparator (n=6 capsule biopsies) and 
+frozen shoulder (n=4 capsule biopsies), sub-populations as in Figure 1 (NATMI analysis). (E) The scatter plot 
+shows the expression change of predicted ligand-receptor interactions between MerTK+LYVE1+ myeloid 
+and DKK3+FMOD+ or POSTN+ACAN+ fibroblast sub-populations in frozen shoulder relative to comparator 
+patient tissues. (F) Protein-protein network association analysis of receptors (blue) highly expressed in frozen 
+shoulder patient fibroblasts identified a candidate interaction with RUNX2 (analysis performed with IntAct). 
+(G) Single-cell PySCENIC(64) gene regulatory network analysis of fibroblasts (Figure 1J, all clusters) 
+identified a connection between the expression of RUNX2 and matrix associated genes including CDH11, 
+MMP14, MMP13 and SPP1 (pink) in POSTN+ACAN+ fibroblasts. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  36 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.01.16.522218; this version posted January 16, 2023. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+Figure 5. 
+ 
+ 
+Figure 5. Comparison of MERTKhigh macrophage clusters in shoulder capsule and knee RA synovial 
+tissues. (A) Dendrogram shows the transcriptomic Spearman correlation distance between human myeloid 
+populations in comparator and frozen shoulder capsule tissues (blue) relative to knee RA synovial tissue 
+macrophages (STMs, red) from Alivernini et al. (2020). In STMs, the MERTK+LYVE1+ cluster is annotated 
+FOLR2highLYVE1+. (B) UMAP shows the Alivernini et al. (2020 STM cells with labels transferred from the 
+myeloid clusters identified in adult shoulder capsule tissues (Figure 1G) (scArches analysis) (C) The Sankey 
+plot shows the mapping between the original STM sub-populations clusters identified by Alivernini et al. 
+  37 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.01.16.522218; this version posted January 16, 2023. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+(2020) (left) and the transferred myeloid labels from the adult shoulder capsule tissues (MERTK–CD48+, 
+MERTK+LYVE1low, MERTKLYVE1high, CD1C+) (right). (D) The box plots show the normalized expression of 
+myeloid genes including MAF, LYVE1, MERTK, SELENOP, CD48 and MRC1 in the shoulder capsule myeloid 
+clusters (blue, as per Figure 1G) and the corresponding STM subsets (red, as predicted by label transfer). 
+(E) Box plots (right) show cassette scores for marker genes of the MERTK+LYVE1high cluster in the shoulder 
+capsule myeloid clusters (Figure 1G) and corresponding knee STM subsets (as predicted by label transfer). 
+Bars  show  median  value,  *P<0.05  (Wald  test).  (F)  Dot  plot  shows  average  expression  of  top  25 
+MERTK+LYVE1high  macrophage  cluster  marker  genes  in  the  shoulder  capsule  MERTK+LYVE1high 
+macrophages relative to their corresponding cells in the Alivernini et al. (2020) STMs (as predicted by label 
+transfer).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  38 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.01.16.522218; this version posted January 16, 2023. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+Figure 6. 
+ 
+  39 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.01.16.522218; this version posted January 16, 2023. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+Figure 6. The developing shoulder capsule informs a template for resolution.  
+scRNAseq was performed on 12, 15 and 17 pcw developing human shoulder joint tissues. (A) UMAP shows 
+the major cell types comprising the developing foetal shoulder joint. (B) UMAP (cluster resolution=0.6) shows 
+identified myeloid populations in the developing shoulder joint (12, 15 and 17 pcw). Sub-clustering of myeloid 
+populations revealed 7 distinct clusters including MERTK+LYVE1+ and MERTK+TIMD4+ populations. (C) 
+The plot shows the same foetal cell UMAP with labels transferred from the adult shoulder capsule myeloid 
+cells (Figure 1G) (scArches analysis). (D) UMAP (res=0.7) showing CD45–COL1A1+ stromal cell clusters in 
+the developing shoulder joint (12, 15 and 17 pcw). (E) The plot shows the same UMAP of developing shoulder 
+stromal cells with labels transferred from the adult clusters (Figure 1J) (scArches analysis). (F) The Sankey 
+plot shows the mapping between the clusters identified in the developing shoulder stromal cells (D) (left) and 
+the transferred labels from the adult fibroblast populations (right). (G-J) Representative Cell DIVE and 
+respective H&E stained images of histological sections of foetal shoulder joint at 17 post conception weeks 
+(pcw) development stage. (G & H) Sections stained for a panel of markers to identify fibroblasts in the 
+shoulder capsule during development (FMOD, DKK3, POSTN, CLU). DAPI nuclear counterstain is dark blue, 
+scale bar=20m. (I) High magnification image showing the cell types identified in foetal shoulder capsule 
+including macrophages (CD68, CD163, MerTK) and fibroblasts (PDPN, CLU, AXL, GAS6) in the capsule 
+lining region at 17 pcw. Scale bar=20 m. (J) High magnification image of the foetal shoulder capsule (17 
+pcw) showing immunostaining for macrophage markers MerTK, LYVE1, CD206 and CD163 in the capsule 
+lining region. DAPI nuclear counterstain is dark blue, white arrows mark MerTK+ macrophages. Scale bar=20 
+m. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  40 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.01.16.522218; this version posted January 16, 2023. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+References  
+ 
+1.  T. A. Wynn, Fibrotic disease and the T(H)1/T(H)2 paradigm. Nat Rev Immunol 4, 583-594 (2004). 
+2.  P. Ramachandran, R. Dobie, J. R. Wilson-Kanamori, E. F. Dora, B. E. P. Henderson, N. T. Luu, J. 
+R. Portman, K. P. Matchett, M. Brice, J. A. Marwick, R. S. Taylor, M. Efremova, R. Vento-Tormo, N. 
+O. Carragher, T. J. Kendall, J. A. Fallowfield, E. M. Harrison, D. J. Mole, S. J. Wigmore, P. N. 
+Newsome, C. J. Weston, J. P. Iredale, F. Tacke, J. W. Pollard, C. P. Ponting, J. C. Marioni, S. A. 
+Teichmann, N. C. Henderson, Resolving the fibrotic niche of human liver cirrhosis at single-cell 
+level. Nature 575, 512-518 (2019). 
+3.  P. A. Reyfman, J. M. Walter, N. Joshi, K. R. Anekalla, A. C. McQuattie-Pimentel, S. Chiu, R. 
+Fernandez, M. Akbarpour, C. I. Chen, Z. Ren, R. Verma, H. Abdala-Valencia, K. Nam, M. Chi, S. 
+Han, F. J. Gonzalez-Gonzalez, S. Soberanes, S. Watanabe, K. J. N. Williams, A. S. Flozak, T. T. 
+Nicholson, V. K. Morgan, D. R. Winter, M. Hinchcliff, C. L. Hrusch, R. D. Guzy, C. A. Bonham, A. I. 
+Sperling, R. Bag, R. B. Hamanaka, G. M. Mutlu, A. V. Yeldandi, S. A. Marshall, A. Shilatifard, L. A. 
+N. Amaral, H. Perlman, J. I. Sznajder, A. C. Argento, C. T. Gillespie, J. Dematte, M. Jain, B. D. 
+Singer, K. M. Ridge, A. P. Lam, A. Bharat, S. M. Bhorade, C. J. Gottardi, G. R. S. Budinger, A. V. 
+Misharin, Single-Cell Transcriptomic Analysis of Human Lung Provides Insights into the 
+Pathobiology of Pulmonary Fibrosis. Am J Respir Crit Care Med 199, 1517-1536 (2019). 
+4.  E. Valenzi, M. Bulik, T. Tabib, C. Morse, J. Sembrat, H. Trejo Bittar, M. Rojas, R. Lafyatis, Single-
+cell analysis reveals fibroblast heterogeneity and myofibroblasts in systemic sclerosis-associated 
+interstitial lung disease. Ann Rheum Dis 78, 1379-1387 (2019). 
+5.  T. Tsukui, K. H. Sun, J. B. Wetter, J. R. Wilson-Kanamori, L. A. Hazelwood, N. C. Henderson, T. S. 
+Adams, J. C. Schupp, S. D. Poli, I. O. Rosas, N. Kaminski, M. A. Matthay, P. J. Wolters, D. 
+Sheppard, Collagen-producing lung cell atlas identifies multiple subsets with distinct localization and 
+relevance to fibrosis. Nature communications 11, 1920 (2020). 
+6.  T. A. Wynn, K. M. Vannella, Macrophages in Tissue Repair, Regeneration, and Fibrosis. Immunity 
+44, 450-462 (2016). 
+7.  T. A. Wynn, Cellular and molecular mechanisms of fibrosis. J Pathol 214, 199-210 (2008). 
+8.  C. Hand, K. Clipsham, J. L. Rees, A. J. Carr, Long-term outcome of frozen shoulder. J Shoulder 
+Elbow Surg 17, 231-236 (2008). 
+  41 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.01.16.522218; this version posted January 16, 2023. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+9.  K. Walker-Bone, C. Cooper, Hard work never hurt anyone: or did it? A review of occupational 
+associations with soft tissue musculoskeletal disorders of the neck and upper limb. Ann Rheum Dis 
+64, 1391-1396 (2005). 
+10.  A. Rangan, S. D. Brealey, A. Keding, B. Corbacho, M. Northgraves, L. Kottam, L. Goodchild, C. 
+Srikesavan, S. Rex, C. P. Charalambous, N. Hanchard, A. Armstrong, A. Brooksbank, A. Carr, C. 
+Cooper, J. J. Dias, I. Donnelly, C. Hewitt, S. E. Lamb, C. McDaid, G. Richardson, S. Rodgers, E. 
+Sharp, S. Spencer, D. Torgerson, F. Toye, U. F. S. Group, Management of adults with primary 
+frozen shoulder in secondary care (UK FROST): a multicentre, pragmatic, three-arm, superiority 
+randomised clinical trial. Lancet 396, 977-989 (2020). 
+11.  W. V. King, C. Hebron, Frozen shoulder: living with uncertainty and being in "no-man's land". 
+Physiother Theory Pract, 1-15 (2022). 
+12.  H. D. Green, A. Jones, J. P. Evans, A. R. Wood, R. N. Beaumont, J. Tyrrell, T. M. Frayling, C. 
+Smith, M. N. Weedon, A genome-wide association study identifies 5 loci associated with frozen 
+shoulder and implicates diabetes as a causal risk factor. PLoS Genet 17, e1009577 (2021). 
+13.  S. P. Smith, V. S. Devaraj, T. D. Bunker, The association between frozen shoulder and Dupuytren's 
+disease. J Shoulder Elbow Surg 10, 149-151 (2001). 
+14.  S. G. Dakin, A. Rangan, F. Martinez, S. Brealey, M. Northgraves, L. Kottam, C. Cooper, C. D. 
+Buckley, A. J. Carr, Tissue inflammation signatures point towards resolution in adhesive capsulitis. 
+Rheumatology (Oxford) 58, 1109-1111 (2019). 
+15.  I. Korsunsky, N. Millard, J. Fan, K. Slowikowski, F. Zhang, K. Wei, Y. Baglaenko, M. Brenner, P. R. 
+Loh, S. Raychaudhuri, Fast, sensitive and accurate integration of single-cell data with Harmony. Nat 
+Methods 16, 1289-1296 (2019). 
+16.  A. P. Croft, J. Campos, K. Jansen, J. D. Turner, J. Marshall, M. Attar, L. Savary, C. Wehmeyer, A. J. 
+Naylor, S. Kemble, J. Begum, K. Durholz, H. Perlman, F. Barone, H. M. McGettrick, D. T. Fearon, K. 
+Wei, S. Raychaudhuri, I. Korsunsky, M. B. Brenner, M. Coles, S. N. Sansom, A. Filer, C. D. Buckley, 
+Distinct fibroblast subsets drive inflammation and damage in arthritis. Nature 570, 246-251 (2019). 
+17.  M. Frank-Bertoncelj, M. Trenkmann, K. Klein, E. Karouzakis, H. Rehrauer, A. Bratus, C. Kolling, M. 
+Armaka, A. Filer, B. A. Michel, R. E. Gay, C. D. Buckley, G. Kollias, S. Gay, C. Ospelt, 
+Epigenetically-driven anatomical diversity of synovial fibroblasts guides joint-specific fibroblast 
+functions. Nature communications 8, 14852 (2017). 
+  42 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.01.16.522218; this version posted January 16, 2023. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+18.  K. Wei, I. Korsunsky, J. L. Marshall, A. Gao, G. F. M. Watts, T. Major, A. P. Croft, J. Watts, P. E. 
+Blazar, J. K. Lange, T. S. Thornhill, A. Filer, K. Raza, L. T. Donlin, A. Accelerating Medicines 
+Partnership Rheumatoid, C. Systemic Lupus Erythematosus, C. W. Siebel, C. D. Buckley, S. 
+Raychaudhuri, M. B. Brenner, Notch signalling drives synovial fibroblast identity and arthritis 
+pathology. Nature 582, 259-264 (2020). 
+19.  K. Wei, H. N. Nguyen, M. B. Brenner, Fibroblast pathology in inflammatory diseases. J Clin Invest 
+131,  (2021). 
+20.  G. Lemke, Biology of the TAM receptors. Cold Spring Harb Perspect Biol 5, a009076 (2013). 
+21.  G. Lemke, T. Burstyn-Cohen, TAM receptors and the clearance of apoptotic cells. Ann N Y Acad Sci 
+1209, 23-29 (2010). 
+22.  B. Cai, C. Kasikara, A. C. Doran, R. Ramakrishnan, R. B. Birge, I. Tabas, MerTK signaling in 
+macrophages promotes the synthesis of inflammation resolution mediators by suppressing CaMKII 
+activity. Sci Signal 11,  (2018). 
+23.  R. Hou, E. Denisenko, H. T. Ong, J. A. Ramilowski, A. R. R. Forrest, Predicting cell-to-cell 
+communication networks using NATMI. Nature communications 11, 5011 (2020). 
+24.  S. Alivernini, L. MacDonald, A. Elmesmari, S. Finlay, B. Tolusso, M. R. Gigante, L. Petricca, C. Di 
+Mario, L. Bui, S. Perniola, M. Attar, M. Gessi, A. L. Fedele, S. Chilaka, D. Somma, S. N. Sansom, A. 
+Filer, C. McSharry, N. L. Millar, K. Kirschner, A. Nerviani, M. J. Lewis, C. Pitzalis, A. R. Clark, G. 
+Ferraccioli, I. Udalova, C. D. Buckley, E. Gremese, I. B. McInnes, T. D. Otto, M. Kurowska-
+Stolarska, Distinct synovial tissue macrophage subsets regulate inflammation and remission in 
+rheumatoid arthritis. Nat Med 26, 1295-1306 (2020). 
+25.  S. Orchard, M. Ammari, B. Aranda, L. Breuza, L. Briganti, F. Broackes-Carter, N. H. Campbell, G. 
+Chavali, C. Chen, N. del-Toro, M. Duesbury, M. Dumousseau, E. Galeota, U. Hinz, M. Iannuccelli, 
+S. Jagannathan, R. Jimenez, J. Khadake, A. Lagreid, L. Licata, R. C. Lovering, B. Meldal, A. N. 
+Melidoni, M. Milagros, D. Peluso, L. Perfetto, P. Porras, A. Raghunath, S. Ricard-Blum, B. Roechert, 
+A. Stutz, M. Tognolli, K. van Roey, G. Cesareni, H. Hermjakob, The MIntAct project--IntAct as a 
+common curation platform for 11 molecular interaction databases. Nucleic Acids Res 42, D358-363 
+(2014). 
+  43 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.01.16.522218; this version posted January 16, 2023. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+26.  M. Lotfollahi, M. Naghipourfar, M. D. Luecken, M. Khajavi, M. Buttner, M. Wagenstetter, Z. Avsec, 
+A. Gayoso, N. Yosef, M. Interlandi, S. Rybakov, A. V. Misharin, F. J. Theis, Mapping single-cell data 
+to reference atlases by transfer learning. Nat Biotechnol 40, 121-130 (2022). 
+27.  M. Selman, A. Pardo, N. Kaminski, Idiopathic pulmonary fibrosis: aberrant recapitulation of 
+developmental programs? PLoS Med 5, e62 (2008). 
+28.  T. Leng, H. D. Akther, C. P. Hackstein, K. Powell, T. King, M. Friedrich, Z. Christoforidou, S. 
+McCuaig, M. Neyazi, C. V. Arancibia-Carcamo, J. Hagel, F. Powrie, I. B. D. I. Oxford, R. S. Peres, 
+V. Millar, D. Ebner, R. Lamichhane, J. Ussher, T. S. C. Hinks, E. Marchi, C. Willberg, P. Klenerman, 
+TCR and Inflammatory Signals Tune Human MAIT Cells to Exert Specific Tissue Repair and 
+Effector Functions. Cell Rep 28, 3077-3091 e3075 (2019). 
+29.  T. S. C. Hinks, E. Marchi, M. Jabeen, M. Olshansky, A. Kurioka, T. J. Pediongco, B. S. Meehan, L. 
+Kostenko, S. J. Turner, A. J. Corbett, Z. Chen, P. Klenerman, J. McCluskey, Activation and In Vivo 
+Evolution of the MAIT Cell Transcriptome in Mice and Humans Reveals Tissue Repair Functionality. 
+Cell Rep 28, 3249-3262 e3245 (2019). 
+30.  J. L. Linehan, O. J. Harrison, S. J. Han, A. L. Byrd, I. Vujkovic-Cvijin, A. V. Villarino, S. K. Sen, J. 
+Shaik, M. Smelkinson, S. Tamoutounour, N. Collins, N. Bouladoux, A. Dzutsev, S. P. Rosshart, J. H. 
+Arbuckle, C. R. Wang, T. M. Kristie, B. Rehermann, G. Trinchieri, J. M. Brenchley, J. J. O'Shea, Y. 
+Belkaid, Non-classical Immunity Controls Microbiota Impact on Skin Immunity and Tissue Repair. 
+Cell 172, 784-796 e718 (2018). 
+31.  F. Zhang, K. Wei, K. Slowikowski, C. Y. Fonseka, D. A. Rao, S. Kelly, S. M. Goodman, D. 
+Tabechian, L. B. Hughes, K. Salomon-Escoto, G. F. M. Watts, A. H. Jonsson, J. Rangel-Moreno, N. 
+Meednu, C. Rozo, W. Apruzzese, T. M. Eisenhaure, D. J. Lieb, D. L. Boyle, A. M. Mandelin, 2nd, A. 
+Accelerating Medicines Partnership Rheumatoid, C. Systemic Lupus Erythematosus, B. F. Boyce, 
+E. DiCarlo, E. M. Gravallese, P. K. Gregersen, L. Moreland, G. S. Firestein, N. Hacohen, C. 
+Nusbaum, J. A. Lederer, H. Perlman, C. Pitzalis, A. Filer, V. M. Holers, V. P. Bykerk, L. T. Donlin, J. 
+H. Anolik, M. B. Brenner, S. Raychaudhuri, Defining inflammatory cell states in rheumatoid arthritis 
+joint synovial tissues by integrating single-cell transcriptomics and mass cytometry. Nat Immunol 20, 
+928-942 (2019). 
+32.  L. MacDonald, S. Alivernini, B. Tolusso, A. Elmesmari, D. Somma, S. Perniola, A. Paglionico, L. 
+Petricca, S. L. Bosello, A. Carfi, M. Sali, E. Stigliano, A. Cingolani, R. Murri, V. Arena, M. Fantoni, 
+  44 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.01.16.522218; this version posted January 16, 2023. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+M. Antonelli, F. Landi, F. Franceschi, M. Sanguinetti, I. B. McInnes, C. McSharry, A. Gasbarrini, T. 
+D. Otto, M. Kurowska-Stolarska, E. Gremese, COVID-19 and RA share an SPP1 myeloid pathway 
+that drives PD-L1+ neutrophils and CD14+ monocytes. JCI Insight 6,  (2021). 
+33.  P. Ramachandran, A. Pellicoro, M. A. Vernon, L. Boulter, R. L. Aucott, A. Ali, S. N. Hartland, V. K. 
+Snowdon, A. Cappon, T. T. Gordon-Walker, M. J. Williams, D. R. Dunbar, J. R. Manning, N. van 
+Rooijen, J. A. Fallowfield, S. J. Forbes, J. P. Iredale, Differential Ly-6C expression identifies the 
+recruited macrophage phenotype, which orchestrates the regression of murine liver fibrosis. Proc 
+Natl Acad Sci U S A 109, E3186-3195 (2012). 
+34.  J. S. Duffield, S. J. Forbes, C. M. Constandinou, S. Clay, M. Partolina, S. Vuthoori, S. Wu, R. Lang, 
+J. P. Iredale, Selective depletion of macrophages reveals distinct, opposing roles during liver injury 
+and repair. J Clin Invest 115, 56-65 (2005). 
+35.  K. R. Karlmark, R. Weiskirchen, H. W. Zimmermann, N. Gassler, F. Ginhoux, C. Weber, M. Merad, 
+T. Luedde, C. Trautwein, F. Tacke, Hepatic recruitment of the inflammatory Gr1+ monocyte subset 
+upon liver injury promotes hepatic fibrosis. Hepatology 50, 261-274 (2009). 
+36.  G. Biffi, T. E. Oni, B. Spielman, Y. Hao, E. Elyada, Y. Park, J. Preall, D. A. Tuveson, IL1-Induced 
+JAK/STAT Signaling Is Antagonized by TGFbeta to Shape CAF Heterogeneity in Pancreatic Ductal 
+Adenocarcinoma. Cancer Discov 9, 282-301 (2019). 
+37.  F. Rivellese, A. E. A. Surace, K. Goldmann, E. Sciacca, C. Cubuk, G. Giorli, C. R. John, A. Nerviani, 
+L. Fossati-Jimack, G. Thorborn, M. Ahmed, E. Prediletto, S. E. Church, B. M. Hudson, S. E. Warren, 
+P. M. McKeigue, F. Humby, M. Bombardieri, M. R. Barnes, M. J. Lewis, C. Pitzalis, R. R. c. group, 
+Rituximab versus tocilizumab in rheumatoid arthritis: synovial biopsy-based biomarker analysis of 
+the phase 4 R4RA randomized trial. Nat Med 28, 1256-1268 (2022). 
+38.  L. J. Marsh, S. Kemble, P. Reis Nisa, R. Singh, A. P. Croft, Fibroblast pathology in inflammatory 
+joint disease. Immunol Rev 302, 163-183 (2021). 
+39.  S. Liu, S. W. Xu, K. Blumbach, M. Eastwood, C. P. Denton, B. Eckes, T. Krieg, D. J. Abraham, A. 
+Leask, Expression of integrin beta1 by fibroblasts is required for tissue repair in vivo. J Cell Sci 123, 
+3674-3682 (2010). 
+40.  K. O. Lai, F. C. Ip, J. Cheung, A. K. Fu, N. Y. Ip, Expression of Eph receptors in skeletal muscle and 
+their localization at the neuromuscular junction. Mol Cell Neurosci 17, 1034-1047 (2001). 
+  45 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.01.16.522218; this version posted January 16, 2023. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+41.  F. Irie, Y. Yamaguchi, EphB receptors regulate dendritic spine development via intersectin, Cdc42 
+and N-WASP. Nat Neurosci 5, 1117-1118 (2002). 
+42.  B. Jang, A. Kim, J. Hwang, H. K. Song, Y. Kim, E. S. Oh, Emerging Role of Syndecans in 
+Extracellular Matrix Remodeling in Cancer. J Histochem Cytochem 68, 863-870 (2020). 
+43.  P. Xing, Z. Liao, Z. Ren, J. Zhao, F. Song, G. Wang, K. Chen, J. Yang, Roles of low-density 
+lipoprotein receptor-related protein 1 in tumors. Chin J Cancer 35, 6 (2016). 
+44.  H. Y. Lim, S. Y. Lim, C. K. Tan, C. H. Thiam, C. C. Goh, D. Carbajo, S. H. S. Chew, P. See, S. 
+Chakarov, X. N. Wang, L. H. Lim, L. A. Johnson, J. Lum, C. Y. Fong, A. Bongso, A. Biswas, C. Goh, 
+M. Evrard, K. P. Yeo, R. Basu, J. K. Wang, Y. Tan, R. Jain, S. Tikoo, C. Choong, W. Weninger, M. 
+Poidinger, R. E. Stanley, M. Collin, N. S. Tan, L. G. Ng, D. G. Jackson, F. Ginhoux, V. Angeli, 
+Hyaluronan Receptor LYVE-1-Expressing Macrophages Maintain Arterial Tone through Hyaluronan-
+Mediated Regulation of Smooth Muscle Cell Collagen. Immunity 49, 326-341 e327 (2018). 
+45.  S. Chakarov, H. Y. Lim, L. Tan, S. Y. Lim, P. See, J. Lum, X. M. Zhang, S. Foo, S. Nakamizo, K. 
+Duan, W. T. Kong, R. Gentek, A. Balachander, D. Carbajo, C. Bleriot, B. Malleret, J. K. C. Tam, S. 
+Baig, M. Shabeer, S. E. S. Toh, A. Schlitzer, A. Larbi, T. Marichal, B. Malissen, J. Chen, M. 
+Poidinger, K. Kabashima, M. Bajenoff, L. G. Ng, V. Angeli, F. Ginhoux, Two distinct interstitial 
+macrophage populations coexist across tissues in specific subtissular niches. Science 363,  (2019). 
+46.  C. Schulz, E. Gomez Perdiguero, L. Chorro, H. Szabo-Rogers, N. Cagnard, K. Kierdorf, M. Prinz, B. 
+Wu, S. E. Jacobsen, J. W. Pollard, J. Frampton, K. J. Liu, F. Geissmann, A lineage of myeloid cells 
+independent of Myb and hematopoietic stem cells. Science 336, 86-90 (2012). 
+47.  S. Yona, K. W. Kim, Y. Wolf, A. Mildner, D. Varol, M. Breker, D. Strauss-Ayali, S. Viukov, M. 
+Guilliams, A. Misharin, D. A. Hume, H. Perlman, B. Malissen, E. Zelzer, S. Jung, Fate mapping 
+reveals origins and dynamics of monocytes and tissue macrophages under homeostasis. Immunity 
+38, 79-91 (2013). 
+48.  S. A. Dick, J. A. Macklin, S. Nejat, A. Momen, X. Clemente-Casares, M. G. Althagafi, J. Chen, C. 
+Kantores, S. Hosseinzadeh, L. Aronoff, A. Wong, R. Zaman, I. Barbu, R. Besla, K. J. Lavine, B. 
+Razani, F. Ginhoux, M. Husain, M. I. Cybulsky, C. S. Robbins, S. Epelman, Self-renewing resident 
+cardiac macrophages limit adverse remodeling following myocardial infarction. Nat Immunol 20, 29-
+39 (2019). 
+  46 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.01.16.522218; this version posted January 16, 2023. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+49.  S. G. Dakin, F. O. Martinez, C. Yapp, G. Wells, U. Oppermann, B. J. Dean, R. D. Smith, K. 
+Wheway, B. Watkins, L. Roche, A. J. Carr, Inflammation activation and resolution in human tendon 
+disease. Science translational medicine 7, 311ra173 (2015). 
+50.  A. J. Carr, R. Murphy, S. G. Dakin, I. Rombach, K. Wheway, B. Watkins, S. L. Franklin, Platelet-
+Rich Plasma Injection With Arthroscopic Acromioplasty for Chronic Rotator Cuff Tendinopathy: A 
+Randomized Controlled Trial. Am J Sports Med 43, 2891-2897 (2015). 
+51.  J. P. Hagel, K. Bennett, F. Buffa, P. Klenerman, C. B. Willberg, K. Powell, Defining T Cell Subsets in 
+Human Tonsils Using ChipCytometry. J Immunol,  (2021). 
+52.  J. Schindelin, I. Arganda-Carreras, E. Frise, V. Kaynig, M. Longair, T. Pietzsch, S. Preibisch, C. 
+Rueden, S. Saalfeld, B. Schmid, J. Y. Tinevez, D. J. White, V. Hartenstein, K. Eliceiri, P. Tomancak, 
+A. Cardona, Fiji: an open-source platform for biological-image analysis. Nat Methods 9, 676-682 
+(2012). 
+53.  A. Corwin, E. McDonough, C. Surrette, P. Dumpuri, A. Sood, F. M. Ginty. (AACR, 2020). 
+54.  A. U. Lindner, M. Salvucci, E. McDonough, S. Cho, X. Stachtea, E. P. O'Connell, A. D. Corwin, A. 
+Santamaria-Pang, S. Carberry, M. Fichtner, S. Van Schaeybroeck, P. Laurent-Puig, J. P. Burke, D. 
+A. McNamara, M. Lawler, A. Sood, J. F. Graf, M. Rehm, P. D. Dunne, D. B. Longley, F. Ginty, J. H. 
+M. Prehn, An atlas of inter- and intra-tumor heterogeneity of apoptosis competency in colorectal 
+cancer tissue at single-cell resolution. Cell Death Differ 29, 806-817 (2022). 
+55.  P. Bankhead, M. B. Loughrey, J. A. Fernández, Y. Dombrowski, D. G. McArt, P. D. Dunne, S. 
+McQuaid, R. T. Gray, L. J. Murray, H. G. Coleman, QuPath: Open source software for digital 
+pathology image analysis. Scientific reports 7, 1-7 (2017). 
+56.  S. L. Wolock, R. Lopez, A. M. Klein, Scrublet: Computational Identification of Cell Doublets in 
+Single-Cell Transcriptomic Data. Cell Syst 8, 281-291 e289 (2019). 
+57.  T. Stuart, A. Butler, P. Hoffman, C. Hafemeister, E. Papalexi, W. M. Mauck, 3rd, Y. Hao, M. 
+Stoeckius, P. Smibert, R. Satija, Comprehensive Integration of Single-Cell Data. Cell 177, 1888-
+1902 e1821 (2019). 
+58.  I. Tirosh, B. Izar, S. M. Prakadan, M. H. Wadsworth, 2nd, D. Treacy, J. J. Trombetta, A. Rotem, C. 
+Rodman, C. Lian, G. Murphy, M. Fallahi-Sichani, K. Dutton-Regester, J. R. Lin, O. Cohen, P. Shah, 
+D. Lu, A. S. Genshaft, T. K. Hughes, C. G. Ziegler, S. W. Kazer, A. Gaillard, K. E. Kolb, A. C. Villani, 
+C. M. Johannessen, A. Y. Andreev, E. M. Van Allen, M. Bertagnolli, P. K. Sorger, R. J. Sullivan, K. 
+  47 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.01.16.522218; this version posted January 16, 2023. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+T. Flaherty, D. T. Frederick, J. Jane-Valbuena, C. H. Yoon, O. Rozenblatt-Rosen, A. K. Shalek, A. 
+Regev, L. A. Garraway, Dissecting the multicellular ecosystem of metastatic melanoma by single-
+cell RNA-seq. Science 352, 189-196 (2016). 
+59.  D. Aran, A. P. Looney, L. Liu, E. Wu, V. Fong, A. Hsu, S. Chak, R. P. Naikawadi, P. J. Wolters, A. 
+R. Abate, A. J. Butte, M. Bhattacharya, Reference-based analysis of lung single-cell sequencing 
+reveals a transitional profibrotic macrophage. Nat Immunol 20, 163-172 (2019). 
+60.  M. I. Love, W. Huber, S. Anders, Moderated estimation of fold change and dispersion for RNA-seq 
+data with DESeq2. Genome Biol 15, 550 (2014). 
+61.  M. Ashburner, C. A. Ball, J. A. Blake, D. Botstein, H. Butler, J. M. Cherry, A. P. Davis, K. Dolinski, S. 
+S. Dwight, J. T. Eppig, M. A. Harris, D. P. Hill, L. Issel-Tarver, A. Kasarskis, S. Lewis, J. C. Matese, 
+J. E. Richardson, M. Ringwald, G. M. Rubin, G. Sherlock, Gene ontology: tool for the unification of 
+biology. The Gene Ontology Consortium. Nat Genet 25, 25-29 (2000). 
+62.  C. Gene Ontology, The Gene Ontology resource: enriching a GOld mine. Nucleic Acids Res 49, 
+D325-D334 (2021). 
+63.  T. Wu, E. Hu, S. Xu, M. Chen, P. Guo, Z. Dai, T. Feng, L. Zhou, W. Tang, L. Zhan, X. Fu, S. Liu, X. 
+Bo, G. Yu, clusterProfiler 4.0: A universal enrichment tool for interpreting omics data. Innovation 
+(Camb) 2, 100141 (2021). 
+64.  S. Aibar, C. B. Gonzalez-Blas, T. Moerman, V. A. Huynh-Thu, H. Imrichova, G. Hulselmans, F. 
+Rambow, J. C. Marine, P. Geurts, J. Aerts, J. van den Oord, Z. K. Atak, J. Wouters, S. Aerts, 
+SCENIC: single-cell regulatory network inference and clustering. Nat Methods 14, 1083-1086 
+(2017). 
+65.  R. Janky, A. Verfaillie, H. Imrichova, B. Van de Sande, L. Standaert, V. Christiaens, G. Hulselmans, 
+K. Herten, M. Naval Sanchez, D. Potier, D. Svetlichnyy, Z. Kalender Atak, M. Fiers, J. C. Marine, S. 
+Aerts, iRegulon: from a gene list to a gene regulatory network using large motif and track 
+collections. PLoS Comput Biol 10, e1003731 (2014). 
+66.  P. Shannon, A. Markiel, O. Ozier, N. S. Baliga, J. T. Wang, D. Ramage, N. Amin, B. Schwikowski, 
+T. Ideker, Cytoscape: a software environment for integrated models of biomolecular interaction 
+networks. Genome Res 13, 2498-2504 (2003). 
+67.  R. Patro, G. Duggal, M. I. Love, R. A. Irizarry, C. Kingsford, Salmon provides fast and bias-aware 
+quantification of transcript expression. Nat Methods 14, 417-419 (2017). 
+  48 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.01.16.522218; this version posted January 16, 2023. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+68.  M. E. Ritchie, B. Phipson, D. Wu, Y. Hu, C. W. Law, W. Shi, G. K. Smyth, limma powers differential 
+expression analyses for RNA-sequencing and microarray studies. Nucleic Acids Res 43, e47 
+(2015). 
+69.  X. Wang, J. Park, K. Susztak, N. R. Zhang, M. Li, Bulk tissue cell type deconvolution with multi-
+subject single-cell expression reference. Nature communications 10, 380 (2019). 
+70.  B. Jew, M. Alvarez, E. Rahmani, Z. Miao, A. Ko, K. M. Garske, J. H. Sul, K. H. Pietilainen, P. 
+Pajukanta, E. Halperin, Accurate estimation of cell composition in bulk expression through robust 
+integration of single-cell information. Nature communications 11, 1971 (2020). 
+71.  W. Huber, V. J. Carey, R. Gentleman, S. Anders, M. Carlson, B. S. Carvalho, H. C. Bravo, S. Davis, 
+L. Gatto, T. Girke, R. Gottardo, F. Hahne, K. D. Hansen, R. A. Irizarry, M. Lawrence, M. I. Love, J. 
+MacDonald, V. Obenchain, A. K. Oles, H. Pages, A. Reyes, P. Shannon, G. K. Smyth, D. 
+Tenenbaum, L. Waldron, M. Morgan, Orchestrating high-throughput genomic analysis with 
+Bioconductor. Nat Methods 12, 115-121 (2015). 
+72.  M. Buttner, J. Ostner, C. L. Muller, F. J. Theis, B. Schubert, scCODA is a Bayesian model for 
+compositional single-cell data analysis. Nature communications 12, 6876 (2021). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  49 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.01.16.522218; this version posted January 16, 2023. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+Acknowledgements: 
+The human foetal material was provided by the Joint MRC/Wellcome Trust (grant# MR/R006237/1) Human 
+Developmental Biology Resource (http://hdbr.org). We thank the Oxford Genomics Centre at the Wellcome 
+Centre for Human Genetics (funded by Wellcome Trust grant reference 203141/Z/16/Z) for the generation 
+and initial processing of sequencing data. Cell DIVE equipment in the Digital Pathology Omics Core was 
+generously funded by the Kennedy Trust for Rheumatology Research. Research at the Nuffield Department 
+of Orthopaedics, Rheumatology and Musculoskeletal Sciences, University of Oxford is supported through the 
+National Institute for Health Research Oxford Musculoskeletal Biomedical Research Centre. The views 
+expressed are those of the authors and not necessarily those of the National Health Service and the national 
+Institute for Health Research of the Department of Health.  
+ 
+Funding sources to acknowledge: 
+Versus Arthritis Career Development Fellowship (22425) 
+Medical Research Council MR/S035850/1 
+Human Immune Discovery Initiative (0006565 and 0008181) & the NIHR Biomedical Research Centre, 
+Oxford 
+Dunhill Medical Trust RTF1906\121 
+Rosetrees Trust (PGL21/10048) 
+Wellcome Trust (222426/Z/21/Z) 
+Coordenação de Aperfeiçoamento de Pessoal de Nível Superior – Brasil (CAPES) 
+ 
+ 
+ 
+  50 
+
+NEW PAGE

@@ -1,0 +1,888 @@
+Review
+Evidence for Utilization of Injectable Biologic
+Augmentation in Primary Rotator Cuff Repair
+A Systematic Review of Data From 2010 to 2022
+Olivia J. Bono,*† BA, Bryan Jenkin,‡ BA, Julianne Forlizzi,§ MD, Albert Mousad,‡ BA,
+Stephen Le Breton,‡ BA, Meghan MacAskill,§ MS, Krishna Mandalia,‡ BA, Kai Mithoefer,§ MD,
+Arun Ramappa,k MD, Glen Ross,§ MD, and Sarav S. Shah,§ MD
+Investigation performed at New England Baptist Hospital, Boston, Massachusetts, USA
+Background: Biologic healing after rotator cuff repair remains a significant challenge. Injectable biologic augmentation may
+improvetissuequalityatthesuture-tendoninterface.
+Purpose: To investigate the effect of injectable biologic supplementation in rotator cuff repair and to assess the quality and
+adherencetoevolvingreportingstandards.
+StudyDesign:Systematicreview;Levelofevidence,3.
+Methods:AsystematicreviewwasconductedfollowingPRISMA(PreferredReportingItemsforSystematicReviewsandMeta-
+Analyses) guidelines. Included were 40 studies: 29 preclinical (in vivo animal models) and 11 clinical. Each clinical study was
+assessed for quality, risk of bias, and adherence to relevant MIBO (Minimum Information for Studies Evaluating Biologics in
+Orthopaedics)guidelines.Theoutcomesofinterestwerereportedloadtofailure,loadtogap,gapsize,andstiffnessinthepre-
+clinicalstudies,andhealingrateandanypatient-reportedoutcomemeasuresintheclinicalstudies.
+Results: Injectables reported included growth factors (eg, transforming growth factor–beta 3, erythropoietin), bone marrow–
+derivedmesenchymalstemcellsandadipose-derivedmesenchymalstemcells(ADSCs),andotheragentssuchasplatelet-rich
+plasma (PRP) and hyaluronic acid. The most common findings for preclinical injectables were increased load to failure (16/29
+studies;55.2%)andimprovedcollagenhistologicalquality(11/29studies;37.9%).All11clinicalstudies(10PRP,1ADSC)indi-
+catednoadverseevents,withsimilarorimprovedpatient-reportedoutcomescomparedwithrepairsinthecontrolgroups.In1
+study utilizing an innovative delivery technique, a concentrated PRP globule with fibrin matrix was shuttled over a suture to
+maintainconcentratedPRPattherepairsiteanddemonstratedasignificantdecreaseinretears(P¼.03)ata31-monthfollow-up.
+A matched-cohort study investigating augmentation with ADSCs demonstrated a significantly lower retear rate in the ADSC-
+augmented group than the control group at a 28-month follow-up (P < .001). On average, the clinical studies adhered to 66%
+ofrelevantMIBOreportingguidelinesandhadalowriskofbias.
+Conclusion: Approximately 83% of preclinical studies found a positive biomechanical or histological effect, with no studies
+showing an overall negative effect. Clinically, utilization of innovative delivery techniques may reduce the risk of arthroscopic
+washoutofPRPandimproveretearrates.ADSCswereshowntoreduceretearratesata28-monthfollow-up.
+Keywords:rotatorcuffrepair;augmentation;injectablebiologics;platelet-richplasma
+Rotator cuff tears (RCTs) are a significant source of mor- United States ages and remains physically active. Day
+bidity, often causing pain, loss of function, and difficulty et al5 demonstrated that the frequency of RCRs has
+with activities of daily living. Surgical management of increasedby188%between2007and2015.Therecontinues
+RCTsviarotatorcuffrepair(RCR)isoftenindicatedafter to be a wide discrepancy in retear rates despite improve-
+failed nonoperative management given the potential to ment in surgical techniques, with retear rates varying
+improve symptoms and function. The disease burden of between11%and94%dependingontearsize.14,36Mechan-
+RCTs has increased as the average population in the ical failure of the RCR is most common within the 3 to 4
+monthsaftertheinitialrepair.26,45Earlypostoperativefail-
+ures suggest that biologic tendon healing may be slower
+TheOrthopaedicJournalofSportsMedicine,11(2),23259671221150037
+thanpredicted,andthatslowtendonhealingmaybelinked
+DOI:10.1177/23259671221150037
+ªTheAuthor(s)2023 toafailedhealingresponseanddecreasedvascularity.30It
+Thisopen-accessarticleispublishedanddistributedundertheCreativeCommonsAttribution-NonCommercial-NoDerivativesLicense(https://creativecommons.org/
+licenses/by-nc-nd/4.0/),whichpermitsthenoncommercialuse,distribution,andreproductionofthearticleinanymedium,providedtheoriginalauthorandsourceare
+credited.Youmaynotalter,transform,orbuilduponthisarticlewithoutthepermissionoftheAuthor(s).Forarticlereuseguidelines,pleasevisitSAGE’swebsiteat
+http://www.sagepub.com/journals-permissions.
+1
+
+NEW PAGE
+
+2 Bonoetal TheOrthopaedicJournalofSportsMedicine
+has been shown that a subpar anabolic response is more Administration has created expedited pathways to help
+commonaspreoperativetearsizeincreases.44FailedRCR support the exploration and utilization of regenerative
+canleadtoalteredglenohumeraljointkinematicsresulting products, including injectable biologics.63 This has
+in superior humeral translation, articular wear, and ulti- sparkedanimprovedunderstandingandimplementation
+matelycuffteararthropathy.Giventheassociationoffailed ofthetechnologies.
+healingresponseanddecreasedvascularitywithincreased The purpose of this study was to both investigate the
+retearrate,methodstostimulatethebiologicalmilieuare effect of injectable biologic supplementation in RCR and
+crucialtodecreasethemorbidityofearlyRCRretears.16 assess the quality and adherence to evolving reporting
+Novel suture materials and anchors, in combination standards.
+with new surgical techniques such as the double-row
+transosseous equivalent repair, have enhanced the
+time-zeromechanicalstrengthofRCRs.4,62However,the METHODS
+suture-tendon interface of the RCR continues to have
+AsystematicreviewwasperformedusingPRISMA(Pre-
+the greatest susceptibility to failure.51 A consequence of
+ferred Reporting Items for Systematic Reviews and
+poor tissue quality at the suture-tendon interface is
+Meta-Analyses) guidelines.46 The search utilized the
+suture pullout and eventual retear. Biologic healing
+PubMedcentraldatabaseinJanuary2022.Twoindepen-
+remainsasignificantchallengeastendontearrecurrence
+dent researchers performed the search, with the senior
+is associated with clinical deterioration in the long-term
+author mediating any disputes. Broad augmentation
+period.28,66 Injectable biologic augmentation has been
+searchtermswereinitiallyused.Thesearchtermsused
+hypothesized to improve tissue quality at the suture-
+were ((((microfracture) OR (vented anchors)) OR (plate-
+tendoninterface.
+let rich plasma)) OR (amnion)) OR (adipose tissue)) OR
+In an effort to improve biological healing, various ana-
+(bonemarrowaspirationconcentrate))OR(nandrolone))
+bolicpathwayshavebeentargetedusingavarietyofinject-
+OR(augmentation))OR(biologics))OR(growthfactors))
+ables such as growth factors, platelet-rich plasma (PRP),
+OR(genetherapy))OR(stemcells))OR(tissueengineer-
+and bone marrow–derived mesenchymal stem cells
+ing)) AND (((rotator cuff repair) OR (single-row repair))
+(BMSCs) or adipose-derived mesenchymal stem cells
+OR (double-row repair)) with filters as follows: date
+(ADSCs).Growthfactorssuchastransforminggrowthfac-
+range of January 1, 2010, to January 1, 2022; English
+tor–beta(TGF-b)havebeenshowntopromotetenocytedif- language.
+ferentiationandimprovecollagenproduction.58PRPisan The initialsearchresultedin1159 titles,to which the
+amalgamationofgrowthfactorsandimmunomodulatorsto following criteria were applied. Inclusion criteria were
+ultimately accelerate tissue regeneration.43 Mesenchymal titles that specified RCR and augmentation techniques
+stemcellsalsoutilizegrowthfactorparacrinesignalingto in peer-reviewed journals. The exclusion criteria were
+improve wound healing and tissue quality. Additionally, reviewarticles,systematicreviews,editorials,technique
+stem cells may differentiate into the damaged tissue to articles, those without reported patient outcomes or the
+improve the biologic microenvironment and promote appointed outcome surrogates, case reports, and articles
+healing.13 focused on superior capsular reconstruction/not focused
+Biologicinjectableshavebeenusedinthetreatmentof onRCR.Theabstractsofthearticleswerethenreviewed,
+a variety of orthopaedic pathologies, including osteoar- excluding duplicates and articles that were case series
+thritis, tendinopathies, degenerative disk disease, and with <15 patients; review articles not previously elimi-
+fractures.32Biologicsstimulatethereleaseofgrowthfac- nated;articlesnotrelatedtoRCR;studiesfocusedonaug-
+tor and anti-inflammatory cytokines in order to promote mentation that did not fall within the 3 categories of
+healing,improvetissuequality,andalleviatesymptoms. injectable,marrowstimulation,orgraft/scaffoldaugmen-
+Thereisconsiderablevariabilityinthetypesofbiologics tation;clinicalstudieswithaminimumaveragefollow-up
+andtheirpreparations(eg,hydrogels,salinesuspensions, of <24 months; or those without abstract for review.
+and electrospun matrixes), as well as the reporting of Therewasnominimumfollow-uptimeforthepreclinical
+processing details.37 The United States Food and Drug studies.Thisprocesseliminated968articles,leaving191
+*AddresscorrespondencetoOliviaJ.Bono,BA,AlbanyMedicalCollege,49NewScotlandAvenue,Albany,NY12208,USA(email:oliviabono@gmail.
+com).
+†AlbanyMedicalCollege,Albany,NewYork,USA.
+‡TuftsUniversitySchoolofMedicine,Boston,Massachusetts,USA.
+§NewEnglandBaptistHospital,Boston,Massachusetts,USA.
+kBethIsraelDeaconessMedicalCenter,Boston,Massachusetts,USA.
+FinalrevisionsubmittedSeptember12,2022;acceptedOctober21,2022.
+Oneormoreoftheauthorshasdeclaredthefollowingpotentialconflictofinterestorsourceoffunding:J.F.hasreceivedgrantsupportfromArthrex,
+educationpaymentsfromKairosSurgicalandSmith&Nephew,andhospitalitypaymentsfromStryker.K.M.hasreceivedconsultingfeesandhonorariafrom
+Vericel.A.R.hasreceivededucationpaymentsfromArthrex.G.R.hasreceivededucationpaymentsfromKairosSurgical,consultingfeesfromStryker,and
+hospitalitypaymentsfromArthrexandWrightMedical.S.S.S.hasreceivededucationpaymentsfromArthrexandconsultingfeesfromExactech.AOSSM
+checksauthordisclosuresagainsttheOpenPaymentsDatabase(OPD).AOSSMhasnotconductedanindependentinvestigationontheOPDanddisclaims
+anyliabilityorresponsibilityrelatingthereto.
+
+NEW PAGE
+
+TheOrthopaedicJournalofSportsMedicine EvidenceforUtilizationofInjectableBiologicAugmentation 3
+forfull-textreview.Full-textinclusioncriteriawereclin- studies with in vivo animal models and clearly reported
+ical studies with a clearly reported healing rate or any load to failure, load to gap, gap size, or stiffness.
+patient-reported outcome measure, and preclinical Anyremainingstudiesthatwerenotfocusedoninjectable
+augmentationwereexcluded.Basedonthiscriterion,151
+studieswereremoved.Thefull-textreviewresultedinthe
+inclusion of 40 studies (11 clinical and 29 preclinical).
+AflowchartofsearchmethodologyisshowninFigure1.
+Secondaryreviewoftheclinicalstudiesincludedassess-
+ment of adherence to MIBO (Minimum Information for
+Studies Evaluating Biologics in Orthopaedics) guidelines
+and assessment of study quality and risk of bias.37 The
+methodologic quality of the included primary studies was
+evaluated using the Cochrane risk-of-bias tool24 for ran-
+domized controlled trials andthe Newcastle-Ottawa Scale
+(NOS)71fornonrandomizedstudies.TheNOSassessesthe
+risk of bias in observational studies by employing 7 ques-
+tionsacross3domains:selectionofparticipants,compara-
+bility among studied groups, and outcomes assessment.
+Thestudieswerethenfurthercategorizedashavingpoor,
+fair, orgoodqualityviarecommendation fromthe Agency
+for Healthcare Research and Quality, dependent on each
+study’sNOSorCochranerisk-of-biastoolscores.Appendix
+Tables 1 and 2 demonstrate the score determinations for
+Figure1.PRISMA(PreferredReportingItemsforSystematic
+each included study according to the Cochrane risk-of-
+ReviewsandMeta-Analyses)flowchartofthestudyinclusion
+biastoolandtheNOS,respectively.
+process.RCR,rotatorcuffrepair.
+TABLE1
+GrowthFactorsinPreclinicalStudiesa
+Specific FirstAuthor Animal
+Augment (Year) MethodofDelivery Model Follow-up NetEffect RepresentativeFindings
+TGF-b3þ Rothrauff Fibrinorgelatin Rat 4,8wk Inconclusive Nodifferencesinloadtofailureorstiffness
+ADSC (2019)57 methacrylate comparedwithcontrolgroup
+hydrogels
+TGF-b3 Reifenrath Electrospun Rat 4,8wk Positive Similarmaximumforcevaluestonativetendon
+(2020)54 chitosan-coated (P(cid:2).01)
+polycaprolactone
+fiberscaffolds
+TGF-b3 Han(2020)21 Tendonspecificcross- Rat 4,6wk Positive Collagenorganizationandcellulararrangement
+linkedgelatin wasmoreorganized;perforatingfiberswere
+observed;morefibrocartilageatinsertions
+TGF-b1 Arimura Gelatinhydrogel Rat 6,12wk Positive Significantlyhigherultimateloadtofailure(P¼
+(2017)1 .002)andhighercollagencontent(P¼.001)at
+12wk
+FGF-2 Yonemitsu Soakedgelatin Rat 2,6,12 Positive Ultimateloadtofailure,stiffness,andultimate
+(2019)72 hydrogels wk stresstofailureoftherepairsitewerehigherin
+FGF-2groupcomparedwithcontrolgroup(P<
+.05);alsoshowedsignificantlyhigher
+histologicalscores(P<.05)
+FGF-2 Tokunaga Soakedgelatin Rabbit 2,6wk Positive Significantlyhigherultimateloadtofailureand
+(2017)60 hydrogels stresstofailurecomparedwithcontrolgroupat
+6wk(P<.05)
+G-CSF Buchmann Gelatinhydrogel Rat 3,6wk Positive Significantlyhigherloadtofailureratio(P¼.02);
+(2015)3 significantlyhighercollagen3contentand1/3
+ratio
+Erythropoietin Oztermeli None Rat 10,28d Inconclusive Nosignificantbiomechanicalandhistological
+(2019)48 differenceswhencomparedwiththecontrol
+aADSC,adipose-derivedmesenchymalstemcell;FGF-2,fibroblastgrowthfactor2;G-CSF,granulocytecolony-stimulatingfactor;TGF-b1,
+transforminggrowthfactor–beta1;TGF-b3,transforminggrowthfactor–beta2.
+
+NEW PAGE
+
+4 Bonoetal TheOrthopaedicJournalofSportsMedicine
+TABLE2
+BMSCs,ADSCs,andDerivativesinPreclinicalStudiesa
+FirstAuthor Methodof Animal Follow- Representative
+SpecificAugment (Year) Delivery Model up NetEffect ProcessingDetails Findings
+Allogeneic Gu¨lec¸yu¨z Saline Rat 8wk Positive Harvestedratbone Nosignificantincreasein
+BMSC (2018)17 marrowwas meanmusclemass;
+centrifugedandthen significantlylessfattening
+suspendedinan (P<.001)
+inductionmediumand
+transfectedwithgreen
+fluorescentprotein
+beforebeingincubated
+withmyocytes
+Human Dyrna(2018)9 Fibringel Mouse 8wk Positive Subacromialbursaltissue Humansubacromialbursal
+subacromial harvestedfromhuman cellshaveasignificantly
+bursalcellsvs rotatorcuff;bone highernumberofcells
+bonemarrow marrowaspirate infiltratingandmorecells
+stromalcells collectedfromhuman overallcomparedwith
+proximalhumeral bonemarrowstromalcells;
+head;bothsamples increasedhealingtissue
+wereexpandedin bridge(P<.05)
+culture
+BMAC Liu(2018)39 BMAC Rabbit 6wk Positive Bonemarrowaspirate Significantlyhigherultimate
+solution harvestedfromrabbits; loadtofailureandstiffness
+singlecentrifugation; intheBMACrepairgroup
+point-of-careinjection comparedwithsaline
+repairandPRPrepair
+groups(P<.05);inthein
+vitromodel,BMAC-
+treatedgroupsshowed
+bettercollagen
+arrangement
+BMSCisolated Degen(2016)6 Fibringlue Rat 2,4wk Inconclusive Acquiredsingle-donor Earlyincreaseinloadto
+frombone commerciallyavailable failureandstiffness(P¼
+marrow BMSCs;expandedin .002and<.0001)butbywk
+aspiration culture 4therewerenosignificant
+differences;increased
+fibrocartilagepresentat2
+wk(P¼.026)
+Adiposestromal Lu(2018)41 Fibringel Rabbit 8wk Positive Harvestedrabbitadipose Increasedloadtofailure,
+vascular tissuetoobtainstromal stiffness,andtendon-bone
+fraction- vascularfraction maturityscores(P<.01);
+containing suspension;point-of- higherexpressionlevelof
+stemcells careinjection collagen1,BMP-2,and
+quantifiedamountof
+BMP-2comparedwith
+controlgroup(P¼.006)
+Adiposestromal Lu(2018)40 Fibringel Rabbit 12wk Positive Harvestedrabbitadipose Increasedloadtofailure,
+vascular tissuetoobtainstromal stiffness,andstrength(P
+fraction- vascularfraction <.01forall)
+containing suspension;point-of-
+stemcells careinjection
+Adiposestem Wang(2020)68 Phosphate- Rabbit 18wk Positive Isolatedfromhuman Significantlylowerfatty
+cell–derived buffered subcutaneousadipose infiltration(P<.001),
+exosomes saline tissuecollectedfrom higherstiffness,higher
+liposuctionsurgery; histologicalscore,and
+point-of-careinjection morenewlyregenerated
+fibrocartilageatrepairsite
+ADSC Kim(2017)29 Acellular Rabbit 8wk Positive Isolatedfromhuman Ledtomorematuretendons
+dermal wasteadiposetissue withcellularinfiltration
+matrix fromelectivesurgery; intothegraftandevidence
+expandedinculture ofneotendonformation
+comparedwithcontrol
+group
+(continued)
+
+NEW PAGE
+
+TheOrthopaedicJournalofSportsMedicine EvidenceforUtilizationofInjectableBiologicAugmentation 5
+Table2(continued)
+FirstAuthor Methodof Animal Follow- Representative
+SpecificAugment (Year) Delivery Model up NetEffect ProcessingDetails Findings
+Human Wang(2019)69 Saline, Rat 16wk Positive Humansubcutaneous Betterbiomechanical
+subcutaneous lactated adiposetissuecollected propertiesanddecreased
+adiposetissue ringers fromliposuction atrophyandfatty
+surgery;expandedin infiltrationcomparedwith
+culture controlgroup(P<.001)
+Human Gumucio Saline, Rat 2wk Positive Collectedfromcosmetic 40%reductionin
+subcutaneous (2016)18 lactated procedure;point-of- hydroxyprolinecontent
+adiposetissue ringers careinjection comparedwithcontrol
+group
+aADSC,adipose-derivedmesenchymalstemcell;BMAC,bonemarrowaspirateconcentrate;BMP-2,bonemorphogeneticprotein2;BMSC,
+bonemarrow–derivedmesenchymalstemcell.
+RESULTS fatty infiltration (P < .001), and more newly regenerated
+fibrocartilage atthe repair sitecompared with the control
+Preclinical Studies group. Overall, stem cell–based biologics both were the
+mostcommonlyusedanddemonstratedthemostpromising
+Twenty-ninepreclinicalstudies{relatedtoinjectablebiolo-
+results,suchasincreasedloadtofailure,stiffness,andcel-
+gics were identified. There were 16 studies# (55%) per- lularinfiltration.
+formed in a rat model, 11 studies** (38%) conducted in Awiderangeofotherinjectableshavebeeninvestigated,
+rabbits,and2studies9,70(7%)conductedinmice.Notably, including melatonin, hyaluronic acid, and recombinant
+no injectable was found to have a negative effect on out- humanparathyroidhormone(Table3).Gurgeretal19dem-
+comesinthepreclinicalsetting. onstrated that PRP augmentation can be supplemented
+Avarietyofgrowthfactors(Table1)wereinvestigatedin withgaseousozonetoimprovebothbiomechanicalandhis-
+the preclinical setting, with 4 of the 8 studies involving topathological findings in a rat RCR model. The combina-
+TGF-bsubtypes.Allgrowthfactors,excepterythropoietin, tionofPRPandozonegaswasshowntobeamoreeffective
+were delivered in a gel/scaffold. There was a significant interventionthaneitherPRPorozonealone.19Kwonetal34
+increaseinloadtofailureforallgrowthfactorswhencom- determinedthatRCRaugmentationwithhumanumbilical
+pared with the control group (P < .05), except TGF-b3 þ stem cells improved functional outcomes (eg, walking dis-
+ADSC and erythropoietin.48,57 Interestingly, Reifenrath tance,walkingspeed)inrabbits.Ofnote,thiswastheonly
+et al54 found that TGF-b3 alone led to a load to failure preclinical study that investigated functional outcomes in
+similartonativetissueintheirratmodel.Anothergrowth ananimalmodel.
+factor investigated that has had positive results is granu- Overall,increasedloadtofailurewasthemostcommon
+locyte colony-stimulating factor (G-CSF). Buchmann and biomechanical improvement, with 55.2% of all preclinical
+colleagues3 found that sustained release of G-CSF from injectables demonstrating this finding. Histologically,
+vesicularphospholipidgelsresultedinnotonlyhigherload 37.9%ofthestudiesdemonstratedimprovedcollagenqual-
+tofailure(P¼.02),butalsoasignificantlyhighercollagen3 ity and/or quantity with the use of injectables. Notably,
+contentandcollagen1/3ratio(P<.05). none of the BMSCs provided lasting collagenous improve-
+BMSCs and ADSCs demonstrated both histological and ments. Five substances (botulinum toxin A, recombinant
+mechanical benefits, including greater load to failure and humanparathyroidhormone,TGF-b3þADSC,andBMSC
+reduced fatty infiltration (Table 2). Common methods of frombonemarrowaspiration)didnotdemonstrateanysig-
+delivery include gel and saline suspensions. Liu et al39 nificantimprovementinoutcomesbetweenthecontroland
+investigated the application of bone marrow aspirate con- interventiongroups.6,7,15,57
+centrate (BMAC) after RCR in a rat model and demon-
+strated that the addition of BMAC resulted in Clinical Studies
+significantly higher stiffness and loadtofailure compared
+Eleven clinical studies (10 PRP,†† 1 ADSC31) were identi-
+withthecontrolgroup(P<.05),aswellasbettercollagen
+fiedintotal(Table4).Clinicalexplorationofinjectablebio-
+at the tendon-bone interface. Using a rabbit model, Wang
+et al68 showed that adipose stem cell–derived exosomes logics in RCR has focused on 2 derivatives, PRP and
+ADSCs.Intraoperativeimagesdemonstratingtheinjection
+deliveredviaphosphate-bufferedsolutionresultinsignifi-
+ofabiologicaugmentintothesiteofRCRaredisplayedin
+cantly higher stiffness and load to failure (P < .05),lower
+Figure2.Analysisofriskofbiasandreportingofrelevant
+MIBO guidelines were performed and the results are
+{References1,3,6,7,9,15,17–19,21,22,25,29,34,35,39–41,47, shown in Figure 3. The studies were found to have a low
+48,54,55,57,59,60,68–70,72.
+#References1,3,6,7,15,17,18,21,22,47,48,54,57,59,69,72.
+**References19,25,29,34,35,39–41,55,60,68. ††References2,8,12,20,38,42,49,52,53,67.
+
+NEW PAGE
+
+6 Bonoetal TheOrthopaedicJournalofSportsMedicine
+TABLE3
+OtherBiologicInjectablesinPreclinicalStudiesa
+SpecificAugment FirstAuthor(Year) MethodofDelivery AnimalModel Follow-up NetEffect RepresentativeFindings
+Melatonin Song(2019)59 Melatonin-loaded Rat 2,4,8wk Positive Higherloadtofailure,stress,
+aligned andstiffness
+polycaprolactone
+electrospunfiber
+Humanumbilical Kwon(2018)34 Mixedwith Rabbit 6wk Positive Newlyregeneratedcollagen
+cordstemcell hyaluronicacid type1fibers;cell
+orpolydeoxy- proliferation,
+ribonucleotide angiogenesis,walking
+injection distance,fastwalking
+time,andmeanwalking
+speedweregreater
+Kartogenin Wang(2018)70 Fibrinsealant Mouse 2,4wk Positive Highermeanloadtofailure
+(P¼.04)withsuperior
+collagenfiberorganization
+(P<.01);lesspercentage
+areaoffibrocartilage
+(P¼.04)
+Allogenicdermal Kwon(2018)35 Fibrin Rabbit 6wk Positive Meanloadtofailure
+fibroblasts significantlyhigher(P¼
+.011);greatercollagen
+fibercontinuity
+Hyaluronicacid Honda(2017)25 Nosuspension Rabbit 4,8,12wk Positive Nodifferenceinloadto
+failure;significantlymore
+CD44-positivecells,more
+cartilaginouspellet
+produced,increased
+expressionoftype2
+collagen,SOX9,and
+aggrecan
+Poly-N-acetyl Nuss(2017)47 Nosuspension Rat 2,4,8wk Positive Significantlyincreasedload
+glucosamine tofailureat4wk;no
+histologicaldifferences
+Humanrotator Harada(2017)22 Cellsheet Rat 4,8wk Positive Significantlyhigherloadto
+cuffcells failure
+ADFs Rhee(2021)55 Fibrinsuspension Rabbit 4,6,12wk Positive Higherloadtofailure,
+collagencontinuity,
+orientation,and
+maturationofthetendon-
+bonejunctionwerebetter
+intheADFþfibrin
+interventionwhen
+comparedwithPRP
+Ozone(O O )þ Gurger(2021)19 None Rabbit 6wk Positive Higherloadtofailureand
+2 3
+PRP bettercollagen
+histopathologyinthe
+ozone,PRP,andozoneþ
+PRPgroups;ozonealone
+wasfoundtohavebetter
+histologicalproperties
+thanthePRPgroup
+BotulinumtoxinA Gilotra(2016)15 Nosuspension Rat 4,12wk Inconclusive At4wk,increasedloadto
+failure;morelinear
+formationofcollagen
+comparedwiththesaline
+controlgroup
+Recombinant Duchman(2016)7 Nosuspension Rat 12,16wk Inconclusive Significantlyhigherearly
+human loadtofailurethan
+parathyroid controls(P¼.003);no
+hormoneon differenceinloadtofailure
+POD7 by16wk
+aADF,allogenicdermalfibroblast;PRP,platelet-richplasma;POD7,postoperativeday7.
+
+NEW PAGE
+
+TheOrthopaedicJournalofSportsMedicine EvidenceforUtilizationofInjectableBiologicAugmentation 7
+TABLE4
+InjectableBiologicsinClinicalStudiesa
+Percentageof
+First MIBO
+Specific Author Follow- Postop Processing SignificantFindings Guidelines
+Augment (Year) LOE n TearSize up Imaging Details ofInterventionGroup Reported
+PRP Malavolta 2 54 Small, 5y MRI Preparedby Nosignificantdifference 76
+(2018)42 medium apheresiswith clinically(UCLA,Constant,
+additionof VASscores)atanyfollow-up
+thrombin (P>.05);nodifferencein
+retearratesbetweengroups
+(P¼.203).
+PRPinfibrin Walsh 2 72 Smallto 2y MRI Leukocytepoor; Nosignificantdifferencein 60
+matrix (2018)67 large double retearrate,WORCscore,SST,
+centrifugation orshoulderstrengthindex
+betweengroups(P>.05)
+PRP Gwinner 3 36 <5cm 2y MRI Leukocytepoor; Nosignificantdifference 49
+(2016)20 single clinicallyorstructurally
+centrifugation
+PRP Flury 1 103 Ssponly 2y MRI/US Single Nosignificantdifference 67
+(2016)12 centrifugation clinicallyorstructurallyat
+finalfollow-up;smokinghad
+negativeinfluenceonthePRP
+groupclinicallyuntil12-mo
+follow-up
+Platelet-rich Dukan 3 69 Ssponly 2y MRI Leukocytepoor; Nosignificantdifference 67
+fibringel (2019)8 single clinicallyorstructurallyat
+centrifugation finalfollow-up,although
+improvedConstantandVAS
+scoresat3mopostopin
+treatmentgroup
+PRPfibrin Barber 3 40 <3vs(cid:3)3cm 31mo MRI Leukocytepoor Statisticallysignificantdecrease 62
+matrix (2011)2 withdouble inretearsinthePRPgroup(P
+centrifugation ¼.03);PROMsdidnotdiffer
+betweengroups,exceptRowe
+score
+PRP Pandey 1 102 Mediumto 2y US Single-spin Significantlylowerretearratein 73
+(2016)49 large centrifugation, PRPgroupcomparedwith
+leukocytepoor controlgroup(P¼.01)
+PRP Randelli 1 53 Minor(stage 2y MRI Double Nosignificantdifferencein 69
+(2011)52 1)to centrifugation healingratebetweengroups
+massive
+(stage4)
+PRP Randelli 2 38 Small(C1-2) 10y US Double Goodclinicalresultsinboth 69
+(2022)53 tolarge centrifugation groups,butonlysignificant
+(C3-4) differenceinASESandSANE
+scores;nosignificant
+differenceinretearrate
+PRP Liu 1;3b 96 (cid:2)2vs>2cm 51.9 MRI Leukocyterich; Decreasedretearrateinoverall 64
+(2021)38 mo double PRPgroupcomparedwith
+centrifugation controlgrouponlyinthose
+withtears>2cm(P¼.040);
+nosignificantclinicalor
+structuraldifferences
+betweenPRP-onlyandPRP-
+boostergroups
+ADSC Kim 3 70 Mediumto 28mo MRI Harvestedand Significantlylowerretearratein 65
+(2017)31 massive cultured1 treatmentgroupcompared
+dbefore withcontrolgroup(P<.001);
+surgery nodifferenceinclinicalscores
+betweengroups
+aADSC,adipose-derivedmesenchymalstemcell;ASES,AmericanShoulderandElbowSurgeons;LOE,levelofevidence;MRI,magnetic
+resonanceimaging;postop,postoperative;PROM,patient-reportedoutcomemeasure;PRP,platelet-richplasma;SANE,single-assessment
+numericevaluation;Ssp,supraspinatus;SST,SimpleShoulderTest;UCLA,UniversityofCalifornia,LosAngeles;US,ultrasound;VAS,
+visualanalogscale;WORC,WesternOntarioRotatorCuff.
+bThiswasbothalevel-1randomizedcontrolledtrialandalevel-3cohortstudy.
+
+NEW PAGE
+
+8 Bonoetal TheOrthopaedicJournalofSportsMedicine
+Figure2.Imagesofintraoperativeinjectionofbiologicaugmentafterrotatorcuffrepair.A:Therotatorcuffrepairsitevisualizedby
+arthroscope.B:Needleinsertedintothesiteoftherepair.C:Injectionofthebiologicaugmentviatheneedleatthesiteoftherepair.
+riskofbiasperNOSandCochraneassessments.Onaver-
+PRP booster. While patients who received any PRP aug-
+age,66%oftheMIBOguidelineswereadheredto(Table4).
+mentation had a significantly improved retear rate com-
+pared with the control group (12.5% vs 29.2%; P ¼ .038),
+PRPStudies there werenodifferencesinhealingfailureratesbetween
+theintraoperativePRP-onlyandthePRP-boostergroupsat
+PRPiscreatedbyrapidlyspinningasampleofapatient’s a1-yearfollow-up(P¼.383).Interestingly,whenseparated
+wholebloodinacentrifugetoisolatetheplasma.Indoing intosubgroupsbasedontearsize,onlyinthosewithtears
+so,plateletsandothergrowthfactors canbeconcentrated >2 cm was the risk of retear significantly reduced in the
+withintheplasma.PRPcanbeinjectedintraoperativelyto overall PRP group compared with the control group (P ¼
+augment healing with autologous growth factors such as .04). Additionally, the overall PRP group demonstrated
+insulin-like growth factor–1 (IGF-1), TGF-b, epidermal improved VAS pain (P ¼ .016) and VAS satisfaction (P ¼
+growth factor (EGF), vascular endothelial growth factor .023)scorescomparedwiththecontrolgroup,yettherewas
+(VEGF), and others.10 The process of PRP collection and no difference between intraoperative PRP-only and PRP-
+injection is shown in Figure 4. Significant heterogeneity boostergroupsinrangeofmotion,functionaloutcomes,or
+existsintheliterature,withmultipletrialsfailingtodem- VASforpainandsatisfactionscoresata2-yearfollow-up.38
+onstrate any significant improvement in clinical or radio- Inamatchedcase-controlstudywitha31-monthfollow-
+graphic outcomes.12,20,42,67 Dukan et al8 in a comparative up,Barberetal2concentratedaPRPglobuleontoafibrin
+cohort study of 69 patients investigated the effect of
+matrixandshuttledtheglobuleoverasutureinanattempt
+autologousPRPgel,whichpointedtoashort-termclinical
+tomaintainconcentratedPRPattherepairsiteovertime.
+benefit at 3 months that did not persist until the 2-year
+The autologous, leukocyte-poor PRP was prepared with
+follow-up. In a randomized controlled trial with 102
+doublecentrifugationandcalciumchlorideinaprocessthat
+patients,Pandeyetal49demonstratedlowervisualanalog
+resulted in a PRP construct that was sutured into the
+scale (VAS) pain scores in the PRP group at 1, 3, and 6
+repair. There was a statistically significant decrease in
+months postoperatively, but not at 12 or 24 months. The
+retearsinthePRPgroup(30%vs60%inthecontrolgroup;
+PRPgroup demonstratedsignificantly improvedConstant
+P¼.03)asseenonMRIevaluation.PROMsdidnotdiffer
+andUniversityofCalifornia,LosAngeles(UCLA)scores(P
+betweengroupswiththeexceptionoftheRowescorefavor-
+¼.001),butnotanimprovedAmericanShoulderandElbow
+ingtheinterventiongroup.2
+Surgeons(ASES)score(P¼.131),at24monthsinthePRP
+Randelli et al52,53 have published both 2- and 10-year
+group. The retear rate was significantly lower in the PRP
+outcomes of a cohort of patients who had PRP augmenta-
+groupforlargetears(P¼.014),butnotformediumtears(P
+tionofRCR.ThePRPwascollectedusingdoublecentrifu-
+>.05).49TheautologousPRPwascollected,processed,ana-
+gation and was delivered at the end of the arthroscopic
+lyzed,andstoredthedaybeforethesurgery.
+repair in its activated form. At 24 months, patients had
+To evaluate the effect of repeated PRP application on
+RCR, Gwinner et al20 performed a randomized controlled significantlylowerVASscorescomparedwith3,6,and12
+monthspostoperatively.TherewereinitialConstantshoul-
+trialof36patientswith2-yearfollow-up,whichcompared
+der score benefits 3 and 12 months postoperatively, but
+ultrasound-guided injection immediately after the repair
+thesebenefitsdidnotpersistatthe2-yearmark.Addition-
+and 7 days postoperatively to a control group who did not
+receive PRP. All patient-reported outcome measures ally, there was a decrease in retear rates of smaller tears
+(PROMs)werestatisticallyinsignificant,andMRIevalua- (grades1and2)comparedwiththecontrolgroupatthe2-
+tion of retear rates did not differ between groups at final yearmark.52Atthe10-yearmark,thePRPgrouphadsig-
+follow-up(P>.05).20Recently,Liuetal,38ina2-partstudy nificantlyimprovedsingle-assessmentnumericevaluation
+consistingofarandomizedcontrolledtrialandcomparative (SANE)andASESscorescomparedwiththecontrolgroup.
+cohort study, investigated the effect of administration of However, there was no difference in retear rates or other
+PRPintraoperativelyinadditiontoa2-weekpostoperative clinicalassessmentoutcomesata10-yearfollow-up.53
+
+NEW PAGE
+
+TheOrthopaedicJournalofSportsMedicine EvidenceforUtilizationofInjectableBiologicAugmentation 9
+Figure 3. Heatmap of adherence to MIBO (Minimum Information for Studies Evaluating Biologics in Orthopaedics) reporting
+guidelinesfortheclinicalstudiesreviewed.1‡‡
+
+NEW PAGE
+
+10 Bonoetal TheOrthopaedicJournalofSportsMedicine
+Figure4.A:Depictionofinjectionofbiologicintothesiteofrotatorcuffrepair.B:Processofplatelet-richplasmacollectionand
+injection into the repair site releasing growth factors that stimulate tenocyte differentiation and improve collagen quality and
+quantity.EGF,epidermalgrowthfactor;IGF,insulin-likegrowthfactor;TGF-b,transforminggrowthfactor–beta;VEGF,vascular
+endothelialgrowthfactor.
+ADSC Studies Injectables reported included growth factors (such as
+TGF-b3 and erythropoietin), ADSCs, BMSCs, and other
+Kimet al31 explored the implantation ofADSCs loaded in agents (namely PRP and hyaluronic acid). Approximately
+fibringlueasameansofRCR augmentation. Theadipose 83%ofpreclinicalexperimentsdemonstratedapositivebio-
+tissue was harvested 1 day before surgery, and cells were mechanicalorhistologicaleffect.Importantly,therewasno
+subsequentlycultured.Ameanof4.46(cid:4)106ADSCswere overallnegativeeffect seenbybiologicinjectable augmen-
+isolated and loaded into the fibrin glue scaffold. This tation,demonstratingtheconsiderablepotentialforclinical
+matched-cohort study demonstrated that the retear rate researchtranslation.
+was significantly lower in the intervention group (14.3%) Amonggrowthfactorsinvestigated,nearlyallshoweda
+compared with the control group (28.5%) at a 28-month net positive effect. Inthe preclinical setting, the most fre-
+follow-up (P < .001). However, there were no significant quentpositiveeffectwasincreasedultimateloadtofailure.
+differencesinrangeofmotionorpatient-reportedoutcomes TGF-b1andTGF-b3currentlyshowthemostpromise.Both
+betweengroups.31 sharethesamereceptorcomplexandhavebeenprovento
+playacrucialroleinfibrosisandwoundhealing.65Reifen-
+rath et al54 found that incorporation of TGF-b3 into an
+DISCUSSION electrospunchitosan-coatedpolycaprolactonefiberscaffold
+ledtobiomechanicalmaximumforcevaluesthatweresim-
+The results of this review indicated that preclinically, a ilar to those of the native tendon (P (cid:2) .01). Surprisingly,
+large variety of substances have been investigated, the Reifenrath et al54 found no improved histological findings
+majorityofwhichledtoimprovedrepairconstructs.Nota- with the biomechanical improvements. This is in contrast
+bly, ADSCs, BMSCs, and growth factors including TGF-b tothefindingsofHanetal21ofimprovedhistologywithno
+and FGF had positive effects. PRP and ADSCs have been biochemical improvements when delivered in tendon-
+researched in the clinical setting with various technique specific cross-linked gelatin. This highlights the impor-
+improvementsleadingtoimprovedpatientoutcomes. tance of testing not only various biologic injectable
+The MIBO guidelines were published to decrease compounds,butalsothevehicleactivecompounddelivery.
+unknownheterogeneityofcompositionsinorthopaedicclin- Withfurtheradvancesinbiomaterials,suchasutilization
+ical studies utilizing PRP and mesenchymal stem cells.37 ofnanocarrierstodeliverTGF-b,theexpansionofdelivery
+Clinical studies included in this systematic review were methods shows promise in advancing preclinical develop-
+found to, on average, follow 66% of the relevant MIBO mentofgrowthfactordelivery.33
+reporting guidelines. Most commonly absent were the While significant heterogeneity exists in the literature
+details of the exact PRP composition injected. This likely regarding PRP with multiple trials failing to demonstrate
+wasbecauseofintraoperativePRPharvestingandproces- anysignificantimprovementinclinicalorradiographicout-
+singinmanytrials.FurtheradherencetoMIBOguidelines comes,arecentadvancementinthepreclinicalsettingthat
+inthefuturemayleadtoimprovedidentificationofspecific may spark intrigue is the role of ozone augmentation of
+variables that improve outcomes. Preclinically, no such PRP injections in RCR. Gurger et al19 showed that ozone
+reportingguidelineshaveyetbeendeveloped. therapy has been investigated in many acute and chronic
+
+NEW PAGE
+
+TheOrthopaedicJournalofSportsMedicine EvidenceforUtilizationofInjectableBiologicAugmentation 11
+tendinopathiesbuthasyettobeinvestigatedinRCR.Ithas for RCR. Further work is warranted in determining opti-
+been found to increase the release of various platelet mal methods of delivery of ADSCs, as initial results show
+growth factors from PRP including PDGF, TGF-b1, and potentialtoimprovepatientoutcomes.
+IL-8. Gurger et al found that the combination of PRP and
+ozoneleadtohistopathologythatresembledahealthyrab-
+Limitations
+bit; additionally, it resulted in the highest biomechanical
+findings.
+Whileourreviewwascomprehensiveuponinjectablesstud-
+Furthermore,deliveryofPRPmayplayanessentialrole.
+ied for repair, select injectables that do not have strong
+Both improving PRP preparation and utilizing various
+evidenceinvestigatingRCRsbuthavebeenshowntoaffect
+modes of PRP delivery such as fibrin gels show potential
+the supraspinatus tendon were excluded from our review
+in improving RCR biologic injectable augmentation and
+namely for lack of 2-year follow-up or combination proto-
+shouldbe furtherexplored as methods to enhance patient
+cols; however, they may still warrant attention. Addition-
+outcomes. In 1 study, a concentrated PRP globule with
+ally,thereislargevariabilityinthepreparationandsource
+fibrin matrix was shuttled over a suture in an attempt to
+of injectable biologics coupled with a small sample size of
+maintain concentrated PRP at the repair site over time.
+clinical studies that may contribute to result heterogene-
+Therewasastatisticallysignificantdecreaseinretearsin
+ity.61 Regarding randomized controlled trials of PRP, a
+thePRPgroup(30%vs60%inthecontrolgroup;P¼.03)as recent meta-analysis performed by Parisien et al50 found
+seenonMRIevaluation.2Walshetal67preparedleukocyte-
+that the majority of PRP in RCR randomized controlled
+poorPRPthroughdoublecentrifugationfollowedbytheuse
+trialshadafragilityindexof4.Thisimpliesthatreversal
+ofcalciumchlorideforactivation.Randellietal52,53demon-
+of only a small amount of patient outcomes is significant
+stratedthatPRPadministration utilizingdoublecentrifu-
+enough to alter trial significance. As suggested, future
+gation and activation with calcium chloride may lead to
+trials reporting a fragility index and fragility quotient in
+increases in ASES and SANE scores at a 10-year follow-
+additiontothePvaluemayleadtoaclearerpictureofPRP
+up.BoththemethodofPRPpreparationandgrowthfactors
+effectiveness in RCR. Despite this relatively limited evi-
+within the PRP being released over a longer time period
+dence,RCRaugmentationwithinjectablebiologicsremains
+(approximately 30 days) likely contributed to the lower
+apromisingavenueofimprovingpatientoutcomes.
+retear rate. Other methods such as sonication, light, and
+electrical activation should also be investigated to further
+enhancetheplatelets’anabolicproperties.11Beyondutiliz-
+CONCLUSION
+ingoptimalpreparationmethods,newbiomaterialvehicles
+of delivery are being developed, such as low-molecular-
+Preclinically, a wide range of injectables have been inves-
+weight fucoidan-functionalized poly(ester-urea-urethane)
+tigated,withapproximately83%ofstudiesdemonstrating
+scaffolds,whichmayimprovebioactivationofbothPRPand
+apositivebiomechanicalorhistologicaleffectandnostud-
+thesurroundingnativetissue.56Additionally,tearsizemay
+ies showing an overall negative effect. Clinically, while
+alsoplayaroleindecidingwhethertoaugmentrepairwith
+thereremainscantdataatlong-termfollow-upinfavorof
+PRP, as Randelli et al52 found that only low-grade tears
+PRP, utilization of innovative delivery techniques may
+that did not fully retract to the glenoid articular surface
+reduce the risk of arthroscopic washout of PRP and has
+benefited from PRP injection at the 2-year mark. Utiliza-
+been shown to potentially improve retear rates. Further,
+tionoftheseinnovativedeliverytechniquesmayreducethe
+ADSCs have been shown to reduce retear rates at a
+riskofarthroscopicwashoutofPRPandhasbeenshownto
+28-monthfollow-up.
+potentiallyimproveretearrates.
+BMSCs and ADSCs have demonstrated an overall posi-
+tiveeffectinthepreclinicalsetting.Increasedultimateload
+REFERENCES
+to failure and improved histological findings, such as
+increased fibrocartilage quantity and quality, were found
+1. Arimura H, Shukunami C, Tokunaga T, et al. TGF-beta1 improves
+inbothBMSCsandADSCs.BMSCshaveshownbenefitnot
+biomechanicalstrengthbyextracellularmatrixaccumulationwithout
+onlyintheshort-termrecoveryperiod,butalsointhelong increasingthenumberoftenogeniclineagecellsinaratrotatorcuff
+term. Hernigou et al23 found that at a 10-year follow-up, repairmodel.AmJSportsMed.2017;45(10):2394-2404.doi:10.1177/
+87% of the BMSC augmentation group had intact rotator 0363546517707940
+cuffs,whereasonly44%inthecontrolgroupdid.Regarding 2. BarberFA,HrnackSA,SnyderSJ,HapaO.Rotatorcuffrepairhealing
+influencedbyplatelet-richplasmaconstructaugmentation.Arthros-
+translation to clinical practice, ADSCs are easier to har-
+copy.2011;27(8):1029-1035.doi:10.1016/j.arthro.2011.06.010
+vest,mayprovidefewercomplications,andpossesshigher
+3. BuchmannS,SandmannGH,WalzL,etal.Growthfactorreleaseby
+MSCproliferativecapacity27;however,BMSCshavehigher vesicularphospholipidgels:in-vitroresultsandapplicationforrotator
+chondrogenic capacity. ADSCs are thought to upregulate cuffrepairinaratmodel.BMCMusculoskeletDisord.2015;16:82.doi:
+tendon-relatedgenesthroughimmunemodulationanddif- 10.1186/s12891-015-0542-1
+ferentiation.64Furthermore,amatched-cohortstudydem- 4. ChaeSW,KangJY,LeeJ,HanSH,KimSY.Effectofstructuraldesign
+on the pullout strength of suture anchors for rotator cuff repair. J
+onstratedthattheretearratewassignificantlylowerinthe
+OrthopRes.2018;36(12):3318-3327.doi:10.1002/jor.24135
+ADSC-augmentedgroup(14.3%)thaninthecontrolrepair
+5. DayMA,WestermannRW,BedardNA,GlassNA,WolfBR.Trends
+group (28.5%) at a 28-month follow-up (P < .001).31 The associatedwithopenversusarthroscopicrotatorcuffrepair.HSSJ.
+combinationmakesADSCsapromisinginjectableaugment 2019;15(2):133-136.doi:10.1007/s11420-018-9628-2
+
+NEW PAGE
+
+12 Bonoetal TheOrthopaedicJournalofSportsMedicine
+6. DegenRM,CarboneA,CarballoC,etal.Theeffectofpurifiedhuman controlled study. Int Orthop. 2014;38(9):1811-1818. doi:10.1007/
+bonemarrow-derivedmesenchymalstemcellsonrotatorcufftendon s00264-014-2391-1
+healinginanathymicrat.Arthroscopy.2016;32(12):2435-2443.doi: 24. HigginsJP,AltmanDG,GotzschePC,etal.TheCochraneCollabora-
+10.1016/j.arthro.2016.04.019 tion’stoolforassessingriskofbiasinrandomisedtrials.BMJ.2011;
+7. DuchmanKR,GoetzJE,UribeBU,etal.Delayedadministrationof 343:d5928.doi:10.1136/bmj.d5928
+recombinanthumanparathyroidhormoneimprovesearlybiomechan- 25. HondaH,GotohM,KanazawaT,etal.Hyaluronicacidaccelerates
+icalstrengthinaratrotatorcuffrepairmodel.JShoulderElbowSurg. tendon-to-bonehealing afterrotatorcuffrepair.AmJSportsMed.
+2016;25(8):1280-1287.doi:10.1016/j.jse.2015.12.016 2017;45(14):3322-3330.doi:10.1177/0363546517720199
+8. DukanR,BommierA,RousseauMA,BoyerP.Arthroscopicknotless 26. IannottiJP,DeutschA,GreenA,etal.Timetofailureafterrotatorcuff
+tapebridging with autologous platelet-rich fibrin gel augmentation: repair: a prospective imaging study. J Bone Joint Surg Am. 2013;
+functional and structural results. Phys Sportsmed. 2019;47(4): 95(11):965-971.doi:10.2106/JBJS.L.00708
+455-462.doi:10.1080/00913847.2019.1623994 27. KernS,EichlerH,StoeveJ,KluterH,BiebackK.Comparativeanal-
+9. Dyrna F, Zakko P, Pauzenberger L, McCarthy MB, Mazzocca AD, ysisof mesenchymalstem cells frombonemarrow, umbilical cord
+Dyment NA. Human subacromial bursal cells display superior blood,oradiposetissue.StemCells.2006;24(5):1294-1301.doi:10.
+engraftment versus bone marrow stromal cells in murine tendon 1634/stemcells.2005-0342
+repair. Am J Sports Med. 2018;46(14):3511-3520. doi:10.1177/ 28. KimHM,CaldwellJM,BuzaJA,etal.Factorsaffectingsatisfaction
+0363546518802842 andshoulderfunctioninpatientswitharecurrentrotatorcufftear.J
+10. EppleyBL,WoodellJE,HigginsJ.Plateletquantificationandgrowth BoneJointSurgAm.2014;96(2):106-112.doi:10.2106/JBJS.L.01649
+factoranalysisfromplatelet-richplasma:implicationsforwoundheal- 29. KimJO,LeeJH,KimKS,JiJH,KohSJ,LeeJH.Rotatorcuffbridging
+ing.PlastReconstrSurg.2004;114(6):1502-1508.doi:10.1097/01.prs. repairusingacellulardermalmatrixinlargetomassiverotatorcuff
+0000138251.07040.51 tears:histologicandclinicalanalysis.JShoulderElbowSurg.2017;
+11. Everts P, Onishi K, Jayaram P, Lana JF, Mautner K. Platelet-rich 26(11):1897-1907.doi:10.1016/j.jse.2017.04.010
+plasma: new performanceunderstandings and therapeutic consid- 30. KimYS,KimSE,BaeSH,LeeHJ,JeeWH,ParkCK.Tearprogression
+erations in 2020. Int J Mol Sci. 2020;21(20):7794. doi:10.3390/ ofsymptomaticfull-thicknessandpartial-thicknessrotatorcufftears
+ijms21207794 asmeasuredbyrepeatedMRI.KneeSurgSportsTraumatolArthrosc.
+12. FluryM,RickenbacherD,SchwyzerHK,etal.Doespureplatelet-rich 2017;25(7):2073-2080.doi:10.1007/s00167-016-4388-3
+plasmaaffectpostoperativeclinicaloutcomesafterarthroscopicrota- 31. KimYS,SungCH,ChungSH,KwakSJ,KohYG.Doesaninjectionof
+torcuffrepair?Arandomizedcontrolledtrial.AmJSportsMed.2016; adipose-derivedmesenchymalstemcellsloadedinfibringlueinflu-
+44(8):2136-2146.doi:10.1177/0363546516645518 encerotatorcuffrepairoutcomes?Aclinicalandmagneticresonance
+13. FuX,LiuG,HalimA,JuY,LuoQ,SongAG.Mesenchymalstemcell imagingstudy.AmJSportsMed.2017;45(9):2010-2018.doi:10.1177/
+migration and tissue repair. Cells. 2019;8(8):784. doi:10.3390/ 0363546517702863
+cells8080784 32. KubrovaE,D’SouzaRS,HuntCL,WangQ,vanWijnenAJ,QuW.
+14. GalatzLM,BallCM,TeefeySA,MiddletonWD,YamaguchiK.The Injectablebiologics:whatistheevidence?AmJPhysMedRehabil.
+outcomeandrepairintegrityofcompletelyarthroscopicallyrepaired 2020;99(10):950-960.doi:10.1097/PHM.0000000000001407
+large and massive rotatorcuff tears.J Bone Joint Surg Am. 2004; 33. KwakEA,LeeNY.SynergeticrolesofTGF-betasignalingintissue
+86(2):219-224.doi:10.2106/00004623-200402000-00002 engineering. Cytokine. 2019;115:60-63. doi:10.1016/j.cyto.2018.12.
+15. GilotraMN,ShorofskyMJ,SteinJA,MurthiAM.Healingofrotatorcuff 010
+tendonsusingbotulinumtoxinAandimmobilizationinaratmodel. 34. KwonDR,ParkGY,LeeSC.Treatmentoffull-thicknessrotatorcuff
+BMC Musculoskelet Disord. 2016;17:127. doi:10.1186/s12891-016- tendontearusingumbilicalcordblood-derivedmesenchymalstem
+0978-y cellsandpolydeoxyribonucleotidesinarabbitmodel.StemCellsInt.
+16. GordonNM,MaxsonS,HoffmanJK.Biologicallyenhancedhealingof 2018;2018:7146384.doi:10.1155/2018/7146384
+the rotator cuff. Orthopedics. 2012;35(6):498-504. doi:10.3928/ 35. KwonJ,KimYH,RheeSM,etal.Effectsofallogenicdermalfibro-
+01477447-20120525-06 blastsonrotatorcuffhealinginarabbitmodelofchronictear.AmJ
+17. Gu¨lec¸yu¨zMF,MachaK,PietschmannMF,etal.Allogenicmyocytes SportsMed.2018;46(8):1901-1908.doi:10.1177/0363546518770428
+and mesenchymal stem cells partially improve fatty rotator cuff 36. Lafosse L, Brzoska R, Toussaint B, Gobezie R.The outcome and
+degeneration in a rat model. Stem Cell Rev Rep. 2018;14(6): structuralintegrityofarthroscopicrotatorcuffrepairwithuseofthe
+847-859.doi:10.1007/s12015-018-9829-6 double-row suture anchor technique. Surgical technique. J Bone
+18. GumucioJP,FloodMD,RocheSM,etal.Stromalvascularstemcell JointSurgAm.2008;90(suppl2pt2):275-286.doi:10.2106/JBJS.H.
+treatment decreases muscle fibrosis following chronic rotator cuff 00388
+tear.IntOrthop.2016;40(4):759-764.doi:10.1007/s00264-015-2937- 37. LamplotJD,RodeoSA,BrophyRH.Apracticalguideforthecurrent
+x useofbiologictherapiesinsportsmedicine.AmJSportsMed.2020;
+19. Gurger M, Once G, Yilmaz E, et al. The effect of the platelet-rich 48(2):488-503.doi:10.1177/0363546519836090
+plasmaandozonetherapyontendon-to-bonehealingintherabbit 38. LiuB,JeongHJ,YeoJH,OhJH.Efficacyofintraoperativeplatelet-
+rotatorcuffrepairmodel.JOrthopSurgRes.2021;16(1):202.doi:10. rich plasma augmentation and postoperative platelet-rich plasma
+1186/s13018-021-02320-w booster injection for rotator cuff healing: a randomized controlled
+20. GwinnerC,GerhardtC,HaneveldH,ScheibelM.Two-stagedappli- clinical trial. Orthop J Sports Med. 2021;9(6):23259671211006100.
+cationofPRPinarthroscopicrotatorcuffrepair:amatched-pairanal- doi:10.1177/23259671211006100
+ysis.ArchOrthopTraumaSurg.2016;136(8):1165-1171.doi:10.1007/ 39. LiuXN,YangCJ,KimJE,etal.Enhancedtendon-to-bonehealingof
+s00402-016-2499-4 chronicrotatorcufftearsbybonemarrowaspirateconcentrateina
+21. HanB,JonesIA,YangZ,FangW,VangsnessCTJr.Repairofrotator rabbitmodel.ClinOrthopSurg.2018;10(1):99-110.doi:10.4055/cios.
+cufftendondefectsinagedratsusingagrowthfactorinjectablegel 2018.10.1.99
+scaffold.Arthroscopy.2020;36(3):629-637.doi:10.1016/j.arthro.2019. 40. LuLY, KuangCY, YinF.Magnetic resonance imaging andbiome-
+09.015 chanicalanalysisofadipose-derivedstromalvascularfractionapplied
+22. HaradaY,MifuneY,InuiA,etal.Rotatorcuffrepairusingcellsheets onrotatorcuffrepairinrabbits.ChinMedJ(Engl).2018;131(1):69-74.
+derivedfromhumanrotatorcuffinaratmodel.JOrthopRes.2017; doi:10.4103/0366-6999.221264
+35(2):289-296.doi:10.1002/jor.23289 41. LuLY,MaM,CaiJF,etal.Effectsoflocalapplicationofadipose-
+23. HernigouP,FlouzatLachanietteCH,DelambreJ,etal.Biologicaug- derivedstromalvascularfractionontendon-bonehealingafterrotator
+mentationofrotatorcuffrepairwithmesenchymalstemcellsduring cufftearinrabbits.ChinMedJ(Engl).2018;131(21):2620-2622.doi:
+arthroscopy improves healing and prevents further tears: a case- 10.4103/0366-6999.244120
+
+NEW PAGE
+
+TheOrthopaedicJournalofSportsMedicine EvidenceforUtilizationofInjectableBiologicAugmentation 13
+42. MalavoltaEA,GracitelliMEC,AssuncaoJH,FerreiraNetoAA,Bor- 57. Rothrauff BB, Smith CA, Ferrer GA, et al. The effect of adipose-
+dalo-Rodrigues M,de CamargoOP. Clinical andstructural evalua- derived stem cells on enthesis healing after repair of acute and
+tionsofrotatorcuffrepairwithandwithoutaddedplatelet-richplasma chronic massive rotator cuff tears in rats. J Shoulder Elbow Surg.
+at 5-year follow-up:aprospective randomized study.AmJSports 2019;28(4):654-664.doi:10.1016/j.jse.2018.08.044
+Med.2018;46(13):3134-3141.doi:10.1177/0363546518795895 58. Ruiz-Alonso S, Lafuente-Merchan M, Ciriza J, Saenz-Del-Burgo L,
+43. MarquesLF,StessukT,CamargoIC,SabehJuniorN,dosSantosL, PedrazJL.Tendontissueengineering:cells,growthfactors,scaffolds
+Ribeiro-PaesJT.Platelet-richplasma(PRP):methodologicalaspects and production techniques. J Control Release. 2021;333:448-486.
+andclinicalapplications.Platelets.2015;26(2):101-113.doi:10.3109/ doi:10.1016/j.jconrel.2021.03.040
+09537104.2014.881991 59. SongW,MaZ,WangC,LiH,HeY.Pro-chondrogenicandimmuno-
+44. MatthewsTJ,HandGC,ReesJL,AthanasouNA,CarrAJ.Pathology modulatorymelatonin-loadedelectrospunmembranesfortendon-to-
+ofthetornrotatorcufftendon.Reductioninpotentialforrepairastear bonehealing.JMaterChemB.2019;7(42):6564-6575.doi:10.1039/
+size increases. J Bone Joint Surg Br. 2006;88(4):489-495. doi:10. c9tb01516g
+1302/0301-620X.88B4.16845
+60. TokunagaT,KarasugiT,ArimuraH,etal.Enhancementofrotatorcuff
+45. MillerBS,DownieBK,KohenRB,etal.Whendorotatorcuffrepairs
+tendon-bonehealingwithfibroblastgrowthfactor2impregnatedin
+fail?Serialultrasoundexaminationafterarthroscopicrepairoflarge
+gelatin hydrogel sheets in a rabbit model. J Shoulder ElbowSurg.
+and massive rotator cuff tears. Am J Sports Med. 2011;39(10):
+2017;26(10):1708-1717.doi:10.1016/j.jse.2017.03.020
+2064-2070.doi:10.1177/0363546511413372
+61. TschonM,FiniM,GiardinoR,etal.Lightsandshadowsconcerning
+46. MoherD,LiberatiA,TetzlaffJ,AltmanDG,GroupP.PreferredReport-
+plateletproductsformusculoskeletalregeneration.FrontBiosci(Elite
+ingItemsforSystematicReviewsandMeta-Analyses:thePRISMA
+Ed).2011;3(1):96-107.doi:10.2741/e224
+statement.AnnInternMed.2009;151(4):264-269,W64.doi:10.7326/
+62. TudiscoC,BisicchiaS,SavareseE,etal.Single-rowvs.double-row
+0003-4819-151-4-200908180-00135
+arthroscopicrotatorcuffrepair:clinicaland3TeslaMRarthrography
+47. NussCA,HuegelJ,Boorman-PadgettJF,etal.Poly-N-acetylglucos-
+results. BMC Musculoskelet Disord. 2013;14:43. doi:10.1186/1471-
+amine (sNAG) enhances early rotator cuff tendon healing in a rat
+2474-14-43
+model. Ann Biomed Eng. 2017;45(12):2826-2836. doi:10.1007/
+63. USFoodandDrugAdministration.Frameworkfortheregulationof
+s10439-017-1923-4
+regenerativemedicineproducts.May21,2019.AccessedJanuary6,
+48. OztermeliA,KaracaS,YucelI,MidiA,SenEI,OzturkBY.Theeffectof
+2023. https://www.fda.gov/vaccines-blood-biologics/cellular-gene-
+erythropoietinonratrotatorcuffrepairmodel:anexperimentalstudy.
+JOrthopSurg(HongKong).2019;27(2):2309499019856389.doi:10. therapy-products/framework-regulation-regenerative-medicine-
+1177/2309499019856389 products
+49. Pandey V, Bandi A, Madi S, et al. Does application of moderately 64. UsuelliFG,D’AmbrosiR,MaccarioC,IndinoC,ManziL,MaffulliN.
+concentratedplatelet-richplasmaimproveclinicalandstructuralout- Adipose-derivedstemcellsinorthopaedicpathologies.BrMedBull.
+comeafterarthroscopicrepairofmedium-sizedtolargerotatorcuff 2017;124(1):31-54.doi:10.1093/bmb/ldx030
+tear? A randomized controlled trial.J Shoulder Elbow Surg. 2016; 65. VanderArkA,CaoJ,LiX.TGF-betareceptors:inandbeyondTGF-
+25(8):1312-1322.doi:10.1016/j.jse.2016.01.036 beta signaling. Cell Signal. 2018;52:112-120. doi:10.1016/j.cellsig.
+50. ParisienRL,EhlersC,CusanoA,TornettaPIII,LiX,WangD.The 2018.09.002
+statistical fragility of platelet-rich plasma in rotator cuff surgery: a 66. VastamakiM,LohmanM,BorgmastarsN.Rotatorcuffintegritycor-
+systematic review and meta-analysis. Am J Sports Med. 2021; relateswithclinicalandfunctionalresultsataminimum16yearsafter
+49(12):3437-3442.doi:10.1177/0363546521989976 open repair. Clin Orthop Relat Res. 2013;471(2):554-561. doi:10.
+51. PonceBA,HosemannCD,RaghavaP,TateJP,SheppardED,Eber- 1007/s11999-012-2494-1
+hardt AW. A biomechanical analysis of controllable intraoperative 67. WalshMR,NelsonBJ,BramanJP,etal.Platelet-richplasmainfibrin
+variablesaffectingthestrengthofrotatorcuffrepairsatthesuture- matrixtoaugmentrotatorcuffrepair:aprospective,single-blinded,
+tendoninterface.AmJSportsMed.2013;41(10):2256-2261.doi:10. randomized study with 2-year follow-up. J Shoulder Elbow Surg.
+1177/0363546513499228 2018;27(9):1553-1563.doi:10.1016/j.jse.2018.05.003
+52. RandelliP,ArrigoniP,RagoneV,AliprandiA,CabitzaP.Plateletrich 68. Wang C, Hu Q, Song W, Yu W, He Y. Adipose stem cell-derived
+plasmainarthroscopicrotatorcuffrepair:aprospectiveRCTstudy,2- exosomesdecreasefattyinfiltrationandenhancerotatorcuffhealing
+yearfollow-up.JShoulderElbowSurg.2011;20(4):518-528.doi:10. in a rabbit model of chronic tears. Am J Sports Med. 2020;48(6):
+1016/j.jse.2011.02.008 1456-1464.doi:10.1177/0363546520908847
+53. Randelli PS, Stoppani CA, Santarsiero G, Nocerino E, Menon A. 69. Wang C, Song W, Chen B, Liu X, He Y. Exosomes isolated from
+Platelet-rich plasma in arthroscopic rotator cuff repair: clinical and adipose-derivedstemcells:anewcell-freeapproachtopreventthe
+radiologicalresultsofaprospectiverandomizedcontrolledtrialstudy muscledegenerationassociatedwithtornrotatorcuffs.AmJSports
+at 10-year follow-up. Arthroscopy. 2022;38(1):51-61. doi:10.1016/j. Med.2019;47(13):3247-3255.doi:10.1177/0363546519876323
+arthro.2021.05.017 70. WangD,TanH,LebaschiAH,etal.Kartogeninenhancescollagen
+54. ReifenrathJ,WellmannM,KempfertM,etal.TGF-beta3loadedelec-
+organization andmechanical strengthof therepaired enthesis in a
+trospunpolycaprolactonfibrescaffoldsforrotatorcufftearrepair:an
+murine model of rotator cuff repair. Arthroscopy. 2018;34(9):
+in vivo study in rats. Int J Mol Sci. 2020;21(3):1046. doi:10.3390/
+2579-2587.doi:10.1016/j.arthro.2018.04.022
+ijms21031046
+71. WellsGA,SheaB,O’ConnellD,etal.TheNewcastle-OttawaScale
+55. Rhee SM, Kim YH, Park JH, et al. Allogeneic dermal fibroblasts
+(NOS)forassessingthequalityofnonrandomisedstudiesinmeta-
+improvetendon-to-bonehealinginarabbitmodelofchronicrotator
+analyses.OttawaHospitalResearchInstitute.AccessedJanuary6,
+cuff tear compared with platelet-rich plasma. Arthroscopy. 2022;
+2023. https://www.ohri.ca//programs/clinical_epidemiology/oxford.
+38(7):2118-2128.doi:10.1016/j.arthro.2021.12.029
+asp
+56. Rohman G, Langueh C, Ramtani S, et al. The use of platelet-rich
+72. Yonemitsu R, Tokunaga T, Shukunami C, et al. Fibroblast growth
+plasma to promote cell recruitment into low-molecular-weight
+factor2enhancestendon-to-bonehealinginaratrotatorcuffrepair
+fucoidan-functionalizedpoly(ester-urea-urethane)scaffoldsforsoft-
+of chronic tears. Am J Sports Med. 2019;47(7):1701-1712. doi:10.
+tissue engineering. Polymers (Basel). 2019;11(6):1016. doi:10.3390/
+1177/0363546519836959
+polym11061016
+
+NEW PAGE
+
+14 Bonoetal TheOrthopaedicJournalofSportsMedicine
+APPENDIX
+TABLEA1
+Newcastle-OttawaScaleQualityAssessmentforNonrandomizedStudiesa
+FirstAuthor(Year) Selection Comparability Outcome Total AHRQStandard
+Gwinner(2016)20 4 1 3 8 Goodquality
+Dukan(2019)8 4 1 2 7 Goodquality
+Barber(2011)2 4 1 2 8 Goodquality
+Kim(2017)31 4 1 3 8 Goodquality
+aAHRQ,AgencyforHealthcareResearchandQuality.
+TABLEA2
+CochraneRisk-of-BiasToolforRandomizedControlledTrialsa
+CochraneRisk-of-BiasItemb
+FirstAuthor(Year) 1 2 3 4 5 6 7 AHRQStandard
+Malavolta(2018)42 Lowrisk Lowrisk Lowrisk Lowrisk Lowrisk Lowrisk Lowrisk Goodquality
+Walsh(2018)67 Lowrisk Lowrisk Lowrisk Lowrisk Lowrisk Lowrisk Lowrisk Goodquality
+Flury(2016)12 Lowrisk Lowrisk Lowrisk Lowrisk Lowrisk Lowrisk Lowrisk Goodquality
+Pandey(2016)49 Lowrisk Lowrisk Lowrisk Lowrisk Lowrisk Lowrisk Lowrisk Goodquality
+Randelli(2011)52 Lowrisk Lowrisk Lowrisk Lowrisk Lowrisk Lowrisk Lowrisk Goodquality
+Randelli(2022)53 Lowrisk Lowrisk Lowrisk Lowrisk Lowrisk Lowrisk Lowrisk Goodquality
+Liu(2021)38 Lowrisk Lowrisk Lowrisk Lowrisk Lowrisk Lowrisk Lowrisk Goodquality
+aAHRQ,AgencyforHealthcareResearchandQuality.
+bItems:1¼randomsequencegeneration;2¼allocationconcealment;3¼selectivereporting;4¼blindingofparticipantsandpersonnel;
+5¼blindingofoutcomeassessment;6¼incompleteoutcomedata;7¼otherbias.
+
+NEW PAGE

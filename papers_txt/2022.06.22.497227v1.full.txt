@@ -1,0 +1,1431 @@
+bioRxiv preprint doi: https://doi.org/10.1101/2022.06.22.497227; this version posted June 25, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+1  Clearance  of  defective  muscle  stem  cells  by  senolytics  reduces  the 
+2  expression  of  senescence-associated  secretory  phenotype  and  restores 
+3  myogenesis in myotonic dystrophy type 1. 
+4    
+5  Talita C. Conte1,2, Gilberto Duran-Bishop1,3, Zakaria Orfi1,2, Inès Mokhtari1,4,5, Alyson 
+6  Deprez1,2, Marie-Pier Roussel5,6, Isabelle Côté5, Ornella Pellerito1, Damien Maggiorani1,2, 
+7  Basma  Benabdallah1,  Severine  Leclerc1,  Lara  Feulner1,  Jean  Mathieu5,7,  Cynthia 
+8  Gagnon5,7,  Gregor  Andelfinger1,8,  Christian  Beauséjour1,2,  Serge  McGraw1,3,  Elise 
+9  Duchesne4,5,10, and Nicolas A. Dumont1,9,10 
+10    
+11  1.  CHU Sainte-Justine Research Center. Montreal, QC, Canada. 
+12  2.  Department of pharmacology and physiology, Faculty of Medicine, Université 
+13  de Montréal. Montreal, QC, Canada. 
+14  3.  Department of obstetrics and gynecology. Faculty of Medicine, Université de 
+15  Montréal. Montreal, QC, Canada. 
+16  4.  Department of Health Sciences, Université du Québec à Chicoutimi, QC, 
+17  Canada 
+18  5.  Neuromuscular diseases interdisciplinary research group (GRIMN), Saguenay 
+19  Lac-St-Jean  integrated  university  health  and  social  services  hospital,  QC, 
+20  Canada.  
+21  6.  Department of Fondamental Sciences, Université du Québec à Chicoutimi, QC, 
+22  Canada 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.06.22.497227; this version posted June 25, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+23  7.  CHU Sherbrooke Research Center, Faculty of Medicine and Health Sciences, 
+24  Université de Sherbrooke, Québec, Canada 
+25  8.  Department  of  Pediatrics,  Faculty  of  Medicine,  Université  de  Montréal. 
+26  Montreal, QC, Canada. 
+27  9.  School  of  rehabilitation,  Faculty  of  Medicine,  Université  de  Montréal. 
+28  Montreal, QC, Canada 
+29  10. These authors contributed equally 
+30     
+31  Correspondence should be addressed to N.A.D.: nicolas.dumont.1@umontreal.ca and/or 
+32  E.D: elise1_duchesne@uqac.ca 
+33   
+34     
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.06.22.497227; this version posted June 25, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+35  ABSTRACT 
+36  Muscle weakness and atrophy are clinical hallmarks of myotonic dystrophy type 1 (DM1). 
+37  Muscle stem cells, which contribute to skeletal muscle growth and repair, are also affected 
+38  in this disease. However, the molecular mechanisms leading to this defective activity and 
+39  the impact on the disease severity are still elusive. Here, we explored through an unbiased 
+40  approach the molecular signature leading to myogenic cell defects in DM1. Single cell 
+41  RNAseq data revealed the presence of a specific subset of DM1 myogenic cells expressing 
+42  a  senescence  signature,  characterized  by  the  high  expression  of  genes  related  to 
+43  senescence-associated secretory phenotype (SASP). This profile was confirmed using 
+44  different senescence markers in vitro and in situ. Accumulation of intranuclear RNA foci 
+45  in senescent cells, suggest that RNA-mediated toxicity contribute to senescence induction. 
+46  High expression of IL-6, a prominent SASP cytokine, in the serum of DM1 patients was 
+47  identified  as  a  biomarker  correlating  with  muscle  weakness  and  functional  capacity 
+48  limitations. Drug screening revealed that the BCL-XL inhibitor (A1155463), a senolytic 
+49  drug, can specifically target senescent DM1 myoblasts to induce their apoptosis and reduce 
+50  their SASP. Removal of senescent cells re-established the myogenic function of the non-
+51  senescent DM1 myoblasts, which displayed improved proliferation and differentiation 
+52  capacity in vitro; and enhanced engraftment following transplantation in vivo. Altogether 
+53  this study presents a well-defined senescent molecular signature in DM1 untangling part 
+54  of the pathological mechanisms observed in the disease; additionally, we demonstrate the 
+55  therapeutic  potential  of  targeting  these  defective  cells  with  senolytics  to  restore 
+56  myogenesis. 
+57 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.06.22.497227; this version posted June 25, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+58  INTRODUCTION 
+59  Myotonic dystrophy type 1 (DM1) is a rare disease that affects approximately 1:8,000 
+60  individuals in the world1,2. DM1 is caused by an unstable (CTG) nucleotide repeat in the 
+61  dystrophia myotonica protein kinase (DMPK) gene3. CTG repeats in DNA lead to toxic 
+62  mRNA  accumulation  causing  splicing  defects  mainly  attributable  to  binding  protein 
+63  sequestration. In healthy individuals, the DMPK alleles have 5 to 37 CTG repeats, but in 
+64  DM1, there can be hundreds to thousands of these repeats; with the number of repeats 
+65  partially correlating with the age of onset and the severity of the disease4-7. Patients are 
+66  classified into five clinical phenotypes according to the CTG expansion size, and the 
+67  occurrence and onset of their main symptoms: congenital, infantile, juvenile, adult and late-
+68  onset8. 
+69   
+70  DM1 is a multisystemic disease that affects different organs, and particularly the skeletal 
+71  muscles, leading to progressive weakness and atrophy9. Muscle stem cells (MuSC), which 
+72  contribute to skeletal muscle growth and repair are also affected in this disease5. In healthy 
+73  condition, quiescent MuSC are activated after an injury and become myoblasts that 
+74  proliferate extensively before exiting cell cycle to self-renew or to differentiate and fuse to 
+75  form new myofibers10. Previous studies performed on mixed cell populations (non-purified 
+76  by FACS) extracted from skeletal muscle samples of DM1 patients showed that these cells 
+77  exhibit signs of cellular senescence (a state of irreversible cell cycle arrest), such as 
+78  enzymatic senescence-associated b-Galactosidase (SA-b-Gal) activity, expression of the 
+79  cell cycle inhibitor p16, loss of nuclear integrity, and nuclear envelope invagination11,12. It 
+80  was shown using in vitro models of DM1 that cellular senescence is independent from 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.06.22.497227; this version posted June 25, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+81  telomere shortening but is rather induced by the activity of the cell cycle inhibitor p16 
+82  and/or p21 in response to CTG-related stress12-14. This increase in cellular senescence is 
+83  associated  with  reduced  proliferative  capacity  of  DM1  myoblasts  and  delayed 
+84  differentiation and fusion into myofibers5,12,14. Overexpression of cyclin-dependent kinase 
+85  4 (Cdk4) to bypass p16-induced senescence restored the proliferation of DM1 cells to the 
+86  level of healthy control cells12. 
+87   
+88  In addition to decreasing the pool of competent cells, senescent cells secrete a broad range 
+89  of molecules including proinflammatory cytokines (e.g., IL-1, IL-6) and matrix proteinases 
+90  (e.g., MMP1, MMP3). This cocktail, known as the Senescence-Associated Secretory 
+91  Phenotype (SASP), alters the microenvironment and leads to detrimental changes in 
+92  neighbouring cells and in the whole organism15,16. Particularly, IL-6 is associated with 
+93  muscle wasting conditions and promote the exhaustion of the MuSC pool17-19. Chronic 
+94  exposure to SASP is considered as one of the major sources of deleterious effects on tissue 
+95  maintenance and regenerative capacity15,20; however, its impact on DM1 pathogenesis has 
+96  not been investigated yet.  
+97     
+98  Considering that senescent cells accumulate with time and have detrimental impacts on 
+99  neighbouring cells, they represent an attractive target for the treatment of many disorders21. 
+100  Pioneer studies showed that genetic removal of senescent cells expressing the cell cycle 
+101  inhibitor  p16  in  aging  mice  enhances  their  lifespan20,22.  Moreover,  pharmacological 
+102  compounds, called senolytics, can selectively eliminate senescent cells23, which reduces 
+103  the production of frailty-related proinflammatory cytokines in aged mice, and improves 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.06.22.497227; this version posted June 25, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+104  physical function and lifespan24. Considering that DM1 has been described as a progeroid 
+105  syndrome (i.e. mimicking premature aging)25, and that skeletal muscles in DM1 share 
+106  many similarities with aged muscles such as cellular senescence, MuSC defects, and 
+107  muscle  wasting26,  it  suggests  that  senolytics  hold  great  therapeutic  potential  for  the 
+108  treatment of DM1. However, the impact of senolytics in muscular diseases such as DM1 
+109  has never been investigated. 
+110   
+111  Here,  we  generated  the  first  single-cell  transcriptomic  atlas  of  DM1  to  identify  the 
+112  molecular signature of myogenic cell subpopulations. Using myoblasts isolated from DM1 
+113  patients and age- and sex-matched healthy controls, we identified a specific subset of 
+114  senescent-like cells expressing high levels of SASP. We confirmed cellular senescence 
+115  using different markers (p16, p21, SA-b-Gal) in primary myoblasts of DM1 patients in 
+116  vitro and in skeletal muscle biopsies in situ. Furthermore, we demonstrated that the level 
+117  of IL-6, a key SASP cytokine, is correlated with upper- and lower-limb muscle weakness 
+118  as well as functional capacity limitations in patients affected by DM1. Thereafter, we 
+119  screened different senolytic drugs and have identified the B-cell lymphoma-extra large 
+120  (BCL-XL) inhibitor, A1155463, as the most promising molecule to eliminate specifically 
+121  senescent myoblasts cultured from DM1 patients’ samples, without affecting cells cultured 
+122  from healthy controls’ samples. Elimination of senescent cells reduced SASP expression 
+123  and  restored  the  myogenesis  potential  of  the  myoblasts  in  vitro  and  following  cell 
+124  transplantation in vivo. Altogether, these findings support the importance of cellular 
+125  senescence in the disease severity, and the therapeutic potential of senolytics to target 
+126  defective myogenic cells and reduce SASP expression in DM1.   
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.06.22.497227; this version posted June 25, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+127  RESULTS 
+128  Single-Cell RNAseq identifies a subset of senescent cells in DM1 myoblasts. 
+129  Considering that cellular senescence only affects a subset of cells at a given moment, we 
+130  took advantage of the single-cell RNA sequencing (scRNAseq) technology to identify the 
+131  distinct transcriptional profile in cellular subpopulations of DM1 myoblasts. Myoblasts 
+132  were sorted by FACS (Suppl. Fig. 1) and purity was confirmed by immunofluorescence 
+133  (Suppl. Fig. 2). Single-cell transcriptomic sequencing was performed on pooled myoblasts 
+134  at the same early passage (P4) from 3 DM1 patients (juvenile phenotype) and 3 age- and 
+135  sex-matched healthy controls (Suppl. Table 1). After filtering and removal of doublets in 
+136  the sequencing data, we analysed 1,613 control cells and 1,714 DM1 patient cells (Suppl. 
+137  Fig. 3). Both controls and DM1 cells express high levels of myogenic cell markers such as 
+138  CD82, ITGB1 (CD29), MYF5, MYOD1, NCAM1 (CD56), and DES, as well as low levels 
+139  of the fibroadipogenic (PDGFRa and CD34), endothelial (CD31 and TIE1), and myeloid 
+140  (CD11B and CD45) cell markers (Suppl. Fig. 4). UMAP plot of merged control and patient 
+141  cells revealed that these cells cluster differently (Fig. 1A). Differential expression analysis 
+142  revealed that the expression of 516 genes was significantly changed (P < 10e-6; n=266 
+143  downregulated and n=250 upregulated) in DM1 patients compared to controls (Fig. 1B, 
+144  Suppl. Table 2). Compared to healthy control cells, DM1 cells showed lower expression in 
+145  genes associated to myogenic markers (e.g., MYF5, MYOD1, MYF6, SIX1), extracellular 
+146  matrix components (e.g., COL1A1, COL1A2, COL3A1, COL5A2, LAMA2, FN1), Notch 
+147  signalling (e.g., HEYL, RBPJ), and cell cycle (e.g., CENPF, CCNA2, CCNB1, CCNB2, 
+148  CDK1, MKI67) (Fig 1B,C; suppl. table 2). Downregulated genes in DM1 cells were 
+149  enriched for biological processes related to cell cycle, muscle structure development, and 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.06.22.497227; this version posted June 25, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+150  extracellular matrix organization (Fig 1D,F). Top upregulated genes in DM1 cells included 
+151  cytokines/chemokines related to inflammation (e.g., CXCL1, CXCL2, CXCL3, CXCL5, 
+152  CXCL6, CXCL8, IL1B, IL6, CSF3), and metalloproteinases (e.g., MMP1, MMP3) (Fig 1 
+153  B,C; suppl. table 2). Upregulated genes in DM1 cells were enriched for biological functions 
+154  included  cytokine  signaling,  cellular  response  to  stress,  autophagy,  apoptosis,  and 
+155  senescence  (Fig  1E,G).    SCENIC  analysis  was  used  to  predict  transcription  factors 
+156  regulating the gene sets. Results showed that downregulated genes are controlled by 
+157  different  transcriptions  factors  related  to  myogenesis  (e.g.,  MYF5,  MYOD1,  MYF6, 
+158  SIX1), while for the genes upregulated in DM1 the transcriptions factors related to the NF-
+159  kB pathway (e.g., NFKB1, NFKB2, REL, RELB) were identified (Fig. 1H,I). 
+160  UMAP plot showed that cells expressing high levels of pro-inflammatory cytokines 
+161  (e.g., CXCL1, CXCL8, IL6) in DM1 patients are restricted to specific cell clusters (Fig. 
+162  1C). Further, SAA1 and SAA2, two target genes of pro-inflammatory molecules such as IL-
+163  1, IL-6, and TNFa27, are also upregulated in specific subsets of DM1 myogenic cells. To 
+164  further explore this senescent-like phenotype we compared the different clusters to gene 
+165  sets related to cellular senescence and SASP production28. Based on this profile, we were 
+166  able to classify the DM1 cells in 3 subpopulations: one subset of fully senescent cells 
+167  expressing high levels of senescent genes and SASP (clusters 2, 3, 6), one subset of early-
+168  senescent cells expressing senescence markers that did not transcribe into SASP cytokine 
+169  secretion (cluster 4), and one subset non-senescent cells (clusters 0, 1, 5) (Fig. 2 A-D). By 
+170  comparing the molecular signature of the senescent and non-senescent clusters versus all 
+171  the  combined  clusters  found  in  our  control  sample,  we  observed  a  clear  senescent 
+172  molecular  signature  present  only  in  the  senescent  cluster  (CXCL1,  CXCL3,  CXCL5, 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.06.22.497227; this version posted June 25, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+173  CXCL8, MMP1, SOD2); and that the non-senescent cluster in DM1 samples expressed a 
+174  similar molecular profile as our control sample (Fig. 2E). 
+175  Production of SASP by senescent cells varies depending on the cell type and 
+176  inducer29,30. Thus, we selected all the top differentially expressed genes (>1.7-fold) in DM1 
+177  and controls samples and we investigated the presence of these genes in the SASP Atlas30, 
+178  a proteomic database that analysed the SASP factors secreted by different cell types 
+179  (fibroblasts and epithelial cells) subjected to multiple senescence inducers (irradiation, 
+180  oncogene-induced,  treatment-induced).  These  findings  indicate  that  the  top  genes 
+181  overexpressed in DM1 patients (e.g., STC1, SOD2, MMP1, CXCL5, CXCL8) are canonical 
+182  SASP markers expressed at the protein level by senescent cells, regardless of the cell type 
+183  or the senescence inducer (Suppl. Fig. 5A). On the other hand, the top upregulated genes 
+184  in healthy control myoblasts (e.g., COL3A1, TOP2A) are negative regulators of cellular 
+185  senescence in the SASP Atlas (Suppl. Fig. 5B). 
+186   
+187  Cellular senescence is associated with reduced myogenesis in DM1. 
+188  As  single-cell  analysis  revealed  distinct  molecular  signatures  associated  to  cellular 
+189  senescence in DM1 cells, we further explore how this process was affected in myogenic 
+190  cells in vitro and in situ. First, we performed SA-b-Gal assay on myoblasts in vitro, and 
+191  we observed an 11-fold increase (p = 0.0023) in the proportion of b-Gal + senescent cells 
+192  in patient-derived DM1 myoblasts compared to healthy controls (Fig. 3A-B). Further 
+193  expression analysis on cultured myoblasts confirmed that P16 is significantly upregulated 
+194  (p = 0.046) in DM1 compared to controls (Fig. 3C). As senescence is characterized by cell 
+195  cycle  arrest,  myoblast  proliferation  was  assessed  using  a  live  cell  imaging  system 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.06.22.497227; this version posted June 25, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+196  (IncuCyte), and the results showed a significant reduction (p = 0.042) in cell proliferation 
+197  in DM1 patients compared to controls (Fig. 3D).  
+198    To determine if the accumulation of toxic RNA is the cause of cellular senescence 
+199  in DM1, the number of intranuclear RNA foci was compared in senescent (SA-b-Gal+) 
+200  and non-senescent (SA-b-Gal-) DM1 myoblasts. A 4-fold increase (p = 0.0017) was 
+201  observed in the number of RNA foci/cell in senescent DM1 cells compared to non-
+202  senescent cells (Fig. 3E,F, and suppl. Fig. 6).  
+203  Thereafter, cellular senescence markers were assessed on flash frozen skeletal 
+204  muscle  biopsies  to  determine  if  senescence  is  also  a  feature  of  the  disease  in  situ. 
+205  Immunofluorescence  staining  on  skeletal  muscle  section  showed  a  5-fold  increase 
+206  (p=0.022) in the proportion of satellite cells (PAX7+) co-expressing the cell cycle inhibitor 
+207  P16 (Fig. 3G,H) in DM1 muscles compared to controls. Gene expression analysis of 
+208  skeletal muscle biopsies confirmed a significant upregulation in the expression of the cell 
+209  cycle inhibitors P16 (5-fold; p=0.0075) and P21 (17-fold; p=0.004) in samples from DM1 
+210  patients compared to controls (Fig. 3I). 
+211   
+212  SASP production is correlated with muscle weakness in DM1 patients. 
+213  To determine the impact of SASP production on muscle function in vivo, blood 
+214  serum from DM1 patients (n=103; suppl. table 3) was collected to measure the level of 
+215  expression of IL-6, a prominent SASP cytokine. Thereafter, the maximum isometric 
+216  muscle strength of different muscle groups of the lower limb (ankle dorsiflexors, hip 
+217  flexors, knee extensors, knee flexors) and upper limb (shoulder flexors, shoulder abductors, 
+218  elbow flexors, elbow extensors) was quantitatively assessed. Using equations that adjust 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.06.22.497227; this version posted June 25, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+219  for age, sex, and weight, the predicted strength value of each muscle group was calculated, 
+220  which allowed to identify a relative deficit compared to normative value31. For the lower 
+221  limb, a significant negative correlation between IL-6 levels and predicted maximal muscle 
+222  strength was observed for ankle dorsiflexors (R: -0.426; p<0.001), hip flexors (R: -0.397; 
+223  p<0.001), knee extensors (R: -0.273; p=0.006), and knee flexors (R: -0.300; p=0.002) (Fig. 
+224  4A-D). For the upper limb, a significant negative correlation was observed for shoulder 
+225  flexors (R: -0.405; p<0.001), shoulder abductors (R: -0.370; p<0.001), elbow flexors (R: -
+226  0.337; p<0.001), and elbow extensors (R: -0.407; p<0.001) (Fig. 4E-H).  
+227  Thereafter, we separated the group in patients expressing low or high levels of IL-
+228  6, based on the normative value for healthy individuals (upper 95th percentile reference 
+229  limit of healthy individuals: 4.45 pg/ml)32. Twenty-three DM1 patients out of 103 (22.3%) 
+230  had IL-6 levels over the reference limit of healthy individuals, suggesting that IL-6 is 
+231  abnormally elevated in this population (Fig. 4I). The average IL-6 level was 3.7-fold higher 
+232  (p<0.001) in the high IL-6 expressing group (7.61 pg/ml) compared to the low IL-6 
+233  expressing group (2.04 pg/ml). As expected, DM1 patients were weaker than normative 
+234  values for healthy individuals for most muscle groups even if their IL-6 level was low (Fig. 
+235  4J,K). However, the DM1 patients that express higher levels of IL-6 are significantly 
+236  weaker compared to those that had a normal SASP profile for all muscle groups tested: 
+237  ankle dorsiflexors (-18%, p=0.006), hip flexors (-14%, p=0.001), knee extensors (-12%, 
+238  p=0.015), knee flexors (-12%, p=0.021), shoulder flexors (-22%, p=0.006), shoulder 
+239  abductors  (-16%,  p=0.016),  elbow  flexors  (-5%,  p=0.032),  elbow  extensors  (-24%, 
+240  p=0.003) (Figure 4J,K). 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.06.22.497227; this version posted June 25, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+241  The functional capacity of DM1 participants was assessed using standardized 
+242  physical tests validated in the DM1 population: the Timed-Up and Go (time to rise from a 
+243  chair, walk 3 meters, walk back and sit down), 10-meter Walk-Test (10mWT; walking 
+244  speed over a short distance), Berg balance scale (14-item test assessing static and dynamic 
+245  balance), and pinch test (thumb to index pinch strength)33,34. We observed a significant 
+246  correlation between IL-6 levels and the scores at the Timed-Up and Go (R: 0.400; 
+247  p<0.001), 10mWT (R: -0.388; p<0.001), Berg balance scale (R: -0.421; p<0.001), pinch 
+248  test (R: -0.345; p<0.001) (Fig. 4L,N,P,R). There was a significant reduction in the group 
+249  expressing higher levels of IL-6 compared to the one expressing lower levels of IL-6 in the 
+250  performance at the different functional tests: Timed-up and Go (+1 s [+10%], p=0.005), 10 
+251  mWT (-0.15 m/s [-12%], p=0.001), Berg balance scale (-4.1 [-7%], p=0.025), and pinch 
+252  test (-0.74 kg [-12%], p=0.032) (Fig. 4M,O,Q,S).  
+253  Further analysis using the stepwise regression model was used to verify if IL-6 is a 
+254  candidate predictor variable explaining muscle strength and functional outcomes. Results 
+255  show that IL-6, together with the clinical phenotype, age and/or sex of the patient, is a 
+256  variable that explain the variance of the scores obtained by participants to the Timed-up 
+257  and Go (standardized β: 0.18, p=0.048), 10mWT (standardized β: -0.2, p=0.003), Berg 
+258  balance scale (standardized β: -0.3, p=0.01), and the predicted maximal muscle strength of 
+259  hip  flexors  (standardized  β:  -0.27,  p=0.02),  knee  extensors  (standardized  β:  -0.20, 
+260  p=0.034), knee flexors (standardized β: -0.19, p=0.034), ankle dorsiflexors (standardized 
+261  β: -0.24, p=0.005), shoulder flexors (standardized β: -0.28, p=0.002), shoulder abductors 
+262  (standardized β: -0.22, p=0.009), elbow flexors (standardized β: -0.18, p=0.034), and elbow 
+263  extensors (standardized β: -0.206, p<0.001) (Suppl. table 4). 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.06.22.497227; this version posted June 25, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+264  The  same  analyses  were  performed  based  on  the  serum  level  of  TNFa.  No 
+265  correlation was observed between TNFa levels and the strength of ankle dorsiflexors, hip 
+266  flexors, knee extensors, knee flexors, shoulder flexors, shoulder abductors, elbow flexors, 
+267  elbow extensors, 10mWT, and pinch test (suppl. Fig. 7). Only the Berg balance test (R: 
+268  0.269; p=0.006) and the Timed-up and go (R: -0.305; p=0.009) showed a mild correlation 
+269  with TNFa levels. 
+270  Altogether, our findings indicate that cellular senescence and SASP are hallmarks 
+271  of DM1, which could explain the reduced myogenic capacity and the impaired muscle 
+272  function. Therefore, we next explored the possibility of eliminating these senescent cells 
+273  as a potential therapy to alleviate DM1 disease progression. 
+274   
+275  Senolytics  specifically  eliminate  senescent  myoblasts  in  DM1  and  reduce  SASP 
+276  expression 
+277  Considering that the pathophysiological mechanism behind cellular senescence varies 
+278  depending on the inducers and cell types, we tested the impact of six different senolytics 
+279  that act through different mechanisms to induce apoptosis of senescent cells: the FOXO4-
+280  DRI  peptide  (p53-FOXO4  interaction),  Fisetin  (PI3K/AKT  pathway),  Dasatinib  + 
+281  Quercetin (PI3K/AKT pathway), Navitoclax (BCL-2/BCL-X inhibitor), A1331852 and 
+282  A1155463 (Selective BCL-X  inhibitors)24,35-38. Analysis of cell viability following the 
+L
+283  treatment of myoblasts with different concentrations of senolytics showed that FOXO4-
+284  DRI, Dasatinib + Quercetin, and fisetin were toxic for cells isolated from both healthy 
+285  controls and DM1 patients (Suppl. Fig. 8). Navitoclax selectively eliminated cells in DM1 
+286  samples at a specific concentration (3 µm); however, A1155463 was the most effective to 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.06.22.497227; this version posted June 25, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+287  target cells specifically in the DM1 group and not affect the healthy cell viability (Fig. 5A). 
+288  Moreover, A1155463 was effective at a lower concentration, in the nanomolar range. 
+289  Therefore, this lead compound was chosen for the following experiments. To confirm that 
+290  A1155463 induced apoptosis of senescent cells, an Annexin V/propidium iodide (PI) assay 
+291  was performed on healthy and DM1 myoblasts. Treatment of myoblasts with A1155463 at 
+292  a dose of 100 nM showed increased apoptosis only in the DM1 samples (Fig. 5B,C). SA-
+293  b-Gal staining on DM1 or controls myoblasts treated with vehicle or A1155463 showed a 
+294  significant reduction in the number of SA-b-Gal+ senescent cells in the A1155463-treated 
+295  DM1 group (Fig. 5D,E). Further analysis of senescence genes expression demonstrated 
+296  that A1155463 treatment reduced P16 expression in DM1 samples, but not in controls (Fig. 
+297  5F). The expression of SASP factors was analysed by multiplex Luminex assay in DM1 
+298  cells  treated  with  A1155463  or  vehicle.  Results  showed  that  senolytic  treatment 
+299  significantly reduced the expression of many SASP factors such as CSF3 (p=0.0005), 
+300  CXCL1 (p=0.018), CXCL8 (p=0.002), CCL2 (p=0.041), MMP1 (p=0.009), and MMP3 
+301  (p=0.027) (Figure 5G). A trend toward reduction was also observed for IL-6 (p=0.078), 
+302  CCL7 (p=0.054), MMP2 (p=0.06), and MMP12 (p=0.07). On the other hand, growth 
+303  factors that stimulate cell proliferation such as EGF (p=0.0005) and FGF2 (p=0.026) were 
+304  increased by A1155463 treatment (Suppl. Fig 9). Other anti-inflammatory cytokines and 
+305  growth factors such as IL-4 (p=0.28), IL-13 (p=0.13), FLT-3L (p=0.25), and VEGF-A 
+306  (p=0.38) were not significantly affected by the treatment (Suppl. Fig. 9).  
+307   
+308  The eradication of senescent cells restores myogenesis in DM1.  
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.06.22.497227; this version posted June 25, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+309  Next, we aimed to determine if the elimination of senescent cells, and the associated 
+310  reduction in the expression of SASP factors, in A1155463-treated DM1 myoblasts restores 
+311  the myogenic potential of the non-senescent cells. Myoblasts were treated with A1155463 
+312  or vehicle for 1 day and were allowed to recover in proliferating media for 3 days. 
+313  Immunostaining for the proliferation marker KI67 revealed that A1155463-treatment 
+314  increased the proportion of KI67+ cells in the DM1 samples (1.8-fold increase), but not in 
+315  the controls (Fig. 6A-B). In another set of experiments, myoblasts were treated with 
+316  A1155463 or vehicle for 1 day and incubated in low serum differentiating medium for 5 
+317  days. Immunofluorescence staining for the differentiation marker MYOG revealed a 
+318  significant increase (2.2-fold) in the proportion of MYOG+ cells only in the DM1 samples, 
+319  and not in the controls (Fig. 6C-D). This increase in MYOG expression in the DM1 samples 
+320  was also confirmed by Western blot (Fig. 6E-F). 
+321  To better address the in vivo myogenic potential of DM1 myoblasts treated with 
+322  A1155163, we performed a cell transplantation assay. Three different DM1 myoblast lines 
+323  were treated with A1155463 (100 nM for 24 h) or vehicle and cells were allowed to recover 
+324  in proliferating media for 3 days. These cells were transplanted into the tibialis anterior 
+325  muscle of NSG mice that were injured by cardiotoxin (CTX) injection 1 day before. 
+326  Regenerated TA muscles were collected 21 days post-CTX injection (Fig. 6G). Cell 
+327  engraftment  was  assessed  by  co-immunolabeling  for  the  human  dystrophin  protein 
+328  (hDMD) and total dystrophin protein (tDMD) (Fig. 6H). We observed that A1155463 
+329  enhanced DM1 cell engraftment by 50% when compared to vehicle (Fig. 6I). Taken 
+330  together these results indicate that A1155463 treatment can significantly improve the 
+331  myogenic potential of DM1 myoblasts in vivo.   
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.06.22.497227; this version posted June 25, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+332  DISCUSSION 
+333  Our findings demonstrate that cellular senescence is a hallmark of myogenic cells in DM1. 
+334  Using single cell transcriptomics and multiplex Luminex assay, we show that a subset of 
+335  these cells displays a molecular signature characterized by high levels of expression of 
+336  SASP factors. Our findings show that IL-6, a ubiquitous SASP factor, is associated with 
+337  muscle weakness and functional limitations in DM1 patients. By screening for different 
+338  senolytics, we identify a lead molecule, A1155463, that specifically eliminates senescent 
+339  cells in DM1. The senolytic-induced reduction of SASP is associated with a restoration of 
+340  the myogenic potential of DM1 myoblasts in vitro and in vivo. Altogether, these findings 
+341  provide novel insights on the physiopathology of DM1 and identify a new therapeutic 
+342  avenue for the treatment of this disease. 
+343   
+344  Signs of cellular senescence have been observed previously in cells isolated from skeletal 
+345  muscles of DM1 patients; however, these studies used a mixed population of cells that were 
+346  not purified by FACS and they did not validate if these senescence markers are co-
+347  expressed  with  myogenic  cell  markers11-13.  Therefore,  it  was  not  possible  to  clearly 
+348  delineate if myogenic cells, or if fibroblasts for instance, were becoming senescent. 
+349  Particularly, fibroblasts or mesenchymal stromal cells are a predominant senescent cell 
+350  type in various pathogenic conditions39. Here, we use FACS purified myogenic cells and 
+351  we have confirmed that senescence markers (e.g., P16) are expressed in DM1 purified 
+352  myoblasts. Moreover, co-staining for P16 positive cells and PAX7 on skeletal muscle 
+353  biopsies revealed the presence of senescent muscle stem cells in situ, which has never been 
+354  described before. These findings indicate that cellular senescence in DM1 is not only an in 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.06.22.497227; this version posted June 25, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+355  vitro artefact caused by replicative stress, but a relevant pathophysiological process of the 
+356  disease. Furthermore, our experiments were performed on samples from individuals with 
+357  the  infantile,  juvenile  or  adult  form  of  the  disease,  while  previous  studies  focused 
+358  exclusively on the more severe congenital form, suggesting that cellular senescence is a 
+359  hallmark of the disease no matter the clinical form12,40.  
+360   
+361  Our findings show that the accumulation of RNA foci in the nuclei of DM myoblasts is 
+362  associated with cellular senescence, suggesting that RNA-meditated toxicity is the cause 
+363  of senescence in this disease. Toxic RNA accumulation caused by the CTG repeats in the 
+364  DMPK gene is known to induce reactive oxygen species (ROS) production and oxidative 
+365  damage in DM114,41-44. Chronic ROS production triggers a DNA damage response leading 
+366  to cell cycle arrest and cellular senescence, which in turn secretes further ROS and SASP 
+367  leading to a feed-forward cycle14,45,46. Using C2C12 cells it was shown that the insertion 
+368  of CUG repeats increases ROS production, which is further exacerbated by H O  exposure, 
+2 2
+369  suggesting that DM1 cells produce more ROS and are more sensitive to oxidative stress14. 
+370  Analysis of the GO enrichment data of our single cell transcriptomic dataset show that the 
+371  most dysregulated genes in DM1 patients’ cells are involved in oxidative phosphorylation. 
+372  Moreover, pathway analysis also shows an enrichment for genes related to ROS and 
+373  reactive nitrogen species (RNS) production. Analyses from other datasets also show an 
+374  increase in ROS producing genes (e.g., NOX4) and a decrease in antioxidant genes (e.g. 
+375  SOD3)14,47. Notably, the expression of antioxidant genes such as SOD1, SOD2, and GPX1 
+376  have been positively associated with muscle strength in another DM1 transcriptomic 
+377  dataset, suggesting that antioxidant levels could help protect against senescence-associated 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.06.22.497227; this version posted June 25, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+378  muscle  wasting48.  Overall,  our  findings  and  others  suggest  that  senescence  in  DM1 
+379  myoblasts is induced by toxic RNA-mediated oxidative stress. 
+380   
+381  Other transcriptomics datasets have been generated on DM1 tissues and cells (reviewed in 
+382  49). A study on DM1 myogenic cells showed that the transcriptional changes are more 
+383  important in DM1 myoblasts than myotubes47. GO term analysis showed that the biological 
+384  processes that are mostly enriched in DM1 myoblasts are signalling pathways, ECM 
+385  components,  and  cytoskeletal  organisation47.  Another  RNAseq  dataset  performed  on 
+386  human embryonic stem cells (DM1 and controls) differentiated into myogenic cells showed 
+387  that inflammatory pathways such as IL6-JAK-STAT3 signalling are overexpressed in DM1 
+388  cells, which is coherent with the inflammatory signature that we observed50. Similarly, 
+389  RNAseq analysis performed on isogenic myoblasts containing or not a CTG  expansion 
+2600
+390  showed an enrichment in biological processes such as cellular response to IFNg51. Using a 
+391  model of C2C12 cells containing expanded CUG repeats, it was also shown that toxic RNA 
+392  expression induces a senescence-like signature characterized by enrichment in genes 
+393  related to ECM organisation, response to oxygen levels, apoptosis, and regulation of cell 
+394  growth14. Transcriptomic analysis on skeletal muscle samples from individuals with the 
+395  congenital  form  of  DM1  showed  a  signature  very  similar  to  our  scRNAseq  dataset 
+396  characterized by downregulation in myogenesis genes and upregulation in inflammatory 
+397  genes, such as the IL6/STAT3 target genes SAA1 and SAA240. Moreover, supporting our 
+398  results, RNAseq on muscle samples from DM1 patients and controls showed that genes 
+ 
+399  related to SASP factors (e.g. CXCL14, CXCL16, and MMP2) or cell cycle inhibitors (e.g. 
+400  CDKN1A, TP63)52, are negatively correlated with muscle strength in DM148. RNAseq 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.06.22.497227; this version posted June 25, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+401  performed in other tissues such as the frontal cortex showed an enrichment in inflammatory 
+402  genes compared to healthy individuals, suggesting that the pro-inflammatory signature is 
+403  a common feature in different DM1 tissues53. These findings bring important insights on 
+404  the  molecular  mechanisms  in  DM1,  however,  bulk  RNAseq  analysis  limits  the 
+405  interpretations regarding the subpopulation of cells affected. Particularly, it is not possible 
+406  with  these  datasets  to  determine  if  the  inflammatory  signature  is  generalized  or 
+407  circumscribed to a specific subset of cells, which is especially important in the context of 
+408  cellular senescence.  
+409   
+410  To assess the specific molecular signature of myogenic cells in DM1, we used an 
+411  unbiased approach through scRNAseq. This is the first single cell transcriptomics dataset 
+412  generated in DM149 This dataset allowed to identify specific cell clusters expressing 
+.
+413  different levels of senescence markers leading to a better comprehension of the different 
+414  stages of senescence in myoblasts of patients with DM1. Particularly, we identified a 
+415  specific cluster of DM1 myoblasts expressing high levels of SASP factors, while another 
+416  cluster expressed higher levels of SAA1 and SAA2, two molecules that are triggered by 
+417  SASP factors and can further stimulate SASP expression by a positive feedback loop27,54. 
+418  These findings suggest that the expression of SASP by senescent cells have paracrine 
+419  effects on neighbouring cells and promote their senescence-like phenotype. Moreover, this 
+420  dataset identified that, while a subset of cells shows a fully senescent or early senescent 
+421  profile, there is a significant proportion of cells that had a similar molecular profile as the 
+422  one found in our control samples from healthy individuals. These results suggest that 
+423  elimination  of  the  senescent  myoblasts  could  restore  the  myogenic  activity  of  non-
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.06.22.497227; this version posted June 25, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+424  senescent DM1 myoblasts. Several studies used this approach to alleviate chronic and 
+425  degenerative diseases in which senescence contributes to the progression of the disease 
+426  (reviewed in 55,56). By testing different senolytic drugs, we observed that DM1 senescent 
+427  myoblasts were particularly responsive to inhibitors targeting the BCL family members. 
+428  Navitoclax (ABT-263; BCL2/BCL-XL inhibitor) was effective at targeting senescent 
+429  myoblasts in DM1, similar to what was shown in an aging model38; however, the highest 
+430  efficiency was achieved with the BCL-XL inhibitor A1155463. Notably, our SCENIC 
+431  analysis showed an enrichment in the activity of the transcription factors of the NF-kB 
+432  family, which are known to bind to promoter region of Bcl-xl gene to stimulate its 
+433  expression57. Other widely used senolytic such as FOXO4-DRI, fisetin, or dasatinib + 
+434  quercetin that affect other pathways were ineffective to specifically target senescent DM1 
+435  myoblasts24,36, which indicate that the senescent molecular signature expressed in DM1 
+436  myoblasts is distinct to this cell type/inducer and that specific molecular targeting is 
+437  necessary to eliminate these cells.  
+438   
+439  Our findings demonstrate that IL-6, a main component of the SASP cocktail, is 
+440  correlated with muscle weakness and functional capacity limitations in DM1. These results 
+441  are consistent with previous observations showing that members of the IL-6 signalling 
+442  pathway are correlated with signs of histological degenerative changes in the congenital 
+443  form of the disease40. On the other hand, our findings show that another pro-inflammatory 
+444  cytokine, TNFa, was not correlated with muscle weakness. These results are consistent 
+445  with our scRNAseq data showing an increase in the expression of IL6 but not TNF in 
+446  samples from DM1 patients. These results suggest that there is a specific SASP signature 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.06.22.497227; this version posted June 25, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+447  associated with muscle weakness in DM1, and not only a generalized pro-inflammatory 
+448  profile. Similarly, another study screened for 20 pro-inflammatory cytokines in the serum 
+449  of patients affected by facioscapulohumeral muscular dystrophy and identified IL-6 as the 
+450  only cytokine correlating with muscle weakness and disease severity58. These findings 
+451  suggest that IL-6 is a promising biomarker to determine the severity of muscle dysfunction 
+452  in DM159. 
+453 
+ 
+454  Our results also suggest that targeting SASP cytokines such as IL-6 is a valid 
+455  therapeutic approach to mitigate disease progression. Our findings showed that specific 
+456  elimination of senescent DM1 myoblasts leads to a reduction in the expression of SASP 
+457  molecules,  which  restores  the  myogenic  function  of  non-senescent  DM1  myoblasts 
+458  through an improvement of their cellular proliferation and differentiation capacity. These 
+459  results are consistent with a previous study showing that the secretion of SASP by 
+460  senescent cells block myoblast differentiation in vitro60. The improvement in myogenesis 
+461  was not observed in cells from healthy individuals, which confirms that the senolytic drug 
+462  targets a specific pathophysiological mechanism in DM1. 
+463   
+464  Overall,  this  study  describes  a  well-defined  senescent  molecular  signature  in  DM1 
+465  myogenic cells, which brings novel insights on the pathophysiological mechanisms of the 
+466  disease. Particularly, it identifies the production of SASP as a major characteristic of DM1 
+467  myoblasts, which is associated with muscle weakness in DM1. We demonstrated that 
+468  specific drugs can be used to target these defective cells and restore myogenesis. These 
+469  findings open a new therapeutic avenue that could help to mitigate the impact of DM1, a 
+470  disease for which no treatment currently exists to slow symptoms progression61. 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.06.22.497227; this version posted June 25, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+471   
+472  METHODS 
+473   
+474  Participants’ recruitment 
+475  Patients were recruited at the Saguenay Neuromuscular Clinic of Jonquière (Québec, 
+476  Canada) and healthy individuals were recruited among the friends/family members or team 
+477  members. Inclusion criteria for DM1 participants were to be aged over 18-year-old and 
+478  have a genetically confirmed diagnosis of DM1. One hundred and three DM1 participants 
+479  were  recruited  between  2002-2004  and  completed  muscle  and  functional  capacity 
+480  assessments and blood sample collection. Ten DM1 patients and seven healthy individuals 
+481  were recruited in 2019 and undergone a muscle biopsy only. This study was approved by 
+482  the Ethics review board of the Centre de santé et de services sociaux de Chicoutimi, 
+483  Canada. Written informed consent was obtained from all participants. 
+484   
+485  Muscle strength, functional capacity assessments, and blood sample collection 
+486  A blood sample was taken from each participant and the level of IL-6 was measured at the 
+487  Centre de recherche sur les maladies lipidiques of the Centre hospitalier de l’Université 
+488  Laval (Québec, Canada). DM1 patients were classified in a low or high IL-6 expressing 
+489  group based on the cut-off value representing the upper 95th percentile value for healthy 
+490  individuals  (4.45  pg/ml)32.  The  maximum  isometric  muscle  strength  of  the  ankle 
+491  dorsiflexors,  hip  flexors,  knee  flexors,  knee  extensors,  shoulder  flexors,  shoulder 
+492  abductors, elbow flexors and elbow extensors was assessed using quantitative muscle 
+493  testing according to a standardized protocol62. Muscle strength was expressed as the 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.06.22.497227; this version posted June 25, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+494  expected muscle strength of healthy individuals based on a French isometric strength 
+495  normative database using predictive equations taking into consideration age, sex, and 
+496  weight of the patients31. Patients were subjected to a battery of validated functional 
+497  tests63,64. Timed-up and Go: time to stand up, walk three meters, turn and walk back to sit 
+498  down on the chair; 10mWT: comfortable walking speed (m/s) along a 10-meter distance; 
+499  Berg balance scale: 14 items measuring static and dynamic balance (maximum score of 56 
+500  indicating no deficit in balance); Pinch strength: measured using a B&L pinch gauge (kg). 
+501  All tests were conducted under the supervision of a trained physiotherapist 
+502    
+503  Muscle biopsy 
+504  A biopsy of the vastus lateralis at the mid-thigh level was taken using the modified 
+505  Bergstrom needle technique with suction65. A ~200 mg sample of muscle was obtained, 
+506  rinsed in sterile phosphate buffered saline solution (PBS) and portioned out for the various 
+507  following analyses. The first half of the sample (approximately 100 mg) was kept in sterile 
+508  SK-MAX media (Wisent Bio) on ice for muscle stem cell isolation. The second half of the 
+509  muscle sample was separated in two parts that were flash frozen for qPCR analysis (50 mg) 
+510  or embedded in OCT tissue freezing medium and frozen in 2-methylbutaned cooled in 
+511  liquid nitrogen (50 mg). The samples were stored at -80°C. 
+512    
+513  Myogenic cell lines isolation, purification, and culture 
+514  Muscle biopsies from controls and patients were minced, digested in collagenase, and 
+515  plated in a culture dish66. Myoblasts were grown in Sk-MAX media complemented with 
+516  Sk-MAX supplement and 20% fetal bovine serum (FBS). Myoblasts were expanded for a 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.06.22.497227; this version posted June 25, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+517  few days until there were enough cells for purification by FACS. Myoblasts were stained 
+518  with 7-AAD (cell viability) and with the positive selection marker anti-CD56 AF647-
+519  conjugated (clone R19-760, BD biosciences). Of note, preliminary experiments showed 
+520  that virtually all CD56+ cells were also positive for another myogenic marker CD82 (data 
+521  not shown) 67, and therefore only CD56 was used for the follow-up experiments. Myoblasts 
+522  differentiation was induced by exposing cells to 2% horse serum (HS) in DMEM media. 
+523  Control and DM1 myoblasts were used for experiments at the same low passage (maximum 
+524  P6). 
+525   
+526  Single-cell RNA-sequencing experiments 
+527  Single cell suspensions of myogenic cells were resuspended in PBS containing 0.04% 
+528  ultra-pure BSA. scRNAseq libraries were prepared using the Chromium Single Cell 30 
+529  Reagent Kits v3.1 (10x Genomics; Pleasanton, CA, USA) according to the manufacturer’s 
+530  instructions68. Generated libraries were sequenced on an Illumina HiSeq4000.  
+531  Raw sequencing data were preprocessed using Cell Ranger 6.1.269 to perform the 
+532  alignment  (human  genome  GRCh38- 2020-A),  filtering,  barcode  counting,  and  UMI 
+533  counting at a single cell resolution, generating a control, patient, and a merged digital gene 
+534  expression (DGE) matrix containing 1,902, 2,029 and 3,931 cells respectively. Further 
+535  downstream analyses were conducted using R package Seurat v4.0 (spatial reconstruction 
+536  of single-cell gene expression data70) and singleCellTK v2.2.0 (Single cell Toolkit). 
+537  Quality control: Due to deep sequencing of the libraries, for each DGE matrix, cells 
+538  expressing fewer than 1,000 genes and more than 10% of mitochondrial genes were filtered 
+539  out, leaving a total of 3,381 cells in the merged matrix (1,639 cells from controls and 1,742 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.06.22.497227; this version posted June 25, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+540  cells from patients). For all cells, genes were excluded if they were expressed in less than 
+541  3 cells. We normalized the DGE matrices by the total number of UMIs in each cell and 
+542  scaled by 106 to yield counts per million (CPM). We natural log transformed these matrices 
+543  after the addition of a pseudocount of 1 to avoid undefined values. 
+544  The 2,000 most variable genes were selected for each DGE matrix, based on their 
+545  relative dispersion (variance/mean) regarding to the expected value across genes with 
+546  similar average expression71. Next, we performed a linear transformation (‘scaling’) to 
+547  each matrix to minimize variations due to technical noise or possible batch effects. 
+548  We used DoubletFinder72 to identify putative doublets in each DGE matrix relying 
+549  solely on gene expression data. DoubletFinder requires three input parameters for the 
+550  doublet classification: the number of expected real doublets (nExp), the number of artificial 
+551  doublets (pN) and the neighborhood size (pK). We calculated the nExp by multiplying the 
+552  number of cells by the expected doublet ratio (1.6%) based on 10x genomics Chromium 
+553  user guide. To identify pN and pK values, we performed the parameter optimization of 
+554  DoubletFinder resulting in a pN of 0.30 for all matrices and a pK of 0.24, 0.01 and 0.005 
+555  for the control, patient, and merged matrices respectively. After the removal of putative 
+556  doublets, we remain with 1,613 cells in the control, 1,714 cells in the patient, and 3,327 
+557  cells in the merged matrix for downstream analyses. 
+558  We estimated cell cycle activity by scoring the expression of a set of S phase–
+559  associated and G2/M phase–associated genes, as implemented in Seurat70. 
+560  To enable unsupervised clustering, we performed a linear dimensionality reduction 
+561  with principal component analysis (PCA) on each DGE matrix using the highly variable 
+562  genes previously identified. Once embedded in this PCA space, we applied a K-nearest 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.06.22.497227; this version posted June 25, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+563  neighbor (KNN) graph-based clustering approach and refine the edge weights between any 
+564  two cells based on the shared overlap in their local neighborhoods, identifying the k = 10 
+565  nearest neighbors for each cell.  To cluster the cells, we apply a Louvain algorithm73 to 
+566  iteratively group cells together, with the goal of optimizing the standard modularity 
+567  function. A resolution of 0.3 was used in the patient matrix to identify more defined cell 
+568  populations. The t-Distributed Stochastic Neighbor Embedding (tSNE)74 and the Uniform 
+569  Manifold Approximation and Projection (UMAP) were used to visualize the clustering 
+570  results; however, UMAP was chosen because it provides a better separation of the groups. 
+571  We computed differentially expressed genes (DEGs) between controls and patients 
+572  using the Wilcoxon rank-sum test with the Benjamini-Hochberg procedure for FDR 
+573  control75, identifying positive and negative markers for each group. DEGs with |logFC| > 
+574  1.0 and adjusted p-values < 10e-6 were considered. In addition, we also computed the 
+575  proportion and the probability distribution of cells expressing each gene in each group. 
+576  To identify DEGs among patient clusters and patient cells after the senescence annotation 
+577  (method described below), we used the model-based analysis of single-cell transcriptomics 
+578  method (MAST)76. DEGs with |logFC| >0.25, FDR <0.05, percentage cluster expression > 
+579  0.5, percentage expression in the control group < 0.4, and adjusted p-values <0.01 were 
+580  considered. For the senescent and non-senescent populations, DEGs with an adjusted p-
+581  values <0.01 and logFC > 1.5 in one condition and logFC <1.5 in the other condition were 
+582  plotted regardless the expression of the control. 
+583  Gene Ontology terms were analyzed for DEGs identified in each cell type using the 
+584  online Metascape tool (https://metascape.org)77 with default parameters: Min Overlap = 3, 
+585  p-value Cut-off = 0.05, and Min Enrichment = 1.5. The top 20 terms ranked by p-value 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.06.22.497227; this version posted June 25, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+586  were displayed in a bar diagram. Pathway enrichment analysis was performed using R 
+587  package ReactomePA v1.36.0 and displayed in a bubble diagram78. 
+588  To perform the annotation of senescent and non-senescent cells in patient cells, we 
+589  used the R package GSVA v1.40.1 79 to compare the average expression of the DEGs of 
+590  each patient cluster with reference gene sets related to cellular senescence and secretory 
+591  processes28,80-82. Heatmap and density plots are displayed. Clusters with GSVA scores > 0 
+592  in all gene sets were annotated as fully senescent cells, clusters with GSVA scores < 0 in 
+593  all gene sets were annotated as non-senescent cells, and clusters with positive and negative 
+594  GRVA values were annotated as early senescent cells. 
+595   
+596  Senescence associated beta-galactosidase staining 
+597  CellEvent, senescence green detection kit (ThermoFisher, C10850) was used to label 
+598  senescent cells according to the manufacturer’s specifications. The fluorescent probe 
+599  included in the assay is a substrate for beta-galactosidase and emits a 488 AlexaFluor 
+600  fluorogenic signal in cells containing the beta-galactosidase active enzyme. 
+601   
+602  Fluorescence in situ hybridation (FISH) 
+603  Following the SA-β-gal staining protocol, cells were fixed with 2% PFA solution for 10 
+604  min at room temperature, washed, and dehydrated in prechilled 70% ethanol for 3 h at 4°C. 
+605  Thereafter, cells were washed in PBS RNAse free for 10 min, incubated in 40% formamide 
+606  (Millipore, Ca) in 2× saline-sodium citrate (SCC) buffer (300 mM sodium chloride, 30 mM 
+607  sodium citrate, pH 7.0) for 10 min at room temperature, and blocked in hybridization buffer 
+608  (40% formamide, 2× SCC buffer, 200μg/mL bovine serum albumin, 100 mg/mL dextran 
+609  sulfate, 2 mM vanadyl sulfate, 1 mg/mL yeast tRNA) for 15 min at 37°C83. The Cy5-
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.06.22.497227; this version posted June 25, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+610  labeled (CAG)10 DNA probe was denatured for 10 min at 100°C, chilled on ice for 10 min, 
+611  then added to prechilled hybridization buffer for a final concentration of 150 ng/μL probe. 
+612  Cells were incubated with the probe for 2 h at 37°C. As a negative control, RNase solution 
+613  were incubated for 10 min at RT before the hybridization of the probe. Cells were washed, 
+614  counterstained with DAPI, and images were acquired on SP8 confocal microscope (Leica).  
+615   
+616    
+617  RT-qPCR  
+618  Myogenic  cells  total  RNA  was  extracted  with  Qiazol  reagent  according  to  the 
+619  manufacturer’s specifications. Total RNA was quantified with a Thermo Scientific™ 
+620  NanoDrop™ 8000 Spectrophotometer. Reverse transcription was performed on 1 μg of 
+621  total RNA using the RT mastermix (QuantiTect Reverse Transcription Kit, 205313) to 
+622  obtain cDNA. qPCR was performed with a set of primers designed on Primer-BLAST 
+623  (NCBI) and validated for their specificity, efficiency and annealing temperature84. Gene 
+624  amplification was performed with the BlasTaq™ 2X qPCR MasterMix (Abm, G892) on a 
+625  Roche LightCycler® 480 Instrument II. Data were analysed with the LightCycler® 480 
+626  and were normalised relative to RPLPO expression85. The primers used are shown in 
+627  Supplemental Table 5. 
+628    
+629  Immunofluorescence 
+630  Muscle biopsies were cut at 10 µm thick in using a NX50 Cryostar (Thermo). Slices were 
+631  put on positively charged Superfrost slides. Immunostaining was performed on skeletal 
+632  muscle sections or on primary myoblast cultured on plastic dishes. Samples were fixed 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.06.22.497227; this version posted June 25, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+633  with 2% PFA for 5 min (sections) or 10 min (cells). Sections were incubated with a 
+634  blocking solution containing 5% of donkey serum and 2% of bovine serum albumin (BSA) 
+635  in PBS for 60 minutes at room temperature. Sections were incubated overnight at 4°C with 
+636  the following primary antibodies diluted in blocking solution: PAX7 (clone PAX7, 1:20; 
+637  Developmental Studies Hybridoma Bank, DSHB), P16 (ab54210, 1:50; Abcam), P21 
+638  (clone F5, sc-6246, 1:50; Santa Cruz), KI67 (14-5698-82, 1:500; Invitrogen), MYOG 
+639  (ab124800, 1:200; Abcam), hDMD (MANDYS106(2c6), 1:2; Developmental Studies 
+640  Hybridoma Bank, DSHB), total DMD (ab15277, 1:200; Abcam). Secondary antibodies 
+641  were also diluted in blocking buffer (1:1,000) and incubated for 1 h at room temperature. 
+642  Secondary antibodies (Invitrogen) used were donkey anti-mouse 488 (A21202) or donkey 
+643  anti-mouse 594 (A21203), donkey anti-rabbit 488 (A21206) or donkey anti-rabbit 647 
+644  (A32795). Slides were mounted using PermaFluor mounting medium (Fisher Scientific). 
+645  Immunofluorescence pictures of samples were taken with EVOS M5000 (Thermo Fisher 
+646  Scientific) or Leica TCS SP8 DLS confocal microscope. Pictures were analyzed using 
+647  ImageJ software (version 1.53, National Institutes of Health, USA). 
+648    
+649  Viability assay 
+650  Cell viability was determined by Cell-titer 96 aqueous one solution cell proliferation assay 
+651  kit (Promega, G3580) according to the manufacturer’s specifications. Briefly, aliquots of 
+652  5 × 103 cells/well were cultured in 96-well plates. After 24 hours in culture, cells were 
+653  treated with vehicle (DMSO) or the following senolytics: FOXO4-DRI (NovoPro), Fisetin 
+654  (Selleck  chemicals),  Dasatinib  +  Quercetin  (Sigma),  Navitoclax  (ABT-263,  Abcam), 
+655  A1331852  (Selleck  Chemicals),  or  A1155463  (Selleck  Chemicals),  at  different 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.06.22.497227; this version posted June 25, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+656  concentrations for 48 h. Then, 40 µl of Cell-titer 96 aqueous one solution was added to 
+657  each well and incubated for an additional 3 h. The absorbance at 490 nm was recorded with 
+658  a 96-well plate reader (BMG Labtech, CLARIOstar). 
+659    
+660  Apoptosis assay  
+661  Apoptotic  cells  were  identified  using  a  detection  kit  (Biolegend,  FITC  Annexin  V 
+662  Apoptosis Detection Kit with PI, 640914) according to manufacturer’s specifications. After 
+663  trypsinization, cells were washed twice with Cell Staining Buffer and stained with FITC 
+664  Annexin V (1:30) and PI (1:10) for 15 minutes at room temperature. Then, 400 µl of 
+665  Annexin V binding buffer was added, and the samples were analyzed by LSR Fortessa 
+666  cytometer (BD Biosciences). 
+667    
+668  SASP markers Luminex assay 
+669  A multiplex Luminex assay (Eve Technologies, Calgary, Alberta) was used to measure 
+670  SASP markers of myogenic cells supernatant media. Two different discovery assays were 
+671  chosen to assess SASP markers: Human Cytokine/Chemokine 48-Plex Discovery Assay® 
+672  Array (HD48) and Human MMP and TIMP Discovery Assay® Array. Cells were treated 
+673  with senolytic or vehicle and incubated for 36 hours. Cell media was changed, and cells 
+674  were incubated for another 36 hours before supernatant collection. Supernatants were 
+675  stored at -80 °C until assayed.  
+676    
+677  Western blot 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.06.22.497227; this version posted June 25, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+678  Cells were washed with sterile PBS and lysed with ice-cold RIPA buffer containing 1% of 
+679  protease inhibitors and centrifuged at 10,000 g for 10 min. The supernatant was retained, 
+680  aliquoted, and the protein content was quantified using the BCA Assay Kit (Thermo 
+681  scientific, Mississauga, Ontario, Canada). A volume corresponding to 40 μg of protein was 
+682  diluted with a sample buffer (125 mM Tris buffer (pH 6.8), 4% SDS, 20% glycerol, 0.05% 
+683  bromophenol  blue,  and  200mM  dithiothreitol),  heated  at  100°C  for  5  min  and 
+684  electroseparated  on  15%  sodium  dodecyl  sulfate-polyacrylamide  gel.  Proteins  were 
+685  transferred to polyvinylidene difluoride membranes, which were blocked with 5% non-fat 
+686  milk or 5% BSA for 90 min at room temperature. Membranes were immunoblotted 
+687  overnight  at  4°C  with  anti-myogenin  (ab124800,  1:500;  Abcam)  and  anti-beta-actin 
+688  (4967S, 1:5,000; Cell Signaling) as primary antibodies. After washing, membranes were 
+689  incubated with goat anti-rabbit (H+L) HRP-conjugated secondary antibodies (1:5,000; 
+690  Abcam, ab6721) for 1 h at room temperature. Bands were revealed with ECL-plus Western 
+691  blotting reagent (PerkinElmer Life and Analytical Sciences, USA), visualized with the 
+692  BioRad ChemiDoc Imaging System, and quantified using ImageJ (National Institutes of 
+693  Health, Maryland, USA). Densities were normalized to the loading control. 
+694    
+695  Cell transplantation assay 
+696  NOD/SCID/IL2Rγ null (NSG) mice were housed in the animal care facility at the CHU 
+697  Sainte-Justine Research Center under pathogen-free conditions in sterile ventilated racks. 
+698  All in vivo manipulations were previously approved by the institutional committee for good 
+699  laboratory  practices  for  animal  research  (protocol  #2020-2357).  To  induce  muscle 
+700  regeneration and enhance cellular engraftment, a cardiotoxin injection (Latoxan, 50 μl of 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.06.22.497227; this version posted June 25, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+701  10 μM solution in saline) was performed intramuscularly (i.m.) through the skin in the right 
+702  and left tibialis anterior (TA) muscles under general anesthesia. After 24 hours, 2 × 105 
+703  DM1 myoblasts (resuspended in 10 µl of PBS) that were previously treated with A1155463 
+704  or vehicle for 72 hours were transplanted into the right or left injured TA muscle, 
+705  respectively. Three different cell lines were used, and each cell line was transplanted into 
+706  3 different mice. Mice were allowed to recover for 20 days after which they were 
+707  euthanized by CO  inhalation (under anesthesia) followed by cervical dislocation and their 
+2
+708  TA muscles were collected. Tissues were embedded in OCT tissue freezing medium and 
+709  frozen in 2-methylbutaned cooled in liquid nitrogen and stored at -80°C until sectioning.  
+710   
+711  Statistical analysis 
+712  Sample size determination was based on the expected effect size and variability that was 
+713  previously published for similar readouts using DM1 patient myogenic cultures5,12. No data 
+714  were  excluded.  All  experiments  were  repeated  independently  at  least  twice  in  the 
+715  laboratory with similar results. For each set of experiments, the proportion of control and 
+716  DM1 patients were matched as best as possible for age and sex. For data collection and 
+717  analysis,  the  experimenter  was  blinded  to  the  identity  of  the  sample.  For  in  vitro 
+718  experiments, data were analyzed with the MIXED procedure of the Statistical Analysis 
+719  System (SAS Institute, version 9.2, Cary, North Carolina, USA). Normality was verified 
+720  for all data according to the Shapiro–Wilk test. Treatment effects were determined with 
+721  two-tailed  Student’s  t-tests,  One-way  or  Two-way  analysis  of  variance  (ANOVA) 
+722  uncorrected Fisher’s Least Significant Difference (LSD) test. Results are reported as mean 
+723  ± standard error of the mean (SEM). For in vivo data analyses, associations between IL-6 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.06.22.497227; this version posted June 25, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+724  level and muscle strength and functional capacity of patients were assessed using Spearman 
+725  ρ correlation coefficient. Comparisons of muscle strength and functional capacity between 
+726  patients  based  on  IL-6  normative  value  for  healthy  individuals  (below  or  over  the 
+727  threshold) were performed using Mann-Whitney U Test. Stepwise multiple regression 
+728  analyses were used to determine which variables among age, sex, phenotype and IL-6 level 
+729  (low or high) best explain each variable of muscle strength and functional capacity. For all 
+730  tests, the significance value was set at p-value <.05. Data were analyzed using IBM SPSS 
+731  Statistics for Windows, Version 24.0 (Armonk, NY: IBM Corp). 
+732   
+733   
+734  ACKNOWLEDGEMENTS 
+735  We thank M. M. Hicham Affia, Ms. Veronique Lisi, and Ms. Lydia Tellier for their 
+736  technical assistance. T.C.C. was supported by a fellowship from the Myotonic Dystrophy 
+737  Foundation. G.D.B. was supported by CHU Sainte-Justine, University of Montreal, and 
+738  RQR (réseau québécois en reproduction) awards. Z.O. was supported by an award from 
+739  the MITACS fellowship. I.M. was supported by CERMO-FC (Center of Excellence in 
+740  Research on Orphan Diseases – Fondation Courtois) and TheCell awards. A.D. was 
+741  supported by an FQRNT (Fonds Québécois de la recherche - nature et les technologies) 
+742  doctoral award. M.P.R. was supported by an FRQS (Fonds Québécois de la recherche – 
+743  Santé) doctoral award. G.A. holds the Banque Nationale Research Exellence Chair in 
+744  Cardiovascular Genetics. E.D. was supported by FRQS Junior-1 award and N.A.D. and 
+745  S.M. were supported by FRQS Junior-2 award. This study was supported by grants from 
+746  Canadian Institutes of Health Research (CIHR) (grant no. MOP-49556, JNM-108412), the 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.06.22.497227; this version posted June 25, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+747  Quebec Cell, Tissue and Gene Therapy Network –ThéCell (a thematic network supported 
+748  by the FRQS) and Muscular Dystrophy Canada.   
+749   
+750  AUTHOR CONTRIBUTIONS 
+751  N.A.D. and E.D. conceived and managed the project. T.C.C, G.D.B, Z.O., I.M., M.P.R, 
+752  A.D., O.P., D.M., I.C., B.B., S.L., J.M., C.G. designed and performed experiments, and 
+753  collected data. J.M., C.G., G.A., C.B., S.M, T.C.C, L.F., G.D.B, I.C., E.D. and N.A.D. 
+754  analyzed and interpreted the data. T.C.C, G.D.B, E.D., and N.A.D wrote the manuscript. 
+755  All authors carefully reviewed and provided critical insights to the manuscript. 
+756   
+757  COMPETING INTERESTS 
+758  The authors have declared that they have no conflict of interest   
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.06.22.497227; this version posted June 25, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+759  FIGURES 
+760   
+761   
+762  Figure 1: scRNA-seq analysis of myogenic cells from control and DM1 patients. A) 
+763  UMAP embeddings displaying the control (red dots) and DM1 patient cell populations 
+764  (blue  dots).  B)  Volcano  plot  depicting  differentially  expressed  genes  (DEGs) 
+765  downregulated or upregulated in DM1 patient cells vs controls. The x-axis represents the 
+766  log2 of the expression fold change and the y-axis represents the negative log10 of the 
+767  adjusted p -value of the Wilcoxon rank-sum test. Blue dots represent the transcripts that 
+768  were statistically significant (P < 10e-6; dotted horizontal line) while red dots represent the 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.06.22.497227; this version posted June 25, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+769  top DEGs (|log2FC| > 1.0; vertical dotted line). C) Feature and violin plots showing the 
+770  expression of selected DEGs in DM1 patient and control cells. D,E) Functional enrichment 
+771  analysis with GO Biological Processes analysis using DEGs downregulated (D) and 
+772  upregulated (E) in DM1 vs control (CTRL) cells. The X-axis represents the –log10(P-
+773  value).  F,G)  Bubble  diagram  showing  the  top  10  Reactome  pathways  for  DEGs 
+774  downregulated (F) and upregulated (G) in DM1 vs control cells. Vertical axes show 
+775  enriched terms, and horizontal axes represent the genes in each cluster. Larger node size 
+776  represents the larger ratio of enriched genes/total genes. H,I) Rank for regulons for 
+777  downregulated genes (H) or upregulated genes (I) in DM1 vs control cells based on regulon 
+778  specificity score (RSS). 
+779   
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.06.22.497227; this version posted June 25, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+780   
+781  Figure 2: Identification of senescent cell subpopulations in patients with DM1. A) 
+782  UMAP visualization showing unsupervised clustering revealing 7 distinct cell populations 
+783  in patient cells. B) Heatmap showing the top differentially expressed genes (DEGs) from 
+784  each cluster. C) Heatmap and ridge plots showing the fold change of GSVA score on gene 
+785  sets related to cellular senescence and cytokine secretion comparing DEGs transcripts from 
+786  each cluster. Clusters with positive GSVA values for all the gene sets were annotated as 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.06.22.497227; this version posted June 25, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+787  fully senescent while clusters with mixed and negative GSVA scores were annotated as 
+788  early-senescent and non-senescent respectively. D) UMAP embedding characterizing the 
+789  fully senescent, early-senescent, and non-senescent populations in patient cells. E) Radar 
+790  plot of DEGs of senescent (red) versus non-senescent (blue) cells. Expression of the DEGs 
+791  in the control cells are shown in green. Y-axis represents the log2 of the expression fold 
+792  change. Dotted line delineates the threshold of log2FC = 1.2.    
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.06.22.497227; this version posted June 25, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+793   
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.06.22.497227; this version posted June 25, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+794  Figure 3: MuSC senescence is a hallmark of DM1 in vitro and in situ. A) Representative 
+795  micrographs of primary myoblast culture of one control individual (right image) and one 
+796  DM1 patient (left image) enzymatically stained for AlexaFluor 488 SA-ß-Gal to identify 
+797  senescent cells (green). Scale bar: 300 μm. B) Quantification of the percentage of SA-ß-
+798  Gal+ cells (n = 4-6); **p = 0.0023. C) Quantitative real-time PCR for the senescence 
+799  markers P16 and P21 in primary myoblasts from controls and DM1 patients (n = 3-4); *p 
+800  = 0.046. D) Growth curve of control and DM1 myoblasts cultured in vitro for 7 days; *p 
+801  = 0.042. E) Representative micrograph of co-immunostaining for RNA FISH (CUG 
+802  repeats, red), SA-b-Gal (green), and DAPI (blue). Red dashed lines identify a senescent 
+803  cell and grey dashed lines a non-senescent cell. F) Quantification of the number of 
+804  intranuclear RNA foci per senescent or non-senescent cell in DM1 myoblasts. **p = 
+805  0.0017. G) Co-immunofluorescence labeling of PAX7 (green, MuSC marker) and P16 
+806  (magenta, senescence marker) on muscle sections of a control (upper images) and a DM1 
+807  patient (bottom images). White arrowheads indicate PAX7+P16- MuSC and white arrows 
+808  indicate PAX7+P16+ senescent MuSC. Scale bars: 50 μm. H) Quantification of senescent 
+809  MuSC expressing PAX7 and P16; *p = 0.0219. I) Quantitative real-time PCR for the 
+810  senescence markers P16 (**p = 0.0075), and P21 (**p = 0.004) on muscle biopsies from 
+811  controls and DM1 patients (n = 5-9). Data are expressed as means +/- SEM. 
+812     
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.06.22.497227; this version posted June 25, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+813   
+814   
+815   
+816  Figure  4.  SASP  expression  is  negatively  correlated  with  muscle  strength  and 
+817  functional outcomes in DM1. A-D) Correlation between serum IL-6 levels in DM1 
+818  patients and the expected strength (relative to normative values) of different muscle groups 
+819  of the lower limb (ankle dorsiflexors, hip flexors, knee extensors, knee flexors) and E-H) 
+820  upper limb (shoulder flexors, shoulder abductors, elbow flexors, elbow extensors). I) IL-6 
+821  expression levels in the blood serum of DM1 patients. Patients were classified in low- or 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.06.22.497227; this version posted June 25, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+822  high-expressing group based on the reference limit for healthy individuals (4.45 pg/ml, 
+823  indicated by the dashed line). J,K) Expected muscle strength of DM1 patients with low or 
+824  high levels of IL-6 for the lower limb (J) and upper limb (K) muscle groups. Dashed line 
+825  indicates the normative data for isometric muscle strength in healthy individuals of the 
+826  same age, sex, and weight. L,N,P,R) Correlation between serum IL-6 levels in DM1 
+827  patients and the results to different functional capacity tests: Timed-up and Go, 10-meter 
+828  walk test (10mWT), Berg Balance scale, pinch test. M,O,Q,S) Functional capacity test 
+829  results for DM1 patients with low or high levels of IL-6 levels. I-K,M,O,Q,S) Data are 
+830  expressed as means +/- SEM. N=103 patients (80 patients IL-6 low, 23 patients IL-6 high). 
+831  *p<0.05, **p<0.01, *** p<0.001. 
+832   
+833     
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.06.22.497227; this version posted June 25, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+834   
+835  Figure 5: A1155463 shows senolytic activity on DM1 primary myoblasts culture. A) 
+836  Cell viability assay of A1155463 at different concentrations using control (Ctrl) and DM1 
+837  patients' myoblasts. *p= 0.038 (100 nM), *p=0.023 (250 nM), *p=0.011 (750 nM), 
+838  **p=0.0016  (1500  nM).  B)  Representative  FACS  plot  of  Annexin-V  (FITC)  and 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.06.22.497227; this version posted June 25, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+839  propidium  iodide  (PE),  and  C)  quantification  of  the  percentage  of  positive 
+840  apoptotic/necrotic cells after 48 h treatment of myoblasts (DM1 and Ctrl) with 100 nM of 
+841  A1155463 or with vehicle; *p = 0.034. D) Representative micrographs of DM1 myoblasts 
+842  stained for the senescent marker SA-ß-Gal (green) after 72 h treatment with 100 nM of 
+843  A1155463 or with vehicle. Scale bar: 300 μm. E) Quantification of the number of SA-ß-
+844  Gal+ cells expressed as fold change ratio of A1155463-treated (Sen) versus non-treated 
+845  (Veh) cells (n = 4-7). *p = 0.015. F) Quantitative real-time PCR for the senescence markers 
+846  P16 and P21 on primary myoblasts after 72 h of treatment with vehicle or A1155463. *p 
+847  = 0.042. G) Multiplex luminex assay of SASP factors showing fold change ratio of 
+848  A1155463-treated (Sen) versus non-treated (Veh) DM1 myoblasts (n = 3-4). ***p= 0.0005 
+849  (CSF3), *p= 0.018 (CXCL1), ***p= 0.002 (CXCL8), *p= 0.041 (CCL2), **p= 0.009 
+850  (MMP-1), *p=0.027 (MMP-3). Data are expressed as means +/- SEM.  
+851   
+852     
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.06.22.497227; this version posted June 25, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+853   
+854   
+855  Figure 6: Clearance of senescent cells in DM1 improves myogenesis in vitro and in 
+856  vivo.  A)  Representative  micrographs  of  DM1  myoblasts  immunolabeled  with  KI67 
+857  (proliferation marker, red) after 72 h of treatment with vehicle (Veh) or A1155463 (Sen). 
+858  Scale bar: 300 μm. B) Quantification of the proportion of KI67+ cells expressed as fold 
+859  change ratio of A1155463-treated (Sen) versus non-treated (Veh) cells (n = 4-7). *p = 
+860  0.017. C) Representative micrographs of DM1 myoblasts differentiated for 5 days after 
+861  treatment  with  vehicle  (Veh)  or  A1155463  (Sen)  and  immunolabeled  with  MYOG 
+862  (differentiation marker, green). Scale bar: 300 μm. D) Quantification of the number of 
+863  MYOG+ cells expressed as fold change ratio of A1155463-treated (Sen) versus non-treated 
+864  (Veh) cells (n = 4-5). *p = 0.0134. E) Representative Western blot showing the expression 
+865  of MYOG in control and DM1 myoblasts differentiated for 5 days after treatment with 
+866  vehicle (Veh) or A1155463 (Sen). F) Quantification of MYOG expression by Western blot 
+867  (relative  to  β-actin  as  loading  control).  Data  are  expressed  as  fold  change  ratio  of 
+868  A1155463-treated (Sen) versus non-treated (Veh) cells (n = 3-7). *p= 0.039. G) Schematic 
+869  representation  of  DM1  myoblast  transplantation  experiment.  H)  Representative 
+870  micrographs of muscle sections of TA muscles (21 days post-cardiotoxin injection) of NSG 
+871  mice transplanted with DM1 myoblasts treated with vehicle (Veh, upper images) or 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.06.22.497227; this version posted June 25, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+872  A1155463 (Sen, bottom images). Sections were immunostained with human dystrophin 
+873  (green), total dystrophin (red), and DAPI (nuclei, blue). White arrows indicate myofibers 
+874  expressing human and total dystrophin. Scale bar: 50 μm. I) Quantification of the number 
+875  of myofibers expressing human dystrophin expressed as fold change ratio of A1155463-
+876  treated (Sen) versus non-treated (Veh) cells (n = 3). *p = 0.014. Data are expressed as 
+877  means +/- SEM   
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.06.22.497227; this version posted June 25, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+878  REFERENCES 
+879  1  Bouchard, G., Roy, R., Declos, M., Mathieu, J. & Kouladjian, K. Origin and 
+880  diffusion of the myotonic dystrophy gene in the Saguenay region (Quebec). Can J 
+881  Neurol Sci 16, 119-122, doi:10.1017/s0317167100028651 (1989). 
+882  2  Liao, Q., Zhang, Y., He, J. & Huang, K. Global prevalence of myotonic dystrophy: 
+883  an updated systematic review and meta-analysis. Neuroepidemiology (2022). 
+884  3  Fu, Y. H. et al. An unstable triplet repeat in a gene related to myotonic muscular 
+885  dystrophy. Science 255, 1256-1258, doi:10.1126/science.1546326 (1992). 
+886  4  Savic, D. et al. 250 CTG repeats in DMPK is a threshold for correlation of 
+887  expansion size and age at onset of juvenile-adult DM1. Hum Mutat 19, 131-139, 
+888  doi:10.1002/humu.10027 (2002). 
+889  5  Thornell, L. E. et al. Satellite cell dysfunction contributes to the progressive muscle 
+890  atrophy in myotonic dystrophy type 1. Neuropathol Appl Neurobiol 35, 603-613, 
+891  doi:10.1111/j.1365-2990.2009.01014.x (2009). 
+892  6  Hunter, A. et al. The correlation of age of onset with CTG trinucleotide repeat 
+893  amplification  in  myotonic  dystrophy.  J  Med  Genet  29,  774-779, 
+894  doi:10.1136/jmg.29.11.774 (1992). 
+895  7  Tsilfidis,  C.,  MacKenzie,  A.  E.,  Mettler,  G.,  Barcelo,  J.  &  Korneluk,  R.  G. 
+896  Correlation between CTG trinucleotide repeat length and frequency of severe 
+897  congenital myotonic dystrophy. Nat Genet 1, 192-195, doi:10.1038/ng0692-192 
+898  (1992). 
+899  8  De Antonio, M. et al. Unravelling the myotonic dystrophy type 1 clinical spectrum: 
+900  a systematic registry-based study with implications for disease classification. Revue 
+901  neurologique 172, 572-580 (2016). 
+902  9  Gagnon, C. et al. A 9-year follow-up study of quantitative muscle strength changes 
+903  in myotonic dystrophy type 1. J Neurol 265, 1698-1705, doi:10.1007/s00415-018-
+904  8898-4 (2018). 
+905  10  Dumont, N. A., Bentzinger, C. F., Sincennes, M. C. & Rudnicki, M. A. Satellite 
+906  Cells  and  Skeletal  Muscle  Regeneration.  Compr  Physiol  5,  1027-1059, 
+907  doi:10.1002/cphy.c140068 (2015). 
+908  11  Meinke, P., Hintze, S., Limmer, S. & Schoser, B. Myotonic Dystrophy-A Progeroid 
+909  Disease? Front Neurol 9, 601, doi:10.3389/fneur.2018.00601 (2018). 
+910  12  Bigot, A. et al. Large CTG repeats trigger p16-dependent premature senescence in 
+911  myotonic dystrophy type 1 muscle precursor cells. Am J Pathol 174, 1435-1442, 
+912  doi:10.2353/ajpath.2009.080560 (2009). 
+913  13  Renna, L. V. et al. Premature senescence in primary muscle cultures of myotonic 
+914  dystrophy type 2 is not associated with p16 induction. Eur J Histochem 58, 2444, 
+915  doi:10.4081/ejh.2014.2444 (2014). 
+916  14  Hasuike, Y., Mochizuki, H. & Nakamori, M. Expanded CUG Repeat RNA Induces 
+917  Premature  Senescence  in  Myotonic  Dystrophy  Model  Cells.  Front  Genet  13, 
+918  865811, doi:10.3389/fgene.2022.865811 (2022). 
+919  15  Munoz-Espin,  D.  &  Serrano,  M.  Cellular  senescence:  from  physiology  to 
+920  pathology. Nat Rev Mol Cell Biol 15, 482-496, doi:10.1038/nrm3823 (2014). 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.06.22.497227; this version posted June 25, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+921  16  Coppé,  J.-P.  et  al.  Senescence-associated  secretory  phenotypes  reveal  cell-
+922  nonautonomous functions of oncogenic RAS and the p53 tumor suppressor. PLoS 
+923  biology 6, e301 (2008). 
+924  17  Haddad, F., Zaldivar, F., Cooper, D. M. & Adams, G. R. IL-6-induced skeletal 
+925  muscle  atrophy.  J  Appl  Physiol  (1985)  98,  911-917, 
+926  doi:10.1152/japplphysiol.01026.2004 (2005). 
+927  18  Bian,  A.  L.  et  al.  A  study  on  relationship  between  elderly  sarcopenia  and 
+928  inflammatory  factors  IL-6  and  TNF-alpha.  Eur  J  Med  Res  22,  25, 
+929  doi:10.1186/s40001-017-0266-9 (2017). 
+930  19  Tierney, M. T. et al. STAT3 signaling controls satellite cell expansion and skeletal 
+931  muscle repair. Nat Med 20, 1182-1186, doi:10.1038/nm.3656 (2014). 
+932  20  Baker, D. J. et al. Naturally occurring p16(Ink4a)-positive cells shorten healthy 
+933  lifespan. Nature 530, 184-189, doi:10.1038/nature16932 (2016). 
+934  21  de Keizer, P. L. The Fountain of Youth by Targeting Senescent Cells? Trends Mol 
+935  Med 23, 6-17, doi:10.1016/j.molmed.2016.11.006 (2017). 
+936  22  Baker, D. J. et al. Clearance of p16Ink4a-positive senescent cells delays ageing-
+937  associated disorders. Nature 479, 232-236, doi:10.1038/nature10600 (2011). 
+938  23  van Deursen, J. M. Senolytic therapies for healthy longevity. Science 364, 636-637, 
+939  doi:10.1126/science.aaw1299 (2019). 
+940  24  Xu, M. et al. Senolytics improve physical function and increase lifespan in old age. 
+941  Nat Med 24, 1246-1256, doi:10.1038/s41591-018-0092-9 (2018). 
+942  25  Gallais, B., Gagnon, C., Mathieu, J. & Richer, L. Cognitive decline over time in 
+943  adults with myotonic dystrophy type 1: a 9-year longitudinal study. Neuromuscular 
+944  Disorders 27, 61-72 (2017). 
+945  26  Mateos-Aierdi, A. J. et al. Muscle wasting in myotonic dystrophies: a model of 
+946  premature  aging.  Front  Aging  Neurosci  7,  125,  doi:10.3389/fnagi.2015.00125 
+947  (2015). 
+948  27  De Buck, M. et al. The cytokine-serum amyloid A-chemokine network. Cytokine 
+949  Growth Factor Rev 30, 55-69, doi:10.1016/j.cytogfr.2015.12.010 (2016). 
+950  28  Binet, F. et al. Neutrophil extracellular traps target senescent vasculature for tissue 
+951  remodeling in retinopathy. Science 369, doi:10.1126/science.aay5356 (2020). 
+952  29  Freund, A., Orjalo, A. V., Desprez, P. Y. & Campisi, J. Inflammatory networks 
+953  during cellular senescence: causes and consequences. Trends Mol Med 16, 238-
+954  246, doi:10.1016/j.molmed.2010.03.003 (2010). 
+955  30  Basisty, N. et al. A proteomic atlas of senescence-associated secretomes for aging 
+956  biomarker  development.  PLoS  Biol  18,  e3000599, 
+957  doi:10.1371/journal.pbio.3000599 (2020). 
+958  31  Hogrel, J. Y. et al. Development of a French isometric strength normative database 
+959  for adults using quantitative muscle testing. Arch Phys Med Rehabil 88, 1289-1297, 
+960  doi:10.1016/j.apmr.2007.07.011 (2007). 
+961  32  Todd, J., Simpson, P., Estis, J., Torres, V. & Wub, A. H. Reference range and short- 
+962  and long-term biological variation of interleukin (IL)-6, IL-17A and tissue necrosis 
+963  factor-alpha  using  high  sensitivity  assays.  Cytokine  64,  660-665, 
+964  doi:10.1016/j.cyto.2013.09.018 (2013). 
+965  33  Roussel, M. P., Hebert, L. J. & Duchesne, E. Intra-Rater Reliability and Concurrent 
+966  Validity of Quantified Muscle Testing for Maximal Knee Extensors Strength in 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.06.22.497227; this version posted June 25, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+967  Men  with  Myotonic  Dystrophy  Type  1.  J  Neuromuscul  Dis  6,  233-240, 
+968  doi:10.3233/JND-190388 (2019). 
+969  34  Knak, K. L., Sheikh, A. M., Andersen, H., Witting, N. & Vissing, J. Intrarater 
+970  reliability  and  validity  of  outcome  measures  in  myotonic  dystrophy  type  1. 
+971  Neurology 94, e2508-e2520, doi:10.1212/WNL.0000000000009625 (2020). 
+972  35  Zhu, M., Meng, P., Ling, X. & Zhou, L. Advancements in therapeutic drugs 
+973  targeting  of  senescence.  Ther  Adv  Chronic  Dis  11,  2040622320964125, 
+974  doi:10.1177/2040622320964125 (2020). 
+975  36  Baar,  M.  P.  et  al.  Targeted  Apoptosis  of  Senescent  Cells  Restores  Tissue 
+976  Homeostasis in Response to Chemotoxicity and Aging. Cell 169, 132-147 e116, 
+977  doi:10.1016/j.cell.2017.02.031 (2017). 
+978  37  Zhu, Y. et al. New agents that target senescent cells: the flavone, fisetin, and the 
+979  BCL-XL inhibitors, A1331852 and A1155463. Aging (Albany NY) 9, 955-963, 
+980  doi:10.18632/aging.101202 (2017). 
+981  38  Chang,  J.  et  al.  Clearance  of  senescent  cells  by  ABT263  rejuvenates  aged 
+982  hematopoietic stem cells in mice. Nat Med 22, 78-83, doi:10.1038/nm.4010 (2016). 
+983  39  Saito, Y. & Chikenji, T. S. Diverse Roles of Cellular Senescence in Skeletal Muscle 
+984  Inflammation,  Regeneration,  and  Therapeutics.  Front  Pharmacol  12,  739510, 
+985  doi:10.3389/fphar.2021.739510 (2021). 
+986  40  Nakamori,  M.  et  al.  Aberrant  Myokine  Signaling  in  Congenital  Myotonic 
+987  Dystrophy. Cell Rep 21, 1240-1252, doi:10.1016/j.celrep.2017.10.018 (2017). 
+988  41  Usuki, F. & Ishiura, S. Expanded CTG repeats in myotonin protein kinase increase 
+989  susceptibility  to  oxidative  stress.  Neuroreport  9,  2291-2296, 
+990  doi:10.1097/00001756-199807130-00027 (1998). 
+991  42  Toscano, A. et al. Oxidative stress in myotonic dystrophy type 1. Free Radic Res 
+992  39, 771-776, doi:10.1080/10715760500138932 (2005). 
+993  43  Ihara, Y. et al. Free radicals, lipid peroxides and antioxidants in blood of patients 
+994  with  myotonic  dystrophy.  J  Neurol  242,  119-122,  doi:10.1007/BF00936882 
+995  (1995). 
+996  44  La Rosa, P., Petrillo, S., Bertini, E. S. & Piemonte, F. Oxidative Stress in DNA 
+997  Repeat  Expansion  Disorders:  A  Focus  on  NRF2  Signaling  Involvement. 
+998  Biomolecules 10, doi:10.3390/biom10050702 (2020). 
+999  45  Roma-Mateo, C. et al. Oxidative Stress and the Epigenetics of Cell Senescence: 
+1000  Insights  from  Progeroid  Syndromes.  Curr  Pharm  Des  24,  4755-4770, 
+1001  doi:10.2174/1381612824666190114164117 (2018). 
+1002  46  Yang, S. R., Park, J. R. & Kang, K. S. Reactive Oxygen Species in Mesenchymal 
+1003  Stem Cell Aging: Implication to Lung Diseases. Oxid Med Cell Longev 2015, 
+1004  486263, doi:10.1155/2015/486263 (2015). 
+1005  47  Todorow, V. et al. Transcriptome Analysis in a Primary Human Muscle Cell 
+1006  Differentiation  Model  for  Myotonic  Dystrophy  Type  1.  Int  J  Mol  Sci  22, 
+1007  doi:10.3390/ijms22168607 (2021). 
+1008  48  Wang, E. T. et al. Transcriptome alterations in myotonic dystrophy skeletal muscle 
+1009  and heart. Hum Mol Genet 28, 1312-1321, doi:10.1093/hmg/ddy432 (2019). 
+1010  49  Espinosa-Espinosa,  J.,  Gonzalez-Barriga,  A.,  Lopez-Castel,  A.  &  Artero,  R. 
+1011  Deciphering the Complex Molecular Pathogenesis of Myotonic Dystrophy Type 1 
+1012  through Omics Studies. Int J Mol Sci 23, doi:10.3390/ijms23031441 (2022). 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.06.22.497227; this version posted June 25, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+1013  50  Franck, S. et al. Myotonic dystrophy type 1 embryonic stem cells show decreased 
+1014  myogenic potential, increased CpG methylation at the DMPK locus and RNA mis-
+1015  splicing. Biol Open 11, doi:10.1242/bio.058978 (2022). 
+1016  51  Andre, L. M. et al. Recovery in the Myogenic Program of Congenital Myotonic 
+1017  Dystrophy Myoblasts after Excision of the Expanded (CTG)n Repeat. Int J Mol Sci 
+1018  20, doi:10.3390/ijms20225685 (2019). 
+1019  52  Rivera-Mulia, J. C. et al. DNA replication timing alterations identify common 
+1020  markers between distinct progeroid diseases. Proc Natl Acad Sci U S A 114, 
+1021  E10972-E10980, doi:10.1073/pnas.1711613114 (2017). 
+1022  53  Otero, B. A. et al. Transcriptome alterations in myotonic dystrophy frontal cortex. 
+1023  Cell Rep 34, 108634, doi:10.1016/j.celrep.2020.108634 (2021). 
+1024  54  Hari,  P.  et  al.  The  innate  immune  sensor  Toll-like  receptor  2  controls  the 
+1025  senescence-associated secretory phenotype. Science advances 5, eaaw0254 (2019). 
+1026  55  Kirkland, J. L. & Tchkonia, T. Senolytic drugs: from discovery to translation. J 
+1027  Intern Med 288, 518-536, doi:10.1111/joim.13141 (2020). 
+1028  56  Ge, M. et al. Senolytic targets and new strategies for clearing senescent cells. Mech 
+1029  Ageing Dev 195, 111468, doi:10.1016/j.mad.2021.111468 (2021). 
+1030  57  Sevilla,  L.,  Zaldumbide,  A.,  Pognonec,  P.  &  Boulukos,  K.  Transcriptional 
+1031  regulation of the bcl-x gene encoding the anti-apoptotic Bcl-xL protein by Ets, 
+1032  Rel/NFKB  STAT  and  AP1  transcription  factor  families.  Histology  and 
+1033  histopathology (2001). 
+1034  58  Gros, M. et al. Identification of Serum Interleukin 6 Levels as a Disease Severity 
+1035  Biomarker in Facioscapulohumeral Muscular Dystrophy. J Neuromuscul Dis 9, 83-
+1036  93, doi:10.3233/JND-210711 (2022). 
+1037  59  Overend, G. et al. Allele length of the DMPK CTG repeat is a predictor of 
+1038  progressive myotonic dystrophy type 1 phenotypes. Hum Mol Genet 28, 2245-
+1039  2254, doi:10.1093/hmg/ddz055 (2019). 
+1040  60  Sugihara, H., Teramoto, N., Yamanouchi, K., Matsuwaki, T. & Nishihara, M. 
+1041  Oxidative stress-mediated senescence in mesenchymal progenitor cells causes the 
+1042  loss  of  their  fibro/adipogenic  potential  and  abrogates  myoblast  fusion.  Aging 
+1043  (Albany NY) 10, 747-763, doi:10.18632/aging.101425 (2018). 
+1044  61  Pascual-Gilabert, M., López-Castel, A. & Artero, R. Myotonic dystrophy type 1 
+1045  drug development: A pipeline toward the market. Drug Discovery Today 26, 1765-
+1046  1772 (2021). 
+1047  62  Petitclerc, E., Hebert, L. J., Mathieu, J., Desrosiers, J. & Gagnon, C. Lower limb 
+1048  muscle strength impairment in late-onset and adult myotonic dystrophy type 1 
+1049  phenotypes. Muscle Nerve 56, 57-63, doi:10.1002/mus.25451 (2017). 
+1050  63  Jimenez-Moreno, A. C. et al. Analysis of the functional capacity outcome measures 
+1051  for  myotonic  dystrophy.  Ann  Clin  Transl  Neurol  6,  1487-1497, 
+1052  doi:10.1002/acn3.50845 (2019). 
+1053  64  Raymond, K. et al. Predictors of participation restriction over a 9-year period in 
+1054  adults  with  myotonic  dystrophy  type  1.  Disabil  Rehabil,  1-17, 
+1055  doi:10.1080/09638288.2020.1837264 (2020). 
+1056  65  Shanely, R. A. et al. Human skeletal muscle biopsy procedures using the modified 
+1057  Bergstrom technique. J Vis Exp, 51812, doi:10.3791/51812 (2014). 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.06.22.497227; this version posted June 25, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+1058  66  Sasarman,  F.,  Karpati,  G.  &  Shoubridge,  E.  A.  Nuclear  genetic  control  of 
+1059  mitochondrial translation in skeletal muscle revealed in patients with mitochondrial 
+1060  myopathy. Hum Mol Genet 11, 1669-1681, doi:10.1093/hmg/11.14.1669 (2002). 
+1061  67  Alexander, M. S. et al. CD82 Is a Marker for Prospective Isolation of Human 
+1062  Muscle Satellite Cells and Is Linked to Muscular Dystrophies. Cell Stem Cell 19, 
+1063  800-807, doi:10.1016/j.stem.2016.08.006 (2016). 
+1064  68  Zarkada, G. et al. Specialized endothelial tip cells guide neuroretina vascularization 
+1065  and  blood-retina-barrier  formation.  Dev  Cell  56,  2237-2251  e2236, 
+1066  doi:10.1016/j.devcel.2021.06.021 (2021). 
+1067  69  Zheng, G. X. et al. Massively parallel digital transcriptional profiling of single cells. 
+1068  Nat Commun 8, 14049, doi:10.1038/ncomms14049 (2017). 
+1069  70  Hao, Y. et al. Integrated analysis of multimodal single-cell data. Cell 184, 3573-
+1070  3587 e3529, doi:10.1016/j.cell.2021.04.048 (2021). 
+1071  71  Brennecke,  P.  et  al.  Accounting  for  technical  noise  in  single-cell  RNA-seq 
+1072  experiments. Nat Methods 10, 1093-1095, doi:10.1038/nmeth.2645 (2013). 
+1073  72  McGinnis, C. S., Murrow, L. M. & Gartner, Z. J. DoubletFinder: Doublet Detection 
+1074  in Single-Cell RNA Sequencing Data Using Artificial Nearest Neighbors. Cell Syst 
+1075  8, 329-337 e324, doi:10.1016/j.cels.2019.03.003 (2019). 
+1076  73  Blondel, V. D., Guillaume, J.-L., Lambiotte, R. & Lefebvre, E. Fast unfolding of 
+1077  communities in large networks. Journal of Statistical Mechanics: Theory and 
+1078  Experiment 2008, P10008, doi:10.1088/1742-5468/2008/10/p10008 (2008). 
+1079  74  van der Maaten, L. & Hinton, G. Viualizing data using t-SNE. Journal of Machine 
+1080  Learning Research 9, 2579-2605 (2008). 
+1081  75  Benjamini, Y. & Hochberg, Y. Controlling the False Discovery Rate: A Practical 
+1082  and  Powerful  Approach  to  Multiple  Testing.  Journal  of  the  Royal  Statistical 
+1083  Society:  Series  B  (Methodological)  57,  289-300, 
+1084  doi:https://doi.org/10.1111/j.2517-6161.1995.tb02031.x (1995). 
+1085  76  Finak, G. et al. MAST: a flexible statistical framework for assessing transcriptional 
+1086  changes and characterizing heterogeneity in single-cell RNA sequencing data. 
+1087  Genome Biol 16, 278, doi:10.1186/s13059-015-0844-5 (2015). 
+1088  77  Zhou, Y. et al. Metascape provides a biologist-oriented resource for the analysis of 
+1089  systems-level datasets. Nat Commun 10, 1523, doi:10.1038/s41467-019-09234-6 
+1090  (2019). 
+1091  78  Yu, G. & He, Q. Y. ReactomePA: an R/Bioconductor package for reactome 
+1092  pathway  analysis  and  visualization.  Mol  Biosyst  12,  477-479, 
+1093  doi:10.1039/c5mb00663e (2016). 
+1094  79  Hanzelmann, S., Castelo, R. & Guinney, J. GSVA: gene set variation analysis for 
+1095  microarray and RNA-seq data. BMC Bioinformatics 14, 7, doi:10.1186/1471-2105-
+1096  14-7 (2013). 
+1097  80  Ashburner, M. et al. Gene ontology: tool for the unification of biology. The Gene 
+1098  Ontology Consortium. Nat Genet 25, 25-29, doi:10.1038/75556 (2000). 
+1099  81  Gene Ontology, C. The Gene Ontology resource: enriching a GOld mine. Nucleic 
+1100  Acids Res 49, D325-D334, doi:10.1093/nar/gkaa1113 (2021). 
+1101  82  Fridman, A. L. & Tainsky, M. A. Critical pathways in cellular senescence and 
+1102  immortalization revealed by gene expression profiling. Oncogene 27, 5975-5987, 
+1103  doi:10.1038/onc.2008.213 (2008). 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.06.22.497227; this version posted June 25, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+available under aCC-BY-NC-ND 4.0 International license.
+1104  83  Xia, G. et al. Generation of neural cells from DM1 induced pluripotent stem cells 
+1105  as cellular model for the study of central nervous system neuropathogenesis. 
+1106  Cellular reprogramming 15, 166-177 (2013). 
+1107  84  Bhatnagar, S., Panguluri, S. K. & Kumar, A. Gene profiling studies in skeletal 
+1108  muscle by quantitative real-time polymerase chain reaction assay. Methods Mol 
+1109  Biol 798, 311-324, doi:10.1007/978-1-61779-343-1_18 (2012). 
+1110  85  Stern-Straeter, J., Bonaterra, G. A., Hörmann, K., Kinscherf, R. & Goessler, U. R. 
+1111  Identification  of  valid  reference  genes  during  the  differentiation  of  human 
+1112  myoblasts. BMC molecular biology 10, 1-9 (2009). 
+1113   
+
+NEW PAGE

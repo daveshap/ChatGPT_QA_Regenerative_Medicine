@@ -1,0 +1,522 @@
+Original Research
+Outcomes After Combined Remnant
+Preservation and Bone Marrow Stimulation
+for Acute Rotator Cuff Tears
+Yi Zhou,* MD, Hongjiang She,† MD, Xiaoyan Liu,† MD, Rui Wang,† MD, and Fan Bai,†‡ MD
+Investigation performed at the Third Affiliated Hospital of Zunyi Medical University (The First
+People’s Hospital of Zunyi City), Zunyi, China
+Background:Bothremnantpreservation(RP)andbonemarrowstimulation(BMS)enhancethehealingpotentialoftherepaired
+rotatorcuffbyimprovingthebiologicalmilieuofthetendon-boneinterface.
+Purpose:ToevaluatetheclinicalandimagingoutcomesofarthroscopicrotatorcuffrepairusingacombinedRP-BMStechniquein
+patientswithacuterotatorcufftears.
+StudyDesign:Cohortstudy;Levelofevidence,3.
+Methods:BetweenJanuary2016andJune2019,atotalof56patientswerediagnosedwithacuterotatorcufftears;29patients
+underwentconventionalrepair(group1),and27patientsunderwentRP-BMS(group2).Ataminimumfollow-upperiodof2years,
+theauthorscomparedclinicaloutcomeswiththeUniversityofCalifornia–LosAngeles;Constant;AmericanShoulderandElbow
+Surgeons;andpainvisualanalogscalescoresaswellasshoulderrangeofmotion.Tendonintegrityandretearwereassessedon
+magnetic resonance imaging according to the Sugaya classification (intact, grades 1-3; retear, grades 4-5). Between-group
+comparisonswereconductedusingtheStudentttestorMann-WhitneyUtestforcontinuousvariablesandthePearsonchi-square
+testorFisherexacttestforcategoricalvariables.
+Results:Inbothgroups,patientshadsignificantpreoperativetopostoperativeimprovementonallclinicaloutcomemeasures(P¼
+.001forall).Shoulderabductioningroup2wassignificantlygreatercomparedwithgroup1atthepostoperative3-month(107.37(cid:2)
+±8.32(cid:2)vs95.44(cid:2)±8.78(cid:2);P¼.001),6-month(155.25(cid:2)±10.02(cid:2)vs144.72(cid:2)±9.28(cid:2);P¼.001),andfinal(165.15(cid:2)±9.17(cid:2)vs158.31(cid:2)±
+8.01(cid:2);P¼.021)follow-ups.Atthefinalfollow-up,significantlymorepatientsingroup2hadintacttendons(Sugayagrades1-3)
+comparedwithgroup1(P¼.015),andthetendonretearratewasloweringroup2(1/27;3.70%)thaningroup1(7/29;24.14%)(P
+¼.033).
+Conclusion:Bothsurgicaltechniquesledtosatisfactoryclinicaloutcomes,butshoulderabductionwasgreateraftertheRP-BMS
+techniquecomparedwithconventionalrepair.RP-BMSmaybeanalternativesurgicaltechniquetoimprovetendonintegrityand
+retearratesaftertherepairofacuterotatorcufftears.
+Keywords:remnantpreservation;nativeenthesis;bonemarrowstimulation;acuterotatorcufftears;tendon-bonehealing;retear
+Rotator cuff tears are one of the most common causes of the risk of normal rotator cuff tissue tearing.28,38 How-
+shoulder pain and dysfunction, and arthroscopic repair is ever, in many traditional rotator cuff repair techniques,
+an effective treatment for rotator cuff tears.9,19 There are most clinicians choose to remove the remnant tissue and
+many surgical methods for rotator cuff repair, including cortical bone of the torn rotator cuff footprint to achieve
+single-row or double-row anchor repair technology, layer- a fresh bone bed in the footprint and ensure that the
+by-layer suture bridge technology, transosseous tunnel torn tendon is accurately reattached to its footprint
+technology,andpatchaugmentationtechnology.Theobjec- under direct visualization.7,14 This type of surgical pro-
+tive of these methods is to reattach the torn tendon to its cedure completely eliminates the native enthesis, which
+footprintandfixittocreatefavorableconditionsfortendon- provides stress relief to the rotator cuff tendon. A study
+bonehealingatthenativeenthesisoftherotatorcuff. foundthatdisordered scartissueeventuallyforms atthe
+The normal native enthesis structure contributes to tendon-bone interface after adult rotator cuff repair.11
+maintaining the balance of stress and greatly reducing Disordered scar tissue does not have a highly migrating
+layered gradient structure, and its mechanical conduc-
+tivity is significantly weakened. In complex shoulder
+TheOrthopaedicJournalofSportsMedicine,11(2),23259671231152233
+joint movements, stress will be too concentrated at the
+DOI:10.1177/23259671231152233
+ªTheAuthor(s)2023 tear,resultinginrotatorcuffretear.30Somestudieshave
+Thisopen-accessarticleispublishedanddistributedundertheCreativeCommonsAttribution-NonCommercial-NoDerivativesLicense(https://creativecommons.org/
+licenses/by-nc-nd/4.0/),whichpermitsthenoncommercialuse,distribution,andreproductionofthearticleinanymedium,providedtheoriginalauthorandsourceare
+credited.Youmaynotalter,transform,orbuilduponthisarticlewithoutthepermissionoftheAuthor(s).Forarticlereuseguidelines,pleasevisitSAGE’swebsiteat
+http://www.sagepub.com/journals-permissions.
+1
+
+NEW PAGE
+
+2 Zhouetal TheOrthopaedicJournalofSportsMedicine
+reported that the retear rate after rotator cuff repair is METHODS
+as high as 21% to 94%.9,37
+After acute rotator cuff tears, there is often a large Patient Enrollment
+amount of rotator cuff remnant tissue attached to the
+The protocol for this study was approved by our institu-
+footprint area of the humeral tubercle, and native
+enthesisisusuallypreservedwell.3,33Astudyfoundthat tion, and all patients provided written informed consent.
+We retrospectively reviewed the medical records of 420
+these remnant tissues were rich in tendon-derived stem
+consecutivepatientswithrotatorcufftearsbetweenJan-
+cells and new blood vessels, which may facilitate healing
+uary2016andJune2019;theacuterotatorcufftearwas
+after rotator cuff repair.16 Furthermore, several studies
+repaired in 70 of these patients. Notably, the duration of
+have demonstrated that there are a large number of
+the acute rotator cuff tear was within 8 weeks of injury,
+mechanoreceptors at the rotator cuff tendon-bone junc-
+andtherewasnoobviousfatinfiltrationandmuscleatro-
+tion, and retaining the remnant tissue of the rotator cuff
+phyonpreoperativemagneticresonanceimaging(MRI)in
+may promote the recovery of proprioception after sur-
+the acute rotator cuff tear.26 In addition, patients were
+gery.5,8,31 Therefore, we have reason to believe that a
+also confirmed to have acute rotator cuff tears by intrao-
+modified surgical technique that utilizes the native
+perativearthroscopicinspection.
+enthesis of the rotator cuff by preserving the rotator cuff
+Thestudyinclusioncriteriawere(1)acuteandisolated
+remnant tissue may stimulate the inherent healing supraspinatustears(within8weeksofinjury26);(2)<5cm
+potential of the rotator cuff tendon-bone interface.3,28 rotator cuff tear (accordingto the Cofield classification4);
+Biological techniques to promote rotator cuff healing
+(3)useofRP-BMSortheconventionalrepairtechniquefor
+have also attracted extensive attention in recent years.
+acute rotator cuff tear repair; (4) complete preoperative
+Mesenchymal stem cells (MSCs), slow-release growth and final follow-up MRI scans and shoulder functional
+factors, and biological patches are increasingly used to assessment; and (5) a minimum follow-up period of 24
+improve the biological healing process of rotator cuff months. The study exclusion criteria were (1) a history
+repair.21,24,38 The bone marrow stimulation (BMS) of surgery on the affected shoulder; (2) massive rotator
+technique is a safe, economic, and simple biological cufftearsaccordingtotheCofieldclassification4);(3)Gou-
+technique. It drills down on the surface of the footprint tallierfattyinfiltrationgrade13>2;(4)chronicrotatorcuff
+area to form multiple vents that can release endoge- tear (injured for >8 weeks26); (5) patients older than 70
+nous MSCs, various growth factors, and platelets to years; and (6) patients with glenohumeral dislocation.
+enhance the biological milieu at the tendon-bone inter- After application of the inclusion and exclusion criteria,
+face.23 Some studies have demonstrated that BMS theremainingpatientswereclassifiedaccordingtorotator
+technology improves the healing effect and reduces the cuff repair technique: conventional repair (group 1) and
+retear rate after rotator cuff repair.1,2,18,32,37 Theoreti- RP-BMS(group2).
+cally, both the preservation of the remnant tissue and
+the BMS technique can increase the healing potential
+Surgical Techniques
+of the repaired rotator cuff by improving the biological
+milieu of the tendon-bone interface. However, to our
+Allsurgerieswereperformedbyaseniorarthroscopicsur-
+knowledge, there are currently no clinical studies com-
+geon (F.B.) with 10 years of surgical experience. Through
+bining these 2 techniques for the repair of acute rotator inspection under arthroscopy, all 56 patients were con-
+cuff tears. firmed to have acute rotator cuff tears. All patients were
+Inthepresentstudy,weintroduceasurgicaltechnique treated with general anesthesia combined with brachial
+that combines BMS with rotator cuff remnant preserva- plexusanesthesiaandwereplacedinthebeach-chairposi-
+tion (RP) for the repair of acute rotator cuff tears. The tion. Schematic diagrams of the surgical techniques are
+technique is named the RP-BMS technique. The purpose showninFigure1,anddetailsofbothproceduresareshown
+ofthisstudywastocompareclinicaloutcomesandrepair intheVideoSupplementtothisarticle.
+integritybetweentheRP-BMStechniqueandtheconven- RP-BMS Technique. A standard posterior portal was
+tional repair technique for acute rotator cuff tears. We used to explore the glenohumeral joint, long head of the
+hypothesized that the RP-BMS technique would improve bicepstendon,humeralheadcartilage,androtatorcufftear
+the clinical outcomes and tendon integrity of repair in on the joint side; then planer and radiofrequency electro-
+acute rotator cuff tears compared with conventional cautery were performed to properly release adhesions
+repair. superficialanddeeptotherotatorcuff.Thesynovialtissue
+‡AddresscorrespondencetoFanBai,MD,DepartmentofOrthopaedics,ThirdAffiliatedHospitalofZunyiMedicalUniversity(TheFirstPeople’sHospital
+ofZunyiCity),FenghuangRoadNo.98,HuichuanDistrict,Zunyi563000,China(email:zmcbf@126.com).
+*DepartmentofOrthopaedics,JianYangHospitalofTraditionalChineseMedicine,JianYang,China.
+†DepartmentofOrthopaedics,ThirdAffiliatedHospitalofZunyiMedicalUniversity(TheFirstPeople’sHospitalofZunyiCity),Zunyi,China.
+FinalrevisionsubmittedNovember30,2022;acceptedDecember8,2022.
+Theauthorsdeclaredthattheyhavenoconflictsofinterestintheauthorshipandpublicationofthiscontribution.AOSSMchecksauthordisclosures
+againsttheOpenPaymentsDatabase(OPD).AOSSMhasnotconductedanindependentinvestigationontheOPDanddisclaimsanyliabilityorresponsibility
+relatingthereto.
+EthicalapprovalforthisstudywasobtainedfromtheThirdAffiliatedHospitalofZunyiMedicalUniversity(referenceNo.2016-1-057).
+
+NEW PAGE
+
+TheOrthopaedicJournalofSportsMedicine CombinedRemnantPreservationandBoneMarrowStimulation 3
+Figure1.Schematicdiagramsofthesurgicaltechniques.(AandB)Conventionalrepairtechnique.Therotatorcuffremnantwas
+removed and the footprint area was freshened (black arrow). (C and D) Remnant preservation combined with bone marrow
+stimulation(RP-BMS)technique.Therotatorcuffremnantwaspreserved(blackarrow),andBMSwasperformedinthefootprint
+(blackarrow).
+oftheacromionwascleanedinthesubacromialspace,and knotlessanchors(ChinaRuijianMedical)accordingtotear
+acromioplasty was performed in patients with acromion size(Figure2H).Therotatorcuffwasreattached,andthe
+impingement.Tenodesisofthelongheadofthebicepsand tensionwasappropriate(Figure2I).
+labrum repair were performed if necessary. The tendon Conventional Repair Technique. Systematic glenohum-
+tear was then exposed (Figure 2A), the torn rotator cuff eral joint and subacromial exploration was performed.
+tendonwasgraspedwithagraspertopullthetendontoits Adhesions superficial and deep to the rotator cuff were
+footprint, and the tension of the torn tendon and the tear released.Atenodesisofthelongheadofthebiceps,labrum
+size were assessed (Figure 2B). The frayed torn end was repair,andacromioplastywereperformedifnecessary.The
+appropriately freshened. Unlike conventional bone bed tendontearwasthenexposed(Figure3A),andanattempt
+freshening in the footprint area, this technique was was then made to pull the tendon to its footprint with a
+selected to preserve the native enthesisof the rotator cuff grasper(Figure3B).Afterward,anyremnanttissueofthe
+remnantinthefootprintarea(Figure2C). torntendonwascarefullydebridedfromitsnativeenthesis,
+Next,weperformedBMS.A3mm–diameterbonepunch and the superficial cortical bone of the footprint was
+(Smith & Nephew) was used to create 4 or 5 small holes removed with a shaver and radiofrequency electrocautery
+with a depth of 5 mm perpendicular to the surface of the (Figure3,CandD).Cancellousboneandoozingbloodcould
+footprint area of the humeral tubercle so that part of the be observed on the surface of the freshened bone bed
+bloodandbonemarrowleaksoutoftheholes(Figure2D). (Figure 3E). Then, we repaired the torn tendon using the
+Theholesweremadeatadistanceofapproximately3to5 samedouble-rowanchorsuturetechniqueusedintheRP-
+BMStechnique(Figure3,F-I).Notably,wecouldseethat
+mm. It was necessary to avoid the area where the subse-
+thetorntendonwouldbereattachedtothefreshbonebedof
+quentinner-rowanchorswereplaced.AfterBMS,webegan
+the humeral tubercle footprint, and the native enthesis of
+repairingthetornrotatorcuffwiththedouble-rowanchor
+thetorntendonremnantwasnolongervisible(Figure3H).
+suture technique: according to the size and shape of the
+tendon tear, two or three 5.5 mm–diameter inner-row
+anchors(ChinaRuijianMedical)wereinsertedatthepos-
+Postoperative Rehabilitation
+tero-andanteromedialedgesofthefootprintnearthecar-
+tilage-boneinterface(Figure2E).Thesutureswerepassed Postoperative rehabilitation was the same in both study
+throughthefullthicknessofthetornsupraspinatustendon groups.Thepatientswereinstructedtoperformwristand
+fromthearticularsidetothebursasideattheareaofthe hand function exercises immediately after surgery. All
+tendon-ventral junction with lasso loop stitches (Smith & patientsworeashoulderabductionbraceaftersurgery,and
+Nephew) (Figure 2F). The tendon was anatomically reat- theshoulderwasimmobilizedfor6weeks.Passiveshoulder
+tached,andthecontactareabetweenthetorntendonand exercise was allowed within 6 weeks postoperatively. Six
+itsnativeenthesiswasmaximizedbyadjustingthesuture weeks postoperatively, the shoulder abduction brace was
+tension. Afterward, a mattress stitch was tied medially removed, and patients performed active-assisted shoulder
+(Figure2G).Next,thefreesuturelimbswereanchored10 exercises. The range of motion of the shoulder gradually
+mm lateral to the greater tuberosity with 1 or 2 lateral increased.Strengtheningexerciseswereallowed3months
+
+NEW PAGE
+
+4 Zhouetal TheOrthopaedicJournalofSportsMedicine
+Figure 2. Remnant preservation combined with bone marrow stimulation (RP-BMS) technique. (A) Supraspinatus tendon tear
+(black arrow). (B) The tension of the torn tendon and the tear size were assessed (black arrow). (C) Native enthesis of the torn
+tendonremnant.(D)Thebonemarrowstimulationtechnique(blackarrow).(E)Theinner-rowanchorswereinserted(blackarrow).
+(F)Thesutureswerepassedthroughthefullthicknessofthetornsupraspinatustendonwithlassoloopstitches(blackarrow)anda
+supraspinatus tendon tear (black triangle). (G) A mattress stitch was tied medially (black arrow). (H) The free suture limbs were
+anchoredlaterally(blackarrow).(I)Thetornrotatorcuffwasanatomicallyreattached(blackarrow).HF,footprintareaofthehumeral
+tubercle;RE,nativeenthesisoftherotatorcuffremnant.
+postoperatively. A full return-to-sports activities was groups.Tendonintegritywasevaluatedwiththeclassifi-
+allowedat6monthspostoperatively. cation of Sugaya et al29 (grades 1-3 indicated intact ten-
+dons,grades4-5indicatedretears).Musclefatinfiltration
+wasevaluatedwiththeMRIgradingcriteriaofFuchset
+Clinical andMRIAssessment al10(grade0[nofatinfiltration]to4[morefatthanmus-
+cle]).Musclehypotrophywasevaluatedwiththegrading
+ShoulderfunctionwasevaluatedwiththeConstantscore,36
+criteriaofThomazeauetal35(grade1[slightatrophy]to3
+the American Shoulder and Elbow Surgeons (ASES)
+[severeatrophy]).
+score,25 and the University of California–Los Angeles
+(UCLA)score34;painwasevaluatedonvisualanalogscale
+(VAS) preoperatively and at the final follow-up. Forward Statistical Analysis
+flexion,externalrotationinabduction,andabductionwere
+measured preoperatively and on postoperative 2-month, Thepowerofthisretrospectivestudywascalculatedbased
+3-month,6-month,andfinalfollow-ups. ontheabductionbetweenthestudygroups.Usinga2-sided
+Preoperativeandfollow-upMRIscanswereperformed alphaerrorof.05,apowerof0.82wascalculated.Pairedt
+on a 3.0-T scanner (MAGNETOM Skyra; Siemens). All tests or Wilcoxon signed-rank tests were used to compare
+MRI scans were evaluated by a musculoskeletal radiolo- the functional scores and shoulder range of motion preop-
+gistwith10yearsofexperience,andhewasblindedtothe eratively and at the final follow-up according to the
+
+NEW PAGE
+
+TheOrthopaedicJournalofSportsMedicine CombinedRemnantPreservationandBoneMarrowStimulation 5
+Figure3.Conventionalrepairtechnique.(A)Supraspinatustendontear(blackarrow).(B)Thetensionofthetorntendonandthe
+tearsizewereassessed(blackarrow).(CandD)Remnanttissueofthetorntendonwasdebrided,andcorticalboneofthefootprint
+wasremoved(blackarrow).(E)Thefreshenedbonebed(blackarrow).(F)Theinner-rowanchorswereinserted(blackarrow).(G)
+Thesutureswerepassedthroughthefullthicknessofthetorntendonwithlassoloopstitches(blackarrow).(H)Thetorntendon
+was reattached to the fresh bone bed of the humeral tubercle footprint (black arrow). (I) The torn rotator cuff was anatomically
+reattached(blackarrow).HF,footprintareaofthehumeraltubercle.
+normalityofthedata.TheStudentttestorMann-Whitney Clinical Outcomes
+Utestwasused tocompare continuous variables between
+groups1and2, andthe Pearson chi-square testorFisher Inbothgroups,patientshadsignificantimprovementonall
+exact test was used to compare categorical variables. Sta- clinicaloutcomemeasuresatthefinalfollow-upcompared
+tisticalsignificancewassetasP<.05.Thedatawereana- with preoperatively (P ¼ .001 for all) (Table 2). Shoulder
+lyzedusingSPSS(Version23.0;IBMCorp). abduction in group 2 was significantly greater
+compared with group 1 at the postoperative 3-month
+(107.37(cid:2) ± 8.32(cid:2) vs 95.44(cid:2) ± 8.78(cid:2); P ¼ .001), 6-month
+(155.25(cid:2) ± 10.02(cid:2) vs 144.72(cid:2) ± 9.28(cid:2); P ¼ .001), and final
+RESULTS
+(165.15(cid:2) ± 9.17(cid:2) vs 158.31(cid:2) ± 8.01(cid:2); P ¼ .021) follow-ups
+PatientData (Figure5).Noneoftheotherscoresweresignificantly dif-
+ferentbetweenthe2groups(Table2).Complicationssuch
+Afterapplicationoftheinclusionandexclusioncriteria,56 asshoulderinfection,shoulderstiffness,andshoulderdis-
+patientswithacuterotatorcufftearswereenrolled.There locationwerenotobservedineithergroup.
+were 29 patients in group 1 (conventional repair) and 27
+patientsingroup2(RP-BMS)(Figure4).Table1showsthe MRIOutcomes
+generalcharacteristicsofthestudygroups.Therewereno
+significant differences in any of the patient and surgery MRI outcomes atthe final follow-up are shown inTable 3
+characteristicsbetweenthe2groups. andFigure6.Inbothgroups,thereweremorepatientswith
+
+NEW PAGE
+
+6 Zhouetal TheOrthopaedicJournalofSportsMedicine
+TABLE2
+FunctionalScoreOutcomesa
+OutcomeMeasure Group1(n¼29) Group2(n¼27) P
+UCLAscore
+Preoperative 16.55±4.23 17.07±3.79 .659
+Finalfollow-up 30.06±5.25 32.51±4.47 .479
+P .001 .001
+ASESscore
+Preoperative 56.48±7.63 59.88±8.85 .359
+Finalfollow-up 87.96±10.38 88.67±8.97 .734
+P .001 .001
+Constantscore
+Preoperative 58.14±8.32 56.53±9.23 .116
+Finalfollow-up 87.18±9.26 90.22±10.22 .669
+P .001 .001
+VASpainscore
+Preoperative 5.13±0.72 5.44±0.60 .695
+Finalfollow-up 1.18±0.39 1.28±0.52 .651
+P .001 .001
+Forwardflexion,deg
+Figure 4. Flow diagram of patient inclusion and exclusion. Preoperative 138.14±16.51 135.53±18.40 .144
+RP-BMS,remnantpreservationcombinedwithbonemarrow Finalfollow-up 158.36±11.09 160.81±13.29 .623
+stimulation. P .001 .001
+Abduction,deg
+Preoperative 91.57±7.59 96.25±9.32 .151
+TABLE1 Finalfollow-up 158.31±8.01 165.15±9.17 .021
+CharacteristicsoftheStudyPatients(N¼56)a P .001 .001
+Externalrotation,deg
+Group1 Group2 Preoperative 56.62±9.53 52.67±10.48 .145
+(n¼29) (n¼27) Finalfollow-up 77.45±10.55 73.11±11.59 .149
+Characteristic P
+P .001 .001
+Age,y 58.2±6.4 56.4±7.3 .216 aDataarepresentedasmean±SD.BoldfacePvaluesindicate
+Sex,male/female,n 17/12 19/8 .715
+a statistically significant difference between groups compared
+BMI 26.2±1.9 25.8±2.2 .232
+(P<.05).ASES,AmericanShoulderandElbowSurgeons;UCLA,
+Smokinghistory,yes/no,n 15/14 17/10 .652
+UniversityofCalifornia–LosAngeles;VAS,visualanalogscale.
+Arminvolvement,dominant/ 22/7 24/3 .554
+nondominant,n
+Levelofsportsactivity,low/ 20/9/0 22/7/0 .562 DISCUSSION
+medium/high,n
+Injurytosurgery,wk 3.8±1.7 4.1±1.4 .324 The main findings of the present studywere that(1) both
+Tearsizeofanteroposterior 3.21±0.55 3.05±0.47 .308 surgicaltechniquesledtosatisfactoryclinicaloutcomesin
+dimension,cm
+patientswithacuterotatorcufftears,butgreatershoulder
+Amountoftendonretraction,cm 2.89±0.37 3.02±0.31 .461
+abductionwasseenafterRP-BMScomparedwithconven-
+Acromiontype,1/2/3,n 6/15/8 4/14/9 .879
+tionalrepairatthe3-month,6-month,andfinalfollow-ups
+Glenohumeraljoint 3/26 1/26 .612
+(P < .05 for all); and (2) the tendon repair integrity and
+osteoarthritis,yes/no,n
+Tenodesisoflongheadofthe 15/14 17/10 .430 tendonretearratewerebetterinpatientswhounderwent
+biceps,yes/no,n the RP-BMS technique compared with the conventional
+Labrumrepair,yes/no,n 1/28 2/25 .605 repairtechnique(P¼.015and.033,respectively).
+Sizeofremnanttissue,mm 5.7±1.4 6.0±1.6 .424 Thenativeenthesisoftherotatorcuffisagradualtran-
+Durationofsurgery,min 86.7±10.2 81.8±13.5 .103 sitionallayeredstructureatthetendon-bonejunction.12,38
+Follow-uptime,mo 34.19±3.39 32.55±2.89 .224
+Incomplexshouldermovement,thisspecialstructurecon-
+aDataarepresentedasmean±SDunlessotherwiseindicated. tributestothestabletransmissionofstressfromtherotator
+BMI,bodymassindex. cufftendontothehumerus,ensuringthestressbalanceof
+the shoulder.17 However, there is currently no technology
+thatfullyregeneratesthenativeenthesis.Forchronicrota-
+intact tendons (Sugaya grades 1-3) at the final follow-up tor cuff tear cases, most of the remnant tissue of the torn
+comparedwithpreoperatively(P¼.001),withsignificantly rotator cuff is absorbed so that the native enthesis disap-
+more patients in group 2 having intact tendons compared pears, and the footprint area is covered by fibrous tissue
+withgroup1(P¼.015).Inaddition,thetendonretearrate andinflammatorysynovium.17,33,38Inthiscase,thedegen-
+wassignificantly lower in group 2 compared with group 1 eratedremnanttissueinthefootprintareawascompletely
+(3.70%vs24.14%,respectively;P¼.033). removed, and decorticalization was performed to improve
+
+NEW PAGE
+
+TheOrthopaedicJournalofSportsMedicine CombinedRemnantPreservationandBoneMarrowStimulation 7
+Figure5.Comparisonofpreoperativeandpostoperativemeanshoulderrangeofmotionandpainvaluesingroups1and2:(A)
+abduction;(B)forwardflexion;(C)externalrotationinabduction;and(D)visualanalogscale(VAS)painscore.Errorbarsrepresent
+standarddeviations. *Statisticallysignificantdifferencebetweengroups(P<.05).RP-BMS,remnantpreservationcombinedwith
+bonemarrowstimulation.
+appropriate for the repair of acute rotator cuff tears than
+TABLE3
+MRIOutcomesa the conventional repair technique. This technique may
+improve tendon integrity of repair by preserving the rem-
+Group1 Group2 nanttissueofthetorntendoninacuterotatorcufftear.
+(n¼29) (n¼27) Oneofthemaingoalsofrotatorcuffrepairsurgeryisto
+P relievepainandrestoreshoulderfunction.Arecentstudy
+from Kim et al19 used en masse suture bridge techniques
+Tendonintegrity,29
+for full-thickness supraspinatus tears. At the final follow-
+grades1/2/3/4/5,n
+up,theVAS,Constant,ASES,andUCLAscoreswere1.1±
+Preoperative 0/0/0/11/18 0/0/0/12/15 .438
+0.9, 84.3 ± 16.4, 88.3 ± 17.4, and 31.1 ± 6.0, respectively.
+Finalfollow-up 10/11/1/4/3 17/6/3/0/1 .015
+Heuberer et al15 used the knotless cinch-bridge technique
+P .001 .001
+Fattydegeneration,10 for supraspinatus tears. At the final follow-up, the VAS,
+grades0/1/2/3/4,n Constant,andASESscoreswere1.0±0.3,78.8±11.2,and
+Preoperative 19/10/0/0/0 16/11/0/0/0 .783 88.4±11.2,respectively.Theseresultswereconsistentwith
+Finalfollow-up 17/11/1/0/0 13/13/1/0/0 .535 ourstudy.Bothsurgicaltechniquesledtosatisfactoryclin-
+P .250 .109 icaloutcomesinpatientswithacuterotatorcufftears.How-
+Musclehypotrophy,35 ever, the RP-BMS technique improved abduction of the
+grades1/2/3,n patientscomparedwiththeconventionalrepairtechnique.
+Preoperative 26/3/0 27/0/0 .237 An animal study by Su et al28 found that retaining the
+Finalfollow-up 23/5/1 24/2/1 .457 rotator cuff remnant during repair surgery helped to
+P .126 .125 improvethedegreeofscarringatthetendon-boneinterface
+Retear,n(%) 7(24.14) 1(3.70) .033
+during rotator cuff healing. A biomechanical study found
+aBoldfacePvaluesindicateastatisticallysignificantdifference thatincreasingthefootprintareaofthegreatertuberclein
+between groups compared (P < .05). MRI, magnetic resonance rotatorcuffrepairsimprovedtendontensileloadsandbal-
+imaging. anced stress distribution.27 Because it retains the rotator
+cuffremnant,wethoughtthattheRP-BMStechniquemay
+increasethefootprintareacoverageandimprovescarheal-
+thebloodsupplyofthetendon-boneinterface.Incontrast, ingofthetendon-boneinterface.Furthermore,therewerea
+severalstudiesfoundthatthenativeenthesiswaswellpre- largenumberofmechanoreceptorsattherotatorcuffrem-
+servedin75%ofacuterotatorcufftearcases.3,26,33There- nant,andmechanoreceptorscontributetomaintainingpro-
+fore, we believe that the RP-BMS technique may be more prioception in the rotator cuff.5,8,31 The presence of
+
+NEW PAGE
+
+8 Zhouetal TheOrthopaedicJournalofSportsMedicine
+Figure6.Magneticresonanceimaging(MRI)assessment.(A)PreoperativecoronalT2-weighted(T2W)MRIshowingasupraspi-
+natustear(Sugayagrade5,yellowarrow)ingroup2.(B)CoronalT2WMRIatthefinalfollow-upshowingintacttendonstructure
+(Sugaya grade 1) with a visible remnant tissue that was preserved in the remnant preservation combined with bone marrow
+stimulationrepairtechnique(yellowarrow).(C)ObliquesagittalT2WMRIatthefinalfollow-upshowingmusclewithatrophy(grade
+1)butwithoutobviousfattyinfiltration(grade0)ingroup2(yellowarrow).(D)PreoperativecoronalT2WMRIshowingasupras-
+pinatustear(Sugayagrade5)ingroup1.(E)CoronalT2WMRIatthefinalfollow-upshowingintacttendonstructure(Sugayagrade
+2)withoutavisibleremnanttissuethatwasmovedintheconventionalrepairtechnique(yellowarrow).(F)ObliquesagittalT2WMRI
+atthefinalfollow-upshowingpartialmuscleatrophy(grade2)butnofattyinfiltration(grade0)ingroup1(yellowarrow).
+proprioception will help improve muscle reflex activity and tendon-bone interface.23 Although traditional bone bed
+thekinematicsofthemuscle-tendonunit.Thesefactorsmay freshening techniques can release endogenous MSCs and
+optimize the mechanical performance of the repaired cytokines, the disadvantage ofthe technique wasthatthe
+supraspinatus, resulting in better abduction function in the uncoveredfootprintwouldnotkeepthebonemarrowdrop-
+patientcomparedwiththeconventionalrepairtechnique. let,whichisrichinMSCs,aroundtherepairedtendon-bone
+Thetendonretearrateaftersurgicalrepairhasbeenatopic junctionandthedropletcouldvanishintothesubacromial
+ofinterestinresearch.Kimetal20useddouble-layerrepairfor space in an instant. In contrast, the remnant tissue can
+thetreatmentofdelaminatedrotatorcufftears.Theaverage coverthebonebedofBMSforthecontainmentofthebone
+follow-up period was 25.9 ± 1.2 months, and 6 (18%) of 34 marrowdroplet,formingatightsealtosustaintheactionof
+patients showed retears on MRI. Heuberer et al15 used the MSCsfortendon-bonehealing.37Therefore,webelievethat
+knotlesscinch-bridgetechniqueforsupraspinatustears.The the RP-BMS technique enhances the biological milieu of
+average follow-up period was 29.1 ± 9.3 months, and only 1 thetendon-boneinterfacecomparedwiththeconventional
+(3%)of33patientsshowedretears.AstudyfromLevyetal22 repairtechnique.
+demonstratedthattheremnanttissueofthetornrotatorcuff On the other hand, a biomechanical study from Sun et
+hadhighervascularitythanthenormalrotatorcuff.Anana- al30 demonstrated thatwhen the remnant tissue waspre-
+tomic study found that the posterior humeral circumflex served in rotator cuff repair, the repaired tendon had
+artery provided blood to the rotator cuff flowing from the greatermaximumloadandstiffness12weeksaftersurgery
+greater tubercle footprint toward the proximal rotator cuff.6 compared with the control group. Furthermore, in some
+Furthermore,therearealargenumberofvasoactiveandche- mediumtolargefull-thicknesssupraspinatustears,exces-
+motactic factors, such as vascular endothelial growth factor sive removal of the rotator cuff remnant tissue may
+andtransforminggrowthfactor–beta,intheremnanttissueof increasethedistancebetweenthefootprintandtheretrac-
+acuterotatorcufftears.21Therefore,retentionoftheremnant tortendon.Thisresultsintheneedtoapplymoretensionto
+tissuemayimprovethe healingenvironmentat the tendon- the tendon for anatomic reattachment. In contrast, the
+boneinterface. retained remnant tissue in the footprint resembles an
+The BMS technique, as a biological approach, provides autologousbiocompatiblepatch,formingabridgebetween
+endogenous MSCs, platelets, and growth factors for the theproximalendofthetearandthefootprint,whichmay
+
+NEW PAGE
+
+TheOrthopaedicJournalofSportsMedicine CombinedRemnantPreservationandBoneMarrowStimulation 9
+resultinlowertensionwhilepreservingtheintegrityofthe 6. DetermeD,Rongie`resM,KanyJ,etal.Anatomicstudyofthetendi-
+torntendon.24Therefore,webelievethatthesuperiorbio- nous rotator cuff of the shoulder. Surg Radiol Anat. 1996;18(3):
+logicalmilieuandrepairintegrityoftheRP-BMStechnique 195-200.
+7. Di Benedetto P, Mancuso F, Tosolini L, Buttironi MM, BeltrameA,
+maybeconsideredtobethe2essentialfactorsforincreas-
+CauseroA.Treatmentoptionsformassiverotatorcufftears:anarra-
+ingthehealingratecomparedwiththeconventionalrepair
+tivereview.ActaBiomed.2021;92(S3):e2021026.
+technique.
+8. DiederichsenL,KrogsgaardM,VoigtM,Dyhre-PoulsenP.Shoulder
+reflexes.JElectromyogrKinesiol.2002;12(3):183-191.
+9. Dierckman BD, Ni JJ, Karzel RP, Getelman MH. Excellent healing
+Limitations ratesandpatientsatisfactionafterarthroscopicrepairofmediumto
+largerotatorcufftearswithasingle-rowtechniqueaugmentedwith
+This study has some limitations. First, we used only a bone marrow vents. Knee Surg Sports Traumatol Arthrosc. 2018;
+short follow-up time and a small sample size to assess 26(1):136-145.
+retear rates after repair. Therefore, the research results 10. FuchsB,WeishauptD,ZanettiM,HodlerJ,GerberC.Fattydegen-
+may not be adequately representative. Second, our study erationofthemusclesoftherotatorcuff:assessmentbycomputed
+tomographyversusmagneticresonanceimaging.JShoulderElbow
+included only acute tear cases, and we were uncertain
+Surg.1999;8(6):599-605.
+whether the use of this technique would benefit patients
+11. GalatzL,RothermichS,VanderPloegK,PetersenB,SandellL,Tho-
+with subacute or chronic cases whose tear remnant was
+mopoulos S. Development of the supraspinatus tendon-to-bone
+well preserved. Third, the retrospective and nonrando- insertion:localizedexpressionofextracellularmatrixandgrowthfac-
+mizeddesignofthisstudyshouldberegardedasanimpor- torgenes.JOrthopRes.2007;25(12):1621-1628.
+tantlimitation. 12. GeninGM,KentA,BirmanV,etal.Functionalgradingofmineraland
+collagenintheattachmentoftendontobone.BiophysJ.2009;97(4):
+976-985.
+13. GoutallierD,PostelJM,LavauL,BernageauJ.Impactoffattydegen-
+CONCLUSION
+erationofthesupraspinatusandinfraspinatusmusclesontheprog-
+nosisofsurgicalrepairoftherotatorcuff.RevChirOrthopReparatrice
+Both surgical techniques led to satisfactory clinical out- ApparMot.1999;85(7):668-676.
+comes in patients with acute rotator cuff tears, but the 14. GwakHC,KimCW,KimJH,ChooHJ,SagongSY,ShinJ.Delami-
+RP-BMS technique improved the abduction of patients natedrotatorcufftear:extension ofdelamination andcuff integrity
+comparedwiththeconventionalrepairtechnique.Further- afterarthroscopicrotatorcuffrepair.JShoulderElbowSurg.2015;
+more,theRP-BMStechniquemaybeanalternativesurgi- 24(5):719-726.
+15. HeubererPR,PauzenbergerL,GruberMS,etal.Theknotlesscinch-
+cal technique to improve tendon integrity of repair and
+bridge technique for delaminated rotator cuff tearsleads to ahigh
+retearratesinacuterotatorcufftears.
+healingrateandamorefavorableshort-termclinicaloutcomethan
+suture-bridge repair. Knee Surg Sports Traumatol Arthrosc. 2019;
+27(12):3920-3928.
+A Video Supplement for this article is available at 16. Huang K, Chen C, Dong S, et al. Differentiation ability of tendon-
+derivedstemcellsandhistologicalcharacteristicsofrotatorcuffrem-
+https://journals.sagepub.com/doi/full/10.1177/23
+nantonthegreatertuberositydegeneratedwithageandchronicity.
+259671231152233#supplementary-materials
+Arthroscopy.2022;38(4):1037-1048.
+17. HuegelJ,WilliamsAA,SoslowskyLJ.Rotatorcuffbiologyandbio-
+mechanics: a review of normal and pathological conditions. Curr
+RheumatolRep.2015;17(1):476-482.
+ACKNOWLEDGMENT 18. JoCH,ShinJS,ParkIW,KimH,LeeSY.Multiplechannelingimproves
+thestructuralintegrityofrotatorcuffrepair.AmJSportsMed.2013;
+TheauthorsthankDrLingChenforacademicadvice. 41(11):2650-2657.
+19. KimH,ParkSB,SongHS.Apropensityscore-matchedcomparison
+betweenknotlesslayer-by-layerandenmassesuturebridgetechni-
+quesfordelaminatedrotatorcufftears.AmJSportsMed.2022;50(8):
+REFERENCES 2219-2226.
+20. KimYS,LeeHJ,JinHK,KimSE,LeeJW.Conventionalenmasse
+1. Ajrawat P, Dwyer T, Almasri M, et al. Bone marrow stimulation repairversusseparatedouble-layerdouble-rowrepairforthetreat-
+decreasesretearratesafterprimaryarthroscopicrotatorcuffrepair: mentofdelaminatedrotatorcufftears.AmJSportsMed.2016;44(5):
+asystematicreviewandmeta-analysis.JShoulderElbowSurg.2019; 1146-1152.
+28(4):782-791. 21. KobayashiM,ItoiE,MinagawaH,etal.Expressionofgrowthfactors
+2. BilselK,YildizF,KapiciogluM,etal.Efficacyofbonemarrow-stim- intheearlyphaseofsupraspinatustendonhealinginrabbits.JShoul-
+ulatingtechniqueinrotatorcuffrepair.JShoulderElbowSurg.2017; derElbowSurg.2006;15(3):371-377.
+26(8):1360-1366. 22. LevyO,RelwaniJ,ZamanT,EvenT,VenkateswaranB,CopelandS.
+3. ChoiHS,LeeBI,KimJH,ChoHK,SeoGW.Atechniqueforrepairing Measurement of blood flow in the rotator cuff using laser Doppler
+rotatorcufftranstendinoustearswitharemnantattachedtothefoot- flowmetry.JBoneJointSurgBr.2008;90(7):893-898.
+print.JOrthopSurgRes.2021;16(1):291-300. 23. LiZ,ZhangY.Efficacyofbonemarrowstimulationinarthroscopic
+4. CofieldRH,IrvingJF.Evaluationandclassificationofshoulderinsta- repairoffullthicknessrotatorcufftears:ameta-analysis.JOrthop
+bility: with special reference to examination under anesthesia. Clin SurgRes.2019;14(1):36-42.
+OrthopRelatRes.1987;(223):32-43. 24. McCarronJA,MilksRA,ChenX,IannottiJP,DerwinKA.Improved
+5. DeCastroPochiniA,EjnismanB,deSeixasAlvesMT,etal.Overuse time-zerobiomechanicalpropertiesusingpoly-L-lacticacidgraftaug-
+oftrainingincreasesmechanoreceptors insupraspinatustendonof mentationinacadavericrotatorcuffrepairmodel.JShoulderElbow
+ratsSHR.JOrthopRes.2011;29(11):1771-1774. Surg.2010;19(5):688-696.
+
+NEW PAGE
+
+10 Zhouetal TheOrthopaedicJournalofSportsMedicine
+25. PatelMS,KirschJM,GutmanMJ,etal.SingleAssessmentNumeric 31. TakahashiK,ShitaraH,IchinoseT,etal.Delayeddetectionofpassive
+EvaluationcorrelateswithAmericanShoulderandElbowSurgeons motioninshoulderswitharotatorcufftear.JOrthopRes.2022;40(6):
+scoreforcommonelbowpathology:aretrospectivecohortstudy.Am 1263-1269.
+JSportsMed.2021;49(10):2771-2777. 32. TaniguchiN,SuenagaN,OizumiN,etal.Bonemarrowstimulationat
+26. Pogorzelski J, Erber B, Themessl A, et al. Definition of the terms the footprint of arthroscopic surface-holding repair advances cuff
+“acute”and“traumatic”inrotatorcuffinjuries:asystematicreview repairintegrity.JShoulderElbowSurg.2015;24(6):860-866.
+and call for standardization in nomenclature. Arch Orthop Trauma 33. TeefeySA,MiddletonWD,BauerGS,HildeboltCF,YamaguchiK.Sono-
+Surg.2021;141(1):75-91. graphicdifferencesintheappearanceofacuteandchronicfull-thickness
+27. SimmerFilhoJ,VossA,PauzenbergerL,etal.Footprint coverage rotatorcufftears.JUltrasoundMed.2000;19(6):377-383.
+comparisonbetweenknottedandknotlesstechniquesinasingle-row 34. ThamyongkitS,WanitchanontT,ChulsomleeK,etal.TheUniversity
+rotatorcuffrepair:biomechanicalanalysis.BMCMusculoskeletDis- ofCalifornia–LosAngeles(UCLA)shoulderscale:translation,reliabil-
+ord.2019;20(1):123-129. ityandvalidationofaThaiversionofUCLAshoulderscaleinrotator
+cufftearpatients.BMCMusculoskeletDisord.2022;23(1):65-71.
+28. SuW,LiX,ZhaoS,etal.Nativeenthesispreservationversusremoval
+35. ThomazeauH,RollandY,LucasC,DuvalJM,LanglaisF.Atrophyof
+in rotator cuff repair in a rabbit model. Arthroscopy. 2018;34(7):
+thesupraspinatusbelly:assessmentbyMRIin55patientswithrotator
+2054-2062.
+cuffpathology.ActaOrthopScand.1996;67(3):264-268.
+29. Sugaya H, Maeda K, Matsuki K, Moriishi J. Functional and struc-
+36. YianEH,RamappaAJ,ArnebergO,GerberC.TheConstantscorein
+tural outcome after arthroscopic full-thickness rotator cuff repair:
+normalshoulders.JShoulderElbowSurg.2005;14(2):128-133.
+single-row versus dual-row fixation. Arthroscopy. 2005;21(11):
+37. Yoon JP, Chung SW, Kim JY, et al. Outcomes of combined bone
+1307-1316.
+marrowstimulationandpatchaugmentationformassiverotatorcuff
+30. SunY,KwakJM,QiC,etal.Remnanttendonpreservationenhances
+tears.AmJSportsMed.2016;44(4):963-971.
+rotator cuff healing: remnant preserving versus removal in arabbit
+38. Zumstein MA, La¨dermann A, Raniga S, Scha¨r MO. The biology of
+model.Arthroscopy.2020;36(7):1834-1842.
+rotatorcuffhealing.OrthopTraumatolSurgRes.2017;103(1):1-10.
+
+NEW PAGE

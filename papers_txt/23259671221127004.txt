@@ -1,0 +1,462 @@
+Original Research
+Effect of Bone Marrow Aspirate Concentrate
+and Platelet-Rich Plasma Augmentation on
+the Rate of Revision Rotator Cuff Repair
+Bradley S. Schoch,*† MD, Brian C. Werner,‡ MD, Shane A. Shapiro,† MD,
+Christopher L. Camp,§ MD, Peter N. Chalmers,k MD, and Jourdan M. Cancienne,{ MD
+Investigation performed at Mayo Clinic, Jacksonville, Florida, USA
+Background: The application of orthobiologics at the time of arthroscopic rotator cuff repair (RCR) has received an increasing
+amountofclinicalinterestdespitearelativescarcityofhumanclinicalstudiesontheirefficacy.
+Purpose:Toutilizeanationaladministrativedatabasetodeterminetheassociationofbonemarrowaspirateconcentrate(BMAC)
+andplatelet-richplasma(PRP)appliedatthetimeofRCRwithrevisionsurgeryrates.
+StudyDesign:Cohortstudy;Levelofevidence,3.
+Methods:TheMarinerdatasetfromthePearlDiver patientrecords repositorywasutilizedtoidentify patientsundergoing RCR
+usingCurrentProceduralTerminology(CPT)code29827.PatientsreceivingBMACorPRPatthetimeofRCRwerethenidentified
+usingCPTcoding.Forcomparisonpurposes,amatchedcohortwascreatedconsistingofpatientswhounderwentRCRwithout
+biologic augmentation in a 5:1 fashion for each biologic separately. Cases were matched according to age, sex, tobacco use,
+biceps tenodesis, distal clavicle excision, and subacromial decompression. All groups were then queried for revision RCR or
+conversion to reverse shoulder arthroplasty. Revision rates were compared utilizing a multivariate binomial logistic regression
+analysis.Adjustedoddsratios(ORs)and95%CIswerecalculated.
+Results:Atotalof760patientswhounderwentbiologicaugmentationduringRCRwereidentified,including646patientsinthe
+PRPgroupand114patientsintheBMACgroup.Theywerecomparedwith3800matchedcontrolswithoutdocumentedbiologic
+application at the time of surgery. Compared with matched controls, patients who received BMAC at the time of surgery
+experiencedasignificantlylowerincidenceofrevisionsurgeryat2years(OR,0.36;95%CI,0.15-0.82;P¼.015).Therewasno
+significantdifferenceinrevisionratesbetweenPRPandmatchedcontrols(OR,0.87;95%CI,0.62-1.23;P¼.183).
+Conclusion:TheapplicationofBMACatthetimeofRCRwasassociatedwithasignificantdecreaseintheincidenceofrevision
+surgery.TherewasnoapparenteffectofPRPontheincidenceofrevisionsurgeryafterprimaryRCR.Higher-levelclinicalstudies
+consideringsurgicalfactorsareneededtomoreclearlydefinetheroleofbiologicadjuvantsinRCR.
+Keywords:bonemarrowaspirateconcentrate;BMAC;platelet-richplasma;biologics;rotatorcuffrepair;revisionsurgery
+Arthroscopic rotator cuff repair (RCR) remains the gold reported a reoperation rate of 6%. Of these, 57% were
+standard for acute full-thickness rotator cuff tears and revision RCRs. Revision surgery was more commonly
+chronic tears that fail nonoperative management. How- performed in younger patients, tobacco users, and those
+ever, failures secondary to tendon nonhealing or retear receivingworkers’compensation.30
+remain high, ranging from 11% to 94%.12,13,26 The high Patients with documented tendon-to-bone healing
+failure rate persists despite advancements in techniques after RCR report improved strength and satisfaction.
+andimplants.18,23-25Riskfactorsforretearhavebeenwell Accordingly, healing of the tendon is the anatomic goal
+describedandincludeadvancedage,10,22recentcorticoste- oftheprocedure.Thereisnear-universalagreementthat
+roid injection,8 increased critical shoulder angle,28 optimizing the biologic environment of the tendon-to-
+increased tear size,1 and fatty degeneration.17,27 Despite bone interface is a key to improving cuff repair healing.
+thehighradiographic failurerate,revisionsurgery isless Thus,surgeonshavebeguntoexplorebiologicaugmenta-
+common.Inastudyofmorethan39,000patientsundergo- tion of RCRs in order to improve primary healing rates.
+ing isolated outpatient arthroscopic RCR, Mahure et al30 Small randomized controlled trials (RCTs) evaluating
+platelet-rich plasma (PRP) administered at the time of
+RCR have shown increased healing rates.19,20,34 However,
+TheOrthopaedicJournalofSportsMedicine,10(11),23259671221127004
+similar studies have shown conflicting results.11,31,39
+DOI:10.1177/23259671221127004
+ªTheAuthor(s)2022 Malavoltaetal31evaluated44shouldersafterarthroscopic
+Thisopen-accessarticleispublishedanddistributedundertheCreativeCommonsAttribution-NonCommercial-NoDerivativesLicense(https://creativecommons.org/
+licenses/by-nc-nd/4.0/),whichpermitsthenoncommercialuse,distribution,andreproductionofthearticleinanymedium,providedtheoriginalauthorandsourceare
+credited.Youmaynotalter,transform,orbuilduponthisarticlewithoutthepermissionoftheAuthor(s).Forarticlereuseguidelines,pleasevisitSAGE’swebsiteat
+http://www.sagepub.com/journals-permissions.
+1
+
+NEW PAGE
+
+2 Schochetal TheOrthopaedicJournalofSportsMedicine
+single-rowRCRforsmalltomediumsupraspinatustears,in com)wasperformed.TheMarinershoulderarthroscopydata
+which half of the patients were treated with concurrent set within PearlDiver was used for the current study, as it
+application of PRP to the tendon-to-bone interface at the containsallpatientswithashoulderarthroscopyprocedure
+timeofsurgery.Theyfoundthatat60monthsaftersurgery, and contains patient records from several private insurers,
+magnetic resonance imaging (MRI) evaluation showed no including 100% of Medicare patients, as well as Medicaid
+differenceintheretearrate.Otherauthorshaveevaluated patients. Similar to the broader PearlDiver data set, this
+the effect of bone marrow aspirate concentrate (BMAC) on databaseprovidesproceduralvolumesandpatientcharacter-
+thefunctionandhealingofpatientsundergoingarthroscopic istics for patients with International Classification of Dis-
+RCR.Coleetal9reportedon62patientsrandomizedtocon- eases, 9th Revision (ICD-9) and 10th Revision (ICD-10)
+current treatment with BMAC (n ¼ 28) compared with a diagnoses and procedures or with Current Procedural Ter-
+blindedcontrolgroup(n¼34)andreportedimprovedtendon minology (CPT) codes. Patients are tracked across all loca-
+qualityonpostoperativeMRIinpatientswhoreceivedaddi- tions of care as long as the same insurance is used for the
+tional BMAC at the time of RCR. Similar improvements encounter.
+have been shown with local microfracture of the greater
+tuberosityatthetimeofRCR,whichallowsventingofbone
+marrowstemcells,growthfactors,andotherproteinstothe Study andControl Cohorts
+repair site.32 Studies have demonstrated both improved
+To identify the study population of patients who received
+healinganddiminishedretearsinpatientsundergoingRCR
+BMAC or PRP at the time of primary RCR, the database
+with microfracture compared with patients undergoing
+isolatedRCR.32,35 was first queried for all patients who underwent primary
+RCR between 2015 and 2018 using CPT code 29827.
+Studies on both PRP and BMAC are limited by small
+Patients undergoing open RCR were excluded. Patients
+numbersandareatriskofdatafragilityandbeingunder-
+whoreceivedBMACatthetimeofsurgerywereidentified
+powered given the low incidence of retearing in small
+using CPT code 38220, and patients who received PRP,
+cohorts. Limitations of these types of studies are common
+with CPT code 0232 T. All primary RCRs were required
+given the cost of RCTs. Given these limitations, larger
+to have been performed 2 years before data collection
+cohort studies utilizing administrative databases offer
+(2020),representingaminimum2-yearfollow-up.Patients
+unique strengths and an increased power to examine the
+effectivenessofbiologicaugmentationatthetimeofRCR. who underwent a primary RCR without BMAC or PRP
+Theprimarypurposeofthisstudywastouseanational augmentationwerethenidentifiedandmatched5:1byage,
+administrative database to determine the association of sex,tobaccouse,andconcurrentprocedures(bicepstenod-
+BMAC and PRP applied at the time of RCR with revision esis, distal clavicle excision, and subacromial decompres-
+surgeryratescomparedwithmatchedcontrols.Wehypoth- sion) individually for each of the BMAC and PRP study
+esizedthattheapplicationofPRPandBMACatthetimeof groups.
+surgerywouldbeassociatedwithasignificantreductionin
+revision shoulder surgery rates at 2 years compared with
+Outcomes Evaluated
+matchedcontrols.
+The primary outcome studied was revision shoulder sur-
+geryintheformofrevisionRCRorreverseshoulderarthro-
+METHODS
+plasty at any time after the primary surgery. The
+Database procedures were identified using CPT code 29827 for the
+ipsilateral shoulder after the index procedure for revision
+This study was deemed exempt from institutional review RCR and CPT code 23472, ICD-9 code 81.88, and ICD-10
+board approval. A retrospective case-control study utilizing codes 0RRJ00Z and 0RRK00 for reverse shoulder arthro-
+a national database of deidentified patient information plasty. To ensure that procedures occurred on the ipsilat-
+(PearlDiver Patient Records Database; www.pearldiverinc. eralshoulder,CPTcodelateralitymodifierswereverified.
+*AddresscorrespondencetoBradleyS.Schoch,MD,DepartmentofOrthopedicSurgery,MayoClinic,4500SanPabloRoadSouth,Jacksonville,FL
+32224,USA(email:schoch.bradley@mayo.edu).
+†DepartmentofOrthopedicSurgery,MayoClinic,Jacksonville,Florida,USA.
+‡DepartmentofOrthopaedicSurgery,UniversityofVirginia,Charlottesville,Virginia,USA.
+§DepartmentofOrthopedicSurgery,MayoClinic,Rochester,Minnesota,USA.
+kDepartmentofOrthopedicSurgery,UniversityofUtah,SaltLakeCity,Utah,USA.
+{SouthernOrthopaedicSpecialists,NewOrleans,Louisiana,USA.
+FinalrevisionsubmittedMay16,2022;acceptedJuly5,2022.
+Oneormoreoftheauthorshasdeclaredthefollowingpotentialconflictofinterestorsourceoffunding:B.S.S.hasreceivededucationpaymentsfrom
+Arthrex,consultingfeesfromExactech,andhonorariafromEncoreMedical.B.C.W.hasreceivededucationpayments,consultingfees,andspeakingfees
+fromArthrexandhospitalitypaymentsfromIntegraLifeSciences.C.C.hasreceivednonconsultingfeesfromArthrex.P.C.hasreceivededucationpayments
+fromActiveMedical,consultingfeesfromDePuy/MedicalDeviceBusinessServices,andnonconsultingfeesfromArthrex.J.C.hasreceivedresearch
+supportfromArthrex,educationpaymentsfromArthrexandSmith&Nephew,andhospitalitypaymentsfromMedicalDeviceBusinessServicesandStryker.
+AOSSMchecksauthordisclosuresagainsttheOpenPaymentsDatabase(OPD).AOSSMhasnotconductedanindependentinvestigationontheOPDand
+disclaimsanyliabilityorresponsibilityrelatingthereto.
+Ethicalapprovalwasnotsoughtforthepresentstudy.
+
+NEW PAGE
+
+TheOrthopaedicJournalofSportsMedicine EffectofPRPandBMAConRevisionRCR 3
+TABLE1
+PatientandSurgeryCharacteristicsofthePRPGroupVersusMatchedControlsa
+PRPGroup(n¼646) ControlGroup(n¼3230) P
+Agegroup,y >.999
+<50 72(11.1) 360(11.1)
+50-54 83(12.8) 415(12.8)
+55-59 124(19.2) 620(19.2)
+60-64 118(18.3) 590(18.3)
+65-69 118(18.3) 590(18.3)
+70-74 78(12.1) 390(12.1)
+75-79 50(7.7) 250(7.7)
+(cid:2)80 3(0.5) 15(0.5)
+Sex:female 263(40.7) 1315(40.7) >.999
+Obese(BMI,30-39.9) 146(22.6) 702(21.7) .627
+Morbidlyobese(BMI,(cid:2)40) 94(14.6) 480(14.9) .840
+Tobaccouse 182(28.2) 910(28.2) >.999
+Alcoholabuse 50(7.7) 198(6.1) .127
+Concomitantprocedures
+Subacromialdecompression 587(90.9) 2935(90.9) >.999
+Bicepstenodesis 148(22.9) 740(22.9) >.999
+Distalclavicleexcision 350(54.2) 1750(54.2) >.999
+Comorbidities
+Type1diabetesmellitus 15(2.3) 87(2.7) .590
+Type2diabetesmellitus 140(21.7) 744(23.0) .451
+Hyperlipidemia 498(77.1) 2377(73.6) .064
+Hypertension 475(73.5) 2325(72.0) .423
+Peripheralvasculardisease 36(5.6) 193(6.0) .692
+Congestiveheartfailure 28(4.3) 149(4.6) .757
+Coronaryarterydisease 149(23.1) 757(23.4) .839
+Chronickidneydisease 60(9.3) 319(9.9) .646
+Chroniclungdisease 64(9.9) 306(9.5) .732
+Chronicliverdisease 40(6.2) 207(6.4) .837
+Thyroiddisease 112(17.3) 539(16.7) .687
+Depression 180(27.9) 969(30.0) .278
+aValuesarepresentedasn(SD).BMI,bodymassindex;PRP,platelet-richplasma.
+DataandStatistical Analysis RESULTS
+Patient characteristics of the study and control cohorts We identified 760 patients who underwent biologic aug-
+wererecordedasprovidedbythedatabase,orasdefined mentation duringprimary RCR,including 646patientsin
+byrelevantICD-9andICD-10codesaftermatching,and the PRP group and 114 patients in the BMAC group. The
+compared.Theseincludedagegroup,sex,obesity,morbid PRP cases were performed by 167 surgeons with a mean
+obesity,tobaccouse,alcoholuse,concomitantprocedures, follow-upof2.2±0.9years.BMAC-augmented caseswere
+diabetes mellitus status, hyperlipidemia, hypertension, performed by 39 surgeons with a mean follow-up of 2.3 ±
+peripheralvasculardisease,congestiveheartfailure,cor- 0.7 years. Each group was matched to a similar group of
+onaryarterydisease,chronickidneydisease,chroniclung controlpatientsundergoingRCRwithoutdocumentedbio-
+disease, chronic liver disease, thyroid disease, and logicapplicationatthetimeofsurgery(3230matchedtothe
+depression. Each of these categorical comparisons was PRP group; mean follow-up, 2.7 ± 1.1 years; and
+performed using a chi-square test. Statistical compari- 570 matched to the BMAC group; mean follow-up, 2.7 ±
+sons of revision shoulder surgery between cohorts were 1 years). There were no significant differences in the
+completed using a multivariate binomial logistic regres- reportedcharacteristics,concomitantprocedures,orcomor-
+sion analysis controlling for the previously mentioned bidities between the PRP group and the matched controls
+covariates; adjusted odds ratios (ORs) with respective (P > .05) (Table 1). Similarly, there were no significant
+95%CIswerecalculatedfor allcomparisons.For allsta- differences in the reported characteristics or concomitant
+tistical comparisons, P < .05 was considered significant. proceduresbetweentheBMACgroupandthematchedcon-
+TheembeddedstatisticalsoftwarewithinPearlDiverwas trols. There were also no significant differences in the
+usedforallstatisticalcomparisons,whichisbasedonthe comorbidities studied between the BMAC group and
+open-source R program (R Foundation for Statistical matched controls with the exception of a significantly
+Computing;www.r-project.org). higherrateofhypertensionincontrols(P¼.034)(Table2).
+
+NEW PAGE
+
+4 Schochetal TheOrthopaedicJournalofSportsMedicine
+TABLE2
+PatientandSurgeryCharacteristicsoftheBMACGroupVersusMatchedControlsa
+BMACGroup(n¼114) ControlGroup(n¼570) P
+Agegroup,y >.999
+<50 21(18.4) 105(18.4)
+50-54 19(16.7) 95(16.7)
+55-59 20(17.5) 100(17.5)
+60-64 33(28.9) 165(28.9)
+65-69 10(8.8) 50(8.8)
+70-74 10(8.8) 50(8.8)
+75-79 1(0.9) 5(0.9)
+Sex:female 51(44.7) 255(44.7) >.999
+Obese(BMI,30-39.9) 21(18.4) 119(20.9) .553
+Morbidlyobese(BMI,(cid:2)40) 14(12.3) 94(16.5) .260
+Tobaccouse 36(31.6) 180(31.6) >.999
+Alcoholabuse 6(5.3) 31(5.4) .940
+Concomitantprocedures
+Subacromialdecompression 102(89.5) 510(89.5) >.999
+Bicepstenodesis 25(21.9) 125(21.9) >.999
+Distalclavicleexcision 62(54.4) 310(54.4) >.999
+Comorbidities
+Type1diabetesmellitus 2(1.8) 13(2.3) .726
+Type2diabetesmellitus 23(20.2) 123(21.6) .738
+Hyperlipidemia 83(72.8) 394(69.1) .434
+Hypertension 70(61.4) 407(71.4) .034
+Peripheralvasculardisease 7(6.1) 38(6.7) .836
+Congestiveheartfailure 6(5.3) 28(4.9) .875
+Coronaryarterydisease 23(20.2) 93(16.3) .316
+Chronickidneydisease 8(7.0) 46(8.1) .704
+Chroniclungdisease 10(8.8) 56(9.8) .728
+Chronicliverdisease 8(7.0) 34(6.0) .669
+Thyroiddisease 19(16.7) 81(14.2) .498
+Depression 34(29.8) 173(30.4) .911
+aValuesarepresentedasn(SD).BMAC,bonemarrowaspirateconcentrate;BMI,bodymassindex.
+Two shoulders undergoing RCR with BMAC (1.75%) association, withnoobservable difference seeninrevision
+underwent revision RCR. Compared with matched con- ratesinpatientswhoreceivedPRPandthosewhodidnot.
+trols, patients who received BMAC at the time of surgery FurtherprospectivestudiesontheeffectofBMACadmin-
+experienced a significantly lower incidence of revision istered at the time of RCR are needed to confirm these
+surgery (1.75% vs 3.51%; OR, 0.36; 95% CI, 0.15-0.82; findings.
+P¼.015).Thisrepresentsa2.8timesincreasedlikelihood BMAChasrapidlyemergedasapopularbiologictherapy
+of having revision shoulder surgery in controls compared to augment tendon-to-bone healing during RCR. In addi-
+with those receiving BMAC at the time of RCR. In total, tiontopossessingseveralofthesamefavorableconcentra-
+21patientstreatedwithRCRandPRP(3.25%)underwent tionsofgrowthfactorsfoundinPRP,BMACalsocontains
+revision RCR. There was no significant difference in revi- progenitorcells,whichhavebeenshowntofacilitatetissue
+sion rates between the PRP study group and matched healing.29,33,36Whilemultipleanimalstudieshavedemon-
+controls (3.25% vs 3.56%; OR, 0.87; 95% CI, 0.62-1.23; strated BMAC’s ability to augment tendon repair by
+P¼.183). improving enthesis regeneration and repair quality, high-
+level human clinical studies are scarce.29,38 Despite being
+scarce, the available clinical investigations have shown
+DISCUSSION promise.38 In one of the first clinical studies, Hernigou
+et al15 investigated 90 matched patients who received a
+In the past decade, orthobiologics have gained increasing single-row RCR for small tears, half of whom received
+clinical interest as adjuncts during arthroscopic RCR to BMAC at the completion of the repair and the other half
+potentiate tendon healing and reduce the risk of clinical who did not. At 6 months, all 45 patients who received
+failure.14,38 The current study adds to a growing body of BMAC had evidence of healed repairs on MRI compared
+literatureonthistopicandsuggeststhatBMACapplication withonly67%ofpatientswhodidnotreceiveBMAC.Fur-
+atthetimeofRCRwasassociatedwithasignificantlylower thermore, at 10 years after surgery, 87% of the BMAC
+risk of revision surgery. A similar comparison of PRP cohort maintained intact repairs compared with only 44%
+applied at the time of surgery did not show a similar ofpatientswhodidnotreceiveBMAC.15
+
+NEW PAGE
+
+TheOrthopaedicJournalofSportsMedicine EffectofPRPandBMAConRevisionRCR 5
+More recently, Cole et al9 performed a prospective ran- improved biologic healing compared with rabbits treated
+domized trial of 62 patients undergoing repair of a full- with PRP at the time of repair. In addition, collagen fiber
+thicknessisolatedsupraspinatustear.Whencomparingthe continuity at the enthesis was similar between rabbits
+28patientsintheBMACgroupwiththe34controlpatients, treatedwithPRPandthosetreatedwithsaline.Thegroup
+patientswhoreceivedBMACatthetimeofsurgeryexhib- postulated that isolated mesenchymal stem cells or PRP
+itedsignificantlyimprovedSugayascoresonpostoperative alone may be insufficient to support the tissue repair and
+MRIat1-yearfollow-up(3.25vs2.6;P¼.0012).Thusfar, regenerative process needed to support tendon-to-bone
+human clinical studies have primarily focused on the healing andthatanenvironment encouragingdifferentia-
+impactthatBMAChasontheMRIappearanceoftendon- tion and recruiting growth factors, possibly provided by
+to-bonehealing,andthisisthefirstreportonadifferencein BMAC,isnecessarytoseesuchaneffect.29
+revision rates.38 While it is important to report the effect Whereasbasicsciencestudiesinvestigatingtheeffectof
+thatBMAChasontendonhealingasseenbyMRI,itiswell PRPontendonhealinghavereportedthemostsignificant
+knownthatstructuralfailuremaynotoftenmanifestclin- improvements in early, acute tendon healing, differences
+ically.21Thedifferenceinrevisionratesshowninthisstudy between acute and chronic tendon injury should be kept
+suggeststhatthedifferencesseenonMRImaybeamarker inmind when considering whyPRPfailedtoshowconsis-
+for higher failure rates and further support the consider- tent success in chronic RCR applications and in the same
+ationofinsurer-coveredcostofBMACaugmentation.Inthe rabbitmodel.29WhilethebiologicaleffectsofPRPonRCR
+currentstudy,wewereabletostudythelargestnumberof healing are reasonably well studied, BMAC has been less
+patients to date undergoing RCR with BMAC augmenta- so. Nevertheless, studies have demonstratedthe ability of
+tion to demonstrate a nearly 3-fold difference in revision BMACtoconcentratetheoreticallyimportantfactorsatan
+ratesinpatientswhoreceivedBMACcomparedwiththose efficient level. Additionally, differences have been demon-
+whodidnot. strated between the 2 products in vitro.5,41 Most notably,
+Overall,themajorityoftheclinicalliteratureexamining BMAC has a much higher concentration of interleukin
+theapplicationofbiologicsatthetimeofRCRhasfocused receptor 1 antagonist protein, among others. While it is
+onPRP.38And althoughindividualstudieshaveproduced unclear how the differences in growth factor quantities
+promising results, pooled data from these studies have between the 2 products may affect in vivo healing, these
+remained inconsistent.7,16,37 Hurley et al16 recently per- differences in the biological makeup are but 1 of several
+formedameta-analysisof18RCTsand1147patientsand hypothesesforwhytheremayormaynotbeatruediffer-
+reported that patients receiving PRP experienced signifi- ence in the effect of PRP versus BMAC when applied to
+cantlylowerratesofincompletehealing,lowerpainlevels, RCR. Ultimately, more basic science, animal, and human
+and improved functional outcomes. Similarly, Chen et al7 studiesareneededtofullyunderstandtheimpactofthese
+focusedexclusivelyonlevel1RCTsexaminingtheeffectsof biologicsonRCRoutcomes.
+PRP on RCR and reported a significant decrease in long-
+term retear rates in PRP-treated patients. In contrast, Limitations
+Saltzman et al37 performed a systematic review and
+meta-analysis that included 3193 patients and reported Theresultsofthecurrentstudymustbeviewedwithinthe
+that PRP use at the time of RCR did not universally contextofthestudy’slimitations,manyofwhichareinher-
+improveretearratesoraffectclinicaloutcomescores.One ent to administrative database research.4,40 First, the
+factorthathascontributedtotheinconsistencyseeninPRP strengthofouranalysisandreliabilityofourresultswere
+applicationatthetimeofRCRisthesignificant heteroge- dependentonthequalityofthedataandtheaccuracywith
+neity in both the preparation of PRP and the reporting of which the selected procedures and diagnoses were coded.
+PRPcharacteristicsbetweenstudiesinthepublishedliter- Thus, miscoding, noncoding, and direct cash payments to
+ature.6This,coupledwithdifferinginjectionprotocols,has providersarepotentialsourcesoferror.Amajorlimitation
+limited the ability to effectively compare results between ofutilizinganadministrativedatabasetostudybiologicsis
+studies and deliver a consistent message about its utility. the inability to determine the technique of procurement,
+Furthermore, similar to the BMAC literature, fewstudies preparation, and administration of the biologic utilized,
+haveusedrevisionsurgeryasanoutcomemeasure.Inthe muchlessthecharacteristicsorconcentrationofthatbeing
+current study, there was no significant difference in revi- used from patient to patient. Furthermore, we were only
+sion surgery rates between patients receiving PRP at the able to assess failure as defined by revision surgery.
+timeofsurgeryandthosewhodidnot. Patientswithpoorclinicaloutcomesandstructuralfailure
+The findings of the current study indicated a signifi- without revision would not have been captured as having
+cantlylowerrevisionrateinpatientswhoreceivedBMAC structuralorclinicalfailuresusingthisdatabase.
+atthetimeofsurgery,butnotwhentheyreceivedPRP.To A second limitation was that, although we performed a
+ourknowledge,fewhumanclinicalstudieshavesoughtto matching algorithm to limit the effects of patient-related
+compare these 2 adjunctive therapies.14,38 Liu et al29 per- covariates that have been shown to increase RCR failure
+formedaninvivoanimalstudyevaluatingtheinfluenceof rates,wewereunabletocontrolformultipleothervariables
+BMAC and PRP on tendon-to-bone healing in a rabbit thataffectRCRfailure(eg,tearsize,fattyinfiltration,and
+chronicrotatorcuffmodel.Thegroupreportedthatrabbits repairtechnique).Third,clinicallysignificantendpointsin
+treated with BMAC exhibited enhanced mechanical administrativedatasetsareidentifiedusingCPTandICD
+strength of the tendon-to-bone junction and histologically coding. The use of both ICD-9 and ICD-10 and the coding
+
+NEW PAGE
+
+6 Schochetal TheOrthopaedicJournalofSportsMedicine
+changesthatresultedfromchangingfromICD-9toICD-10 Knee Surg Sports Traumatol Arthrosc. 2018;26(1):333-342. doi:10.
+may potentially have affected our results. Thus, we were 1007/s00167-016-3981-9
+unabletoidentifythestructuralfailuresidentifiedonMRI 6. ChahlaJ,CinqueME,PiuzziNS,etal.Acallforstandardizationin
+platelet-richplasmapreparationprotocolsandcompositionreporting.
+orclinicalfailuresbasedonoutcomescoresfromthedata-
+JBoneJointSurgAm.2017;99(20):1769-1779.doi:10.2106/JBJS.16.
+base.Last,wewereunabletoevaluatethetechniquesused
+01374
+forthepreparationandplacementofbothPRPandBMAC. 7. ChenX,JonesIA,TogashiR,ParkC,VangsnessCT.Useofplatelet-rich
+There are currently large variations in preparation tech- plasmafortheimprovementofpainandfunctioninrotatorcufftears:a
+niques that are known to affect cell counts and quality. systematic review and meta-analysis with bias assessment. Am
+Despite these limitations, we believe that an administra- JSportsMed.2020;48(8):2028-2041.doi:10.1177/0363546519881423
+8. CiminoAM,VeazeyGC,McMurtrieJT,etal.Corticosteroidinjections
+tivedatabase is ausefuland powerful method to examine
+mayincreaseretearandrevisionratesofrotatorcuffrepair:asystem-
+outcomes associated with biologic applications because of
+aticreview.Arthroscopy.2020;36(8):2334-2341.doi:10.1016/j.arthro.
+itsabilitytostudyalargenumberofpatientsacrossarep-
+2020.04.044
+resentativepopulation. 9. ColeBJ,VermaNN,YankeAB,etal.Prospectiverandomizedtrialof
+Despite the limited number ofcases listed inthe Pearl- biologicaugmentationwithmesenchymalstemcellsinpatientsunder-
+Diver database, there remains some relative value to the going arthroscopic rotator cuff repair. Orthop J Sports Med. 2019;
+differences in BMAC outcomes. As mandated by the 7(7)(suppl5):2325967119S0027.doi:10.1177/2325967119s00275
+10. DieboldG,LamP,WaltonJ,MurrellGAC.Relationshipbetweenage
+21stCenturyCuresAct,whichwaspassedbyCongressand
+and rotator cuff retear: a study of 1,600 consecutive rotator cuff
+was signed into law in late 2016, the US Food and Drug
+repairs.JBoneJointSurgAm.2017;99(14):1198-1205.doi:10.2106/
+Administration has stated that it will consider real-world JBJS.16.00770
+evidence (RWE) and real-world outcomes (RWOs) when 11. FluryM,RickenbacherD,SchwyzerHK,etal.Doespureplatelet-rich
+reviewing information on regenerative medicine treat- plasmaaffectpostoperativeclinicaloutcomesafterarthroscopicrota-
+ments.2,3RWEandRWOsaregatheredoutsideofconven- torcuffrepair?Arandomizedcontrolledtrial.AmJSportsMed.2016;
+tionalclinicaltrialsandincludedataobtainedfrompatient 44(8):2136-2146.doi:10.1177/0363546516645518
+12. GalatzLM,BallCM,TeefeySA,MiddletonWD,YamaguchiK.The
+charts, laboratory reports, patient registries, pragmatic
+outcomeandrepairintegrityofcompletelyarthroscopicallyrepaired
+clinicaltrials,surveys,andmobilehealthdevices.RWEand
+large andmassive rotator cuff tears. J Bone Joint Surg Am. 2004;
+RWOscomplementevidenceobtainedfromRCTsandpro- 86(2):219-224.doi:10.2106/00004623-200402000-00002
+vide information about the long-term safety and effective- 13. HarrymanDT,MackLA,WangKY,JackinsSE,RichardsonML,Mat-
+ness in large populations in a more natural setting. senFA.Repairsof therotatorcuff:correlation offunctionalresults
+Furthermore, RWE and RWOs allow stakeholders and withintegrityofthecuff.JBoneJointSurgAm.1991;73(7):982-989.
+14. Haunschild ED, Gilat R, Fu MC, Condron N, Cole BJ. Biologics in
+healthinsurance companiesto assess therisk-benefit and
+shoulderandelbowpathology.JSESRevRepTech.2021;1(1):1-6.
+economicvalueofmedicalinterventions.
+doi:10.1016/j.xrrt.2020.11.002
+15. HernigouP,FlouzatLachanietteCH,DelambreJ,etal.Biologicaug-
+mentationofrotatorcuffrepairwithmesenchymalstemcellsduring
+CONCLUSION arthroscopy improves healing and prevents further tears: a case-
+controlled study. Int Orthop. 2014;38(9):1811-1818. doi:10.1007/
+TheapplicationofBMACatthetimeofRCRappearstobe s00264-014-2391-1
+associated with a significant reduction in the incidence of 16. HurleyET,LimFatD,MoranCJ,MullettH.Theefficacyofplatelet-rich
+revision ipsilateral shoulder surgery. The difference in plasmaand platelet-rich fibrin in arthroscopic rotator cuffrepair: a
+meta-analysis of randomized controlled trials. Am J Sports Med.
+RCRrevisionratesforBMAC-treatedshouldersrepresents
+2019;47(3):753-761.doi:10.1177/0363546517751397
+early RWE in favor of biologic augmentation of RCR that
+17. IijimaY,MatsukiK,HoshikaS,etal.Relationshipbetweenpostoper-
+should be considered alongside the outcomes of prospec- ativeretearandpreoperativefattydegenerationinlargeandmassive
+tivelydesignedtrials. rotatorcufftears:quantitativeanalysisusingT2mapping.JShoulder
+ElbowSurg.2019;28(8):1562-1567.doi:10.1016/j.jse.2019.04.036
+18. Jeong JY, Park KM, Sundar S, Yoo JC. Clinical and radiologic
+REFERENCES outcomeofarthroscopicrotatorcuffrepair:single-rowversustrans-
+osseous equivalent repair. J Shoulder Elbow Surg. 2018;27(6):
+1. AgoutC,BerhouetJ,BoujuY,etal.Clinicalandanatomicresultsof 1021-1029.doi:10.1016/j.jse.2017.10.040
+rotatorcuffrepairat10yearsdependonteartype.KneeSurgSports 19. JoCH,ShinJS,LeeYG,etal.Platelet-richplasmaforarthroscopic
+TraumatolArthrosc.2018;26(8):2490-2497.doi:10.1007/s00167-018- repair of large to massive rotator cuff tears: a randomized, single-
+4854-1 blind,parallel-grouptrial.AmJSportsMed.2013;41(10):2240-2248.
+2. BarnishM,TurnerS.Thevalueofpragmaticandobservationalstud- doi:10.1177/0363546513497925
+ies in health care and public health. Pragmatic Obs Res. 2017;8: 20. Jo CH, Shin JS, Shin WH, Lee SY, Yoon KS, Shin S. Platelet-rich
+49-55.doi:10.2147/POR.S137701 plasmaforarthroscopicrepairofmediumtolargerotatorcufftears:
+3. BlondeL,KhuntiK,HarrisSB,MeizingerC,SkolnikNS.Interpretation a randomized controlled trial. Am J Sports Med. 2015;43(9):
+andimpactofreal-worldclinicaldataforthepracticingclinician.Adv 2102-2110.doi:10.1177/0363546515587081
+Ther.2018;35(11):1763-1774.doi:10.1007/s12325-018-0805-y 21. JostB,PfirrmannCW,GerberC,SwitzerlandZ.Clinicaloutcomeafter
+4. CancienneJM,BrockmeierSF,KewME,WernerBC.Perioperative structuralfailureofrotatorcuffrepairs.JBoneJointSurgAm.2000;
+serum25-hydroxyvitaminDlevelsaffectrevisionsurgeryratesafter 82(3):304-314.
+arthroscopicrotatorcuffrepair.Arthroscopy.2019;35(3):763-769.doi: 22. KhazzamM,SagerB,BoxHN,WallaceSB.Theeffectofageonriskof
+10.1016/j.arthro.2018.09.032 retearafterrotatorcuffrepair:asystematicreviewandmeta-analysis.
+5. CassanoJM,KennedyJG,RossKA,FraserEJ,GoodaleMB,Fortier JSESInt.2020;4(3):625-631.doi:10.1016/j.jseint.2020.03.014
+LA.Bonemarrowconcentrateandplatelet-richplasmadifferincell 23. KimJH,KimYS,ParkI,etal.Acomparisonofopen-constructPEEK
+distributionandinterleukin1receptorantagonistproteinconcentration. suture anchor and non-vented biocomposite suture anchor in
+
+NEW PAGE
+
+TheOrthopaedicJournalofSportsMedicine EffectofPRPandBMAConRevisionRCR 7
+arthroscopic rotator cuff repair: a prospective randomized clinical 33. Nishimoto S, Fukuda K, Kawai K, et al. Supplementation of bone
+trial. Arthroscopy. 2020;36(2):389-396. doi:10.1016/j.arthro.2019. marrow aspirate-derived platelet-rich plasmafor treatingradiation-
+08.049 induced ulcer after cardiac fluoroscopic procedures: a preliminary
+24. KimKC,ShinHD,LeeWY,HanSC.Repairintegrityandfunctional report. Indian J Plast Surg. 2012;45(1):109-114. doi:10.4103/0970-
+outcome after arthroscopic rotator cuff repair: double-row versus 0358.96599
+suture-bridge technique. Am J Sports Med. 2012;40(2):294-299. 34. Pandey V, Bandi A, Madi S, et al. Does application of moderately
+doi:10.1177/0363546511425657 concentratedplatelet-richplasmaimproveclinicalandstructuralout-
+25. KunzeKN,RossiLA,BeletskyA,ChahlaJ.Doestheuseofknotted comeafterarthroscopicrepairofmedium-sizedtolargerotatorcuff
+versusknotlesstransosseousequivalentrotatorcuffrepairtechnique tear? A randomized controlled trial. J Shoulder Elbow Surg. 2016;
+influencetheincidenceofretears?Asystematicreview.Arthroscopy. 25(8):1312-1322.doi:10.1016/j.jse.2016.01.036
+2020;36(6):1738-1746.doi:10.1016/j.arthro.2020.01.052 35. PulatkanA,AnwarW,TokdemirS,AkpinarS,BilselK.Theclinicaland
+26. Lafosse L, Brozska R, Toussaint B, Gobezie R. The outcome and radiologic outcomeof microfracture onarthroscopic repair for full-
+thickness rotator cuff tear. J Shoulder Elbow Surg. 2020;29(2):
+structuralintegrityofarthroscopicrotatorcuffrepairwithuseofthe
+252-257.doi:10.1016/j.jse.2019.07.010
+double-rowsutureanchortechnique.JBoneJointSurgAm.2007;
+36. RandelliP,RandelliF,RagoneV,etal.Regenerativemedicineinrotator
+89(7):1533-1541.doi:10.2106/JBJS.F.00305
+cuffinjuries.BiomedResInt. 2014;2014:129515.doi:10.1155/2014/
+27. LeeYS,JeongJY,ParkCD,KangSG,YooJC.Evaluationoftherisk
+129515
+factorsforarotatorcuffretearafterrepairsurgery.AmJSportsMed.
+37. SaltzmanBM,JainA,CampbellKA,etal.Doestheuseofplatelet-rich
+2017;45(8):1755-1761.doi:10.1177/0363546517695234
+plasma atthetime ofsurgery improveclinical outcomes in arthro-
+28. LiH,ChenY,ChenJ,HuaY,ChenS.Largecriticalshoulderanglehas
+scopic rotator cuff repair when compared with control cohorts? A
+higherriskoftendonretearafterarthroscopicrotatorcuffrepair.AmJ
+systematic review of meta-analyses. Arthroscopy. 2016;32(5):
+SportsMed.2018;46(8):1892-1900.doi:10.1177/0363546518767634
+906-918.doi:10.1016/j.arthro.2015.10.007
+29. LiuXN,YangCJ,KimJE,etal.Enhancedtendon-to-bonehealingof
+38. SheykhhasanM,ManoochehriH,SamadiP,Fotouhi-ArdakaniR,Kal-
+chronicrotatorcufftearsbybonemarrowaspirateconcentrateina
+horN.Effectofplatelet-richplasmaandmesenchymalstemcellsas
+rabbitmodel.ClinOrthopSurg.2018;10(1):99-110.doi:10.4055/cios.
+two biological alternatives in rotator cuff injury treatment: a mini-
+2018.10.1.99
+review.ResMolMed.2020;7(3):1-8.doi:10.32598/rmm.7.3.1
+30. Mahure SA, Mollon B, Shamah SD, Zuckerman JD, Kwon YW,
+39. WangA,McCannP,ColliverJ,etal.Dopostoperativeplatelet-rich
+Rokito AS. The incidence of subsequent surgery after outpatient
+plasma injections accelerate early tendon healing and functional
+arthroscopicrotatorcuffrepair.Arthroscopy.2016;32(8):1531-1541. recoveryafterarthroscopicsupraspinatusrepair?Arandomizedcon-
+doi:10.1016/j.arthro.2016.01.039 trolled trial. Am J Sports Med. 2015;43(6):1430-1437. doi:10.1177/
+31. MalavoltaEA,GracitelliMEC,Assunc¸a˜oJH,FerreiraNetoAA,Bor- 0363546515572602
+dalo-Rodrigues M,de CamargoOP. Clinical andstructural evalua- 40. Werner BC, Cancienne JM, Browning R, Verma NN, Cole BJ. An
+tionsofrotatorcuffrepairwithandwithoutaddedplatelet-richplasma analysisofcurrenttreatmenttrendsinplatelet-richplasmatherapy
+at 5-year follow-up:aprospective randomized study.AmJSports in the Medicare database. Orthop J Sports Med. 2020;8(2):
+Med.2018;46(13):3134-3141.doi:10.1177/0363546518795895 2325967119900811.doi:10.1177/2325967119900811
+32. MilanoG,SaccomannoMF,CareriS,TaccardoG,DeVitisR,Fab- 41. ZieglerCG,VanSlounR,GonzalezS,etal.Characterizationofgrowth
+bricianiC.Efficacyofmarrow-stimulatingtechniqueinarthroscopic factors,cytokines,andchemokinesinbonemarrowconcentrateand
+rotator cuff repair: a prospective randomized study. Arthroscopy. platelet-richplasma:aprospectiveanalysis.AmJSportsMed.2019;
+2013;29(5):802-810.doi:10.1016/j.arthro.2013.01.019 47(9):2174-2187.doi:10.1177/0363546519832003
+
+NEW PAGE

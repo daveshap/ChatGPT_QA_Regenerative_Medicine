@@ -1,0 +1,564 @@
+Original Research
+Simultaneous Arthroscopic Glenohumeral
+Stabilization and Glenoid Microfracture
+in Young, Active-Duty Military Patients
+Outcomes at 5-Year Follow-up
+Clare K. Green,*† BS, John P. Scanaliato,‡§ MD, Alexis B. Sandler,‡§ MD, John C. Dunn,‡§ MD,
+Emma Covillon,k, and Nata Parnes,k{ MD
+Investigation performed at Carthage Area Hospital, Carthage, New York, USA
+Background:Glenohumeralinstabilityrepresentsacommoncauseofshoulderpainanddisabilityamongactive-dutymembersof
+themilitaryandisassociatedwiththedevelopmentofglenoidosteochondraldefects.
+Purpose:Toreportclinicaloutcomesandsurvivorshipaftercombinedmicrofractureofisolatedchondrallesionsoftheglenoidand
+labralrepairamongyoung,active-dutymilitarypatientsandtocompareoutcomeswiththoseofpatientswhounderwentisolated
+shoulderstabilization.
+StudyDesign:Cohortstudy;Levelofevidence,3.
+Methods:Includedwere31active-dutymilitarypatientsaged<40yearswhounderwentsimultaneousmicrofractureofchondral
+lesionsoftheglenoidandlabralrepairforshoulderinstabilitybetweenJanuary2011andJanuary2017(microfracturegroup)and
+209 patients without chondral defects who underwent shoulder stabilization during the same time period (instability group).
+Preoperativeand5-yearpostoperativeoutcomes(rangeofmotion[ROM],visualanalogscale[VAS]forpain,SingleAssessment
+Numeric Evaluation [SANE] score, American Shoulder and Elbow Surgeons [ASES] shoulder score, and Rowe instability score)
+were compared within and between groups, and separate subgroup analyses were performed to determine whether variant of
+instabilityanddominant-shoulderinvolvementwereassociatedwithworseoutcomes.
+Results: The mean follow-up was significantly longer for the microfracture group versus the instability group (95.58 ± 23.12 vs
+83.38±25.93months;P¼.014).Ageandsexdistributionsweresimilarbetweengroups.Inbothgroups,therewassignificantpre-
+topostoperativeimprovementonalloutcomesscores(P¼.0001forall).Whencomparedwiththeinstabilitycohort,microfracture
+patientshadsignificantlyworsepostoperativeVASpain(2.65±1.78vs1.55±1.92;P¼.003),SANE(79.13±14.43vs91.23±
+13.20; P < .0001), and ASES (79.90 ± 13.87 vs 89.03 ± 14.28; P ¼ .001) scores, as well as decreased ROM in forward flexion
+(151.29(cid:2)±11.76(cid:2)vs155.48(cid:2)±10.3(cid:2);P¼.039)andexternalrotation(63.65(cid:2)±8.34(cid:2)vs65.17(cid:2)±0.64(cid:2);P¼.010).Atlatestfollow-up,
+58%ofmicrofracturepatientshadreturnedtoactive-dutymilitaryservicecomparedwith93.78%ofisolatedinstabilitypatients
+(P<.0001).
+Conclusion: Combined microfracture and arthroscopic labral repair produced modest, albeit statistically significant, improve-
+mentsinpatient-reportedoutcomemeasuresandmaybeareasonabletreatmentoptionforpatientswithchondrallesionswhoare
+notcandidatesforarthroplasty.However,microfracturepatientshadsignificantlyworseoutcomesthanpatientswhounderwent
+stabilizationwithoutconcomitantchondraldefects.
+Keywords:glenoidOCD;instability;labralrepair;microfracture;military
+Membersofthemilitaryexperienceamarkedlyhigherinci- active-dutyservicemembers,withratesofshoulderdisloca-
+dence of shoulder pain and dysfunction when compared tion reported to be 10 times higher than in the general
+withcivilianpopulations.Glenohumeralinstability,inpar- public.5,10,13,23,26,34,35Whileanteriorinstabilityisthemost
+ticular, represents a common cause of disability among commonsubtypeobserved,militarypatientsarealsoatsig-
+nificantly greater risk for posterior and combined-type
+instability when compared with their civilian counter-
+TheOrthopaedicJournalofSportsMedicine,11(2),23259671221146170
+parts.3,26,32,36Arthroscopiclabralrepairhaslongbeencon-
+DOI:10.1177/23259671221146170
+ªTheAuthor(s)2023 sideredtobefirstlineforoperativemanagementofpatients
+Thisopen-accessarticleispublishedanddistributedundertheCreativeCommonsAttribution-NonCommercial-NoDerivativesLicense(https://creativecommons.org/
+licenses/by-nc-nd/4.0/),whichpermitsthenoncommercialuse,distribution,andreproductionofthearticleinanymedium,providedtheoriginalauthorandsourceare
+credited.Youmaynotalter,transform,orbuilduponthisarticlewithoutthepermissionoftheAuthor(s).Forarticlereuseguidelines,pleasevisitSAGE’swebsiteat
+http://www.sagepub.com/journals-permissions.
+1
+
+NEW PAGE
+
+2 Greenetal TheOrthopaedicJournalofSportsMedicine
+withanteriorshoulderinstability.1,24,34Inaddition,recent studyprotocol,andinformedconsentwasobtainedfromall
+data have shown promising outcomes with high rates of includedpatientsafterstudyprocedureswereexplained.
+return to preinjury levels of activity in patients with
+combined-type and posterior instability following arthro-
+Patient Population
+scopicstabilizationprocedures.9,26,36
+Articularcartilagedefectsaretypicallyfoundinpatients
+Included wereactive-duty militarypatients<40years old
+with a history of recurrent instability or shoulder
+whounderwentlabralrepairwithminimum5-yearfollow-
+trauma.8,16,28 Although the exact incidence of glenohum-
+up,definedashavingcompletepre-andpostoperativeout-
+eral chondral lesions is unknown, they are not an uncom- come scores at latest follow-up.22 Excluded were patients
+mon finding during diagnostic arthroscopy.8,16 However,
+(cid:3)40 years old, those with a history of previous shoulder
+management of symptomatic chondral lesions in young,
+surgery, those who underwent concomitant rotator cuff
+activepatientsremainschallenging.Shoulderarthroplasty
+repair at the time of surgery, and those with concomitant
+isthegoldstandardforthesurgicalmanagementofpainful
+humeralheadosteochondraldefects.
+degenerative changes in older populations; however, it is
+All patients had symptoms recalcitrant to nonoperative
+associatedwithhighratesofpersistentlimitationandsub-
+managementincludingphysicaltherapy,nonsteroidalanti-
+sequent discharge from active-duty service in young mili-
+inflammatory drugs, limited-duty profiling, and home
+tary patients.19 Currently, microfracture is the most
+exercise programs before being considered for surgery. In
+evidence-based modality for the operative management of
+addition,allpatientshadreportedsubjectiveglenohumeral
+youngpatientswithisolatedglenoidchondrallesions.8,16,28
+jointinstability andhadpositiveanterior and/or posterior
+Multiple studies have reported promising short-term out-
+apprehension testing on physical examination. Microfrac-
+come data, although longer-term studies have demon-
+ture was indicated in patients with a single, contained
+strated higher risk of reoperation and failure.12,21,25,33
+Outerbridge grade4glenoidarticulardefectinvolvingthe
+Other therapeutic options, however, such as cartilage
+inferiorhalfoftheglenoid.Patientswithlesionsthatwere
+transplantation or autologous chondrocyte implantation, >4cm2,partialthickness,orconfinedtothesuperiorhalfof
+currently lack sufficient evidence to support their use for
+theglenoidwerenotincludedinthisstudy.
+themanagementofglenoidlesions.16,28
+From this cohort of eligible patients, we then identified
+Thepurposeofthisstudywastoreportclinicaloutcomes
+all individuals who had undergone concomitant debride-
+and survivorship following combined microfracture of iso-
+ment and microfracture of Outerbridge grade 4 glenoid
+lated chondral lesions of the glenoid and labral repair
+articular cartilage defects (microfracture cohort) versus
+among active-duty military patients <40 years of age. In
+labralrepairalone(instabilitycohort).
+addition,wesoughttocompareoutcomeswithpatientswho
+underwentshoulderstabilizationsurgeryaloneduringthe
+sametimeperiod.Wehypothesizedthatcombinedglenoid Surgical Procedure
+microfracture and labral repair would produce significant
+Thetechnique ofthe seniorsurgeon(N.P.) didnotchange
+improvements in patient-reported outcome measures
+markedlythroughoutthedurationofthestudy.Allpatients
+(PROMs) at latest follow-up, however, with inferior out-
+were positioned in a modified beach-chair position after
+comes when compared with primary labral repair in
+administration of general anesthesia and a presurgical
+patientswithoutconcomitantchondraldefects.
+interscalene block. An examination was performed under
+anesthesiatoassessrangeofmotion(ROM)andstabilityin
+METHODS the anterior and posterior directions. A Spider hydraulic
+arm holder (Smith & Nephew) was then used to stabilize
+This study was a retrospective analysis of prospectively the operative shoulder and the patient was draped. Diag-
+collected data comparing active-duty military patients nosticarthroscopyoftheglenohumeraljointwasperformed
+<40yearsoldwhounderwentsimultaneousmicrofracture and the capsulolabraltear and chondraldefect wereiden-
+ofisolatedchondrallesionsoftheglenoidandlabralrepair tified. Any additional pathology present in the joint was
+between January 2011 and January 2017 with those who notedatthistimeaswell(Figure1).
+underwentlabralrepairaloneduringthesametimeperiod. After completion of diagnostic arthroscopy, the torn
+Institutional review board approval was obtained for the labrum was mobilized from the glenoid neck. A small
+*AddresscorrespondencetoClareK.Green,BS,GeorgeWashingtonUniversitySchoolofMedicineandHealthSciences,2300IStreetNW,Washington,
+DC20052,USA(email:ckgreen@gwu.edu).
+†GeorgeWashingtonUniversitySchoolofMedicine,WashingtonDC,USA.
+‡DepartmentofOrthopaedicSurgery,WilliamBeaumontArmyMedicalCenter,ElPaso,Texas,USA.
+§DepartmentofOrthopaedicSurgery,TexasTechUniversityHealthSciencesCenter,ElPaso,Texas,USA.
+kDepartmentofOrthopaedicSurgery,CarthageAreaHospital,Carthage,NewYork,USA.
+{Claxton-HepburnMedicalCenter,Ogdensburg,NewYork,USA.
+FinalrevisionsubmittedSeptember8,2022;acceptedSeptember26,2022.
+Oneormoreoftheauthorshasdeclaredthefollowingpotentialconflictofinterestorsourceoffunding:J.C.D.hasreceivedhospitalitypaymentsfrom
+Stryker.N.P.hasreceivedconsultingfeesfromMitek.AOSSMchecksauthordisclosuresagainsttheOpenPaymentsDatabase(OPD).AOSSMhasnot
+conductedanindependentinvestigationontheOPDanddisclaimsanyliabilityorresponsibilityrelatingthereto.
+EthicalapprovalforthisstudywasobtainedfromCarson-Carthage(ref.No.2021-17).
+
+NEW PAGE
+
+TheOrthopaedicJournalofSportsMedicine OutcomesAfterStabilizationandGlenoidMicrofracture 3
+Figure 1. (A) Intraoperative image of a glenoid lesion and
+Figure3.(A)Debridedglenoidlesionfollowingmicrofracture.
+posterior inferior labral tear in the right shoulder of a 30-
+(B)Bloodandstemcellsflowingfromthemicrofracturesite.
+year-old male. (B) Intraoperative image of an Outerbridge
+grade4anteriorinferiorglenoidlesion(12(cid:4)20mm).
+subchondral bone to the depth of approximately 3 to 4 mm,
+spacing the holes 3to 4mmapart (Figure 3A). Arthroscope
+inflowwasterminatedtoverifythattherewasappropriatefill
+ofthedefectwithbonemarrowelements(Figure3B).Suba-
+cromialbursectomywasthenperformedonallpatients,aswe
+have found that the delayfrom injury to operative manage-
+mentoftenexperiencedbyactive-dutymilitarypatientspre-
+disposestheinjuredshouldertothedevelopmentofareactive
+subacromialbursitis,whichweattributetoalteredglenohum-
+eralandscapulothoracickinematics.
+Postoperative Rehabilitation
+Patientsweredischargedthesamedayfollowingtheirpro-
+cedure. Pendulum shoulder and elbow, wrist, and finger
+active ROM exercises without shoulder movement were
+begunoncethepatientexperiencedcompleteresolutionof
+the nerve block. Opioid pain medications were prescribed
+forupto10dayspostoperatively.
+There was no difference in the postoperative protocol
+betweenpatientswhounderwentsimultaneouslabralrepair
+andglenoidmicrofractureandthosewhounderwentlabral
+repairalone.Allpatientswereimmobilizedfor4weeksina
+Figure2.Intraoperativeimagedemonstratingposteriorlabral SmartSling(Ossur)inaneutralrotationposition.At4weeks,
+repair. immobilizationwasdiscontinued,andpassiveforwardflex-
+ionwas started,witha slowprogression of forward flexion
+shaver was then utilized to create a bed of bleeding bone from90(cid:2)to150(cid:2).ActiveROMandprogressivestrengthening
+along the neck of the glenoid. The drill guide for the 3.0 oftheoperativeshoulderwasstartedat6weekspostopera-
+GryphonBRPEEKanchor(DePuyMitek)wasintroduced tively. All patients attended physical therapy at the same
+andpositioned onthe faceof the glenoid.Apilot holewas militaryphysicaltherapygroupandfollowedthesamepost-
+drilled, and the anchor was positioned into the glenoid. A operative rehabilitation protocol. Return to unrestricted
+suture passer was then used to shuttle one of the suture activity was allowed as early as 6 months postoperatively,
+limbsthroughthecapsuleandlabrum.Low-profilesliding after the patient was cleared by physical therapy and
+knotsweretiedarthroscopicallywithcaretakentoposition endorsedsubjectivereadinesstoreturntofullduty.
+theknotsawayfromtheglenoidface(Figure2).
+Following the completion of labral repair, additional con- Data Collection
+comitant intra-articular procedures were completed. Slight
+tractionwasappliedtothehumeralheadtoaidwithaccess Patient demographics including age, laterality, and mili-
+totheinferioraspectoftheglenohumeraljoint.Forpatients taryoccupationwerecollected.Preoperativeandpostoper-
+undergoingmicrofractureofisolatedglenoidchondrallesions, ativedataincludedROM,theSingleAssessmentNumeric
+the loose cartilage marginssurrounding the chondral defect Evaluation (SANE) score, visual analog scale (VAS) for
+weredebridedwithanarthroscopicshaver,ringcurette,and/ pain, Rowe instability score, and American Shoulder and
+orarthroscopicbiter.Aringcurettewasusedtocreatevertical Elbow Surgeons (ASES) shoulder score; all data were
+walls around the defect, and the layer of calcified cartilage obtained as part of standard of care at all patient visits.
+was debrided with a curette, taking care to not violate the Return to activity and complications were also collected
+subchondralbone.Amicrofractureawlwasusedtopiercethe aspartofthepostoperativeevaluation.
+
+NEW PAGE
+
+4 Greenetal TheOrthopaedicJournalofSportsMedicine
+Figure4.Flowchartofpatientselection.w/out,without.
+Statistical Analysis of an isolated glenoid osteochondrosis dissecans. Of those
+36 patients, 3 had concomitant rotator cuff repair and 2
+Statistical analysis was performed using SPSS Statistics were lost to follow-up, leaving 31 patients (31 shoulders)
+(Version25.0;IBMCorp).Continuousdataweredescribed in the microfracture cohort. Of the 252 patients without
+by a combination of mean, standard deviation, range and chondral defectswho underwent isolated labralrepair, 17
+95%CI.Apairedttestwasusedtocomparethedifferences underwent rotator cuff repair, 13 had an osteochondral
+betweenthepreoperativeandpostoperativeresultswithin defect of the humeral head, and 13 were lost to follow-up,
+the microfracture and instability groups. A separate sub- leaving 209 patients for final analysis in the instability
+group analysis was performed to determine whether out- cohort(Figure4).
+comes differed between dominant and nondominant arm All patients in the microfracture group and 93.30% of
+involvement. In addition, an ordinary 1-way analysis of instability patients were male, and the mean patient age
+variancewasusedtocomparecontinuousdataacrossthree was31.90yearsinthemicrofracturecohortand29.84years
+groupstodeterminewhetheroutcomesdifferedbyvariant in the instability group. The microfracture cohort had a
+ofinstability.Chi-squareandFisherexacttestswereused significantlylongeraveragefollow-upwhencomparedwith
+to compare categorical variables between groups. Statisti- theinstabilitygroup(95.58±23.12vs83.38±25.93months;
+calsignificancewassetatP<.05inallcases. P ¼ .014) (Table 1). Within the microfracture cohort, 11
+As clinical significance thresholds after combined glen- patients had posterior instability (35.48%), 9patients had
+oidmicrofractureandlabralrepairhavenotbeendefined, anteriorinstability(29.03%),and11hadcombinedanterior
+existingvaluesfortheminimalclinicallyimportantdiffer- posterior instability (35.48%). This did not differ signifi-
+ence (MCID), substantial clinical benefit (SCB), and cantly from the distribution observed in the instability
+Patient Acceptable Symptom State (PASS) after shoulder group, in which 73 patients had posterior instability
+arthroplasty were used. Similarly, previously determined (34.93%; P ¼ .9517), 84 patients had anterior instability
+values for maximum outcome improvement (MOI) for the (40.19%; P ¼ .2340), and 52 patients had combined insta-
+SANEandASESafterarthroscopicrotatorcuffrepairwere bility (24.88%; P ¼ .2105). Cartilage damage according to
+usedforthisanalysis.2,14,29,30 1.5-T magnetic resonance arthrogram was seen in 18
+patients(58%)inthemicrofracturecohort.
+Allpatientsinbothcohortswereactive-dutymilitaryat
+RESULTS time of surgery; 23 (74.19%) of the microfracture patients
+and157(75.12%)oftheinstabilitypatientsweresoldiersin
+Duringthestudyperiod,theseniorsurgeonperformed288 a combat arms military occupation specialty (P ¼ .9115).
+labral repairs for shoulder instability on military patients Combat arms was defined as nonadministrative, nonsup-
+<40yearsold.Atotalof36hadconcomitantmicrofracture port infantry, artillery, or military police occupations. Of
+
+NEW PAGE
+
+TheOrthopaedicJournalofSportsMedicine OutcomesAfterStabilizationandGlenoidMicrofracture 5
+TABLE1
+ComparisonofBaselineDemographics,PreoperativeOutcomeScores,andConcomitantProceduresBetweenStudyGroupsa
+Microfracture Instability
+(n¼31) (n¼209) P
+Follow-up,mo 95.58±23.12 83.38±25.93 .0140
+Age,y,mean±SD 31.90±6.28 29.84±7.54 .1490
+Malesex 31(100) 195(93.30) .2260
+Rightshoulderaffected 21(67.74) 125(59.81) .0998
+Dominantshoulderaffected 17(54.84) 121(57.89) .7481
+Combatarmsb 23(74.19) 157(75.12) .9115
+Numberofanchorsused 3.55±1.48 3.71±1.39 .5537
+Traumaticetiology 22(70.97) 142(67.94) .7354
+Timetosurgery,mo 27.87±31.44 28.96±36.31 .8742
+Preoperativeoutcomescores
+VASpain 8.10±1.47 7.43±1.80 .0493
+SANE 46.61±19.08 48.25±17.38 .6288
+ASES 46.13±10.15 48.90±12.28 .2328
+Rowe 31.77±6.26 36.85±15.94 .0811
+PreoperativeROM
+Forwardflexion,deg 154.52±6.99 154.59±8.78 .9662
+Externalrotation,deg 65.39±6.95 66.48±6.90 .4130
+Internalrotationc T10.55±2.53 T9.41±2.91 .0398
+Concomitantarthroscopicprocedures
+Subacromialbursectomy 31(100) 209(100) >.9999
+Distalclavicleresection 3(9.68) 24(11.48) >.9999
+Subpectoralbicepstenodesis 6(19.35) 78(37.32) .0401
+DebridementofpartialRCtear 3(9.68) 16(7.66) .7199
+Debridementoftype1SLAPlesion 11(3.23) 0(0) .1292
+aDataarereportedasmean±SDorn(%)unlessotherwiseindicated.ASES,AmericanShoulderandElbowSurgeons;RC,rotatorcuff;
+ROM,rangeofmotion;SANE,SingleAssessmentNumericEvaluation;SLAP,superiorlabrumanterior-posterior;VAS,visualanalogscale.
+bDefinedasnonadministrative/nonsupportinfantry,artillery,and/ormilitarypolice.
+cMeasuredashighestthoraciclevelreached.
+the 8 patients in the microfracture cohort who were not comparing postoperative outcomes between groups,
+combat arms, 2 were mechanics, 2 were drivers, 1 was a patients in the microfracture cohort had significantly
+computer technician, 1 was a supply specialist, 1 was a worse VAS, SANE, and ASES scores (P ¼ .003, <.0001,
+radaroperator,and1wasafirefighter. and.001,respectively).Inaddition,postoperativeROMin
+Regarding concomitant procedures, arthroscopic suba- forward flexion and external rotation was significantly,
+cromialbursectomy wasperformed onall patientsin both although only slightly, less in the microfracture cohort
+cohorts.Therewasnosignificantdifferenceinthenumber (P¼.039and.010,respectively).
+of patients undergoing concomitant arthroscopic debride- Intheinstabilitycohort,93.78%ofpatientshadreturned
+ment of a rotator cuff partial tendon tear, arthroscopic toactivedutyatlatestfollow-upcomparedwith58.06%of
+debridement of a type 1 superior labrum anterior- microfracture patients (P < .0001). A total of 13 patients
+posteriorlesion,orarthroscopicdistalclavicleresection.A (41.94%) in the microfracture group had been medically
+total of 78 patients in the instability cohort underwent dischargedfromthemilitaryattheendofthestudyperiod.
+arthroscopic-assisted subpectoral biceps tenodesis com- Therewasnodifferenceinthenumberofcomplicationsor
+pared with 6 in the microfracture group (19.35% vs patients requiring revision surgery between the 2 groups
+37.32%;P¼.0401).Allchondrallesionswerelocatedinthe (Table 3). One patient (3.23%) inthe microfracture cohort
+inferioraspectoftheglenohumeraljoint.Theaveragesize reported worsening of symptoms when compared with his
+oftheglenoiddefectinthemicrofracturegroupwas1.23± preoperativestatusatlatestfollow-up.
+1.03 cm2. Patients in the microfracture group had signifi- MostmicrofracturepatientsmettheMCIDforthepain
+cantlyhigherpreoperativeVASscores(8.10±1.47vs7.43± VAS,SANEandASES,and7(22.58%),17(54.84%),and20
+1.80; P ¼ .049) and decreased internal rotation (T 10.55 ± (64.52%) microfracture patients achieved the PASS for
+2.53 vs T 9.41 ± 2.91; P ¼ .040). At the latest follow-up, VAS,SANE,andASES,respectively(Table4).Whencom-
+statisticallysignificantimprovementsinVASpain,SANE, pared within the microfracture cohort by maintenance of
+ASES,andRowescoreswereobservedinbothgroups(P¼ active duty, patients who were able to return to military
+.0001forall)(Table2).Outcomescoresinthemicrofracture serviceweresignificantlymorelikelytoachievethePASS
+cohort did not differ significantly by shoulder dominance, and MOI for the ASES and SANE, as well as reach the
+size of chondral defect, or type of instability. When PASS for the VAS, when compared with those who were
+
+NEW PAGE
+
+6 Greenetal TheOrthopaedicJournalofSportsMedicine
+TABLE2
+PreoperativeVersusPostoperativeOutcomesWithinGroupsa
+Microfracture(n¼31) Instability(n¼209)
+Variable Preoperative Postoperative P Preoperative Postoperative P
+VASpain 8.10±1.47 2.65±1.78 .0001 7.43±1.80 1.55±1.92 .0001
+SANE 46.61±19.08 79.13±14.43 .0001 48.25±17.38 91.23±13.20 .0001
+ASES 46.13±10.15 79.90±13.87 .0001 48.90±12.28 89.03±14.28 .0001
+Rowe 31.77±6.26 85.81±13.61 .0001 36.85±15.94 90.96±15.57 .0001
+Forwardflexion,deg 154.52±6.99 151.29±11.76 .1878 154.59±8.78 155.48±10.3 .3449
+Externalrotation,deg 65.39±6.95 63.65±8.34 .3060 66.48±6.90 65.17±0.64 .0986
+Internalrotation T10.55±2.53 T10.16±3.31 .5324 T9.41±2.91 T9.74±2.90 .2464
+aDataarepresentedasmean±SD.Internalrotationmeasuredtothoracicspinelevel.BoldfacePvaluesindicatestatisticallysignificant
+difference(P<.05).ASES,AmericanShoulderandElbowSurgeons;SANE,SingleAssessmentNumericEvaluation;VAS,visualanalogscale.
+TABLE3 TABLE4
+ComparisonofPostoperativeOutcomesBetweenGroupsa ComparisonofPatientsMeetingtheMCID,SCB,andPASS
+BetweenGroupsa
+Microfracture Instability
+(n¼31) (n¼209) P Microfracture(n¼31) Instability(n¼209) P
+VASpain 2.65±1.78 1.55±1.92 .0030 ASES
+SANE 79.13±14.43 91.23±13.20 <.0001 MCID 30(96.77) 195(93.30) .7001
+ASES 79.90±13.87 89.03±14.28 .0010
+SCB 14(45.16) 148(70.81) .0044
+Rowe 85.81±13.61 90.96±15.57 .0818
+PASS 20(64.52) 179(85.65) .0035
+Forwardflexion,deg 151.29±11.76 155.48±10.3 .0391 MOI 12(38.71) 154(73.68) <.0001
+Externalrotation,deg 63.65±8.34 65.17±0.64 .0095 SANE
+Internalrotation T10.16±3.31 T9.74±2.90 .4609
+MCID 20(64.52) 161(77.03) .1309
+<
+Returnedtoactiveduty 18(58.06) 196(93.78) .0001 SCB 6(19.35) 59(28.23) .2994
+Complications 0(0) 12(5.74) .3734 PASS 17(54.84) 186(89.00) <.0001
+Revisionsurgery 0(0) 10(4.78) .3685 <
+MOI 11(35.48) 154(73.68) .0001
+VASpain
+aDataarepresentedasmean±SDorn(%).BoldfacePvalues
+MCID 31(100) 200(95.69) .6092
+indicate statistically significant difference between groups (P <
+SCB 27(87.10) 177(84.69) >.9999
+.05).ASES,AmericanShoulderandElbowSurgeons;SANE,Sin-
+PASS 7(22.58) 125(59.81) .0001
+gleAssessmentNumericEvaluation;VAS,visualanalogscale.
+aDataarepresentedasn(%).BoldfacePvaluesindicatestatis-
+tically significant difference between groups (P < .05). ASES,
+medicallydischarged(Table5).Whencomparedwithinsta-
+AmericanShoulderandElbowSurgeons;MCID,minimalclinically
+bility patients, patients in the microfracture cohort were important difference; MOI, maximum outcome improvement;
+significantly less likely to meet the SCB, PASS, and MOI PASS,PatientAcceptableSymptomState;SANE,SingleAssess-
+fortheASES(P¼.004,.004,and<.0001,respectively),the mentNumericEvaluation;SCB,substantialclinicalbenefit;VAS,
+PASSandMOIfortheSANE(P<.0001forboth),andthe visualanalogscale.
+PASSfortheVAS(P¼.0001).
+ourstudycohort,thiswascompoundedbytherealitythat
+militarypatientswithshoulderpainareahistoricallychal-
+DISCUSSION
+lengingpopulationtomanage.Thispopulationhasamuch
+In our cohort of 31 young, active-duty servicemembers, higher incidence of shoulder instability when compared
+combined microfracture and labral repair were found to with civilians, as well as an increased likelihood of poor
+produce modest, albeit statistically significant, improve- postoperative outcomes and complications.24,26,34-36 This
+mentsinPROMsatmidtermfollow-up.However,patients islikelyattributabletothehighphysicaldemandsofmany
+inthemicrofracturecohorthadsignificantlyworsepostop- active-dutymilitaryjobs.4,17,20Whiletheexactincidenceof
+erativeoutcomescorescomparedwithpatientsundergoing symptomatic glenoid osteochondral defects in military
+labralrepairwithoutconcomitantglenoidmicrofracture.At patients is unknown, it would be reasonable to presume
+the end of the study period, only 58% of microfracture thattheselesionsoccurmoreofteninmembersofthemil-
+patientshadreturnedtoactive-dutymilitaryservicecom- itary than in civilians given their close association with
+paredwithover93%ofpatientsintheinstabilitygroup. instability and previous dislocation.16,28 Out of the 288
+Symptomatic glenoid chondral defects are at baseline a young,active-dutymilitarypatientsscreenedforinclusion
+difficultpathologytotreat,withlittleevidencetosupportor inthisstudy,12.5%werefoundtohaveaglenoidosteochon-
+refutethefewexistingoptionsforsurgicalmanagement.In dral defect. Although there is a paucity of outcome data
+
+NEW PAGE
+
+TheOrthopaedicJournalofSportsMedicine OutcomesAfterStabilizationandGlenoidMicrofracture 7
+TABLE5 bases.35 In addition, despite experiencing statistically sig-
+ComparisonofMicrofracturePatientsMeetingtheMCID, nificant improvements in shoulder function and pain,
+SCB,andPASSbyMaintenanceofActiveDutya active-duty military service may simply be too physically
+strenuousforthesepatientspostoperatively.Interestingly,
+MaintainedActiveDuty Discharged the rate of medical discharge in the microfracture cohort
+(n¼18) (n¼13) P
+was noticeably higher when compared with rates in both
+our instability cohort, as well as those reported by previ-
+ASES
+MCID 18(100) 12(92.31) .4194 ously published studies looking at shoulder stabilization
+SCB 11(61.1) 3(23.10) .0669 inmilitarypatients.Inacohortof52patientsundergoing
+PASS 15(83.3%) 5(38.50) .0209 270(cid:2) labral repair for combined instability, 92.31% were
+MOI 11(61.1) 1(7.69) .0034 able to maintain active-duty service.26 Similarly, 91.67%
+SANE of patients returned to military duty after double-pulley
+MCID 14(77.80) 6(46.20) .1277 remplissage in a cohort with off-track anterior shoulder
+SCB 5(27.80) 1(7.69) .3589 instability,27 and 93.75% of patients were able to return
+PASS 15(83.33) 2(15.38) .0003
+to preinjury levels of work following combined biceps
+MOI 11(61.11) 0(0) .0004
+tenodesisandlabralrepairfortypeVIII superior labrum
+VASpain
+anterior-posterior lesions with posterior instability.15
+MCID 18(100) 13(100) >.999
+SCB 17(94.44) 10(76.92) .2836 These findings align with the high rate of return to
+PASS 7(38.88) 0(0) .0245 active-dutyobservedinourinstabilitycohortandsuggest
+thatpatientswithconcurrentcartilagepathologymaybe
+aDataarepresentedasn(%).BoldfacePvaluesindicatestatis- significantly less likely to return to preinjury levels of
+tically significant difference between groups (P < .05). ASES, activitywhencomparedwiththosewithinstabilityalone.
+AmericanShoulderandElbowSurgeons;MCID,minimalclinically
+It is noteworthy that, whereas fewer microfracture
+important difference; MOI, maximum outcome improvement;
+patients achieved the SCB or PASS for the ASES and
+PASS,PatientAcceptableSymptomState;SANE,SingleAssess-
+SANE,allmicrofracturepatientsincludedinthestudymet
+mentNumericEvaluation;SCB,substantialclinicalbenefit;VAS,
+theMCIDforpainVASandnearly90%achievedtheSCB
+visualanalogscale.
+for pain VAS. While the objective when treating young,
+active patientsistorestorefunction andallowpatientsto
+concerning the operative treatment of glenoid osteochon-
+returntopreinjurylevelsofactivity,thesefindingsdosug-
+dral defects in young patients, microfracture is currently gestthatcombinedmicrofractureandarthroscopicstabili-
+themostevidence-basedmodalityavailable.8,16,28 zation may offer some clinical benefit, particularly with
+We are not aware of any previously published studies regard to pain control, in patients with coexistent labral
+reporting outcomes following combined glenoid microfrac- and cartilage injuries. It is also of interest that fewer
+tureandstabilization;however,ourfindingsareofinterest patients in our study experienced postoperative complica-
+when compared with available outcome data following tionsorprogressedtofurthersurgerywhencomparedwith
+microfractureofglenohumeralcartilagelesions.Oneanal- military patients undergoing total shoulder arthroplasty.
+ysisof17shouldersshoweda10-yearsurvivorshiprateof Whileshoulderarthroplastymaybeindicatedfortheoper-
+66.7%.33 Another study by Hill et al18 reported modest ativemanagementofolderpatientswithchondraldamage,
+improvementsinpainandfunctionalscoresfollowingcon- astudybyKusnezovetal19foundthatinacohortofyoung
+current rotator cuff repair and glenohumeral microfrac- militarypatientsundergoingshoulderarthroplasty,46.2%
+ture. A study by Frank et al11 showed a return to experienced short-term complications and 23.1% required
+preoperativeactivitylevelof88%inacohortof16patients reoperation.Inaddition,weight-liftingrestrictionsaregen-
+atmidterm follow-up. However, other longer-term studies erally imparted upon patients following shoulder arthro-
+havereportedclinicalfailureratesashighas42%withover plasty, which is generally incompatible with the physical
+one-fifth of patients converting to arthroplasty.12,21,25,31 demands of active-duty military service. Further studies
+While 42% of patients in our study were medically dis- areneededtofullyelucidatetheidealmanagementofosteo-
+charged from the military, 58% were able to maintain chondral lesions in unstable shoulders; however, our
+active-duty status at latest follow-up. No patients in our results indicate that combined microfracture and labral
+cohorthadprogressedtofurthersurgeryattheconclusion repairmayofferyoungpatientssomeclinicallymeaningful
+ofthestudyperiod,andofthe13patientsthatweremed- improvement in shoulder pain and function with lower
+ically discharged, all but 1 demonstrated improvement in rates of complication and need for further surgery when
+symptomsfollowingsurgery. comparedwitharthroplastyatayoungage.
+While therate ofreturn toactive-duty service observed
+waslowerinthemicrofracturecohortthananticipated,we Limitations
+believethisfindingisattributabletomultiplefactors.First,
+it is possible that prolonged time on restricted duty may There are several limitations to this study. First, our lim-
+have initiated medical separation in some patients.6,7 ited sample size and observational study design both rep-
+Extended periods from diagnosis to definitive treatment resent potential sources of selection bias in this
+arecommonamonginjuredmilitarypatients,oftendueto investigation. In addition, our microfracture cohort was
+variables such as deployment and transfer between composed of an entirely male active-duty population,
+
+NEW PAGE
+
+8 Greenetal TheOrthopaedicJournalofSportsMedicine
+potentially limiting the generalizability of our results to young, active patients. Arthroscopy. 2010;26(5):685-696. doi:10.
+nonmilitary patients. The MCID, PASS, SCB, and MOI 1016/J.ARTHRO.2009.10.017
+valuesusedinthisstudyhavenotbeendefinedpreviously 9. ErnatJJ,YheulonCG,ShahaJS.Arthroscopicrepairof270-and360-
+degreeglenoidlabrumtears:asystematicreview.Arthroscopy.2020;
+for this procedure, and therefore values previously estab-
+36(1):307-317.doi:10.1016/J.ARTHRO.2019.07.027
+lishedforshoulderarthroplastyand/orarthroscopicrotator
+10. FlintJH,PickettA,OwensBD,etal.Recurrentshoulderinstabilityina
+cuff repair were used.2,14,29,30 Follow-up imaging was not
+young, active, military population and its professional implications.
+performed, limiting our ability to determine the extent of SportsHealth.2018;10(1):54-59.doi:10.1177/1941738117707177
+fibrocartilageformationatthesiteofthedefect.Duetothe 11. FrankJK,HeubererPR,LakyB,AnderlW,PauzenbergerL.Gleno-
+nature of our database, additional information regarding humeralmicrofracturingofcontainedglenohumeraldefects:mid-to
+mechanism of injury or number of instability events was long-term outcome. Arthrosc Sport Med Rehabil. 2020;2(4):
+e341-e346.doi:10.1016/J.ASMR.2020.04.016
+not available, nor was information regarding activity
+12. FrankRM,VanThielGS,SlabaughMA,RomeoAA,ColeBJ,Verma
+restriction profile status for patients who returned to
+NN.Clinicaloutcomesaftermicrofractureoftheglenohumeraljoint.
+active-duty military service. Last, all surgeries were per-
+Am J Sports Med. 2010;38(4):772-781. doi:10.1177/0363546
+formedbytheseniorsurgeon,whoisashoulder-elbowfel- 509350304
+lowship–trainedsurgeon. 13. GalvinJW,ErnatJJ,WatermanBR,StadeckerMJ,ParadaSA.The
+epidemiologyandnaturalhistoryofanteriorshoulderinstability.Curr
+Rev Musculoskelet Med. 2017;10(4):411-424. doi:10.1007/S12178-
+017-9432-5
+CONCLUSION
+14. Gowd AK, Charles MD, Liu JN, et al. Single Assessment Numeric
+Evaluation(SANE)isareliablemetrictomeasureclinicallysignificant
+Combinedmicrofractureandarthroscopiclabralrepairpro-
+improvements following shoulder arthroplasty. J Shoulder Elbow
+duced modest, albeit statistically significant, improve-
+Surg.2019;28(11):2238-2246.doi:10.1016/J.JSE.2019.04.041
+ments in PROMs and may be a reasonable treatment 15. GreenCK,ScanaliatoJP,DuvallO,EckhoffMD,DunnJC,ParnesN.
+option for patients with isolated chondral defects who are Bicepstenodesiscombinedwitharthroscopicposteriorlabralrepair
+not candidates for arthroplasty. However, microfracture fortypeVIIISLAPlesionsinactive-dutymilitarypatientsyieldsexcel-
+patientshadsignificantlyworsePROMsthanpatientswho lentreturntomilitaryduty.Arthroscopy.2022;38(9):2620-2627.doi:
+10.1016/J.ARTHRO.2022.03.021
+underwent stabilization without concomitant chondral
+16. GrossCE,ChalmersPN,ChahalJ,etal.Operativetreatmentofchon-
+defects. At latest follow-up, only 58% of microfracture
+dral defects in the glenohumeral joint. Arthroscopy. 2012;28(12):
+patientswereabletomaintainactive-dutymilitaryservice
+1889-1901.doi:10.1016/J.ARTHRO.2012.03.026
+atmidtermfollow-upcomparedwith>93%ofpatientswith 17. HauretKG,JonesBH,BullockSH,Canham-ChervakM,CanadaS.
+isolatedinstability. Musculoskeletal injuries description of an under-recognized injury
+problem among military personnel. Am J Prev Med. 2010;
+38(1)(suppl):S61-S70.doi:10.1016/J.AMEPRE.2009.10.021
+18. HillBW,SinghAM,AstolfiM,HorneffJG,SchochBS,AbboudJA.
+REFERENCES
+Outcomesofrotatorcuffrepairwithconcurrentmicrofractureoffocal
+glenohumeral osteoarthritis. J Shoulder Elbow Surg. 2021;30(7):
+1. ArcieroRA,WheelerJH,RyanJB,McBrideJT.ArthroscopicBankart
+S66-S70.doi:10.1016/J.JSE.2021.04.008
+repairversusnonoperativetreatmentforacute,initialanteriorshoul-
+19. KusnezovN,DunnJC,ParadaSA,KilcoyneK,WatermanBR.Clin-
+derdislocations.AmJSportsMed.1994;22(5):589-594.doi:10.1177/
+icaloutcomesofanatomicaltotalshoulderarthroplastyinayoung,
+036354659402200504
+active population. Am J Orthop (Belle Mead NJ). 2016;45(5):
+2. BeckEC,GowdAK,LiuJN,etal.Howismaximumoutcomeimprove-
+e273-e282.
+mentdefinedinpatientsundergoingshoulderarthroscopyforrotator
+20. LovalekarM,HauretK,RoyT,etal.Musculoskeletalinjuriesinmilitary
+cuff repair? A 1-year follow-up study. Arthroscopy. 2020;36(7):
+personnel–-descriptive epidemiology, risk factor identification, and
+1805-1810.doi:10.1016/J.ARTHRO.2020.02.047
+prevention. J Sci Med Sport. 2021;24(10):963-969. doi:10.1016/J.
+3. Bokshan SL, Kotchman HM, Li LT, DeFroda SF, Cameron KL,
+JSAMS.2021.03.016
+OwensBD.IncidenceofposteriorshoulderinstabilityintheUnited
+21. MillettPJ,HuffardBH,HoranMP,HawkinsRJ,SteadmanJR.Out-
+Statesmilitary:demographicconsiderationsfromahigh-riskpopu-
+comesoffull-thicknessarticularcartilageinjuriesoftheshouldertrea-
+lation. Am J Sports Med. 2021;49(2):340-345. doi:10.1177/
+ted with microfracture. Arthroscopy. 2009;25(8):856-863. doi:10.
+0363546520976143
+4. Cameron KL, Owens BD. The burden and management of sports- 1016/J.ARTHRO.2009.02.009
+relatedmusculoskeletalinjuriesandconditionswithintheUSmilitary. 22. Outerbridge RE. The etiology of chondromalacia patellae. J Bone
+Clin Sports Med. 2014;33(4):573-589. doi:10.1016/J.CSM.2014.06. JointSurgBr.1961;43-B:752-757.doi:10.1302/0301-620X.43B4.752
+004 23. OwensBD,DawsonL,BurksR,CameronKL.Incidenceofshoulder
+5. CruzCA,SyJ,MilesR,BottoniCR,MinKS.Surgicaltreatmentof dislocationintheUnitedStatesmilitary:demographicconsiderations
+anteriorshoulderinstabilitywithglenoidbonelosswiththeLatarjet from a high-risk population. J Bone Joint Surg Am. 2009;91(4):
+procedureinactive-dutymilitaryservicemembers.JShoulderElbow 791-796.doi:10.2106/JBJS.H.00514
+Surg.2022;31(3):629-633.doi:10.1016/J.JSE.2021.08.015 24. PimpleMK,DaCostaA,ClasperJC.Managementofshoulderinsta-
+6. DepartmentofDefense.DODInstruction1332.14EnlistedAdminis- bilityinamilitarypopulation.JRArmyMedCorps.2008;154(1):38-40.
+trative Separations. Published 2014. https://www.esd.whs.mil/ doi:10.1136/JRAMC-154-01-11
+Portals/54/Documents/DD/issuances/dodi/133214p.pdf? 25. SalataMJ,KercherJS,BajajS,VermaNN,ColeBJ.Glenohumeral
+ver¼ZXvYTwcxAHtZNAB7hXBZZQ%3D%3D. microfracture. Cartilage. 2010;1(2):121-126. doi:10.1177/
+7. DepartmentofDefense.DODInstruction1332.30CommissionedOffi- 1947603510366577
+cer Administrative Separations. Published 2018. https://www.esd. 26. Scanaliato JP, Dunn JC, Fares AB, Czajkowski H, Parnes N. Out-
+whs.mil/Portals/54/Documents/DD/issuances/dodi/133230p.pdf. comes of 270(cid:2) labral repair for combined shoulder instability in
+8. ElserF,BraunS,DewingCB,MillettPJ.Glenohumeraljointpreser- active-dutymilitarypatients:aretrospectivestudy.AmJSportsMed.
+vation: current options for managing articular cartilage lesions in 2022;50(2):334-340.doi:10.1177/03635465211061602
+
+NEW PAGE
+
+TheOrthopaedicJournalofSportsMedicine OutcomesAfterStabilizationandGlenoidMicrofracture 9
+27. Scanaliato JP, Dunn JC, Fitzpatrick KV, Czajkowski H, Parnes N. 32. SongDJ,CookJB,KrulKP,etal.Highfrequencyofposteriorand
+Double-pulley remplissage in active-duty military population with combined shoulder instability in young active patients. J Shoulder
+off-track anterior shoulder instability results in improvedoutcomes ElbowSurg.2015;24(2):186-190.doi:10.1016/J.JSE.2014.06.053
+and low recurrence at minimum 4-year follow-up. Arthroscopy. 33. WangKC,FrankRM,CotterEJ,etal.Long-termclinicaloutcomesafter
+2022;38(3):743-749.doi:10.1016/J.ARTHRO.2021.09.003 microfractureoftheglenohumeraljoint:average10-yearfollow-up.Am
+28. SeidlAJ,KraeutlerMJ.Managementofarticularcartilagedefectsin JSportsMed.2018;46(4):786-794.doi:10.1177/0363546517750627
+the glenohumeral joint. J Am Acad Orthop Surg. 2018;26(11): 34. WatermanB,OwensBD,TokishJM.Anteriorshoulderinstabilityin
+e230-e237.doi:10.5435/JAAOS-D-17-00057 the military athlete. SportsHealth. 2016;8(6):514-519. doi:10.1177/
+29. SimovitchR,FlurinPH,WrightT,ZuckermanJD,RocheCP.Quanti- 1941738116672161
+fyingsuccessaftertotalshoulderarthroplasty:theminimalclinically 35. WolfeJA,ChristensenDL,MauntelTC,OwensBD,LeClereLE,Dick-
+important difference. J Shoulder Elbow Surg. 2018;27(2):298-305. ensJF.Ahistoryofshoulderinstabilityinthemilitary:wherewehave
+doi:10.1016/J.JSE.2017.09.013 beenandwhatwehavelearned.MilMed.2018;183(5-6):e158-e165.
+30. SimovitchR,FlurinPH,WrightT,ZuckermanJD,RocheCP.Quanti- doi:10.1093/MILMED/USX086
+fyingsuccessaftertotalshoulderarthroplasty:thesubstantialclinical 36. YowBG,WadeSM,BedrinMD,RueJPH,LeClereLE.Theincidenceof
+benefit.JShoulderElbowSurg.2018;27(5):903-911.doi:10.1016/J. posteriorandcombinedAPshoulderinstabilitytreatmentwithsurgical
+JSE.2017.12.014 stabilizationishigherinanactivemilitarypopulationthaninthegeneral
+31. SnowM,FunkL.Microfractureofchondrallesionsoftheglenohumeral population:findingsfromtheUSNavalAcademy.ClinOrthopRelat
+joint.IntJShoulderSurg.2008;2(4):72.doi:10.4103/0973-6042.44142 Res.2021;479(4):704-708.doi:10.1097/CORR.0000000000001530
+
+NEW PAGE

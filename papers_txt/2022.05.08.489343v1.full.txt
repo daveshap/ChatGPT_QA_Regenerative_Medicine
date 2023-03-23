@@ -1,0 +1,1168 @@
+bioRxiv preprint doi: https://doi.org/10.1101/2022.05.08.489343; this version posted May 9, 2022. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+Skeletal muscle cells derived from induced pluripotent stem cells: 
+ A platform for limb girdle muscular dystrophies. 
+ 
+Céline Bruge*123, Marine Geoffroy*4, Manon Benabidès123, Emilie Pellier123, Evelyne Gicquel4, Jamila 
+Dhiab 5, Lucile Hoch123, Isabelle Richard4 and Xavier Nissan123# 
+ 
+1 CECS, I-Stem, Corbeil-Essonnes, 91100, France.  
+2 INSERM U861, I-Stem, Corbeil-Essonnes, 91100, France. 
+3 UEVE U861, I-Stem, Corbeil-Essonnes, 91100, France. 
+4 INTEGRARE, Genethon, Inserm, Univ Evry, Université Paris-Saclay, Evry, 91002, France. 
+5 Sorbonne Université, Inserm, Institut de Myologie, Centre de Recherche en Myologie, Paris, France. 
+*These authors have contributed equally to this work.  
+#Correspondence : Xavier NISSAN xnissan@istem.fr  
+ 
+Abstract 
+Limb girdle muscular dystrophies (LGMD), caused by mutations in 29 different genes, are the fourth 
+most prevalent group of genetic muscle diseases, leading to progressive weakness and atrophy of the 
+skeletal muscles. Although the link between LGMD and their genetic origins has been determined, 
+LGMD still represent an unmet medical need. In this paper, we describe a platform for modeling 
+LGMD based on the use of human induced pluripotent stem cells (hiPSC). Thanks to the self-renewing 
+and pluripotency properties of hiPSC, this platform provides an alternative and renewable source of 
+skeletal muscle cells (skMC) to primary, immortalized or overexpressing cells. We report that skMC 
+derived from hiPSC express the majority of the genes and proteins causing LGMD. As a proof of 
+concept, we demonstrate the importance of this cellular model for studying LGMDR9 by evaluating 
+disease-specific phenotypes in skMC derived from hiPSC obtained from four patients. 
+Keywords: limb girdle muscular dystrophies, induced pluripotent stem cells, skeletal muscle cells, 
+pathological modeling. 
+ 
+ 
+ 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.05.08.489343; this version posted May 9, 2022. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+Introduction 
+Limb  girdle  muscular  dystrophies  (LGMD)  refer  to  a  heterogeneous  group  of  rare  genetic 
+neuromuscular  diseases,  leading  to  progressive  weakness  and  wasting  of  proximal  pelvic  and 
+shoulder girdle muscles 1–3. Fourth most common group of muscular dystrophies with an estimated 
+prevalence of 1.63 per 100,000 people 4, LGMD subtypes are caused by genetic alterations of various 
+genes playing a critical role in muscle function, maintenance and repair 5,6. Since the first LGMD gene 
+identification reported in 1995 7, the number LGMD subtypes has grown to a total of 29 according to 
+the last revised nomenclature 8. Classified according their inheritance pattern, LGMD subtypes are 
+autosomal dominant (LGMD D) or autosomal recessive (LGMD R) types affecting 27 different proteins 
+of the nucleus,  sarcoplasm, sarcomere, sarcolemma, and extracellular matrix (Table S1). While 
+several gene replacement therapies 9–14 have been proposed over the years, no curative treatment is 
+currently available for any types of LGMD.  
+Over the  past decade, considerable  efforts have been  reported  for deciphering the molecular 
+mechanisms associated with LGMD. Understanding the multiple molecular pathways associated with 
+LGMD requires the development of appropriate cellular and animal models that at least partially 
+recapitulate the characteristics of these diseases. Animal models are currently preferred to in vitro 
+models for studies on muscular dystrophies 15,16 and the assessment of therapeutic strategies 17. 
+However, although most of these animal models recapitulate the pathological phenotypes observed 
+in humans, some of these models appear relatively normal or with a mild dystrophic phenotype 18, or 
+even present impairments that are not reported in patients 19. Alternatively, over the past decades, 
+several in vitro human models have been developed to study phenotypes associated with LGMD. 
+Among  these,  primary  skeletal  muscle  cells  (skMC)  from  muscle  biopsies  represent  the  most 
+commonly reported biological resource, despite the difficulty of their generation and their limited 
+proliferative capacity 20. To overcome these issues, several in vitro models were developed through 
+transdifferentiation  of  non-muscle  cells  into  skeletal  cells  by  forced  expression  of  myogenic 
+transcription factors 21. More recently, immortalization of primary cells with hTERT and CDK4 was 
+reported as successful for modeling LGMD 22,23, including LGMDD4/R1 24, LGMDR2 25–27 and LGMDR12 
+28. While these different models present several advantages in terms of proliferation and maturity, 
+the development of transgene-free cellular models from non-invasive procedures was proposed 
+through the use of pluripotent stem cells.  
+Derived from embryos 29–32 or generated through reprogramming 33,34, pluripotent stem cells have 
+the unique capacity to unlimitedly self-renew and differentiate into any cell type in the organism 35. 
+Over the years, thanks to the development of efficient protocols of differentiation for a growing 
+number of cell types, embryonic stem cells (ES) and human induced pluripotent stem cells (hiPSC) 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.05.08.489343; this version posted May 9, 2022. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+have been reported as efficient alternative models to primary or genetically modified cells. Since 
+their discovery in humans, in 1998 and 2007, the use of these cells has been explored for a broad 
+range  of  applications,  leading  to  the  identification  of  new  molecular  mechanisms  36,37,  new 
+pathological phenotypes 38–41 and the development of new therapies 42–45 (reviewed in Karagiannis et 
+al., 2019) 46. Although successfully applied for a number of genetic diseases, pathological modeling 
+using pluripotent stem cells remained challenging for application to muscular disorders over almost a 
+decade because of the lack of protocols for generating homogeneous populations of myotubes. Since 
+2012, several studies have reported methods to overcome this limitation by differentiating hiPSC into 
+myogenic cells using transgene-based methods 47–49 or small molecules recapitulating developmental 
+myogenesis 50–57. Among these protocols, Caron et al. described a three-step process that efficiently 
+differentiates hiPSC into mature skMC in less than 26 days using combinations of small molecules 
+and  growth  factors  identified  by  high-throughput  screening.  Recently,  several  studies  have 
+highlighted the use of human pluripotent stem cells, and more particularly hiPSC, for studying 
+neuromuscular disorders 58–62, including LGMD 49,63–66. In the present study, we report that hiPSC-
+derived skMC provide a reliable and robust in vitro tool for investigating LGMD subtypes. To do so, 
+we used a robust protocol of differentiation to generate pure populations of skeletal myoblasts 
+(skMb) and terminally differentiated myotubes (skMt) from hiPSC 51. Taking advantage of this model, 
+we monitored and characterized the expression and localization of all the genes and proteins causing 
+LGMD subtypes. As a proof of concept, such a cellular model was used to model LGMDR9 by 
+analyzing alpha-dystroglycan (α-DG) glycosylation in fukutin-related protein (FKRP)-deficient skMt 
+derived from the hiPSC of four patients.  
+ 
+Results 
+Generation and characterization of skeletal muscle cells from human induced-pluripotent stem 
+cells. The workflow to generate skeletal myoblasts cells (skMb) and multinucleated myotubes (skMt) 
+from hiPSC is represented in Figure 1A. First, pluripotency capacities of three healthy hiPSC lines 
+(WT1,2,3)  were  characterized  by  analyzing  the  expression  of  Oct4  and  Nanog  through 
+immunostaining (Figure 1B) and quantifying SSEA4/TRA1-80 by flow cytometry (Figure S1). Myogenic 
+differentiation was then induced using a 3-step protocol of differentiation 51. Briefly, SKM01 medium 
+was used for 10 days to initiate the differentiation of hiPSC into myogenic precursors before their 
+maturation into myoblasts in SKM02 medium and their terminal differentiation into myotubes in 
+SKM03 medium. To demonstrate the efficacy and robustness of this protocol of differentiation, 
+MyoD and desmin expressions were assessed by immunostaining in skMb, showing homogeneity of 
+labeling (Figure 1C). Terminal differentiation of skMt was then characterized by measuring the 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.05.08.489343; this version posted May 9, 2022. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+expression  of myogenin and titin by immunostaining (Figure 1D). To  quantify gene expression 
+changes  throughout  the  differentiation  protocol,  the  same  markers  were  monitored  by  qPCR, 
+revealing, on the one hand, a significant time dependent decrease of Oct4 and Nanog in skMb and 
+skMt compared to hiPSC (Figure 1E) and, on the other hand, a significant induction of MyoD, desmin, 
+MyoG and titin in skMb and skMt (Figures 1F and 1G).  
+To  further  characterize  the  terminal  differentiation  of  skMt  derived  from  hiPSC  and  visualize 
+sarcomeric structure formation in real time, we then used two gene-edited hiPSC lines expressing 
+titin (TTN) or troponin I (TNN) proteins fused to GFP (AICS-48 and AIC-37). After having validated 
+their pluripotency capacities by measuring the expression of SSEA4/TRA1-80 using flow cytometry 
+(Figure S2A), TTN-GFP and TNN-GFP hiPSC were differentiated using the same protocol. Analysis by 
+qPCR  confirmed  the  efficient  myogenic  differentiation  of  these  cells  by  showing  a  significant 
+decrease of Oct4 and Nanog expression in skMb and skMt compared to undifferentiated hiPSC 
+(Figure S2B) and a significant increase of MyoD, desmin, MyoG and titin in skMb and skMt (Figure 
+S2B). Terminal differentiation of TTN-GFP and TNN-GFP skMt was then followed in real time using a 
+time-lapse analysis of GFP expression from Day 0 to Day 7 (Movie S1 and S2). Confocal microscopy 
+analysis of GFP expression and localization in skMt derived from these two hiPSC cell lines revealed 
+the appearance of GFP in both cell lines from Day 3 onwards (Figure 2A). Quantification of GFP 
+positive cells showed that half of the cells expressed GFP from Day 3 of maturation and up to 80% at 
+Day 5 (Figures 2B and 2C). Organization of the sarcomeric structures in skMt was further analyzed by 
+characterizing the Z-disk, I-band and M-line using specific antibodies, as shown in Figure 2D. Confocal 
+analysis of immunostaining and the GFP signal was performed in TTN-GFP skMt (Figure 2E) and TNN-
+GFP skMt (Figure S2C), revealing a regular, transverse and repetitive organization of sarcomeres. 
+Finally, quantification of TTN-GFP skMt presenting a striated pattern revealed a time dependent 
+maturation from 40% at Day 2 to 80% at Day 5 (Figure 2F).  
+Characterization of LGMD genes and proteins in skMt derived from hiPSC. Mutations in 27 genes 
+are reported to cause 29 distinct LGMD (Table 1). Expression of these 27 genes was measured by 
+qPCR in skMt derived from three healthy hiPSC lines (WT1,2,3) and myotubes derived from four 
+healthy immortalized myoblast cell lines  (C25,  AB678,  AB1079, AB1167)  (Figure  3). Given that 
+collagen type 6 is composed of three genetic components, alpha 1 to alpha 3 chains, three genes 
+were monitored for this LGMD subtype, resulting in a total of 29 genes measured by gene expression 
+in these two sources of myotubes. Analysis of this qPCR revealed similar levels of expression for the 
+majority of these genes, both in skMt and immortalized myotubes: DNAJB6, TNPO3, HNRNPDL, 
+CAPN3, COL6A3, DYSF, SGCB, SGCG, SGCD, TCAP, TRIM32, POMT1, FKTN, POMT2, DAG1, TRAPPC11, 
+GMPPB and POGLUT1. Among these 29 genes, 2 genes revealed significant differences (10x fold 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.05.08.489343; this version posted May 9, 2022. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+change): on the one hand, ANO5, that was upregulated in skMt and, on the other hand, LAMA2, that 
+was significantly upregulated in immortalized myotubes.  
+We then evaluated the expression of the corresponding proteins by immunostaining in skMt derived 
+from one representative control hiPSC line (Figure 4). Confocal analysis of the expression of the 
+dystrophin-associated  glycoprotein  complex  (DGC)  components  revealed  positive  staining  of 
+dystroglycan 1 (DAG1) and beta, delta, gamma sarcoglycans (SGCB, SGCD and SGCG), while the alpha 
+subunit (SGCA) was not detected in skMt. Analysis of sarcomeric components showed positive 
+expression and localization within sarcomeres of calpain-3 (CAPN3), telethonin (TCAP) and titin 
+(TTN), while a more diffuse, cross-striated pattern of plectin (PLEC) was also detected in skMt. We 
+then evaluated the expression of proteins involved in DG glycosylation. Immunostaining of POMT2, 
+POGLUT1 and FKRP showed a punctiform perinuclear localization of proteins, while localization was 
+cytoplasmic for POMGnt1 and 2, POMT1, FKTN, GMPPB and ISPD. Regarding the proteins involved in 
+trafficking, analysis of dysferlin expression by immunostaining revealed the presence of the protein 
+at the plasma membrane and also in the cytoplasm of skMt, whereas TNPO3 and TRAPPC11 labeling 
+was cytoplasmic. Staining of DNAJB6 resulted in a signal in the nucleus and the cytoplasm, whereas 
+that of anoctamin 5 (ANO5/TMEM16E) and tripartite motif-containing protein 32 (TRIM32) revealed 
+a punctiform signal in the cytoplasm. With regard to the nuclear HNRNPDL protein, staining was 
+observed in the nucleus of skMt, as expected. Finally, analysis of the extracellular matrix proteins 
+performed in non-permeabilized condition confirmed the presence of laminin-2 (LAMA2) in the 
+sarcolemma. Immunostaining of collagen-6 alpha subunits 1, 2 and 3 (COL6A1, COL6A2, COL6A3) 
+revealed a punctiform signal across skMt. Altogether, qPCR and immunostaining data show that 
+hiPSC-derived skMt express the majority of LGMD genes at a comparable level to immortalized 
+myotubes and that the related encoded proteins are present in the expected cellular compartment. 
+Derivation and characterization of skMt from FKRP-deficient hiPSC. As a proof of concept, we then 
+investigated the pathological features of LGMDR9 using hiPSC. To do so, an hiPSC cell line from one 
+patient was provided by  the LGMD2I Research  Fund and three additional  hiPSC lines carrying 
+mutations in the FKRP gene were generated by reprogramming patient cells. Pluripotency of the four 
+LGMDR9 hiPSC lines was confirmed by measuring the expression of Oct4 and Nanog using qPCR 
+(Figure S3A) and immunostaining (Figure 5A). Pluripotency status of these hiPSC lines was also 
+validated by measuring the expression of SSEA4 and TRA1-80 using flow cytometry (Figure S3B). 
+Finally, chromosomal stability was analyzed using the multiplex fluorescence in situ hybridization (m-
+FISH) technique, revealing the absence of significant abnormalities (Figure S3C). Following this quality 
+control assessment, the four FKRP-deficient hiPSC lines were further differentiated into skMb and 
+skMt and compared to one representative healthy hiPSC line. Molecular characterization of skMb 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.05.08.489343; this version posted May 9, 2022. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+derived from FKRP-deficient hiPSC revealed no difference from the healthy skMb in terms of MyoD 
+expression (Figure S4A). FKRP-deficient skMb were secondarily differentiated into skMt, showing 
+positive sarcomeric staining for myosin heavy chain (MHC), titin and α-actinin (Figures 5B and S4B) 
+suggesting that the absence of FKRP does not affect either the initial or the terminal stages of 
+differentiation. Analysis of α-DG glycosylation was then performed by immunostaining in FKRP-
+deficient skMt and compared to the representative healthy relatives. Confocal analyses of IIH6 
+staining  revealed  the  absence  of  a  glycosylated  α-DG  signal  in  the  FKRP1  line 
+(V300A/A321E mutation), but not in the other cell lines (FKRP2,3,4), when compared to the healthy 
+control (Figure 5B). This result was subsequently confirmed by western blot, showing that IIH6 
+staining was decreased in the same cell line (Figure 5C). 
+ 
+Discussion 
+The main result of this study is the demonstration that myotubes derived from hiPSC can be used as 
+a common biological resource to study a variety of LGMD. Following terminal differentiation, we 
+reveal here that skMt are sufficiently mature to express the majority of LGMD-causing genes, as well 
+as their related encoded proteins, comparably to immortalized myotubes obtained from muscle 
+biopsies. As a proof of concept study, we further demonstrated that skMt derived from FKRP-
+deficient hiPSC express the hallmark of LGMDR9 in function of their mutations. Altogether, our 
+results demonstrate that hiPSC represent a valuable unlimited resource for modeling LGMD and 
+assessing in vitro efficacy of future LGMD therapies. 
+While similar in terms of clinical features, LGMD represent a highly heterogeneous group of diseases. 
+Despite the high number of clinical or molecular studies of LGMD subtypes, our current knowledge of 
+the molecular mechanisms underlying these diseases poses many challenges. In this context, the 
+development of a common cellular platform to compare pathological pathways in multiple LGMD 
+would provide a major step forward in their comprehension. So far, hiPSC have been used to explore 
+individual LGMD 64,66, but no studies have documented the possibility of using these cells for all types 
+of LGMD. A first study using hiPSC to model one LGMD was reported in 2013 49. In this proof of 
+concept study, the authors  showed that LGMD-R2 hiPSC-derived  myotubes obtained by stable 
+genomic MyoD1 induction exhibited a defective membrane repair capacity following laser lesion that 
+was rescued by full-length dysferlin gene transfer. More recently, El-Battrawy et al. 63 explored ion 
+channel dysfunctions in cardiomyocytes derived from LGMDR9 hiPSC and successfully identified a 
+significant reduction of  systolic  and diastolic intracellular calcium concentrations  in  those cells 
+compared to healthy cells. In our study, we explored the possibility of going further by using hiPSC 
+derivatives to model all LGMD genetic subtypes. To do so, we first evaluated the level of expression 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.05.08.489343; this version posted May 9, 2022. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+of all the genes causing LGMD and related proteins in myotubes differentiated from healthy hiPSC. 
+qPCR  and  immunostaining  data  revealed  that  the  majority  of  these  genes  and  proteins  were 
+expressed in hiPSC-derived skMt at similar levels to primary myotubes. Beyond the overview of the 
+LGMD that can be studied using hiPSC, this result suggests the use of hiPSC-derived skMt as a 
+platform to improve our understanding of common pathways or phenotypes of several LGMD in a 
+unique cellular model. 
+As a proof of concept, we then generated and studied hiPSC carrying several mutations of the 
+FKRP gene. Genetic variants in the FKRP gene cause a broad spectrum of phenotypes in LGMDR9 
+patients 67, ranging from mild muscle weakness and atrophy to more severe symptoms with loss of 
+ambulation, dilated cardiomyopathy, respiratory 68 and mental impairment 69. From a molecular 
+perspective, FKRP is involved in α-DG glycosylation, as shown by Brockington et al 70. While the 
+regulation of α-DG glycosylation appears to be a valuable therapeutic target for the treatment of 
+LGMDR9 71, other studies indicate, on the one hand, that several FKRP mutations do not affect α-DG 
+glycosylation 72 and, on the other hand, that there is no correlation between the severity of LGMDR9 
+and  α-DG  glycosylation  73.  Taken  together,  these  studies  suggest  that  the  detailed  molecular 
+mechanisms underpinning muscular symptoms and pathological pathways in LGMDR9 are still to be 
+elucidated. In our study, we used one hiPSC line provided by the LGMD2I Research Fund and 
+generated three extra hiPSC lines with different mutations. After differentiation into skMt, our 
+results  confirmed  that  the  absence  of  FKRP  does  not  lead  to  a  systematic  decrease  in  α-DG 
+glycosylation in LGMDR9. Only one cell line (FKRP1 with the V300A/A321E mutation) was shown to 
+affect this phenotype, in line with previous studies 72.   
+ 
+Conclusions 
+In the current study, we demonstrated that skMt derived from hiPSC can be used to model a large 
+panel of LGMD. We showed that almost all genes and proteins involved in LGMD were expressed. We 
+also demonstrated the biological relevance of this model derived from hiPSC through its ability to 
+recapitulate the pathological phenotype identified for LGMDR9. Overall, this study opens up new 
+perspectives on the use of this cellular model to study molecular mechanisms associated with LGMD, 
+but also for the development of high-content phenotypic assays and associated drug screenings. 
+ 
+Acknowledgments:  
+I-Stem and Genethon are part of the Biotherapies Institute for Rare Diseases, supported by the 
+Association Française contre les Myopathies (AFM-Téléthon). This research was funded by grants 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.05.08.489343; this version posted May 9, 2022. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+from INSERM, the domaine d’intéret majeur (DIM) Biothérapies, université Paris-Saclay, Genopole 
+and the European Commission. The authors thank Marc Peschanski (I-Stem) for helpful discussions, 
+the “technological research team” of I-Stem and Marine Faivre (Genethon) for technical support and 
+the Platform for Immortalization of Human Cells from the Centre of Research in Myology, Institute of 
+Myology, Paris, for providing immortalized muscular cells. In memory of our friend and colleague 
+Jackie Gide. 
+ 
+Author Contributions:  
+X.N. and I.R. were responsible for the experimental design and project management. C.B. and M.G. 
+performed the characterization of TTN and TTN iPS cells differentiations. C.B. M.G., M.B., E.P. and L.H 
+developed the iPS cells differentiation protocol and carried out molecular analysis of LGMD genes 
+and proteins. M.B. generated, characterized and differentiated FKRP deficient cells. A.B. generated 
+the immortalized cells. C.B., X.N. and I.R. wrote the manuscript.  
+ 
+Figure legends  
+Figure 1. Differentiation of human induced pluripotent stem cells (hiPSC) into skeletal muscle cells 
+(skMC). (A) Experimental workflow of skMC differentiation from hiPSC using the Genea Biocells 
+protocol. Representative pictures of hiPSC, skeletal myoblasts (skMb) and myotubes (skMt) with 
+bright field acquisition. Scale bar = 50 µm. (B) Characterization of the expression of pluripotency 
+markers Oct4 and Nanog by immunostaining in hiPSC. (C) Characterization of the expression of MyoD 
+and desmin by immunostaining in skMb (D) Characterization of the expression of MyoG and titin by 
+immunostaining in skMt. Nuclei are labelled by Hoechst staining (blue). Scale bar = 50 µm. (E) 
+Measurement of Oct4 and Nanog expression by qPCR in hiPSC, skMb and skMt.  (F) Measurement of 
+MyoD and desmin expression by qPCR in hiPSC, skMb and skMt. (G) Measurement of MyoG and titin 
+expression by qPCR in hiPSC, skMb and skMt. Gene expression analyses are normalized to hiPSC, 
+primary myoblasts or primary myotubes. Data are shown as the mean of skMC differentiations of 
+three control cell lines +/- SD. ***p≤0.005 (Student’s t-test). Abbreviations: hiPSC, human induced 
+pluripotent stem cells; skMb, skeletal myoblasts; skMt, skeletal myotubes; MyoG, myogenin. 
+ 
+Figure  2.  Striation  pattern  appears  during  terminal  myogenic  differentiation.  (A-C):  Troponin 
+I(TNN)- and titin(TTN)-eGFP dynamics during myotube maturation. (A) Confocal images of TNN- and 
+TTN-eGFP  tagged  cell  lines  were  obtained  from  Day  0  to  Day  5  after  induction  of  myotube 
+maturation. Nuclei are labelled by Hoechst staining.  Scale bar =  50 µm. Quantification of the 
+percentage of cells terminally differentiated, presented as the percentage of (B) TNN- or (C) TTN-
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.05.08.489343; this version posted May 9, 2022. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+positive cells out of the total number of myotubes. Each chart represents the mean +/- SD (n=5) for a 
+representative experiment; ***p≤0.005 (Student’s t-test). (D-F): Analysis of sarcomeric organization 
+during myotube maturation. (D) Schematic representation of sarcomeric architecture in skeletal 
+muscle: Z-disk composed of α-actinin, I-band made up of actin thin filaments, A-band comprised of 
+myosin thick filaments and the M-line where filaments are anchored. Titin spans the entire half-
+sarcomere: from the Z-disk with the N-terminal extremity to the M-line, by way of the I-band 
+specifically recognized by the titin N2A antibody.  (E) Immunofluorescent staining and confocal 
+acquisition of sarcomere structures with TTN-eGFP-tagged cells at Day 5 of myotube maturation. 
+Nuclei are labelled by Hoechst staining. Scale bar = 10 µm. White box denotes an enlargement of co-
+staining to visualize the cross-striation pattern of myotubes. Scale bar = 1 µm. (F) Quantification of 
+the number of striated cells relative to the total number of skMt during time course differentiation of 
+the TTN-eGFP-tagged cell line. Each chart represents the mean +/- SD (n=10) for a representative 
+experiment; ***p≤0.005 (Student’s t-test). Abbreviations: TNN, troponin I; TTN, titin; α-act2, alpha-
+actinin2. 
+ 
+Figure 3. Gene expression analysis of LGMD genes in skMt. Gene expression analysis of LGMD genes 
+in skMt derived from three healthy hiPSC lines (WT1,2,3) at Day 7 of myotube maturation. Fold 
+changes (on log 10 scale) for ∆∆CT, relative to myotubes derived from 4 healthy primary myoblast 
+cell lines (C25, AB678, AB1079, AB1167), are plotted as a group of data points and organized by gene 
+according to the last revised LGMD classification. The pink horizontal line in each group of data 
+points represents the mean for the group; *0.01<p≤0.05 or **0.005<p ≤ 0.01 or ***p<0.005.  
+Abbreviations: ANO5, anoctamin 5; CAPN3, calpain 3; COL6, collagen 6; DAG1, dystroglycan 1; 
+DNAJB6, DnaJ heat shock protein family member B6; DYSF, dysferlin; FKRP, fukutin-related protein; 
+FKTN,  fukutin;  GMPPB,  GDP-mannose  pyrophosphorylase  B;  HNRNPDL,  heterogeneous  nuclear 
+ribonucleoprotein  D-like;  ISPD,  isoprenoid  synthase  domain-containing  protein;  LAMA2,  laminin 
+subunit alpha 2; PLEC, plectin; POGLUT1, protein O-glucosyltransferase 1; POMGNT, protein O-linked 
+mannose N-acetylglucosaminyltransferase; POMT, protein O-mannosyltransferase; SGC, sarcoglycan; 
+TCAP, titin-cap; TNPO3, transportin 3; TRAPPC11, trafficking protein particle complex subunit 11; 
+TRIM32, tripartite motif containing 32; TTN, titin.  
+ 
+Figure 4. Characterization of LGMD proteins in skMt. Representative images of LGMD protein 
+immunostaining in skMt derived from one control hiPSC line at Day 5 of maturation. Nuclei are 
+labelled by Hoechst staining. Scale bar = 20µm.  
+Abbreviations: ANO5, anoctamin 5; CAPN3, calpain 3; COL6, collagen 6; DAG1, dystroglycan 1; 
+DNAJB6, DnaJ heat shock protein family member B6; DYSF, dysferlin; FKRP, fukutin-related protein; 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.05.08.489343; this version posted May 9, 2022. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+FKTN,  fukutin;  GMPPB,  GDP-mannose  pyrophosphorylase  B;  hnRNPDL,  heterogeneous  nuclear 
+ribonucleoprotein  D-like;  ISPD,  isoprenoid  synthase  domain-containing  protein;  LAMA2,  laminin 
+subunit alpha 2; PLEC, plectin; POGLUT1, protein O-glucosyltransferase 1; POMGnt, protein O-linked 
+mannose N-acetylglucosaminyltransferase; POMT, protein O-mannosyltransferase; SGC, sarcoglycan; 
+TCAP, titin-cap; TNPO3, transportin 3; TRAPPC11, trafficking protein particle complex subunit 11; 
+TRIM32, tripartite motif containing 32; TTN, titin. 
+ 
+Figure  5.  Differentiation  and  characterization  of  LGMDR9-affected  hiPSC  into  SkMC.  (A) 
+Immunostaining analysis of Oct4 and Nanog in one control and four LGMDR9 hiPSC lines at Day 0 of 
+differentiation. (B) Immunostaining images of MHC (upper panel) and α-DG glycosylation with IIH6 
+antibody (middle panel) in one control and four LGMDR9-derived skMt at Day 24 of differentiation. 
+White  boxes  delineate  enlargement  of  IIH6  staining  to  visualize  higher  magnification  of  α-DG 
+glycosylation in the bottom panel. Nuclei are labelled by Hoechst staining. Scale bar = 20 µm. (C) 
+Immunoblot analysis of α-DG glycosylation in skMt at Day 24 of differentiation. β-DG was used as the 
+loading control.  
+Abbreviations: MHC, myosin heavy chain; β-DG, beta dystroglycan. 
+ 
+Figure S1. Pluripotency characterization of control hiPSC lines. Flow cytometry analysis of SSEA4 and 
+TRA1-80 in control hiPSC before myogenic differentiation (PE-A+ = SSEA4; APC-A+ = TRA1-80). 
+ 
+Figure S2. Molecular characterization of TNN- and TTN-eGFP hiPSC and skMC. (A) Flow cytometry 
+analysis of SSEA4 and TRA1-80 in TNN- and TTN-eGFP-tagged hiPSC before myogenic differentiation 
+(PE-A+ = SSEA4; APC-A+ = TRA1-80). (B) Gene expression analysis of Oct4, Nanog, MyoD, desmin, 
+MyoG and titin in hiPSC, skMb and skMt. Gene expression analyses are normalized to hiPSC, primary 
+myoblasts or primary myotubes. Data are shown as the mean for three independent differentiations 
+of the two tagged cell lines +/- SD. ***p≤0.005 (Student’s t-test). (C) Immunostaining analysis by 
+confocal  microscopy  to  visualize  sarcomeric  structures  in  TNN-eGFP-tagged  skMt  at  Day  5  of 
+maturation. Nuclei are labelled by Hoechst staining. Scale bar = 10 µm. Abbreviations: MyoG, 
+myogenin; TNN, troponin I; TTN, titin; α-act2, alpha-actinin2. 
+ 
+Figure S3. Characterization of control- and LGMDR9-affected hiPSC. (A) Gene expression analysis of 
+Oct4 and Nanog in one control and four LGMDR9-affected hiPSC lines. Data are shown as the mean 
+for three independent experiments +/- SD and are normalized to the control cell line. Non-significant 
+p≥0.05 (Student’s t-test). (B) Flow cytometry analysis of SSEA4 and TRA1-80 in one control and four 
+LGMDR9-affected hiPSC lines (PE-A+ = SSEA4; APC-A+ = TRA1-80). (C) m-FISH analysis of hiPSC lines. 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.05.08.489343; this version posted May 9, 2022. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+ 
+Figure S4. Characterization of FKRP-affected hiPSC differentiation into SkMC. (A) Immunostaining 
+analysis  of  MyoD  expression  in  one  control  and  four  LGMDR9-derived  skMb  at  Day  17  of 
+differentiation. (B) Immunostaining images of titin and α-actinin in derived skMt at Day 24 of 
+differentiation. Nuclei are labelled by Hoechst staining. Scale bar = 20 µm. Abbreviations: TTN, titin; 
+α-act2, alpha-actinin2. 
+ 
+Movie  S1.  Troponin  I-eGFP  skMt  maturation.  Representative  movie  of  TNN-eGFP  skMt 
+differentiation from Day 0 to Day 7 after induction of myotube maturation. GFP fluorescence was 
+recorded every 3 hours using the Incucyte® S3 Live-Cell Analysis system (Sartorius) and compiled in a 
+video (4 frames per second). 
+ 
+Movie S1. Titin-eGFP skMt maturation. Representative movies of TTN-eGFP skMt differentiation 
+from Day 0 to Day 7 after induction of myotube maturation. GFP fluorescence was recorded every 3 
+hours using the Incucyte® S3 Live-Cell Analysis system (Sartorius) and compiled in a video (4 frames 
+per second). 
+ 
+Table S1. Classification and nomenclature of LGMD. 
+Table S2. Primers used for the measure of the 27 genes causing LGMD by qPCR. 
+Table S3. Antibodies used for immunostaining of the 27 proteins causing LGMD. 
+ 
+Materials and Methods 
+Cell  lines.  Experiments  were  performed  with  human  immortalized  myoblasts  from  unaffected 
+individuals or with hiPSC from control and LGMDR9-affected patients. The myoblast cell lines were 
+established from human muscular biopsies and obtained from the MyoLine immortalization platform 
+of  the  Institut de Myologie  (Paris, France),  with  the agreement of the  subjects through their 
+signature on an informed consent form and anonymization before immortalization, in line with the 
+EU GDPR regulation. The four cell lines used are the following: C25, AB678, AB1079, AB1167. The 
+WT1 and WT2 hiPSC lines were reprogrammed from healthy IMR-90 lung fibroblasts obtained from 
+the ATCC Cell Lines Biology Collection (Washington, USA) and from GM1869 provided by the Coriell 
+Cell Repository (Camden, USA) 74,75. The WT3 iPSC line is a commercial cell line provided by Phenocell 
+(Grasse, France). Wild type eGFP-tagged hiPSC lines, AICS-37 and AICS-48, were provided by the 
+Coriell Cell Repository (Camden, USA): troponinI1 (TNNI1) and titin (TTN) were endogenously tagged 
+with  mEGFP  at  the  C-terminus  site  using  CRISPR-Cas9  technology.  The  FKRP1  iPSC  line  was 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.05.08.489343; this version posted May 9, 2022. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+reprogrammed  by  Phenocell  (Grasse,  France)  from  LGMDR9  fibroblasts  (heterozygous  FKRP 
+V300A/A321E) provided by Genethon’s Cell Bank (Evry, France). FKRP2 and FKRP3 iPSC lines were 
+also  reprogrammed  by  Phenocell  (Grasse,  France)  from  LGMDR9  fibroblasts  (heterozygous 
+L276I/K291A and L276I/A45, respectively) provided by the Coriell Institute (Camden, USA). The FKRP4 
+iPSC line (heterozygous L276I/VUS) was provided by the LGMD2I Research Fund. 
+ 
+Cell culture and differentiation. Immortalized myoblasts were cultivated in a growth medium: 1 
+volume of 199 medium (Invitrogen) for 4 volumes of DMEM (Invitrogen), supplemented with 20% 
+FCS (Sigma), 25 µg/ml fetuin (Life Technologies), 5 ng/ml hEGF (Life Technologies), 0.5 ng/ml bFGF 
+(Life Technologies), 0.2 µg/ml dexamethasone (Sigma) and 5 µg/ml insulin (Sigma). Cells were seeded 
+on 0.1% gelatin and maintained in a humidified atmosphere of 5% CO2 at 37°C. Differentiation was 
+induced at confluence by replacing the growth medium with DMEM supplemented with 10 μg/ml 
+insulin (Sigma) for 7 days. Control and LGMDR9 hiPSC lines were maintained and expanded using a 
+single cell method on feeder-free coated dishes (Matrigel, Corning) with iPS-Brew XF medium (Macs, 
+Milteny  Biotech).  hiPSC  were  differentiated  into  skMC  following  a  protocol  developed  by 
+Geneabiocell ® (Caron et al., 2016). Briefly, hiPSC were seeded in collagen I-coated plates (Biocoat, 
+DB Biosciences) and maintained for 10 days in skeletal muscle induction medium (SKM01, AMSBIO) 
+with a passage at Day 7. Cells were then dissociated with 0.05% trypsin and seeded once again onto 
+collagen I-coated plates for 7 days in skeletal myoblast medium (SKM02, AMSBIO) until freezing. 
+skMb were thawed on collagen I-coated glass slides in skeletal myoblast medium and incubated at 
+confluence with skeletal muscle differentiation medium (SKM03, AMSBIO) for 5 to 7 supplementary 
+days. hiPSC, skMb and skMt were analyzed at Days 0, 17 and 24 of differentiation, respectively. 
+ 
+Flow cytometry. A single-cell suspension of hiPSC was collected after chemical dissociation with 
+accutase (Invitrogen), centrifuged at 900 rpm for 5 min and resuspended in 2% FBS in cold PBS. Cells 
+were stained with fluorescent dye-conjugated antibodies for 30 min on ice and protected from light. 
+Antibodies: APC-conjugated TRA1-80 (Millipore) and PE-conjugated SSEA4 (Millipore). Cells were 
+washed in cold PBS before being sorted by a MACSquant analyzer (MiltenyiBiotec). Data were 
+analyzed with FlowJo Software (Tree Star). 
+ 
+Multiplex fluorescence in situ hybridization (m-FISH) karyotype analysis. Cells were blocked in 
+metaphase with colchicine (Eurobio) for 90 min, warmed with a hypotonic solution and fixed with a 
+Carnoy fixative. An M-FISH 24Xcite probe (MetaSystems) and ProLong Gold Antifade Mountant with 
+DAPI (Thermo Fisher Scientific) were used for m-FISH staining. 70 metaphases were acquired with 
+Metafer MetaSystems software coupled to an AxioImager Z2 (Zeiss) microscope equipped with a 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.05.08.489343; this version posted May 9, 2022. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+camera  cool  cube  and  10X  and  63X  objectives.  Images  were  analyzed  with  Isis  software 
+(MetaSystems). 
+ 
+Immunofluorescence analysis. Cells at Days 0, 17 or 24 of skMC differentiation were fixed with 4% 
+paraformaldehyde for 10 min at room temperature. For two antibodies (FKTN and TCAP), cells were 
+pre-fixed and then fixed in cold methanol for 5 min at room temperature. After 3 washes in 
+phosphate-buffered saline (PBS), cells were permeabilized, or not, with 0.5% Triton X-100 for 5 min 
+and blocked in PBS solution supplemented with 1% bovine serum albumin (BSA, Sigma) for 1 hour at 
+room temperature. Cells were stained for specific markers overnight at 4°C using the antibodies 
+listed in Table S3. After 3 washes in PBS, staining was revealed by appropriate Alexa Fluor secondary 
+antibodies (ThermoFisher Scientific Life Sciences; 1:1000) in the dark for 1 hour at room temperature 
+and nuclei were visualized with Hoechst 33342 (Invitrogen; 1:2000). Cell imaging was carried out with 
+a Zen Black software-associated LSM-800 confocal microscope (Zeiss) with a 20x or 63X objective. 
+ 
+Time lapse imaging of skMt differentiation. Time-lapses of  skMt were recorded as  previously 
+described, from Day 0 to Day 5 of differentiation. Imaging of endogenous GFP-tagged titin and 
+troponin signaling was carried out with an Incucyte® S3 Live-Cell Analysis system (Sartorius) or a LSM-
+800 confocal microscope (Zeiss) with a 20x objective, using Zen Black software. Differentiation 
+efficiency was measured as the percentage of GFP-tagged cells at each time point using ImageJ 
+software and normalized to the total number of skMt. An algorithm was used to determine the 
+percentage of cells when at least 50% of the area of an identified nucleus was covered by GFP 
+staining. Differentiation efficiency was calculated from 5 random fields comprising at least 300 cells. 
+The results are expressed as mean values +/- S.E.M. *** p<0.005 (Student’s t-test). 
+ 
+Quantitative PCR. Total RNAs were isolated using the RNeasy Mini extraction kit (Qiagen) according 
+to the manufacturer’s instructions. A DNase I digestion was performed to degrade DNA in the 
+sample. RNA levels and quality were checked using the NanoDrop technology. A total of 500 ng of 
+RNA was used for reverse transcription using the SuperScript III reverse transcription kit (Invitrogen). 
+Quantitative polymerase chain reaction (qPCR) analysis was performed using a QuantStudio 12]K 
+Flex real-time PCR system (Applied biosystem) and Luminaris Probe qPCR Master Mix (Thermo 
+Scientific), following the manufacturers’ instructions. Gene expression analysis was performed using 
+the  TaqMan  gene  expression  Master  Mix  (Roche),  following  the  manufacturer’s  protocol. 
+Quantification  of  gene  expression  was  based  on  the  DeltaCt  method  and  normalized  to  18S 
+expression (Assay HS_099999). The primers and probe sequences that were designed are listed in 
+Table S2. The sequences of the remaining genes are commercially available (Applied biosystem): 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.05.08.489343; this version posted May 9, 2022. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+DYSF  (Hs01002513),  FKRP  (Hs00748199),  TTN  (Hs00399225),  ANO5  (Hs01381106)  and  DAG1 
+(Hs00189308). 
+ 
+Western immunoblotting. Whole-cell lysate of control and LGMDR9-skMt were collected after seven 
+days  of  differentiation.  Proteins  were  extracted  with  RIPA  lysis  buffer  (Thermo  Scientific) 
+supplemented with 1X Protease Inhibitor-Complete ULTRA tablets mini (Roche) and 1X benzonase 
+nuclease HC (Millipore) for 1]h at 4]°C. Protein concentration was measured using the Pierce BCA 
+Protein  Assay  Kit  (ThermoScientific)  and  the  absorbance  at  562  nm  was  evaluated  using  a 
+CLARIOstar® microplate reader (BMG Labtech). For α-DG protein detection, a total of 130]μg of 
+protein  was  loaded  and  run  on  Mini-PROTEAN  4-12%  bis-tris  protein  gels  (BioRad)  and  then 
+transferred to nitrocellulose membranes with a Trans-Blot Turbo Transfert system (Biorad), following 
+the manufacturer’s instructions. Membranes were then blocked in Odyssey blocking buffer (Li-Cor) 
+for 1 hour at room temperature. Incubation with primary antibodies diluted in Odyssey blocking 
+buffer was carried out at 4°C from 2 hours to overnight for the mouse anti-α-DG-IIH6 1:50 (DSHB), 
+the mouse anti-α-DG-IIH6 1:1000 (Merck Millipore) and the mouse anti-β-DG 1:200 (DSHB). Washing 
+was carried out 3 times for 10 minutes at room temperature with TBS + 0.1% Tween20 and the 
+membranes were incubated with a donkey anti-mouse antibody IRDye-800CW 1:5000 (Li-Cor) in 
+blocking buffer. Washing was carried out and proteins were detected by fluorescence (Odyssey, Li-
+Cor), following the manufacturer’s instructions. 
+ 
+Statistical analysis. Data are presented as means ±]SD unless otherwise specified. Statistical analysis 
+was performed using the Student’s t test. P values ≤ 0.05 (*), 0.01 (**) and 0.005 (***) were 
+considered significant. 
+ 
+REFERENCES 
+1.  Guglieri, M., Straub, V., Bushby, K. & Lochmüller, H. Limb–girdle muscular dystrophies. Curr. 
+Opin. Neurol. 21, 576–584 (2008). 
+2.  Nigro, V. & Savarese, M. Genetic basis of limb-girdle muscular dystrophies: the 2014 update. 12 
+(2014). 
+3.  Walton, J. N. & Nattrass, F. J. ON THE CLASSIFICATION, NATURAL HISTORY AND TREATMENT OF 
+THE MYOPATHIES. Brain 77, 169–231 (1954). 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.05.08.489343; this version posted May 9, 2022. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+4.  Mah, J. K. et al. A Systematic Review and Meta-analysis on the Epidemiology of the Muscular 
+Dystrophies. Can. J. Neurol. Sci. J. Can. Sci. Neurol. 43, 163–177 (2016). 
+5.  Liewluck, T. & Milone, M. Untangling the complexity of limb-girdle muscular dystrophies. Muscle 
+Nerve 58, 167–177 (2018). 
+6.  Wicklund, M. P. & Kissel, J. T. The Limb-Girdle Muscular Dystrophies. Neurol. Clin. 32, 729–749 
+(2014). 
+7.  Richard, I. et al. Mutations in the Proteolytic Enzyme Calpain 3 Cause Limb-Girdle Muscular 
+Dystrophy Type 2A. 14. 
+8.  Straub, V. et al. 229th ENMC international workshop: Limb girdle muscular dystrophies – 
+Nomenclature and reformed classification Naarden, the Netherlands, 17–19 March 2017. 
+Neuromuscul. Disord. 28, 702–710 (2018). 
+9.  Holt, K. H. et al. Functional Rescue of the Sarcoglycan Complex in the BIO 14.6 Hamster Using ]-
+Sarcoglycan Gene Transfer. Mol. Cell 8. 
+10. Li, J. et al. rAAV vector-mediated sarcogylcan gene transfer in a hamster model for limb girdle 
+muscular dystrophy. Gene Ther. 6, 74–82 (1999). 
+11. Xiao, X. et al. Full Functional Rescue of a Complete Muscle (TA) in Dystrophic Hamsters by 
+Adeno-Associated Virus Vector-Directed Gene Therapy. J. Virol. 74, 1436–1442 (2000). 
+12. Allamand, V. et al. Early adenovirus-mediated gene transfer effectively prevents muscular 
+dystrophy in alpha-sarcoglycan-deficient mice. Gene Ther. 7, 1385–1391 (2000). 
+13. Bartoli, M. et al. Safety and Efficacy of AAV-Mediated Calpain 3 Gene Transfer in a Mouse Model 
+of Limb-Girdle Muscular Dystrophy Type 2A. Mol. Ther. 13, 250–259 (2006). 
+14. Sondergaard, P. C. et al. AAV.Dysferlin Overlap Vectors Restore Function in Dysferlinopathy 
+Animal Models. Ann. Clin. Transl. Neurol. 2, 256–270 (2015). 
+15. Allamand, V. Animal models for muscular dystrophy: valuable tools for the development of 
+therapies. Hum. Mol. Genet. 9, 2459–2467 (2000). 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.05.08.489343; this version posted May 9, 2022. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+16. Ng, R. et al. Animal Models of Muscular Dystrophy. in Progress in Molecular Biology and 
+Translational Science vol. 105 83–111 (Elsevier, 2012). 
+17. McGreevy, J. W., Hakim, C. H., McIntosh, M. A. & Duan, D. Animal models of Duchenne muscular 
+dystrophy: from basic mechanisms to gene therapy. Dis. Model. Mech. 8, 195–213 (2015). 
+18. Ackroyd, M. R. et al. Reduced expression of fukutin related protein in mice results in a model for 
+fukutin related protein associated muscular dystrophies. Brain 132, 439–451 (2008). 
+19. Vafiadaki, E. et al. Cloning of the mouse dysferlin gene and genomic characterization of the SJL-
+Dysf mutation: Neuroreport 12, 625–629 (2001). 
+20. Aas, V. et al. Are cultured human myotubes far from home? Cell Tissue Res. 354, 671–682 (2013). 
+21. Bar-Nur, O. et al. Direct Reprogramming of Mouse Fibroblasts into Functional Skeletal Muscle 
+Progenitors. Stem Cell Rep. 10, 1505–1521 (2018). 
+22. Mamchaoui, K. et al. Immortalized pathological human myoblasts: towards a universal tool for 
+the study of neuromuscular disorders. Skelet. Muscle 1, 34 (2011). 
+23. Thorley, M. et al. Skeletal muscle characteristics are preserved in hTERT/cdk4 human myogenic 
+cell lines. Skelet. Muscle 6, 43 (2016). 
+24. Lasa-Elgarresta, J. et al. Targeting the Ubiquitin-Proteasome System in Limb-Girdle Muscular 
+Dystrophy With CAPN3 Mutations. Front. Cell Dev. Biol. 10, 822563 (2022). 
+25. Cea, L. A. et al. The absence of dysferlin induces the expression of functional connexin-based 
+hemichannels in human myotubes. BMC Cell Biol. 17, 15 (2016). 
+26. Carmeille, R. et al. Membrane repair of human skeletal muscle cells requires Annexin-A5. 
+Biochim. Biophys. Acta BBA - Mol. Cell Res. 1863, 2267–2279 (2016). 
+27. Philippi, S. et al. Dysferlin-deficient immortalized human myoblasts and myotubes as a useful 
+tool to study dysferlinopathy. PLoS Curr. 4, RRN1298 (2012). 
+28. Chandra, G. et al. Dysregulated calcium homeostasis prevents plasma membrane repair in 
+Anoctamin 5/TMEM16E-deficient patient muscle cells. Cell Death Discov. 5, 118 (2019). 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.05.08.489343; this version posted May 9, 2022. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+29. Evans, M. J. & Kaufman, M. H. Establishment in culture of pluripotential cells from mouse 
+embryos. Nature 292, 154–156 (1981). 
+30. Martin, G. R. Isolation of a pluripotent cell line from early mouse embryos cultured in medium 
+conditioned by teratocarcinoma stem cells. Proc. Natl. Acad. Sci. 78, 7634–7638 (1981). 
+31. Shamblott, M. J. et al. Derivation of pluripotent stem cells from cultured human primordial germ 
+cells. Dev. Biol. 6 (1998). 
+32. Thomson, J. A. et al. Embryonic Stem Cell Lines Derived from Human Blastocysts. Sci. New Ser. 
+282, 1145–1147 (1998). 
+33. Takahashi, K. & Yamanaka, S. Induction of Pluripotent Stem Cells from Mouse Embryonic and 
+Adult Fibroblast Cultures by Defined Factors. Cell 126, 663–676 (2006). 
+34. Takahashi, K. et al. Induction of Pluripotent Stem Cells from Adult Human Fibroblasts by Defined 
+Factors. Cell 131, 861–872 (2007). 
+35. Wobus, A. M. & Boheler, K. R. Embryonic Stem Cells: Prospects for Developmental Biology and 
+Cell Therapy. Physiol. Rev. 85, 635–678 (2005). 
+36. Laustriat, D. et al. In Vitro and In Vivo Modulation of Alternative Splicing by the Biguanide 
+Metformin. Mol. Ther. - Nucleic Acids 4, e262 (2015). 
+37. Nissan, X. et al. Unique Preservation of Neural Cells in Hutchinson- Gilford Progeria Syndrome Is 
+Due to the Expression of the Neural-Specific miR-9 MicroRNA. Cell Rep. 2, 1–9 (2012). 
+38. Allouche, J. et al. In vitro modeling of hyperpigmentation associated to neurofibromatosis type 1 
+using melanocytes derived from human embryonic stem cells. Proc. Natl. Acad. Sci. 112, 9034–
+9039 (2015). 
+39. Estronca, L. et al. Induced pluripotent stem cell-derived vascular networks to screen nano–bio 
+interactions. Nanoscale Horiz. 6, 245–259 (2021). 
+40. Lo Cicero, A. et al. Pathological modelling of pigmentation disorders associated with Hutchinson-
+Gilford Progeria Syndrome (HGPS) revealed an impaired melanogenesis pathway in iPS-derived 
+melanocytes. Sci. Rep. 8, 9112 (2018). 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.05.08.489343; this version posted May 9, 2022. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+41. Moreau, A. et al. Deciphering DSC2 arrhythmogenic cardiomyopathy electrical instability: From 
+ion channels to ECG and tailored drug therapy. Clin. Transl. Med. 11, (2021). 
+42. Egesipe, A.-L. et al. Metformin decreases progerin expression and alleviates pathological defects 
+of Hutchinson–Gilford progeria syndrome cells. Npj Aging Mech. Dis. 2, 16026 (2016). 
+43. Harhouri, K. et al. MG 132-induced progerin clearance is mediated by autophagy activation and 
+splicing regulation. EMBO Mol. Med. 9, 1294–1313 (2017). 
+44. Lo Cicero, A. et al. A High Throughput Phenotypic Screening reveals compounds that counteract 
+premature osteogenic differentiation of HGPS iPS-derived mesenchymal stem cells. Sci. Rep. 6, 
+34798 (2016). 
+45. Pitrez, P. R. et al. Vulnerability of progeroid smooth muscle cells to biomechanical forces is 
+mediated by MMP13. Nat. Commun. 11, 4110 (2020). 
+46. Karagiannis, P. et al. Induced Pluripotent Stem Cells and Their Use in Human Models of Disease 
+and Development. Physiol. Rev. 99, 79–114 (2019). 
+47. Darabi, R. et al. Human ES- and iPS-Derived Myogenic Progenitors Restore DYSTROPHIN and 
+Improve Contractility upon Transplantation in Dystrophic Mice. Cell Stem Cell 10, 610–619 
+(2012). 
+48. Maffioletti, S. M. et al. Efficient derivation and inducible differentiation of expandable skeletal 
+myogenic cells from human ES and patient-specific iPS cells. Nat. Protoc. 10, 941–958 (2015). 
+49. Tanaka, A. et al. Efficient and Reproducible Myogenic Differentiation from Human iPS Cells: 
+Prospects for Modeling Miyoshi Myopathy In Vitro. PLoS ONE 8, e61540 (2013). 
+50. Borchin, B., Chen, J. & Barberi, T. Derivation and FACS-Mediated Purification of PAX3+/PAX7+ 
+Skeletal Muscle Precursors from Human Pluripotent Stem Cells. Stem Cell Rep. 1, 620–631 
+(2013). 
+51. Caron, L. et al. A Human Pluripotent Stem Cell Model of Facioscapulohumeral Muscular 
+Dystrophy-Affected Skeletal Muscles. Stem Cells Transl. Med. 5, 1145–1161 (2016). 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.05.08.489343; this version posted May 9, 2022. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+52. Chal, J. et al. Differentiation of pluripotent stem cells to muscle fiber to model Duchenne 
+muscular dystrophy. Nat. Biotechnol. 33, 962–969 (2015). 
+53. Chal, J. et al. Generation of human muscle fibers and satellite-like cells from human pluripotent 
+stem cells in vitro. Nat. Protoc. 11, 1833–1850 (2016). 
+54. Shelton, M. et al. Derivation and Expansion of PAX7-Positive Muscle Progenitors from Human 
+and Mouse Embryonic Stem Cells. Stem Cell Rep. 3, 516–529 (2014). 
+55. Shelton, M., Kocharyan, A., Liu, J., Skerjanc, I. S. & Stanford, W. L. Robust generation and 
+expansion of skeletal muscle progenitors and myocytes from human pluripotent stem cells. 
+Methods 101, 73–84 (2016). 
+56. Swartz, E. W. et al. A Novel Protocol for Directed Differentiation of C9orf72-Associated Human 
+Induced Pluripotent Stem Cells Into Contractile Skeletal Myotubes. Stem Cells Transl. Med. 5, 
+1461–1472 (2016). 
+57. Xu, C. et al. A Zebrafish Embryo Culture System Defines Factors that Promote Vertebrate 
+Myogenesis across Species. Cell 155, 909–921 (2013). 
+58. Dimos, J. T. et al. Induced Pluripotent Stem Cells Generated from Patients with ALS Can Be 
+Differentiated into Motor Neurons. Sci. New Ser. 321, 1218–1221 (2008). 
+59. Ebert, A. D. et al. Induced pluripotent stem cells from a spinal muscular atrophy patient. Nature 
+457, 277–280 (2009). 
+60. Lin, B. et al. Modeling and study of the mechanism of dilated cardiomyopathy using induced 
+pluripotent stem cells derived from individuals with Duchenne muscular dystrophy. Dis. Model. 
+Mech. 8, 457–466 (2015). 
+61. Park, I.-H. et al. Disease-Specific Induced Pluripotent Stem Cells. Cell 134, 877–886 (2008). 
+62. Shoji, E. et al. Early pathogenesis of Duchenne muscular dystrophy modelled in patient-derived 
+human induced pluripotent stem cells. Sci. Rep. 5, 12831 (2015). 
+63. El-Battrawy, I. et al. Ion Channel Dysfunctions in Dilated Cardiomyopathy in Limb-Girdle 
+Muscular Dystrophy. Circ. Genomic Precis. Med. 11, e001893 (2018). 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.05.08.489343; this version posted May 9, 2022. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+64. Mateos-Aierdi, A. J. et al. Patient-specific iPSC-derived cellular models of LGMDR1. Stem Cell Res. 
+53, 102333 (2021). 
+65. Tedesco, F. S. et al. Transplantation of Genetically Corrected Human iPSC-Derived Progenitors in 
+Mice with Limb-Girdle Muscular Dystrophy. Sci. Transl. Med. 4, (2012). 
+66. Wu, J. et al. Generation of an induced pluripotent stem cell line (CSCRMi001-A) from a patient 
+with a new type of limb-girdle muscular dystrophy (LGMD) due to a missense mutation in 
+POGLUT1 ( Rumi ). Stem Cell Res. 24, 102–105 (2017). 
+67. Mercuri, E. et al. Phenotypic spectrum associated with mutations in the fukutin-related protein 
+gene. Ann. Neurol. 53, 537–542 (2003). 
+68. Poppe, M. et al. Cardiac and respiratory failure in limb-girdle muscular dystrophy 2I. Ann. Neurol. 
+56, 738–741 (2004). 
+69. Beltran-Valero de Bernabe, D. Mutations in the FKRP gene can cause muscle-eye-brain disease 
+and Walker-Warburg syndrome. J. Med. Genet. 41, e61–e61 (2004). 
+70. Brockington, M. et al. Mutations in the Fukutin-Related Protein Gene (FKRP) Cause a Form of 
+Congenital Muscular Dystrophy with Secondary Laminin a2 Deﬁciency and Abnormal 
+Glycosylation of a-Dystroglycan. Am J Hum Genet 12 (2001). 
+71. Cataldi, M. P., Lu, P., Blaeser, A. & Lu, Q. L. Ribitol restores functionally glycosylated α-
+dystroglycan and improves muscle function in dystrophic FKRP-mutant mice. Nat. Commun. 9, 
+3448 (2018). 
+72. Henriques, S. F., Gicquel, E., Marsolier, J. & Richard, I. Functional and cellular localization 
+diversity associated with Fukutin-related protein patient genetic variants. Hum. Mutat. 40, 1874–
+1885 (2019). 
+73. Alhamidi, M. et al. Limb girdle muscular dystrophy type 2I: No correlation between clinical 
+severity, histopathology and glycosylated α-dystroglycan levels in patients homozygous for 
+common FKRP mutation. Neuromuscul. Disord. 27, 619–626 (2017). 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.05.08.489343; this version posted May 9, 2022. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+74. Boissart, C. et al. Differentiation from human pluripotent stem cells of cortical neurons of the 
+superficial layers amenable to psychiatric disease modeling and high-throughput drug screening. 
+Transl. Psychiatry 3, e294–e294 (2013). 
+75. Darville, H. et al. Human Pluripotent Stem Cell-derived Cortical Neurons for High Throughput 
+Medication Screening in Autism: A Proof of Concept Study in SHANK3 Haploinsufficiency 
+Syndrome. EBioMedicine 9, 293–305 (2016). 
+ 
+ 
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.05.08.489343; this version posted May 9, 2022. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+Figure 1
+A
+hiPSC  Myogenic precursor Myoblasts(skMb) Myotubes(skMt)
+Skeletal Muscle  Skeletal Muscle 
+Myoblast medium
+Induction Medium Differentiation Medium
+Day 0 Day 10 Day 17 Day 24
+B C D
+Nanog MyoD Myogenin
+Oct4 Desmin Titin
+E F G
+***
+***
+***
+*
+*
+***
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.05.08.489343; this version posted May 9, 2022. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+Figure 2
+A
+D0 D1 D2 D3 D4 D5
+GFP
+P
+F
+G
+-
+N
+N
+T
+GFP
+P
+F
+G
+-
+N
+T
+T
+B ells  *** C ells  ***
+c c
+e  e 
+v v
+ti ti
+si si
+o o
+p p
+P  P 
+F F
+G G
+- -
+N N
+N T
+T T
+of  of 
+%  % 
+Time of differentiation (days) Time of differentiation (days)
+Thick filament Thin filament
+D
+α-act2 N2A N2A α-act2
+GFP
+Titin
+I-band A-band
+Z-disc M-line
+E
+α-act2 (Z-disk) TTN N2A (I-band) TTN-GFP (M-line) Merged
+s
+e
+b
+u
+t
+o
+y
+m
+P 
+F
+G
+-
+N
+T
+T
+F ***
+s
+ell
+c
+d
+e
+t
+a
+ri
+t
+s
+f 
+o
+% 
+Time of differentiation (days)
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.05.08.489343; this version posted May 9, 2022. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+Figure 3
+Relative LGMD gene expression
+1.0×10-2 1.0×10-1 1.0×100 1.0×101 1.0×102
+LGMD D1 (DNAJB6)
+LGMD D2 (TNPO3)
+LGMD D3 (HNRNPDL)
+LGMD D4/R1 (CAPN3)
+LGMD D5/R22 (COL6A1)
+LGMD D5/R22 (COL6A2)
+LGMD D5/R22 (COL6A3)
+LGMD R2 (DYSF)
+LGMD R3 (SGCA)
+LGMD R4 (SGCB)
+LGMD R5 (SGCG)
+LGMD R6 (SGCD)
+LGMD R7 (TCAP)
+LGMD R8 (TRIM32)
+LGMD R9 (FKRP)
+LGMD R10 (TTN)
+LGMD R11 (POMT1)
+LGMD R12 (ANO5)
+LGMD R13 (FKTN)
+LGMD R14 (POMT2)
+LGMD R15 (POMGNT1)
+LGMD R16 (DAG1)
+LGMD R17 (PLEC)
+LGMD R18 (TRAPPC11)
+LGMD R19 (GMPPB)
+LGMD R20 (ISPD)
+LGMD R21 (POGLUT1)
+LGMD R23 (LAMA2)
+LGMD R24 (POMGNT2)
+***COL6A2, SGCA
+**ANO5, POMGNT1, LAMA2
+*COL6A1, FKRP, TTN, PLEC, ISPD, POMGNT2
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.05.08.489343; this version posted May 9, 2022. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+Figure 4
+DNAJB6 TNPO3 hnRNPDL  CAPN3 DYSF
+LGMD D1 LGMD D2 LGMD D3 LGMD D4/R1 LGMD R2
+SGCA  SGCB SGCG SGCD TCAP 
+LGMD R3 LGMD R4 LGMD R5 LGMD R6 LGMD R7
+TRIM32 FKRP  TTN POMT1  ANO5 
+LGMD R8 LGMD R9 LGMD R10 LGMD R11 LGMD R12
+FKTN  POMT2  POMGnt1  DAG1 PLEC 
+LGMD R13 LGMD R14 LGMD R15 LGMD R16 LGMD R17
+TRAPPC11  GMPPB ISPD POGLUT1 COL6A1
+LGMD R18 LGMD R19 LGMD R20 LGMD R21 LGMD D5/R22
+COL6A2 COL6A3  Laminin-2  POMGnt2 
+LGMD D5/R22 LGMD D5/R22 LGMD R23 LGMD R24
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.05.08.489343; this version posted May 9, 2022. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+Figure 5
+A
+WT1 FKRP1 FKRP2 FKRP3 FKRP4
+(V300A/A321E) (L276I/K291A) (L276I/A45)  (L276I/VUS)
+Oct4
+Nanog
+B 
+WT1 FKRP1 FKRP2 FKRP3 FKRP4
+(V300A/A321E) (L276I/K291A) (L276I/A45)  (L276I/VUS)
+MHC
+IIH6
+d
+c
+a b e
+a b c d e
+C
+WT1 FKRP1 FKRP2 FKRP3 FKRP4
+(V300A/A321E) (L276I/K291A) (L276I/A45)  (L276I/VUS)
+156 kDa IIH6
+β-DG
+43 kDa
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.05.08.489343; this version posted May 9, 2022. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+Figure S1
+WT1 WWTT22 WWTT33
+SSEA4+ SSEA4+ SSEA4+
+80,4% 95,5% 99,3%
+t
+n
+u
+o
+C
+TRA1-80+ TRA1-80+ TRA1-80+
+98,5% 99,8% 98,5%
+t
+n
+u
+o
+C
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.05.08.489343; this version posted May 9, 2022. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+Figure S2
+A
+TNN-GFP TTN-GFP
+SSEA4+ TRA1-80+ SSEA4+ TRA1-80+
+97,1% 98,4% 94,7% 97,5%
+nt nt
+u u
+o o
+C C
+B
+***
+***
+***
+C
+α-act2 (Z-disk) TTN N2A (I-band) TNN-GFP (M-line) Merged
+s
+e
+b
+u
+t
+o
+y
+m
+P 
+F
+G
+-
+N
+N
+T
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.05.08.489343; this version posted May 9, 2022. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+Figure S3
+A
+NS NS
+B WT1 FKRP1 FKRP2 FKRP3 FKRP4
+(V300A/A321E) (L276I/K291A) (L276I/A45)  (L276I/VUS)
+SSEA4+ SSEA4+ SSEA4+ SSEA4+ SSEA4+
+84,6% 99,1% 98,3% 99,5% 97,4%
+t
+n
+u
+o
+C
+TRA1-80+ TRA1-80+ TRA1-80+ TRA1-80+ TRA1-80+
+98,8% 93,2% 96,0% 96,0% 79,6%
+t
+n
+u
+o
+C
+C WT1 FKRP1 FKRP2 FKRP3 FKRP4
+(V300A/A321E) (L276I/K291A) (L276I/A45)  (L276I/VUS)
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.05.08.489343; this version posted May 9, 2022. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+Figure S4
+WT1 FKRP1 FKRP2 FKRP3 FKRP4
+A
+(V300A/A321E) (L276I/K291A) (L276I/A45)  (L276I/VUS)
+MyoD
+WT1 FKRP1 FKRP2 FKRP3 FKRP4
+B
+(V300A/A321E) (L276I/K291A) (L276I/A45)  (L276I/VUS)
+TTN
+α-act2
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.05.08.489343; this version posted May 9, 2022. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+Table S1
+TableS1.ClassificationandnomenclatureofLGMD.
+New 
+Old nomenclature Gene Protein
+nomenclature
+DNAJB6, DnaJheatshockproteinfamily
+LGMD D1 LGMD 1D DNAJB6
+memberB6
+LGMD D2 LGMD 1F TNPO3 TNPO3, Transportin3
+HNRnPDL, Heterogeneousnuclear
+LGMD D3 LGMD 1G HNRNPDL
+ribonucleopreoteinD like
+LGMD D4 / R1 LGMD 1I / 2A CAPN3 Calpain3
+COL6A1,
+Bethlem myopathy dominant / 
+LGMD D5 / R22 COL6A2, Collagen6
+recessive
+COL6A3
+LGMD R2 LGMD 2B DYSF Dysferlin
+LGMD R3 LGMD 2D SGCA α-sarcoglycan
+LGMD R4 LGMD 2E SGCB β-sarcoglycan
+LGMD R5 LGMD 2C SGCG γ-sarcoglycan
+LGMD R6 LGMD 2F SGCD δ-sarcoglycan
+LGMD R7 LGMD 2G TCAP Telethonin
+LGMD R8 LGMD 2H TRIM32 TRIM32, Tripartite motif containingprotein32
+LGMD R9 LGMD 2I FKRP FKRP, Fukutin-relatedprotein
+LGMD R10 LGMD 2J TTN Titin
+LGMD R11 LGMD 2K POMT1 POMT1, ProteinO-mannosyl-transferase1
+LGMDR12 LGMD 2L ANO5 Anoctamin5
+LGMD R13 LGMD 2M FKTN Fukutin
+LGMD R14 LGMD 2N POMT2 POMT2, ProteinO-mannosyl-transferase2
+POMGNT1, Protein O-linked mannose N-
+LGMD R15 LGMD 2O POMGNT1
+acetylglucosaminyltransferase 1 (beta 1,2-)
+LGMD R16 LGMD 2P DAG1 Dystroglycan1
+LGMD R17 LGMD 2Q PLEC Plectin
+TRAPPC11, Traffickingproteinparticle
+LGMD R18 LGMD 2S TRAPPC11
+complexsubunit11
+LGMD R19 LGMD 2T GMPPB GMPPB, GDP-mannose pyrophosphorylase
+ISPD,2-C-methyl-D-erythritol 4-phosphate 
+LGMD R20 LGMD 2U ISPD
+cytidylyltransferase
+LGMD R21 LGMD 2Z POGLUT1 POGLUT1, O-transferase1 protein
+Lamininα2-relatedmuscular
+LGMD R23 LAMA2 Lamininα2
+dystrophy
+POMGNT2-relatedmuscular POMGNT2, Protein O-Linked Mannose N-
+LGMD R24 POMGNT2
+dystrophy Acetylglucosaminyltransferase 2 (Beta 1,4-)
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.05.08.489343; this version posted May 9, 2022. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+Table S2
+TableS2.Listofprimers.
+LGMD Gene Forward Reverse TaqmanMGB probe
+LGMD D1 DNAJB6 CCCTTTTGAGGACTTCTTTGGG AGAGAAAAACGACCCCGTCC
+LGMD D2 TNPO3 AAACCTCCGTTGTGGCAGAG CACACCCCCAAACAGGAACT
+LGMD D3 HNRNPDL GATCCCAAAAGGGCCAAAGC GTATCCGGGCTCAATCCACC
+LGMD D4 / R1 CAPN3 Assay Hs00544977 (Applied Biosystem)
+COL6A1, CCATTGGCCTCTGTCTCGTT TACTCTCTGAGGTCGGGGTC
+LGMD D5 / R22 COL6A2, GTTCCACGAGAAGCACGAGA GAGAACAGCGTCATGTTGCG
+COL6A3 ACAGTGACGAGGTGGAGATCA GATAGCGCAGTCGGTGTAGG
+LGMD R2 DYSF AssayHs01002513 (Applied Biosystem)
+TGCTGGCCTATGTCATGTGC TCTGGATGTCGGAGGTAGCC CGGGAGGGAAGGCTGAAGAG
+LGMD R3 SGCA
+AGACC
+CCCGCCTACCCAGTTCCT TGTAGCGTACCCAGTCACCACTA CAGTGGAGACCAGTTGG
+LGMD R4 SGCB
+TGGACTCATCTCTGCTGCTACAA CTTCTGAGTTGCGCGCATT CAACCCAGAATGTGACTGT
+LGMD R5 SGCG
+GGGCACAGTGTTCCCTAAATCT GGGACTCCAACCTTAGTTCTTTGA TAGAAACACCTAATGTCAGGG
+LGMD R6 SGCD
+CAGACC
+LGMD R7 TCAP TGAGTTCCCAAAGGGAGGGT CTGCCTAGAGCGTTCCAGAT
+LGMD R8 TRIM32 TGGGCATAGCCCTAACTCCT GAAGGGAAGTTGGCTTGGGA
+LGMD R9 FKRP Assay Hs00748199 (Applied Biosystem)
+LGMD R10 TTN Assay Hs00399225 (Applied Biosystem)
+LGMD R11 POMT1 GGGTGGAGTTTGATCTGGCA CAATGACATGCAAGCCCCAG
+LGMDR12 ANO5 Assay Hs01381106 (Applied Biosystem)
+LGMD R13 FKTN TGAGAGTAAAGATCCCCGGC CATGAGTGGCCAGTTTGCAG
+LGMD R14 POMT2 TGGTGCTTTAGGGGTCAAGT ACCAAAGGTCTGCAATGGTG
+LGMD R15 POMGNT1 ACACAGAGCTGAACCGTCG GGCTGAACTCGATGGGTGT
+LGMD R16 DAG1 Assay Hs00189308 (Applied Biosystem)
+LGMD R17 PLEC CGCCTTCTGCCACTGAAAGG AATGCCCTTCTTGTCTCCTCC
+LGMD R18 TRAPPC11 AGCATCCCAAGTGTGACTGG GAGACACATGGGGGATTCGG
+LGMD R19 GMPPB TTCACCGGTTCGTGGAGAAG TGTCCATCCAGAAGCCCTGT
+LGMD R20 ISPD AGGCCCTGGAGAGAGTATGTT CTTCGACCAGTGAGATGCGT
+LGMD R21 POGLUT1 GGTCTAAGGAAGCGGTAGCC AGTAGGGCATGAAGGCACAA
+LGMD R23 LAMA2 CGGCCTGGAAACTGGATTTTG GTTAGGCACTCCGTGTCTGT
+LGMD R24 POMGNT2 GAGTCCAGGCTTCAGGCTTTCA GAGATGACGGCCACTGGGAA
+
+NEW PAGE
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.05.08.489343; this version posted May 9, 2022. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. 
+Table S3
+TableS3.Listofantibodies.
+Protein Supplier Reference Dilution
+DNAJB6 Proteintech 117107-1-AP 1/100
+TNPO3 Abcam ab54323 1/100
+HNRnNPDL Thermofisher PA5-63354 1/100
+Calpain 3 Santa Cruz Sc-365277 1/100
+COL6A1, Proteintech 17023-1-AP
+COL6A2, Santa Cruz sc-374566 1/100
+COL6A3 Santa Cruz Sc-515335
+Dysferlin Abcam Ab124684 1/100
+1/100
+α-sarcoglycan Novocastra A-SARC-L-CE
+β-sarcoglycan Novocastra NCL-L-b-SARC 1/100
+γ-sarcoglycan Novocastra NCL-g-SARC 1/100
+δ-sarcoglycan Novocastra NCL-d-SARC 1/100
+Telethonin Santa cruz  sc-25327  1/100
+TRIM32 Abnova H00022954-M09 1/100
+FKRP Généthon Homemade 1/1000
+Titin US Biological T5650 1/100
+POMT1 Novus Biological NBP2-57200 1/100
+Anoctamin 5 Covalab pab0597-0 1/200
+Fukutin Abcam ab113233 1/300
+POMT2 Santa Cruz sc-393487 1/100
+POMGnt1 Santa cruz Sc-130459 1/400
+Dystroglycan 1 DSHB VIA41-s 1/10
+Plectin Abcam ab192706 1/400
+TRAPPCC11 Interchim Orb51790 1/100
+GMMPPB Proteitech 15094-1-AP 1/100
+ISPD Abcam ab222793 1/400
+POGLUT1 (=KTELC1) Proteintech 24409-1-AP 1/100
+Laminin α2 Abcam ab11576 1/100
+POMGnt2 LifeSpan BioSciences LS-C335679 1/200
+α-actinin2 Thermofisher 701914 1/100
+CD56-PE Miltenyi Biotec 130-090-755 1/100
+Desmin R&D AF3844 1/200
+MF20 (MHC) DSHB 3ea 1/100
+MyoD Dako M3512 1/50
+MyoG DSHB F5D-c 1/50
+Nanog Cell signaling 4903-s 1/100
+Oct4 Cell signaling 2840-s 1/100
+SSEA-3-PE Millipore 330312 1/10
+TRA-1-81-AF647 Covance 560124 1/25
+*Withoutpermeabilizationstep
+
+NEW PAGE

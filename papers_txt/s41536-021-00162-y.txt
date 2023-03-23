@@ -1,0 +1,865 @@
+www.nature.com/npjregenmed
+ARTICLE OPEN
+Plasma-assisted multiscale topographic scaffolds for soft
+and hard tissue regeneration
+✉
+Woochan Kim1,2,6, YonghyunGwon1,2,6, Yang-KyungKim3, SunhoPark1,2, Sung-JuKang3, Hyeng-KyuPark4, Myung-Sun Kim3 and
+✉
+Jangho Kim 1,2,5
+Thedesignoftransplantablescaffoldsfortissueregenerationrequiresgainingprecisecontroloftopographicalproperties.Here,we
+proposeamethodologytofabricatehierarchicalmultiscalescaffoldswithcontrolledhydrophilicandhydrophobicpropertiesby
+employingcapillaryforcelithographyincombinationwithplasmamodiﬁcation.Usingourmethod,wefabricatedbiodegradable
+biomaterial(i.e.,polycaprolactone(PCL))-basednitrogengas(N-FN)andoxygengasplasma-assistedﬂexiblemultiscalenanotopographic
+(O-FMN)patcheswithnaturalextracellularmatrix-likehierarchicalstructuresalongwithﬂexibleandcontrolledhydrophilicproperties.In
+responsetomultiscalenanotopographicandchemicallymodiﬁedsurfacecues,theproliferationandosteogenicmineralizationofcells
+weresigniﬁcantlypromoted.Furthermore,theO-FMNpatchenhancedregenerationofthemineralizedﬁbrocartilagetissueofthe
+tendon–boneinterfaceandthecalvarialbonetissueinvivoinratmodels.Overall,thePCL-basedO-FMNpatchescouldacceleratesoft-
+andhard-tissueregeneration.Thus,ourproposedmethodologywasconﬁrmedasanefﬁcientapproachforthedesignandmanipulation
+ofscaffoldshavingamultiscaletopographywithcontrolledhydrophilicproperty.
+1234567890():,; npjRegenerative Medicine           (2021) 6:52 ;https://doi.org/10.1038/s41536-021-00162-y
+INTRODUCTION complex micro- and nanoscale topographic features suggests its
+Designing functional scaffolds to effectively replace, repair, or crucial role in the regulation of physiologically relevant cellular
+engineerhumantissuesandorgansisoneofthemostpowerful functions (i.e., morphology, migration, proliferation, and differ-
+strategies in the ﬁelds of regenerative medicine and tissue entiation) in vivo7,13. Accordingly, obtaining a structural under-
+engineering1,2. The mechanical properties and architectures of standing of the multiscale topography of the ECM can provide
+scaffoldsservingastransplantableplatformsshouldbeprecisely important insights for the efﬁcient design and development of
+controlledfortheirapplicationtovarioustissuesandorgans3,4.In scaffolds for cell and tissue engineering. Several recent studies
+particular, transplantable scaffolds should possess appropriately have demonstrated that scaffolds designed according to the
+ﬂexible and foldable characteristics consistent with the anato- multiscale topographical organization of ECMs showed improve-
+mical site of the implant5. Such ﬂexible and foldable properties ment in behaviors and functions of cells along with enhanced
+allowforthescaffoldstoattachwelltovariousstructuressuchas tissue regeneration14–16. Importantly, scaffolds designed by
+theirregularsurfacesofbiologicaltissuesororgansandfacilitate mimicking highly aligned micro- and nanotopographical features
+handlingduringsurgicalimplantation.Inaddition,theseproper- of the bone ECM were found to promote not only the fate and
+ties are important for the treatment of tissues (e.g., bone, functions of stem cells but also induce bone tissue regenera-
+cartilage, muscle, tendon, ligament, and skin) that must be tion17,18. Accordingly, the application of such scaffolds that can
+guaranteed for motility during implantation. However, the effectively mimic the multiscaled environment of the well-
+design of a functional scaffold requires considerations beyond organized and highly aligned ECM has been highlighted as a
+mechanical properties. In particular, the architecture and promising strategy for accelerating tissue regeneration by
+structure of scaffolds must be considered alongside their improving cellfunction.
+mechanical properties to guarantee stable support as well as Numerous technologies and approaches have been applied to
+ensure an active nutrient supply to the regeneration site, cell develop scaffolds that mimic the topographical characteristic of
+adhesion induction, and biological interactions toward cells or the ECM for clinical use, such as three-dimensional printing,
+tissues6. Therefore, precisely designing scaffolds based on the electrospinning, and lithography19,20,21. In particular, such tech-
+biophysical properties of tissues and organs is a powerful nologies are greatly beneﬁcial to recreate the micro- or
+approach for regenerative medicine. nanostructuresandtopographyowingtotheirpropertiesofhigh
+In vivo, living cells are exposed to and surrounded by cellular resolution, size controllability, and large-area processing without
+microenvironments comprised of chemical factors, mechanical requiring sophisticated equipment and complex processes22–24.
+factors, cell–cell interactions, and structural factors of the Although various scaffolds with a simple micro- or nanotopo-
+extracellular matrix (ECM), which can eventually be converted graphy have been achieved, developing a complex multiscale
+into biological signals to regulate the functions, fates, and scaffold with a uniformly multiplex-nanosized topography or
+behaviors of cells that ultimately inﬂuence tissue formation and different nanostructures remains a challenge owing to the need
+function7–12. The well-deﬁned organization of the ECM with for sophisticated processing steps and limitations of appropriate
+1DepartmentofRuralandBiosystemsEngineering,ChonnamNationalUniversity,Gwangju,RepublicofKorea.2InterdisciplinaryPrograminIT-BioConvergenceSystem,Chonnam
+NationalUniversity,Gwangju,RepublicofKorea.3DepartmentofOrthopedics,ChonnamNationalUniversityHospital,Gwangju,RepublicofKorea.4DepartmentofPhysicaland
+RehabilitationMedicine,ChonnamNationalUniversityMedicalSchool&Hospital,Gwangju,RepublicofKorea.5InstituteofNano-StemCellsTherapeutics,NANOBIOSYSTEMCo.,Ltd,
+Gwangju61008,RepublicofKorea.6Theseauthorscontributedequally:WoochanKim,YonghyunGwon.✉email:mskim@chonnam.ac.kr;rain2000@jnu.ac.kr
+PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute
+
+NEW PAGE
+
+W.Kimetal.
+2
+fabrication techniques. Even when such complex designs can be and etching of surfaces with increasing plasma treatment times
+constructed,developingthelarge-scalemultiplex-nanosizedscaf- (Fig. 1b).
+foldsthatcanbeappliedtovarioustissuesororgansforavariety To verify whether the N reaction gas and various plasma
+2
+ofpurposesandcoversdefects,injuries,wound,orrepairablesite treatmenttimeconditionsusedintheplasmatreatmentprocess
+of several tens of centimeters of organs or tissues is limited by affected PCL properties, the polymer’s chemical characteristics
+current technical difﬁculties. Above all, it is crucial to design and wereanalyzed.Thefunctionalgroupsofplasma-treatedpatches
+manipulatescaffoldswithcontrolledmultiscalesurfaceproperties wereinvestigatedbyFT-IRspectroscopy(Fig.1c).Thecharacter-
+forcelland tissue engineering25,26. istic absorption bands related to PCL (i.e., CH asymmetric
+2
+Guided by these considerations, we here propose a new stretchingat2944cm−1,symmetricstretchingat2866cm−1,C=
+approach for scaffold design involving the manipulation of a O stretching vibration of carbonyl groups at 1721cm–1, and
+plasma-assisted ﬂexible multiscale nanotopographic patch, deformation of C–O at 1161cm–1) were detected in all patches.
+whichhasmultiscalestructureswithanalignednanotopography The chemical changes of the plasma-treated PCL patches were
+and etched nanoporous topography, by employing capillary notdetectedcomparedtothePCLpatches.Thesurfacechemical
+forcelithography(CFL)incombinationwithplasmatreatmentto composition of the N-FN patches was analyzed by XPS.
+mimic the porous structure of the ECM. For this purpose, we Comparison of the survey scan spectra of FN and N-FN patches
+fabricated US Food and Drug Administration (FDA)-approved showed three separated peaks in all XPS spectra, which
+polycaprolactone (PCL)-based N gas- (N-FN) or O gas plasma- correspond to C1s (285eV), N1s (400eV), and O1s (532eV)
+2 2
+assisted multiscale nanotopographic (O-FMN) patches that (Fig. 1d). A distinct N1s peak at 400eV in the N-FN patch
+showednaturalECM-likehierarchicalstructures,includinghighly spectrumindicatedthatN2plasmawassuccessfullyappliedonto
+aligned nanoscale matrix (ridges and grooves of ~800nm) with the FN patch. The surface atomic compositions of the FN patch
+nanosized pores (~100nm), along with ﬂexible and controlled were calculated to be 73.91%, 0.29%, and 25.81% for C1s, N1s,
+hydrophilic properties. Using these O-FMN patches as scaffolds, and O1s, respectively. The surface atomic compositions of the
+we investigated the inﬂuence of the multiscale hierarchical N-FNpatchwerecalculatedtobe61.83%,3.34%,and34.82%for
+topography and chemically modiﬁed surface cues on the C1s, N1s, and O1s, respectively. The high-resolution XPS N1s
+spectraoftheN-FNpatchesshowedthattheN1speaksoftheFN
+1234567890():,; paOtisrs-osFulaMiefeNpraarnpotdiaootfncc-ohaafel-vnscadoroinoanclsettbephooet,ngreewengetiiecsnsimnueverianetisenitoriagntlhaizoteaeftdaitonhntiemhoeraoflticamnetﬂloolusrd.eecnInluscf.efaFdtuoedrfnitthditoeohnrne-, amthnaedinFNNN-Fp–NaCt=pchaOtwcha(3es9sc9ca.9alcneuVlba)ete(Fddiegtc.oo1bmee)p.0oT.s5he1ed%aintaotnomdiacthccooosmenﬁpogofunNrea-nFtiNto:nwonaoesf
+2.96%forN–C=O.Assessmentofwettabilityofpatchesthrough
+more,wequantitativelyinvestigatedtherelativecontributionsof
+measurement of the water contact angle showed that FN
+aligned nanotopographic cues, nanoporous structure cues, and
+patches have a lower contact angle (82.56±1.8°) when
+chemicallymodiﬁedsurfacecuesoncellularbehaviorsandtissue
+compared with FF patches (88.32±1.7°) (Fig. 2a). The water
+regeneration.
+contact angle of both FF and FN patches gradually decreased
+withincreasingN plasmatreatmenttime,andthe30-minN-FN
+2
+patcheshadalowercontactangle(17±1.4°)thanthatof30-min
+RESULTS
+N-FF patches (21±2.1°). The wettability and hydrophilicity of
+Characteristics andproperties ofN-FN patches
+polymer surface treated with plasma are transient. The hydro-
+The abbreviations for all samples in this work are as follows: phobic properties of synthetic polymers are restored several
+ﬂexible ﬂat patch (FF patch), ﬂexible nanotopographic patch (FN hours after plasma treatment because uncured hydrophobic
+patch), N2 gas plasma-treated ﬂexible ﬂat patch (N-FF patch), N2 polymer chains migrate to the surface30. These phenomena, in
+gas plasma-treated ﬂexible nanotopographic patch (N-FN patch), addition to the oxidation process, include charge leakage from
+O2 gas plasma-treated ﬂexible ﬂat patch (O-FF patch), O2 thesurface,aswellasmigrationanddiffusionandredirectionof
+gas plasma-treated ﬂexible multiscale nanotopographic patch polar groups, and therefore depend on the surface treatment
+(O-FMNpatch). conditions, material properties, and storage conditions31.
+Figure1ashowsaschematicoftheplasmatreatmentprocess Accordingly, we conducted the hydrophobic recovery analysis
+used in this study (described in detail in “Methods”). In our to conﬁrm the maintenance of hydrophilicity and the storage
+previous works, we reported the structures and topography on period of scaffold surfaces in air and room temperature
+microenvironmentofnaturaltendonandboneECMs17,27.Brieﬂy, conditions immediately after the plasma treatment. The
+native tendons consist of well-organized and highly aligned plasma-treatedscaffoldswereusedimmediatelyaftertheplasma
+collagen ﬁbers in ECMs with ~86% type I collagen of type I and treatmentforinvitroandinvivoexperimentswithinanhour.To
+small amounts of type III collagen. These collagen ﬁbers were conﬁrm the hydrophobicity variation on the surface after N
+2
+cross-linkedwithproteoglycans,revealingcloselypackedparallel plasma treatment on the FN patch, static contact angle
+structures28.InthetendonECM,acollagenﬁberiscomposedofa measurements were made at various time points (30min, 1h,
+large number of ﬁbrils. Collagen ﬁbers that come together to 2h, 4h, 1 day, 2 days, and 6 days) after plasma treatment (Fig.
+form collagen ﬁbers vary in diameter from 500nm to 1μm. 2b). N-FN patches exhibited slight hydrophobic recovery at
+Collagenﬁbersareassembledtoformbundles(orfascia)thatare 30minto4handshowedsubstantialhydrophobicrecoveryfrom
+~10mm long and 1–20μm in diameter. These ﬁber bundles 1 to 6 days after plasma treatment. However, the hydrophilicity
+ﬁnally assemble to form tendon units 20–500μm in diameter29. ofN-FNpatcheswasmaintainedwhencomparedwiththestatic
+Cells are mainly located between the collagen ﬁbers and are water contact angle of FN patches.
+affected by the aligned collagen parallel array structure and
+pores which contributed to the exchange of oxygen and Invitroanalysis ofcell behavioron N-FN patches
+provided nutrition. Furthermore, the aligned nanotopographies ToinvestigatewhethertheN plasmatreatmentonthesurfacesof
+2
+of collagenﬁbers and nanopores are similarly observed in bone FF and FN patches inﬂuenced cell proliferation and attachment,
+extracellularmatrix17.SEMimagesofthesurfacemorphologyof we cultured human tenocytes on the patches for 6h (cell
+N-FNpatchesrevealedahighlyalignedtopographywithgrooves attachment assay), 3 days (cell proliferation assay), and 5 days
+and ridges (~800nm size), similar to the well-organized (cell proliferation assay), respectively (Fig. 2c). After 6h of cell
+topography of the native tendon ECM, without deformation culture,unattachedcellswereremovedbywashingwithPBS,and
+npjRegenerativeMedicine(2021)   52  PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute
+
+NEW PAGE
+
+W.Kimetal.
+3
+1234567890():,;
+Fig.1 SchematicofthefabricationandcharacterizationofaN-FNpatch.aFabricationofapolycaprolactone(PCL)-basedFNpatch.Inspired
+by the high aligned and well-organized nanotopography of the native ECM, the PCL-based FN patch was fabricated using capillary force
+lithography (CFL). Plasma surface modiﬁcation on the surface of the FN patch. The surface of the patches was modiﬁed using N plasma
+2
+reactiongas.bSEMimagesofthesurfaceofFNpatchestreatedbyN plasmareactiongasundervarioustimes.Scalebars=2µm.cFT-IR
+2
+analysis of the N-FF and N-FN patches treated plasma at various times. d XPS survey scans and e high-resolution N1s XPS spectra of FN
+patchesand30-minN-FNpatches.
+cellsattachedtothepatcheswerequantiﬁedbytheWST-1assay. examined by culturing cells on the two scaffolds in osteogenic
+Tenocytes were well attached on all patches, irrespective of induction medium for 14 days. Alizarin Red staining (Fig. 2d)
+topographic properties, and cells on the 30-min N-FF and N-FN revealed slightly higher calcium expression levels on the 30-min
+patches showed higher attachment than did those under other N-FN patches than on other samples and the tissue culture
+plasma treatment times. After 3 and 5 days of cell culture, cell polystyrene substrate (TCPS). Although the N-FN patches treated
+proliferationwashigheronthe30-minplasmatreatmentpatches for 30min showed the highest degree of quantiﬁcation on the
+when compared with those of the other groups (Fig. 2c). The osteogenic mineralization, there was no signiﬁcant difference
+osteogenic mineralization of tenocytes on the N-FN patches was fromtheother controlgroups.
+PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute npjRegenerativeMedicine(2021)   52 
+
+NEW PAGE
+
+W.Kimetal.
+4
+Fig.2 EffectofN-FNpatchesoncellularbehaviors.aWatercontactanglemeasurementoftheN-FNtreatedundervarioustimes(n=10for
+eachgroup).bWettabilityrecoveryonthesurfacesof30-minN-FNpatches(n=5).cAttachmentandproliferationofcellsonN-FNpatches.
+Quantitative analysis of cell attachment and proliferation on N-FF patches and N-FN patches showed a gradual increase with plasma
+treatment time (n=6 for each group). d Effect of N-FN patches on the osteogenic mineralization of tenocytes. Alizarin Red staining and
+quantiﬁcation of the degree ofosteogenesis showedthat the30-min N-FN patch promotedhigher calcium expressionlevelsof tenocytes
+whencomparedwithothergroups(n=6foreachgroup).Scalebars=200µm.Errorbars=mean±standarddeviation(*P<0.05).
+Characteristics andproperties ofO-FMN patches observed due to etching and volatilization, which were not
+Figure 3a shows a schematic of the plasma treatment process generated in the N-FN patches. The O-FMN patches showed the
+usedinthisstudy(describedindetailin“Methods”).SEMimages uniform distribution of various pore sizes and more pores,
+of the surface morphology of the O-FMN patches revealed a depending on the O2 plasma treatment time compared to the
+highlyalignedtopographywithgroovesandridges,similartothe O-FFpatches(Fig.3bandSupplementaryFig.1).Theaveragepore
+well-organizedtopographyofthetendonECM(Fig.3b).Nanosized sizesof30minO-FMNand30minO-FFpatcheswereanalyzedas
+pores generated by O plasma treatment for 30min were 192.84and145.16nm,respectively.Theseresultsareduetowhen
+2
+npjRegenerativeMedicine(2021)   52  PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute
+
+NEW PAGE
+
+W.Kimetal.
+5
+Fig. 3 Characterization of the O-FMN patch and effect of the O-FMN patch on cellular behaviors. a Schematic of plasma surface
+modiﬁcationusingO plasmareactiongasonthesurfaceoftheFNpatch.bSEMimagesoftheO-FMNpatchundervarioustreatmenttimes.
+2
+ThesurfacetopographyoftheO-FMNpatchshowedthegenerationofnanoporestructureswithoutdamagetothealignednanotopography.
+Scalebars=2µm.cFT-IRanalysisofthe30-minO-FMN.dXPSsurveyscansandehigh-resolutionO1sXPSspectraofFNpatchesand30-min
+O-FMNpatches.fWatercontactanglemeasurements(n=10foreachgroup)andwettabilityrecovery(n=5)onsurfacesoftheO-FMNpatch.
+gAttachmentandproliferationofcellsonO-FMNpatches(n=6foreachgroup).After5daysofcellculture,cellproliferationwashigheron
+the30-minO-FMNthanonthe30-minN-FN.hEffectofO-FMNpatchesontheosteogenicmineralizationoftenocytes.AlizarinRedstaining
+revealedhighercalciumexpressionlevelsonthe30-minO-FMNpatchesthanonothersamplesandthetissueculturepolystyrenesubstrate
+(TCPS). Quantiﬁcation of osteogenic mineralization demonstrated the highest degree of osteogenesis by the cells on the 30-min O-FMN
+patches(n=6foreachgroup).Scalebars=200µm.Errorbars=mean±standarddeviation(*P<0.05).
+oxygen plasma is treated on the ﬂat surfaces of polymeric separatedpeakscorrespondingtoC1s(285eV),N1s(400eV),and
+materials, the collision radius or sidewall collision of the reactive O1s (532eV). A distinct O1s peak at 532eV in the O-FMN patch
+oxygenspeciesoccurssigniﬁcantlyless.Incontrast,onthesurface spectrum indicated that the O plasma had been successfully
+2
+with nanotopography, the sidewall collision and the collision appliedontotheFNpatch.Thesurfaceatomiccompositionsofthe
+radiusincreaseduetothediffusionofreactiveoxygenspeciesin FN patch were calculated to be 73.91%, 0.29%, and 25.81%, and
+thenanostructures,sothatthebombardmentandoxidizingeffect thoseoftheO-FMN patcheswerecalculated tobe63.7%,0.23%,
+occurs actively, forming numerous largepores32. and 36.07% for C1s, N1s, and O1s, respectively. The high-
+However, these pores did not result in notable deformation to resolution XPS O1s spectra showed that the O1s peak of the FN
+thehighlyalignednanotopography.Thisresultindicatedthatthe andO-FMNpatchescanbedecomposedintothreecomponents:
+generationofnanosizedporesontothealignednanotopography C–O component (531.69eV) and C=O (532.39eV), and O=C–O
+could form multiscale nanostructures similar to the complex (533.3eV)components(Fig.3e).Theatomicconﬁgurationsofthe
+microenvironment of the ECM. Thus, we hypothesized that the FNpatchwerecalculatedtobe11.7%,6.83%,and7.49%forC–O,
+combination of multiscale nanostructures comprising nanopores C=O,andO=C–O,respectively.Theatomicconﬁgurationsofthe
+and a well-deﬁned nanotopography and functional groups O-FMN patch were calculated to be 10.29%, 13.48%, and 11.97%
+applied by O plasma treatment would provide a physiochemi- for C–O, C=O, and O=C–O, respectively. The wettability of the
+2
+cally synergetic effect to improve cell afﬁnity along with cell O-FF and O-FMN patches was evaluated by water contact angle
+functionand tissue regeneration. measurement,showingthatFNpatcheshadalowercontactangle
+To conﬁrm whether the O reaction gas used in the plasma (82.56±1.8°)thanFFpatches(88.32±1.7°)(Fig.3f).Similartothe
+2
+treatment process changed PCL properties, the chemical char- N-FFandN-FNpatch,thewatercontactangleofO-FFandO-FMN
+acteristicsofthepolymerwereanalyzed.Thefunctionalgroupsof patches after plasma treatment were decreased, and 30-min O-
+the O-FMN patch were investigated by FT-IR spectroscopy (Fig. FMNpatcheshadalowercontactangle(18.4±1.1°)thandid30-
+3c). The characteristic absorption bands related to PCL (i.e., CH min O-FF patches (22.01±2.2°). To conﬁrm the hydrophobicity
+2
+asymmetric stretching at 2944cm−1, symmetric stretching at variationonthesurfaceofO-FMNpatches,thestaticcontactangle
+2866cm−1, C=O stretching vibration of carbonyl groups at measurements were conducted over O plasma treatment time
+2
+1721cm–1, and deformation of C–O at 1161cm–1) weredetected (30min,1h,2h,4h,1day,2days,and6days).AsshowninFig.3f,
+in all samples, showing that functional groups were well O-FMNpatchesexhibitedsmallhydrophobicrecoveryat30minto
+maintained and were not affected by plasma treatments. The 4handsubstantialhydrophobicrecoveryat1dayto6daysafter
+surface chemical composition of the O-FMN and FN patches was plasma treatment. However, the hydrophilicity of the O-FMN
+analyzed by XPS. As shown in Fig. 3d, all XPS spectra had three patch was well maintained compared with the high static water
+PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute npjRegenerativeMedicine(2021)   52 
+
+NEW PAGE
+
+W.Kimetal.
+6
+contact angle of FN patches. To conﬁrm whether the generation performedtoevaluatethehistologicqualityontheconnectionof
+of the pores on the scaffold surfaces affects the change in collagen ﬁbers in the tendon–bone interface, orientation and
+mechanicalstrength,thetensilestrengthsoftheFF,FN,30minO- density of the collagen ﬁbers, maturity of the tendon–bone
+FF, and 30min O-FMN patches were measured using a tensile interface, and cell conﬂuency of the regenerated RC tendon and
+tester and assessed (Supplementary Fig. 2). When a load was mineralized ﬁbrocartilage tissue 4 weeks after repair with non-
+applied along the direction of the aligned topography, the FN treatedpatches,30-minN plasma-treatedpatches,and30-minO
+2 2
+patcheswiththealignednanotopographyexhibitedslightlylarger plasma-treated patches (Fig. 4b and Supplementary Fig. 3). No
+tensile stress (~10.38MPa) than that (~9.62MPa) of FF patches infection,contracture,mobilitydisability,orinﬂammatoryreaction
+with the ﬂat topography. However, the 30min O-FF patches and were observed in any of the rats throughout the postoperative
+the 30min O-FMN patches with nanopores generated oxygen period. The tissues from rats treated with the N (N-FF and N-FN
+2
+plasma treatment showed no signiﬁcant difference compared to patches) and O (O-FF and O-FMN) plasma-treated patches
+2
+the FF patch and the FN patch, respectively (Supplementary Fig. showednativerattendontissue-likehistologicalhealingpatterns
+2).ThistrendwasmeasuredinbreakpointstrainanalysisofFF,FN, (Supplementary Fig. 4), with high ratios of tendon tissue
+30minO-FF, and 30minO-FMNpatches. regeneration observed in the sections under the patches. The
+RCtendonsrepairedusingtheFNpatchesshowedwell-organized
+collagen ﬁbers of high density, whereas those of the FF control
+Invitrocell behaviors on O-FMNpatches
+groups showed sparse ﬁbrous tissue and low cell conﬂuence of
+Cell attachment and proliferation on N-FN and O-FMN patches
+theboneandﬁbrocartilageatthewoundsite(Fig.4c).Inaddition,
+were both higher than those on FF patches. In addition, after
+the tendon tissues treated with the N (N-FF and N-FN patches)
+5daysofcellculture,cellproliferationwasconsiderablyhigheron 2
+and O (O-FF and O-FMN) plasma-treated patches showed
+O-FMN patches treated with O plasma for 30min than that 2
+2 organizationofthecollagenﬁberssimilartothatofnativetendon
+observedon30-minN-FNpatches(Fig.3g).Thissuggeststhatthe
+tissues, with increased amounts of cellular at the tendon–bone
+surface modiﬁed by O plasma may provide various cell-friendly
+2 interface compared to those of non-treated groups. The
+functional groups and hierarchically topographical environments
+ﬁbrocartilage tissues at the tendon–bone interfaces treated with
+that are similar to the complex microenvironment of the ECM,
+the O-FMN patch showed a more well-organized vertical
+thus promoting the proliferation and attachment of tenocytes
+arrangement compared to those of the non-treatment groups
+when compared with the surface modiﬁed by N plasma. In
+2 and N-FN patch groups. Importantly, the ﬁbrocartilage tissues at
+addition,weexaminedtheosteogenicmineralizationoftenocytes
+the tendon–bone interfaces from rats treated with the O-FMN
+on the N-FN and O-FMN patches by culturing cells in osteogenic
+patch showed a vertical arrangement, alignment, and increased
+induction medium for 14 days. Alizarin Red staining (Fig. 3h)
+amounts of cellular similar to the native tendon tissue (Fig. 4c).
+revealed higher calcium expression levels on the O-FMN patches
+The O-FMN patch had an obvious positive inﬂuence on the
+for 30min than on N-FF and N-FN patches for 30min and the
+collagen organization, connection, and tendon tissue regenera-
+TCPS.Quantiﬁcationof osteogenicmineralization further demon-
+tion, resulting in a structure similar to that of native RC tendon
+strated the highest degree of osteogenesis by cells cultured on
+tissues and ﬁbrocartilage tissues at the tendon–bone interface.
+the 30-min O-FMN patches. These results suggest that plasma
+These results indicate the importance of a precisely aligned
+treatment of FN patches may provide cell-friendly functional
+nanotopography and nanosized pore, which generated the
+groups and topographical environments to enhance the attach-
+multiscale structure of the native ECM microenvironment to
+ment,proliferation,anddifferentiationoftenocytes.Therefore,the
+effectivelyguide tendon tissue and ﬁbrocartilage regeneration.
+highly aligned nanotopography, generation of nanosized pores,
+Basedonthequalitativehistologicalanalysisoftheeffectofthe
+andvariousfunctionalgroupsinducedbyplasmatreatmentusing
+O-FMNpatch presented as arepair strategy for RC tendon tissue
+O gas synergistically contributed to the proliferation and
+2 rupture, a semiquantitative histology analysis was performed
+differentiation oftenocytes.
+usingtheBonarscoringsystem(Fig.4dandSupplementaryTable
+1). Cell morphology, ground substance, collagen arrangement,
+Invivo animalstudy forsoft- andhard-tissue regeneration and vascularity changes were observed in all groups and were
+RCtendontearsareoneofthemostcommoncausesofshoulder graded depending on Bonar score (Supplementary Table 2). The
+pain33.SurgicalrepairsofRCtendontearshavehighre-tearrates, cell morphology and collagen arrangement scores of the O-FMN
+and thus many devices have been developed to augment the patch group were signiﬁcantly lower than those of other groups
+repair efﬁcacy34. However, repairing defected mineralized ﬁbro- (Fig. 4d). The ground substance and vascularity scores of the
+cartilageofthetendon–boneinterfacethatcausesthehighre-tear O-FMN patch group were similar to the score of the O-FF patch
+rateofRCremainsachallenge.Here,weproposeanapproachfor group but were signiﬁcantly lower than those of other patch
+the regeneration of mineralized ﬁbrocartilage tissue of the groups. Overall, the total histological score of the O-FMN patch
+tendon–bone interface. According to the results of in vitro group was signiﬁcantly lower than those of other patch groups
+analyses with tenocytes, we determined the optimum plasma (Fig. 4d). These results indicate the importance of the oxygen
+treatmenttimeandplasmareactiongas(O vs.N )basedontheir plasma treatment, a precisely aligned nanotopography, and the
+2 2
+effects on cell proliferation and differentiation. Since the O-FMN nanoporousstructuresinsyntheticECMsforguidingtendontissue
+patch mimicking the multiscale ECM nanostructure with various andﬁbrocartilageregeneration.
+functional groups could provide an efﬁcient environment for cell In addition, we conﬁrmed the effects of N and O plasma
+2 2
+proliferationandosteogenicmineralization,wehypothesizedthat treatment and nanotopograhpy throughout bone regeneration
+the O-FMN patch with a highly aligned nanotopography, invivo(Fig.4e).Allmiceusedintheinvivostudiessurvivedtothe
+nanosized pore, and various functional groups would effectively dateofsacriﬁce,noadverseeventswereobserved.FNpatch,N-FN
+guide RC tendon and mineralized ﬁbrocartilage tissue regenera- and O-FMN patch were engrafted onto the calvarial bone defect
+tion. To conﬁrm the tissue regeneration efﬁcacy of the O-FMN with 5mm diameter (Fig. 4e). No infection or inﬂammatory
+patch,an acute RC tendon tearrat modelwas established. response was observed in any mice during the postoperative
+Figure 4a shows the procedure of implantation of patches at period. The implanted patches were maintained for 6 weeks
+the RC repair site (i.e., all samples were implanted after without deformation. To conﬁrm the bone regeneration efﬁcacy
+tenorrhaphy immediately following artiﬁcial tendon rupture). All from N and O plasma treatment and nanotopograhpy, we
+2 2
+rats survived to the designated sacriﬁce date, and no adverse conductedtheH&Estainingat6weeksafterimplantation(Fig.4f).
+eventswereobserved.Hematoxylinandeosin(H&E)stainingwas As the result, the bone of the defect groups was empty in the
+npjRegenerativeMedicine(2021)   52  PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute
+
+NEW PAGE
+
+W.Kimetal.
+7
+Fig.4 EffectoftheO-FMNpatchesonthetendonandbonetissueregeneration.aSurgicalprocedureforRCtendonrepair.Allpatches
+weregraftedontothedefected tendontissueafter tenorrhaphyof thetornRCtendon(n=3foreach group).bRepresentativehistologic
+imagesofH&EstainingandcMassontrichromestainingoftheinsertionsiteofFF,FN,30-minN-FF,30-minN-FN,30-minO-FF,and30-minO-
+FMN patches onto the supraspinatus tendon 4 weeks after repair. Scale bars=200µm. d Semiquantitative analysis of the histological
+evaluationscoresonrepairedtendontissuesofRCtearanimalmodels.eSurgicalprocedureforratcalvarialbonerepair(n=5foreachgroup).
+fRepresentativehistologicimagesofH&EstainingoftheinsertionsiteofFN,N-FN,andO-FMNpatchesontoratcalvarialbone6weeksafter
+repair. Scale bars=1mm.g Representative micro-CT image after 3and 6 weeks of repair. Scale bars=5mm(3 weeks). Scale bars=1mm
+(6weeks).hQuantitativeanalysisofbonevolumeandareaoftheboneregenerationsiteafter3and6weeksofrepair.Errorbars=mean±
+standarddeviation(*P<0.05).
+defectarea.Moreboneformationanddensecytoplasmoccurred 47.92mm2 in the O-FMN patch groups (Fig. 4h). The results of
+inO-FMNpatches comparedto other groups wereconﬁrmed. bone regeneration and formation provide insight into the
+To quantitatively evaluate the effects of nanotopography and importance of nanotopography and O plasma treatment cues
+2
+plasmatreatmentonboneformation,weperformedmicro-CTand forinducing hard-tissueregeneration.
+3D-image conversion using the MIMICS 14.0 software on new
+bone defects in vivo. As shown in Fig. 4g, formation of bone by
+Quantitative investigation ofrelativecontributions
+thenanotopographicandplasma-treatedpatchesoccurredalong
+Based on these in vitro and in vivo results, we quantiﬁed the
+the periphery of the bone defect and grew along the patches.
+capability of tissue regeneration and cell function enhanced by
+After3,6weeks,thecompactboneformationwasnotobservedin
+the beneﬁcial effects of the O-FMN patch on proliferation and
+the defect group, FN patch groups, and N-FN groups whereas
+boneregenerationwassigniﬁcantlyenhancedintheO-FMNpatch differentiation (Supplementary Fig. 5). Quantitative investigation
+groupsafter3,6weeksofimplantation.Thenewboneformation of relative contributions was derived by setting the raw average
+wasobservedfromedgetocenterdependingonnanotopograhpy values of the proliferation and osteogenic mineralization absor-
+direction. At the 6 weeks, the bone volume was 1.91mm3 in the bance of the FF patch as 1, and calculating relatively the
+defectgroup,2.43mm3intheFNpatchgroups,and3.38mm3in absorbance of the FN, 30-min N-FF, 30-min N-FN, 30-min O-FF,
+theN-FNpatchgroups,and4.25mm3intheO-FMNpatchgroups and30-minO-FMNpatches.ThealignednanostructureoftheFN
+(Fig. 4h). The bone area was 19.81mm2 in the defect groups, patch, functional groups applied by N plasma treatment, and
+2
+26.09mm2FNpatchgroups,37.92intheN-FNpatchgroups,and nanosized pores and functional groups generated by the O
+2
+PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute npjRegenerativeMedicine(2021)   52 
+
+NEW PAGE
+
+W.Kimetal.
+8
+plasmatreatmentcouldonlypromoteproliferationbyafactorof morphology,migration,proliferation,differentiation,andmetabo-
+1.01,1.12,and1.1,respectively,andosteogenicdifferentiationwas lism of cells. In conjunction with these aspects, we developed a
+promoted by a factor of 1.37, 1.32, and 1.44, respectively. The methodology to fabricate a multiscale scaffold with a highly
+combination of a nanotopography and N plasma treatment aligned nanotopography in combination with a nanoporous
+2
+increased proliferation and osteogenic differentiation by a factor structure inspired by the complex topographical features of the
+of 1.36 and 1.4, respectively. In addition, the combination of naturalECM.First,tofabricatethehighlyalignednanotopography,
+nanotopographyandO plasmatreatmentsigniﬁcantlyincreased we used CFL technology, which can easily control the micro- or
+2
+theproliferationandosteogenicdifferentiationbyafactorof1.74 nanotopography sizes and structures with scalable and highly
+and1.78,respectively,furtherconﬁrmingtheenhancedeffectsof reproducible properties using various biomaterials as well as
+highly aligned nanotopography, nanosized pores, and functional polymeric materials17,50,51. Second, to fabricate the nanoscale
+groups.Thissynergeticeffectmaybeduetoimprovementincell porous structure onto this highly aligned nanotopography, we
+topography or cell–cell interactions from the highly aligned employed O plasma surface treatment, which can structurally
+2
+nanotopography and nanosized pores generated by O plasma modify the polymeric surface owing to the volatility of chemical
+2
+treatment. bonding52–54. Various reaction gases such as nitrogen, oxygen,
+argon,andairhavebeenusedinplasmatreatmentforpolymeric
+surface modiﬁcation55. Among the various gases for the surface
+DISCUSSION plasmamodiﬁcationsofbiomaterials,O plasmasurfacemodiﬁca-
+2
+Developingafunctionalscaffoldiscrucialforeffectivelyreplacing, tionhasbeenprovenasaneffectiveandinexpensivestrategyto
+repairing, or engineering human cells, tissues, and organs to alterphysicochemical,mechanical,andbiologicalpropertiessuch
+restoreorestablishnormalbiologicalfunction4,9,35.Inparticular,a as roughness, wettability, hardness, and biocompatibility56. The
+transplantablescaffoldshouldbedesignedtoallowforcontrolof oxygen plasma induces pore formation by etching the polymer
+the mechanical properties, architectures, structures, biodegrad- surfacethroughthereactionofsurfacecarbonatomswithvarious
+ability, and biocompatibility to suit the purpose for regenerating oxygen species in the plasma, including electrons, ions, radicals,
+thefunctionofthetissuesororgansofinterest.Basedonthekey andneutralmolecules,toproducevolatilereactionproductssuch
+consideration of designing a transplantable scaffold, we devel- asH OandCO .Theformationofporesisduetotheimpactand
+2 2
+oped ﬂexible multiscale nanotopographic patches (O-FMN) oxidation effects on the polymer surface induced by energetic
+inspired by the in vivo-like microenvironment of the ECM of ionsand radicals present in theoxygen plasma57.Although both
+tendontissuebyemployingCFLandplasmatreatmentusingthe oftheoxygenandnitrogengasplasmaintroducechemicalgroups
+FDA-approved PCL polymer, which possesses advantageous tothepolymersurface,thenitrogengasplasmaisnotresponsive
+properties of biocompatibility and biodegradability. Thus, we enough to generate porous structures of the surface of the PCL
+consideredfourmajorfactorsfordesigninganefﬁcientscaffoldas scaffolds because it has signiﬁcantly lower reactivity with carbon
+atransplantableplatform:(i)ﬂexibilitywithrespecttomechanical atomsthanoxygengasplasma58.Inaddition,O plasmahasbeen
+2
+properties, (ii) topographical properties, (iii) biodegradability, and used to produce carboxyl, carbonyl, and hydroxyl functional
+(iv)biocompatibility. groups altering surface chemistry and increasing hydrophilicity
+(i) Flexibility with respect to mechanical properties: The onto the surface of various polymers to improve cell attachment
+mechanicalpropertiesofascaffoldshouldbedesignedtomatch and strength of adherence to these plasma-treated surfaces cell
+withtheimplantationsitetissuesorshouldbesufﬁcienttoshield attachment, proliferation, and differentiation59. Thus, we suggest
+cells from destructive compressive or tensile forces without an efﬁcient design methodology combining CFL and oxygen
+inhibiting suitable biomechanical signals while allowing for plasma treatment to obtain a scaffold with multiscale nanotopo-
+persistence under physiological conditions36,37. In particular, graphy for creating native ECM-like structures for advanced
+achieving ﬂexible bio-integrated scaffolds against the highly soft applications oftissue engineeringand regenerativemedicine.
+and irregularly shaped surfaces of human tissues has been a (iii and iv) Biodegradability and biocompatibility: In this study,
+primary goal for diagnostic and therapeutic capabilities16,38. we selected the PCL polymer to design the transplantable
+Accordingly, using a PCL polymer, we developed a patch-type scaffolds due to its suitability for tissue regeneration and wide
+ﬂexiblesubstrate fortransplantationinhuman tissueprior tothe applicationsinthebiomedicalengineering.PCLisoneofthemost
+implementation of multiscale nanotopography onto the PCL- widely used polymers for fabricating biomedical scaffolds due to
+basedﬂexiblesubstrate.PCLpolymerisoneofthemajorsynthetic its controllable biodegradability within months to years depend-
+polymers used for the fabrication of scaffolds as biomaterials in ing on the molecular weight, crystallinity of the polymer, and
+the biomedical ﬁeld owing to its good mechanical strength, degradationconditions17,60–66.PCLhastheabilitytopromotethe
+extremely high elongation potential, and suitable ﬂexibility formation and growth of new tissues, and its performance
+depending on the thickness of the scaffold39–41. Therefore, we degrades when sufﬁcient tissue regeneration occurs, while
+assert that PCL-based ﬂexible multiscale nanotopographic (O- supportinganddisposingofdefects,makingitasuitablematerial
+FMN) patches provide the ability to intimately contact the forreplacingorrepairingdamagedtissue.Furthermore,sincePCL
+curvilinear, actively moving surface of living biological tissues isrelativelyinexpensiveinadditiontobeingalreadyapprovedby
+such as the skin, muscles, cartilage, and tendon because of the theUSFDA,scaffoldsbasedonPCLpolymercouldbemoreeasily
+thinand ﬂexible properties. commercializedthanthosebasedonotherbiomaterials.Thus,PCL
+(ii) Topographical properties: In the ECM microenvironment, is one of the ideal materials for developing the implantable
+various cells are exposed to very complex and controlled scaffoldsfortissue regeneration orreplacement ofa defective or
+topographical signaling cues with different combinations of damagedorgan.However,althoughPCLhasbiocompatibilityand
+micro- and nanoscales such as aligned collagen structures, mesh biodegradability, its low bioactivity (associated with the absence
+collagenstructures,andtheporousstructureoftheECMinvarious of bioactive chemical groups on its surface) and low surface
+tissues11,42. In conjunction with these aspects, previous studies energy clearly reduce cell afﬁnity and inhibits cell interactions,
+have described various artiﬁcial ECM platforms inspired by the thereby slowing tissue regeneration64. Therefore, the use of
+nativeECMmicroenvironment, whichhave uniquestructural and synthetic polymers (including PCL) for the development of
+topographical properties, such as the bone17,25,43,44, skin7,45, efﬁcient scaffolds for tissue engineering must overcome these
+muscle35,46, and tendon27,47–49. Consequently, these scaffolds limitations. To address this issue, we used plasma treatment to
+designedincompliancewiththemultiscaletopographicalproper- enhance cell afﬁnity and bioactivity to fabricate surface-modiﬁed
+ties of the ECM appear to be crucial to control and improve the hydrophilic scaffolds. Plasma modiﬁcation can improve the
+npjRegenerativeMedicine(2021)   52  PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute
+
+NEW PAGE
+
+W.Kimetal.
+9
+hydrophilicity of polymers by inducing speciﬁc functional groups owing to multiscale nanotopography cues with an aligned
+on the surface, thereby altering the chemical signature, wett- nanotopography and nanoporous structure. The aligned nanoto-
+ability, and energy without altering the bulk properties. In pography and porous properties of the patch can be more
+addition,theplasmatreatmenthasefﬁcientpropertiestochange efﬁciently applied to the complex microenvironment of the
+the chemistry and structures of the surface with high control mineralized ﬁbrocartilage and bone compared to a single scale
+without additional solvents, allowing for reducing the chemical nanotopography design. Furthermore, these structural properties
+reagents used and their intrinsic sterility due to the presence of inthelivingcellenvironmentsplayanimportantroleinproviding
+highlyenergetic species67. an active nutrient supply as well as enabling enhanced tissue
+Comprehensively, as a design methodology to fabricate a bonding and precise cell-topography interactions that are
+transplantablescaffold, wepropose severalstrategies toimprove required to guide cells toward the nanotopographical cue for
+bioactivityandbiofunctionality.PCL-basedFMNpatcheshavethe reconstructing tissue in a manner similar to native tissue
+ability to intimately contact a curvilinear surface. Inspired by the formation. Moreover, the ﬂexible and hydrophilic properties of
+complex multiscale structure and nanotopographical features of ﬂexible multiscale nanotopographic patches provided compact
+the native ECM, a material with a multiscale topography, and a adaptation to the curved tissue surface of the tendon–bone
+nanoporousandalignednanotopographywereconstructed onto interface and bone for easy handling during surgical procedures.
+ﬂexible PCL substrates using CFL technology and O2 plasma Thus, the mechanical and structural properties of the O-FMN
+etchingforenhancedcellularfunctionsandbehaviorsintermsof patch might improve cellular functions and behaviors to
+architecturalproperties.Toovercomethelimitationswithrespect eventually promote tendon andbone tissue regeneration.
+tocellafﬁnityandbioactivityduetothehydrophobicpropertyof Theinvitroandinvivoexperimentsdemonstratedtheeffectof
+PCL, the PCL substrates were treated with N2 or O2 plasma, multiscale nanotopographic cues with an aligned nanotopogra-
+therebyinducingcertain functional groups on thesurface. phy and nanoporous structure on the enhanced behaviors and
+Ourinvitrostudyyieldedthreeinterestingﬁndingsintermsof
+functionsofcellstopromotetissueregeneration.Onthebasisof
+the highly aligned nanotopographical cue and nanoporous
+our study, weproposeother potential biomedicalapplications of
+structure of the multiscale structures along with the effects of
+this PCL-based O-FMN patch. For example, this scaffold or
+the plasma treatment on cellular behaviors. First, the highly technology may allow for the fabrication of precisely deﬁned
+alignednanotopographicalcuesimprovedosteogenicmineraliza-
+complex multiscale (micro- or nanosized) substrates for tissue
+tion. Second, N plasma treatment for 30min onto the highly
+2 regenerationinvariousorgans(e.g.,theskin,nerve,tooth,muscle,
+aligned nanotopographical patch and ﬂat patch enhanced cell
+and heart). Recently, stem cell-based therapy has been high-
+proliferation. In particular, the combination of N plasma
+2 lighted as another promising strategy for maximizing the
+treatment for 30min and the highly aligned nanotopographical regeneration of various tissues68–70. Accordingly, our O-FMN
+cues signiﬁcantly improved osteogenic mineralization. Based on
+patch could be integrated with a stem cell platform to obtain
+theseﬁndings,wehypothesizedthatplasmatreatmentfor30min
+better control and enhancement of stem cell behaviors and
+canmaximizetheefﬁciencyofcellularbehaviors.Third,O plasma
+2 functions as well as to prevent their loss in the targeted tissue
+treatment for 30min generated nanopores, and the multiscale
+area.Moreover,thisplatformofaﬂexiblepatchtypecanbeused
+nanotopographical cues with the aligned nanotopography and
+to design and fabricate transplantable biomaterials that require
+nanoporousstructuresconsiderablyimprovedcellproliferationas
+ﬂexibility, such as artiﬁcial blood vessels, dental membranes,
+well as the osteogenic mineralization of cells. Consequently,
+wounddressings,andartiﬁcialelectronicskin,giventheabilityfor
+in vitro study showed that the O-FMN patch with an aligned
+compact adaptation to the underlying tissue. Overall, this study
+nanotopographyandnanoporousstructure,alongwithadditional
+provides new insight into the design of efﬁcient multiscale
+chemical functionality by plasma treatment provides a suitable
+topography-based scaffolds forvarious biomedicalapplications.
+environment for cell growth and function. Based on our
+Inthisstudy,wetriedtoshowthepotentialfortheeffectiveness
+observation on proliferation and osteogenic mineralization, we
+of the novel scaffolds for soft- and hard-tissue regeneration in
+propose the following possible mechanism for the enhancement
+on a ﬂexible multiscale nanotopographic patch (Supplementary rotator cuff tear and cranial defects in animal models. (Fig. 4).
+Sincewedemonstrated theimportantevidence onthe functions
+Fig.5):
+of scaffold (e.g., morphological analysis and histological evalua-
+1. Enhanced cellular behaviors from the nanotopography, tion) in this study, especially for clinical applications, detailed
+based on (i) the enhanced proliferation factor [from 1 (FF invivostudies(e.g.,largeanimalmodels,biomechanicaltests,and
+patch) to 1.01 (FN patch)] and (ii) enhanced osteogenic physiological functions, etc.) should be performed using the
+mineralization factor [from 1(FF patch) to1.37 (FNpatch)]. proposedscaffolds.
+2. Enhanced cellular behaviors from plasma treatment, based Inconclusion,Ahierarchicalmultiscalepatchcanbeusedasan
+on(i)theenhancedproliferationfactor[from1(FFpatch)to efﬁcient methodology for the design and manipulation of
+1.12(N-FFpatch)andfrom1(FFpatch)to1.1(O-FFpatch)], scaffoldswithaﬂexiblemultiscaletopographytoenhancecellular
+and (ii) enhanced osteogenic mineralization factor [from 1 behaviors and tissue regeneration. FMN patches with precisely
+(FFpatch)to1.32(N-FFpatch)andfrom1(FFpatch)to1.44 controlled hydrophilic properties and hierarchical nanostructures
+(O-FFpatch)]. of the surface were fabricated via CFL and plasma surface
+3. Enhanced cellular behaviors due to the combination of modiﬁcationusingaPCLpolymer.Weproposethatahierarchical
+nanotopography and plasma treatment, based on the (i) multiscale scaffold comprising nanotopographic and chemically
+enhanced proliferation factor [from 1.01 (FN) to 1.36 (N-FN modiﬁed surface cues could provide a native ECM-like physico-
+patch)andfrom1.01(FNpatch)to1.74(O-FMNpatch)],and chemical microenvironment for controlling the proliferation and
+(ii)enhancedosteogenicmineralizationfactor[from1.37(FN osteogenic mineralization of cells. N or O plasma-assisted
+2 2
+patch)to1.4(N-FNpatch)andfrom1.37(FNpatch)to1.78 multiscale nanotopographic scaffolds showed good potential for
+(O-FMNpatch)]. regeneration of the tendon, the mineralized ﬁbrocartilage, and
+Using the O-FMN patch, we demonstrated that the complex bone tissue. Consequently, our quantitative investigation collec-
+ECM-like multiscale nanotopography feature could promote the tively demonstrated that combinations of an aligned nanotopo-
+tissue regeneration of the mineralized ﬁbrocartilage of the graphic, nanoporous structure, and chemically modiﬁed surface
+tendon–bone interface and calvarial bone. This ﬁnding was due cues could enhance effects on cellular behaviors. Our study
+to the enhanced cell proliferation and osteogenic mineralization provides insight into the design and manipulation of a ﬂexible
+PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute npjRegenerativeMedicine(2021)   52 
+
+NEW PAGE
+
+W.Kimetal.
+10
+multiscale topography with controlled hydrophilic properties for 30min each under 30W generation power, 60 sccm gas ﬂow rate, and
+promotingsoft- and hard-tissue regeneration. 5.52e−1Torrpressure.
+Characteristics andproperties analysis
+METHODS
+Designandfabrication ofaﬂexible nanotopographic (FN) N-FF and N-FN patches treated for 0, 1, 5, 10, 20, and 30min were
+analyzed, and O-FF and O-FN patches treated for 0 and 30min were
+patch
+analyzed using a high-resolution ﬁeld-emission scanning electron micro-
+Becauseofthesurfacechargeofthesiliconwafer,thenanotopographical scope(FE-SEM),Fouriertransform-infraredspectroscopy(FT-IR),andX-ray
+PCLpatchimprinteddirectlyonthesiliconwaferwasnoteasilypeeledoff.
+photoelectron spectroscopy (XPS). FE-SEM images of the surface of all
+Therefore,weusedthePDMSmold,whosesurfaceisanegativecharge,to
+patches fabricated in this study were observed using a JSM-7500F
+easilypeeloffthePCLpatches.Inaddition,heatandpressureappliedin
+microscope (Oxford, UK) at an acceleration voltage of 15.0kV and an
+thefabricationprocesstofabricatethenanotopographicalPCLpatchcan
+average working distance of 8.8mm. The samples were coated with
+easilycausedamagetothesiliconwafermastermold.Thislimitationdoes
+platinum prior to morphological observation. Chemical characteristics of
+not guarantee reproducibility to fabricate a large number of the
+plasma-treatedﬂatpatchesandplasma-treatednanotopographicpatches
+nanotopographical PCL patches for various experiments. Therefore, to
+maintain reproducibility of the original nanostructure by minimizing were analyzed to conﬁrm their chemical variation. The chemical bond
+damages,amothermoldswerefabricatedwithPDMSandPUA,andthen structures were examined by FT-IR (Spectrum 400, USA). The surface
+thenanotopographicalPCLpatcheswereindirectlyfabricatedusingit. chemical composition was analyzed using XPS (K-ALPHA+, Thermo
+The detailed methods have already been reported by our group27. A Scientiﬁc,USA).TheXPSsurveyspectrawererecordedusingamonochro-
+dropletofultraviolet(UV)-curablepolyurethaneacrylate(PUA)(Changsung maticAlKαsource(1486.67eV)withaspotsizeof200µmandanelectron
+Sheet.,Korea)precursorsolutionwithaphotoinitiatorwasdroppedontoa take-offangleof90°.Thetypicalbasepressurewasbelow2×10−9mbar.
+silicon master mold, on which nanosized (800nm) linear grooves and Survey spectra were recorded in the range of 0–1350.0eV with a pass
+ridgeswereetchedusingconventionalphotolithographyandreactiveion energy of 200eV, step size of 1.0eV, and dwell time of 10.0ms. The
+etching. The mold was then uniformly covered with a transparent poly mechanicalproperties(i.e.,stressandstrain)ofthepatches(width:12mm
+(ethyleneterephthalate)(PET;SKC,Korea)ﬁlmutilizingcapillaryforce.After andlength:20mm)weremeasuredusinganMCT-1150tensiletester(A&D
+themastermoldwasexposedtoUVlight(λ=352nm,40w)for60s,the Company,Japan)atacrossheadspeedof100mm/min.Thesampleswere
+cured nanopatterned PUA replica was peeled off from the master mold analyzedbyapplyingloadalongthedirectionofalignednanotopography.
+usingtweezersandagainexposedtoUVlightovernighttoeliminateany
+The sample was measured at a crosshead distance of 10mm from the
+residual reactive acrylate groups. First, the nanopatterned PUA mother
+centerofthesample.
+moldwasattachedtoaPetridishwiththenanotopographicsurfacefacing
+up. A polydimethyl siloxane (PDMS) pre-polymer (Sylgard 184 Silicon
+elastomer,DowCorning,USA)wasmixedwitha10%curingagent,poured Watercontact angle measurements
+ontothenanopatternedPUAmothermoldina Petridishto asufﬁcient Thestaticwatercontactangleofliquidswasmeasuredusingcustomized
+thickness (~1cm), and baked at 70°C for at least 6h to ensure curing camera systems with a Computer M1214-MP2 2/3” Fixed Lens and
+withoutanyresidueformation.ThecurednanopatternedPDMSmold(800-
+analyzedusingtheImageJsoftware.N-FFandN-FNpatchestreatedfor0,
+nmridgesandgrooves)wasthenpeeledofffromthePUAmothermoldin
+1,5,10,20,and30minwereanalyzed,andO-FFandO-FNpatchestreated
+tchoempPeartirsiodni,sah.ﬂTatosiflaicbornicawteafethrewaﬂseaxtibtalechﬂeadtto(FFth)epPaetcthridaisshawciothnttrhoelﬂfoart for 30min were analyzed. For each measurement, 10μL of water was
+dropped onto thesurfaceoraperiod of1min.Thewatercontactangle
+surfacefacingup.Similartothefabricationprotocolofthenanopatterned
+was measured as a tangent to the droplet interface of the patch.
+PDMSmold,thesamePDMSpre-polymerwasmixedwiththe10%curing
+agent, poured onto the ﬂat silicon wafer in the Petri dish to a sufﬁcient Measurements were repeated and averaged at least ﬁve times for each
+thickness (~1cm), and baked at 70°C for at least 6h to ensure curing sample.Allexperimentswereperformedatroomtemperature.
+withoutanyresidueformation.Thecuredﬂat-patternedPDMSmoldwas
+thenpeeledofffromtheﬂatsiliconwaferinthePetridish. Isolationand cultureoftenocytes
+PCL pellets (Mw: 80,000; Sigma-Aldrich, USA) were dissolved in
+The detailed methods have already been reported by our group27. The
+dichloromethaneusing a magnetic stirrer, and a PCL solution of 18wt%
+tendon tissue samples were collected from the supraspinatus tendon of
+(wt/wt)indichloromethane(DaejungChemicals&MaterialsCo.,Ltd,Korea)
+was prepared. A thin PCL patch was fabricated by spin-coating the PCL patientsduringarthroscopicrotatorcuff(RC)repairsurgeryafterobtaining
+solutionthatwaspouredintoa1.5-mmcircularglassonthevacuumcuck informedconsentfrompatientsatChonnamNationalUniversityMedical
+ofthespincoater.Thespin-coatingconditionwasasfollows:rotatorspeed Schooland ChonnamNationalUniversityHospital (CNUH-2013-065). The
+of 3500rpm, duration of 120s, and acceleration time of 5s. First, we tendon tissue samples were washed with phosphonate-buffered saline
+fabricatedtheFFpatchasacontrolgroupbecausethesurfaceofthespin- (PBS;Sigma-Aldrich,USA),cutintosmallpieces,anddigestedwith3mg/ml
+coatedPCLpatchhasirregularroughnessthatlimitsthefabricationofan collagenase(Sigma-Aldrich,USA)inDulbecco’smodiﬁedEagle’smedium
+FNpatch.ThefabricatedthinPCLpatchwasplacedontothesiliconwafer (DMEM; Cellgro, USA) at 37°C for 16h. After enzymatic digestion, equal
+substrateface-uptomeltthePCLlayeronahotplatefor60sat80°C.The volumes of DMEM were added to quench the collagenase and ﬁltered
+ﬂat-patternedPDMSmoldwasplacedandembossedontothepre-melted through cell strainers (70-μm mesh). The ﬁltered cell suspension was
+PCLlayerbyapplyingpressurewithsmoothﬁngerforcewhileheatingat centrifugedat1500rpmfor5min.Thecellpelletswereresuspendedand
+80°Cfor2min.Afterthethermalimprintingprocess,theassemblyofthe culturedinDMEMlow-glucose(Cellgro,USA)supplementedwith10%fetal
+PCLlayeroncircularglassandPDMSmoldswascooledat25°Cfor30min, bovineserum(FBS;Cellgro,USA))and1%penicillin-streptomycin(GenDE-
+andthePDMSmoldwaspeeledofffromthePCLlayeronthecircularglass,
+POT,Houston,TX,USA)at37°Cina5%CO atmosphere.Themediumwas
+resultinginanFFpatch.Andthen,FFpatcheswereusedtofabricateFN changedevery3days.Allcellsusedinthi2sworkwereatpassages4–6.
+patches.ThefabricationprocessoftheFNpatchisalmostsimilartothatof
+FFpatch,exceptthatitusesananopatternPDMSmold.Inthisstudy,all
+patches were separated from the circular glass by washing with 70% Cellattachment andproliferation analysis
+ethanolforimplantationintheinvivostudy. Tenocytes (1×104 cells/samples) were seeded onto the samples and
+culturedfor6h,3days(cellproliferation),and5daysinDMEMcontaining
+Plasmamodiﬁcation 10% FBS and 1% antibiotics (Cellgro, USA) at 37°C in a humidiﬁed
+The fabricated FF and FN patches were washed with ethanoland dried. atmospherecontaining5%CO2.Quantitativeanalysisofcellproliferation
+Surface treatment of patches was carried out using a CUTE-1MP (Femto on the samples was performed using a WST-1 assay (Premix WST-1 Cell
+Science,Korea)low-pressureplasmasystem.Beforeprocessing,theempty ProliferationAssaySystem,TakaraBioInc.,Kusatsu,Japan).Toconﬁrmcell
+chamber was cleaned for 5min with O gas plasma (30W generation attachment,thepatcheswerewashedusingPBStoremoveanycellsnot
+2
+power,60sccmgasﬂowrate,and5.52e−1Torrpressure).N andO gas attached to the scaffolds prior to quantitative analysis using the WST-
+2 2
+plasmatreatmentswereperformedfor1min,5min,10min,20min,and 1assay.
+npjRegenerativeMedicine(2021)   52  PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute
+
+NEW PAGE
+
+W.Kimetal.
+11
+Osteogenic mineralization analysis supraspinatus tendon of both shoulders of each rat was harvested.
+Tenocytes(4×104cells/sample)wereculturedfor14daysonsamplesin Specimens were ﬁxed in neutral buffered 10% formalin (pH 7.4) and
+osteogenic differentiation medium (100nM dexamethasone, 50μM decalciﬁed with Calci-Clear Rapid (National Diagnostics, Atlanta) for
+ascorbicacid,and10mMglycerol2-phosphateinnormalmedia).Alizarin 2 weeks, and parafﬁn blocks were made in the repair site including
+Red S (Sigma-Aldrich, USA) stainingwas used to conﬁrm the osteogenic supraspinatus tendon and greater tuberosity. Sections (4μm thickness)
+differentiation(accordingtothedegreeofmineralization)oftenocyteson were cut in the coronal plane and stained with H&E and Masson’s
+sample surfaces. The stained cells were de-stained with cetylpyridinium trichrome.Weassessedcellularity,collagenﬁbercontinuity,orientation,
+chloride(Sigma-Aldrich,USA),andtheextractedsolutionsweremeasured density,andmaturationofthetendontotheboneinterface,andwealso
+usinganabsorbancereader(iMarkTMMicroplateAbsorbanceReader,Bio- evaluatedtheinﬂammationratearoundthepatchatthetendon-to-patch
+Rad,Hercules,CA,USA)at595nmtoquantifytheosteogenicdifferentia- interface. Images were captured and acquired using an Aperio Image-
+tionoftenocytes. Scope (Leica, CA, USA) software. General histological evaluation was
+performed with hematoxylin and eosin (×200 magniﬁcation), Masson’s
+trichrome(×200magniﬁcation),andPicrosiriusred(×100magniﬁcation)
+Invivo animalstudy stained slides of chronic RC tear animal models. The slides were
+The detailed methods have already been reported by our group27. The evaluated using the semiquantitative grading scale of Bonar score,
+animal study was approved by the Ethics Committee of Chonnam which assesses four variables (cell morphology, ground substance,
+National University Medical School and Chonnam National University collagenarrangement,andvascularity)ofthetendontoboneinterfaces.
+Hospital (CNUHIACUC-18013). Sprague-Dawley rats weighing 350–450g A four-point scoring system is used, where 0 indicates a normal
+pergroupwereequallydividedintotheFFpatchgroup,FNpatchgroup, appearance and 3 a markedly abnormal appearance (Supplementary
+N-FFpatchgroup,N-FNpatchgroup,O-FFpatchgroup,andO-FMN.The Table1)71–73.Thetotalhistologicalscoresforeachgroupwerecalculated
+N-FF,O-FF,N-FN,andO-FMNpatchestreatedfor30mineachwereused from the sum of these four characteristic grades. Four sections were
+foranimalstudy.Theratswerefullyanesthetizedwithanintramuscular randomlyselectedfromeachgroupandwereevaluatedblindlybythree
+injection of 35mg/kgketamine (YouhanCorporation,Seoul,Korea) and independentassessors.Theaveragescorewasusedforcomparison.The
+5mg/kgxylazinehydrochloride(Rompun;BayerHealthCare,Korea).Both calvarial bone tomography was performed using Skyscan001172 (Sky-
+shouldersofeachratwereshavedanddisinfectedwithpovidone-iodine scan, Konitch, Belgium) micro-computed tomography (Micro-CT) at a
+(Firson,Korea),andtheanimalswereplacedinalateralpositionwiththe resolutionof 11.38pixelsandexposuretimeof 316ms,withanenergy
+forelimbsinadductionandexternalrotation.A2.0-cmskinincisionwas source of 80kV and current of 124µA. An average of 488 slices of
+made over the scapulohumeral joint, subcutaneous tissues were calvarial bone was scanned. The Micro-CT images were analyzed using
+dissected,andtheomotransverseandtrapeziusmuscleswereretracted MIMICS14.03Dimagingsoftware(Materialise’sInteractiveMedicalImage
+to expose the supraspinatus tendon (located superior to the scapular Control System, Leuven, Belgium). The calvarial bone specimens were
+spine).TheacuteRCmodelwasestablishedbythesharpreleaseofthe ﬁxedin10%formalinanddecalciﬁedina0.5MEDTA(pH7.4)solutionat
+supraspinatus tendon at the greater tuberosity of the humerus over a room temperature for 7 days. After the specimens were embedded in
+5mm width, and surgical RC repair was performed immediately after parafﬁn,cutinto5-µm-thicksections.Andthen,theywerestainedwith
+creating the supraspinatus tendon tear. The torn supraspinatus tendon H&E.ImageswereobtainedbytheAperioImagesScope(Leica,CA,USA)
+wasrepairedwith2.0Ticron(Tyco, Waltham)inatransosseousmanner software.
+aftercreatingableedingbedatthefootprintofthe greatertuberosity.
+Twobonetunnelswerecreatedatthearticularmarginofthefootprintto Statistical analysis
+the lateral humeral cortex. The suture was passed through the bone
+All quantitative data are presented as the mean±standard deviation.
+tunnels and tied, and the supraspinatus tendon was reattached to the UnpairedStudent’sttestswereusedforthestatisticalanalysisofthecell
+footprint.TheFFpatch(n=3),FNpatch(n=3),N-FFpatch(n=3),N-FN
+adhesion,viability,anddifferentiationresults.Tocomparethreeormore
+patch(n=3),O-FFpatch(n=3),andO-FMNpatch(n=3)wereusedto
+conditions,aone-wayANOVAwasperformed.Pvalueoflessthan0.05was
+augmenttherepairsitebystitchingtheproximalportionofthepatchto statisticallysigniﬁcant.StatisticalanalysesoftheMicro-CTwereperformed
+thesupraspinatustendonandthedistalportionofthepatchtothesoft usingKruskal−WallistestingwithSPSSsoftware.
+tissue at the lateral portion of the proximal humerus. All patches
+(dimension: 16×24mm) were well adhered to the defect site of
+supraspinatustissueandsufﬁcientlycoveredonthetendontothebone Reporting summary
+interface of the rotator cuff. The fascia and subcutaneous tissues were FurtherinformationonresearchdesignisavailableintheNatureResearch
+sutured using interrupted 3–0 vicryl sutures (Ethicon, Johnson and ReportingSummarylinkedtothisarticle.
+Johnson, USA), and the skin was sutured with interrupted 4–0 prolene
+sutures. All rats tolerated this procedure without any intraoperative
+complications.Aftersurgery,analgesis (Trodon Inj, 1mg/ml, AjuPharm, DATAAVAILABILITY
+Korea)andantibiotic(Baytril50inj.(enroﬂoxacin),1mg/ml,Bayer,Korea)
+Alldatathatsupporttheﬁndingsofthisstudyareavailablefromthecorresponding
+were administered by intramuscular injection. The shoulders were not
+authoruponreasonablerequest.
+immobilizedpostoperatively.Ratswerehousedindividuallyandhadfree
+accesstowaterandfood.Theratsweresacriﬁced4weeksaftersurgery
+toobtaintissuesincludingthetendon,ﬁbrocartilage,andboneregionsof Received:1 February2021; Accepted: 4August 2021;
+therotatorcuff.
+Inaddition,theanimalstudywasapprovedbytheEthicsCommitteeof
+Chonnam National University. 6-week-old, male mice (C57Bl/6N) were
+assigned into four groups of four each: Defect, Nano, N-FN patch, and
+O-FMN.Themicewerefullyanesthetizedwithanintraperitonealinjection
+REFERENCES
+zoletil0.006cc/10gandrumpun0.004cc/10g,theheadswereshavedand
+disinfected. The bones were exposed by incising the skin approximately 1. Montgomery, M. et al. Flexible shape-memory scaffold for minimally invasive
+3.0cmabovethecalvariabone.Thebonedefects(diameter:5mm)were deliveryoffunctionaltissues.Nat.Mater.16,1038(2017).
+made on one side of the revealed calvarial bone using an electric drill. 2. Ribeiro, C. et al. Electroactive poly(vinylidene ﬂuoride)-based structures for
+Prepared patches (Diameter: 5mm) were placed on the calvarial bone advancedapplications.Nat.Protoc.13,681(2018).
+defect.Aftersuturingtheskinwithsutures,theambienttemperaturewas 3. Dvir,T.etal.Nanowiredthree-dimensionalcardiacpatches.Nat.Nanotechnol.6,
+raised,andmicewerewakedupfromanesthesia.Themiceweresacriﬁced 720(2011).
+3and6weeksaftersurgerytoobtaintissuesincludingthedefectregion 4. Kim, H. et al. Flexible elastomer patch with vertical silicon nanoneedles for
+andthecalvarialbone. intracellularandintratissuenanoinjectionofbiomolecules.Sci.Adv.4,eaau6972
+(2018).
+5. O’brien, F. J. Biomaterials & scaffolds for tissue engineering. Mater. today 14,
+Histological observations andevaluation 88–95(2011).
+The detailed methods have already been reported by our group27. The 6. Park,S.etal.Hydrogelnanospikepatchasaﬂexibleanti-pathogenicscaffoldfor
+proximal humerus including the greater tuberosity head with attached regulatingstemcellbehavior.ACSNano13,11181–11193(2019).
+PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute npjRegenerativeMedicine(2021)   52 
+
+NEW PAGE
+
+W.Kimetal.
+12
+7. Jangho,K.etal.Directionalmatrixnanotopographywithvariedsizesforengi- 40. Kim,H.N.etal.Patterningmethodsforpolymersincellandtissueengineering.
+neeringwoundhealing.Adv.Healthc.Mater.6,1700297(2017). Ann.Biomed.Eng.40,1339–1355(2012).
+8. Seo,J.etal.Multiscalereverseengineeringofthehumanocularsurface.Nat. 41. Gross,R.A.&Kalra,B.Biodegradablepolymersfortheenvironment.Science297,
+Med.25,1310–1318(2019). 803–807(2002).
+9. Moroni,L.etal.Biofabricationstrategiesfor3Dinvitromodelsandregenerative 42. Mouw,J.K.,Ou,G.&Weaver,V.M.Extracellularmatrixassembly:amultiscale
+medicine.Nat.Rev.Mater.3,21–37(2018). deconstruction.Nat.Rev.Mol.CellBiol.15,771(2014).
+10. Wegst,U.G.K.,Bai,H.,Saiz,E.,Tomsia,A.P.&Ritchie,R.O.Bioinspiredstructural 43. Du,Y.,Guo,J.L.,Wang,J.,Mikos,A.G.&Zhang,S.Hierarchicallydesignedbone
+materials.Nat.Mater.14,23(2014). scaffolds: from internal cues to external stimuli. Biomaterials 218, 119334
+11. Hussey,G.S.,Dziki,J.L.&Badylak,S.F.Extracellularmatrix-basedmaterialsfor (2019).
+regenerativemedicine.Nat.Rev.Mater.3,159–173(2018). 44. Kim,J.etal.Synergisticeffectsofnanotopographyandco-culturewithendo-
+12. Kim,S.etal.Synergisticeffectsofgelatinandnanotopographicalpatternson thelial cells on osteogenesis of mesenchymal stem cells. Biomaterials 34,
+biomedicalPCL patches for enhanced mechanical and adhesion properties. J. 7257–7268(2013).
+MechanicalBehav.Biomed.Mater.114,104167(2020). 45. Kim,H.N.,Hong,Y.,Kim,M.S.,Kim,S.M.&Suh,K.-Y.Effectoforientationanddensity
+13. Tay, C. Y., Irvine, S. A., Boey, F. Y., Tan, L. P. & Venkatraman, S. Micro‐/nano‐ ofnanotopographyindermalwoundhealing.Biomaterials33,8782–8792(2012).
+engineeredcellularresponsesforsofttissueengineeringandbiomedicalappli- 46. Morgan,K.Y.etal.Multi‐materialtissueengineeringscaffoldwithhierarchical
+cations.Small7,1361–1378(2011). porearchitecture.Adv.Funct.Mater.26,5873–5883(2016).
+14. Bae, W.-G. et al. Bio-inspired conﬁgurable multiscale extracellular matrix-like 47. Orr,S.B.etal.Alignedmultilayeredelectrospunscaffoldsforrotatorcufftendon
+structuresforfunctionalalignmentandguidedorientationofcells.Biomaterials tissueengineering.ActaBiomaterialia24,117–126(2015).
+69,158–164(2015). 48. Zhu,C.,Pongkitwitoon,S.,Qiu,J.,Thomopoulos,S.&Xia,Y.Designandfabri-
+15. Kim,J.,Kim,H.N.,Lang,Y.&Pandit,A.Biologicallyinspiredmicro-andnanoen- cation of a hierarchically structured scaffold for tendon‐to‐bone repair. Adv.
+gineering systems for functional and complex tissues. Tissue Eng. Part A 20, Mater.30,1707306(2018).
+2127–2130(2014). 49. Jayasree,A.etal.Bioengineeredbraidedmicro–nano(multiscale)ﬁbrousscaf-
+16. Mitrousis,N.,Fokina,A.&Shoichet,M.S.Biomaterialsforcelltransplantation.Nat. foldsfortendonreconstruction.ACSBiomater.Sci.Eng.5,1476–1486(2019).
+Rev.Mater.3,441–456(2018). 50. Guo, L. J. Nanoimprint lithography: methods and material requirements. Adv.
+17. Kim,J.etal.Multiscalepatternedtransplantablestemcellpatchesforbonetissue Mater.19,495–513(2007).
+regeneration.Biomaterials35,9058–9067(2014). 51. Park, S. et al. Controlled extracellular topographical and chemical cues for
+18. Kim,J.etal.Engineeringstructuresandfunctionsofmesenchymalstemcellsby accelerationofneuronaldevelopment.J.Ind.Eng.Chem.61,65–70(2018).
+suspendedlarge-areagraphenenanopatterns.2DMater.3,035013(2016). 52. Jeon,H.,Lee,J.,Lee,H.&Kim,G.H.NanostructuredsurfaceofelectrospunPCL/
+19. Ma,P.X.Biomimeticmaterialsfortissueengineering.Adv.DrugDeliv.Rev.60, dECM ﬁbres treated with oxygen plasma for tissue engineering. Rsc Adv. 6,
+184–198(2008). 32887–32896(2016).
+20. Wegst,U.G.,Bai,H.,Saiz,E.,Tomsia,A.P.&Ritchie,R.O.Bioinspiredstructural 53. Hasirci,V.,Tezcaner,A.,Hasirci,N.&Suzer,S.Oxygenplasmamodiﬁcationofpoly
+materials.Nat.Mater.14,23(2015). (3-hydroxybutyrate-co-3-hydroxyvalerate) ﬁlm surfaces for tissue engineering
+21. Kim,W.,Park,S.,Gwon,Y.,Kim,H.N.&Kim,J.Heatandpressure-assistedsoft purposes.J.Appl.Polym.Sci.87,1285–1289(2003).
+lithographyforsize-tunablenanoscalestructures.MaterialsLetters299,130064 54. Kim, Y. & Kim, G. Highly roughened polycaprolactone surfaces using oxygen
+(2021). plasma-etchingandinvitromineralizationforbonetissueregeneration:Fabri-
+22. Bae,W.G.etal.25thanniversaryarticle:scalablemultiscalepatternedstructures cation,characterization,andcellularactivities.ColloidsSurf.B-Biointerfaces125,
+inspiredbynature:theroleofhierarchy.Adv.Mater.26,675–700(2014). 181–189(2015).
+23. Agarwal,S.,Wendorff,J.H.&Greiner,A.Useofelectrospinningtechniquefor 55. Morent, R., De Geyter, N., Desmet, T., Dubruel, P. & Leys, C. Plasma surface
+biomedicalapplications.Polymer49,5603–5621(2008). modiﬁcation of biodegradable polymers: a review. Plasma Process. Polym. 8,
+24. Liang,D.,Hsiao,B.S.&Chu,B.Functionalelectrospunnanoﬁbrousscaffoldsfor 171–190(2011).
+biomedicalapplications.Adv.DrugDeliv.Rev.59,1392–1412(2007). 56. Ghorbani, F. & Zamanian, A. Oxygen-plasma treatment-induced surface engi-
+25. Pina,S.,Oliveira,J.M.&Reis,R.L.Natural‐basednanocompositesforbonetissue neering of biomimetic polyurethane nanoﬁbrous scaffolds for gelatin-heparin
+engineering and regenerative medicine: a review. Adv. Mater. 27, 1143–1169 immobilization.E-Polym.18,275–285(2018).
+(2015). 57. Roh,H.-S.etal.AdditionofMgOnanoparticlesandplasmasurfacetreatmentof
+26. Kim, H. N. et al. Nanotopography-guided tissue engineering and regenerative three-dimensional printed polycaprolactone/hydroxyapatite scaffolds for
+medicine.Adv.DrugDeliv.Rev.65,536–558(2013). improvingboneregeneration.Mater.Sci.Eng.:C.74,525–535(2017).
+27. Kim,W.etal.Tendon-inspirednanotopographicscaffoldfortissueregeneration 58. Shah,A.,Shah,S.,Mani,G.,Wenke,J.&Agrawal,M.Endothelialcellbehaviouron
+inrotatorcuffinjuries.ACSOmega5,13913–13925(2020). gas‐plasma‐treatedPLAsurfaces:therolesofsurfacechemistryandroughness.J.
+28. Kleiner,D.M.Humantendons:anatomy,physiologyandpathology.J.Athl.Train. TissueEng.Regen.Med.5,301–312(2011).
+33,185(1998). 59. Hanson,A.D.,Wall,M.E.,Pourdeyhimi,B.&Loboa,E.G.Effectsofoxygenplasma
+29. Kannus,P.Structureofthetendonconnectivetissue.Scand.J.Med.Sci.sports10, treatmentonadipose-derivedhumanmesenchymalstemcelladherencetopoly
+312–320(2000). (L-lacticacid)scaffolds.J.Biomater.Sci.-Polym.Ed.18,1387–1400(2007).
+30. Trantidou,T.,Elani,Y.,Parsons,E.&Ces,O.Hydrophilicsurfacemodiﬁcationof 60. Bagherzadeh,R.,Latiﬁ,M.&Kong,L.X.Three-dimensionalporestructureanalysis
+PDMSfordropletmicroﬂuidicsusingasimple,quick,androbustmethodviaPVA of polycaprolactone nano-microﬁbrous scaffolds using theoretical and experi-
+deposition.Microsyst.nanoengineering3,1–9(2017). mentalapproaches.J.Biomed.Mater.Res.PartA102,903–910(2014).
+31. Hegemann,D.etal.Suppressionofhydrophobicrecoverybyplasmapolymer 61. Keivani,F.etal.Engineeredelectrospunpoly(caprolactone)/polycaprolactone-g-
+ﬁlmswithverticalchemicalgradients.Langmuir32,651–654(2016). hydroxyapatitenano-ﬁbrousscaffoldpromoteshumanﬁbroblastsadhesionand
+32. Jiang, L. et al. Surface wettability of oxygen plasma treated porous silicon. J. proliferation.Mater.Sci.Eng.C.-Mater.Biol.Appl.68,78–88(2016).
+Nanomater.2014,8(2014). 62. Sun,Y.Y.etal.Asyntheticbridgingpatchofmodiﬁedco-electrospundualnano-
+33. Qin,T.-W.etal.Effectofmechanicalstimulationonbonemarrowstromalcell- scaffoldsformassiverotatorcufftear.J.Mater.Chem.B4,7259–7269(2016).
+seededtendonsliceconstructs:apotentialengineeredtendonpatchforrotator 63. Lipner,J.etal.Invivoevaluationofadipose-derivedstromalcellsdeliveredwitha
+cuffrepair.Biomaterials51,43–50(2015). nanoﬁberscaffoldfortendon-to-bonerepair.TissueEng.PartA21,2766–2774
+34. Smith,R.etal.Theresponseoftenocytestocommercialscaffoldsusedforrotator (2015).
+cuffrepair.eCellsandMaterialsJ.30,107–118(2016). 64. Domingos, M. et al. Improved osteoblast cell afﬁnity on plasma-modiﬁed 3-D
+35. Mahmoudi,M.etal.Multiscaletechnologiesfortreatmentofischemiccardio- extrudedPCLscaffolds.ActaBiomaterialia9,5997–6005(2013).
+myopathy.Nat.Nanotechnol.12,845(2017). 65. Zhao,S.etal.Ahierarchical,stretchableandstiffﬁbrousbiotemplateengineered
+36. Teo, A. J. et al. Polymeric biomaterials for medical implants and devices. ACS usingstagger-electrospinningforaugmentationofrotatorcufftendon-healing.J.
+Biomater.Sci.Eng.2,454–472(2016). Mater.Chem.B3,990–1000(2015).
+37. Garg, T. & Goyal, A. K. Biomaterial-based scaffolds–current status and future 66. Chainani, A. et al. Multilayered electrospun scaffolds for tendon tissue engi-
+directions.ExpertOpin.DrugDeliv.11,767–789(2014). neering.TissueEng.PartA19,2594–2604(2013).
+38. Baik,S.etal.Bioinspiredadhesivearchitectures:fromskinpatchtointegrated 67. Chu, P.K.,Chen,J.,Wang,L.&Huang, N.Plasma-surface modiﬁcationofbio-
+bioelectronics.Adv.Mater.31,1803309(2019). materials.Mater.Sci.Eng.:R:Rep.36,143–206(2002).
+39. Middleton,J.C.&Tipton,A.J.Syntheticbiodegradablepolymersasorthopedic 68. Peach,M.S.etal.Engineeredstemcellnichematricesforrotatorcufftendon
+devices.Biomaterials21,2335–2346(2000). regenerativeengineering.PLoSONE12,e0174789(2017).
+npjRegenerativeMedicine(2021)   52  PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute
+
+NEW PAGE
+
+W.Kimetal.
+13
+69. Sevivas,N.etal.Mesenchymalstemcellsecretomeimprovestendoncellviability COMPETINGINTERESTS
+invitroandtendon-bonehealinginvivowhenatissueengineeringstrategyis J.K. is named on patents that describe the use of multiscale platforms as the
+usedinaratmodelofchronicmassiverotatorcufftear.Am.J.SportsMed.46, scaffolds for tissue regeneration. The authors declare the following ﬁnancial
+449–459(2018). interests and personal relationships which may be considered as potential
+70. Kim,Y.S.,Lee,H.J.,Ok,J.H.,Park,J.S.&Kim,D.W.Survivorshipofimplanted competinginterest.
+bone marrow-derived mesenchymal stem cells in acute rotator cuff tear. J.
+ShoulderElb.Surg.22,1037–1045(2013).
+71. Cook,J.,Feller,J.,Bonar,S.&Khan,K.Abnormaltenocytemorphologyismore ADDITIONAL INFORMATION
+prevalentthancollagendisruptioninasymptomaticathletes’patellartendons.J.
+Orthop.Res.22,334–338(2004). Supplementary information The online version contains supplementary material
+availableathttps://doi.org/10.1038/s41536-021-00162-y.
+72. Fearon,A.,Dahlstrom,J.E.,Twin,J.,Cook,J.&Scott,A.TheBonarscorerevisited:
+region of evaluation signiﬁcantly inﬂuences the standardized assessment of
+tendondegeneration.J.Sci.Med.Sport17,346–350(2014). CorrespondenceandrequestsformaterialsshouldbeaddressedtoMyung-SunKim
+orJanghoKim.
+73. Khan,K.M.,Cook,J.L.,Bonar,F.,Harcourt,P.&Åstrom,M.Histopathologyof
+commontendinopathies.SportsMed.27,393–408(1999).
+Reprints and permission information is available at http://www.nature.com/
+reprints
+ACKNOWLEDGEMENTS
+Publisher’snoteSpringerNatureremainsneutralwithregardtojurisdictionalclaims
+This work was supported by the National Research Foundation of Korea (NRF) inpublishedmapsandinstitutionalafﬁliations.
+grants funded by the Korean government (NRF-2016M3A9B4919353, NRF-
+2019R1I1A3A0106345, NRF-2019M3A9H1103737, and NRF-2021M3E5E703044011).
+Thisworkwasalsosupportedbyagrant(714002-7)fromtheAgriculturalRobotics
+and Automation Research Center through the Agriculture, Food and Rural Affairs Open Access This article is licensed under a Creative Commons
+ResearchCenterSupportProgram,MinistryofAgriculture,FoodandRuralAffairs.The Attribution 4.0 International License, which permits use, sharing,
+authorsaregratefultotheCenterforResearchFacilitiesattheChonnamNational adaptation,distributionandreproductioninanymediumorformat,aslongasyougive
+Universityfortheirassistanceintheanalysisofthepropertiesofallscaffolds(FE-SEM, appropriatecredittotheoriginalauthor(s)andthesource,providealinktotheCreative
+FT-IR,XPS). Commonslicense,andindicateifchangesweremade.Theimagesorotherthirdparty
+materialinthisarticleareincludedinthearticle’sCreativeCommonslicense,unless
+indicatedotherwiseinacreditlinetothematerial.Ifmaterialisnotincludedinthe
+AUTHORCONTRIBUTIONS article’sCreativeCommonslicenseandyourintendeduseisnotpermittedbystatutory
+J.K.andM.S.K.supervisedtheprojectandﬁnalapproval.W.K.,Y.G.,Y.K.K.,S.P.,S.J.K.,H. regulationorexceedsthepermitteduse,youwillneedtoobtainpermissiondirectly
+K.P,M.S.K.,andJ.K.performedsubstantialcontributionstoconceptionanddesign, fromthecopyrightholder.Toviewacopyofthislicense,visithttp://creativecommons.
+acquisitionofthedataoranalysisandinterpretationofthedata.W.K.,Y.G.,Y.K.K.,S.P., org/licenses/by/4.0/.
+andH.K.P.carriedouttheexperiments.W.K.,Y.G.,Y.K.K.,andS.P.analyzedtheresults
+ontheexperiments.W.K.,Y.G.,Y.K.K.,S.P.,S.J.K.,M.S.K.,andJ.K.discussedtheresults
+anddataindetail.W.K.,Y.G.,Y.K.K.,S.P.,M.S.K.,andJ.K.wrotethemanuscript. ©TheAuthor(s)2021
+PublishedinpartnershipwiththeAustralianRegenerativeMedicineInstitute npjRegenerativeMedicine(2021)   52 
+
+NEW PAGE
